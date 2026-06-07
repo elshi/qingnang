@@ -1,15 +1,22 @@
 # Classic Cases Database Deployment
 
 The Laravel service reads `qingnang.t_cases` through the existing `MYSQL_*`
-environment variables. Do not place database credentials in this repository.
+environment variables. The fully qualified table name means the service can
+keep its default database set to `laravel_demo`. Do not place database
+credentials in this repository.
 
 Configure the CloudRun service with:
 
 ```text
 MYSQL_ADDRESS=10.31.107.102:3306
-MYSQL_DATABASE=qingnang
 MYSQL_USERNAME=<read-only user>
 MYSQL_PASSWORD=<read-only password>
+```
+
+Set `CASES_TABLE` only when the cases table is stored elsewhere:
+
+```text
+CASES_TABLE=other_database.other_table
 ```
 
 Create the account using `cases-readonly-user.sql.example` after replacing its

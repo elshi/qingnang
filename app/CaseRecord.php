@@ -6,7 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class CaseRecord extends Model
 {
-    protected $table = 't_cases';
     protected $primaryKey = 'id';
     public $timestamps = false;
     protected $guarded = ['id'];
@@ -15,4 +14,11 @@ class CaseRecord extends Model
         'id' => 'integer',
         'confidence' => 'float',
     ];
+
+    public function __construct(array $attributes = [])
+    {
+        parent::__construct($attributes);
+
+        $this->setTable(config('database.cases_table'));
+    }
 }

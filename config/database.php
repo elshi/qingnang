@@ -6,6 +6,8 @@ $mysqlAddress = explode(':', (string) env('MYSQL_ADDRESS', '127.0.0.1:3306'), 2)
 
 return [
 
+    'cases_table' => env('CASES_TABLE', 'qingnang.t_cases'),
+
     /*
     |--------------------------------------------------------------------------
     | Default Database Connection Name
