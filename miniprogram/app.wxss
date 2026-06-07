@@ -127,3 +127,53 @@ page .classic-page .search-box input,
 page .classic-page .meridian-search input {
   font-size: 25rpx;
 }
+
+/* List typography is enlarged by 20%; the previous smallest type size stays unchanged. */
+page .case-list .case-card__title,
+page .entity-list .entity-title,
+page .book-list .book-title,
+page .formula-list .formula-title,
+page .simple-list .simple-title {
+  font-size: 36rpx;
+}
+
+page .case-list .case-card__content,
+page .case-list .filter-bar,
+page .case-list .state-block,
+page .entity-list .state-block,
+page .book-list .book-summary,
+page .formula-list .formula-summary,
+page .simple-list .simple-copy,
+page .overview-list .meridian-summary,
+page .classic-page .empty-state {
+  font-size: 29rpx;
+}
+
+page .case-list .case-card__symptoms--empty {
+  font-size: 29rpx;
+}
+
+page .entity-list .entity-group__title {
+  font-size: 29rpx;
+}
+
+page .case-list .result-head {
+  font-size: 21rpx;
+}
+
+page .overview-list .meridian-title {
+  font-size: 37rpx;
+}
+
+page .acupoint-grid .acupoint-name {
+  font-size: 35rpx;
+}
+
+page .book-list .empty-title,
+page .formula-list .empty-title {
+  font-size: 35rpx;
+}
+
+page .classic-page .section-head {
+  font-size: 36rpx;
+}

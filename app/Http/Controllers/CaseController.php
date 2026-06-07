@@ -204,7 +204,7 @@ class CaseController extends Controller
     {
         $value = trim((string) $value);
 
-        return mb_strlen($value) > 60 ? mb_substr($value, 0, 60) . '...' : $value;
+        return mb_strlen($value) > 40 ? mb_substr($value, 0, 40) . '...' : $value;
     }
 
     private function success($data)
