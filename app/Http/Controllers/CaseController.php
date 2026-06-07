@@ -145,6 +145,7 @@ class CaseController extends Controller
             'bookname' => $record->bookname,
             'source' => $record->bookname,
             'summary' => $this->listSummary($record),
+            'content_preview' => $this->contentPreview($record->content),
             'tags' => $this->tags($record->temp_tags),
             'confidence' => (float) $record->confidence,
         ];
@@ -190,11 +191,18 @@ class CaseController extends Controller
 
     private function tags($value): array
     {
-        $parts = preg_split('/[，,、；;]+/u', (string) $value);
+        $parts = preg_split('/[\/，,、；;]+/u', (string) $value);
         $parts = array_map('trim', $parts ?: []);
         return array_values(array_unique(array_filter($parts, function ($tag) {
             return $tag !== '';
         })));
+    }
+
+    private function contentPreview($value): string
+    {
+        $value = trim((string) $value);
+
+        return mb_strlen($value) > 100 ? mb_substr($value, 0, 100) . '...' : $value;
     }
 
     private function success($data)

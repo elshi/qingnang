@@ -40,9 +40,9 @@ class CaseApiTest extends TestCase
                 'doctor' => '张仲景',
                 'dynasty' => '东汉',
                 'bookname' => '伤寒论',
-                'content' => '太阳中风原文。',
+                'content' => str_repeat('太阳中风原文', 20),
                 'origin_symptoms' => '太阳中风，阳浮而阴弱。',
-                'temp_tags' => '太阳病，桂枝汤、太阳病',
+                'temp_tags' => '太阳病/桂枝汤、太阳病',
                 'modern_prescription' => '桂枝、芍药。',
                 'confidence' => 91.5,
                 'summary' => '调和营卫。',
@@ -100,6 +100,7 @@ class CaseApiTest extends TestCase
             ->assertJsonPath('code', 0)
             ->assertJsonPath('data.items.0.id', 3)
             ->assertJsonPath('data.items.1.id', 1)
+            ->assertJsonPath('data.items.1.content_preview', mb_substr(str_repeat('太阳中风原文', 20), 0, 100) . '...')
             ->assertJsonPath('data.has_more', true)
             ->assertJsonPath('data.total', 3);
     }
