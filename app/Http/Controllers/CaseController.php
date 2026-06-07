@@ -145,6 +145,7 @@ class CaseController extends Controller
             'bookname' => $record->bookname,
             'source' => $record->bookname,
             'symptoms' => $record->symptoms,
+            'symptom_tags' => $this->tags($record->symptoms),
             'summary' => $this->listSummary($record),
             'content_preview' => $this->contentPreview($record->content),
             'tags' => $this->tags($record->temp_tags),

@@ -179,7 +179,22 @@
 }
 
 .case-card__symptoms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9rpx;
   margin-top: 10rpx;
+}
+
+.symptom-tag {
+  padding: 3rpx 11rpx;
+  border-radius: 4rpx;
+  color: #9b6f2d;
+  background: #f2e8d7;
+  font-size: 21rpx;
+  line-height: 30rpx;
+}
+
+.case-card__symptoms--empty {
   color: #51483d;
   font-size: 23rpx;
   line-height: 1.55;

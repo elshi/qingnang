@@ -15,7 +15,10 @@
       <view wx:for="{{items}}" wx:key="id" class="case-card pressable" data-id="{{item.id}}" bindtap="openDetail">
         <view class="case-card__title">{{item.title}}</view>
         <view class="case-card__source">{{item.source || '出处未注明'}}</view>
-        <view class="case-card__symptoms">{{item.symptoms || '症状未注明'}}</view>
+        <view wx:if="{{item.symptom_tags && item.symptom_tags.length}}" class="case-card__symptoms">
+          <text wx:for="{{item.symptom_tags}}" wx:for-item="symptom" wx:key="*this" class="symptom-tag">{{symptom}}</text>
+        </view>
+        <view wx:else class="case-card__symptoms case-card__symptoms--empty">症状未注明</view>
         <view wx:if="{{item.content_preview}}" class="case-card__content">{{item.content_preview}}</view>
       </view>
       <view wx:if="{{error}}" class="state-block"><view>{{error}}</view><button class="state-action pressable" bindtap="retry">重新加载</button></view>
