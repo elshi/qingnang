@@ -1,0 +1,25 @@
+.note-input {
+  width: 100%;
+  min-height: 240rpx;
+  margin-top: 18rpx;
+  padding: 22rpx;
+  border-radius: 18rpx;
+  color: #40362b;
+  background: #fff8ed;
+  font-size: 28rpx;
+  line-height: 1.7;
+}
+
+.note-btn {
+  margin-top: 22rpx;
+  margin-right: 0;
+  margin-left: 0;
+  border-radius: 18rpx;
+  color: #fff8eb;
+  background: #b77a2c;
+  font-size: 28rpx;
+}
+
+.note-btn::after {
+  border: 0;
+}

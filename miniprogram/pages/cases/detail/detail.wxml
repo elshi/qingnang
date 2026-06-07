@@ -1,0 +1,53 @@
+<view class="detail-page page-fade">
+  <custom-nav title="医案详情" showBack="{{true}}"></custom-nav>
+  <view class="detail-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="detail-tab {{activeTab === item.key ? 'detail-tab--active' : ''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button>
+  </view>
+  <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view wx:if="{{loading}}" class="detail-state">正在加载医案...</view>
+    <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry pressable" bindtap="retry">重新加载</button></view>
+    <block wx:elif="{{item}}">
+      <block wx:if="{{activeTab === 'original'}}">
+        <view class="detail-hero">
+          <view class="detail-title">{{item.title}}</view>
+          <view class="detail-meta">{{item.dynasty || '朝代未注明'}} · {{item.doctor || '医家未注明'}} · {{item.source || '出处未注明'}}</view>
+          <view class="tag-row"><text wx:for="{{item.tags}}" wx:for-item="tag" wx:key="*this" class="case-tag">{{tag}}</text></view>
+        </view>
+        <view wx:if="{{item.diseases || item.subject || item.symptoms}}" class="detail-card">
+          <view class="detail-card__title">医案信息</view>
+          <view wx:if="{{item.diseases}}" class="detail-row"><text class="detail-label">疾病</text><text class="detail-row__value">{{item.diseases}}</text></view>
+          <view wx:if="{{item.subject}}" class="detail-row"><text class="detail-label">科目</text><text class="detail-row__value">{{item.subject}}</text></view>
+          <view wx:if="{{item.symptoms}}" class="detail-row"><text class="detail-label">症状</text><text class="detail-row__value">{{item.symptoms}}</text></view>
+        </view>
+        <view wx:if="{{item.origin_symptoms}}" class="detail-card"><view class="detail-card__title">原始症状</view><view class="detail-content">{{item.origin_symptoms}}</view></view>
+        <view wx:if="{{item.content}}" class="detail-card"><view class="detail-card__title">经典原文</view><view class="detail-content">{{item.content}}</view></view>
+      </block>
+      <block wx:else>
+        <view wx:if="{{item.analysis}}" class="detail-card detail-card--analysis-first"><view class="detail-card__title">医案解析</view><view class="detail-content">{{item.analysis}}</view></view>
+        <view wx:if="{{item.method || item.course_days}}" class="detail-card {{!item.analysis ? 'detail-card--analysis-first' : ''}}">
+          <view class="detail-card__title">治法与疗程</view>
+          <view wx:if="{{item.method}}" class="detail-content">{{item.method}}</view>
+          <view wx:if="{{item.course_days}}" class="detail-course">处方天数：{{item.course_days}}</view>
+        </view>
+        <view wx:if="{{prescriptions.length}}" class="detail-card prescription-card">
+          <view class="detail-card__title">现代处方</view>
+          <view class="learning-note">仅供中医文化学习与学术研究参考，不构成用药建议。</view>
+          <view wx:for="{{prescriptions}}" wx:key="key" wx:for-item="prescription" class="prescription-group">
+            <view wx:if="{{prescription.title}}" class="prescription-group__title">{{prescription.title}}</view>
+            <view class="prescription-table">
+              <view class="prescription-table__head">
+                <text class="prescription-table__name">名称（说明）</text>
+                <text class="prescription-table__dosage">剂量</text>
+              </view>
+              <view wx:for="{{prescription.rows}}" wx:key="key" wx:for-item="medicine" class="prescription-table__row">
+                <text class="prescription-table__name">{{medicine.displayName || '未注明'}}</text>
+                <text class="prescription-table__dosage">{{medicine.dose || '未注明'}}</text>
+              </view>
+            </view>
+          </view>
+        </view>
+      </block>
+      <view class="disclaimer">{{disclaimer}}</view>
+    </block>
+  </scroll-view>
+</view>

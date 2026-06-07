@@ -1,0 +1,72 @@
+.custom-nav {
+  position: relative;
+  z-index: 20;
+  width: 100%;
+  background: #F7F2EA;
+}
+
+.custom-nav--transparent {
+  background: transparent;
+}
+
+.custom-nav__bar {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 176rpx;
+}
+
+.custom-nav__title {
+  overflow: hidden;
+  color: #2F2419;
+  font-family: "KaiTi", "STKaiti", serif;
+  font-size: 34rpx;
+  font-weight: 700;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.custom-nav__back {
+  position: absolute;
+  left: 32rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64rpx;
+  height: 64rpx;
+}
+
+.custom-nav__search {
+  position: absolute;
+  right: 30rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 64rpx;
+  height: 64rpx;
+}
+
+.custom-nav__search image {
+  width: 32rpx;
+  height: 32rpx;
+}
+
+.custom-nav__search--emphasis {
+  right: 24rpx;
+  width: 76rpx;
+  height: 76rpx;
+}
+
+.custom-nav__search--emphasis image {
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.custom-nav__arrow {
+  width: 22rpx;
+  height: 22rpx;
+  border-bottom: 4rpx solid #2F2419;
+  border-left: 4rpx solid #2F2419;
+  transform: rotate(45deg);
+}

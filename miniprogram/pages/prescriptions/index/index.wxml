@@ -1,0 +1,39 @@
+<view class="classic-page page-fade">
+  <custom-nav title="经典处方" showBack="{{true}}"></custom-nav>
+  <view class="search-wrap">
+    <view class="search-box">
+      <image src="/assets/cases/search.png" mode="aspectFit"></image>
+      <input value="{{keyword}}" placeholder="搜索方剂、功效、主治、来源等" placeholder-class="search-placeholder" confirm-type="search" bindinput="onKeywordInput" />
+      <button wx:if="{{keyword}}" class="clear-button pressable" bindtap="clearSearch">清除</button>
+    </view>
+  </view>
+  <scroll-view class="content-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view class="section-head">
+      <view class="flame-mark"></view>
+      <text>{{keyword ? '搜索结果' : '热门方剂'}}</text>
+      <text class="result-count">{{items.length}} 方</text>
+    </view>
+    <view class="formula-list">
+      <view wx:for="{{items}}" wx:key="id" class="formula-card pressable" data-id="{{item.id}}" bindtap="openDetail">
+        <view class="formula-image-wrap"><image class="formula-image" src="{{item.image}}" mode="aspectFill"></image></view>
+        <view class="formula-copy">
+          <view class="formula-title-line">
+            <text class="formula-title">{{item.title}}</text>
+            <text wx:for="{{item.tags}}" wx:for-item="tag" wx:key="*this" class="soft-tag">{{tag}}</text>
+            <text class="formula-source">{{item.source}}</text>
+          </view>
+          <view class="formula-summary">{{item.summary}}</view>
+          <view class="formula-meta">阅读 {{item.readCount}} · {{item.efficacy}}</view>
+        </view>
+        <view class="outline-action">查看</view>
+      </view>
+      <view wx:if="{{!items.length}}" class="empty-state">
+        <text class="empty-title">未找到相关方剂</text>
+        <text class="empty-copy">试试“桂枝”“健脾”或“伤寒论”。</text>
+        <button class="reset-button pressable" bindtap="clearSearch">查看全部</button>
+      </view>
+      <view class="bottom-spacer"></view>
+    </view>
+  </scroll-view>
+  <app-tab-bar></app-tab-bar>
+</view>

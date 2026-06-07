@@ -1,0 +1,7 @@
+<view class="placeholder-page">
+  <view class="placeholder-title">{{item.title}}</view><text class="placeholder-text">{{item.source}}</text>
+  <view class="list-card"><view class="list-card-title">组成</view><view class="list-card-desc">{{item.composition}}</view></view>
+  <view class="list-card"><view class="list-card-title">方义学习</view><view class="list-card-desc">{{item.explanation}}</view></view>
+  <view class="list-card"><view class="list-card-title">说明</view><view class="list-card-desc">{{item.summary}}</view></view>
+  <view class="disclaimer">{{disclaimer}}</view>
+</view>

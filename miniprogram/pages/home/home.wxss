@@ -1,0 +1,255 @@
+.home-page {
+  min-height: 100vh;
+  padding: 0 28rpx;
+  overflow: visible;
+}
+
+.home-bottom-spacer {
+  width: 100%;
+  height: calc(165rpx + env(safe-area-inset-bottom));
+}
+
+.hero-design {
+  display: block;
+  width: 750rpx;
+  margin-left: -28rpx;
+}
+
+.search-box {
+  display: flex;
+  align-items: center;
+  width: 654rpx;
+  height: 98rpx;
+  margin: 0 auto;
+  padding: 0 36rpx;
+  border: 1rpx solid rgba(229, 218, 201, 0.72);
+  border-radius: 49rpx;
+  background: rgba(255, 254, 251, 0.96);
+  box-shadow: 0 11rpx 25rpx rgba(93, 65, 31, 0.08);
+}
+
+.search-icon {
+  position: relative;
+  flex: 0 0 auto;
+  width: 31rpx;
+  height: 31rpx;
+  margin-right: 29rpx;
+  border: 3rpx solid #65625e;
+  border-radius: 50%;
+}
+
+.search-icon::after {
+  position: absolute;
+  right: -11rpx;
+  bottom: -8rpx;
+  width: 16rpx;
+  height: 3rpx;
+  border-radius: 3rpx;
+  background: #65625e;
+  transform: rotate(45deg);
+  content: "";
+}
+
+.search-input {
+  flex: 1;
+  height: 98rpx;
+  color: #30271d;
+  font-size: 28rpx;
+}
+
+.search-placeholder {
+  color: #706d69;
+}
+
+.clear-button {
+  width: 68rpx;
+  height: 46rpx;
+  border-radius: 23rpx;
+  color: #a87531;
+  background: #f4eadc;
+  font-size: 20rpx;
+  line-height: 46rpx;
+}
+
+.entry-panel {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18rpx;
+  width: 694rpx;
+  margin: 63rpx auto 0;
+  padding: 20rpx;
+  border: 1rpx solid rgba(235, 224, 207, 0.72);
+  border-radius: 28rpx;
+  background: rgba(255, 254, 251, 0.92);
+  box-shadow: 0 12rpx 32rpx rgba(94, 70, 37, 0.08);
+}
+
+.entry-card {
+  position: relative;
+  height: 295rpx;
+  overflow: hidden;
+  border-radius: 22rpx;
+}
+
+.entry-card--prescription,
+.entry-card--meridian {
+  height: 281rpx;
+}
+
+.entry-card-image {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.quote-card {
+  width: 694rpx;
+  margin: 19rpx auto 0;
+  padding: 22rpx 39rpx 18rpx;
+  border: 1rpx solid rgba(237, 224, 204, 0.72);
+  border-radius: 22rpx;
+  background-color: rgba(246, 235, 218, 0.82);
+  background-image: url("/assets/common/card-texture.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.quote-text,
+.quote-source {
+  color: #694a24;
+  font-family: "KaiTi", "STKaiti", serif;
+  font-size: 26rpx;
+  line-height: 1.7;
+}
+
+.quote-source {
+  display: block;
+  margin-top: -2rpx;
+  text-align: right;
+}
+
+.daily-card {
+  width: 694rpx;
+  margin: 19rpx auto 0;
+  padding: 28rpx 22rpx 24rpx;
+  border: 1rpx solid rgba(235, 224, 207, 0.72);
+  border-radius: 25rpx;
+  background: rgba(255, 254, 251, 0.92);
+  box-shadow: 0 10rpx 28rpx rgba(94, 70, 37, 0.06);
+}
+
+.daily-content {
+  display: flex;
+  align-items: center;
+  gap: 18rpx;
+  margin-top: 22rpx;
+  padding: 25rpx 31rpx;
+  border-radius: 18rpx;
+  background: linear-gradient(110deg, #faf2e7, #f3e4ce);
+}
+
+.daily-copy {
+  flex: 1;
+  min-width: 0;
+}
+
+.daily-quote {
+  display: block;
+  color: #372b1e;
+  font-size: 26rpx;
+  line-height: 1.6;
+}
+
+.daily-source {
+  display: block;
+  margin-top: 10rpx;
+  color: #5e4d39;
+  font-size: 23rpx;
+}
+
+.study-button {
+  flex: 0 0 121rpx;
+  height: 61rpx;
+  border-radius: 16rpx;
+  color: #fffaf1;
+  background: linear-gradient(135deg, #d8af70, #bd8b48);
+  font-size: 23rpx;
+  line-height: 61rpx;
+}
+
+.search-results {
+  width: 694rpx;
+  margin: 63rpx auto 0;
+  padding: 28rpx;
+}
+
+.search-results__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12rpx;
+}
+
+.result-count {
+  color: #9a8f83;
+  font-size: 24rpx;
+}
+
+.result-item {
+  display: flex;
+  gap: 18rpx;
+  padding: 24rpx 0;
+  border-bottom: 1rpx solid #efe7db;
+}
+
+.result-type {
+  flex: 0 0 72rpx;
+  height: 40rpx;
+  border-radius: 18rpx;
+  color: #b88a45;
+  background: #f4ebdd;
+  font-size: 22rpx;
+  line-height: 40rpx;
+  text-align: center;
+}
+
+.result-copy {
+  flex: 1;
+  min-width: 0;
+}
+
+.result-title {
+  display: block;
+  color: #2f2419;
+  font-size: 28rpx;
+  font-weight: 600;
+}
+
+.result-summary {
+  display: block;
+  margin-top: 8rpx;
+  color: #6d6255;
+  font-size: 24rpx;
+  line-height: 1.55;
+}
+
+.empty-state {
+  padding: 70rpx 20rpx;
+  text-align: center;
+}
+
+.empty-title,
+.empty-text {
+  display: block;
+}
+
+.empty-title {
+  color: #2f2419;
+  font-size: 28rpx;
+}
+
+.empty-text {
+  margin-top: 12rpx;
+  color: #9a8f83;
+  font-size: 24rpx;
+}

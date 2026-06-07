@@ -1,0 +1,10 @@
+<view class="placeholder-page">
+  <view class="placeholder-title">笔记</view>
+  <text class="placeholder-text">这里将保存学习笔记，可关联医案、医书章节、处方或经脉。</text>
+  <view class="note-editor list-card">
+    <view class="list-card-title">学习笔记草稿</view>
+    <textarea class="note-input" value="{{draft}}" placeholder="记录今日所学..." bindinput="onDraftInput"></textarea>
+    <button class="note-btn" bindtap="saveDraft">保存草稿</button>
+  </view>
+  <view class="disclaimer">{{disclaimer}}</view>
+</view>

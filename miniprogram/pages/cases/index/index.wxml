@@ -1,0 +1,61 @@
+<view class="case-page page-fade">
+  <custom-nav title="经典医案" showBack="{{true}}"></custom-nav>
+  <view class="category-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="category-tab {{activeTab === item.key ? 'category-tab--active' : ''}}" data-key="{{item.key}}" bindtap="selectTab">{{item.label}}</button>
+  </view>
+  <view wx:if="{{activeTab === 'all'}}" class="case-search">
+    <image src="/assets/cases/search.png" mode="aspectFit"></image>
+    <input class="case-search__input" value="{{keyword}}" placeholder="搜索医案、医家、出处或证候" placeholder-class="case-search__placeholder" bindinput="onKeywordInput" confirm-type="search" />
+    <button wx:if="{{keyword}}" class="case-search__clear pressable" bindtap="clearKeyword">清除</button>
+  </view>
+  <scroll-view class="case-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-into-view="{{entityScrollIntoView}}" lower-threshold="500" bindscrolltolower="loadMore">
+    <view wx:if="{{activeTab === 'all'}}" class="case-list">
+      <view class="result-head"><text>{{keyword || filterLabel ? '搜索结果' : '全部医案'}}</text><text class="result-count">{{total}} 条</text></view>
+      <view wx:if="{{filterLabel}}" class="filter-bar"><text>{{filterLabel}}</text><button class="filter-clear pressable" bindtap="clearFilter">查看全部</button></view>
+      <view wx:for="{{items}}" wx:key="id" class="case-card pressable" data-id="{{item.id}}" bindtap="openDetail">
+        <view class="case-card__title">{{item.title}}</view>
+        <view class="case-card__source">{{item.source || '出处未注明'}}</view>
+        <view class="case-card__symptoms">{{item.symptoms || '症状未注明'}}</view>
+        <view wx:if="{{item.content_preview}}" class="case-card__content">{{item.content_preview}}</view>
+      </view>
+      <view wx:if="{{error}}" class="state-block"><view>{{error}}</view><button class="state-action pressable" bindtap="retry">重新加载</button></view>
+      <view wx:elif="{{loading}}" class="state-block">正在加载医案...</view>
+      <view wx:elif="{{!items.length}}" class="state-block">{{keyword || filterLabel ? '未找到相关医案' : '暂无医案数据'}}</view>
+      <view wx:elif="{{!hasMore}}" class="state-block state-block--muted">已经到底了</view>
+    </view>
+    <view wx:elif="{{activeTab === 'doctor'}}" class="entity-list entity-list--indexed">
+      <view wx:for="{{doctorGroups}}" wx:key="initial" wx:for-item="group" wx:for-index="groupIndex" id="{{group.id}}" class="entity-group">
+        <view class="entity-group__title">{{group.initial}}</view>
+        <view wx:for="{{group.items}}" wx:key="name" wx:for-item="doctor" wx:for-index="itemIndex" class="entity-card pressable" data-name="{{doctor.name}}" bindtap="filterByDoctor">
+          <image class="doctor-avatar" src="{{doctor.avatar}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}" data-group-index="{{groupIndex}}" data-item-index="{{itemIndex}}" binderror="onDoctorAvatarError"></image>
+          <view class="entity-copy"><view class="entity-title">{{doctor.name}} 医案</view><view class="entity-count">共 {{doctor.case_count}} 篇</view></view>
+          <view class="entity-action">查看</view>
+        </view>
+      </view>
+      <view wx:if="{{facetError}}" class="state-block"><view>{{facetError}}</view><button class="state-action pressable" bindtap="retryFacets">重新加载</button></view>
+      <view wx:elif="{{facetLoading}}" class="state-block">正在加载医家分类...</view>
+      <view wx:elif="{{!doctors.length}}" class="state-block">暂无医家分类</view>
+    </view>
+    <view wx:else class="entity-list entity-list--indexed">
+      <view wx:for="{{sourceGroups}}" wx:key="initial" wx:for-item="group" id="{{group.id}}" class="entity-group">
+        <view class="entity-group__title">{{group.initial}}</view>
+        <view wx:for="{{group.items}}" wx:key="name" wx:for-item="source" class="entity-card source-card pressable" data-name="{{source.name}}" bindtap="filterBySource">
+          <image class="source-cover" src="{{source.cover}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}"></image>
+          <view class="entity-copy"><view class="entity-title">{{source.name}} 医案</view><view class="entity-count">共 {{source.case_count}} 篇</view></view>
+          <view class="entity-action">查看</view>
+        </view>
+      </view>
+      <view wx:if="{{facetError}}" class="state-block"><view>{{facetError}}</view><button class="state-action pressable" bindtap="retryFacets">重新加载</button></view>
+      <view wx:elif="{{facetLoading}}" class="state-block">正在加载出处分类...</view>
+      <view wx:elif="{{!sources.length}}" class="state-block">暂无出处分类</view>
+    </view>
+    <view class="tabbar-spacer"></view>
+  </scroll-view>
+  <view wx:if="{{activeTab === 'doctor' && doctorGroups.length}}" class="alphabet-nav">
+    <view wx:for="{{doctorGroups}}" wx:key="initial" class="alphabet-nav__item" data-initial="{{item.initial}}" catchtap="jumpToInitial">{{item.initial}}</view>
+  </view>
+  <view wx:elif="{{activeTab === 'source' && sourceGroups.length}}" class="alphabet-nav">
+    <view wx:for="{{sourceGroups}}" wx:key="initial" class="alphabet-nav__item" data-initial="{{item.initial}}" catchtap="jumpToInitial">{{item.initial}}</view>
+  </view>
+  <app-tab-bar></app-tab-bar>
+</view>

@@ -1,0 +1,29 @@
+<view class="tab-bar">
+  <navigator
+    wx:for="{{tabs}}"
+    wx:key="pagePath"
+    class="tab-item {{selected === index ? 'tab-item--active' : ''}} pressable"
+    url="{{item.pagePath}}"
+    open-type="switchTab"
+    hover-class="tab-item--pressed"
+    hover-stay-time="80"
+  >
+    <block wx:if="{{item.key === 'home'}}">
+      <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/tabbar/home-active.png" mode="aspectFit"></image>
+      <image wx:else class="tab-icon" src="/assets/tabbar/home-normal.png" mode="aspectFit"></image>
+    </block>
+    <block wx:elif="{{item.key === 'favorite'}}">
+      <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/tabbar/favorite-active.png" mode="aspectFit"></image>
+      <image wx:else class="tab-icon" src="/assets/tabbar/favorite-normal.png" mode="aspectFit"></image>
+    </block>
+    <block wx:elif="{{item.key === 'note'}}">
+      <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/tabbar/note-active.png" mode="aspectFit"></image>
+      <image wx:else class="tab-icon" src="/assets/tabbar/note-normal.png" mode="aspectFit"></image>
+    </block>
+    <block wx:else>
+      <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/tabbar/profile-active.png" mode="aspectFit"></image>
+      <image wx:else class="tab-icon" src="/assets/tabbar/profile-normal.png" mode="aspectFit"></image>
+    </block>
+    <text class="tab-label">{{item.text}}</text>
+  </navigator>
+</view>

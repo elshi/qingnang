@@ -1,0 +1,8 @@
+<view class="placeholder-page">
+  <view class="placeholder-title">{{item.title}}</view><text class="placeholder-text">{{item.alias[0]}} · {{item.summary}}</text>
+  <view class="list-card"><view class="list-card-title">经脉路线</view><view class="list-card-desc">{{item.route}}</view></view>
+  <view class="list-card"><view class="list-card-title">穴位</view><view class="list-card-desc">{{acupointsText}}</view></view>
+  <view class="list-card"><view class="list-card-title">主治学习</view><view class="list-card-desc">{{item.indications}}</view></view>
+  <view class="list-card"><view class="list-card-title">临证应用</view><view class="list-card-desc">{{item.application}}</view></view>
+  <view class="disclaimer">{{disclaimer}}</view>
+</view>

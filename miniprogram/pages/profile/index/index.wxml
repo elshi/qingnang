@@ -1,0 +1,13 @@
+<view class="placeholder-page">
+  <view class="placeholder-title">我的</view>
+  <text class="placeholder-text">经典中医学习工具，定位为古籍研读与学习记录，不提供诊断和治疗建议。</text>
+  <view class="list-card">
+    <view class="list-card-title">学习定位</view>
+    <view class="list-card-desc">用于整理经典医案、医书、处方和奇经八脉资料，帮助建立学习索引。</view>
+  </view>
+  <view class="list-card">
+    <view class="list-card-title">云开发状态</view>
+    <view class="list-card-desc">请在 app.js 中替换 cloudEnvId，并在微信开发者工具中配置真实 AppID。</view>
+  </view>
+  <view class="disclaimer">{{disclaimer}}</view>
+</view>

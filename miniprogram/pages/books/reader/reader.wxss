@@ -1,0 +1,30 @@
+.reader-tabs {
+  display: flex;
+  gap: 16rpx;
+  margin-top: 30rpx;
+}
+
+.reader-tab {
+  flex: 1;
+  height: 68rpx;
+  margin: 0;
+  padding: 0;
+  border-radius: 18rpx;
+  color: #6d5d48;
+  background: #f6e7cf;
+  font-size: 28rpx;
+  line-height: 68rpx;
+}
+
+.reader-tab.active {
+  color: #fff8eb;
+  background: #b77a2c;
+}
+
+.reader-tab::after {
+  border: 0;
+}
+
+.reader-content {
+  min-height: 260rpx;
+}

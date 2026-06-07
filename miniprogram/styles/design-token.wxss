@@ -1,0 +1,17 @@
+/* 青囊经典全局视觉令牌：颜色、圆角和间距均以产品规范为准。 */
+.title-serif {
+  color: #2F2419;
+  font-family: "KaiTi", "STKaiti", serif;
+}
+
+.text-body {
+  color: #6D6255;
+}
+
+.text-muted {
+  color: #9A8F83;
+}
+
+.number {
+  font-family: "Helvetica", sans-serif;
+}

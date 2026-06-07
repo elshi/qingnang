@@ -1,0 +1,9 @@
+<view class="custom-nav {{transparent ? 'custom-nav--transparent' : ''}}" style="padding-top: {{statusBarHeight}}rpx;">
+  <view class="custom-nav__bar" style="height: {{navHeight}}rpx;">
+    <view wx:if="{{showBack}}" class="custom-nav__back pressable" bindtap="goBack" aria-label="返回"><view class="custom-nav__arrow"></view></view>
+    <text wx:if="{{title}}" class="custom-nav__title">{{title}}</text>
+    <button wx:if="{{showSearch}}" class="custom-nav__search {{searchEmphasis ? 'custom-nav__search--emphasis' : ''}} pressable" bindtap="search" aria-label="搜索">
+      <image src="/assets/cases/search.png" mode="aspectFit"></image>
+    </button>
+  </view>
+</view>

@@ -1,0 +1,18 @@
+.section-heading {
+  display: flex;
+  align-items: center;
+  gap: 14rpx;
+}
+
+.section-heading__line {
+  width: 24rpx;
+  height: 2rpx;
+  background: #B88A45;
+}
+
+.section-heading__title {
+  color: #2F2419;
+  font-family: "KaiTi", "STKaiti", serif;
+  font-size: 34rpx;
+  font-weight: 700;
+}

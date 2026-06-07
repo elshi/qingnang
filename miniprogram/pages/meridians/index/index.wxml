@@ -1,0 +1,42 @@
+<view class="classic-page page-fade">
+  <custom-nav title="经络穴位" showBack="{{true}}" showSearch="{{true}}" bindsearch="focusSearch"></custom-nav>
+  <view class="category-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="category-tab {{activeTab === item.key ? 'category-tab--active' : ''}}" data-key="{{item.key}}" bindtap="selectTab">{{item.label}}</button>
+  </view>
+  <view wx:if="{{showSearch}}" class="meridian-search">
+    <image src="/assets/cases/search.png" mode="aspectFit"></image>
+    <input focus="{{searchFocused}}" value="{{keyword}}" placeholder="搜索经脉或穴位" placeholder-class="search-placeholder" bindinput="onKeywordInput" />
+    <button wx:if="{{keyword}}" bindtap="clearSearch">清除</button>
+  </view>
+  <scroll-view class="content-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view wx:if="{{activeTab === 'overview'}}" class="overview-list">
+      <view wx:for="{{items}}" wx:key="id" class="meridian-card">
+        <view class="card-head">
+          <view><view class="meridian-title">{{item.title}}</view><view class="meridian-summary">{{item.summary}}</view></view>
+          <button class="detail-button pressable" data-id="{{item.id}}" bindtap="openDetail">查看详情</button>
+        </view>
+        <view class="diagram-stage pressable" data-id="{{item.id}}" bindtap="openDetail">
+          <image class="diagram-image" src="{{item.diagram}}" mode="aspectFit"></image>
+          <view wx:for="{{item.markers}}" wx:for-item="marker" wx:key="name" class="marker" style="top:{{marker.top}}%;left:{{marker.left}}%;">
+            <view class="marker-dot"></view><view class="marker-line"></view><text>{{marker.name}}</text>
+          </view>
+        </view>
+      </view>
+    </view>
+    <view wx:elif="{{activeTab === 'meridians'}}" class="simple-list">
+      <view wx:for="{{items}}" wx:key="id" class="simple-card pressable" data-id="{{item.id}}" bindtap="openDetail">
+        <view class="simple-title">{{item.title}} · {{item.alias[0]}}</view>
+        <view class="simple-copy">{{item.route}}</view>
+        <view class="simple-action">查看经脉</view>
+      </view>
+    </view>
+    <view wx:else class="acupoint-grid">
+      <view wx:for="{{acupoints}}" wx:key="key" class="acupoint-card pressable" data-id="{{item.meridianId}}" bindtap="openDetail">
+        <view class="acupoint-name">{{item.name}}</view><view class="acupoint-source">{{item.meridianTitle}}</view>
+      </view>
+    </view>
+    <view wx:if="{{!items.length && activeTab !== 'acupoints'}}" class="empty-state"><text>未找到相关经脉或穴位</text></view>
+    <view class="bottom-spacer"></view>
+  </scroll-view>
+  <app-tab-bar></app-tab-bar>
+</view>

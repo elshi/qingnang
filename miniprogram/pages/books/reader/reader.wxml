@@ -1,0 +1,7 @@
+<view class="placeholder-page reader-page">
+  <view class="placeholder-title">{{book.title}}</view>
+  <text class="placeholder-text">{{book.dynasty}} · {{book.author}} · {{chapter.title}}</text>
+  <view class="reader-tabs"><button wx:for="{{tabs}}" wx:key="key" class="reader-tab {{activeTab == item.key ? 'active' : ''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button></view>
+  <view class="list-card reader-content"><view class="list-card-title">{{activeLabel}}</view><view class="list-card-desc">{{content}}</view></view>
+  <view class="disclaimer">{{disclaimer}}</view>
+</view>

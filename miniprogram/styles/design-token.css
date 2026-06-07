@@ -1,0 +1,20 @@
+/*
+ * 青囊经典设计令牌
+ * 微信小程序运行时使用同目录 design-token.wxss。
+ */
+:root {
+  --color-page: #F7F2EA;
+  --color-card: #FCFAF5;
+  --color-primary: #B88A45;
+  --color-title: #2F2419;
+  --color-text: #6D6255;
+  --color-muted: #9A8F83;
+  --color-border: #E9DED0;
+  --color-divider: #EFE7DB;
+  --radius-card: 24rpx;
+  --radius-button: 18rpx;
+  --radius-search: 44rpx;
+  --radius-image: 20rpx;
+  --space-page: 32rpx;
+  --space-module: 24rpx;
+}

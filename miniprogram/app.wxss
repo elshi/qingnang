@@ -1,0 +1,129 @@
+@import "./styles/design-token.wxss";
+
+page {
+  min-height: 100%;
+  color: #2F2419;
+  background-color: #F7F2EA;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+view,
+text,
+image,
+input,
+button,
+ navigator,
+scroll-view {
+  box-sizing: border-box;
+}
+
+button {
+  padding: 0;
+  border: 0;
+  background: transparent;
+  line-height: normal;
+}
+
+button::after {
+  border: 0;
+}
+
+.page-shell {
+  position: relative;
+  min-height: 100vh;
+  padding: 0 32rpx 158rpx;
+  overflow: hidden;
+  background-color: #F7F2EA;
+  background-image: url("/assets/common/paper-bg.png");
+  background-position: top center;
+  background-repeat: repeat-y;
+  background-size: 750rpx auto;
+}
+
+.paper-card {
+  border: 1rpx solid #E9DED0;
+  border-radius: 24rpx;
+  background: #FCFAF5;
+  box-shadow: 0 8rpx 24rpx rgba(0, 0, 0, 0.04);
+}
+
+.pressable {
+  transition: transform 300ms ease, opacity 300ms ease;
+}
+
+.pressable:active {
+  opacity: 0.92;
+  transform: scale(0.98);
+}
+
+.page-fade {
+  animation: page-fade-in 300ms ease both;
+}
+
+@keyframes page-fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* 内容页字号统一增强，首页视觉保持原样。 */
+page .case-page .category-tab,
+page .detail-page .detail-tab,
+page .classic-page .category-tab,
+page .classic-page .dynasty-label {
+  font-size: 27rpx;
+}
+
+page .case-page .case-card__title,
+page .case-page .entity-title,
+page .classic-page .book-title,
+page .classic-page .formula-title,
+page .classic-page .section-head,
+page .classic-page .simple-title {
+  font-size: 30rpx;
+}
+
+page .case-page .filter-bar,
+page .case-page .state-block,
+page .detail-page .detail-content,
+page .detail-page .detail-row,
+page .detail-page .detail-course,
+page .detail-page .prescription-table__head,
+page .detail-page .prescription-table__row,
+page .classic-page .book-summary,
+page .classic-page .formula-summary,
+page .classic-page .simple-copy,
+page .classic-page .meridian-summary,
+page .classic-page .empty-state {
+  font-size: 24rpx;
+}
+
+page .case-page .case-tag,
+page .case-page .case-card__source,
+page .case-page .entity-count,
+page .case-page .entity-action,
+page .detail-page .case-tag,
+page .detail-page .detail-meta,
+page .detail-page .learning-note,
+page .detail-page .disclaimer,
+page .classic-page .soft-tag,
+page .classic-page .book-meta,
+page .classic-page .formula-source,
+page .classic-page .formula-meta,
+page .classic-page .outline-action,
+page .classic-page .detail-button,
+page .classic-page .simple-action,
+page .classic-page .acupoint-source {
+  font-size: 21rpx;
+}
+
+page .detail-page .detail-card__title,
+page .detail-page .prescription-group__title,
+page .classic-page .empty-title {
+  font-size: 29rpx;
+}
+
+page .case-page .case-search,
+page .classic-page .search-box input,
+page .classic-page .meridian-search input {
+  font-size: 25rpx;
+}

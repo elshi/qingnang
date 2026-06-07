@@ -144,6 +144,7 @@ class CaseController extends Controller
             'dynasty' => $record->dynasty,
             'bookname' => $record->bookname,
             'source' => $record->bookname,
+            'symptoms' => $record->symptoms,
             'summary' => $this->listSummary($record),
             'content_preview' => $this->contentPreview($record->content),
             'tags' => $this->tags($record->temp_tags),
@@ -202,7 +203,7 @@ class CaseController extends Controller
     {
         $value = trim((string) $value);
 
-        return mb_strlen($value) > 100 ? mb_substr($value, 0, 100) . '...' : $value;
+        return mb_strlen($value) > 60 ? mb_substr($value, 0, 60) . '...' : $value;
     }
 
     private function success($data)

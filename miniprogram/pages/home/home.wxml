@@ -1,0 +1,77 @@
+<view class="page-shell home-page page-fade">
+  <image class="hero-design" src="/assets/home/hero-design.png" mode="widthFix"></image>
+
+  <view class="search-box">
+    <view class="search-icon"></view>
+    <input
+      class="search-input"
+      value="{{keyword}}"
+      placeholder="搜索医案、医书、处方、穴位等"
+      placeholder-class="search-placeholder"
+      confirm-type="search"
+      bindinput="onKeywordInput"
+    />
+    <button wx:if="{{keyword}}" class="clear-button pressable" bindtap="clearSearch">清除</button>
+  </view>
+
+  <view wx:if="{{isSearching}}" class="search-results paper-card">
+    <view class="search-results__head">
+      <section-heading title="搜索结果"></section-heading>
+      <text class="result-count number">{{searchResults.length}} 条</text>
+    </view>
+    <view
+      wx:for="{{searchResults}}"
+      wx:key="id"
+      class="result-item pressable"
+      data-type="{{item.type}}"
+      data-id="{{item.id}}"
+      data-route="{{item.route}}"
+      bindtap="openSearchResult"
+    >
+      <text class="result-type">{{item.typeText}}</text>
+      <view class="result-copy">
+        <text class="result-title">{{item.title}}</text>
+        <text class="result-summary">{{item.summary}}</text>
+      </view>
+    </view>
+    <view wx:if="{{!searchResults.length}}" class="empty-state">
+      <text class="empty-title">未检索到相关条目</text>
+      <text class="empty-text">试试“内经”“桂枝汤”或“督脉”等关键词</text>
+    </view>
+  </view>
+
+  <block wx:else>
+    <view class="entry-panel">
+      <view
+        wx:for="{{entries}}"
+        wx:key="title"
+        class="entry-card entry-card--{{item.theme}} pressable"
+        data-url="{{item.url}}"
+        bindtap="openEntry"
+      >
+        <image wx:if="{{item.theme === 'case'}}" class="entry-card-image" src="/assets/home/cards/case-card.png" mode="scaleToFill"></image>
+        <image wx:elif="{{item.theme === 'book'}}" class="entry-card-image" src="/assets/home/cards/book-card.png" mode="scaleToFill"></image>
+        <image wx:elif="{{item.theme === 'prescription'}}" class="entry-card-image" src="/assets/home/cards/prescription-card.png" mode="scaleToFill"></image>
+        <image wx:else class="entry-card-image" src="/assets/home/cards/meridian-card.png" mode="scaleToFill"></image>
+      </view>
+    </view>
+
+    <view class="quote-card">
+      <text class="quote-text">“ 博学之，审问之，慎思之，明辨之，笃行之。 ”</text>
+      <text class="quote-source">——《中庸》</text>
+    </view>
+
+    <view class="daily-card">
+      <section-heading title="{{daily.title}}"></section-heading>
+      <view class="daily-content">
+        <view class="daily-copy">
+          <text class="daily-quote">{{daily.quote}}</text>
+          <text class="daily-source">—— {{daily.source}}</text>
+        </view>
+        <button class="study-button pressable" bindtap="openDailyLearning">进入学习</button>
+      </view>
+    </view>
+  </block>
+
+  <view class="home-bottom-spacer"></view>
+</view>

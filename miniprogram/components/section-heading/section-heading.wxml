@@ -1,0 +1,5 @@
+<view class="section-heading">
+  <view class="section-heading__line"></view>
+  <text class="section-heading__title">{{title}}</text>
+  <view class="section-heading__line"></view>
+</view>

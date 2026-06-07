@@ -100,7 +100,8 @@ class CaseApiTest extends TestCase
             ->assertJsonPath('code', 0)
             ->assertJsonPath('data.items.0.id', 3)
             ->assertJsonPath('data.items.1.id', 1)
-            ->assertJsonPath('data.items.1.content_preview', mb_substr(str_repeat('太阳中风原文', 20), 0, 100) . '...')
+            ->assertJsonPath('data.items.1.symptoms', '发热汗出，恶风。')
+            ->assertJsonPath('data.items.1.content_preview', mb_substr(str_repeat('太阳中风原文', 20), 0, 60) . '...')
             ->assertJsonPath('data.has_more', true)
             ->assertJsonPath('data.total', 3);
     }

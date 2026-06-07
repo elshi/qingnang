@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/cases/index/index",
+    "pages/cases/detail/detail",
+    "pages/books/index/index",
+    "pages/books/reader/reader",
+    "pages/prescriptions/index/index",
+    "pages/prescriptions/detail/detail",
+    "pages/meridians/index/index",
+    "pages/meridians/detail/detail",
+    "pages/favorites/index/index",
+    "pages/notes/index/index",
+    "pages/profile/index/index"
+  ],
+  "window": {
+    "navigationStyle": "custom",
+    "backgroundColor": "#F7F2EA",
+    "backgroundTextStyle": "dark"
+  },
+  "tabBar": {
+    "custom": true,
+    "color": "#5C5C5A",
+    "selectedColor": "#B57923",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      { "pagePath": "pages/home/home", "text": "首页", "iconPath": "assets/tabbar/home-normal.png", "selectedIconPath": "assets/tabbar/home-active.png" },
+      { "pagePath": "pages/favorites/index/index", "text": "收藏", "iconPath": "assets/tabbar/favorite-normal.png", "selectedIconPath": "assets/tabbar/favorite-active.png" },
+      { "pagePath": "pages/notes/index/index", "text": "笔记", "iconPath": "assets/tabbar/note-normal.png", "selectedIconPath": "assets/tabbar/note-active.png" },
+      { "pagePath": "pages/profile/index/index", "text": "我的", "iconPath": "assets/tabbar/profile-normal.png", "selectedIconPath": "assets/tabbar/profile-active.png" }
+    ]
+  },
+  "style": "v2",
+  "lazyCodeLoading": "requiredComponents",
+  "sitemapLocation": "sitemap.json"
+}

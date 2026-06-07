@@ -1,0 +1,9 @@
+<view class="placeholder-page">
+  <view class="placeholder-title">收藏</view>
+  <text class="placeholder-text">这里将汇总用户收藏的医案、医书、处方与经脉条目。云开发接入后按 openid 读取。</text>
+  <view class="list-card">
+    <view class="list-card-title">暂未收藏</view>
+    <view class="list-card-desc">后续内容详情页会提供收藏按钮，并写入 favorites 集合。</view>
+  </view>
+  <view class="disclaimer">{{disclaimer}}</view>
+</view>
