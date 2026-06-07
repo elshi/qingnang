@@ -16,3 +16,7 @@ use Illuminate\Http\Request;
 Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+Route::get('/cases/facets', 'CaseController@facets');
+Route::get('/cases/{id}', 'CaseController@show');
+Route::get('/cases', 'CaseController@index');

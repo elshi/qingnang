@@ -1,0 +1,5 @@
+-- Run as a database administrator after replacing both placeholders.
+-- Keep the generated password in the CloudRun environment only.
+CREATE USER '<CASE_READONLY_USER>'@'%' IDENTIFIED BY '<STRONG_RANDOM_PASSWORD>';
+GRANT SELECT ON `qingnang`.`t_cases` TO '<CASE_READONLY_USER>'@'%';
+FLUSH PRIVILEGES;

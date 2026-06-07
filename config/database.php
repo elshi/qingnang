@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Str;
 
+$mysqlAddress = explode(':', (string) env('MYSQL_ADDRESS', '127.0.0.1:3306'), 2);
+
 return [
 
     /*
@@ -46,11 +48,11 @@ return [
         'mysql' => [
             'driver' => 'mysql',
             'url' => env('DATABASE_URL'),
-            'host' => preg_split('/:/',getenv('MYSQL_ADDRESS'))[0],
-            'port' => preg_split('/:/',getenv('MYSQL_ADDRESS'))[1],
-            'database' => (getenv('MYSQL_DATABASE') == null) ? 'laravel_demo' : getenv('MYSQL_DATABASE'),
-            'username' => getenv('MYSQL_USERNAME'),
-            'password' => getenv('MYSQL_PASSWORD'),
+            'host' => env('MYSQL_HOST', $mysqlAddress[0]),
+            'port' => env('MYSQL_PORT', $mysqlAddress[1] ?? '3306'),
+            'database' => env('MYSQL_DATABASE', 'laravel_demo'),
+            'username' => env('MYSQL_USERNAME'),
+            'password' => env('MYSQL_PASSWORD'),
             'unix_socket' => env('DB_SOCKET', ''),
             'charset' => 'utf8mb4',
             'collation' => 'utf8mb4_unicode_ci',
