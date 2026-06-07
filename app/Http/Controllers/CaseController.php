@@ -171,6 +171,7 @@ class CaseController extends Controller
     {
         $doctor = trim((string) $record->doctor);
         $diseases = trim((string) $record->diseases);
+        $diseases = trim((string) preg_replace('/\s*\/+\s*/u', ' ', $diseases));
 
         if ($doctor && $diseases) {
             return $doctor . ' · ' . $diseases;

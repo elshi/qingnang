@@ -68,7 +68,7 @@ class CaseApiTest extends TestCase
             ],
             [
                 'id' => 3,
-                'diseases' => '头痛',
+                'diseases' => '头痛/眩晕',
                 'symptoms' => '头痛反复。',
                 'subject' => '内科',
                 'doctor' => '张仲景',
@@ -99,6 +99,7 @@ class CaseApiTest extends TestCase
         $response->assertOk()
             ->assertJsonPath('code', 0)
             ->assertJsonPath('data.items.0.id', 3)
+            ->assertJsonPath('data.items.0.title', '张仲景 · 头痛 眩晕')
             ->assertJsonPath('data.items.1.id', 1)
             ->assertJsonPath('data.items.1.symptoms', '发热汗出，恶风。')
             ->assertJsonPath('data.items.1.symptom_tags.0', '发热汗出')
