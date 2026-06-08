@@ -203,9 +203,9 @@ class CaseController extends Controller
 
     private function contentPreview($value): string
     {
-        $value = trim((string) $value);
+        $value = preg_replace('/\R+/u', '', trim((string) $value));
 
-        return mb_strlen($value) > 40 ? mb_substr($value, 0, 40) . '...' : $value;
+        return mb_substr($value, 0, 42);
     }
 
     private function success($data)

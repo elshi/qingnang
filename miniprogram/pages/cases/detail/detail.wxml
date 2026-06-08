@@ -10,17 +10,14 @@
       <block wx:if="{{activeTab === 'original'}}">
         <view class="detail-hero">
           <view class="detail-title">{{item.title}}</view>
-          <view class="detail-meta">{{item.dynasty || '朝代未注明'}} · {{item.doctor || '医家未注明'}} · {{item.source || '出处未注明'}}</view>
+          <view class="detail-meta">{{item.source || '出处未注明'}}</view>
           <view class="tag-row"><text wx:for="{{item.tags}}" wx:for-item="tag" wx:key="*this" class="case-tag">{{tag}}</text></view>
-        </view>
-        <view wx:if="{{item.diseases || item.subject || item.symptoms}}" class="detail-card">
-          <view class="detail-card__title">医案信息</view>
-          <view wx:if="{{item.diseases}}" class="detail-row"><text class="detail-label">疾病</text><text class="detail-row__value">{{item.diseases}}</text></view>
-          <view wx:if="{{item.subject}}" class="detail-row"><text class="detail-label">科目</text><text class="detail-row__value">{{item.subject}}</text></view>
-          <view wx:if="{{item.symptoms}}" class="detail-row"><text class="detail-label">症状</text><text class="detail-row__value">{{item.symptoms}}</text></view>
+          <view wx:if="{{item.symptom_tags && item.symptom_tags.length}}" class="symptom-tag-row">
+            <text wx:for="{{item.symptom_tags}}" wx:for-item="symptom" wx:key="*this" class="symptom-tag">{{symptom}}</text>
+          </view>
         </view>
         <view wx:if="{{item.origin_symptoms}}" class="detail-card"><view class="detail-card__title">原始症状</view><view class="detail-content">{{item.origin_symptoms}}</view></view>
-        <view wx:if="{{item.content}}" class="detail-card"><view class="detail-card__title">经典原文</view><view class="detail-content">{{item.content}}</view></view>
+        <view wx:if="{{item.content}}" class="detail-card"><view class="detail-card__title detail-card__title--original">经典原文</view><view class="detail-content detail-content--original">{{item.content}}</view></view>
       </block>
       <block wx:else>
         <view wx:if="{{item.analysis}}" class="detail-card detail-card--analysis-first"><view class="detail-card__title">医案解析</view><view class="detail-content">{{item.analysis}}</view></view>

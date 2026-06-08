@@ -129,18 +129,19 @@ page .classic-page .meridian-search input {
 }
 
 /* List typography is enlarged by 20%; the previous smallest type size stays unchanged. */
-page .case-list .case-card__title,
-page .entity-list .entity-title,
 page .book-list .book-title,
 page .formula-list .formula-title,
 page .simple-list .simple-title {
   font-size: 36rpx;
 }
 
+page .case-list .case-card__title {
+  font-size: 30rpx;
+}
+
 page .case-list .case-card__content,
 page .case-list .filter-bar,
 page .case-list .state-block,
-page .entity-list .state-block,
 page .book-list .book-summary,
 page .formula-list .formula-summary,
 page .simple-list .simple-copy,
@@ -150,10 +151,6 @@ page .classic-page .empty-state {
 }
 
 page .case-list .case-card__symptoms--empty {
-  font-size: 29rpx;
-}
-
-page .entity-list .entity-group__title {
   font-size: 29rpx;
 }
 

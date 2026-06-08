@@ -1,7 +1,7 @@
 App({
   globalData: {
     cloudEnvId: 'prod-d4gz10erk8e8f6306',
-    disclaimer: '本平台内容仅供中医文化学习与学术研究参考，不构成医疗建议、诊断意见或治疗方案。'
+    disclaimer: '本平台内容仅供学习参考，不构成医疗诊断建议或治疗方案。'
   },
   onLaunch() {
     if (!wx.cloud) return;
