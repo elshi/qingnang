@@ -104,7 +104,7 @@ class CaseApiTest extends TestCase
             ->assertJsonPath('data.items.1.symptoms', '发热汗出，恶风。')
             ->assertJsonPath('data.items.1.symptom_tags.0', '发热汗出')
             ->assertJsonPath('data.items.1.symptom_tags.1', '恶风。')
-            ->assertJsonPath('data.items.1.content_preview', mb_substr(str_repeat('太阳中风原文', 20), 0, 40) . '...')
+            ->assertJsonPath('data.items.1.content_preview', mb_substr(str_repeat('太阳中风原文', 20), 0, 42) . '...')
             ->assertJsonPath('data.has_more', true)
             ->assertJsonPath('data.total', 3);
     }
@@ -115,6 +115,15 @@ class CaseApiTest extends TestCase
             ->assertOk()
             ->assertJsonCount(1, 'data.items')
             ->assertJsonPath('data.items.0.id', 1);
+
+        $this->getJson('/api/cases?' . http_build_query(['keyword' => '桂枝汤 伤寒论']))
+            ->assertOk()
+            ->assertJsonCount(1, 'data.items')
+            ->assertJsonPath('data.items.0.id', 1);
+
+        $this->getJson('/api/cases?' . http_build_query(['keyword' => '桂枝汤 眩晕']))
+            ->assertOk()
+            ->assertJsonCount(0, 'data.items');
 
         $this->getJson('/api/cases?doctor=张仲景&bookname=伤寒论')
             ->assertOk()

@@ -51,13 +51,14 @@ class CaseController extends Controller
             }
 
             if ($request->filled('keyword')) {
-                $keyword = trim($request->input('keyword'));
-                $query->where(function ($searchQuery) use ($keyword) {
-                    foreach (self::SEARCH_FIELDS as $index => $field) {
-                        $method = $index === 0 ? 'where' : 'orWhere';
-                        $searchQuery->{$method}($field, 'like', '%' . $keyword . '%');
-                    }
-                });
+                foreach ($this->searchKeywords($request->input('keyword')) as $keyword) {
+                    $query->where(function ($searchQuery) use ($keyword) {
+                        foreach (self::SEARCH_FIELDS as $index => $field) {
+                            $method = $index === 0 ? 'where' : 'orWhere';
+                            $searchQuery->{$method}($field, 'like', '%' . $keyword . '%');
+                        }
+                    });
+                }
             }
 
             $total = (clone $query)->count();
@@ -199,6 +200,15 @@ class CaseController extends Controller
         return array_values(array_unique(array_filter($parts, function ($tag) {
             return $tag !== '';
         })));
+    }
+
+    private function searchKeywords($value): array
+    {
+        $parts = preg_split('/\s+/u', trim((string) $value));
+
+        return array_values(array_filter($parts ?: [], function ($keyword) {
+            return $keyword !== '';
+        }));
     }
 
     private function contentPreview($value): string

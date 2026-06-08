@@ -20,11 +20,11 @@
         <view wx:if="{{item.content}}" class="detail-card"><view class="detail-card__title detail-card__title--original">经典原文</view><view class="detail-content detail-content--original">{{item.content}}</view></view>
       </block>
       <block wx:else>
-        <view wx:if="{{item.analysis}}" class="detail-card detail-card--analysis-first"><view class="detail-card__title">医案解析</view><view class="detail-content">{{item.analysis}}</view></view>
+        <view wx:if="{{item.analysis}}" class="detail-card detail-card--analysis-first"><view class="detail-card__title">医案解析</view><view class="detail-content detail-content--analysis">{{item.analysis}}</view></view>
         <view wx:if="{{item.method || item.course_days}}" class="detail-card {{!item.analysis ? 'detail-card--analysis-first' : ''}}">
           <view class="detail-card__title">治法与疗程</view>
-          <view wx:if="{{item.method}}" class="detail-content">{{item.method}}</view>
-          <view wx:if="{{item.course_days}}" class="detail-course">处方天数：{{item.course_days}}</view>
+          <view wx:if="{{item.method}}" class="detail-content detail-content--analysis">{{item.method}}</view>
+          <view wx:if="{{item.course_days}}" class="detail-course detail-course--analysis">处方天数：{{item.course_days}}</view>
         </view>
         <view wx:if="{{prescriptions.length}}" class="detail-card prescription-card">
           <view class="detail-card__title">现代处方</view>

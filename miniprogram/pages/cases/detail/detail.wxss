@@ -74,7 +74,7 @@
 .detail-meta { margin-top: 16rpx; color: #9b7241; font-size: 21rpx; }
 .detail-card { padding: 26rpx 27rpx; }
 .detail-card__title { margin-bottom: 17rpx; color: #65451f; font-size: 27rpx; font-weight: 600; }
-.detail-page .detail-card__title--original { font-size: 30rpx; }
+.detail-page .detail-card .detail-card__title { font-size: 34rpx; }
 
 .detail-content,
 .detail-row,
@@ -90,6 +90,8 @@
 .detail-row__value { flex: 1; min-width: 0; }
 .detail-course { margin-top: 12rpx; color: #87612b; }
 .detail-page .detail-content.detail-content--original { font-size: 30rpx; }
+.detail-page .detail-card .detail-content--analysis,
+.detail-page .detail-card .detail-course--analysis { font-size: 30rpx; }
 .prescription-card { border-color: rgba(198, 153, 86, 0.55); }
 
 .learning-note {
