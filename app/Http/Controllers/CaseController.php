@@ -205,7 +205,7 @@ class CaseController extends Controller
     {
         $value = preg_replace('/\R+/u', '', trim((string) $value));
 
-        return mb_substr($value, 0, 42);
+        return $value === '' ? '' : mb_substr($value, 0, 42) . '...';
     }
 
     private function success($data)
