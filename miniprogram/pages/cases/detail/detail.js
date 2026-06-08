@@ -79,11 +79,20 @@ function parsePrescriptions(value) {
   }));
 }
 
+function formatOriginalContent(value) {
+  return String(value || '').split(/\r\n|\r|\n/).map((line, index) => ({
+    key: `original-line-${index}`,
+    text: line,
+    empty: line.trim() === ''
+  }));
+}
+
 Page({
   data: {
     tabs,
     activeTab: 'original',
     item: null,
+    originalContentLines: [],
     prescriptions: [],
     loading: true,
     error: '',
@@ -106,6 +115,7 @@ Page({
       const item = await getCaseDetail(this.caseId);
       this.setData({
         item,
+        originalContentLines: formatOriginalContent(item.content),
         prescriptions: parsePrescriptions(item.modern_prescription),
         loading: false
       });
