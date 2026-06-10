@@ -88,4 +88,42 @@ class BookApiTest extends TestCase
             ->assertStatus(404)
             ->assertJsonPath('code', -1);
     }
+
+    public function test_list_still_returns_books_when_chapter_table_is_unavailable()
+    {
+        Schema::drop('t_book_chapters');
+
+        $this->getJson('/api/books')
+            ->assertOk()
+            ->assertJsonCount(2, 'data.items')
+            ->assertJsonPath('data.items.0.chapter_count', 0);
+    }
+
+    public function test_chapters_support_common_alternative_field_names()
+    {
+        Schema::drop('t_book_chapters');
+        Schema::create('t_book_chapters', function (Blueprint $table) {
+            $table->increments('chapter_id');
+            $table->unsignedInteger('bookid');
+            $table->string('chapter_title');
+            $table->text('chapter_content')->nullable();
+        });
+        DB::table('t_book_chapters')->insert([
+            [
+                'chapter_id' => 8,
+                'bookid' => 1,
+                'chapter_title' => '替代字段章节',
+                'chapter_content' => '替代字段正文',
+            ],
+        ]);
+
+        $this->getJson('/api/books/1')
+            ->assertOk()
+            ->assertJsonPath('data.chapters.0.id', 8)
+            ->assertJsonPath('data.chapters.0.title', '替代字段章节');
+
+        $this->getJson('/api/books/1/chapters/8')
+            ->assertOk()
+            ->assertJsonPath('data.content', '替代字段正文');
+    }
 }

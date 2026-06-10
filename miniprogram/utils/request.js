@@ -23,7 +23,10 @@ function request(options) {
           resolve(body.data);
           return;
         }
-        reject(new Error(body.errorMsg || `请求失败（${response.statusCode || '未知状态'}）`));
+        const message = body.errorMsg
+          || body.message
+          || `请求失败（${response.statusCode || '未知状态'}）`;
+        reject(new Error(message));
       },
       fail(error) {
         reject(new Error(error.errMsg || '网络请求失败，请稍后重试'));
