@@ -1,30 +1,91 @@
-<view class="reader-page page-fade">
-  <custom-nav title="医书阅读" showBack="{{true}}"></custom-nav>
-  <scroll-view class="reader-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+<view class="reader-page reader-page--{{theme}}">
+  <scroll-view
+    class="reader-scroll"
+    scroll-y="{{true}}"
+    enhanced="{{true}}"
+    show-scrollbar="{{false}}"
+    scroll-top="{{scrollTop}}"
+    bindscroll="onReaderScroll"
+    bindtap="toggleToolbars"
+  >
     <view wx:if="{{loading}}" class="reader-state">正在加载医书...</view>
-    <view wx:elif="{{error}}" class="reader-state"><view>{{error}}</view><button class="reader-retry pressable" bindtap="retry">重新加载</button></view>
+    <view wx:elif="{{error}}" class="reader-state">
+      <view>{{error}}</view>
+      <button class="reader-retry pressable" catchtap="retry">重新加载</button>
+    </view>
     <block wx:elif="{{book}}">
-      <view class="reader-hero">
-        <view class="reader-book-name">{{book.name}}</view>
-        <view class="reader-meta">{{book.dynasty || '朝代未注明'}} · {{book.author || '作者未注明'}} · {{book.chapter_count}} 章</view>
-        <view wx:if="{{book.summary}}" class="reader-summary">{{book.summary}}</view>
-      </view>
-      <view wx:if="{{chapters.length}}" class="chapter-directory">
-        <view class="section-title">章节目录</view>
-        <scroll-view class="chapter-scroll" scroll-x="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
-          <view class="chapter-row">
-            <button wx:for="{{chapters}}" wx:key="id" class="chapter-tab {{selectedChapterId === item.id ? 'chapter-tab--active' : ''}}" data-id="{{item.id}}" bindtap="selectChapter">{{item.title}}</button>
-          </view>
-        </scroll-view>
-      </view>
-      <view wx:if="{{chapterLoading}}" class="reader-state reader-state--chapter">正在加载章节...</view>
-      <view wx:elif="{{chapterError}}" class="reader-state reader-state--chapter"><view>{{chapterError}}</view><button class="reader-retry pressable" bindtap="retry">重新加载</button></view>
-      <view wx:elif="{{chapter}}" class="chapter-card">
+      <view wx:if="{{chapter}}" class="chapter-content" style="font-size: {{fontSize}}rpx; line-height: {{lineHeight}};">
         <view class="chapter-title">{{chapter.title}}</view>
         <view wx:for="{{contentLines}}" wx:key="key" class="chapter-line {{item.empty ? 'chapter-line--empty' : ''}}">{{item.text}}</view>
+        <view class="chapter-end">本章完</view>
       </view>
-      <view wx:elif="{{!chapters.length}}" class="reader-state reader-state--chapter">暂无章节内容</view>
-      <view class="disclaimer">{{disclaimer}}</view>
+      <view wx:elif="{{!chapters.length}}" class="reader-state">暂无章节内容</view>
     </block>
   </scroll-view>
+
+  <view wx:if="{{chapterLoading}}" class="chapter-loading" catchtap="noop">正在加载章节...</view>
+  <view wx:if="{{chapterError}}" class="chapter-error" catchtap="noop">
+    <text>{{chapterError}}</text>
+    <button class="chapter-error__retry pressable" catchtap="retry">重试</button>
+  </view>
+
+  <view class="reader-topbar {{toolbarVisible ? 'reader-toolbar--visible' : ''}}" style="padding-top: {{statusBarHeight}}rpx;" catchtap="noop">
+    <view class="reader-topbar__bar" style="height: {{navHeight}}rpx;">
+      <button class="reader-back pressable" catchtap="goBack" aria-label="返回"><view class="reader-back__arrow"></view></button>
+      <view class="reader-heading">
+        <view class="reader-heading__book">{{book.name || '医书阅读'}}</view>
+        <view wx:if="{{chapter}}" class="reader-heading__chapter">{{chapter.title}}</view>
+      </view>
+    </view>
+  </view>
+
+  <view class="reader-bottombar {{toolbarVisible ? 'reader-toolbar--visible' : ''}}" catchtap="noop">
+    <button class="reader-tool pressable" catchtap="openDirectory"><text class="reader-tool__icon">目</text><text>目录</text></button>
+    <button class="reader-tool pressable {{!canGoPrevious ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoPrevious}}" catchtap="goPreviousChapter"><text class="reader-tool__icon">‹</text><text>上一章</text></button>
+    <button class="reader-tool pressable {{!canGoNext ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoNext}}" catchtap="goNextChapter"><text class="reader-tool__icon">›</text><text>下一章</text></button>
+    <button class="reader-tool pressable" catchtap="openSettings"><text class="reader-tool__icon">Aa</text><text>设置</text></button>
+  </view>
+
+  <view wx:if="{{directoryVisible || settingsVisible}}" class="reader-mask" catchtap="closePanels"></view>
+
+  <view class="directory-drawer {{directoryVisible ? 'directory-drawer--visible' : ''}}" style="padding-top: {{statusBarHeight}}rpx;" catchtap="noop">
+    <view class="panel-head">
+      <view>
+        <view class="panel-title">章节目录</view>
+        <view class="panel-subtitle">{{book.name}} · 共 {{chapters.length}} 章</view>
+      </view>
+      <button class="panel-close pressable" catchtap="closePanels">×</button>
+    </view>
+    <scroll-view class="directory-list" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+      <button wx:for="{{chapters}}" wx:key="id" class="directory-item {{selectedChapterId === item.id ? 'directory-item--active' : ''}}" data-id="{{item.id}}" catchtap="selectChapter">
+        <text class="directory-item__number">{{index + 1}}</text>
+        <text class="directory-item__title">{{item.title}}</text>
+      </button>
+    </scroll-view>
+  </view>
+
+  <view class="settings-panel {{settingsVisible ? 'settings-panel--visible' : ''}}" catchtap="noop">
+    <view class="panel-head settings-panel__head">
+      <view class="panel-title">阅读设置</view>
+      <button class="panel-close pressable" catchtap="closePanels">×</button>
+    </view>
+    <view class="setting-row">
+      <text class="setting-label">主题</text>
+      <view class="setting-options">
+        <button wx:for="{{themes}}" wx:key="key" class="setting-option theme-option theme-option--{{item.key}} {{theme === item.key ? 'setting-option--active' : ''}}" data-value="{{item.key}}" catchtap="selectTheme">{{item.label}}</button>
+      </view>
+    </view>
+    <view class="setting-row">
+      <text class="setting-label">字号</text>
+      <view class="setting-options">
+        <button wx:for="{{fontSizes}}" wx:key="value" class="setting-option {{fontSize === item.value ? 'setting-option--active' : ''}}" data-value="{{item.value}}" catchtap="selectFontSize">{{item.label}}</button>
+      </view>
+    </view>
+    <view class="setting-row">
+      <text class="setting-label">行距</text>
+      <view class="setting-options">
+        <button wx:for="{{lineHeights}}" wx:key="value" class="setting-option {{lineHeight === item.value ? 'setting-option--active' : ''}}" data-value="{{item.value}}" catchtap="selectLineHeight">{{item.label}}</button>
+      </view>
+    </view>
+  </view>
 </view>
