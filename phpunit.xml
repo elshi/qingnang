@@ -23,6 +23,8 @@
         <server name="BCRYPT_ROUNDS" value="4"/>
         <server name="CACHE_DRIVER" value="array"/>
         <server name="CASES_TABLE" value="t_cases"/>
+        <server name="BOOKS_TABLE" value="t_books"/>
+        <server name="BOOK_CHAPTERS_TABLE" value="t_book_chapters"/>
         <server name="DB_CONNECTION" value="sqlite"/>
         <server name="DB_DATABASE" value=":memory:"/>
         <server name="MAIL_DRIVER" value="array"/>

@@ -30,7 +30,9 @@
       <view wx:for="{{doctorGroups}}" wx:key="initial" wx:for-item="group" wx:for-index="groupIndex" id="{{group.id}}" class="entity-group">
         <view class="entity-group__title">{{group.initial}}</view>
         <view wx:for="{{group.items}}" wx:key="name" wx:for-item="doctor" wx:for-index="itemIndex" class="entity-card pressable" data-name="{{doctor.name}}" bindtap="filterByDoctor">
-          <image class="doctor-avatar" src="{{doctor.avatar}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}" data-group-index="{{groupIndex}}" data-item-index="{{itemIndex}}" binderror="onDoctorAvatarError"></image>
+          <view class="doctor-avatar-wrap">
+            <image class="doctor-avatar" src="{{doctor.avatar}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}" data-group-index="{{groupIndex}}" data-item-index="{{itemIndex}}" binderror="onDoctorAvatarError"></image>
+          </view>
           <view class="entity-copy"><view class="entity-title">{{doctor.name}} 医案</view><view class="entity-count">共 {{doctor.case_count}} 篇</view></view>
           <view class="entity-action">查看</view>
         </view>
@@ -43,7 +45,12 @@
       <view wx:for="{{sourceGroups}}" wx:key="initial" wx:for-item="group" id="{{group.id}}" class="entity-group">
         <view class="entity-group__title">{{group.initial}}</view>
         <view wx:for="{{group.items}}" wx:key="name" wx:for-item="source" class="entity-card source-card pressable" data-name="{{source.name}}" bindtap="filterBySource">
-          <image class="source-cover" src="{{source.cover}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}"></image>
+          <view class="source-cover">
+            <view class="source-cover__binding"></view>
+            <view class="source-cover__frame">
+              <text class="source-cover__title">{{source.name}}</text>
+            </view>
+          </view>
           <view class="entity-copy"><view class="entity-title">{{source.name}} 医案</view><view class="entity-count">共 {{source.case_count}} 篇</view></view>
           <view class="entity-action">查看</view>
         </view>

@@ -20,3 +20,6 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 Route::get('/cases/facets', 'CaseController@facets');
 Route::get('/cases/{id}', 'CaseController@show');
 Route::get('/cases', 'CaseController@index');
+Route::get('/books/{id}/chapters/{chapterId}', 'BookController@chapter');
+Route::get('/books/{id}', 'BookController@show');
+Route::get('/books', 'BookController@index');

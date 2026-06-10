@@ -10,16 +10,23 @@
     <scroll-view class="book-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
       <view class="book-list">
         <view wx:for="{{items}}" wx:key="id" class="book-card pressable" data-id="{{item.id}}" bindtap="openReader">
-          <image class="book-cover" src="{{item.cover}}" mode="aspectFill"></image>
-          <view class="book-copy">
-            <view class="book-title">{{item.title}}</view>
-            <view class="tag-row"><text wx:for="{{item.tags}}" wx:for-item="tag" wx:key="*this" class="soft-tag">{{tag}}</text></view>
-            <view class="book-summary">{{item.summary}}</view>
-            <view class="book-meta">{{item.dynasty}} · {{item.author}} · 阅读 {{item.readCount}}</view>
+          <view class="book-cover">
+            <view class="book-cover__binding"></view>
+            <view class="book-cover__frame"><text>{{item.name}}</text></view>
           </view>
-          <view class="outline-action">查看</view>
+          <view class="book-copy">
+            <view class="book-title">{{item.name}}</view>
+            <view class="book-summary">{{item.summary}}</view>
+            <view class="book-meta">{{item.dynasty || '朝代未注明'}} · {{item.author || '作者未注明'}} · {{item.chapter_count}} 章</view>
+          </view>
+          <view class="outline-action">阅读</view>
         </view>
-        <view wx:if="{{!items.length}}" class="empty-state">
+        <view wx:if="{{loading}}" class="empty-state"><text class="empty-copy">正在加载医书...</text></view>
+        <view wx:elif="{{error}}" class="empty-state">
+          <text class="empty-copy">{{error}}</text>
+          <button class="retry-action pressable" bindtap="retry">重新加载</button>
+        </view>
+        <view wx:elif="{{!items.length}}" class="empty-state">
           <text class="empty-title">暂无该朝代医书</text>
           <text class="empty-copy">换一个朝代继续研读经典。</text>
         </view>

@@ -7,6 +7,11 @@ $mysqlAddress = explode(':', (string) env('MYSQL_ADDRESS', '127.0.0.1:3306'), 2)
 return [
 
     'cases_table' => env('CASES_TABLE', 'qingnang.t_cases'),
+    'books_table' => env('BOOKS_TABLE', 'qingnang.t_books'),
+    'book_chapters_table' => env('BOOK_CHAPTERS_TABLE', 'qingnang.t_book_chapters'),
+    'book_chapter_book_id_field' => env('BOOK_CHAPTER_BOOK_ID_FIELD', 'book_id'),
+    'book_chapter_title_field' => env('BOOK_CHAPTER_TITLE_FIELD', 'title'),
+    'book_chapter_content_field' => env('BOOK_CHAPTER_CONTENT_FIELD', 'content'),
 
     /*
     |--------------------------------------------------------------------------

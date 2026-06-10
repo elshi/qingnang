@@ -1,14 +1,8 @@
 const { getCases, getCaseFacets } = require('../../../utils/cases-api');
 
 const PAGE_SIZE = 20;
-const DOCTOR_CLOUD_ROOT = 'cloud://prod-d4gz10erk8e8f6306.7072-prod-d4gz10erk8e8f6306-1440550656/doctor';
+const DOCTOR_CLOUD_ROOT = 'cloud://prod-d4gz10erk8e8f6306.7072-prod-d4gz10erk8e8f6306-1440550656/doctors';
 const DEFAULT_DOCTOR_AVATAR = '/assets/cases/doctors/yu-jiayan.jpg';
-const sourceCovers = [
-  '/assets/cases/sources/shanghan-lun.jpg',
-  '/assets/cases/sources/linzheng-zhinan.jpg',
-  '/assets/cases/sources/wenbing-tiaobian.jpg',
-  '/assets/cases/sources/wenre-jingwei.jpg'
-];
 const initialBoundaries = [
   ['A', '阿'], ['B', '八'], ['C', '嚓'], ['D', '咑'], ['E', '妸'], ['F', '发'],
   ['G', '旮'], ['H', '哈'], ['J', '讥'], ['K', '咔'], ['L', '垃'], ['M', '妈'],
@@ -87,12 +81,9 @@ Page({
       const data = await getCaseFacets();
       const doctors = (data.doctors || []).map((item) => ({
           ...item,
-          avatar: `${DOCTOR_CLOUD_ROOT}/${item.name}.jpg`
+          avatar: `${DOCTOR_CLOUD_ROOT}/${item.name}.webp`
         }));
-      const sources = (data.books || []).map((item, index) => ({
-          ...item,
-          cover: sourceCovers[index % sourceCovers.length]
-        }));
+      const sources = data.books || [];
       this.setData({
         doctors,
         sources,

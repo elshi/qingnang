@@ -1,7 +1,30 @@
-<view class="placeholder-page reader-page">
-  <view class="placeholder-title">{{book.title}}</view>
-  <text class="placeholder-text">{{book.dynasty}} · {{book.author}} · {{chapter.title}}</text>
-  <view class="reader-tabs"><button wx:for="{{tabs}}" wx:key="key" class="reader-tab {{activeTab == item.key ? 'active' : ''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button></view>
-  <view class="list-card reader-content"><view class="list-card-title">{{activeLabel}}</view><view class="list-card-desc">{{content}}</view></view>
-  <view class="disclaimer">{{disclaimer}}</view>
+<view class="reader-page page-fade">
+  <custom-nav title="医书阅读" showBack="{{true}}"></custom-nav>
+  <scroll-view class="reader-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view wx:if="{{loading}}" class="reader-state">正在加载医书...</view>
+    <view wx:elif="{{error}}" class="reader-state"><view>{{error}}</view><button class="reader-retry pressable" bindtap="retry">重新加载</button></view>
+    <block wx:elif="{{book}}">
+      <view class="reader-hero">
+        <view class="reader-book-name">{{book.name}}</view>
+        <view class="reader-meta">{{book.dynasty || '朝代未注明'}} · {{book.author || '作者未注明'}} · {{book.chapter_count}} 章</view>
+        <view wx:if="{{book.summary}}" class="reader-summary">{{book.summary}}</view>
+      </view>
+      <view wx:if="{{chapters.length}}" class="chapter-directory">
+        <view class="section-title">章节目录</view>
+        <scroll-view class="chapter-scroll" scroll-x="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+          <view class="chapter-row">
+            <button wx:for="{{chapters}}" wx:key="id" class="chapter-tab {{selectedChapterId === item.id ? 'chapter-tab--active' : ''}}" data-id="{{item.id}}" bindtap="selectChapter">{{item.title}}</button>
+          </view>
+        </scroll-view>
+      </view>
+      <view wx:if="{{chapterLoading}}" class="reader-state reader-state--chapter">正在加载章节...</view>
+      <view wx:elif="{{chapterError}}" class="reader-state reader-state--chapter"><view>{{chapterError}}</view><button class="reader-retry pressable" bindtap="retry">重新加载</button></view>
+      <view wx:elif="{{chapter}}" class="chapter-card">
+        <view class="chapter-title">{{chapter.title}}</view>
+        <view wx:for="{{contentLines}}" wx:key="key" class="chapter-line {{item.empty ? 'chapter-line--empty' : ''}}">{{item.text}}</view>
+      </view>
+      <view wx:elif="{{!chapters.length}}" class="reader-state reader-state--chapter">暂无章节内容</view>
+      <view class="disclaimer">{{disclaimer}}</view>
+    </block>
+  </scroll-view>
 </view>

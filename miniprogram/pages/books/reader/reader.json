@@ -1,1 +1,7 @@
-{ "navigationBarTitleText": "医书阅读" }
+{
+  "navigationBarTitleText": "医书阅读",
+  "disableScroll": true,
+  "usingComponents": {
+    "custom-nav": "/components/custom-nav/custom-nav"
+  }
+}
