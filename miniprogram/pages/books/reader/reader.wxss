@@ -51,7 +51,7 @@
 }
 
 .chapter-title {
-  margin: 25rpx 12rpx 60rpx;
+  margin: 31rpx 12rpx 60rpx;
   color: var(--reader-text);
   font-family: "KaiTi", "STKaiti", serif;
   font-size: 1.25em;
@@ -60,13 +60,10 @@
   text-align: center;
 }
 
-.chapter-line {
-  min-height: 1em;
+.chapter-paragraph {
+  margin-bottom: 1.15em;
+  text-indent: 2em;
   white-space: pre-wrap;
-}
-
-.chapter-line--empty {
-  height: 1em;
 }
 
 .chapter-end {
@@ -163,17 +160,20 @@
   position: relative;
   display: flex;
   align-items: center;
-  padding: 0 112rpx;
+  justify-content: center;
 }
 
 .reader-back {
   position: absolute;
-  left: 26rpx;
+  z-index: 1;
+  top: 50%;
+  left: 32rpx;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 70rpx;
-  height: 70rpx;
+  width: 64rpx;
+  height: 64rpx;
+  transform: translateY(-50%);
 }
 
 .reader-back__arrow {
@@ -184,8 +184,13 @@
   transform: rotate(45deg);
 }
 
+.reader-back.pressable:active {
+  transform: translateY(-50%) scale(0.98);
+}
+
 .reader-heading {
   width: 100%;
+  padding: 0 184rpx;
   overflow: hidden;
   text-align: center;
 }
@@ -306,10 +311,10 @@
   align-items: flex-start;
   width: 100%;
   min-height: 82rpx;
-  padding: 20rpx 28rpx;
+  padding: 20rpx 20rpx;
   border-bottom: 1rpx solid var(--reader-border);
   color: var(--reader-text);
-  font-size: 23rpx;
+  font-size: 25rpx;
   line-height: 1.6;
   text-align: left;
 }
@@ -320,9 +325,9 @@
 }
 
 .directory-item__number {
-  flex: 0 0 54rpx;
+  flex: 0 0 50rpx;
   color: var(--reader-muted);
-  font-size: 19rpx;
+  font-size: 21rpx;
 }
 
 .directory-item--active .directory-item__number {
@@ -340,9 +345,15 @@
   right: 0;
   bottom: 0;
   left: 0;
+  display: flex;
+  flex-direction: column;
+  max-height: calc(100vh - 32rpx);
   padding-bottom: env(safe-area-inset-bottom);
+  box-sizing: border-box;
+  overflow: hidden;
   color: var(--reader-text);
   background: var(--reader-panel);
+  border-radius: 22rpx 22rpx 0 0;
   box-shadow: 0 -10rpx 36rpx rgba(0, 0, 0, 0.14);
   transform: translateY(105%);
   transition: transform 220ms ease;
@@ -353,7 +364,13 @@
 }
 
 .settings-panel__head {
+  flex: 0 0 auto;
   min-height: 92rpx;
+}
+
+.settings-panel__body {
+  flex: 1;
+  min-height: 0;
 }
 
 .setting-row {
@@ -378,10 +395,12 @@
   display: flex;
   flex: 1;
   gap: 12rpx;
+  min-width: 0;
 }
 
 .setting-option {
   flex: 1;
+  min-width: 0;
   height: 54rpx;
   border: 1rpx solid var(--reader-border);
   border-radius: 27rpx;
@@ -389,6 +408,7 @@
   background: transparent;
   font-size: 20rpx;
   line-height: 52rpx;
+  white-space: nowrap;
 }
 
 .setting-option--active {

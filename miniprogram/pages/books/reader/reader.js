@@ -4,8 +4,14 @@ const PREFERENCE_KEY = 'bookReaderPreferences';
 const PROGRESS_KEY_PREFIX = 'bookReaderProgress:';
 const DEFAULT_PREFERENCES = {
   theme: 'paper',
-  fontSize: 30,
+  fontSize: 32,
   lineHeight: 2
+};
+const LEGACY_FONT_SIZE_MAP = {
+  26: 28,
+  30: 32,
+  34: 36,
+  38: 40
 };
 const themes = [
   { key: 'paper', label: '纸张' },
@@ -13,10 +19,10 @@ const themes = [
   { key: 'night', label: '夜间' }
 ];
 const fontSizes = [
-  { value: 26, label: '小' },
-  { value: 30, label: '标准' },
-  { value: 34, label: '大' },
-  { value: 38, label: '特大' }
+  { value: 28, label: '小' },
+  { value: 32, label: '标准' },
+  { value: 36, label: '大' },
+  { value: 40, label: '特大' }
 ];
 const lineHeights = [
   { value: 1.7, label: '紧凑' },
@@ -25,11 +31,19 @@ const lineHeights = [
 ];
 
 function formatContent(value) {
-  return String(value || '').split(/\r\n|\r|\n/).map((line, index) => ({
-    key: `chapter-line-${index}`,
-    text: line,
-    empty: line.trim() === ''
-  }));
+  return String(value || '')
+    .trim()
+    .split(/(?:\r\n|\r|\n)\s*(?:\r\n|\r|\n)+/)
+    .map((paragraph) => paragraph
+      .split(/\r\n|\r|\n/)
+      .map((line) => line.trim())
+      .join('')
+    )
+    .filter(Boolean)
+    .map((text, index) => ({
+      key: `chapter-paragraph-${index}`,
+      text
+    }));
 }
 
 function readStorage(key, fallback) {
@@ -45,7 +59,7 @@ Page({
     book: null,
     chapters: [],
     chapter: null,
-    contentLines: [],
+    contentParagraphs: [],
     selectedChapterId: '',
     currentChapterIndex: -1,
     canGoPrevious: false,
@@ -97,9 +111,14 @@ Page({
   },
 
   loadReaderPreferences() {
+    const storedPreferences = readStorage(PREFERENCE_KEY, {});
+    const fontSize = LEGACY_FONT_SIZE_MAP[storedPreferences.fontSize]
+      || storedPreferences.fontSize
+      || DEFAULT_PREFERENCES.fontSize;
     const preferences = {
       ...DEFAULT_PREFERENCES,
-      ...readStorage(PREFERENCE_KEY, {})
+      ...storedPreferences,
+      fontSize
     };
     this.setData(preferences);
   },
@@ -158,7 +177,7 @@ Page({
         currentChapterIndex,
         canGoPrevious: currentChapterIndex > 0,
         canGoNext: currentChapterIndex >= 0 && currentChapterIndex < this.data.chapters.length - 1,
-        contentLines: formatContent(chapter.content),
+        contentParagraphs: formatContent(chapter.content),
         chapterLoading: false,
         scrollTop: targetScrollTop + 1
       }, () => {

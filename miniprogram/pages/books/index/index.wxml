@@ -9,8 +9,9 @@
     </scroll-view>
     <scroll-view class="book-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
       <view class="book-list">
-        <view wx:for="{{items}}" wx:key="id" class="book-card pressable" data-id="{{item.id}}" bindtap="openReader">
-          <view class="book-cover">
+        <view wx:for="{{items}}" wx:key="id" wx:for-index="bookIndex" class="book-card pressable" data-id="{{item.id}}" bindtap="openReader">
+          <image wx:if="{{!item.coverFailed}}" class="book-cover" src="{{item.cover}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}" data-index="{{bookIndex}}" binderror="onBookCoverError"></image>
+          <view wx:else class="book-cover book-cover--fallback">
             <view class="book-cover__binding"></view>
             <view class="book-cover__frame"><text>{{item.name}}</text></view>
           </view>

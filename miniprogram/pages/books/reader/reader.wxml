@@ -16,7 +16,7 @@
     <block wx:elif="{{book}}">
       <view wx:if="{{chapter}}" class="chapter-content" style="font-size: {{fontSize}}rpx; line-height: {{lineHeight}};">
         <view class="chapter-title">{{chapter.title}}</view>
-        <view wx:for="{{contentLines}}" wx:key="key" class="chapter-line {{item.empty ? 'chapter-line--empty' : ''}}">{{item.text}}</view>
+        <view wx:for="{{contentParagraphs}}" wx:key="key" class="chapter-paragraph">{{item.text}}</view>
         <view class="chapter-end">本章完</view>
       </view>
       <view wx:elif="{{!chapters.length}}" class="reader-state">暂无章节内容</view>
@@ -31,7 +31,7 @@
 
   <view class="reader-topbar {{toolbarVisible ? 'reader-toolbar--visible' : ''}}" style="padding-top: {{statusBarHeight}}rpx;" catchtap="noop">
     <view class="reader-topbar__bar" style="height: {{navHeight}}rpx;">
-      <button class="reader-back pressable" catchtap="goBack" aria-label="返回"><view class="reader-back__arrow"></view></button>
+      <view class="reader-back pressable" catchtap="goBack" aria-label="返回" aria-role="button"><view class="reader-back__arrow"></view></view>
       <view class="reader-heading">
         <view class="reader-heading__book">{{book.name || '医书阅读'}}</view>
         <view wx:if="{{chapter}}" class="reader-heading__chapter">{{chapter.title}}</view>
@@ -41,8 +41,8 @@
 
   <view class="reader-bottombar {{toolbarVisible ? 'reader-toolbar--visible' : ''}}" catchtap="noop">
     <button class="reader-tool pressable" catchtap="openDirectory"><text class="reader-tool__icon">目</text><text>目录</text></button>
-    <button class="reader-tool pressable {{!canGoPrevious ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoPrevious}}" catchtap="goPreviousChapter"><text class="reader-tool__icon">‹</text><text>上一章</text></button>
-    <button class="reader-tool pressable {{!canGoNext ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoNext}}" catchtap="goNextChapter"><text class="reader-tool__icon">›</text><text>下一章</text></button>
+    <button class="reader-tool pressable {{!canGoPrevious ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoPrevious}}" catchtap="goPreviousChapter"><text class="reader-tool__icon">上</text><text>上一章</text></button>
+    <button class="reader-tool pressable {{!canGoNext ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoNext}}" catchtap="goNextChapter"><text class="reader-tool__icon">下</text><text>下一章</text></button>
     <button class="reader-tool pressable" catchtap="openSettings"><text class="reader-tool__icon">Aa</text><text>设置</text></button>
   </view>
 
@@ -69,23 +69,25 @@
       <view class="panel-title">阅读设置</view>
       <button class="panel-close pressable" catchtap="closePanels">×</button>
     </view>
-    <view class="setting-row">
-      <text class="setting-label">主题</text>
-      <view class="setting-options">
-        <button wx:for="{{themes}}" wx:key="key" class="setting-option theme-option theme-option--{{item.key}} {{theme === item.key ? 'setting-option--active' : ''}}" data-value="{{item.key}}" catchtap="selectTheme">{{item.label}}</button>
+    <scroll-view class="settings-panel__body" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+      <view class="setting-row">
+        <text class="setting-label">主题</text>
+        <view class="setting-options">
+          <button wx:for="{{themes}}" wx:key="key" class="setting-option theme-option theme-option--{{item.key}} {{theme === item.key ? 'setting-option--active' : ''}}" data-value="{{item.key}}" catchtap="selectTheme">{{item.label}}</button>
+        </view>
       </view>
-    </view>
-    <view class="setting-row">
-      <text class="setting-label">字号</text>
-      <view class="setting-options">
-        <button wx:for="{{fontSizes}}" wx:key="value" class="setting-option {{fontSize === item.value ? 'setting-option--active' : ''}}" data-value="{{item.value}}" catchtap="selectFontSize">{{item.label}}</button>
+      <view class="setting-row">
+        <text class="setting-label">字号</text>
+        <view class="setting-options">
+          <button wx:for="{{fontSizes}}" wx:key="value" class="setting-option {{fontSize === item.value ? 'setting-option--active' : ''}}" data-value="{{item.value}}" catchtap="selectFontSize">{{item.label}}</button>
+        </view>
       </view>
-    </view>
-    <view class="setting-row">
-      <text class="setting-label">行距</text>
-      <view class="setting-options">
-        <button wx:for="{{lineHeights}}" wx:key="value" class="setting-option {{lineHeight === item.value ? 'setting-option--active' : ''}}" data-value="{{item.value}}" catchtap="selectLineHeight">{{item.label}}</button>
+      <view class="setting-row">
+        <text class="setting-label">行距</text>
+        <view class="setting-options">
+          <button wx:for="{{lineHeights}}" wx:key="value" class="setting-option {{lineHeight === item.value ? 'setting-option--active' : ''}}" data-value="{{item.value}}" catchtap="selectLineHeight">{{item.label}}</button>
+        </view>
       </view>
-    </view>
+    </scroll-view>
   </view>
 </view>
