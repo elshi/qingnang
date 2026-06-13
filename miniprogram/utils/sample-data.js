@@ -37,11 +37,11 @@ const books = [
 ];
 
 const prescriptions = [
-  { id: 'prescription-001', type: 'prescription', title: '桂枝汤', source: '《伤寒论》', summary: '发汗解肌，温通经脉，主治外感风寒表虚证。', composition: '桂枝、芍药、甘草、生姜、大枣', tags: ['解表和营', '调和营卫'], efficacy: '解肌发表', image: '/assets/home/mortar.webp', readCount: '2.3w', explanation: '学习调和营卫的配伍思想。' },
-  { id: 'prescription-002', type: 'prescription', title: '四君子汤', source: '《太平惠民和剂局方》', summary: '益气健脾，主治脾胃气虚证。', composition: '人参、白术、茯苓、甘草', tags: ['益气健脾'], efficacy: '补气健脾', image: '/assets/home/herb.webp', readCount: '1.9w', explanation: '理解补气健脾类方剂的基础结构。' },
-  { id: 'prescription-003', type: 'prescription', title: '逍遥散', source: '《太平惠民和剂局方》', summary: '疏肝解郁，健脾养血，主治肝郁脾虚证。', composition: '柴胡、当归、白芍、白术、茯苓、甘草', tags: ['疏肝解郁', '健脾养血'], efficacy: '疏肝养血', image: '/assets/home/herb.webp', readCount: '1.6w', explanation: '学习肝脾同调的组方思路。' },
-  { id: 'prescription-004', type: 'prescription', title: '当归四逆汤', source: '《伤寒论》', summary: '温经散寒，养血通脉，主治血虚寒厥证。', composition: '当归、桂枝、芍药、细辛、通草、甘草、大枣', tags: ['温经散寒', '养血通脉'], efficacy: '温经通脉', image: '/assets/home/mortar.webp', readCount: '1.2w', explanation: '学习温养血脉的配伍方法。' },
-  { id: 'prescription-005', type: 'prescription', title: '补中益气汤', source: '《脾胃论》', summary: '补中益气，升阳举陷，主治脾胃气虚下陷。', composition: '黄芪、人参、白术、甘草、当归、陈皮、升麻、柴胡', tags: ['补中益气', '升阳举陷'], efficacy: '补气升阳', image: '/assets/home/herb.webp', readCount: '1.1w', explanation: '学习甘温除热与升阳举陷。' }
+  { id: 'prescription-001', type: 'prescription', title: '桂枝汤', source: '《伤寒论》', summary: '发汗解肌，温通经脉，主治外感风寒表虚证。', composition: '桂枝、芍药、甘草、生姜、大枣', tags: ['解表和营', '调和营卫'], efficacy: '解肌发表', image: '/assets/home/mortar.jpg', readCount: '2.3w', explanation: '学习调和营卫的配伍思想。' },
+  { id: 'prescription-002', type: 'prescription', title: '四君子汤', source: '《太平惠民和剂局方》', summary: '益气健脾，主治脾胃气虚证。', composition: '人参、白术、茯苓、甘草', tags: ['益气健脾'], efficacy: '补气健脾', image: '/assets/home/herb.jpg', readCount: '1.9w', explanation: '理解补气健脾类方剂的基础结构。' },
+  { id: 'prescription-003', type: 'prescription', title: '逍遥散', source: '《太平惠民和剂局方》', summary: '疏肝解郁，健脾养血，主治肝郁脾虚证。', composition: '柴胡、当归、白芍、白术、茯苓、甘草', tags: ['疏肝解郁', '健脾养血'], efficacy: '疏肝养血', image: '/assets/home/herb.jpg', readCount: '1.6w', explanation: '学习肝脾同调的组方思路。' },
+  { id: 'prescription-004', type: 'prescription', title: '当归四逆汤', source: '《伤寒论》', summary: '温经散寒，养血通脉，主治血虚寒厥证。', composition: '当归、桂枝、芍药、细辛、通草、甘草、大枣', tags: ['温经散寒', '养血通脉'], efficacy: '温经通脉', image: '/assets/home/mortar.jpg', readCount: '1.2w', explanation: '学习温养血脉的配伍方法。' },
+  { id: 'prescription-005', type: 'prescription', title: '补中益气汤', source: '《脾胃论》', summary: '补中益气，升阳举陷，主治脾胃气虚下陷。', composition: '黄芪、人参、白术、甘草、当归、陈皮、升麻、柴胡', tags: ['补中益气', '升阳举陷'], efficacy: '补气升阳', image: '/assets/home/herb.jpg', readCount: '1.1w', explanation: '学习甘温除热与升阳举陷。' }
 ];
 
 const meridians = [
@@ -49,14 +49,14 @@ const meridians = [
     id: 'meridian-001', type: 'meridian', title: '督脉', alias: ['阳脉之海'], summary: '起于下极之俞，并于脊里，上行入脑。',
     route: '起于胞中，下出会阴，沿脊柱上行至头面。', acupoints: ['长强', '命门', '大椎', '百会'],
     indications: '学习督脉循行及常用腧穴。', application: '仅作学习参考。', tags: ['奇经八脉'],
-    diagram: '/assets/home/meridian.webp', orientation: 'back',
+    diagram: '/assets/home/meridian.jpg', orientation: 'back',
     markers: [{ name: '百会', top: 15, left: 51 }, { name: '大椎', top: 31, left: 51 }, { name: '命门', top: 56, left: 51 }, { name: '长强', top: 76, left: 51 }]
   },
   {
     id: 'meridian-002', type: 'meridian', title: '任脉', alias: ['阴脉之海'], summary: '起于胞中，下出会阴，向上行腹里。',
     route: '起于胞中，下出会阴，沿腹胸正中上行。', acupoints: ['会阴', '关元', '膻中', '承浆'],
     indications: '学习任脉循行及常用腧穴。', application: '仅作学习参考。', tags: ['奇经八脉'],
-    diagram: '/assets/home/meridian.webp', orientation: 'front',
+    diagram: '/assets/home/meridian.jpg', orientation: 'front',
     markers: [{ name: '承浆', top: 17, left: 51 }, { name: '膻中', top: 40, left: 51 }, { name: '关元', top: 66, left: 51 }, { name: '会阴', top: 78, left: 51 }]
   }
 ];
