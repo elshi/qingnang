@@ -58,9 +58,9 @@
       <button class="panel-close pressable" catchtap="closePanels">×</button>
     </view>
     <scroll-view class="directory-list" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
-      <button wx:for="{{chapters}}" wx:key="id" class="directory-item {{selectedChapterId === item.id ? 'directory-item--active' : ''}}" data-id="{{item.id}}" catchtap="selectChapter">
+      <view wx:for="{{chapters}}" wx:key="id" class="directory-item {{selectedChapterId === item.id ? 'directory-item--active' : ''}}" data-id="{{item.id}}" catchtap="selectChapter" aria-role="button">
         <text class="directory-item__title">{{item.displayTitle}}</text>
-      </button>
+      </view>
     </scroll-view>
   </view>
 
