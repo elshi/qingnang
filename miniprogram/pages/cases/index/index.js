@@ -2,7 +2,7 @@ const { getCases, getCaseFacets } = require('../../../utils/cases-api');
 
 const PAGE_SIZE = 20;
 const DOCTOR_CLOUD_ROOT = 'cloud://prod-d4gz10erk8e8f6306.7072-prod-d4gz10erk8e8f6306-1440550656/doctors';
-const DEFAULT_DOCTOR_AVATAR = '/assets/cases/doctors/yu-jiayan.jpg';
+const DEFAULT_DOCTOR_AVATAR = '/assets/cases/doctors/yu-jiayan.webp';
 const initialBoundaries = [
   ['A', '阿'], ['B', '八'], ['C', '嚓'], ['D', '咑'], ['E', '妸'], ['F', '发'],
   ['G', '旮'], ['H', '哈'], ['J', '讥'], ['K', '咔'], ['L', '垃'], ['M', '妈'],

@@ -1,5 +1,5 @@
 <view class="page-shell home-page page-fade">
-  <image class="hero-design" src="/assets/home/hero-design.png" mode="widthFix"></image>
+  <image class="hero-design" src="/assets/home/hero-design.webp" mode="widthFix"></image>
 
   <view class="search-box">
     <view class="search-icon"></view>
@@ -49,10 +49,10 @@
         data-url="{{item.url}}"
         bindtap="openEntry"
       >
-        <image wx:if="{{item.theme === 'case'}}" class="entry-card-image" src="/assets/home/cards/case-card.png" mode="scaleToFill"></image>
-        <image wx:elif="{{item.theme === 'book'}}" class="entry-card-image" src="/assets/home/cards/book-card.png" mode="scaleToFill"></image>
-        <image wx:elif="{{item.theme === 'prescription'}}" class="entry-card-image" src="/assets/home/cards/prescription-card.png" mode="scaleToFill"></image>
-        <image wx:else class="entry-card-image" src="/assets/home/cards/meridian-card.png" mode="scaleToFill"></image>
+        <image wx:if="{{item.theme === 'case'}}" class="entry-card-image" src="/assets/home/cards/case-card.webp" mode="scaleToFill"></image>
+        <image wx:elif="{{item.theme === 'book'}}" class="entry-card-image" src="/assets/home/cards/book-card.webp" mode="scaleToFill"></image>
+        <image wx:elif="{{item.theme === 'prescription'}}" class="entry-card-image" src="/assets/home/cards/prescription-card.webp" mode="scaleToFill"></image>
+        <image wx:else class="entry-card-image" src="/assets/home/cards/meridian-card.webp" mode="scaleToFill"></image>
       </view>
     </view>
 
