@@ -12,6 +12,8 @@ return [
     'book_chapter_book_id_field' => env('BOOK_CHAPTER_BOOK_ID_FIELD', 'book_id'),
     'book_chapter_title_field' => env('BOOK_CHAPTER_TITLE_FIELD', 'title'),
     'book_chapter_content_field' => env('BOOK_CHAPTER_CONTENT_FIELD', 'content'),
+    'book_chapter_volume_field' => env('BOOK_CHAPTER_VOLUME_FIELD', 'volume'),
+    'book_chapter_shiyi_field' => env('BOOK_CHAPTER_SHIYI_FIELD', 'shiyi'),
 
     /*
     |--------------------------------------------------------------------------

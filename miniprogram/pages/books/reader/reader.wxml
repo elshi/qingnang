@@ -43,6 +43,7 @@
     <button class="reader-tool pressable" catchtap="openDirectory"><text class="reader-tool__icon">目</text><text>目录</text></button>
     <button class="reader-tool pressable {{!canGoPrevious ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoPrevious}}" catchtap="goPreviousChapter"><text class="reader-tool__icon">上</text><text>上一章</text></button>
     <button class="reader-tool pressable {{!canGoNext ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoNext}}" catchtap="goNextChapter"><text class="reader-tool__icon">下</text><text>下一章</text></button>
+    <button class="reader-tool pressable {{!hasShiyi ? 'reader-tool--disabled' : ''}}" disabled="{{!hasShiyi}}" catchtap="toggleContentMode"><text class="reader-tool__icon">{{contentMode === 'shiyi' ? '原' : '释'}}</text><text>{{contentMode === 'shiyi' ? '原文' : '释义'}}</text></button>
     <button class="reader-tool pressable" catchtap="openSettings"><text class="reader-tool__icon">Aa</text><text>设置</text></button>
   </view>
 
@@ -58,8 +59,7 @@
     </view>
     <scroll-view class="directory-list" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
       <button wx:for="{{chapters}}" wx:key="id" class="directory-item {{selectedChapterId === item.id ? 'directory-item--active' : ''}}" data-id="{{item.id}}" catchtap="selectChapter">
-        <text class="directory-item__number">{{index + 1}}</text>
-        <text class="directory-item__title">{{item.title}}</text>
+        <text class="directory-item__title">{{item.displayTitle}}</text>
       </button>
     </scroll-view>
   </view>

@@ -43,7 +43,7 @@
   color: var(--reader-text);
   background-image: linear-gradient(rgba(255, 255, 255, 0.035), rgba(255, 255, 255, 0.035));
   letter-spacing: 1rpx;
-  text-align: justify;
+  text-align: left;
 }
 
 .reader-page--night .chapter-content {
@@ -51,18 +51,18 @@
 }
 
 .chapter-title {
-  margin: 31rpx 12rpx 60rpx;
+  margin: 31rpx 0 24rpx;
   color: var(--reader-text);
   font-family: "KaiTi", "STKaiti", serif;
   font-size: 1.25em;
   font-weight: 700;
   line-height: 1.55;
-  text-align: center;
+  text-align: left;
 }
 
 .chapter-paragraph {
-  margin-bottom: 1.15em;
-  text-indent: 2em;
+  margin-bottom: 0.65em;
+  text-indent: 0;
   white-space: pre-wrap;
 }
 
@@ -311,7 +311,9 @@
   align-items: flex-start;
   width: 100%;
   min-height: 82rpx;
-  padding: 20rpx 20rpx;
+  margin: 0;
+  padding: 20rpx 16rpx;
+  border-radius: 0;
   border-bottom: 1rpx solid var(--reader-border);
   color: var(--reader-text);
   font-size: 25rpx;
@@ -322,16 +324,6 @@
 .directory-item--active {
   color: var(--reader-accent);
   background: rgba(166, 109, 37, 0.1);
-}
-
-.directory-item__number {
-  flex: 0 0 50rpx;
-  color: var(--reader-muted);
-  font-size: 21rpx;
-}
-
-.directory-item--active .directory-item__number {
-  color: var(--reader-accent);
 }
 
 .directory-item__title {

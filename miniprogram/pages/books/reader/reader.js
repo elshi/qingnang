@@ -33,17 +33,20 @@ const lineHeights = [
 function formatContent(value) {
   return String(value || '')
     .trim()
-    .split(/(?:\r\n|\r|\n)\s*(?:\r\n|\r|\n)+/)
-    .map((paragraph) => paragraph
-      .split(/\r\n|\r|\n/)
-      .map((line) => line.trim())
-      .join('')
-    )
+    .split(/\r\n|\r|\n/)
+    .map((line) => line.trim())
     .filter(Boolean)
     .map((text, index) => ({
       key: `chapter-paragraph-${index}`,
       text
     }));
+}
+
+function formatDirectoryTitle(chapter) {
+  return [chapter.volume, chapter.title]
+    .map((value) => String(value || '').trim())
+    .filter(Boolean)
+    .join(' ');
 }
 
 function readStorage(key, fallback) {
@@ -60,6 +63,8 @@ Page({
     chapters: [],
     chapter: null,
     contentParagraphs: [],
+    contentMode: 'original',
+    hasShiyi: false,
     selectedChapterId: '',
     currentChapterIndex: -1,
     canGoPrevious: false,
@@ -132,14 +137,23 @@ Page({
     this.setData({ loading: true, error: '' });
     try {
       const book = await getBookDetail(this.bookId);
-      const chapters = book.chapters || [];
+      const chapters = (book.chapters || []).map((chapter) => ({
+        ...chapter,
+        displayTitle: formatDirectoryTitle(chapter)
+      }));
       const progress = readStorage(`${PROGRESS_KEY_PREFIX}${this.bookId}`, {});
       const preferredChapterId = this.initialChapterId || progress.chapterId;
       const selected = chapters.find((item) => String(item.id) === String(preferredChapterId))
         || chapters[0];
+      this.preferredContentMode = progress.contentMode === 'shiyi' ? 'shiyi' : 'original';
 
       this.restoreScrollTop = this.initialChapterId ? 0 : Number(progress.scrollTop || 0);
-      this.setData({ book, chapters, loading: false });
+      this.setData({
+        book: { ...book, chapters },
+        chapters,
+        contentMode: this.preferredContentMode,
+        loading: false
+      });
       if (selected) {
         this.loadChapter(selected.id, { restoreScroll: true });
       }
@@ -167,6 +181,10 @@ Page({
       const currentChapterIndex = this.data.chapters.findIndex(
         (item) => String(item.id) === String(chapter.id)
       );
+      const hasShiyi = Boolean(String(chapter.shiyi || '').trim());
+      const contentMode = this.preferredContentMode === 'shiyi' && hasShiyi
+        ? 'shiyi'
+        : 'original';
       const targetScrollTop = options.restoreScroll ? this.restoreScrollTop : 0;
       this.currentScrollTop = targetScrollTop;
       this.restoreScrollTop = 0;
@@ -177,7 +195,9 @@ Page({
         currentChapterIndex,
         canGoPrevious: currentChapterIndex > 0,
         canGoNext: currentChapterIndex >= 0 && currentChapterIndex < this.data.chapters.length - 1,
-        contentParagraphs: formatContent(chapter.content),
+        contentMode,
+        hasShiyi,
+        contentParagraphs: formatContent(contentMode === 'shiyi' ? chapter.shiyi : chapter.content),
         chapterLoading: false,
         scrollTop: targetScrollTop + 1
       }, () => {
@@ -205,7 +225,8 @@ Page({
     try {
       wx.setStorageSync(`${PROGRESS_KEY_PREFIX}${this.bookId}`, {
         chapterId: this.data.selectedChapterId,
-        scrollTop: Math.round(this.currentScrollTop || 0)
+        scrollTop: Math.round(this.currentScrollTop || 0),
+        contentMode: this.preferredContentMode === 'shiyi' ? 'shiyi' : 'original'
       });
     } catch (error) {
       // Reading remains available when local storage is unavailable.
@@ -263,6 +284,24 @@ Page({
   goNextChapter() {
     if (!this.data.canGoNext) return;
     this.loadChapter(this.data.chapters[this.data.currentChapterIndex + 1].id);
+  },
+
+  toggleContentMode() {
+    if (!this.data.hasShiyi || !this.data.chapter) return;
+
+    const contentMode = this.data.contentMode === 'shiyi' ? 'original' : 'shiyi';
+    const targetScrollTop = this.currentScrollTop || 0;
+    this.preferredContentMode = contentMode;
+    this.setData({
+      contentMode,
+      contentParagraphs: formatContent(
+        contentMode === 'shiyi' ? this.data.chapter.shiyi : this.data.chapter.content
+      ),
+      scrollTop: targetScrollTop + 1
+    }, () => {
+      setTimeout(() => this.setData({ scrollTop: targetScrollTop }), 30);
+      this.persistProgress();
+    });
   },
 
   selectTheme(event) {

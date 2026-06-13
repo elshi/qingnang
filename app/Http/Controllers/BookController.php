@@ -20,6 +20,8 @@ class BookController extends Controller
         'book_name' => ['book_name', 'bookname', 'book_title'],
         'title' => ['title', 'chapter_title', 'chapter_name', 'chapter', 'name'],
         'content' => ['content', 'chapter_content', 'chapter_text', 'text', 'body', 'original'],
+        'volume' => ['volume'],
+        'shiyi' => ['shiyi'],
     ];
 
     public function index(Request $request)
@@ -84,6 +86,7 @@ class BookController extends Controller
                 return [
                     'id' => $chapter->chapter_id,
                     'title' => $chapter->chapter_title ?: '未命名章节',
+                    'volume' => $chapter->chapter_volume,
                 ];
             })->values();
 
@@ -107,14 +110,18 @@ class BookController extends Controller
             }
 
             $fields = $this->chapterFields();
+            $select = [
+                $fields['id'] . ' as chapter_id',
+                $fields['title'] . ' as chapter_title',
+                $fields['content'] . ' as chapter_content',
+                $fields['shiyi']
+                    ? $fields['shiyi'] . ' as chapter_shiyi'
+                    : DB::raw('NULL as chapter_shiyi'),
+            ];
             $chapter = DB::table(config('database.book_chapters_table'))
                 ->where($fields['relation'], $this->chapterRelationValue($book, $fields))
                 ->where($fields['id'], (int) $chapterId)
-                ->first([
-                    $fields['id'] . ' as chapter_id',
-                    $fields['title'] . ' as chapter_title',
-                    $fields['content'] . ' as chapter_content',
-                ]);
+                ->first($select);
 
             if (!$chapter) {
                 return $this->error('未找到该章节', 404);
@@ -125,6 +132,7 @@ class BookController extends Controller
                 'book_id' => $book->id,
                 'title' => $chapter->chapter_title ?: '未命名章节',
                 'content' => $chapter->chapter_content,
+                'shiyi' => $chapter->chapter_shiyi,
             ]);
         } catch (Throwable $exception) {
             report($exception);
@@ -136,13 +144,18 @@ class BookController extends Controller
     {
         $fields = $this->chapterFields();
 
+        $select = [
+            $fields['id'] . ' as chapter_id',
+            $fields['title'] . ' as chapter_title',
+            $fields['volume']
+                ? $fields['volume'] . ' as chapter_volume'
+                : DB::raw('NULL as chapter_volume'),
+        ];
+
         return DB::table(config('database.book_chapters_table'))
             ->where($fields['relation'], $this->chapterRelationValue($book, $fields))
             ->orderBy($fields['id'])
-            ->get([
-                $fields['id'] . ' as chapter_id',
-                $fields['title'] . ' as chapter_title',
-            ]);
+            ->get($select);
     }
 
     private function chapterCounts(Collection $books): array
@@ -186,6 +199,18 @@ class BookController extends Controller
             config('database.book_chapter_content_field'),
             self::CHAPTER_FIELD_CANDIDATES['content']
         );
+        $volume = $this->resolveField(
+            $columns,
+            config('database.book_chapter_volume_field'),
+            self::CHAPTER_FIELD_CANDIDATES['volume'],
+            false
+        );
+        $shiyi = $this->resolveField(
+            $columns,
+            config('database.book_chapter_shiyi_field'),
+            self::CHAPTER_FIELD_CANDIDATES['shiyi'],
+            false
+        );
         $bookId = $this->resolveField(
             $columns,
             config('database.book_chapter_book_id_field'),
@@ -202,6 +227,8 @@ class BookController extends Controller
             'id' => $id,
             'title' => $title,
             'content' => $content,
+            'volume' => $volume,
+            'shiyi' => $shiyi,
             'relation' => $bookId ?: $bookName,
             'relation_type' => $bookId ? 'book_id' : 'book_name',
         ];

@@ -25,7 +25,9 @@ class BookApiTest extends TestCase
             $table->increments('id');
             $table->unsignedInteger('book_id');
             $table->string('title');
+            $table->string('volume')->nullable();
             $table->text('content')->nullable();
+            $table->text('shiyi')->nullable();
         });
 
         DB::table('t_books')->insert([
@@ -34,8 +36,8 @@ class BookApiTest extends TestCase
         ]);
 
         DB::table('t_book_chapters')->insert([
-            ['id' => 1, 'book_id' => 1, 'title' => '辨太阳病脉证并治', 'content' => '太阳之为病，脉浮。'],
-            ['id' => 2, 'book_id' => 1, 'title' => '辨阳明病脉证并治', 'content' => '阳明之为病。'],
+            ['id' => 1, 'book_id' => 1, 'title' => '辨太阳病脉证并治', 'volume' => '卷一', 'content' => '太阳之为病，脉浮。', 'shiyi' => '太阳病的主要表现是脉浮。'],
+            ['id' => 2, 'book_id' => 1, 'title' => '辨阳明病脉证并治', 'volume' => null, 'content' => '阳明之为病。', 'shiyi' => null],
         ]);
     }
 
@@ -75,14 +77,17 @@ class BookApiTest extends TestCase
             ->assertOk()
             ->assertJsonPath('data.name', '伤寒论')
             ->assertJsonCount(2, 'data.chapters')
-            ->assertJsonPath('data.chapters.0.title', '辨太阳病脉证并治');
+            ->assertJsonPath('data.chapters.0.title', '辨太阳病脉证并治')
+            ->assertJsonPath('data.chapters.0.volume', '卷一')
+            ->assertJsonPath('data.chapters.1.volume', null);
     }
 
     public function test_chapter_returns_content_and_must_belong_to_book()
     {
         $this->getJson('/api/books/1/chapters/1')
             ->assertOk()
-            ->assertJsonPath('data.content', '太阳之为病，脉浮。');
+            ->assertJsonPath('data.content', '太阳之为病，脉浮。')
+            ->assertJsonPath('data.shiyi', '太阳病的主要表现是脉浮。');
 
         $this->getJson('/api/books/2/chapters/1')
             ->assertStatus(404)
@@ -120,10 +125,12 @@ class BookApiTest extends TestCase
         $this->getJson('/api/books/1')
             ->assertOk()
             ->assertJsonPath('data.chapters.0.id', 8)
-            ->assertJsonPath('data.chapters.0.title', '替代字段章节');
+            ->assertJsonPath('data.chapters.0.title', '替代字段章节')
+            ->assertJsonPath('data.chapters.0.volume', null);
 
         $this->getJson('/api/books/1/chapters/8')
             ->assertOk()
-            ->assertJsonPath('data.content', '替代字段正文');
+            ->assertJsonPath('data.content', '替代字段正文')
+            ->assertJsonPath('data.shiyi', null);
     }
 }

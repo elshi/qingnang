@@ -23,6 +23,14 @@ The API also detects common alternatives such as `chapter_id`, `bookid`,
 `chapter_title`, and `chapter_content`. Explicit environment configuration
 takes precedence when the table uses other names.
 
+Optional chapter fields:
+
+```text
+volume, shiyi
+```
+
+When either optional field is absent, the API returns `null` for that field.
+
 If the chapter table uses different field names, configure the CloudRun
 service without changing application code:
 
@@ -30,6 +38,8 @@ service without changing application code:
 BOOK_CHAPTER_BOOK_ID_FIELD=book_id
 BOOK_CHAPTER_TITLE_FIELD=title
 BOOK_CHAPTER_CONTENT_FIELD=content
+BOOK_CHAPTER_VOLUME_FIELD=volume
+BOOK_CHAPTER_SHIYI_FIELD=shiyi
 ```
 
 Table names can also be overridden:
