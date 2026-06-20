@@ -225,8 +225,12 @@ Page({
     try {
       wx.setStorageSync(`${PROGRESS_KEY_PREFIX}${this.bookId}`, {
         chapterId: this.data.selectedChapterId,
+        chapterIndex: this.data.currentChapterIndex,
+        chapterCount: this.data.chapters.length,
+        chapterTitle: this.data.chapter ? this.data.chapter.title : '',
         scrollTop: Math.round(this.currentScrollTop || 0),
-        contentMode: this.preferredContentMode === 'shiyi' ? 'shiyi' : 'original'
+        contentMode: this.preferredContentMode === 'shiyi' ? 'shiyi' : 'original',
+        updatedAt: Date.now()
       });
     } catch (error) {
       // Reading remains available when local storage is unavailable.

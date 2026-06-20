@@ -19,6 +19,7 @@ class BookApiTest extends TestCase
             $table->text('summary')->nullable();
             $table->string('dynasty')->nullable();
             $table->string('author')->nullable();
+            $table->string('jp')->nullable();
         });
 
         Schema::create('t_book_chapters', function (Blueprint $table) {
@@ -31,8 +32,8 @@ class BookApiTest extends TestCase
         });
 
         DB::table('t_books')->insert([
-            ['id' => 1, 'name' => '伤寒论', 'summary' => '辨证论治经典。', 'dynasty' => '汉', 'author' => '张仲景'],
-            ['id' => 2, 'name' => '温病条辨', 'summary' => '温病学经典。', 'dynasty' => '清', 'author' => '吴鞠通'],
+            ['id' => 1, 'name' => '伤寒论', 'summary' => '辨证论治经典。', 'dynasty' => '汉', 'author' => '张仲景', 'jp' => 'SHL'],
+            ['id' => 2, 'name' => '温病条辨', 'summary' => '温病学经典。', 'dynasty' => '清', 'author' => '吴鞠通', 'jp' => 'WBTB'],
         ]);
 
         DB::table('t_book_chapters')->insert([
@@ -54,6 +55,7 @@ class BookApiTest extends TestCase
             ->assertOk()
             ->assertJsonPath('code', 0)
             ->assertJsonPath('data.items.0.name', '伤寒论')
+            ->assertJsonPath('data.items.0.jp', 'SHL')
             ->assertJsonPath('data.items.0.chapter_count', 2)
             ->assertJsonPath('data.dynasties.0', '汉');
     }
@@ -66,6 +68,11 @@ class BookApiTest extends TestCase
             ->assertJsonPath('data.items.0.name', '温病条辨');
 
         $this->getJson('/api/books?keyword=张仲景')
+            ->assertOk()
+            ->assertJsonCount(1, 'data.items')
+            ->assertJsonPath('data.items.0.id', 1);
+
+        $this->getJson('/api/books?keyword=SHL')
             ->assertOk()
             ->assertJsonCount(1, 'data.items')
             ->assertJsonPath('data.items.0.id', 1);

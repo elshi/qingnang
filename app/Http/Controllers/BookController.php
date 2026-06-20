@@ -47,7 +47,8 @@ class BookController extends Controller
                 $query->where(function ($searchQuery) use ($keyword) {
                     $searchQuery->where('name', 'like', '%' . $keyword . '%')
                         ->orWhere('summary', 'like', '%' . $keyword . '%')
-                        ->orWhere('author', 'like', '%' . $keyword . '%');
+                        ->orWhere('author', 'like', '%' . $keyword . '%')
+                        ->orWhere('jp', 'like', '%' . $keyword . '%');
                 });
             }
 
@@ -289,6 +290,7 @@ class BookController extends Controller
         return [
             'id' => $book->id,
             'name' => $book->name,
+            'jp' => $book->jp,
             'summary' => $book->summary,
             'dynasty' => $book->dynasty,
             'author' => $book->author,

@@ -10,7 +10,7 @@ qingnang.t_book_chapters
 Required `t_books` fields:
 
 ```text
-id, name, summary, dynasty, author
+id, name, summary, dynasty, author, jp
 ```
 
 The default `t_book_chapters` fields are:
