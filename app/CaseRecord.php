@@ -19,6 +19,7 @@ class CaseRecord extends Model
     {
         parent::__construct($attributes);
 
+        $this->setConnection(config('database.cases_connection'));
         $this->setTable(config('database.cases_table'));
     }
 }

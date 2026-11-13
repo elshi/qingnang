@@ -3,10 +3,12 @@
 use Illuminate\Support\Str;
 
 $mysqlAddress = explode(':', (string) env('MYSQL_ADDRESS', '127.0.0.1:3306'), 2);
+$defaultConnection = env('DB_CONNECTION', 'mysql');
 
 return [
 
     'cases_table' => env('CASES_TABLE', 'qingnang.t_cases'),
+    'cases_connection' => env('CASES_DB_CONNECTION', $defaultConnection),
     'books_table' => env('BOOKS_TABLE', 'qingnang.t_books'),
     'book_chapters_table' => env('BOOK_CHAPTERS_TABLE', 'qingnang.t_book_chapters'),
     'book_chapter_book_id_field' => env('BOOK_CHAPTER_BOOK_ID_FIELD', 'book_id'),
@@ -59,7 +61,7 @@ return [
             'url' => env('DATABASE_URL'),
             'host' => env('MYSQL_HOST', $mysqlAddress[0]),
             'port' => env('MYSQL_PORT', $mysqlAddress[1] ?? '3306'),
-            'database' => env('MYSQL_DATABASE', 'laravel_demo'),
+            'database' => env('MYSQL_DATABASE', 'qingnang'),
             'username' => env('MYSQL_USERNAME'),
             'password' => env('MYSQL_PASSWORD'),
             'unix_socket' => env('DB_SOCKET', ''),

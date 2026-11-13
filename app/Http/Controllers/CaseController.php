@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\CaseRecord;
+use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Validator;
@@ -79,7 +80,7 @@ class CaseController extends Controller
             ]);
         } catch (Throwable $exception) {
             report($exception);
-            return $this->error('医案列表加载失败，请稍后重试', 500);
+            return $this->error($this->databaseAccessError($exception, '医案列表加载失败，请稍后重试'), 500);
         }
     }
 
@@ -92,7 +93,7 @@ class CaseController extends Controller
             ]);
         } catch (Throwable $exception) {
             report($exception);
-            return $this->error('医案分类加载失败，请稍后重试', 500);
+            return $this->error($this->databaseAccessError($exception, '医案分类加载失败，请稍后重试'), 500);
         }
     }
 
@@ -112,8 +113,43 @@ class CaseController extends Controller
             return $this->success($this->transformDetail($record));
         } catch (Throwable $exception) {
             report($exception);
-            return $this->error('医案详情加载失败，请稍后重试', 500);
+            return $this->error($this->databaseAccessError($exception, '医案详情加载失败，请稍后重试'), 500);
         }
+    }
+
+    private function databaseAccessError(Throwable $exception, string $fallback): string
+    {
+        $driverCode = $exception instanceof QueryException && isset($exception->errorInfo[1])
+            ? (int) $exception->errorInfo[1]
+            : 0;
+
+        if (in_array($driverCode, [1044, 1045], true)) {
+            return '数据库账号无法连接医案数据库，请检查 MYSQL_DATABASE 与账号权限';
+        }
+        if ($driverCode === 1049) {
+            return '未找到医案数据库，请检查 MYSQL_DATABASE 配置';
+        }
+        if (in_array($driverCode, [2002, 2003, 2005, 2006, 2013], true)) {
+            return '无法连接医案数据库，请检查 DATABASE_URL、MYSQL_ADDRESS 与数据库网络';
+        }
+        if ($driverCode === 1142) {
+            return '数据库账号无权读取医案数据，请为 t_cases 授予 SELECT 权限';
+        }
+        if ($driverCode === 1146) {
+            return '未找到医案数据表，请检查 MYSQL_DATABASE 与 CASES_TABLE 配置';
+        }
+        if ($driverCode === 1054) {
+            return '医案数据表字段不匹配，请检查 t_cases 表结构';
+        }
+
+        $message = $exception->getMessage();
+        foreach (['Connection refused', 'getaddrinfo failed', 'server has gone away'] as $connectionError) {
+            if (stripos($message, $connectionError) !== false) {
+                return '无法连接医案数据库，请检查 DATABASE_URL、MYSQL_ADDRESS 与数据库网络';
+            }
+        }
+
+        return $fallback;
     }
 
     private function facet(string $field)

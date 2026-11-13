@@ -2,9 +2,13 @@
 
 namespace Tests\Feature;
 
+use App\Http\Controllers\CaseController;
+use Illuminate\Database\QueryException;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Schema;
+use PDOException;
+use ReflectionMethod;
 use Tests\TestCase;
 
 class CaseApiTest extends TestCase
@@ -94,6 +98,8 @@ class CaseApiTest extends TestCase
 
     public function test_list_is_paginated_and_sorted_by_confidence()
     {
+        $this->assertSame('sqlite', (new \App\CaseRecord())->getConnectionName());
+
         $response = $this->getJson('/api/cases?page_size=2');
 
         $response->assertOk()
@@ -168,5 +174,21 @@ class CaseApiTest extends TestCase
         $this->getJson('/api/cases?page=0&page_size=51')
             ->assertStatus(422)
             ->assertJsonPath('code', -1);
+    }
+
+    public function test_database_connection_errors_return_actionable_message()
+    {
+        $previous = new PDOException('SQLSTATE[HY000] [2002] Connection refused');
+        $previous->errorInfo = ['HY000', 2002, 'Connection refused'];
+        $exception = new QueryException('select * from t_cases', [], $previous);
+        $method = new ReflectionMethod(CaseController::class, 'databaseAccessError');
+        $method->setAccessible(true);
+
+        $message = $method->invoke(app(CaseController::class), $exception, 'fallback');
+
+        $this->assertSame(
+            '无法连接医案数据库，请检查 DATABASE_URL、MYSQL_ADDRESS 与数据库网络',
+            $message
+        );
     }
 }
