@@ -73,9 +73,7 @@ page .classic-page .dynasty-label {
   font-size: 27rpx;
 }
 
-page .case-page .case-card__title,
 page .case-page .entity-title,
-page .classic-page .book-title,
 page .classic-page .formula-title,
 page .classic-page .section-head,
 page .classic-page .simple-title {
@@ -83,13 +81,11 @@ page .classic-page .simple-title {
 }
 
 page .case-page .filter-bar,
-page .case-page .state-block,
 page .detail-page .detail-content,
 page .detail-page .detail-row,
 page .detail-page .detail-course,
 page .detail-page .prescription-table__head,
 page .detail-page .prescription-table__row,
-page .classic-page .book-summary,
 page .classic-page .formula-summary,
 page .classic-page .simple-copy,
 page .classic-page .meridian-summary,
@@ -98,7 +94,6 @@ page .classic-page .empty-state {
 }
 
 page .case-page .case-tag,
-page .case-page .case-card__source,
 page .case-page .entity-count,
 page .case-page .entity-action,
 page .detail-page .case-tag,
@@ -106,7 +101,6 @@ page .detail-page .detail-meta,
 page .detail-page .learning-note,
 page .detail-page .disclaimer,
 page .classic-page .soft-tag,
-page .classic-page .book-meta,
 page .classic-page .formula-source,
 page .classic-page .formula-meta,
 page .classic-page .outline-action,
@@ -122,27 +116,18 @@ page .classic-page .empty-title {
   font-size: 29rpx;
 }
 
-page .case-page .case-search,
 page .classic-page .search-box input,
 page .classic-page .meridian-search input {
   font-size: 25rpx;
 }
 
 /* List typography is enlarged by 20%; the previous smallest type size stays unchanged. */
-page .book-list .book-title,
 page .formula-list .formula-title,
 page .simple-list .simple-title {
   font-size: 36rpx;
 }
 
-page .case-list .case-card__title {
-  font-size: 30rpx;
-}
-
-page .case-list .case-card__content,
 page .case-list .filter-bar,
-page .case-list .state-block,
-page .book-list .book-summary,
 page .formula-list .formula-summary,
 page .simple-list .simple-copy,
 page .overview-list .meridian-summary,
@@ -154,10 +139,6 @@ page .case-list .case-card__symptoms--empty {
   font-size: 29rpx;
 }
 
-page .case-list .result-head {
-  font-size: 21rpx;
-}
-
 page .overview-list .meridian-title {
   font-size: 37rpx;
 }
@@ -166,7 +147,6 @@ page .acupoint-grid .acupoint-name {
   font-size: 35rpx;
 }
 
-page .book-list .empty-title,
 page .formula-list .empty-title {
   font-size: 35rpx;
 }

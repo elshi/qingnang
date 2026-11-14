@@ -16,7 +16,10 @@ Component({
       const current = pages[pages.length - 1];
       const route = current ? `/${current.route}` : '';
       const selected = this.data.tabs.findIndex((item) => item.pagePath === route);
-      if (selected >= 0 && selected !== this.data.selected) this.setData({ selected });
+      const nextSelected = selected >= 0 ? selected : this.data.selected;
+      if (nextSelected !== this.data.selected) {
+        this.setData({ selected: nextSelected });
+      }
     }
   }
 });

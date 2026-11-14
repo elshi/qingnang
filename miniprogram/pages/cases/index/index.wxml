@@ -1,25 +1,25 @@
-<view class="case-page page-fade">
+<view class="case-page catalog-page page-fade">
   <custom-nav title="经典医案" showBack="{{true}}"></custom-nav>
   <view class="category-tabs">
     <button wx:for="{{tabs}}" wx:key="key" class="category-tab {{activeTab === item.key ? 'category-tab--active' : ''}}" data-key="{{item.key}}" bindtap="selectTab">{{item.label}}</button>
   </view>
-  <view wx:if="{{activeTab === 'all'}}" class="case-search">
+  <view wx:if="{{activeTab === 'all'}}" class="catalog-search">
     <image src="/assets/cases/search.png" mode="aspectFit"></image>
-    <input class="case-search__input" value="{{keyword}}" placeholder="搜索医案、医家、出处或证候" placeholder-class="case-search__placeholder" bindinput="onKeywordInput" confirm-type="search" />
-    <button wx:if="{{keyword}}" class="case-search__clear pressable" bindtap="clearKeyword">清除</button>
+    <input class="catalog-search__input" value="{{keyword}}" placeholder="搜索医案、医家、出处或证候" placeholder-class="catalog-search__placeholder" bindinput="onKeywordInput" confirm-type="search" />
+    <button wx:if="{{keyword}}" class="catalog-search__clear pressable" bindtap="clearKeyword">清除</button>
   </view>
-  <scroll-view class="case-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-into-view="{{entityScrollIntoView}}" lower-threshold="500" bindscrolltolower="loadMore">
-    <view wx:if="{{activeTab === 'all'}}" class="case-list">
+  <scroll-view class="case-scroll catalog-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-into-view="{{entityScrollIntoView}}" lower-threshold="500" bindscrolltolower="loadMore">
+    <view wx:if="{{activeTab === 'all'}}" class="case-list catalog-list">
       <view class="result-head"><text>{{keyword || filterLabel ? '搜索结果' : '全部医案'}}</text><text class="result-count">{{total}} 条</text></view>
       <view wx:if="{{filterLabel}}" class="filter-bar"><text>{{filterLabel}}</text><button class="filter-clear pressable" bindtap="clearFilter">查看全部</button></view>
-      <view wx:for="{{items}}" wx:key="id" class="case-card pressable" data-id="{{item.id}}" bindtap="openDetail">
-        <view class="case-card__title">{{item.title}}</view>
-        <view class="case-card__source">{{item.source || '出处未注明'}}</view>
+      <view wx:for="{{items}}" wx:key="id" class="catalog-card pressable" data-id="{{item.id}}" bindtap="openDetail">
+        <view class="catalog-card__title">{{item.title}}</view>
+        <view class="catalog-card__meta">{{item.source || '出处未注明'}}</view>
         <view wx:if="{{item.symptom_tags && item.symptom_tags.length}}" class="case-card__symptoms">
           <text wx:for="{{item.symptom_tags}}" wx:for-item="symptom" wx:key="*this" class="symptom-tag">{{symptom}}</text>
         </view>
         <view wx:else class="case-card__symptoms case-card__symptoms--empty">症状未注明</view>
-        <view wx:if="{{item.content_preview}}" class="case-card__content">{{item.content_preview}}</view>
+        <view wx:if="{{item.content_preview}}" class="catalog-card__content">{{item.content_preview}}</view>
       </view>
       <view wx:if="{{error}}" class="state-block"><view>{{error}}</view><button class="state-action pressable" bindtap="retry">重新加载</button></view>
       <view wx:elif="{{loading}}" class="state-block">正在加载医案...</view>

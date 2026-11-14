@@ -1,77 +1,127 @@
-<view class="page-shell home-page page-fade">
-  <image class="hero-design" src="/assets/home/hero-design.jpg" mode="widthFix"></image>
-
-  <view class="search-box">
-    <view class="search-icon"></view>
-    <input
-      class="search-input"
-      value="{{keyword}}"
-      placeholder="搜索医案、医书、处方、穴位等"
-      placeholder-class="search-placeholder"
-      confirm-type="search"
-      bindinput="onKeywordInput"
-    />
-    <button wx:if="{{keyword}}" class="clear-button pressable" bindtap="clearSearch">清除</button>
+<view class="home-page" style="padding-top: {{statusBarHeight}}px;">
+  <view class="home-brand" style="min-height: {{navHeight}}px;">
+    <image class="home-brand__mark" src="/assets/home/catalog-icons/brand.png" mode="aspectFit" aria-hidden="true"></image>
+    <text class="home-brand__title home-serif">青囊经典</text>
   </view>
 
-  <view wx:if="{{isSearching}}" class="search-results paper-card">
-    <view class="search-results__head">
-      <section-heading title="搜索结果"></section-heading>
-      <text class="result-count number">{{searchResults.length}} 条</text>
+  <view class="home-search">
+    <image class="home-search__icon" src="/assets/home/catalog-icons/search.png" mode="aspectFit" aria-hidden="true"></image>
+    <input
+      class="home-search__input"
+      value="{{keyword}}"
+      placeholder="搜索医书、医案、处方、穴位"
+      placeholder-class="home-search__placeholder"
+      confirm-type="search"
+      maxlength="100"
+      bindinput="onKeywordInput"
+    />
+    <button wx:if="{{keyword}}" class="home-search__clear" bindtap="clearSearch">清除</button>
+  </view>
+
+  <view wx:if="{{isSearching}}" class="home-results">
+    <view class="home-results__header">
+      <text class="home-section-title home-serif">搜索结果</text>
+      <text wx:if="{{!searchLoading && searchResults.length}}" class="home-results__count">{{searchResults.length}} 条</text>
     </view>
-    <view
+
+    <button
       wx:for="{{searchResults}}"
-      wx:key="id"
-      class="result-item pressable"
-      data-type="{{item.type}}"
+      wx:key="key"
+      class="home-result"
+      hover-class="home-row--pressed"
       data-id="{{item.id}}"
       data-route="{{item.route}}"
       bindtap="openSearchResult"
     >
-      <text class="result-type">{{item.typeText}}</text>
-      <view class="result-copy">
-        <text class="result-title">{{item.title}}</text>
-        <text class="result-summary">{{item.summary}}</text>
+      <text class="home-result__type">{{item.typeText}}</text>
+      <view class="home-result__copy">
+        <text class="home-result__title">{{item.title}}</text>
+        <text wx:if="{{item.summary}}" class="home-result__summary">{{item.summary}}</text>
       </view>
+      <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true"></image>
+    </button>
+    <button wx:if="{{hasMoreCases}}" class="home-results__action" bindtap="openMoreCases">查看更多医案</button>
+    <button wx:if="{{hasMorePrescriptions}}" class="home-results__action" bindtap="openMorePrescriptions">查看更多处方</button>
+
+    <view wx:if="{{searchLoading}}" class="home-results__status">正在搜索…</view>
+    <view wx:elif="{{searchFailed}}" class="home-results__status">
+      <text>部分馆藏暂时无法搜索</text>
+      <button class="home-results__action" bindtap="retrySearch">重试</button>
     </view>
-    <view wx:if="{{!searchResults.length}}" class="empty-state">
-      <text class="empty-title">未检索到相关条目</text>
-      <text class="empty-text">试试“内经”“桂枝汤”或“督脉”等关键词</text>
+    <view wx:elif="{{!searchResults.length}}" class="home-results__status">
+      <text class="home-results__empty-title">未检索到相关条目</text>
+      <text>试试“内经”“桂枝汤”或“督脉”等关键词</text>
     </view>
   </view>
 
   <block wx:else>
-    <view class="entry-panel">
-      <view
+    <view class="home-shortcuts">
+      <navigator
         wx:for="{{entries}}"
         wx:key="title"
-        class="entry-card entry-card--{{item.theme}} pressable"
-        data-url="{{item.url}}"
-        bindtap="openEntry"
+        class="home-shortcut"
+        url="{{item.url}}"
+        hover-class="home-link--pressed"
       >
-        <image wx:if="{{item.theme === 'case'}}" class="entry-card-image" src="/assets/home/cards/case-card.jpg" mode="scaleToFill"></image>
-        <image wx:elif="{{item.theme === 'book'}}" class="entry-card-image" src="/assets/home/cards/book-card.jpg" mode="scaleToFill"></image>
-        <image wx:elif="{{item.theme === 'prescription'}}" class="entry-card-image" src="/assets/home/cards/prescription-card.jpg" mode="scaleToFill"></image>
-        <image wx:else class="entry-card-image" src="/assets/home/cards/meridian-card.jpg" mode="scaleToFill"></image>
+        <image class="home-shortcut__icon" src="/assets/home/catalog-icons/{{item.icon}}.png" mode="aspectFit" aria-hidden="true"></image>
+        <text>{{item.title}}</text>
+      </navigator>
+    </view>
+
+    <view class="home-bookshelf">
+      <view class="home-bookshelf__header">
+        <text class="home-section-title home-serif">经典医书</text>
+        <navigator class="home-bookshelf__all" url="{{bookListUrl}}" hover-class="home-link--pressed">
+          <text>查看全部</text>
+          <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true"></image>
+        </navigator>
+      </view>
+      <view class="home-bookshelf__books">
+        <button
+          wx:for="{{shelf}}"
+          wx:key="name"
+          class="home-book"
+          hover-class="home-link--pressed"
+          data-name="{{item.name}}"
+          bindtap="openBook"
+          aria-label="阅读{{item.name}}"
+        >
+          <image class="home-book__cover" src="{{item.cover}}" mode="aspectFit" aria-hidden="true"></image>
+          <view class="home-book__copy">
+            <text class="home-book__title home-serif">{{item.name}}</text>
+            <text class="home-book__author">{{item.author}}</text>
+            <view class="home-book__rule"></view>
+            <text class="home-book__subject">{{item.subject}}</text>
+          </view>
+        </button>
       </view>
     </view>
 
-    <view class="quote-card">
-      <text class="quote-text">“ 博学之，审问之，慎思之，明辨之，笃行之。 ”</text>
-      <text class="quote-source">——《中庸》</text>
-    </view>
-
-    <view class="daily-card">
-      <section-heading title="{{daily.title}}"></section-heading>
-      <view class="daily-content">
-        <view class="daily-copy">
-          <text class="daily-quote">{{daily.quote}}</text>
-          <text class="daily-source">—— {{daily.source}}</text>
+    <view class="home-cases">
+      <view class="home-bookshelf__header">
+        <text class="home-section-title home-serif">经典医案</text>
+        <navigator class="home-bookshelf__all" url="{{caseListUrl}}" hover-class="home-link--pressed">
+          <text>查看全部</text>
+          <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true"></image>
+        </navigator>
+      </view>
+      <view class="home-cases__list">
+        <button wx:for="{{featuredCases}}" wx:key="id" class="home-case" data-id="{{item.id}}" bindtap="openCase" hover-class="home-row--pressed" aria-label="阅读{{item.title}}">
+          <text class="home-case__number">{{item.number}}</text>
+          <view class="home-case__copy">
+            <text class="home-case__title home-serif">{{item.title}}</text>
+            <text wx:if="{{item.source}}" class="home-case__source">{{item.source}}</text>
+            <text wx:if="{{item.excerpt}}" class="home-case__excerpt">{{item.excerpt}}</text>
+          </view>
+          <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true"></image>
+        </button>
+        <view wx:if="{{casesLoading}}" class="home-results__status">正在加载经典医案…</view>
+        <view wx:elif="{{casesFailed}}" class="home-results__status">
+          <text>医案暂时无法加载</text>
+          <button class="home-results__action" bindtap="loadFeaturedCases">重新加载</button>
         </view>
-        <button class="study-button pressable" bindtap="openDailyLearning">进入学习</button>
+        <view wx:elif="{{!featuredCases.length}}" class="home-results__status">暂无精选医案，可查看全部馆藏</view>
       </view>
     </view>
   </block>
-
-  <view class="home-bottom-spacer"></view>
 </view>

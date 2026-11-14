@@ -1,7 +1,20 @@
-<view class="placeholder-page">
-  <view class="placeholder-title">{{item.title}}</view><text class="placeholder-text">{{item.source}}</text>
-  <view class="list-card"><view class="list-card-title">组成</view><view class="list-card-desc">{{item.composition}}</view></view>
-  <view class="list-card"><view class="list-card-title">方义学习</view><view class="list-card-desc">{{item.explanation}}</view></view>
-  <view class="list-card"><view class="list-card-title">说明</view><view class="list-card-desc">{{item.summary}}</view></view>
-  <view class="disclaimer">{{disclaimer}}</view>
+<view class="detail-page prescription-detail page-fade">
+  <custom-nav title="处方详情" showBack="{{true}}"></custom-nav>
+  <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view wx:if="{{loading}}" class="detail-state">正在加载处方…</view>
+    <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry" bindtap="retry">重新加载</button></view>
+    <block wx:elif="{{item}}">
+      <view class="detail-hero">
+        <view class="detail-title">{{item.title}}</view>
+        <view class="detail-meta">{{item.source || '出处未注明'}}</view>
+        <view wx:if="{{item.tags.length}}" class="tag-row"><text wx:for="{{item.tags}}" wx:for-item="tag" wx:key="*this" class="case-tag">{{tag}}</text></view>
+      </view>
+      <view wx:for="{{sections}}" wx:key="key" class="detail-card">
+        <view class="detail-card__title">{{item.title}}</view>
+        <text class="detail-content prescription-content" user-select="{{true}}">{{item.content}}</text>
+      </view>
+      <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
+      <view class="disclaimer">{{disclaimer}}</view>
+    </block>
+  </scroll-view>
 </view>

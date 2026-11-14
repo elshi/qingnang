@@ -10,7 +10,7 @@ function collectSearchText(item) {
 function searchLocal(keyword) {
   const query = normalize(keyword);
   if (!query) return [];
-  return [...sampleData.cases, ...sampleData.books, ...sampleData.prescriptions, ...sampleData.meridians]
+  return [...sampleData.cases, ...sampleData.books, ...sampleData.meridians]
     .filter((item) => collectSearchText(item).includes(query))
     .map((item) => ({ ...item, typeText: typeTextMap[item.type] || '内容', route: routeMap[item.type] }));
 }

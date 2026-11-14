@@ -1,55 +1,41 @@
-<view class="classic-page page-fade">
+<view class="catalog-page page-fade">
   <custom-nav title="经典医书" showBack="{{true}}"></custom-nav>
-  <view class="search-wrap">
-    <view class="search-box">
-      <image src="/assets/cases/search.png" mode="aspectFit"></image>
-      <input value="{{keyword}}" placeholder="搜索书名或首字母" placeholder-class="search-placeholder" confirm-type="search" bindinput="onKeywordInput" />
-      <button wx:if="{{keyword}}" class="clear-button pressable" bindtap="clearKeyword">清除</button>
-    </view>
+  <view class="catalog-search">
+    <image src="/assets/cases/search.png" mode="aspectFit" aria-hidden="true"></image>
+    <input class="catalog-search__input" value="{{keyword}}" placeholder="搜索书名" placeholder-class="catalog-search__placeholder" bindinput="onKeywordInput" confirm-type="search" />
+    <button wx:if="{{keyword}}" class="catalog-search__clear pressable" bindtap="clearKeyword">清除</button>
   </view>
-  <view class="book-layout">
-    <scroll-view class="book-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-into-view="{{bookScrollIntoView}}">
-      <view class="book-list">
-        <block wx:if="{{!loading && !error && items.length}}">
-          <view wx:for="{{bookGroups}}" wx:key="initial" wx:for-item="group" id="{{group.id}}" class="book-group">
-            <view class="book-group__title">{{group.initial}}</view>
-            <view wx:for="{{group.items}}" wx:key="id" wx:for-item="book" wx:for-index="bookIndex" class="book-card pressable" data-id="{{book.id}}" bindtap="openReader">
-              <image wx:if="{{!book.coverFailed}}" class="book-cover" src="{{book.cover}}" mode="aspectFill" lazy-load="{{true}}" fade-in="{{true}}" data-id="{{book.id}}" binderror="onBookCoverError"></image>
-              <view wx:else class="book-cover book-cover--fallback">
-                <view class="book-cover__binding"></view>
-                <view class="book-cover__frame"><text>{{book.name}}</text></view>
-              </view>
-              <view class="book-copy">
-                <view class="book-title">{{book.name}}</view>
-                <view class="book-summary">{{book.summary}}</view>
-                <view class="book-progress {{book.hasProgress ? '' : 'book-progress--muted'}}">
-                  <view class="book-progress__label">{{book.progressLabel}}</view>
-                  <view wx:if="{{book.showProgressBar}}" class="book-progress__track">
-                    <view class="book-progress__bar" style="width: {{book.progressPercent}}%;"></view>
-                  </view>
-                </view>
-                <view class="book-meta">{{book.dynasty || '朝代未注明'}} · {{book.author || '作者未注明'}} · {{book.chapter_count}} 章</view>
-              </view>
-              <view class="outline-action">阅读</view>
+  <scroll-view class="catalog-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-top="{{bookScrollTop}}">
+    <view class="catalog-list">
+      <view class="result-head">
+        <text>{{isSearching ? '搜索结果' : '全部医书'}}</text>
+        <text wx:if="{{!loading && !error}}" class="result-count">{{items.length}} 部</text>
+      </view>
+      <block wx:if="{{!loading && !error}}">
+        <view wx:for="{{items}}" wx:key="id" wx:for-item="book" class="catalog-card pressable" data-id="{{book.id}}" bindtap="openReader" aria-role="button" aria-label="阅读{{book.name}}">
+          <view class="catalog-card__title">{{book.name}}</view>
+          <view class="catalog-card__meta">{{book.dynasty || '朝代未注明'}} · {{book.author || '作者未注明'}} · {{book.chapter_count}} 章</view>
+          <view class="book-progress">
+            <text class="book-progress__label {{book.hasProgress ? '' : 'book-progress__label--muted'}}">{{book.progressLabel}}</text>
+            <view wx:if="{{book.showProgressBar}}" class="book-progress__track">
+              <view class="book-progress__bar" style="width: {{book.progressPercent}}%;"></view>
             </view>
           </view>
-        </block>
-        <view wx:if="{{loading}}" class="empty-state"><text class="empty-copy">正在加载医书...</text></view>
-        <view wx:elif="{{error}}" class="empty-state">
-          <text class="empty-copy">{{error}}</text>
-          <button class="retry-action pressable" bindtap="retry">重新加载</button>
+          <view wx:if="{{book.summary}}" class="catalog-card__content">{{book.summary}}</view>
         </view>
-        <view wx:elif="{{!items.length}}" class="empty-state">
-          <text class="empty-title">未找到相关医书</text>
-          <text class="empty-copy">试试书名关键字，或输入 A-Z 首字母。</text>
-          <button wx:if="{{keyword}}" class="retry-action pressable" bindtap="clearKeyword">查看全部</button>
-        </view>
-        <view class="bottom-spacer"></view>
+      </block>
+      <view wx:if="{{error}}" class="state-block">
+        <view>{{error}}</view>
+        <button class="state-action pressable" bindtap="retry">重新加载</button>
       </view>
-    </scroll-view>
-  </view>
-  <view wx:if="{{alphabetNav.length}}" class="alphabet-nav">
-    <view wx:for="{{alphabetNav}}" wx:key="*this" class="alphabet-nav__item" data-initial="{{item}}" catchtap="jumpToInitial">{{item}}</view>
-  </view>
+      <view wx:elif="{{loading}}" class="state-block">正在加载医书...</view>
+      <view wx:elif="{{!items.length}}" class="state-block">
+        <view>{{isSearching ? '未找到相关医书' : '暂无医书数据'}}</view>
+        <button wx:if="{{isSearching}}" class="state-action pressable" bindtap="clearKeyword">查看全部</button>
+      </view>
+      <view wx:else class="state-block state-block--muted">已经到底了</view>
+    </view>
+    <view class="tabbar-spacer"></view>
+  </scroll-view>
   <app-tab-bar></app-tab-bar>
 </view>

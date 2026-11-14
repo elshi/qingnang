@@ -1,5 +1,4 @@
 {
-  "usingComponents": {
-    "section-heading": "/components/section-heading/section-heading"
-  }
+  "navigationBarTitleText": "青囊经典",
+  "backgroundColor": "#F8F3EA"
 }

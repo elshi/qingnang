@@ -66,7 +66,16 @@ Page({
     error: ''
   },
 
-  onLoad() {
+  onLoad(options = {}) {
+    if (options.keyword) {
+      let keyword = options.keyword;
+      try {
+        keyword = decodeURIComponent(keyword);
+      } catch (error) {
+        // The keyword can already be decoded when it comes from a page entry.
+      }
+      this.setData({ keyword });
+    }
     this.loadFacets();
     this.loadCases(true);
   },

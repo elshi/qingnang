@@ -1,30 +1,46 @@
-# Design QA
+# 青囊经典首页 · 方案 1 验收
 
-## Reference
+日期：2026-11-14。范围：原生微信小程序首页及共用底部导航。
 
-- Source: user-provided three-screen mobile reference for 经典医书、经典处方、经络穴位.
-- Target: WeChat mini program pages at the existing routes.
+## 设计与证据
 
-## Implemented Comparison
+- 选定设计：`design/home-editorial-selected.png`，源图 852 × 1846 像素。对应本轮第一张设计图 `exec-1fd01252-277b-4109-8034-273a3fc8eddd.png`。
+- 原生模拟器截图目录：`C:/Users/stone/.codex/visualizations/2026/11/13/01a1d5e2-832e-7e93-81a5-dca685730d4d/qingnang-preview/`。
+- 最终首页：`home-editorial-final.png`；全页并排：`home-editorial-comparison.png`；书籍/医案局部并排：`home-editorial-detail.png`。
+- 搜索最终状态：`home-editorial-search-final.png`。
+- 模拟器为 iPhone 12/13 Pro，390 × 844 CSS px；原始截图 546 × 1179 px（约 1.4 倍）。并排对照统一为 390 × 844 展示，原生状态栏、微信胶囊和安全区不属于设计图内容。两个原始图的宽高比存在不足 1 px 的缩放舍入差。
+- 首页使用真实云端医案数据，搜索使用真实完整书目与医案接口。第三条显示真实的叶天士《临证指南医案》记录，未用设计稿示例文字覆盖馆藏内容。
 
-- 经典医书 uses a fixed dynasty rail, compact book-cover cards, soft tags, metadata, and outline actions.
-- 经典处方 uses a rounded search field, popular/results heading, illustrated formula cards, tags, sources, and empty state.
-- 经络穴位 uses overview/经脉/腧穴 tabs, searchable content, meridian diagrams, point labels, and detail actions.
-- All three pages reuse the warm rice-paper background, low-saturation gold/brown palette, custom navigation, and bottom tab bar.
+## 对照与修正记录
 
-## Verification
+1. 初次原生截图 `home-editorial-initial.png`：P1，微信 v2 原生按钮默认宽度将医案列表压窄；P2，按钮默认字重让作者和简介偏重；P2，第三条医案被底栏遮住。
+   修正：提高卡片宽度规则优先级、显式常规字重、收紧书目行高与医案间距。`home-editorial-final.png` 已显示完整四本书及三条医案。
+2. 首次搜索截图 `home-editorial-search.png`：P2，结果按钮同样受原生默认宽度影响，清除按钮占位过宽。
+   修正：结果行显式全宽、清除按钮自适应宽度；`home-editorial-search-final.png` 已复核，标题和摘要按全宽排列。
+3. 功能检查发现部署中的关键词书籍接口返回字段不匹配错误，而完整书目接口返回 273 本书。
+   修正：首页与医书列表复用完整书目接口，按名称、作者、摘要本地搜索，并在单个页面实例内复用请求。已实际打开《黄帝内经·素问》阅读页，搜索“内经”返回真实书目。
 
-- All mini program JavaScript files pass `node --check`.
-- All mini program JSON files parse successfully.
-- Search scenarios for 桂枝、百会、黄帝内经 pass.
-- All book covers, prescription images, and meridian diagrams referenced by data exist.
-- Existing reader, prescription detail, and meridian detail route contracts remain intact.
-- WeChat Developer Tools is installed and the project-open command was issued.
+## 五项视觉检查
 
-## Blocking Issue
+- 字体：宋体用于品牌、分区及书名，正文为系统中文字体；作者和摘要为常规字重。原生设备字体渲染与设计图存在细微差异。
+- 布局：小型品牌、横向四入口、两行四本书、编号三条医案均保留。对安全区压缩了纵向空白，首页可滚动，底部留足空间。
+- 色彩：米白底、深褐文字、古铜金入口；底部恢复医书、医案页面的原有白底金色选中态。
+- 图片：四本封面分别使用 ImageGen 根据选定图生成，透明边缘、书名与布面色彩已检查。标准图标采用 Phosphor Light 库并附许可，未手工绘制图标。
+- 文案：标题为“青囊经典”，四模块和两处“查看全部”准确。医案出处及摘要来自实际数据；正文单行截断，点击可查看原文。
 
-- Automated capture from the installed WeChat Developer Tools fails with `SetIsBorderRequired failed: 不支持此接口 (0x80004002)`.
-- The Developer Tools CLI open command did not return compile output before timeout.
-- A same-viewport screenshot comparison against the source image could not be completed in this environment.
+## 功能与编译
 
-final result: blocked
+- 微信原生 WXML、WXSS 编译成功，JavaScript 语法与 `git diff --check` 通过。
+- 原生交互验证：黄帝内经阅读页 id=1、霍乱医案详情 id=32707；两个“查看全部”分别进入医书和医案页；处方和经络入口分别进入对应模块；搜索“内经”、清除返回首页。
+- 独立 Node 检查覆盖四本书路由、医案路由、部分加载失败、无结果、并发请求过期响应、卸载后响应、书目本地匹配及搜索重置。
+- 最后一次模拟器 console 的 error 过滤结果为空。
+- 已生成本次代码的微信预览二维码 `qingnang-editorial-preview-2026-11-14.png`。未上传发布版本。
+
+## 后续细节与验证范围
+
+- P3：标准图标的笔画与生成设计稿有细微差异；线装封面纹理为重新生成，非逐像素复制。
+- 仅实际验证上述原生模拟器视口；未进行物理手机扫码或其他尺寸实机测试。
+- 云端曾出现暂时性 500/400，后续请求恢复成功。界面提供失败重试；未修改或部署后端。
+- 历史验收记录保留在 `design/qa-before-editorial-home.md`。
+
+final result: passed

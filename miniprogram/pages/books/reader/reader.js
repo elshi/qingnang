@@ -90,6 +90,7 @@ Page({
   onLoad(options) {
     this.bookId = options.id;
     this.initialChapterId = options.chapterId;
+    this.initialChapterTitle = options.chapterTitle ? decodeURIComponent(options.chapterTitle) : '';
     this.currentScrollTop = 0;
     this.restoreScrollTop = 0;
     this.loadReaderPreferences();
@@ -142,12 +143,16 @@ Page({
         displayTitle: formatDirectoryTitle(chapter)
       }));
       const progress = readStorage(`${PROGRESS_KEY_PREFIX}${this.bookId}`, {});
-      const preferredChapterId = this.initialChapterId || progress.chapterId;
+      const chapterByTitle = this.initialChapterTitle && chapters.find((item) => (
+        String(item.title || '').trim().startsWith(this.initialChapterTitle)
+      ));
+      const initialChapterId = this.initialChapterId || (chapterByTitle && chapterByTitle.id);
+      const preferredChapterId = initialChapterId || progress.chapterId;
       const selected = chapters.find((item) => String(item.id) === String(preferredChapterId))
         || chapters[0];
       this.preferredContentMode = progress.contentMode === 'shiyi' ? 'shiyi' : 'original';
 
-      this.restoreScrollTop = this.initialChapterId ? 0 : Number(progress.scrollTop || 0);
+      this.restoreScrollTop = initialChapterId ? 0 : Number(progress.scrollTop || 0);
       this.setData({
         book: { ...book, chapters },
         chapters,
