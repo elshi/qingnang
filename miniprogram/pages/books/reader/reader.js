@@ -1,4 +1,5 @@
 const { getBookDetail, getBookChapter } = require('../../../utils/books-api');
+const learningStore = require('../../../utils/learning-store');
 
 const PREFERENCE_KEY = 'bookReaderPreferences';
 const PROGRESS_KEY_PREFIX = 'bookReaderProgress:';
@@ -90,6 +91,9 @@ Page({
   onLoad(options) {
     this.bookId = options.id;
     this.initialChapterId = options.chapterId;
+    this.resumeRequested = options.resume === '1';
+    this.resumeScrollTop = Math.max(0, Number(options.scrollTop) || 0);
+    this.resumeContentMode = options.contentMode === 'shiyi' ? 'shiyi' : 'original';
     this.initialChapterTitle = options.chapterTitle ? decodeURIComponent(options.chapterTitle) : '';
     this.currentScrollTop = 0;
     this.restoreScrollTop = 0;
@@ -150,9 +154,9 @@ Page({
       const preferredChapterId = initialChapterId || progress.chapterId;
       const selected = chapters.find((item) => String(item.id) === String(preferredChapterId))
         || chapters[0];
-      this.preferredContentMode = progress.contentMode === 'shiyi' ? 'shiyi' : 'original';
+      this.preferredContentMode = this.resumeRequested ? this.resumeContentMode : progress.contentMode === 'shiyi' ? 'shiyi' : 'original';
 
-      this.restoreScrollTop = initialChapterId ? 0 : Number(progress.scrollTop || 0);
+      this.restoreScrollTop = this.resumeRequested ? this.resumeScrollTop : initialChapterId ? 0 : Number(progress.scrollTop || 0);
       this.setData({
         book: { ...book, chapters },
         chapters,
@@ -227,6 +231,13 @@ Page({
 
   persistProgress() {
     if (!this.bookId || !this.data.selectedChapterId) return;
+    if (this.data.book && this.data.chapter) {
+      learningStore.visit(learningStore.reference('chapter', this.data.book, {
+        title: this.data.chapter.title, source: this.data.book.name,
+        chapterId: String(this.data.selectedChapterId)
+      }), { scrollTop: Math.round(this.currentScrollTop || 0), contentMode: this.data.contentMode,
+        progressLabel: `读至第 ${this.data.currentChapterIndex + 1} 章` });
+    }
     try {
       wx.setStorageSync(`${PROGRESS_KEY_PREFIX}${this.bookId}`, {
         chapterId: this.data.selectedChapterId,

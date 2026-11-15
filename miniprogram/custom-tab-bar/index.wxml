@@ -9,8 +9,8 @@
     hover-stay-time="80"
   >
     <block wx:if="{{item.key === 'home'}}">
-      <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/tabbar/home-active.png" mode="aspectFit"></image>
-      <image wx:else class="tab-icon" src="/assets/tabbar/home-normal.png" mode="aspectFit"></image>
+      <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/personal/tab-book-active.png" mode="aspectFit"></image>
+      <image wx:else class="tab-icon" src="/assets/personal/tab-book-normal.png" mode="aspectFit"></image>
     </block>
     <block wx:elif="{{item.key === 'favorite'}}">
       <image wx:if="{{selected === index}}" class="tab-icon" src="/assets/tabbar/favorite-active.png" mode="aspectFit"></image>

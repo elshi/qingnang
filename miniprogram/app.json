@@ -12,7 +12,11 @@
     "pages/acupoints/detail/detail",
     "pages/favorites/index/index",
     "pages/notes/index/index",
-    "pages/profile/index/index"
+    "pages/profile/index/index",
+    "pages/notes/editor/editor",
+    "pages/history/index/index",
+    "pages/feedback/index/index",
+    "pages/profile/privacy/privacy"
   ],
   "window": {
     "navigationStyle": "custom",
@@ -23,15 +27,28 @@
     "custom": true,
     "color": "#5C5C5A",
     "selectedColor": "#B57923",
-    "backgroundColor": "#FFFFFF",
+    "backgroundColor": "#FAF7F1",
     "list": [
-      { "pagePath": "pages/home/home", "text": "首页", "iconPath": "assets/tabbar/home-normal.png", "selectedIconPath": "assets/tabbar/home-active.png" },
-      { "pagePath": "pages/favorites/index/index", "text": "收藏", "iconPath": "assets/tabbar/favorite-normal.png", "selectedIconPath": "assets/tabbar/favorite-active.png" },
-      { "pagePath": "pages/notes/index/index", "text": "笔记", "iconPath": "assets/tabbar/note-normal.png", "selectedIconPath": "assets/tabbar/note-active.png" },
-      { "pagePath": "pages/profile/index/index", "text": "我的", "iconPath": "assets/tabbar/profile-normal.png", "selectedIconPath": "assets/tabbar/profile-active.png" }
+      {
+        "pagePath": "pages/home/home",
+        "text": "经典",
+        "iconPath": "assets/personal/tab-book-normal.png",
+        "selectedIconPath": "assets/personal/tab-book-active.png"
+      },
+      {
+        "pagePath": "pages/profile/index/index",
+        "text": "我的",
+        "iconPath": "assets/tabbar/profile-normal.png",
+        "selectedIconPath": "assets/tabbar/profile-active.png"
+      }
     ]
   },
   "style": "v2",
   "lazyCodeLoading": "requiredComponents",
-  "sitemapLocation": "sitemap.json"
+  "sitemapLocation": "sitemap.json",
+  "permission": {
+    "scope.record": {
+      "desc": "用于录制并保存你的语音学习笔记"
+    }
+  }
 }

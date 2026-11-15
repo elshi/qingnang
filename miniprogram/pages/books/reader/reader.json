@@ -1,4 +1,7 @@
 {
   "navigationBarTitleText": "医书阅读",
-  "disableScroll": true
+  "disableScroll": true,
+  "usingComponents": {
+    "learning-actions": "/components/learning-actions/index"
+  }
 }

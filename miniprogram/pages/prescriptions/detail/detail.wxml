@@ -1,5 +1,6 @@
 <view class="detail-page prescription-detail page-fade">
   <custom-nav title="处方详情" showBack="{{true}}"></custom-nav>
+  <learning-actions wx:if="{{item && !loading && !error}}" type="prescription" item="{{item}}" />
   <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
     <view wx:if="{{loading}}" class="detail-state">正在加载处方…</view>
     <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry" bindtap="retry">重新加载</button></view>

@@ -2,9 +2,7 @@ Component({
   data: {
     selected: 0,
     tabs: [
-      { text: '首页', pagePath: '/pages/home/home', key: 'home' },
-      { text: '收藏', pagePath: '/pages/favorites/index/index', key: 'favorite' },
-      { text: '笔记', pagePath: '/pages/notes/index/index', key: 'note' },
+      { text: '经典', pagePath: '/pages/home/home', key: 'home' },
       { text: '我的', pagePath: '/pages/profile/index/index', key: 'profile' }
     ]
   },

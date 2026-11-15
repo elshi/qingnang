@@ -1,1 +1,1 @@
-/* Uses global placeholder and list styles. */
+@import "../../../styles/personal.wxss";

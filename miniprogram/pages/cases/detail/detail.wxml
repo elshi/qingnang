@@ -1,5 +1,6 @@
 <view class="detail-page page-fade">
   <custom-nav title="医案详情" showBack="{{true}}"></custom-nav>
+  <learning-actions wx:if="{{item && !loading && !error}}" type="case" item="{{item}}" />
   <view class="detail-tabs">
     <button wx:for="{{tabs}}" wx:key="key" class="detail-tab {{activeTab === item.key ? 'detail-tab--active' : ''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button>
   </view>

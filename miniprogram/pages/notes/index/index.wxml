@@ -1,10 +1,7 @@
-<view class="placeholder-page">
-  <view class="placeholder-title">笔记</view>
-  <text class="placeholder-text">这里将保存学习笔记，可关联医案、医书章节、处方或经脉。</text>
-  <view class="note-editor list-card">
-    <view class="list-card-title">学习笔记草稿</view>
-    <textarea class="note-input" value="{{draft}}" placeholder="记录今日所学..." bindinput="onDraftInput"></textarea>
-    <button class="note-btn" bindtap="saveDraft">保存草稿</button>
-  </view>
-  <view class="disclaimer">{{disclaimer}}</view>
-</view>
+<view class="personal-page"><personal-nav title="我的笔记" back="{{true}}" action="新建" bind:action="create" /><view class="personal-body">
+<view class="personal-search"><image src="/assets/personal/search.png" /><input value="{{keyword}}" placeholder="搜索标题或正文" bindinput="onSearch" maxlength="100" confirm-type="search" /><button wx:if="{{keyword}}" bindtap="clearSearch">清除</button></view>
+<view class="personal-tabs"><button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button></view>
+<button wx:if="{{hasDraft}}" class="draft-entry" bindtap="create">有一篇未完成的草稿，继续书写</button><view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
+<view wx:for="{{items}}" wx:key="key" class="note-row" data-key="{{item.key}}" bindtap="edit" bindlongpress="more" aria-role="button"><view class="personal-title">{{item.title}}</view><view class="note-excerpt">{{item.excerpt}}</view><view class="note-footer"><text>{{item.sourceLabel}}</text><text>{{item.dateLabel}}</text></view></view>
+<view wx:if="{{!items.length}}" class="personal-empty"><image src="/assets/personal/note.png" /><view class="personal-empty-title">{{keyword?'没有找到相关笔记':'暂无笔记'}}</view><view>{{keyword?'换个关键词再试试':'记下心得，让每一次阅读有所收获'}}</view><button class="personal-link" bindtap="create">写一篇笔记</button></view>
+</view></view>

@@ -37,6 +37,7 @@
         <view wx:if="{{chapter}}" class="reader-heading__chapter">{{chapter.title}}</view>
       </view>
     </view>
+    <learning-actions wx:if="{{book && chapter}}" type="chapter" item="{{book}}" chapter="{{chapter}}" track="{{false}}" />
   </view>
 
   <view class="reader-bottombar {{toolbarVisible ? 'reader-toolbar--visible' : ''}}" catchtap="noop">

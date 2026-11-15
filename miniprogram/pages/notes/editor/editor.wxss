@@ -1,0 +1,23 @@
+@import "../../../styles/personal.wxss";
+.source-row { display:flex; align-items:center; padding:15rpx 20rpx; background:#f4eee4; color:#837769; font-size:30rpx; }
+.source-row>text { flex-shrink:0; margin-right:24rpx; }
+.source-row button { display:flex; align-items:center; min-width:0; margin:0 0 0 auto; color:#77694f; font-size:30rpx; text-align:right; }
+.source-row image { flex-shrink:0; width:24rpx; height:24rpx; margin-left:8rpx; }
+.source-tools { display:flex; justify-content:flex-end; }
+.source-tools button { margin:0 0 0 24rpx; padding:12rpx 0; color:#9c855f; font-size:22rpx; }
+.editor-title { width:100%; height:138rpx; font-family:"Songti SC","SimSun",serif; font-size:50rpx; font-weight:700; color:#30281f; }
+.editor-paper { padding:24rpx; border:1rpx solid #e5dbcf; border-radius:10rpx; }
+.editor-content { width:100%; min-height:410rpx; color:#514638; font-size:36rpx; line-height:1.9; }
+.voice-button { display:flex; align-items:center; justify-content:flex-end; width:100%; min-height:60rpx; margin-top:20rpx; color:#a77936; font-size:32rpx; }
+.voice-button image { width:36rpx; height:36rpx; margin-right:6rpx; }
+.personal-page button.voice-button { width:100% !important; }
+.voice-button--active { color:#a44735; }
+.audio-row { display:flex; align-items:center; justify-content:space-between; margin:20rpx 0; padding:16rpx; background:#f3ecdf; }
+.audio-row button { margin:0; color:#99743c; font-size:25rpx; padding:10rpx; }
+.draft-status { margin-top:24rpx; }
+.delete-note { margin-top:60rpx; color:#a06652; font-size:25rpx; padding:20rpx; }
+.picker-mask { position:fixed; inset:0; z-index:200; display:flex; align-items:flex-end; background:rgba(47,36,25,.32); }
+.source-picker { width:100%; background:#faf7f1; border-radius:24rpx 24rpx 0 0; padding:30rpx 36rpx calc(30rpx + env(safe-area-inset-bottom)); }
+.picker-title { display:flex; align-items:center; font-size:36rpx; margin-bottom:20rpx; }
+.picker-title button { margin-left:auto; color:#a77936; font-size:32rpx; padding:18rpx 0; }
+.picker-list { height:55vh; }

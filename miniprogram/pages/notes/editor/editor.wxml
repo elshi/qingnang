@@ -1,0 +1,16 @@
+<view class="personal-page">
+<personal-nav title="写笔记" back="{{true}}" action="保存" busy="{{busy}}" bind:action="save" />
+<view class="personal-body">
+<view class="source-row"><text>关联原文</text><button bindtap="openSource">{{refLabel}}<image src="/assets/personal/chevron.png" /></button></view>
+<view wx:if="{{ref}}" class="source-tools"><button bindtap="chooseSource">更换原文</button><button bindtap="unlink">取消关联</button></view>
+<input class="editor-title" value="{{title}}" data-field="title" bindinput="input" placeholder="笔记标题" maxlength="80" />
+<view class="editor-paper"><textarea class="editor-content" value="{{content}}" data-field="content" bindinput="input" placeholder="记录阅读心得与思考…" maxlength="20000" auto-height="{{true}}" cursor-spacing="100" show-confirm-bar="{{false}}" />
+<button class="voice-button {{recording?'voice-button--active':''}}" bindtap="record"><image src="/assets/personal/mic.png" />{{recording?'结束录音（最长60秒）':'语音'}}</button></view>
+<view wx:if="{{audio}}" class="audio-row"><button bindtap="playAudio">{{playing?'停止播放':'播放语音'}} · {{audio.seconds}}秒</button><button bindtap="removeAudio">移除</button></view>
+<view class="personal-hint draft-status">{{draftStatus}}</view><view wx:if="{{error}}" class="personal-error">{{error}}</view>
+<button wx:if="{{key}}" class="delete-note" bindtap="deleteNote">删除笔记</button>
+</view>
+<view wx:if="{{pickerOpen}}" class="picker-mask" bindtap="closePicker"><view class="source-picker" catchtap="noop"><view class="picker-title">从收藏与阅读记录中选择<button bindtap="closePicker">关闭</button></view>
+<view class="personal-search"><image src="/assets/personal/search.png" /><input placeholder="搜索原文" value="{{choiceKeyword}}" bindinput="searchChoices" /></view>
+<scroll-view scroll-y="{{true}}" class="picker-list"><view wx:for="{{choices}}" wx:key="key" class="personal-row" data-key="{{item.key}}" bindtap="selectSource"><view><view class="personal-title">{{item.title}}</view><view class="personal-meta">{{item.sourceLabel}}</view></view></view><view wx:if="{{!choices.length}}" class="personal-empty">暂无可选原文，先去阅读或收藏一篇经典吧</view></scroll-view></view></view>
+</view>

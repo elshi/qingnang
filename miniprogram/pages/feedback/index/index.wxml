@@ -1,0 +1,9 @@
+<view class="personal-page"><personal-nav title="意见反馈" back="{{true}}" /><view class="personal-body">
+<view wx:if="{{submitted}}" class="feedback-success"><image src="/assets/personal/check.png" /><view class="personal-title">反馈已提交</view><view class="personal-meta">感谢你的反馈，我们会认真查看并持续改进。</view><button class="personal-primary" bindtap="back">返回我的</button></view>
+<block wx:else>
+<view class="feedback-label">反馈类型</view><view class="feedback-types"><button wx:for="{{types}}" wx:key="*this" class="{{type===item?'feedback-type--active':''}}" data-type="{{item}}" bindtap="selectType" disabled="{{busy}}">{{item}}</button></view>
+<view class="feedback-label">反馈内容</view><textarea class="feedback-input feedback-textarea" value="{{content}}" data-field="content" bindinput="input" placeholder="请描述你遇到的问题或建议" maxlength="2000" disabled="{{busy}}" />
+<view class="feedback-label">添加截图 <text>（选填）</text></view><view class="feedback-images"><view wx:for="{{images}}" wx:key="path" class="feedback-image"><image src="{{item.path}}" mode="aspectFill" data-path="{{item.path}}" bindtap="preview" /><button data-index="{{index}}" bindtap="removeImage" disabled="{{busy}}" aria-label="移除截图"><image src="/assets/personal/close.png" /></button></view><button wx:if="{{images.length<3}}" class="add-image" bindtap="chooseImages" disabled="{{busy}}" aria-label="添加截图"><image src="/assets/personal/plus.png" /></button></view>
+<view class="feedback-label">联系方式 <text>（选填）</text></view><input class="feedback-input" value="{{contact}}" data-field="contact" bindinput="input" placeholder="请输入手机号或邮箱" maxlength="100" disabled="{{busy}}" />
+<view wx:if="{{error}}" class="personal-error">{{error}}</view><button class="personal-primary" bindtap="submit" loading="{{busy}}" disabled="{{busy}}">{{busy?'正在提交…':'提交反馈'}}</button><view class="personal-hint feedback-thanks">感谢你的反馈，我们会认真查看并持续改进。</view>
+</block></view></view>

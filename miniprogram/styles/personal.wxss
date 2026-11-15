@@ -1,0 +1,34 @@
+.personal-page { min-height:100vh; background:#faf7f1; color:#30281f; }
+.personal-page button { width:auto !important; min-width:0; font-weight:400 !important; }
+.personal-page button.personal-primary { width:100% !important; }
+.personal-page button.personal-more { width:72rpx !important; }
+.personal-page .personal-tabs button { width:auto !important; min-width:0; }
+.personal-page .feedback-types button { width:auto !important; min-width:0; font-weight:400 !important; }
+.personal-body { padding:0 36rpx calc(40rpx + env(safe-area-inset-bottom)); }
+.personal-search { display:flex; align-items:center; height:84rpx; margin:10rpx 0 20rpx; padding:0 24rpx; border:1rpx solid #e8e0d6; border-radius:40rpx; background:#fcfaf7; }
+.personal-search image { width:30rpx; height:30rpx; margin-right:16rpx; flex-shrink:0; }
+.personal-search input { flex:1; min-width:0; height:82rpx; font-size:34rpx; }
+.personal-search button { margin:0 -12rpx 0 0; padding:16rpx 8rpx; color:#877d70; font-size:24rpx; flex-shrink:0; }
+.personal-tabs { display:flex; border-bottom:1rpx solid #e9e1d7; }
+.personal-tab { position:relative; flex:1; margin:0; padding:38rpx 0; color:#665d51; font-size:36rpx; border-radius:0; }
+.personal-tab--active { color:#a77936; font-weight:600; }
+.personal-tab--active::after { position:absolute; bottom:0; left:24%; right:24%; width:auto; height:3rpx; border:0; border-radius:0; background:#a77936; transform:none; top:auto; }
+.personal-row { display:flex; align-items:center; min-height:210rpx; padding:38rpx 0; border-bottom:1rpx solid #e9e1d7; }
+.personal-row-main { flex:1; min-width:0; }
+.personal-title { font-family:"Songti SC","SimSun",serif; font-size:46rpx; font-weight:700; line-height:1.5; overflow-wrap:break-word; }
+.personal-meta { margin-top:8rpx; color:#8a8073; font-size:32rpx; line-height:1.65; }
+.personal-more { width:72rpx; min-height:88rpx; margin:0 -16rpx 0 12rpx; display:flex; align-items:center; justify-content:center; }
+.personal-more image { width:38rpx; height:38rpx; }
+.personal-empty { padding:120rpx 20rpx 70rpx; text-align:center; color:#948879; font-size:26rpx; line-height:1.9; }
+.personal-empty image { width:76rpx; height:76rpx; opacity:.55; margin-bottom:24rpx; }
+.personal-empty-title { color:#615447; font-size:31rpx; margin-bottom:12rpx; }
+.personal-primary { width:100%; margin:36rpx 0 0; padding:26rpx 24rpx; border-radius:10rpx; background:#ad7d3b; color:#fffaf2; font-size:36rpx; letter-spacing:2rpx; }
+.personal-primary[disabled] { color:#f9f3e9; background:#b8a184; }
+.personal-link { padding:18rpx 0; color:#a77936; font-size:26rpx; }
+.personal-hint { color:#928778; font-size:28rpx; line-height:1.8; }
+.personal-error { padding:16rpx 0; color:#a44735; font-size:32rpx; line-height:1.6; }
+.personal-sync { padding:12rpx 0; color:#948879; font-size:28rpx; }
+
+.personal-tab-indicator { position:absolute; bottom:0; left:30%; right:30%; height:3rpx; background:#a77936; }
+
+.personal-page textarea { box-sizing:border-box; }

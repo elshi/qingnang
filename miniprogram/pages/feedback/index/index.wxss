@@ -1,0 +1,22 @@
+@import "../../../styles/personal.wxss";
+.feedback-label { margin:24rpx 0 20rpx; font-size:36rpx; font-weight:600; }
+.feedback-label text { font-size:29rpx; color:#867b6c; font-weight:400; }
+.feedback-types { display:flex; gap:12rpx; margin-bottom:40rpx; }
+.feedback-types button { flex:1; margin:0; padding:16rpx 4rpx; border:1rpx solid #e4dacd; border-radius:9rpx; font-size:29rpx; color:#675c4e; white-space:nowrap; }
+.feedback-types .feedback-type--active { color:#a77936; background:#f2e8d8; border-color:#bfa16e; }
+.feedback-input { width:100%; height:98rpx; border:1rpx solid #e4dacd; border-radius:10rpx; padding:20rpx; color:#514638; font-size:32rpx; }
+.feedback-textarea { height:210rpx; margin-bottom:36rpx; line-height:1.7; }
+.feedback-images { display:flex; gap:16rpx; margin-bottom:36rpx; }
+.feedback-image,.add-image { position:relative; width:150rpx; height:150rpx; flex-shrink:0; }
+.feedback-image>image { width:150rpx; height:150rpx; border-radius:8rpx; }
+.feedback-image button { position:absolute; top:-10rpx; right:-10rpx; width:44rpx; height:44rpx; background:#faf7f1; border:1rpx solid #e4dacd; border-radius:50%; display:flex; align-items:center; justify-content:center; }
+.feedback-image button image { width:26rpx; height:26rpx; }
+.add-image { display:flex; align-items:center; justify-content:center; margin:0; border:1rpx solid #e4dacd; border-radius:10rpx; }
+.add-image image { width:44rpx; height:44rpx; }
+.personal-page button.add-image { width:150rpx !important; }
+.personal-page .feedback-image button { width:44rpx !important; }
+.feedback-thanks { margin-top:22rpx; text-align:center; }
+.feedback-success { padding:110rpx 20rpx; text-align:center; }
+.feedback-success>image { width:88rpx; height:88rpx; margin-bottom:30rpx; }
+
+.personal-page button.add-image { margin:0 !important; }

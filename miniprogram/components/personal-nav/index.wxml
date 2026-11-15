@@ -1,0 +1,4 @@
+<view class="personal-nav" style="padding-top: {{safeTop}}px;"><view class="nav-row">
+<button wx:if="{{back}}" class="nav-back" bindtap="goBack" aria-label="返回"><image src="/assets/personal/back.png" /></button>
+<text class="nav-title">{{title}}</text><button wx:if="{{action}}" class="nav-action" bindtap="act" disabled="{{busy}}" loading="{{busy}}">{{action}}</button>
+</view></view>

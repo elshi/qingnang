@@ -1,0 +1,9 @@
+.personal-nav { background:#faf7f1; flex-shrink:0; }
+.nav-row { display:flex; align-items:center; min-height:132rpx; padding:0 32rpx; }
+.nav-title { font-family:"Songti SC","SimSun",serif; font-weight:700; font-size:52rpx; color:#30281f; }
+button.nav-back { display:flex; align-items:center; justify-content:flex-start; width:52rpx; min-height:88rpx; margin:0 12rpx 0 0; padding:0; background:transparent; }
+.nav-back image { width:38rpx; height:46rpx; }
+button.nav-action { width:auto; margin:0 -12rpx 0 auto; padding:22rpx 12rpx; color:#a77936; font-size:34rpx; font-weight:400; background:transparent; }
+button::after { border:none; }
+button.nav-back { width:52rpx !important; }
+button.nav-action { width:auto !important; font-weight:400 !important; }

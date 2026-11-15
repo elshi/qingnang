@@ -1,0 +1,4 @@
+@import "../../../styles/personal.wxss";
+.privacy-body { padding-top:28rpx; }
+.privacy-section { margin:34rpx 0; font-size:28rpx; line-height:1.9; color:#7b7062; }
+.privacy-heading { font-size:30rpx; color:#45392b; font-weight:600; margin-bottom:12rpx; }

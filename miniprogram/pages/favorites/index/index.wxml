@@ -1,9 +1,7 @@
-<view class="placeholder-page">
-  <view class="placeholder-title">收藏</view>
-  <text class="placeholder-text">这里将汇总用户收藏的医案、医书、处方与经脉条目。云开发接入后按 openid 读取。</text>
-  <view class="list-card">
-    <view class="list-card-title">暂未收藏</view>
-    <view class="list-card-desc">后续内容详情页会提供收藏按钮，并写入 favorites 集合。</view>
-  </view>
-  <view class="disclaimer">{{disclaimer}}</view>
-</view>
+<view class="personal-page"><personal-nav title="我的收藏" back="{{true}}" /><view class="personal-body">
+<view class="personal-search"><image src="/assets/personal/search.png" /><input value="{{keyword}}" placeholder="搜索我的收藏" bindinput="onSearch" maxlength="100" confirm-type="search" /><button wx:if="{{keyword}}" bindtap="clearSearch">清除</button></view>
+<view class="personal-tabs"><button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button></view>
+<view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
+<view wx:for="{{items}}" wx:key="key" class="personal-row"><view class="personal-row-main" data-key="{{item.key}}" bindtap="openItem" aria-role="button"><view class="personal-title">{{item.title}}</view><view class="personal-meta">{{item.sourceLabel}}</view></view><button class="personal-more" data-key="{{item.key}}" bindtap="more" aria-label="管理收藏"><image src="/assets/personal/more.png" /></button></view>
+<view wx:if="{{!items.length}}" class="personal-empty"><image src="/assets/personal/star.png" /><view class="personal-empty-title">{{keyword?'没有找到相关收藏':'暂无收藏'}}</view><view>{{keyword?'换个关键词再试试':'读到心仪的经典，收藏起来慢慢研读'}}</view><button class="personal-link" bindtap="browse">去读经典</button></view>
+</view></view>

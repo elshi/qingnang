@@ -1,0 +1,5 @@
+<view wx:if="{{ref}}" class="learning-actions">
+<button bindtap="favorite" aria-label="{{favorite?'取消收藏':'收藏'}}"><image src="{{favorite?'/assets/personal/star-filled.png':'/assets/personal/star.png'}}" /><text>{{favorite?'已收藏':type==='chapter'?'收藏本章':'收藏'}}</text></button>
+<button wx:if="{{type==='chapter'}}" bindtap="favoriteBook"><image src="/assets/personal/book.png" /><text>{{bookFavorite?'本书已收藏':'收藏本书'}}</text></button>
+<button bindtap="note"><image src="/assets/personal/note.png" /><text>写笔记</text></button>
+</view>
