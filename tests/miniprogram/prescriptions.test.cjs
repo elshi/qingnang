@@ -57,6 +57,18 @@ test('unload drops pending results and clear resets a filtered empty list', asyn
   assert.equal(empty.data.keyword,'');assert.equal(empty.data.isSearching,false);assert.equal(empty.data.items.length,0);
 });
 
+test('list scrolling stays native and search resets through a one-shot anchor', () => {
+  const markup=fs.readFileSync(path.join(root,'miniprogram/pages/prescriptions/index/index.wxml'),'utf8');
+  assert.equal(markup.includes('scroll-top='),false);
+  assert.equal(markup.includes('bindscroll="onListScroll"'),false);
+  assert.equal(markup.includes('scroll-into-view="{{scrollIntoView}}"'),true);
+  assert.equal(markup.includes('id="prescription-list-top"'),true);
+
+  const {page}=harness(listFile, {'prescriptions-api':{getPrescriptions:async()=>response([])}});
+  page.updateKeyword('桂枝',300);
+  assert.equal(page.data.scrollIntoView,'prescription-list-top');
+});
+
 test('detail preserves original dose and newlines; hides only empty sections', async () => {
   const dose='防风（各3g） 乌头（炮）干姜 桂心（各3.8g）';
   const {page}=harness(detailFile, {'prescriptions-api':{getPrescriptionDetail:async()=>({id:1,title:'度瘴散',modern_dose:dose,decoction:'第一行\r\n第二行',indications:null,explanation:'  '})}});
@@ -76,14 +88,15 @@ test('homepage uses API prescriptions only, preserves IDs, and passes keywords t
   const modules={
     'books-api':{getBooks:async()=>({items:[]})},'cases-api':{getCases:async()=>({items:[]})},
     'prescriptions-api':{getPrescriptions:async()=>{if(fail)throw Error('offline');return {items:[row(8)],has_more:true};}},
-    'search':{searchLocal:()=>[{id:'prescription-001',type:'prescription',title:'示例处方'},{id:'m1',type:'meridian',title:'经络'}],typeTextMap:{prescription:'处方',meridian:'经络'},routeMap:{prescription:'/pages/prescriptions/detail/detail',meridian:'/pages/meridians/detail/detail'}}
+    'meridians-api':{getMeridians:async()=>({items:[]})},'acupoints-api':{getAcupoints:async()=>({items:[]})},
+    'search':{typeTextMap:{prescription:'处方'},routeMap:{prescription:'/pages/prescriptions/detail/detail'}}
   };
   const {page,routes}=harness('miniprogram/pages/home/home.js',modules);
-  page.updateSearch('度瘴 散');assert.equal(page.data.searchResults.length,1);assert.equal(page.data.searchResults[0].id,'m1');
-  const token=page.searchRequest;await page.searchLibrary('度瘴 散',page.data.searchResults,token);
+  page.updateSearch('度瘴 散');assert.equal(page.data.searchResults.length,0);
+  const token=page.searchRequest;await page.searchLibrary('度瘴 散',token);
   assert.equal(page.data.searchResults[0].id,8);assert.equal(page.data.hasMorePrescriptions,true);
   page.openMorePrescriptions();assert.equal(routes[0],'/pages/prescriptions/index/index?keyword='+encodeURIComponent('度瘴 散'));
-  fail=true;await page.searchLibrary('度瘴',[],token);assert.equal(page.data.searchFailed,true);assert.equal(page.data.searchResults.length,0);assert.equal(page.data.hasMorePrescriptions,false);
+  fail=true;await page.searchLibrary('度瘴',token);assert.equal(page.data.searchFailed,true);assert.equal(page.data.searchResults.length,0);assert.equal(page.data.hasMorePrescriptions,false);
 });
 
 

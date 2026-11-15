@@ -1,7 +1,9 @@
 const { getBooks } = require('../../utils/books-api');
 const { getCases } = require('../../utils/cases-api');
 const { getPrescriptions } = require('../../utils/prescriptions-api');
-const { searchLocal, typeTextMap, routeMap } = require('../../utils/search');
+const { getMeridians } = require('../../utils/meridians-api');
+const { getAcupoints } = require('../../utils/acupoints-api');
+const { typeTextMap, routeMap } = require('../../utils/search');
 
 const bookListUrl = '/pages/books/index/index';
 const caseListUrl = '/pages/cases/index/index';
@@ -134,14 +136,11 @@ Page({
     const query = keyword.trim();
     const request = {};
     this.searchRequest = request;
-    const localResults = searchLocal(query)
-      .filter((item) => item.type === 'meridian')
-      .map((item) => searchResult(item, item.type, item.title));
 
     this.setData({
       keyword,
       isSearching: Boolean(query),
-      searchResults: localResults,
+      searchResults: [],
       searchLoading: Boolean(query),
       searchFailed: false,
       hasMoreCases: false,
@@ -149,15 +148,17 @@ Page({
     });
 
     if (query) {
-      this.searchTimer = setTimeout(() => this.searchLibrary(query, localResults, request), 280);
+      this.searchTimer = setTimeout(() => this.searchLibrary(query, request), 280);
     }
   },
 
-  async searchLibrary(keyword, localResults, request) {
-    const [books, cases, prescriptions] = await Promise.all([
+  async searchLibrary(keyword, request) {
+    const [books, cases, prescriptions, meridians, acupoints] = await Promise.all([
       this.loadBookCatalog().catch(() => null),
       getCases({ keyword, page_size: 20 }).catch(() => null),
-      getPrescriptions({ keyword, page_size: 20 }).catch(() => null)
+      getPrescriptions({ keyword, page_size: 20 }).catch(() => null),
+      getMeridians({ keyword, page_size: 50 }).catch(() => null),
+      getAcupoints({ keyword, page_size: 20 }).catch(() => null)
     ]);
     if (request !== this.searchRequest) return;
 
@@ -168,10 +169,12 @@ Page({
       .map((item) => searchResult(item, 'book', item.name)) : [];
     const caseResults = cases ? cases.items.map((item) => searchResult(item, 'case', item.title)) : [];
     const prescriptionResults = prescriptions ? prescriptions.items.map((item) => searchResult(item, 'prescription', item.title)) : [];
+    const meridianResults = meridians ? meridians.items.map((item) => searchResult(item, 'meridian', item.title)) : [];
+    const acupointResults = acupoints ? acupoints.items.map((item) => searchResult(item, 'acupoint', item.title)) : [];
     this.setData({
-      searchResults: [...bookResults, ...caseResults, ...prescriptionResults, ...localResults],
+      searchResults: [...bookResults, ...caseResults, ...prescriptionResults, ...meridianResults, ...acupointResults],
       searchLoading: false,
-      searchFailed: !books || !cases || !prescriptions,
+      searchFailed: !books || !cases || !prescriptions || !meridians || !acupoints,
       hasMoreCases: Boolean(cases && cases.has_more),
       hasMorePrescriptions: Boolean(prescriptions && prescriptions.has_more)
     });

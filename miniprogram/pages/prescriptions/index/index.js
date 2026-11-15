@@ -2,7 +2,7 @@ const { getPrescriptions } = require('../../../utils/prescriptions-api');
 const PAGE_SIZE = 20;
 
 Page({
-  data: { keyword: '', isSearching: false, items: [], total: 0, page: 1, hasMore: true, loading: true, error: '', scrollTop: 0 },
+  data: { keyword: '', isSearching: false, items: [], total: 0, page: 1, hasMore: true, loading: true, error: '', scrollIntoView: '' },
 
   onLoad(options = {}) {
     this.requestId = 0;
@@ -26,7 +26,9 @@ Page({
   updateKeyword(keyword, delay) {
     clearTimeout(this.searchTimer);
     this.requestId += 1; // Invalidate the old query immediately, including during debounce.
-    this.setData({ keyword, isSearching: Boolean(keyword.trim()), items: [], total: 0, page: 1, hasMore: true, error: '', loading: true, scrollTop: 0 });
+    this.setData({ keyword, isSearching: Boolean(keyword.trim()), items: [], total: 0, page: 1, hasMore: true, error: '', loading: true, scrollIntoView: '' }, () => {
+      this.setData({ scrollIntoView: 'prescription-list-top' });
+    });
     if (delay) this.searchTimer = setTimeout(() => this.loadList(true), delay);
     else this.loadList(true);
   },
@@ -57,7 +59,6 @@ Page({
     this.setData({ error: '' });
     return this.loadList(this.data.items.length === 0);
   },
-  onListScroll(event) { this.setData({ scrollTop: event.detail.scrollTop }); },
   openDetail(event) {
     wx.navigateTo({ url: `/pages/prescriptions/detail/detail?id=${encodeURIComponent(event.currentTarget.dataset.id)}` });
   },

@@ -9,6 +9,7 @@
     "pages/prescriptions/detail/detail",
     "pages/meridians/index/index",
     "pages/meridians/detail/detail",
+    "pages/acupoints/detail/detail",
     "pages/favorites/index/index",
     "pages/notes/index/index",
     "pages/profile/index/index"

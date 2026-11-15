@@ -5,9 +5,9 @@
     <input class="catalog-search__input" value="{{keyword}}" placeholder="搜索方名、出处、主治、药材或简称" placeholder-class="catalog-search__placeholder" maxlength="100" confirm-type="search" bindinput="onKeywordInput" bindconfirm="onSearchConfirm" />
     <button wx:if="{{keyword}}" class="catalog-search__clear" bindtap="clearSearch">清除</button>
   </view>
-  <scroll-view class="prescription-scroll catalog-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-top="{{scrollTop}}" bindscroll="onListScroll" lower-threshold="250" bindscrolltolower="loadMore">
+  <scroll-view class="prescription-scroll catalog-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}" scroll-into-view="{{scrollIntoView}}" lower-threshold="250" bindscrolltolower="loadMore">
     <view class="catalog-list">
-      <view class="result-head"><text>{{isSearching ? '搜索结果' : '全部处方'}}</text><text wx:if="{{items.length || (!loading && !error)}}" class="result-count">{{total}} 方</text></view>
+      <view id="prescription-list-top" class="result-head"><text>{{isSearching ? '搜索结果' : '全部处方'}}</text><text wx:if="{{items.length || (!loading && !error)}}" class="result-count">{{total}} 方</text></view>
       <view wx:for="{{items}}" wx:key="id" class="catalog-card pressable" data-id="{{item.id}}" bindtap="openDetail" aria-role="button" aria-label="查看{{item.title}}">
         <view class="catalog-card__title">{{item.title}}</view>
         <view class="catalog-card__meta">{{item.source || '出处未注明'}}</view>

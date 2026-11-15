@@ -1,1 +1,9 @@
-/* Uses global placeholder and list styles. */
+@import "../../cases/detail/detail.wxss";
+@import "../index/index.wxss";
+.meridian-detail .meridian-content { display:block; font-size:30rpx; line-height:1.85; white-space:pre-wrap; overflow-wrap:anywhere; }
+.meridian-detail .detail-meta { font-family:serif; }
+.meridian-detail .point-card { padding-bottom:28rpx; }
+.meridian-detail .point-count { float:right; color:#9b8b76; font-size:22rpx; font-weight:400; }
+.meridian-detail .disclaimer { padding-bottom:calc(40rpx + env(safe-area-inset-bottom)); }
+.meridian-detail .detail-state { padding:120rpx 32rpx 40rpx; line-height:1.7; }
+.meridian-detail .point-cell--button { width:20%; }

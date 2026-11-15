@@ -1,0 +1,20 @@
+<view class="detail-page acupoint-detail page-fade">
+  <custom-nav title="穴位详情" showBack="{{true}}"></custom-nav>
+  <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view wx:if="{{loading}}" class="detail-state">正在加载穴位…</view>
+    <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry" bindtap="retry">重新加载</button></view>
+    <block wx:elif="{{item}}">
+      <view class="detail-hero">
+        <view class="detail-title">{{item.title}}</view>
+        <view wx:if="{{item.pinyin}}" class="detail-meta">{{item.pinyin}}</view>
+        <view wx:if="{{meta.length}}" class="tag-row"><text wx:for="{{meta}}" wx:key="key" class="case-tag">{{item.value}}</text></view>
+      </view>
+      <view wx:for="{{sections}}" wx:key="key" wx:for-item="section" class="detail-card">
+        <view class="detail-card__title">{{section.title}}</view>
+        <text class="detail-content acupoint-content" user-select="{{true}}">{{section.content}}</text>
+      </view>
+      <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
+      <view class="disclaimer">{{disclaimer}}</view>
+    </block>
+  </scroll-view>
+</view>

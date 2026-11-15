@@ -1,0 +1,5 @@
+@import "../../cases/detail/detail.wxss";
+.acupoint-detail .acupoint-content { display:block; font-size:30rpx; line-height:1.85; white-space:pre-wrap; overflow-wrap:anywhere; }
+.acupoint-detail .detail-meta { font-family:serif; }
+.acupoint-detail .disclaimer { padding-bottom:calc(40rpx + env(safe-area-inset-bottom)); }
+.acupoint-detail .detail-state { padding:120rpx 32rpx 40rpx; line-height:1.7; }

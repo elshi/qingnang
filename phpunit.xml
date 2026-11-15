@@ -25,6 +25,10 @@
         <server name="CASES_TABLE" value="t_cases"/>
         <server name="PRESCRIPTIONS_TABLE" value="t_prescriptions"/>
         <server name="PRESCRIPTIONS_DB_CONNECTION" value="sqlite"/>
+        <server name="MERIDIANS_TABLE" value="t_meridians"/>
+        <server name="MERIDIANS_DB_CONNECTION" value="sqlite"/>
+        <server name="ACUPOINTS_TABLE" value="t_acupoints"/>
+        <server name="ACUPOINTS_DB_CONNECTION" value="sqlite"/>
         <server name="BOOKS_TABLE" value="t_books"/>
         <server name="BOOK_CHAPTERS_TABLE" value="t_book_chapters"/>
         <server name="DB_CONNECTION" value="sqlite"/>

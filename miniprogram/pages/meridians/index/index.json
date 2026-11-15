@@ -1,8 +1,4 @@
 {
-  "navigationBarTitleText": "经络穴位",
-  "disableScroll": true,
-  "usingComponents": {
-    "custom-nav": "/components/custom-nav/custom-nav",
-    "app-tab-bar": "/custom-tab-bar/index"
-  }
+ "navigationBarTitleText": "经络", "disableScroll": true,
+ "usingComponents": { "custom-nav": "/components/custom-nav/custom-nav", "meridian-viewer": "/components/meridian-viewer/index", "app-tab-bar": "/custom-tab-bar/index" }
 }

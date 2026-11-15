@@ -1,0 +1,10 @@
+<view class="chart-panel">
+  <view class="chart-image-wrap">
+    <image class="chart-image" src="{{chart}}" mode="aspectFit" aria-label="{{group === 'regular' ? '十二正经' : '奇经八脉'}}人体经络示意图"></image>
+    <view class="chart-caption">经络示意</view>
+    <view wx:for="{{labels}}" wx:key="id" class="chart-annotation chart-annotation--{{item.side}}" style="top:{{item.top}}%;">
+      <button class="chart-callout chart-callout--{{item.side}} {{selected === item.key ? 'is-current' : ''}}" data-key="{{item.key}}" bindtap="selectLabel" aria-label="查看{{item.title}}穴位" aria-pressed="{{selected === item.key}}"><text wx:if="{{selected === item.key}}" class="selection-icon" aria-hidden="true">✓</text><text>{{item.title}}</text></button>
+      <view class="callout-leader" style="background:{{item.color}}"></view>
+    </view>
+  </view>
+</view>
