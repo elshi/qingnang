@@ -70,36 +70,21 @@ Page({
     }
     this.setData({ busy: true, error: '' });
     try {
-      // Login here only obtains an upload namespace; it does not sign the reader in or sync their notes.
-      const user = await store.cloud('login');
+      await store.requireLogin();
       const images = this.data.images.slice();
       for (let index = 0; index < images.length; index += 1) {
         if (!images[index].fileID) {
-          const extension = /\.(png|jpe?g|webp)$/i.exec(images[index].path);
-          const uploaded = await wx.cloud.uploadFile({
-            cloudPath:
-              'personal/' +
-              user.id +
-              '/feedback/' +
-              this.submissionId +
-              '-' +
-              index +
-              '.' +
-              (extension ? extension[1].toLowerCase() : 'jpg'),
-            filePath: images[index].path
-          });
-          images[index] = { ...images[index], fileID: uploaded.fileID };
+          const fileID = await store.uploadImage(images[index].path);
+          images[index] = { ...images[index], fileID };
           this.setData({ images });
         }
       }
-      await store.cloud('feedback', {
-        feedback: {
+      await store.submitFeedback({
           id: this.submissionId,
           type: this.data.type,
           content,
           contact,
           images: images.map((image) => image.fileID)
-        }
       });
       this.setData({ submitted: true, content: '', contact: '', images: [] });
     } catch (error) {

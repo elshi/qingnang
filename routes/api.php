@@ -29,3 +29,15 @@ Route::get('/acupoints/{id}', 'AcupointController@show');
 Route::get('/books/{id}/chapters/{chapterId}', 'BookController@chapter');
 Route::get('/books/{id}', 'BookController@show');
 Route::get('/books', 'BookController@index');
+
+Route::post('/personal/session', 'PersonalController@login')->middleware('throttle:10,1');
+Route::prefix('personal')->middleware(\App\Http\Middleware\PersonalSession::class)->group(function () {
+    Route::get('/session', 'PersonalController@me');
+    Route::delete('/session', 'PersonalController@logout');
+    Route::get('/records', 'PersonalController@index');
+    Route::post('/records', 'PersonalController@save');
+    Route::delete('/history', 'PersonalController@clearHistory');
+    Route::post('/import', 'PersonalController@import');
+    Route::post('/uploads', 'PersonalController@upload');
+    Route::post('/feedback', 'PersonalController@feedback');
+});

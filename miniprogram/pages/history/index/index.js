@@ -5,8 +5,8 @@ Page({
     this.refresh();
     store
       .synchronize()
-      .then(() => this.refresh())
-      .catch(() => this.setData({ syncError: '云端暂未同步，当前显示本机记录' }));
+      .then(() => { this.setData({ syncError: '' }); this.refresh(); })
+      .catch((error) => this.setData({ syncError: error.message + '；当前显示上次缓存' }));
   },
   refresh() {
     this.setData({
@@ -38,12 +38,11 @@ Page({
       content: '将清空全部浏览记录，收藏与笔记不受影响。',
       confirmText: '清空',
       confirmColor: '#a77936',
-      success: (result) => {
+      success: async (result) => {
         if (!result.confirm) return;
         try {
-          store.clearHistory();
+          await store.clearHistory();
           this.refresh();
-          store.syncQuietly();
           wx.showToast({ title: '已清空', icon: 'success' });
         } catch (error) {
           wx.showToast({ title: error.message, icon: 'none' });

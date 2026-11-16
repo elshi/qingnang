@@ -12,8 +12,7 @@
 .voice-button image { width:36rpx; height:36rpx; margin-right:6rpx; }
 .personal-page button.voice-button { width:100% !important; }
 .voice-button--active { color:#a44735; }
-.audio-row { display:flex; align-items:center; justify-content:space-between; margin:20rpx 0; padding:16rpx; background:#f3ecdf; }
-.audio-row button { margin:0; color:#99743c; font-size:25rpx; padding:10rpx; }
+.speech-preview { margin-top:20rpx; padding:16rpx; border-radius:8rpx; background:#f3ecdf; white-space:pre-wrap; }
 .draft-status { margin-top:24rpx; }
 .delete-note { margin-top:60rpx; color:#a06652; font-size:25rpx; padding:20rpx; }
 .picker-mask { position:fixed; inset:0; z-index:200; display:flex; align-items:flex-end; background:rgba(47,36,25,.32); }

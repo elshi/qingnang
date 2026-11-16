@@ -1,5 +1,4 @@
-const CLOUD_ENV = 'prod-d1gb975fz674ef15d';
-const CLOUD_SERVICE = 'laravel-ld8m';
+const cloudConfig = require('./cloud-config');
 const LOCAL_API = 'http://127.0.0.1:8765';
 
 function isDevelopmentSimulator() {
@@ -25,10 +24,13 @@ function request(options) {
           resolve(body.data);
           return;
         }
-        const message = body.errorMsg
+        const message = (body.errors && Object.values(body.errors)[0] && Object.values(body.errors)[0][0]) || body.errorMsg
           || body.message
           || `请求失败（${response.statusCode || '未知状态'}）`;
-        reject(new Error(message));
+        const error = new Error(message);
+        error.status = response.statusCode;
+        error.data = body.data;
+        reject(error);
       },
       fail(error) {
         reject(new Error(error.errMsg || '网络请求失败，请稍后重试'));
@@ -37,15 +39,17 @@ function request(options) {
 
     wx.cloud.callContainer({
       ...requestOptions,
-      config: { env: CLOUD_ENV },
+      config: { env: cloudConfig.env },
       path: options.path,
       header: {
-        'X-WX-SERVICE': CLOUD_SERVICE,
+        'X-WX-SERVICE': cloudConfig.service,
+        'Content-Type': 'application/json',
+        Accept: 'application/json',
         ...(options.header || {})
       },
       success(response) {
         if (response.statusCode === 404 && !response.data?.errorMsg
-          && requestOptions.method === 'GET' && options.path.startsWith('/api/')
+          && requestOptions.method === 'GET' && options.path.startsWith('/api/') && !options.path.startsWith('/api/personal/')
           && isDevelopmentSimulator()) {
           wx.request({
             ...requestOptions,

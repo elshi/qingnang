@@ -48,7 +48,7 @@
   "sitemapLocation": "sitemap.json",
   "permission": {
     "scope.record": {
-      "desc": "用于录制并保存你的语音学习笔记"
+      "desc": "将你主动输入的语音识别为笔记文字，不保存录音附件"
     }
   }
 }

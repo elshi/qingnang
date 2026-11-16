@@ -16,8 +16,8 @@ Page({
     this.refresh();
     store
       .synchronize()
-      .then(() => this.refresh())
-      .catch(() => this.setData({ syncError: '云端暂未同步，当前显示本机笔记' }));
+      .then((pending) => { this.setData({ syncError: pending ? '有待处理的恢复副本，请打开对应笔记核对' : '' }); this.refresh(); })
+      .catch((error) => this.setData({ syncError: error.message + '；当前显示上次缓存' }));
   },
   refresh() {
     this.setData({
@@ -67,13 +67,12 @@ Page({
             title: '删除笔记',
             content: '删除后无法恢复，确定删除这篇笔记吗？',
             confirmColor: '#a77936',
-            success: (answer) => {
+            success: async (answer) => {
               if (!answer.confirm) return;
               try {
-                store.remove('note', key);
-                store.clearDraft(key);
+                await store.remove('note', key);
+                await store.clearDraft(key);
                 this.refresh();
-                store.syncQuietly();
               } catch (error) {
                 wx.showToast({ title: error.message, icon: 'none' });
               }

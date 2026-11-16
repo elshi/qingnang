@@ -1,9 +1,9 @@
 <view class="detail-page page-fade">
   <custom-nav title="医案详情" showBack="{{true}}"></custom-nav>
-  <learning-actions wx:if="{{item && !loading && !error}}" type="case" item="{{item}}" />
   <view class="detail-tabs">
     <button wx:for="{{tabs}}" wx:key="key" class="detail-tab {{activeTab === item.key ? 'detail-tab--active' : ''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button>
   </view>
+  <learning-actions wx:if="{{item && !loading && !error}}" type="case" item="{{item}}" />
   <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
     <view wx:if="{{loading}}" class="detail-state">正在加载医案...</view>
     <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry pressable" bindtap="retry">重新加载</button></view>

@@ -24,13 +24,16 @@ Page({
     this.setData({ syncMessage: '正在同步学习记录…' });
     try {
       const pending = await store.synchronize();
-      this.setData({ syncMessage: pending ? '本机有新记录，点击继续同步' : '学习记录已同步' });
+      this.setData({ user: store.account(), syncMessage: pending ? '有待处理的恢复副本，请打开笔记核对' : '学习记录已保存到云端', error: '' });
     } catch (error) {
-      this.setData({ syncMessage: '已保存在本机，点击重试同步' });
+      this.setData({ user: store.account(), syncMessage: '连接云端失败，点击重试', error: error.message });
     }
   },
-  openPage(event) {
-    wx.navigateTo({ url: '/pages/' + event.currentTarget.dataset.page + '/index/index' });
+  async openPage(event) {
+    try {
+      await store.requireLogin();
+      wx.navigateTo({ url: '/pages/' + event.currentTarget.dataset.page + '/index/index' });
+    } catch (error) { this.setData({ error: error.message }); }
   },
   openPrivacy() {
     wx.navigateTo({ url: '/pages/profile/privacy/privacy' });
@@ -41,10 +44,12 @@ Page({
       content: '此账号的学习记录会保留，下次登录后可继续查看。',
       confirmText: '退出登录',
       confirmColor: '#a77936',
-      success: (result) => {
+      success: async (result) => {
         if (result.confirm) {
-          store.logout();
-          this.setData({ user: null, syncMessage: '', error: '' });
+          try {
+            await store.logout();
+            this.setData({ user: null, syncMessage: '', error: '' });
+          } catch (error) { this.setData({ error: error.message }); }
         }
       }
     });

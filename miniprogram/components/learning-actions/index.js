@@ -1,7 +1,7 @@
 const store = require('../../utils/learning-store');
 Component({
   properties: { type: String, item: Object, chapter: Object, track: { type: Boolean, value: true } },
-  data: { ref: null, favorite: false, bookFavorite: false },
+  data: { ref: null, favorite: false, bookFavorite: false, busy: false },
   observers: {
     'type,item,chapter': function () {
       this.refresh(true);
@@ -10,6 +10,7 @@ Component({
   pageLifetimes: {
     show() {
       this.refresh(false);
+      store.syncQuietly().then(() => this.refresh(false));
     }
   },
   methods: {
@@ -31,25 +32,29 @@ Component({
       });
       if (track && this.data.track) store.visit(ref);
     },
-    favorite() {
+    async favorite() {
+      if (this.data.busy) return;
+      this.setData({ busy: true });
       try {
-        const favorite = store.toggleFavorite(this.data.ref);
+        const favorite = await store.toggleFavorite(this.data.ref);
         this.setData({ favorite });
-        store.syncQuietly();
         wx.showToast({ title: favorite ? '已收藏' : '已取消收藏', icon: 'none' });
       } catch (error) {
+        this.refresh(false);
         wx.showToast({ title: error.message, icon: 'none' });
-      }
+      } finally { this.setData({ busy: false }); }
     },
-    favoriteBook() {
+    async favoriteBook() {
+      if (this.data.busy) return;
+      this.setData({ busy: true });
       try {
-        const bookFavorite = store.toggleFavorite(store.reference('book', this.data.item));
+        const bookFavorite = await store.toggleFavorite(store.reference('book', this.data.item));
         this.setData({ bookFavorite });
-        store.syncQuietly();
         wx.showToast({ title: bookFavorite ? '已收藏本书' : '已取消收藏', icon: 'none' });
       } catch (error) {
+        this.refresh(false);
         wx.showToast({ title: error.message, icon: 'none' });
-      }
+      } finally { this.setData({ busy: false }); }
     },
     note() {
       store.editNote(this.data.ref);

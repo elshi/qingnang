@@ -1,8 +1,8 @@
 <view class="personal-page"><personal-nav title="隐私保护指引" back="{{true}}" /><view class="personal-body privacy-body">
 <view class="personal-title">你的学习记录，由你掌握</view>
-<view class="privacy-section"><view class="privacy-heading">收藏、笔记与阅读历史</view><text>未登录时，收藏、笔记和最近200条阅读记录保存在本机。微信登录后，这些记录会同步至你的账号。草稿仅保存在本机。你可以取消收藏、删除笔记或清空历史记录；登录后的删除操作将在联网同步后更新至云端。</text></view>
+<view class="privacy-section"><view class="privacy-heading">收藏、笔记与阅读历史</view><text>微信登录后，收藏、笔记、草稿和最近200条阅读记录保存在你的云端账号中，可跨设备查看。本机缓存用于加快读取，网络异常时保留笔记恢复副本并提示未上传。取消收藏、删除笔记和清空历史以云端确认结果为准。</text></view>
 <view class="privacy-section"><view class="privacy-heading">微信登录</view><text>使用微信提供的账号标识区分用户，不读取微信密码、通讯录或聊天记录。退出登录后，本机保留该账号的学习记录，下次登录时可继续使用。</text></view>
-<view class="privacy-section"><view class="privacy-heading">语音与截图</view><text>只有点击语音按钮时才申请麦克风权限；录音用于保存语音笔记，登录后随笔记同步。只有主动选择反馈截图并提交时才上传所选图片，不读取其他相册内容。</text></view>
+<view class="privacy-section"><view class="privacy-heading">语音与截图</view><text>只有点击语音转文字时才使用麦克风，语音通过微信同声传译服务识别为正文；本应用不保存或上传录音附件。只有主动选择反馈截图并提交时才上传所选图片，截图采用私有存储，不读取其他相册内容。</text></view>
 <view class="privacy-section"><view class="privacy-heading">意见反馈</view><text>提交的问题描述、选填的截图和联系方式仅用于处理反馈与联系回复。请勿在反馈中填写不必要的个人敏感信息。</text></view>
 <view class="privacy-section"><view class="privacy-heading">数据管理与联系</view><text>清除微信小程序缓存会移除本机数据，尚未同步的记录将无法恢复。如需处理云端账号数据或咨询隐私问题，请通过“我的 → 意见反馈”提出申请。</text></view>
 <button class="personal-link" bindtap="openContract">查看微信隐私保护指引</button>

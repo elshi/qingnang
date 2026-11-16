@@ -1,6 +1,67 @@
-// Local-first learning records. Drafts never leave this device.
-const PREFIX = 'qingnang.learning.v1:';
-const ACCOUNT_KEY = `${PREFIX}account`;
+// MySQL is authoritative. Local data is a scoped cache and an explicit recovery outbox.
+const { request } = require('./request');
+const PREFIX = 'qingnang.learning.v2:';
+const LEGACY = 'qingnang.learning.v1:';
+const ACCOUNT_KEY = PREFIX + 'account';
+let loginTask = null;
+let syncTask = null;
+const queues = new Map();
+const memory = new Map();
+function read(key, fallback) { const value = wx.getStorageSync(key); return value === '' || value == null ? fallback : value; }
+function account() { const user = read(ACCOUNT_KEY, null); return user && user.token && user.expiresAt > Date.now() ? user : null; }
+function scope() { return account()?.id || 'guest'; }
+function state(owner = scope()) {
+  if (memory.has(owner)) return memory.get(owner);
+  const value = read(PREFIX + owner, {});
+  return { records: value.records || [], pending: value.pending || [] };
+}
+function write(value, owner = scope(), required = false) {
+  memory.set(owner, value);
+  try { wx.setStorageSync(PREFIX + owner, value); }
+  catch (error) { if (required) throw new Error('恢复副本保存失败，请清理本机空间后重试'); }
+}
+function enqueue(owner, action) {
+  const next = (queues.get(owner) || Promise.resolve()).catch(() => {}).then(action);
+  queues.set(owner, next);
+  return next.finally(() => { if (queues.get(owner) === next) queues.delete(owner); });
+}
+async function api(path, method = 'GET', data = {}, user = account()) {
+  try {
+    return await request({ path: '/api/personal/' + path, method, data,
+      header: user ? { Authorization: 'Bearer ' + user.token } : {} });
+  } catch (error) {
+    if (error.status === 401 && account()?.token === user?.token) wx.removeStorageSync(ACCOUNT_KEY);
+    throw error;
+  }
+}
+async function login() {
+  if (loginTask) return loginTask;
+  loginTask = (async () => {
+    const result = await new Promise((resolve, reject) => wx.login({ success: resolve, fail: () => reject(new Error('微信登录失败，请重试')) }));
+    if (!result.code) throw new Error('未取得微信登录凭证，请重试');
+    const user = await api('session', 'POST', { code: result.code }, null);
+    if (!user || !/^[a-f0-9]{32}$/.test(user.id) || !/^[a-f0-9]{64}$/.test(user.token)) throw new Error('登录信息无效');
+    wx.setStorageSync(ACCOUNT_KEY, user);
+    return user;
+  })();
+  try { return await loginTask; } finally { loginTask = null; }
+}
+async function requireLogin() {
+  if (account()) return account();
+  const answer = await new Promise((resolve) => wx.showModal({ title: '登录后保存到云端', content: '使用微信登录后，可在不同设备查看收藏与笔记。', confirmText: '微信登录', confirmColor: '#a77936', success: resolve, fail: () => resolve({ confirm: false }) }));
+  if (!answer.confirm) throw new Error('尚未登录，内容未提交');
+  return login();
+}
+async function logout() {
+  const user = account();
+  if (user) await api('session', 'DELETE', {}, user);
+  wx.removeStorageSync(ACCOUNT_KEY);
+}
+function remember(record, owner) {
+  const value = state(owner);
+  value.records = [record, ...value.records.filter(item => item.key !== record.key)];
+  write(value, owner);
+}
 const TYPES = {
   book: '医书',
   chapter: '医书章节',
@@ -16,36 +77,6 @@ const FILTERS = [
   { key: 'prescription', label: '处方' },
   { key: 'meridian', label: '经络' }
 ];
-let syncTask = null;
-
-function read(key, fallback) {
-  const value = wx.getStorageSync(key);
-  return value === '' || value === undefined || value === null ? fallback : value;
-}
-function account() {
-  return read(ACCOUNT_KEY, null);
-}
-function scope() {
-  const user = account();
-  return user ? user.id : 'guest';
-}
-function keyFor(owner = scope()) {
-  return PREFIX + owner;
-}
-function state(owner = scope()) {
-  const value = read(keyFor(owner), {});
-  return {
-    records: Array.isArray(value.records) ? value.records : [],
-    pending: Array.isArray(value.pending) ? value.pending : []
-  };
-}
-function write(value, owner = scope()) {
-  try {
-    wx.setStorageSync(keyFor(owner), value);
-  } catch (error) {
-    throw new Error('本机存储空间不足，请清理空间后重试');
-  }
-}
 function id() {
   return `${Date.now().toString(36)}-${Math.random().toString(36).slice(2, 12)}`;
 }
@@ -87,97 +118,199 @@ function records(kind) {
     .records.filter((item) => item.kind === kind && !item.deleted)
     .sort((a, b) => b.updatedAt - a.updatedAt);
 }
-function mutate(record) {
-  const value = state();
-  const previous = value.records.find((item) => item.key === record.key);
-  const next = { ...record, updatedAt: Math.max(Date.now(), previous ? previous.updatedAt + 1 : 0) };
-  value.records = [next, ...value.records.filter((item) => item.key !== next.key)];
-  value.pending = [next, ...value.pending.filter((item) => item.key !== next.key)];
-  write(value);
-  return next;
-}
-function remove(kind, key) {
-  return mutate({ key, kind, deleted: true });
-}
-function isFavorite(ref) {
-  return Boolean(ref && records('favorite').some((item) => item.key === `favorite:${refKey(ref)}`));
-}
-function toggleFavorite(ref) {
-  if (!ref) throw new Error('内容尚未加载');
-  const key = `favorite:${refKey(ref)}`;
-  if (isFavorite(ref)) {
-    remove('favorite', key);
-    return false;
+
+async function sendPending(entry, user) {
+  if (scope() !== user.id) throw new Error('账号已变更，请重新打开页面');
+  try {
+    const result = await api('records', 'POST', entry, user);
+    if (result.clearedDraft) remember(result.clearedDraft, user.id);
+    remember(result, user.id);
+    const current = state(user.id);
+    current.pending = current.pending.filter(row => row.mutationId !== entry.mutationId);
+    write(current, user.id);
+    return result;
+  } catch (error) {
+    if (error.status === 409) {
+      if (error.data?.current) remember(error.data.current, user.id);
+      const value = state(user.id);
+      value.pending = ['note', 'draft'].includes(entry.record.kind)
+        ? value.pending.map(row => row.mutationId === entry.mutationId ? { ...row, conflict: true } : row)
+        : value.pending.filter(row => row.mutationId !== entry.mutationId);
+      write(value, user.id);
+    }
+    throw error;
   }
-  mutate({ key, kind: 'favorite', ref, title: ref.title });
-  return true;
+}
+function commit(record, user, expectedVersion, extra = {}) {
+  return enqueue(user.id, async () => {
+    if (scope() !== user.id) throw new Error('账号已变更，请重新打开页面');
+    const current = state(user.id);
+    const old = current.records.find(row => row.key === record.key);
+    const version = expectedVersion === undefined ? (old?.version || 0) : expectedVersion;
+    const previous = current.pending.find(row => row.record.key === record.key);
+    const same = previous && previous.expectedVersion === version && JSON.stringify(previous.record) === JSON.stringify(record);
+    const entry = same ? previous : { record, expectedVersion: version, mutationId: id(), ...extra };
+    if (entry.conflict) throw new Error('云端有更新，当前输入已保留，请重新打开笔记后核对');
+    current.pending = [entry, ...current.pending.filter(row => row.record.key !== record.key)];
+    write(current, user.id, true);
+    return sendPending(entry, user);
+  });
+}
+async function remove(kind, key) {
+  const user = await requireLogin();
+  return commit({ kind, key, deleted: true }, user);
+}
+function isFavorite(ref) { return Boolean(ref && records('favorite').some(item => item.key === 'favorite:' + refKey(ref))); }
+async function toggleFavorite(ref) {
+  if (!ref) throw new Error('内容尚未加载');
+  const user = await requireLogin();
+  const pending = state(user.id).pending.find(row => row.record.key === 'favorite:' + refKey(ref) && !row.conflict);
+  if (pending) {
+    const result = await enqueue(user.id, () => sendPending(pending, user));
+    return !result.deleted;
+  }
+  await synchronize();
+  const key = 'favorite:' + refKey(ref), deleted = isFavorite(ref);
+  await commit({ key, kind: 'favorite', ref, title: ref.title, deleted }, user);
+  return !deleted;
 }
 function visit(ref, progress = {}) {
-  if (!ref) return;
-  // A reading session is never interrupted by an unavailable storage device.
-  try {
-    mutate({ key: `history:${refKey(ref)}`, kind: 'history', ref, title: ref.title, ...progress });
-    const extra = records('history').slice(200);
-    extra.forEach((item) => remove('history', item.key));
-  } catch (error) {
-    /* Nonessential history must not block reading. */
-  }
+  const user = account();
+  if (!user || !ref) return Promise.resolve();
+  const ready = state(user.id).hydrated ? Promise.resolve() : synchronize();
+  return ready.then(() => commit({ key: 'history:' + refKey(ref), kind: 'history', ref, title: ref.title, ...progress }, user)).catch(() => {});
 }
-function clearHistory() {
-  const value = state();
-  const now = Date.now();
-  const removed = value.records
-    .filter((item) => item.kind === 'history' && !item.deleted)
-    .map((item) => ({
-      key: item.key,
-      kind: 'history',
-      deleted: true,
-      updatedAt: Math.max(now, item.updatedAt + 1)
-    }));
-  const keys = new Set(removed.map((item) => item.key));
-  write({
-    records: [...removed, ...value.records.filter((item) => !keys.has(item.key))],
-    pending: [...removed, ...value.pending.filter((item) => !keys.has(item.key))]
+async function clearHistory() {
+  const user = await requireLogin();
+  return enqueue(user.id, async () => {
+    const result = await api('history', 'DELETE', {}, user);
+    const value = state(user.id);
+    value.records = value.records.filter(row => row.kind !== 'history').concat(result.records);
+    value.pending = value.pending.filter(row => row.record.kind !== 'history');
+    write(value, user.id);
   });
 }
-function saveNote(note) {
-  const title = String(note.title || '').trim();
-  const content = String(note.content || '').trim();
+async function saveNote(note, draftId = 'new') {
+  const title = String(note.title || '').trim(), content = String(note.content || '').trim();
   if (!title) throw new Error('请填写笔记标题');
-  if (!content && !note.audio) throw new Error('请填写笔记正文或添加语音');
+  if (!content) throw new Error('请填写笔记正文');
   if (title.length > 80 || content.length > 20000) throw new Error('笔记内容超过长度限制');
-  return mutate({
-    key: note.key || `note:${id()}`,
-    kind: 'note',
-    title,
-    content,
-    ref: note.ref || null,
-    audio: note.audio || null,
-    createdAt: note.createdAt || Date.now()
-  });
+  const user = await requireLogin();
+  const saved = await commit({ key: note.key || 'note:' + id(), kind: 'note', title, content, ref: note.ref || null,
+    createdAt: note.createdAt || Date.now() }, user, note.version || 0, { draftKey: 'draft:' + draftId });
+  const value = state(user.id);
+  value.pending = value.pending.filter(row => row.record.key !== 'draft:' + draftId);
+  write(value, user.id);
+  try { wx.removeStorageSync(draftKey(draftId, user.id)); } catch (error) { /* Cloud acknowledgement is authoritative. */ }
+  return saved;
 }
-function draftKey(key = 'new') {
-  return `${PREFIX}draft:${scope()}:${key}`;
-}
-function getDraft(key) {
-  const draft = read(draftKey(key), null);
-  if (!draft && (!key || key === 'new') && scope() === 'guest') {
-    const legacy = read('noteDraft', '');
-    if (typeof legacy === 'string' && legacy.trim()) return { title: '', content: legacy, ref: null };
-  }
-  return draft;
+function draftKey(key = 'new', owner = scope()) { return PREFIX + 'draft:' + owner + ':' + key; }
+function getDraft(key = 'new') {
+  const local = read(draftKey(key), null);
+  if (local) return local;
+  const remote = records('draft').find(row => row.key === 'draft:' + key);
+  if (remote) return { ...remote, key: remote.noteKey || (key.startsWith('note:') ? key : ''), version: remote.noteVersion || 0 };
+  return null;
 }
 function setDraft(key, draft) {
-  try {
-    wx.setStorageSync(draftKey(key), draft);
-  } catch (error) {
-    throw new Error('草稿保存失败，请检查本机存储空间');
+  wx.setStorageSync(draftKey(key), draft);
+}
+async function saveDraft(key, draft) {
+  setDraft(key, draft);
+  const user = account();
+  if (!user) throw new Error('尚未登录，草稿暂存本机');
+  const saved = await commit({ key: 'draft:' + key, kind: 'draft', title: draft.title || '', content: draft.content || '',
+    ref: draft.ref || null, noteVersion: draft.version || 0, noteKey: draft.key || '' }, user);
+  return saved;
+}
+async function clearDraft(key = 'new') {
+  const user = account();
+  if (user && state().records.some(row => row.key === 'draft:' + key && !row.deleted)) await remove('draft', 'draft:' + key);
+  wx.removeStorageSync(draftKey(key));
+}
+async function importLegacy(user) {
+  if (scope() !== user.id) return;
+  const guestOwnerKey = PREFIX + 'legacy-records-owner';
+  let guestOwner = read(guestOwnerKey, null);
+  if (!guestOwner && (read(LEGACY + 'guest', {}).records || []).length) {
+    wx.setStorageSync(guestOwnerKey, user.id);
+    guestOwner = user.id;
+  }
+  for (const owner of guestOwner === user.id ? [user.id, 'guest'] : [user.id]) {
+    const value = read(LEGACY + owner, {});
+    const items = (value.records || []).filter(row => !row.deleted && (!row.audio || row.content?.trim()));
+    const doneKey = PREFIX + 'import:' + user.id + ':' + owner;
+    const done = new Set(read(doneKey, []));
+    const candidates = items.filter(row => !done.has(row.key));
+    for (let i = 0; i < candidates.length; i += 20) {
+      const batch = candidates.slice(i, i + 20).map(({ audio, ...row }) => row);
+      const result = await api('import', 'POST', { records: batch }, user);
+      result.records.forEach(row => { remember(row, user.id); done.add(row.key); });
+      wx.setStorageSync(doneKey, [...done]);
+      // Acknowledged guest rows must not be imported into a later account.
+      if (owner === 'guest') {
+        const fresh = read(LEGACY + owner, {});
+        const remaining = (fresh.records || []).filter(row => !batch.some(sent => sent.key === row.key && sent.updatedAt === row.updatedAt));
+        wx.setStorageSync(LEGACY + owner, { records: remaining, pending: [] });
+      }
+    }
+  }
+  if (scope() !== user.id) return;
+  const claimedBy = read(PREFIX + 'legacy-draft-owner', null);
+  const legacyDraft = read(LEGACY + 'draft:' + user.id + ':new', null)
+    || (!claimedBy || claimedBy === user.id ? read(LEGACY + 'draft:guest:new', null) : null);
+  const text = !claimedBy || claimedBy === user.id ? read('noteDraft', '') : '';
+  if (!read(PREFIX + 'legacy-draft-imported:' + user.id, false) && !getDraft() && (legacyDraft || typeof text === 'string' && text.trim())) {
+    wx.setStorageSync(PREFIX + 'legacy-draft-owner', user.id);
+    setDraft('new', legacyDraft || { title: '', content: text, ref: null });
+    wx.setStorageSync(PREFIX + 'legacy-draft-imported:' + user.id, true);
   }
 }
-function clearDraft(key) {
-  wx.removeStorageSync(draftKey(key));
-  if (!key || key === 'new') wx.removeStorageSync('noteDraft');
+async function synchronize() {
+  const user = account();
+  if (!user) return 0;
+  if (syncTask && syncTask.owner === user.id) return syncTask.promise;
+  const task = { owner: user.id };
+  task.promise = enqueue(user.id, async () => {
+    await api('session', 'GET', {}, user);
+    await importLegacy(user);
+    for (const entry of state(user.id).pending.slice()) {
+      if (entry.conflict) continue;
+      try { await sendPending(entry, user); }
+      catch (error) { if (error.status !== 409) throw error; }
+    }
+    const remote = [];
+    let cursor = '';
+    do {
+      const page = await api('records' + (cursor ? '?cursor=' + cursor : ''), 'GET', {}, user);
+      remote.push(...page.records);
+      cursor = page.cursor;
+    } while (cursor);
+    write({ records: remote, pending: state(user.id).pending, hydrated: true }, user.id);
+    return state(user.id).pending.length;
+  });
+  syncTask = task;
+  try { return await task.promise; } finally { if (syncTask === task) syncTask = null; }
 }
+function syncQuietly() { return synchronize().catch(() => {}); }
+function dismissConflict(key) {
+  const value = state();
+  value.pending = value.pending.filter(row => row.record.key !== key && row.record.key !== 'draft:' + key);
+  write(value);
+}
+async function uploadImage(path) {
+  await requireLogin();
+  const match = /\.(png|jpe?g|webp)$/i.exec(path);
+  const ticket = await api('uploads', 'POST', { extension: match ? match[1].toLowerCase() : 'jpg' });
+  await new Promise((resolve, reject) => wx.uploadFile({ url: ticket.url, filePath: path, name: 'file', formData: ticket.formData,
+    success: response => response.statusCode >= 200 && response.statusCode < 300 ? resolve() : reject(new Error('截图上传失败，请重试')),
+    fail: () => reject(new Error('截图上传失败，请检查网络')) }));
+  return ticket.fileID;
+}
+async function submitFeedback(feedback) { await requireLogin(); return api('feedback', 'POST', feedback); }
+module.exports = { TYPES, FILTERS, account, scope, id, reference, refKey, category, sourceLabel, matches, records,
+  isFavorite, toggleFavorite, visit, clearHistory, saveNote, remove, getDraft, setDraft, saveDraft, clearDraft,
+  route, open, editNote, dateLabel, historyGroups, login, requireLogin, logout, synchronize, syncQuietly, uploadImage, submitFeedback, dismissConflict };
 function route(ref, progress = {}) {
   if (!ref || !TYPES[ref.type]) throw new Error('关联内容不可用');
   const paths = {
@@ -197,7 +330,8 @@ function route(ref, progress = {}) {
 function open(ref, progress) {
   wx.navigateTo({ url: route(ref, progress) });
 }
-function editNote(ref, noteKey) {
+async function editNote(ref, noteKey) {
+  try { await requireLogin(); } catch (error) { wx.showToast({ title: error.message, icon: "none" }); return; }
   let url = '/pages/notes/editor/editor';
   if (noteKey) url += `?key=${encodeURIComponent(noteKey)}`;
   else if (ref) url += `?ref=${encodeURIComponent(JSON.stringify(ref))}`;
@@ -232,153 +366,3 @@ function historyGroups(items, now = new Date()) {
   });
   return groups;
 }
-async function cloud(action, data = {}) {
-  if (!wx.cloud || !wx.cloud.callFunction) throw new Error('当前微信版本不支持云服务，请升级后重试');
-  try {
-    const response = await wx.cloud.callFunction({ name: 'personal', data: { action, ...data } });
-    if (!response.result || response.result.code !== 0)
-      throw new Error((response.result && response.result.message) || '云端服务暂不可用');
-    return response.result.data;
-  } catch (error) {
-    if (
-      /FUNCTION_NOT_FOUND|FUNCTION_NOT_EXIST|FunctionName|函数不存在/.test(
-        error.errMsg || error.message || ''
-      )
-    )
-      throw new Error('登录服务尚未开通，请稍后重试');
-    throw new Error(error.message || '连接失败，请检查网络后重试');
-  }
-}
-async function login() {
-  const user = await cloud('login');
-  if (!user || !/^[a-f0-9]{32}$/.test(user.id)) throw new Error('登录信息无效');
-  const guest = state('guest');
-  const target = state(user.id);
-  // Copy guest records only after the server verifies the WeChat identity.
-  guest.records
-    .filter((item) => !item.deleted)
-    .forEach((item) => {
-      if (!target.records.some((entry) => entry.key === item.key)) {
-        target.records.push(item);
-        target.pending.push(item);
-      }
-    });
-  write(target, user.id);
-  wx.setStorageSync(ACCOUNT_KEY, user);
-  write({ records: [], pending: [] }, 'guest');
-  return user;
-}
-function logout() {
-  wx.removeStorageSync(ACCOUNT_KEY);
-}
-async function synchronize() {
-  const owner = scope();
-  if (owner === 'guest') return;
-  if (syncTask) {
-    if (syncTask.owner === owner) return syncTask.promise;
-    try {
-      await syncTask.promise;
-    } catch (error) {
-      /* A different account can retry separately. */
-    }
-    if (scope() !== owner) return;
-  }
-  const task = { owner };
-  syncTask = task;
-  task.promise = (async () => {
-    const pending = state(owner).pending.slice();
-    for (let index = 0; index < pending.length; index += 5) {
-      const batch = pending.slice(index, index + 5);
-      const outgoing = [];
-      for (const item of batch) {
-        let next = item;
-        if (item.audio && !item.deleted && !item.audio.path.startsWith('cloud://')) {
-          const uploaded = await wx.cloud.uploadFile({
-            cloudPath: `personal/${owner}/voice/${encodeURIComponent(item.key)}-${item.updatedAt}.mp3`,
-            filePath: item.audio.path
-          });
-          next = { ...item, audio: { ...item.audio, path: uploaded.fileID, localPath: item.audio.path } };
-          const current = state(owner);
-          current.records = current.records.map((row) =>
-            row.key === item.key && row.updatedAt === item.updatedAt ? next : row
-          );
-          current.pending = current.pending.map((row) =>
-            row.key === item.key && row.updatedAt === item.updatedAt ? next : row
-          );
-          write(current, owner);
-        }
-        outgoing.push(
-          next.audio ? { ...next, audio: { path: next.audio.path, seconds: next.audio.seconds } } : next
-        );
-      }
-      await cloud('push', { records: outgoing, owner });
-      const current = state(owner);
-      current.pending = current.pending.filter(
-        (item) => !batch.some((sent) => sent.key === item.key && sent.updatedAt === item.updatedAt)
-      );
-      write(current, owner);
-    }
-    const remote = [];
-    let cursor = '';
-    do {
-      const page = await cloud('pull', { cursor, owner });
-      remote.push(...page.records);
-      cursor = page.cursor;
-    } while (cursor);
-    const current = state(owner);
-    remote.forEach((item) => {
-      if (current.pending.some((entry) => entry.key === item.key)) return;
-      const local = current.records.find((entry) => entry.key === item.key);
-      if (!local || local.updatedAt <= item.updatedAt) {
-        const next =
-          local && local.audio && item.audio && local.audio.path === item.audio.path
-            ? { ...item, audio: { ...item.audio, localPath: local.audio.localPath } }
-            : item;
-        current.records = current.records.filter((entry) => entry.key !== item.key);
-        current.records.push(next);
-      }
-    });
-    write(current, owner);
-    return current.pending.length;
-  })();
-  try {
-    return await task.promise;
-  } finally {
-    if (syncTask === task) syncTask = null;
-  }
-}
-function syncQuietly() {
-  return synchronize().catch(() => {});
-}
-module.exports = {
-  TYPES,
-  FILTERS,
-  account,
-  scope,
-  id,
-  reference,
-  refKey,
-  category,
-  sourceLabel,
-  matches,
-  records,
-  isFavorite,
-  toggleFavorite,
-  visit,
-  clearHistory,
-  saveNote,
-  remove,
-  getDraft,
-  setDraft,
-  clearDraft,
-  route,
-  open,
-  editNote,
-  dateLabel,
-  historyGroups,
-  cloud,
-  login,
-  logout,
-  synchronize,
-  syncQuietly
-};

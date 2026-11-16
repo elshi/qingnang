@@ -33,7 +33,6 @@
   "libVersion": "latest",
   "appid": "wxa71ced3f64d1a657",
   "projectname": "青囊经典",
-  "cloudfunctionRoot": "cloudfunctions/",
   "miniprogramRoot": "./",
   "simulatorPluginLibVersion": {},
   "editorSetting": {}

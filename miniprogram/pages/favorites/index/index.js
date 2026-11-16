@@ -5,8 +5,8 @@ Page({
     this.refresh();
     store
       .synchronize()
-      .then(() => this.refresh())
-      .catch(() => this.setData({ syncError: '云端暂未同步，当前显示本机收藏' }));
+      .then(() => { this.setData({ syncError: '' }); this.refresh(); })
+      .catch((error) => this.setData({ syncError: error.message + '；当前显示上次缓存' }));
   },
   refresh() {
     this.setData({
@@ -44,12 +44,11 @@ Page({
             title: '取消收藏',
             content: '取消收藏“' + item.title + '”？',
             confirmColor: '#a77936',
-            success: (answer) => {
+            success: async (answer) => {
               if (!answer.confirm) return;
               try {
-                store.remove('favorite', item.key);
+                await store.remove('favorite', item.key);
                 this.refresh();
-                store.syncQuietly();
               } catch (error) {
                 wx.showToast({ title: error.message, icon: 'none' });
               }

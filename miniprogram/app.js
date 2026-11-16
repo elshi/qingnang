@@ -1,6 +1,6 @@
 App({
   globalData: {
-    cloudEnvId: 'prod-d4gz10erk8e8f6306',
+    cloudEnvId: require('./utils/cloud-config').env,
     disclaimer: '本平台内容仅供学习参考，不构成医疗诊断建议或治疗方案。'
   },
   onLaunch() {

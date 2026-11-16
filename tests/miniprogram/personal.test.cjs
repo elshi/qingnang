@@ -4,447 +4,239 @@ const fs = require('node:fs');
 const vm = require('node:vm');
 const path = require('node:path');
 const root = path.resolve(__dirname, '../..');
-const validation = require('../../miniprogram/cloudfunctions/personal/validation');
-const owner = 'a'.repeat(32);
-const other = 'b'.repeat(32);
-
-function harness() {
-  const storage = new Map(),
-    routes = [],
-    calls = [];
-  let failWrite = false,
-    cloudHandler = async () => ({ code: 0, data: {} });
-  const wx = {
-    getStorageSync(key) {
-      return storage.has(key) ? structuredClone(storage.get(key)) : '';
-    },
-    setStorageSync(key, value) {
-      if (failWrite) throw Error('full');
-      storage.set(key, structuredClone(value));
-    },
-    removeStorageSync(key) {
-      storage.delete(key);
-    },
-    navigateTo({ url }) {
-      routes.push(url);
-    },
-    navigateBack() {
-      routes.push('back');
-    },
-    redirectTo({ url }) {
-      routes.push(url);
-    },
-    showToast() {},
-    cloud: {
-      async callFunction({ data }) {
-        calls.push(data);
-        return { result: await cloudHandler(data) };
-      },
-      async uploadFile({ cloudPath }) {
-        return { fileID: 'cloud://environment/' + cloudPath };
-      }
+const owner = 'a'.repeat(32), other = 'b'.repeat(32);
+const ref = { type: 'chapter', id: '7', chapterId: '1', title: '上古天真论', source: '黄帝内经' };
+const clone = value => JSON.parse(JSON.stringify(value));
+function problem(status, message, data) { return Object.assign(new Error(message), { status, data }); }
+function server() {
+  const users = new Map(), data = new Map(), calls = [];
+  let nextUser = owner;
+  async function request(options) {
+    calls.push(clone(options));
+    const endpoint = options.path.replace('/api/personal/', '').split('?')[0];
+    if (endpoint === 'session' && options.method === 'POST') {
+      const user = { id: nextUser, token: (nextUser === owner ? 'c' : 'd').repeat(64), expiresAt: Date.now() + 86400000 };
+      users.set(user.token, user);
+      return user;
     }
+    const user = users.get(options.header?.Authorization?.replace('Bearer ', ''));
+    if (!user) throw problem(401, '请先登录');
+    if (!data.has(user.id)) data.set(user.id, new Map());
+    const records = data.get(user.id);
+    if (endpoint === 'session') { if (options.method === 'DELETE') users.delete(user.token); return { id: user.id }; }
+    if (endpoint === 'import') {
+      return { records: options.data.records.map(row => {
+        if (!records.has(row.key)) records.set(row.key, { ...clone(row), version: 1, updatedAt: Date.now(), deleted: false });
+        return clone(records.get(row.key));
+      }) };
+    }
+    if (endpoint === 'history') {
+      const removed = [];
+      for (const row of records.values()) if (row.kind === 'history') {
+        const next = { ...row, deleted: true, version: row.version + 1 }; records.set(row.key, next); removed.push(next);
+      }
+      return { records: removed };
+    }
+    if (endpoint === 'records' && options.method === 'GET') return { records: clone([...records.values()]), cursor: '' };
+    if (endpoint === 'records') {
+      const { record, expectedVersion, mutationId, draftKey } = options.data;
+      const old = records.get(record.key);
+      if (old?.mutationId === mutationId) return clone(old);
+      if ((old?.version || 0) !== expectedVersion) throw problem(409, '内容已在其他设备更新', { current: clone(old) });
+      const saved = { ...clone(record), version: expectedVersion + 1, mutationId, deleted: Boolean(record.deleted), updatedAt: Date.now() };
+      records.set(saved.key, saved);
+      if (record.kind === 'note') {
+        const key = draftKey || 'draft:' + record.key;
+        const draft = { key, kind: 'draft', deleted: true, version: (records.get(key)?.version || 0) + 1, updatedAt: Date.now() };
+        records.set(key, draft);
+        return { ...saved, clearedDraft: draft };
+      }
+      return clone(saved);
+    }
+    if (endpoint === 'feedback') return { id: options.data.id };
+    throw Error('Unhandled endpoint: ' + endpoint);
+  }
+  return { request, calls, data, as(id) { nextUser = id; } };
+}
+function harness(backend = server()) {
+  const storage = new Map(), routes = [], toasts = [];
+  let interceptor = null, confirm = true;
+  const wx = {
+    getStorageSync: key => storage.has(key) ? clone(storage.get(key)) : '',
+    setStorageSync: (key, value) => storage.set(key, clone(value)), removeStorageSync: key => storage.delete(key),
+    showModal: options => options.success({ confirm }), login: options => options.success({ code: 'wechat-code' }),
+    navigateTo: value => routes.push(value.url), navigateBack: () => routes.push('back'), redirectTo: value => routes.push(value.url),
+    showToast: value => toasts.push(value.title)
   };
   const module = { exports: {} };
   vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/learning-store.js'), 'utf8'), {
-    module,
-    wx,
-    Date,
-    Set,
-    Promise,
-    console
+    module, wx, Date, Map, Set, Promise, console,
+    require: () => ({ request: options => interceptor ? interceptor(options, backend.request) : backend.request(options) })
   });
-  return {
-    store: module.exports,
-    wx,
-    storage,
-    routes,
-    calls,
-    failWrites(value) {
-      failWrite = value;
-    },
-    cloud(fn) {
-      cloudHandler = fn;
-    }
-  };
+  return { store: module.exports, wx, storage, routes, toasts, backend,
+    intercept(fn) { interceptor = fn; }, confirm(value) { confirm = value; } };
 }
-function page(file, context) {
+function editor(h, speech) {
   let definition;
-  vm.runInNewContext(fs.readFileSync(path.join(root, file), 'utf8'), {
-    Page(value) {
-      definition = value;
-    },
-    require() {
-      return context.store;
-    },
-    wx: context.wx,
-    getCurrentPages: () => [{}],
-    Date,
-    Set,
-    console
+  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/pages/notes/editor/editor.js'), 'utf8'), {
+    Page: value => definition = value, require: name => name.includes('speech-input') ? speech : h.store,
+    wx: h.wx, getCurrentPages: () => [{}, {}], Date, Set, console, setTimeout, clearTimeout
   });
-  return {
-    ...definition,
-    data: structuredClone(definition.data),
-    setData(value) {
-      Object.assign(this.data, value);
-    }
-  };
+  return { ...definition, data: clone(definition.data), setData(value) { Object.assign(this.data, value); } };
 }
-const ref = { type: 'prescription', id: '0', title: '桂枝汤', source: '伤寒论' };
+const note = (content = '饮食有节，起居有常。') => ({ key: 'note:stable', title: '读书札记', content, version: 0, createdAt: 1000 });
 
-test('favorites retain zero IDs, distinguish chapters and filter all content categories', () => {
-  const { store } = harness();
-  store.toggleFavorite(ref);
-  store.toggleFavorite({ type: 'chapter', id: '7', chapterId: '1', title: '上古天真论', source: '黄帝内经' });
-  store.toggleFavorite({
-    type: 'chapter',
-    id: '7',
-    chapterId: '2',
-    title: '四气调神大论',
-    source: '黄帝内经'
-  });
-  store.toggleFavorite({ type: 'acupoint', id: '1', title: '百会', source: '督脉' });
-  assert.equal(store.records('favorite').length, 4);
-  assert.equal(store.records('favorite').filter((item) => store.matches(item, '黄帝内经', 'book')).length, 2);
-  assert.equal(store.records('favorite').filter((item) => store.matches(item, '百会', 'meridian')).length, 1);
-  assert.equal(store.toggleFavorite(ref), false);
-  assert.equal(store.records('favorite').length, 3);
-  assert.match(store.route(ref), /id=0$/);
+test('guest cancellation never writes personal records', async () => {
+  const h = harness(); h.confirm(false);
+  await assert.rejects(h.store.toggleFavorite(ref), /尚未登录/);
+  assert.equal(h.backend.calls.length, 0);
+  assert.equal(h.store.records('favorite').length, 0);
 });
-
-test('notes edit the same record, preserve links, validate and retain drafts on storage failure', () => {
-  const h = harness();
-  assert.throws(() => h.store.saveNote({ title: ' ', content: '正文' }), /标题/);
-  assert.throws(() => h.store.saveNote({ title: '题目', content: ' ' }), /正文/);
-  const note = h.store.saveNote({ title: '桂枝汤读书札记', content: '调和营卫', ref });
-  h.store.setDraft(note.key, { ...note, content: '第二稿' });
-  h.failWrites(true);
-  assert.throws(() => h.store.saveNote({ ...note, content: '新正文' }), /存储/);
-  assert.equal(h.store.records('note')[0].content, '调和营卫');
-  assert.equal(h.store.getDraft(note.key).content, '第二稿');
-  h.failWrites(false);
-  h.store.saveNote({ ...note, content: '新正文' });
+test('favorite success waits for cloud acknowledgement', async () => {
+  const h = harness(); await h.store.login();
+  let release, reached;
+  const waiting = new Promise(resolve => reached = resolve);
+  h.intercept(async (options, request) => {
+    if (options.path.endsWith('/records') && options.method === 'POST') { reached(); await new Promise(resolve => release = resolve); }
+    return request(options);
+  });
+  const pending = h.store.toggleFavorite(ref); await waiting;
+  assert.equal(h.store.isFavorite(ref), false);
+  release(); assert.equal(await pending, true);
+  assert.equal(h.store.isFavorite(ref), true);
+});
+test('saved notes and drafts survive an empty device cache', async () => {
+  const h = harness(); await h.store.login();
+  await h.store.saveDraft('new', note());
+  await h.store.saveNote(note(), 'new');
+  assert.equal(h.store.getDraft(), null);
+  const device = harness(h.backend); await device.store.login(); await device.store.synchronize();
+  assert.equal(device.store.records('note')[0].content, note().content);
+  assert.equal(device.store.records('draft').length, 0);
+});
+test('lost server response retries the same mutation without duplicate notes', async () => {
+  const h = harness(); await h.store.login(); let fail = true;
+  h.store.setDraft('new', note());
+  h.intercept(async (options, request) => {
+    const result = await request(options);
+    if (options.method === 'POST' && options.path.endsWith('/records') && fail) { fail = false; throw Error('network lost'); }
+    return result;
+  });
+  await assert.rejects(h.store.saveNote(note()), /network/);
+  assert.equal(h.store.records('note').length, 0);
+  assert.equal(h.store.getDraft().content, note().content);
+  await h.store.saveNote(note());
   assert.equal(h.store.records('note').length, 1);
-  assert.equal(h.store.records('note')[0].content, '新正文');
-  assert.equal(h.store.records('note')[0].ref.id, '0');
+  const writes = h.backend.calls.filter(call => call.path.endsWith('/records') && call.method === 'POST');
+  assert.equal(writes[0].data.mutationId, writes[1].data.mutationId);
 });
-
-test('legacy draft is restored, references have separate drafts, and saved drafts clear', () => {
-  const { store, wx } = harness();
-  wx.setStorageSync('noteDraft', '旧笔记草稿');
-  assert.equal(store.getDraft('new').content, '旧笔记草稿');
-  store.setDraft('ref:book:1', { content: '章节草稿' });
-  assert.equal(store.getDraft('ref:book:1').content, '章节草稿');
-  store.clearDraft('new');
-  assert.equal(store.getDraft('new'), null);
-  assert.equal(store.getDraft('ref:book:1').content, '章节草稿');
+test('conflicting edits preserve cloud content and the local recovery draft', async () => {
+  const h = harness(); await h.store.login(); await h.store.saveNote(note());
+  const existing = h.backend.data.get(owner).get('note:stable');
+  h.backend.data.get(owner).set('note:stable', { ...existing, content: '另一台设备的新内容', version: 2, mutationId: 'other-edit' });
+  h.store.setDraft('note:stable', { ...note('本机修改'), version: 1 });
+  await assert.rejects(h.store.saveNote({ ...note('本机修改'), version: 1 }, 'note:stable'), error => error.status === 409);
+  assert.equal(h.store.records('note')[0].content, '另一台设备的新内容');
+  assert.equal(h.store.getDraft('note:stable').content, '本机修改');
+  assert.equal(await h.store.synchronize(), 1);
 });
-
-test('history deduplicates, resumes the exact chapter and clearing leaves other records intact', () => {
-  const { store } = harness();
-  const chapter = { type: 'chapter', id: '9', chapterId: '4', title: '上古天真论', source: '黄帝内经' };
-  store.toggleFavorite(ref);
-  store.saveNote({ title: '笔记', content: '正文' });
-  store.visit(chapter, { scrollTop: 350, contentMode: 'shiyi' });
-  store.visit(chapter, { scrollTop: 490, contentMode: 'shiyi' });
-  assert.equal(store.records('history').length, 1);
-  assert.match(
-    store.route(chapter, store.records('history')[0]),
-    /chapterId=4&resume=1&scrollTop=490&contentMode=shiyi/
-  );
-  store.clearHistory();
-  assert.equal(store.records('history').length, 0);
-  assert.equal(store.records('favorite').length, 1);
-  assert.equal(store.records('note').length, 1);
-});
-
-test('history bounds to 200 records and grouping follows local calendar boundaries', () => {
-  const { store } = harness();
-  for (let id = 0; id < 205; id++) store.visit({ ...ref, id: String(id) });
-  assert.equal(store.records('history').length, 200);
-  const now = new Date(2026, 10, 16, 12);
-  const groups = store.historyGroups(
-    [
-      { updatedAt: new Date(2026, 10, 16, 0, 2).getTime(), ref },
-      { updatedAt: new Date(2026, 10, 15, 23, 59).getTime(), ref },
-      { updatedAt: new Date(2025, 10, 15).getTime(), ref }
-    ],
-    now
-  );
-  assert.deepEqual(
-    Array.from(groups, (group) => group.label),
-    ['今天', '昨天', '2025年11月15日']
-  );
-});
-
-test('login fails honestly and verified accounts are isolated with a one-time guest merge', async () => {
+test('account switches cannot expose another readers cache or guest import', async () => {
   const h = harness();
-  h.store.toggleFavorite(ref);
-  h.cloud(async () => {
-    throw Error('offline');
-  });
-  await assert.rejects(h.store.login(), /offline/);
-  assert.equal(h.store.account(), null);
-  assert.equal(h.store.records('favorite').length, 1);
-  h.cloud(async () => ({ code: 0, data: { id: owner } }));
-  await h.store.login();
-  assert.equal(h.store.records('favorite').length, 1);
-  h.store.logout();
-  assert.equal(h.store.records('favorite').length, 0);
-  h.cloud(async () => ({ code: 0, data: { id: other } }));
-  await h.store.login();
-  assert.equal(h.store.records('favorite').length, 0);
-  h.store.logout();
-  h.cloud(async () => ({ code: 0, data: { id: owner } }));
-  await h.store.login();
-  assert.equal(h.store.records('favorite').length, 1);
+  h.storage.set('qingnang.learning.v1:guest', { records: [{ ...note(), kind: 'note', updatedAt: 1 }], pending: [] });
+  await h.store.login(); await h.store.synchronize();
+  assert.equal(h.store.records('note').length, 1);
+  await h.store.logout(); h.backend.as(other); await h.store.login(); await h.store.synchronize();
+  assert.equal(h.store.records('note').length, 0);
 });
-
-test('failed sync retains local writes and retries; deletion tombstones defeat stale remote data', async () => {
+test('failed legacy import retains original records until acknowledgement', async () => {
   const h = harness();
-  h.wx.setStorageSync('qingnang.learning.v1:account', { id: owner });
-  h.store.toggleFavorite(ref);
-  const saved = h.store.records('favorite')[0];
-  h.store.toggleFavorite(ref);
-  h.cloud(async () => {
-    throw Error('offline');
-  });
+  h.storage.set('qingnang.learning.v1:guest', { records: [{ ...note(), kind: 'note', updatedAt: 1 }] });
+  await h.store.login();
+  h.intercept((options, request) => { if (options.path.endsWith('/import')) throw Error('offline'); return request(options); });
   await assert.rejects(h.store.synchronize(), /offline/);
-  assert.equal(h.storage.get('qingnang.learning.v1:' + owner).pending.length, 1);
-  h.cloud(async (data) => ({
-    code: 0,
-    data: data.action === 'pull' ? { records: [saved], cursor: '' } : {}
-  }));
-  await h.store.synchronize();
-  assert.equal(h.store.records('favorite').length, 0);
-  assert.equal(h.storage.get('qingnang.learning.v1:' + owner).pending.length, 0);
-  assert.equal(h.calls.at(-2).owner, owner);
-  assert.equal(h.calls.at(-2).records[0].deleted, true);
+  assert.equal(h.storage.get('qingnang.learning.v1:guest').records.length, 1);
+  h.intercept(null); await h.store.synchronize();
+  assert.equal(h.storage.get('qingnang.learning.v1:guest').records.length, 0);
 });
-
-test('edits made during synchronization remain queued and cannot be overwritten by the old response', async () => {
-  const h = harness();
-  h.wx.setStorageSync('qingnang.learning.v1:account', { id: owner });
-  const old = h.store.saveNote({ title: '笔记', content: '第一稿' });
-  let release;
-  h.cloud((data) =>
-    data.action === 'push'
-      ? new Promise((resolve) => {
-          release = () => resolve({ code: 0, data: {} });
-        })
-      : Promise.resolve({ code: 0, data: { records: [old], cursor: '' } })
-  );
-  const sync = h.store.synchronize();
-  h.store.saveNote({ ...old, content: '第二稿' });
-  release();
-  await sync;
-  assert.equal(h.store.records('note')[0].content, '第二稿');
-  assert.equal(h.storage.get('qingnang.learning.v1:' + owner).pending.length, 1);
-});
-
-test('audio uploads before metadata and retains a local playback path', async () => {
-  const h = harness();
-  h.wx.setStorageSync('qingnang.learning.v1:account', { id: owner });
-  h.store.saveNote({ title: '语音', content: '', audio: { path: 'wxfile://local.mp3', seconds: 12 } });
-  let sent;
-  h.cloud(async (data) => {
-    if (data.action === 'push') sent = data.records[0];
-    return { code: 0, data: data.action === 'pull' ? { records: [sent], cursor: '' } : {} };
-  });
-  await h.store.synchronize();
-  assert.match(sent.audio.path, /^cloud:\/\/environment\/personal\//);
-  assert.equal(sent.audio.localPath, undefined);
-  assert.equal(h.store.records('note')[0].audio.localPath, 'wxfile://local.mp3');
-});
-
-test('editor persists on input and failed save never discards the draft', async () => {
-  const h = harness();
-  const editor = page('miniprogram/pages/notes/editor/editor.js', h);
-  editor.onLoad({});
-  editor.input({ currentTarget: { dataset: { field: 'title' } }, detail: { value: '本周阅读计划' } });
-  editor.input({ currentTarget: { dataset: { field: 'content' } }, detail: { value: '重读经典' } });
-  h.failWrites(true);
-  await editor.save();
-  assert.equal(editor.data.busy, false);
-  assert.match(editor.data.error, /存储/);
-  assert.equal(h.store.getDraft('new').content, '重读经典');
-  h.failWrites(false);
-  await editor.save();
+test('history clear leaves notes and favorites intact', async () => {
+  const h = harness(); await h.store.login();
+  await h.store.toggleFavorite(ref); await h.store.saveNote(note()); await h.store.visit(ref, { scrollTop: 320, contentMode: 'shiyi' });
+  assert.match(h.store.route(ref, h.store.records('history')[0]), /chapterId=1&resume=1&scrollTop=320&contentMode=shiyi/);
+  await h.store.clearHistory();
+  assert.equal(h.store.records('history').length, 0);
   assert.equal(h.store.records('note').length, 1);
-  assert.equal(h.store.getDraft('new'), null);
+  assert.equal(h.store.records('favorite').length, 1);
 });
-
-test('feedback validates before networking, retains failures and only acknowledges confirmed receipt', async () => {
-  const h = harness();
-  const feedback = page('miniprogram/pages/feedback/index/index.js', h);
-  feedback.onLoad();
-  feedback.data.content = '短';
-  await feedback.submit();
-  assert.equal(h.calls.length, 0);
-  feedback.data.content = '这是测试反馈内容';
-  feedback.data.contact = 'not-email';
-  await feedback.submit();
-  assert.equal(h.calls.length, 0);
-  feedback.data.contact = '';
-  h.cloud(async () => {
-    throw Error('offline');
+test('imported legacy drafts cannot reappear after saving or move to another account', async () => {
+  const h = harness(); h.storage.set('noteDraft', '旧版阅读心得');
+  await h.store.login(); await h.store.synchronize();
+  assert.equal(h.store.getDraft().content, '旧版阅读心得');
+  await h.store.saveNote(note('旧版阅读心得'));
+  await h.store.synchronize(); assert.equal(h.store.getDraft(), null);
+  await h.store.logout(); h.backend.as(other); await h.store.login(); await h.store.synchronize();
+  assert.equal(h.store.getDraft(), null);
+});
+test('cold-device reading refreshes remote history before updating progress', async () => {
+  const first = harness(); await first.store.login(); await first.store.visit(ref, { scrollTop: 100 });
+  const device = harness(first.backend); await device.store.login();
+  await device.store.visit(ref, { scrollTop: 450 });
+  assert.equal(device.store.records('history')[0].scrollTop, 450);
+});
+test('speech previews never modify text; final result is committed once and cancellation discards it', () => {
+  const engine = { start() {}, stop() {} }, module = { exports: {} };
+  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/speech-input.js'), 'utf8'), {
+    module, require: () => ({ enabled: true, plugin: 'WechatSI' }), requirePlugin: () => ({ getRecordRecognitionManager: () => engine })
   });
-  await feedback.submit();
-  assert.equal(feedback.data.submitted, false);
-  assert.equal(feedback.data.content, '这是测试反馈内容');
-  h.cloud(async (data) => ({ code: 0, data: data.action === 'login' ? { id: owner } : { id: 'receipt' } }));
-  await feedback.submit();
-  assert.equal(feedback.data.submitted, true);
-  assert.equal(feedback.data.content, '');
-  assert.equal(h.store.account(), null);
+  const partial = [], complete = [];
+  module.exports.start({ onPartial: value => partial.push(value), onComplete: value => complete.push(value) });
+  engine.onRecognize({ result: '饮食' }); engine.onRecognize({ result: '饮食有节' });
+  assert.deepEqual(complete, []);
+  engine.onStop({ result: '饮食有节。', tempFilePath: 'never-saved.mp3' }); engine.onStop({ result: '重复' });
+  assert.deepEqual(complete, ['饮食有节。']);
+  const cancelled = module.exports.start({ onComplete: value => complete.push(value) });
+  cancelled.cancel(); engine.onStop({ result: '不要插入' });
+  assert.deepEqual(complete, ['饮食有节。']);
 });
-
-test('leaving during recording saves the completed audio draft and detaches the shared recorder listeners', async () => {
-  const h = harness(), hooks = {};
-  let stopped, saveFile;
-  const recorder = {
-    onStart(fn) { hooks.start = fn; }, onStop(fn) { hooks.stop = fn; }, onError(fn) { hooks.error = fn; },
-    offStart() { delete hooks.start; }, offStop() { delete hooks.stop; }, offError() { delete hooks.error; },
-    start() { hooks.start(); }, stop() { stopped = hooks.stop; }
-  };
-  h.wx.getRecorderManager = () => recorder;
-  h.wx.getFileSystemManager = () => ({ saveFile(options) { saveFile = options.success; } });
-  const editor = page('miniprogram/pages/notes/editor/editor.js', h);
-  editor.onLoad({}); await editor.record();
-  assert.equal(editor.data.recording, true);
-  editor.onUnload();
-  editor.setData = () => { throw Error('Cannot update an unloaded page'); };
-  stopped({ tempFilePath: 'wxfile://temporary.mp3', duration: 1200 });
-  saveFile({ savedFilePath: 'wxfile://saved.mp3' });
-  assert.equal(h.store.getDraft('new').audio.path, 'wxfile://saved.mp3');
-  assert.deepEqual(Object.keys(hooks), []);
+test('editor inserts recognized text at cursor without saving an audio attachment', async () => {
+  const h = harness(); await h.store.login(); let callbacks;
+  const page = editor(h, { start(value) { callbacks = value; return { cancel() {}, stop() {} }; } });
+  await page.onLoad(); page.setData({ content: '今天阅读。' }); page.cursor = 2;
+  page.record(); callbacks.onPartial('经典'); assert.equal(page.data.content, '今天阅读。');
+  callbacks.onComplete('经典'); assert.equal(page.data.content, '今天经典阅读。');
+  assert.equal(page.note().audio, undefined);
+  page.onUnload();
 });
-
-test('reading actions create chapter history, distinguish book favorites and open a linked note', () => {
-  const h = harness(); let definition;
-  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/components/learning-actions/index.js'), 'utf8'), {
-    Component(value) { definition = value; }, require() { return h.store; }, wx: h.wx
+test('editor save failures retain text and never announce success', async () => {
+  const h = harness(); await h.store.login();
+  const page = editor(h, {}); await page.onLoad(); page.setData({ title: '札记', content: '需要保留的正文' });
+  h.intercept((options, request) => { if (options.path.endsWith('/records') && options.method === 'POST') throw Error('服务器不可用'); return request(options); });
+  await page.save();
+  assert.equal(page.data.busy, false); assert.equal(page.data.content, '需要保留的正文');
+  assert.deepEqual(h.toasts, []); assert.equal(h.store.getDraft().content, '需要保留的正文');
+  page.onUnload();
+});
+test('personal requests cannot fall back to a local database on server 404', async () => {
+  let localCalls = 0;
+  const module = { exports: {} };
+  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/request.js'), 'utf8'), {
+    module, require: () => ({ env: 'current-cloud', service: 'laravel' }),
+    wx: { cloud: { callContainer: options => options.success({ statusCode: 404, data: {} }) },
+      getDeviceInfo: () => ({ platform: 'devtools' }), getAccountInfoSync: () => ({ miniProgram: { envVersion: 'develop' } }),
+      request: options => { localCalls++; options.success({ statusCode: 200, data: { code: 0, data: {} } }); } }
   });
-  const component = { ...definition.methods, data: { ...structuredClone(definition.data), type: 'chapter', item: { id: 7, name: '黄帝内经' }, chapter: { id: 8, title: '上古天真论' }, track: true }, setData(value) { Object.assign(this.data, value); } };
-  component.refresh(true); component.favorite(); component.favoriteBook(); component.note();
-  assert.equal(h.store.records('history')[0].ref.chapterId, '8');
-  assert.equal(h.store.records('favorite').length, 2);
-  assert.match(h.routes[0], /^\/pages\/notes\/editor\/editor\?ref=/);
-  const linked = JSON.parse(decodeURIComponent(h.routes[0].split('?ref=')[1]));
-  assert.equal(linked.id, '7'); assert.equal(linked.chapterId, '8');
+  await assert.rejects(module.exports.request({ path: '/api/personal/records' }), /404/);
+  assert.equal(localCalls, 0);
+  await module.exports.request({ path: '/api/books' }); assert.equal(localCalls, 1);
 });
-
-test('cloud validation rejects forged file ownership, excessive content and invalid record identities', () => {
-  const now = Date.now();
-  const valid = { key: 'favorite:prescription:0', kind: 'favorite', title: ref.title, ref, updatedAt: now };
-  assert.equal(validation.record(valid, owner).ref.id, '0');
-  assert.throws(() => validation.record({ ...valid, key: 'favorite:prescription:1' }, owner), /不匹配/);
-  assert.throws(() => validation.record({ ...valid, updatedAt: now + 600000 }, owner), /时间/);
-  assert.throws(
-    () =>
-      validation.record(
-        { key: 'note:1', kind: 'note', title: '笔记', content: 'x'.repeat(20001), updatedAt: now },
-        owner
-      ),
-    /输入/
-  );
-  const feedback = {
-    id: 'test-request-1',
-    type: '内容纠错',
-    content: '需要修正的内容',
-    contact: '',
-    images: ['cloud://env/personal/' + other + '/feedback/image.jpg']
-  };
-  assert.throws(() => validation.feedback(feedback, owner), /不属于/);
-  assert.equal(validation.feedback({ ...feedback, images: [] }, owner).type, '内容纠错');
-  assert.notEqual(validation.identity('openid-one', 'app'), validation.identity('openid-two', 'app'));
-  assert.notEqual(validation.documentId(owner, 'note:1'), validation.documentId(other, 'note:1'));
-});
-
-test('cloud endpoint trusts only WeChat context, isolates owners and keeps feedback retries idempotent', async () => {
-  const documents = new Map();
-  let context = { OPENID: 'reader-one', APPID: 'qingnang' };
-  const database = {
-    command: { gt: (value) => ({ greaterThan: value }) },
-    serverDate: () => new Date(),
-    collection(name) {
-      return {
-        doc(id) {
-          return {
-            async get() {
-              return { data: documents.get(name + ':' + id) || null };
-            },
-            async set({ data }) {
-              documents.set(name + ':' + id, { ...data, _id: id });
-            }
-          };
-        },
-        where(where) {
-          let rows = Array.from(documents.entries())
-            .filter(([key, value]) => key.startsWith(name + ':') && value.owner === where.owner)
-            .map(([, value]) => value);
-          if (where._id) rows = rows.filter((row) => row._id > where._id.greaterThan);
-          const query = {
-            orderBy() {
-              rows.sort((a, b) => a._id.localeCompare(b._id));
-              return query;
-            },
-            limit(count) {
-              rows = rows.slice(0, count);
-              return query;
-            },
-            async get() {
-              return { data: rows };
-            }
-          };
-          return query;
-        }
-      };
-    },
-    runTransaction: (fn) => fn(database)
-  };
-  const exports = {};
-  vm.runInNewContext(
-    fs.readFileSync(path.join(root, 'miniprogram/cloudfunctions/personal/index.js'), 'utf8'),
-    {
-      exports,
-      require: (name) =>
-        name === './validation'
-          ? validation
-          : { init() {}, getWXContext: () => context, database: () => database },
-      Date
-    }
-  );
-  const user = (await exports.main({ action: 'login', openid: 'forged' })).data;
-  assert.equal(user.id, validation.identity('reader-one', 'qingnang'));
-  const note = {
-    key: 'note:test',
-    kind: 'note',
-    title: '笔记',
-    content: '只有我能看到',
-    updatedAt: Date.now()
-  };
-  assert.equal((await exports.main({ action: 'push', owner: user.id, records: [note] })).code, 0);
-  assert.equal((await exports.main({ action: 'pull', owner: user.id })).data.records.length, 1);
-  context = { OPENID: 'reader-two', APPID: 'qingnang' };
-  assert.equal((await exports.main({ action: 'pull', owner: user.id })).code, 422);
-  const second = (await exports.main({ action: 'login' })).data;
-  assert.equal((await exports.main({ action: 'pull', owner: second.id })).data.records.length, 0);
-  const request = {
-    action: 'feedback',
-    feedback: {
-      id: 'unique-request-1',
-      type: '产品建议',
-      content: '这是测试建议内容',
-      contact: '',
-      images: []
-    }
-  };
-  const first = await exports.main(request),
-    retry = await exports.main(request);
-  assert.equal(first.data.id, retry.data.id);
-  assert.equal(Array.from(documents.keys()).filter((key) => key.startsWith('personal_feedback:')).length, 1);
-  context = {};
-  assert.equal((await exports.main({ action: 'login', openid: 'forged' })).code, 401);
+test('editor preserves input when both server and local recovery storage fail', async () => {
+  const h = harness(); await h.store.login();
+  const page = editor(h, {}); await page.onLoad(); page.setData({ title: '札记', content: '不要丢失的正文' });
+  const write = h.wx.setStorageSync;
+  h.wx.setStorageSync = (key, value) => { if (key.includes(':draft:')) throw Error('disk full'); write(key, value); };
+  h.intercept((options, request) => { if (options.method === 'POST') throw Error('网络中断'); return request(options); });
+  await page.save();
+  assert.equal(page.data.content, '不要丢失的正文');
+  assert.match(page.data.error, /请勿关闭/);
+  assert.deepEqual(h.toasts, []);
+  page.onUnload();
 });
