@@ -10,6 +10,9 @@ use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\ValidationException;
 use RuntimeException;
 
+/**
+ * 个人登录
+ */
 class PersonalController extends Controller
 {
     private function success($data = [])
