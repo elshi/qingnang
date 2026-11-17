@@ -24,9 +24,12 @@ function request(options) {
           resolve(body.data);
           return;
         }
-        const message = (body.errors && Object.values(body.errors)[0] && Object.values(body.errors)[0][0]) || body.errorMsg
-          || body.message
-          || `请求失败（${response.statusCode || '未知状态'}）`;
+        const loginRouteMissing = response.statusCode === 404 && options.path === '/api/personal/session'
+          && requestOptions.method === 'POST';
+        const message = loginRouteMissing ? '微信登录服务尚未更新（404），请先部署个人中心接口'
+          : (body.errors && Object.values(body.errors)[0] && Object.values(body.errors)[0][0]) || body.errorMsg
+            || body.message
+            || `请求失败（${response.statusCode || '未知状态'}）`;
         const error = new Error(message);
         error.status = response.statusCode;
         error.data = body.data;

@@ -17,8 +17,8 @@ class CreatePersonalTables extends Migration
         Schema::create('t_personal_sessions', function (Blueprint $table) {
             $table->string('token_hash', 64)->primary();
             $table->string('owner_id', 32)->index();
-            $table->timestamp('expires_at')->index();
-            $table->timestamp('created_at');
+            $table->dateTime('expires_at')->index();
+            $table->dateTime('created_at');
         });
         Schema::create('t_personal_records', function (Blueprint $table) {
             $table->bigIncrements('id');
