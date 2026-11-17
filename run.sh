@@ -1,6 +1,8 @@
 #!/bin/sh
 
-# 后台启动
+set -eu
+
+# 后台启动 PHP-FPM；启动失败时容器应直接退出。
 php-fpm -D
-# 关闭后台启动，hold住进程
-nginx -g 'daemon off;'
+# Nginx 保持前台运行，接收云托管的停止信号。
+exec nginx -g 'daemon off;'

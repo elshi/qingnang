@@ -32,7 +32,10 @@ WORKDIR /app
 COPY . /app
 
 # 替换nginx、fpm、php配置
-RUN cp /app/conf/nginx.conf /etc/nginx/conf.d/default.conf \
+RUN tr -d '\015' < /app/run.sh > /tmp/run.sh \
+    && mv /tmp/run.sh /app/run.sh \
+    && chmod 755 /app/run.sh \
+    && cp /app/conf/nginx.conf /etc/nginx/conf.d/default.conf \
     && cp /app/conf/fpm.conf /etc/php7/php-fpm.d/www.conf \
     && cp /app/conf/php.ini /etc/php7/php.ini \
     && mkdir -p /run/nginx /app/bootstrap/cache \
