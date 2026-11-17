@@ -20,25 +20,33 @@
   background: rgba(247, 242, 234, 0.96);
 }
 
-.detail-tab {
+.detail-tab-slot {
   position: relative;
   flex: 0 0 50%;
-  width: 50% !important;
+  width: 50%;
   min-width: 0;
+  height: 82rpx;
+}
+
+.detail-tab {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100% !important;
+  height: 100%;
   margin: 0;
   padding: 0;
   text-align: center;
-  height: 82rpx;
   color: #746b60;
   font-size: 25rpx;
-  line-height: 82rpx;
+  line-height: 1;
 }
 
-.detail-tab--active {
+.detail-tab-slot--active .detail-tab {
   color: #a87025;
 }
 
-.detail-tab--active::after {
+.detail-tab-slot--active::after {
   position: absolute;
   top: auto;
   right: auto;

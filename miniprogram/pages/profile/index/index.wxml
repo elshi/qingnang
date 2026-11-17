@@ -1,4 +1,4 @@
-<view class="personal-page profile-page"><personal-nav title="个人中心" /><view class="profile-content">
+<view class="personal-page profile-page"><custom-nav title="个人中心" /><view class="profile-content">
 <view class="profile-intro"><view class="profile-emblem"><image src="/assets/personal/book.png" mode="aspectFit" /></view><view wx:if="{{user}}" class="profile-name">青囊书友</view><view class="profile-description">保存收藏与笔记，继续你的经典学习</view>
 <button wx:if="{{!user}}" class="personal-primary" bindtap="login" loading="{{busy}}" disabled="{{busy}}">微信登录</button><button wx:else class="personal-sync" bindtap="sync">{{syncMessage}}</button><view wx:if="{{error}}" class="personal-error">{{error}}</view></view>
 <view class="profile-menu">

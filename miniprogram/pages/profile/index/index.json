@@ -1,6 +1,6 @@
 {
   "navigationBarTitleText": "我的",
   "usingComponents": {
-    "personal-nav": "/components/personal-nav/index"
+    "custom-nav": "/components/custom-nav/custom-nav"
   }
 }
