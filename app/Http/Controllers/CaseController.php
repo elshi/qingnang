@@ -93,7 +93,7 @@ class CaseController extends Controller
             ]);
         } catch (Throwable $exception) {
             report($exception);
-            return $this->error($this->databaseAccessError($exception, '医案分类加载失败，请稍后重试'), 500);
+            return $this->error($this->databaseAccessError($exception, '医案分类加载失败，请稍后重试！！！'), 500);
         }
     }
 
