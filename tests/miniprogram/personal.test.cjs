@@ -86,6 +86,27 @@ function editor(h, speech) {
 }
 const note = (content = '饮食有节，起居有常。') => ({ key: 'note:stable', title: '读书札记', content, version: 0, createdAt: 1000 });
 
+test('related notes match exact content and chapters, exclude drafts and deletions, and isolate accounts', async () => {
+  const h = harness(); await h.store.login();
+  const chapter = { type:'chapter', id:'7', chapterId:'1', title:'第一章' };
+  const refs = [chapter, { ...chapter, chapterId:'2' }, {type:'case',id:'7',title:'医案'}, {type:'prescription',id:'7',title:'经方'}, null];
+  for (let index=0; index<refs.length; index++) await h.store.saveNote({...note(),key:'note:'+index,ref:refs[index]});
+  await h.store.saveDraft('draft', {...note(),ref:chapter});
+  assert.deepEqual(Array.from(h.store.relatedNotes(chapter), row=>row.key), ['note:0']);
+  assert.deepEqual(Array.from(h.store.relatedNotes({type:'case',id:7}), row=>row.key), ['note:2']);
+  assert.deepEqual(Array.from(h.store.relatedNotes({type:'prescription',id:7}), row=>row.key), ['note:3']);
+  assert.equal(h.store.relatedNotes(null).length, 0);
+  await h.store.remove('note','note:0'); assert.equal(h.store.relatedNotes(chapter).length, 0);
+  await h.store.logout(); h.backend.as(other); await h.store.login(); await h.store.synchronize();
+  assert.equal(h.store.relatedNotes({type:'case',id:7}).length, 0);
+});
+
+test('original history retains its exact offset while legacy shiyi resumes at original top', () => {
+  const h = harness();
+  assert.match(h.store.route(ref,{scrollTop:320,contentMode:'original'}), /scrollTop=320&contentMode=original$/);
+  assert.match(h.store.route(ref,{scrollTop:320,contentMode:'shiyi'}), /scrollTop=0&contentMode=original$/);
+});
+
 test('guest cancellation never writes personal records', async () => {
   const h = harness(); h.confirm(false);
   await assert.rejects(h.store.toggleFavorite(ref), /尚未登录/);
@@ -161,7 +182,7 @@ test('failed legacy import retains original records until acknowledgement', asyn
 test('history clear leaves notes and favorites intact', async () => {
   const h = harness(); await h.store.login();
   await h.store.toggleFavorite(ref); await h.store.saveNote(note()); await h.store.visit(ref, { scrollTop: 320, contentMode: 'shiyi' });
-  assert.match(h.store.route(ref, h.store.records('history')[0]), /chapterId=1&resume=1&scrollTop=320&contentMode=shiyi/);
+  assert.match(h.store.route(ref, h.store.records('history')[0]), /chapterId=1&resume=1&scrollTop=0&contentMode=original/);
   await h.store.clearHistory();
   assert.equal(h.store.records('history').length, 0);
   assert.equal(h.store.records('note').length, 1);
@@ -182,6 +203,44 @@ test('cold-device reading refreshes remote history before updating progress', as
   await device.store.visit(ref, { scrollTop: 450 });
   assert.equal(device.store.records('history')[0].scrollTop, 450);
 });
+test('mobile overscroll never sends a negative reading position', async () => {
+  const h = harness(); await h.store.login();
+  h.intercept((options, request) => {
+    if (options.method === 'POST' && options.path.endsWith('/records') && options.data.record.scrollTop < 0)
+      throw problem(422, 'The scroll top must be at least 0.');
+    return request(options);
+  });
+  await h.store.visit(ref, { scrollTop: -12, contentMode: 'original' });
+  const sent = h.backend.calls.find(call => call.path.endsWith('/records') && call.method === 'POST');
+  assert.equal(sent.data.record.scrollTop, 0);
+  assert.equal(h.store.records('history')[0].scrollTop, 0);
+});
+
+test('sync repairs negative reading positions already saved on the phone', async () => {
+  const h = harness(); await h.store.login();
+  h.storage.set('qingnang.learning.v2:' + owner, { records: [], pending: [{
+    record: { key: 'history:chapter:7:1', kind: 'history', ref, title: ref.title, scrollTop: -9 },
+    expectedVersion: 0, mutationId: 'old-negative-progress'
+  }] });
+  h.intercept((options, request) => {
+    if (options.method === 'POST' && options.path.endsWith('/records') && options.data.record.scrollTop < 0)
+      throw problem(422, 'The scroll top must be at least 0.');
+    return request(options);
+  });
+  assert.equal(await h.store.synchronize(), 0);
+  assert.equal(h.store.records('history')[0].scrollTop, 0);
+});
+
+test('legacy import repairs negative reading positions', async () => {
+  const h = harness();
+  h.storage.set('qingnang.learning.v1:guest', { records: [{
+    key: 'history:chapter:7:1', kind: 'history', ref, title: ref.title, scrollTop: -5, updatedAt: 1
+  }] });
+  await h.store.login(); await h.store.synchronize();
+  const imported = h.backend.calls.find(call => call.path.endsWith('/import'));
+  assert.equal(imported.data.records[0].scrollTop, 0);
+});
+
 test('speech previews never modify text; final result is committed once and cancellation discards it', () => {
   const engine = { start() {}, stop() {} }, module = { exports: {} };
   vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/speech-input.js'), 'utf8'), {

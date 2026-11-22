@@ -1,3 +1,4 @@
+const { contentShare } = require('../../../utils/content-share');
 const { getAcupointDetail } = require('../../../utils/acupoints-api');
 
 const sectionDefinitions = [
@@ -13,6 +14,7 @@ const sectionDefinitions = [
 ];
 
 Page({
+  onShareAppMessage() { return contentShare('acupoint', this.data.item); },
   data: { item: null, sections: [], meta: [], loading: true, error: '', disclaimer: getApp().getDisclaimer() },
   onLoad(options = {}) {
     this.acupointId = String(options.id === undefined ? '' : options.id);

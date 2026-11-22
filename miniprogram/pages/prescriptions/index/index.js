@@ -50,7 +50,7 @@ Page({
       this.setData({ items, total: data.total, page: page + 1, hasMore: Boolean(data.has_more), loading: false }, () => this.ensureListFilled());
     } catch (error) {
       if (requestId !== this.requestId || this.unloaded) return;
-      this.setData({ loading: false, error: error.message || '处方加载失败，请稍后重试' });
+      this.setData({ loading: false, error: error.message || '经方加载失败，请稍后重试' });
     }
   },
 

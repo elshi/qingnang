@@ -8,6 +8,7 @@ const meridianUtils = require('../../miniprogram/utils/meridians');
 const { meridians, getGroup, findMeridian, pointRows, pointRowsFromPoints } = meridianUtils;
 
 function pageContext(file, modules = {}) {
+  modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, ...modules };
   let definition; const navigation = []; const toasts = [];
   vm.runInNewContext(fs.readFileSync(path.join(root, file), 'utf8'), {
     Page(value) { definition = value; },

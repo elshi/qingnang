@@ -1,0 +1,59 @@
+{
+  "mode": "preflight",
+  "database": "qingnang",
+  "started_at": "2026-11-21T16:23:50.019Z",
+  "books": [
+    {
+      "key": "bencaocongxin",
+      "name": "本草从新",
+      "existing_book": true,
+      "book_id": 318,
+      "action": "reuse",
+      "existing_chapters": 737,
+      "conflicts": [],
+      "existing_metadata_sha256": "0228ad19044b3cb24b74cdf7885e14d57dd5e6b6b05daebf6d14d16195a2d440",
+      "planned_chapters": 0,
+      "inserted_books": 0,
+      "inserted_chapters": 0,
+      "committed": false
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "name": "本草求真",
+      "existing_book": true,
+      "book_id": 319,
+      "action": "reuse",
+      "existing_chapters": 581,
+      "conflicts": [],
+      "existing_metadata_sha256": "c8fd7df9e3a46a4fcd6499c1151fbf144372073480eb501531fc487e2519fae1",
+      "planned_chapters": 0,
+      "inserted_books": 0,
+      "inserted_chapters": 0,
+      "committed": false
+    },
+    {
+      "key": "furendaquanliangfang",
+      "name": "妇人大全良方",
+      "existing_book": true,
+      "book_id": 320,
+      "action": "reuse",
+      "existing_chapters": 1306,
+      "conflicts": [],
+      "existing_metadata_sha256": "825af447638336912862c5dfe57bb7cbb786f825a342f9934fec6fbed816d7f2",
+      "planned_chapters": 0,
+      "inserted_books": 0,
+      "inserted_chapters": 0,
+      "committed": false
+    }
+  ],
+  "finished_at": "2026-11-21T16:23:50.568Z",
+  "summary": {
+    "existing_books": 3,
+    "planned_new_books": 0,
+    "inserted_books": 0,
+    "planned_chapters": 0,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  }
+}

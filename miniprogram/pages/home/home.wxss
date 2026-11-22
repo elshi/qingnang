@@ -54,8 +54,7 @@ page { background: #f8f3ea; }
 .home-cases { margin-top: 24rpx; }
 .home-page .home-case { display: flex; align-items: center; width: 100%; margin: 0; padding: 17rpx 10rpx; border-radius: 0; color: #31291f; text-align: left; }
 .home-case + .home-case { border-top: 1rpx solid #ded0bd; }
-.home-case__number { flex: 0 0 73rpx; padding-right: 22rpx; border-right: 1rpx solid #d8c6ab; color: #a27942; font-family: Georgia, serif; font-size: 36rpx; font-style: italic; line-height: 1.4; }
-.home-case__copy { flex: 1; min-width: 0; padding: 0 24rpx 0 32rpx; }
+.home-case__copy { flex: 1; min-width: 0; padding: 0 24rpx 0 0; }
 .home-case__title, .home-case__source, .home-case__excerpt { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .home-case__title { font-size: 30rpx; line-height: 1.5; }
 .home-case__source { color: #a27942; font-size: 23rpx; line-height: 1.5; margin-top: 4rpx; }
@@ -164,3 +163,5 @@ page { background: #f8f3ea; }
   .home-book__title { font-size: 29rpx; }
   .home-shortcut { gap: 6rpx; }
 }
+
+.home-bookshelf__header button.home-bookshelf__all { width:auto !important; margin:0; padding:0 0 0 16rpx; background:transparent; font-weight:400; }

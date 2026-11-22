@@ -71,7 +71,7 @@ Page({
       if (this.forkedFrom) store.dismissConflict(this.forkedFrom);
       wx.showToast({ title: '笔记已保存到云端', icon: 'success' });
       if (getCurrentPages().length > 1) wx.navigateBack();
-      else wx.redirectTo({ url: '/pages/notes/index/index' });
+      else wx.switchTab({ url: '/pages/notes/index/index' });
     } catch (error) {
       this.setData({ busy: false, error: error.message, conflict: error.status === 409 || this.data.conflict });
       try { store.setDraft(this.draftId, this.note()); }

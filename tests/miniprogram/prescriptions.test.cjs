@@ -6,6 +6,7 @@ const path = require('node:path');
 const root = path.resolve(__dirname, '../..');
 
 function harness(file, modules) {
+  modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, ...modules };
   let definition;
   const timers = new Map(); let timerId = 0;
   const routes = [];
@@ -79,7 +80,7 @@ test('detail preserves original dose and newlines; hides only empty sections', a
 test('invalid and missing IDs never display a fallback prescription; zero is a valid ID', async () => {
   let count=0;
   const {page}=harness(detailFile, {'prescriptions-api':{getPrescriptionDetail:async()=>{count++;throw Error('未找到该处方');}}});
-  for(const id of ['', 'prescription-001','-1','4294967296']) {page.prescriptionId=id;await page.loadDetail();assert.equal(page.data.error,'处方 ID 无效');}
+  for(const id of ['', 'prescription-001','-1','4294967296']) {page.prescriptionId=id;await page.loadDetail();assert.equal(page.data.error,'经方 ID 无效');}
   assert.equal(count,0);page.prescriptionId='0';await page.loadDetail();assert.equal(count,1);assert.equal(page.data.item,null);assert.equal(page.data.error,'未找到该处方');
 });
 

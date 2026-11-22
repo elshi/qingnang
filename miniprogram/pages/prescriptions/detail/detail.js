@@ -1,3 +1,4 @@
+const { contentShare } = require('../../../utils/content-share');
 const { getPrescriptionDetail } = require('../../../utils/prescriptions-api');
 const sections = [
   { key: 'modern_dose', title: '现代剂量' },
@@ -7,7 +8,8 @@ const sections = [
 ];
 
 Page({
-  data: { item: null, sections: [], loading: true, error: '', disclaimer: getApp().getDisclaimer() },
+  onShareAppMessage() { return contentShare('prescription', this.data.item); },
+  data: { activeTab: 'detail', tabs: [{ key: 'detail', label: '详情' }, { key: 'notes', label: '笔记' }], item: null, sections: [], loading: true, error: '', disclaimer: getApp().getDisclaimer() },
   onLoad(options = {}) {
     this.prescriptionId = String(options.id === undefined ? '' : options.id);
     this.requestId = 0;
@@ -17,7 +19,7 @@ Page({
   async loadDetail() {
     if (this.unloaded) return;
     if (!/^\d{1,10}$/.test(this.prescriptionId) || Number(this.prescriptionId) > 4294967295) {
-      this.setData({ loading: false, error: '处方 ID 无效' });
+      this.setData({ loading: false, error: '经方 ID 无效' });
       return;
     }
     const requestId = ++this.requestId;
@@ -28,8 +30,9 @@ Page({
       this.setData({ item, sections: sections.filter((section) => String(item[section.key] || '').trim()).map((section) => ({ ...section, content: item[section.key] })), loading: false });
     } catch (error) {
       if (requestId !== this.requestId || this.unloaded) return;
-      this.setData({ loading: false, error: error.message || '处方详情加载失败，请稍后重试' });
+      this.setData({ loading: false, error: error.message || '经方详情加载失败，请稍后重试' });
     }
   },
+  switchTab(event) { this.setData({ activeTab: event.currentTarget.dataset.key }); },
   retry() { this.loadDetail(); }
 });

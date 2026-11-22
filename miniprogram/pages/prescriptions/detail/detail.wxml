@@ -1,10 +1,17 @@
 <view class="detail-page prescription-detail page-fade">
-  <custom-nav title="处方详情" showBack="{{true}}"></custom-nav>
+  <custom-nav title="经方详情" showBack="{{true}}"></custom-nav>
+  <view class="detail-tabs">
+    <view wx:for="{{tabs}}" wx:key="key" class="detail-tab-slot {{activeTab === item.key ? 'detail-tab-slot--active' : ''}}">
+      <button class="detail-tab" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button>
+    </view>
+  </view>
   <learning-actions wx:if="{{item && !loading && !error}}" type="prescription" item="{{item}}" />
   <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
-    <view wx:if="{{loading}}" class="detail-state">正在加载处方…</view>
+    <view wx:if="{{loading}}" class="detail-state">正在加载经方…</view>
     <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry" bindtap="retry">重新加载</button></view>
     <block wx:elif="{{item}}">
+      <learning-actions class="related-notes-panel" show-notes="{{true}}" track="{{false}}" wx:if="{{activeTab === 'notes'}}" type="prescription" item="{{item}}" />
+      <block wx:else>
       <view class="detail-hero">
         <view class="detail-title">{{item.title}}</view>
         <view class="detail-meta">{{item.source || '出处未注明'}}</view>
@@ -16,6 +23,7 @@
       </view>
       <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
       <view class="disclaimer">{{disclaimer}}</view>
+      </block>
     </block>
   </scroll-view>
 </view>

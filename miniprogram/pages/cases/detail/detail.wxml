@@ -27,7 +27,7 @@
           </view>
         </view>
       </block>
-      <block wx:else>
+      <block wx:elif="{{activeTab === 'analysis'}}">
         <view wx:if="{{item.analysis}}" class="detail-card detail-card--analysis-first"><view class="detail-card__title">医案解析</view><view class="detail-content detail-content--analysis">{{item.analysis}}</view></view>
         <view wx:if="{{item.method || item.course_days}}" class="detail-card {{!item.analysis ? 'detail-card--analysis-first' : ''}}">
           <view class="detail-card__title">治法与疗程</view>
@@ -52,7 +52,8 @@
           </view>
         </view>
       </block>
-      <view class="disclaimer">{{disclaimer}}</view>
+      <learning-actions class="related-notes-panel" show-notes="{{true}}" track="{{false}}" wx:if="{{activeTab === 'notes'}}" type="case" item="{{item}}" />
+      <view wx:if="{{activeTab !== 'notes'}}" class="disclaimer">{{disclaimer}}</view>
     </block>
   </scroll-view>
 </view>

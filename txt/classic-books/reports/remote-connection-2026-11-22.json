@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-11-21T16:17:12.704Z",
+  "operation": "authorized_incremental_import",
+  "status": "waiting_for_instance_ca",
+  "phase": "TLS handshake",
+  "error_code": "HANDSHAKE_SSL_ERROR",
+  "error_message": "self-signed certificate in certificate chain",
+  "authentication_completed": false,
+  "table_inspection_completed": false,
+  "inserted_books": 0,
+  "inserted_chapters": 0,
+  "dataset_validation": {
+    "passed": true,
+    "books": 50,
+    "chapters": 23400,
+    "samples": 583
+  },
+  "connection_configuration_tests": {
+    "passed": 2,
+    "failed": 0
+  },
+  "credentials_persisted": false
+}

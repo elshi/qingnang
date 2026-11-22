@@ -1,3 +1,4 @@
+const { contentShare } = require('../../../utils/content-share');
 const { getBookDetail, getBookChapter } = require('../../../utils/books-api');
 const learningStore = require('../../../utils/learning-store');
 
@@ -58,14 +59,20 @@ function readStorage(key, fallback) {
   }
 }
 
+function safeScrollTop(value) {
+  const scrollTop = Number(value);
+  return Number.isFinite(scrollTop) ? Math.min(10000000, Math.max(0, scrollTop)) : 0;
+}
+
 Page({
+  onShareAppMessage() { return contentShare('chapter', this.data.book, this.data.chapter); },
   data: {
     book: null,
     chapters: [],
     chapter: null,
     contentParagraphs: [],
     contentMode: 'original',
-    hasShiyi: false,
+    notesScrollTop: 0,
     selectedChapterId: '',
     currentChapterIndex: -1,
     canGoPrevious: false,
@@ -92,10 +99,10 @@ Page({
     this.bookId = options.id;
     this.initialChapterId = options.chapterId;
     this.resumeRequested = options.resume === '1';
-    this.resumeScrollTop = Math.max(0, Number(options.scrollTop) || 0);
-    this.resumeContentMode = options.contentMode === 'shiyi' ? 'shiyi' : 'original';
+    this.resumeScrollTop = options.contentMode === 'shiyi' ? 0 : safeScrollTop(options.scrollTop);
     this.initialChapterTitle = options.chapterTitle ? decodeURIComponent(options.chapterTitle) : '';
     this.currentScrollTop = 0;
+    this.currentNotesScrollTop = 0;
     this.restoreScrollTop = 0;
     this.loadReaderPreferences();
     this.setNavigationMetrics();
@@ -108,6 +115,7 @@ Page({
 
   onUnload() {
     if (this.scrollSaveTimer) clearTimeout(this.scrollSaveTimer);
+    if (this.modeScrollTimer) clearTimeout(this.modeScrollTimer);
     this.persistProgress();
   },
 
@@ -154,13 +162,12 @@ Page({
       const preferredChapterId = initialChapterId || progress.chapterId;
       const selected = chapters.find((item) => String(item.id) === String(preferredChapterId))
         || chapters[0];
-      this.preferredContentMode = this.resumeRequested ? this.resumeContentMode : progress.contentMode === 'shiyi' ? 'shiyi' : 'original';
 
-      this.restoreScrollTop = this.resumeRequested ? this.resumeScrollTop : initialChapterId ? 0 : Number(progress.scrollTop || 0);
+      this.restoreScrollTop = this.resumeRequested ? this.resumeScrollTop : initialChapterId || progress.contentMode === 'shiyi' ? 0 : safeScrollTop(progress.scrollTop);
       this.setData({
         book: { ...book, chapters },
         chapters,
-        contentMode: this.preferredContentMode,
+        contentMode: 'original',
         loading: false
       });
       if (selected) {
@@ -190,12 +197,9 @@ Page({
       const currentChapterIndex = this.data.chapters.findIndex(
         (item) => String(item.id) === String(chapter.id)
       );
-      const hasShiyi = Boolean(String(chapter.shiyi || '').trim());
-      const contentMode = this.preferredContentMode === 'shiyi' && hasShiyi
-        ? 'shiyi'
-        : 'original';
       const targetScrollTop = options.restoreScroll ? this.restoreScrollTop : 0;
       this.currentScrollTop = targetScrollTop;
+      this.currentNotesScrollTop = 0;
       this.restoreScrollTop = 0;
       this.pendingChapterId = '';
       this.setData({
@@ -204,13 +208,12 @@ Page({
         currentChapterIndex,
         canGoPrevious: currentChapterIndex > 0,
         canGoNext: currentChapterIndex >= 0 && currentChapterIndex < this.data.chapters.length - 1,
-        contentMode,
-        hasShiyi,
-        contentParagraphs: formatContent(contentMode === 'shiyi' ? chapter.shiyi : chapter.content),
+        notesScrollTop: 1,
+        contentParagraphs: formatContent(chapter.content),
         chapterLoading: false,
         scrollTop: targetScrollTop + 1
       }, () => {
-        setTimeout(() => this.setData({ scrollTop: targetScrollTop }), 30);
+        setTimeout(() => this.setData({ scrollTop: targetScrollTop, notesScrollTop: 0 }), 30);
         this.persistProgress();
       });
     } catch (error) {
@@ -224,18 +227,25 @@ Page({
   },
 
   onReaderScroll(event) {
-    this.currentScrollTop = event.detail.scrollTop || 0;
+    if (this.data.contentMode !== 'original' || this.data.chapterLoading || this.switchingMode) return;
+    this.currentScrollTop = safeScrollTop(event.detail.scrollTop);
     if (this.scrollSaveTimer) clearTimeout(this.scrollSaveTimer);
     this.scrollSaveTimer = setTimeout(() => this.persistProgress(), 500);
   },
 
+  onNotesScroll(event) {
+    if (this.data.contentMode !== 'notes' || this.data.chapterLoading || this.switchingMode) return;
+    this.currentNotesScrollTop = safeScrollTop(event.detail.scrollTop);
+  },
+
   persistProgress() {
     if (!this.bookId || !this.data.selectedChapterId) return;
+    const scrollTop = Math.round(safeScrollTop(this.currentScrollTop));
     if (this.data.book && this.data.chapter) {
       learningStore.visit(learningStore.reference('chapter', this.data.book, {
         title: this.data.chapter.title, source: this.data.book.name,
         chapterId: String(this.data.selectedChapterId)
-      }), { scrollTop: Math.round(this.currentScrollTop || 0), contentMode: this.data.contentMode,
+      }), { scrollTop, contentMode: 'original',
         progressLabel: `读至第 ${this.data.currentChapterIndex + 1} 章` });
     }
     try {
@@ -244,8 +254,8 @@ Page({
         chapterIndex: this.data.currentChapterIndex,
         chapterCount: this.data.chapters.length,
         chapterTitle: this.data.chapter ? this.data.chapter.title : '',
-        scrollTop: Math.round(this.currentScrollTop || 0),
-        contentMode: this.preferredContentMode === 'shiyi' ? 'shiyi' : 'original',
+        scrollTop,
+        contentMode: 'original',
         updatedAt: Date.now()
       });
     } catch (error) {
@@ -272,7 +282,8 @@ Page({
 
   goBack() {
     this.persistProgress();
-    wx.navigateBack();
+    if (getCurrentPages().length > 1) wx.navigateBack();
+    else wx.switchTab({ url: '/pages/home/home' });
   },
 
   openDirectory() {
@@ -307,20 +318,21 @@ Page({
   },
 
   toggleContentMode() {
-    if (!this.data.hasShiyi || !this.data.chapter) return;
-
-    const contentMode = this.data.contentMode === 'shiyi' ? 'original' : 'shiyi';
-    const targetScrollTop = this.currentScrollTop || 0;
-    this.preferredContentMode = contentMode;
+    if (!this.data.chapter || this.data.chapterLoading) return;
+    this.persistProgress();
+    const contentMode = this.data.contentMode === 'notes' ? 'original' : 'notes';
+    const scrollKey = contentMode === 'original' ? 'scrollTop' : 'notesScrollTop';
+    const position = safeScrollTop(contentMode === 'original' ? this.currentScrollTop : this.currentNotesScrollTop);
+    this.switchingMode = true;
+    clearTimeout(this.modeScrollTimer);
     this.setData({
       contentMode,
-      contentParagraphs: formatContent(
-        contentMode === 'shiyi' ? this.data.chapter.shiyi : this.data.chapter.content
-      ),
-      scrollTop: targetScrollTop + 1
+      toolbarVisible: true,
+      [scrollKey]: position + 1
     }, () => {
-      setTimeout(() => this.setData({ scrollTop: targetScrollTop }), 30);
-      this.persistProgress();
+      this.modeScrollTimer = setTimeout(() => this.setData({ [scrollKey]: position }, () => {
+        this.switchingMode = false;
+      }), 30);
     });
   },
 

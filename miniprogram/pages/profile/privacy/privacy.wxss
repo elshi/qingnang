@@ -1,4 +1,5 @@
 @import "../../../styles/personal.wxss";
+.privacy-page { background-color:#f8f3ea; background-image:url("/assets/common/paper-bg.png"); background-position:top center; background-repeat:repeat-y; background-size:750rpx auto; }
 .privacy-body { padding-top:28rpx; }
 .privacy-section { margin:34rpx 0; font-size:28rpx; line-height:1.9; color:#7b7062; }
 .privacy-heading { font-size:30rpx; color:#45392b; font-weight:600; margin-bottom:12rpx; }

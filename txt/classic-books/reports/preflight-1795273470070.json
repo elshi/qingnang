@@ -1,0 +1,30 @@
+{
+  "mode": "preflight",
+  "database": "qingnang_books_test_5084ac0c95a5a661",
+  "started_at": "2026-11-21T15:04:30.059Z",
+  "books": [
+    {
+      "key": "suwen",
+      "name": "黄帝内经·素问",
+      "existing_book": false,
+      "book_id": null,
+      "action": "insert",
+      "existing_chapters": 0,
+      "conflicts": [],
+      "planned_chapters": 84,
+      "inserted_books": 0,
+      "inserted_chapters": 0,
+      "committed": false
+    }
+  ],
+  "finished_at": "2026-11-21T15:04:30.070Z",
+  "summary": {
+    "existing_books": 0,
+    "planned_new_books": 1,
+    "inserted_books": 0,
+    "planned_chapters": 84,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  }
+}

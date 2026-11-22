@@ -1,6 +1,7 @@
 <view class="reader-page reader-page--{{theme}}">
   <scroll-view
     class="reader-scroll"
+    hidden="{{contentMode === 'notes'}}"
     scroll-y="{{true}}"
     enhanced="{{true}}"
     show-scrollbar="{{false}}"
@@ -21,6 +22,13 @@
       </view>
       <view wx:elif="{{!chapters.length}}" class="reader-state">暂无章节内容</view>
     </block>
+  </scroll-view>
+
+  <scroll-view class="reader-scroll" hidden="{{contentMode !== 'notes'}}" scroll-y="{{true}}" scroll-top="{{notesScrollTop}}" enhanced="{{true}}" show-scrollbar="{{false}}" bindscroll="onNotesScroll" bindtap="toggleToolbars">
+    <view class="reader-notes" style="padding-top: {{statusBarHeight + navHeight + 100}}rpx;">
+      <view class="reader-notes-title">{{chapter.title}} · 笔记</view>
+      <learning-actions class="related-notes-panel" show-notes="{{true}}" track="{{false}}" wx:if="{{book && chapter}}" type="chapter" item="{{book}}" chapter="{{chapter}}" />
+    </view>
   </scroll-view>
 
   <view wx:if="{{chapterLoading}}" class="chapter-loading" catchtap="noop">正在加载章节...</view>
@@ -44,7 +52,7 @@
     <button class="reader-tool pressable" catchtap="openDirectory"><text class="reader-tool__icon">目</text><text>目录</text></button>
     <button class="reader-tool pressable {{!canGoPrevious ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoPrevious}}" catchtap="goPreviousChapter"><text class="reader-tool__icon">上</text><text>上一章</text></button>
     <button class="reader-tool pressable {{!canGoNext ? 'reader-tool--disabled' : ''}}" disabled="{{!canGoNext}}" catchtap="goNextChapter"><text class="reader-tool__icon">下</text><text>下一章</text></button>
-    <button class="reader-tool pressable {{!hasShiyi ? 'reader-tool--disabled' : ''}}" disabled="{{!hasShiyi}}" catchtap="toggleContentMode"><text class="reader-tool__icon">{{contentMode === 'shiyi' ? '原' : '释'}}</text><text>{{contentMode === 'shiyi' ? '原文' : '释义'}}</text></button>
+    <button class="reader-tool pressable {{!chapter ? 'reader-tool--disabled' : ''}}" disabled="{{!chapter || chapterLoading}}" catchtap="toggleContentMode"><text class="reader-tool__icon">{{contentMode === 'notes' ? '原' : '记'}}</text><text>{{contentMode === 'notes' ? '原文' : '笔记'}}</text></button>
     <button class="reader-tool pressable" catchtap="openSettings"><text class="reader-tool__icon">Aa</text><text>设置</text></button>
   </view>
 

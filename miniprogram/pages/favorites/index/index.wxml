@@ -1,7 +1,22 @@
-<view class="personal-page"><personal-nav title="我的收藏" back="{{true}}" /><view class="personal-body">
-<view class="personal-search"><image src="/assets/personal/search.png" /><input value="{{keyword}}" placeholder="搜索我的收藏" bindinput="onSearch" maxlength="100" confirm-type="search" /><button wx:if="{{keyword}}" bindtap="clearSearch">清除</button></view>
-<view class="personal-tabs"><button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button></view>
-<view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
-<view wx:for="{{items}}" wx:key="key" class="personal-row"><view class="personal-row-main" data-key="{{item.key}}" bindtap="openItem" aria-role="button"><view class="personal-title">{{item.title}}</view><view class="personal-meta">{{item.sourceLabel}}</view></view><button class="personal-more" data-key="{{item.key}}" bindtap="more" aria-label="管理收藏"><image src="/assets/personal/more.png" /></button></view>
-<view wx:if="{{!items.length}}" class="personal-empty"><image src="/assets/personal/star.png" /><view class="personal-empty-title">{{keyword?'没有找到相关收藏':'暂无收藏'}}</view><view>{{keyword?'换个关键词再试试':'读到心仪的经典，收藏起来慢慢研读'}}</view><button class="personal-link" bindtap="browse">去读经典</button></view>
-</view></view>
+<view class="personal-page personal-list-page page-fade">
+  <custom-nav title="我的收藏" showBack="{{true}}"></custom-nav>
+  <view class="personal-search">
+    <image src="/assets/cases/search.png" mode="aspectFit" aria-hidden="true" />
+    <input value="{{keyword}}" placeholder="搜索我的收藏" bindinput="onSearch" maxlength="100" confirm-type="search" />
+    <button wx:if="{{keyword}}" bindtap="clearSearch">清除</button>
+  </view>
+  <view class="personal-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button>
+  </view>
+  <scroll-view class="personal-list-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view class="personal-body">
+      <view class="personal-result-head"><text>{{keyword ? '搜索结果' : '全部收藏'}}</text><text class="personal-result-count">{{items.length}} 条</text></view>
+      <view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
+      <view wx:for="{{items}}" wx:key="key" class="personal-row pressable">
+        <view class="personal-row-main" data-key="{{item.key}}" bindtap="openItem" aria-role="button"><view class="personal-title">{{item.title}}</view><view class="personal-meta">{{item.sourceLabel}}</view></view>
+        <button class="personal-more" data-key="{{item.key}}" bindtap="more" aria-label="管理收藏"><image src="/assets/personal/more.png" /></button>
+      </view>
+      <view wx:if="{{!items.length}}" class="personal-empty"><image src="/assets/personal/star.png" /><view class="personal-empty-title">{{keyword?'没有找到相关收藏':'暂无收藏'}}</view><view>{{keyword?'换个关键词再试试':'读到心仪的经典，收藏起来慢慢研读'}}</view><button class="personal-link" bindtap="browse">去读经典</button></view>
+    </view>
+  </scroll-view>
+</view>

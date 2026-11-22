@@ -1,8 +1,20 @@
-<view class="personal-page"><personal-nav title="历史记录" back="{{true}}" action="清空" bind:action="clear" /><view class="personal-body">
-<view class="personal-search"><image src="/assets/personal/search.png" /><input value="{{keyword}}" placeholder="搜索浏览记录" bindinput="onSearch" maxlength="100" confirm-type="search" /><button wx:if="{{keyword}}" bindtap="clearSearch">清除</button></view>
-<view class="personal-tabs"><button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button></view>
-<view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
-<view wx:for="{{groups}}" wx:key="label" wx:for-item="group" class="history-group"><view class="history-date">{{group.label}}</view><view wx:for="{{group.items}}" wx:key="key" class="history-item" data-key="{{item.key}}" bindtap="openItem" aria-role="button"><view class="history-heading"><text class="personal-title">{{item.title}}</text><text class="history-time">{{item.timeLabel}}</text></view><view class="personal-meta">{{item.sourceLabel}}</view><view wx:if="{{item.progressLabel}}" class="personal-meta">{{item.progressLabel}}</view></view></view>
-<view wx:if="{{groups.length}}" class="history-footer">点击记录，继续阅读</view>
-<view wx:else class="personal-empty"><image src="/assets/personal/clock.png" /><view class="personal-empty-title">{{keyword?'没有找到相关记录':'暂无阅读记录'}}</view><view>{{keyword?'换个关键词再试试':'读过的经典会在这里留下足迹'}}</view></view>
-</view></view>
+<view class="personal-page personal-list-page page-fade">
+  <custom-nav title="历史记录" showBack="{{true}}"></custom-nav>
+  <view class="personal-search">
+    <image src="/assets/cases/search.png" mode="aspectFit" aria-hidden="true" />
+    <input value="{{keyword}}" placeholder="搜索浏览记录" bindinput="onSearch" maxlength="100" confirm-type="search" />
+    <button wx:if="{{keyword}}" bindtap="clearSearch">清除</button>
+  </view>
+  <view class="personal-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button>
+  </view>
+  <scroll-view class="personal-list-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view class="personal-body">
+      <view class="personal-result-head"><text>{{keyword ? '搜索结果' : '浏览记录'}}</text><button class="personal-list-action" bindtap="clear">清空</button></view>
+      <view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
+      <view wx:for="{{groups}}" wx:key="label" wx:for-item="group" class="history-group"><view class="history-date">{{group.label}}</view><view wx:for="{{group.items}}" wx:key="key" class="history-item pressable" data-key="{{item.key}}" bindtap="openItem" aria-role="button"><view class="history-heading"><text class="personal-title">{{item.title}}</text><text class="history-time">{{item.timeLabel}}</text></view><view class="personal-meta">{{item.sourceLabel}}</view><view wx:if="{{item.progressLabel}}" class="personal-meta">{{item.progressLabel}}</view></view></view>
+      <view wx:if="{{groups.length}}" class="history-footer">点击记录，继续阅读</view>
+      <view wx:else class="personal-empty"><image src="/assets/personal/clock.png" /><view class="personal-empty-title">{{keyword?'没有找到相关记录':'暂无阅读记录'}}</view><view>{{keyword?'换个关键词再试试':'读过的经典会在这里留下足迹'}}</view></view>
+    </view>
+  </scroll-view>
+</view>

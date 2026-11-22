@@ -1,6 +1,7 @@
 const store = require('../../../utils/learning-store');
 Page({
   data: {
+    loggedIn: false,
     keyword: '',
     activeTab: 'all',
     tabs: [
@@ -13,17 +14,30 @@ Page({
     syncError: ''
   },
   onShow() {
+    const bar = this.getTabBar && this.getTabBar();
+    if (bar) bar.setData({ selected: 1 });
+    this.syncNotes();
+  },
+  async syncNotes() {
     this.refresh();
-    store
-      .synchronize()
-      .then((pending) => { this.setData({ syncError: pending ? '有待处理的恢复副本，请打开对应笔记核对' : '' }); this.refresh(); })
-      .catch((error) => this.setData({ syncError: error.message + '；当前显示上次缓存' }));
+    const owner = store.scope();
+    this.setData({ syncError: '' });
+    try {
+      const pending = await store.synchronize();
+      if (pending && owner === store.scope()) this.setData({ syncError: '有待处理的恢复副本，请打开对应笔记核对' });
+    } catch (error) {
+      if (owner === store.scope()) this.setData({ syncError: `${error.message}；当前显示上次缓存` });
+    } finally {
+      this.refresh();
+    }
   },
   refresh() {
+    const loggedIn = Boolean(store.account());
+    const notes = loggedIn ? store.records('note') : [];
     this.setData({
-      hasDraft: Boolean(store.getDraft()),
-      items: store
-        .records('note')
+      loggedIn,
+      hasDraft: Boolean(loggedIn && store.getDraft()),
+      items: notes
         .filter(
           (item) =>
             store.matches(item, this.data.keyword) &&
@@ -49,6 +63,10 @@ Page({
   switchTab(event) {
     this.setData({ activeTab: event.currentTarget.dataset.key });
     this.refresh();
+  },
+  async login() {
+    try { await store.requireLogin(); await this.syncNotes(); }
+    catch (error) { this.setData({ syncError: error.message }); }
   },
   create() {
     store.editNote();

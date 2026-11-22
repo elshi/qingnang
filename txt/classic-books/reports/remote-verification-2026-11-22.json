@@ -1,0 +1,50 @@
+{
+  "generated_at": "2026-11-21T16:23:51.518Z",
+  "database": "qingnang",
+  "passed": true,
+  "inserted_books": 3,
+  "inserted_chapters": 2624,
+  "existing_books_preserved": true,
+  "existing_book_count": 273,
+  "existing_chapter_count": 44020,
+  "changed_or_missing_existing_chapters": 0,
+  "final_book_count": 276,
+  "final_chapter_count": 46644,
+  "repeat_preflight": {
+    "existing_books": 3,
+    "planned_new_books": 0,
+    "inserted_books": 0,
+    "planned_chapters": 0,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "inserted": [
+    {
+      "key": "bencaocongxin",
+      "name": "本草从新",
+      "book_id": 318,
+      "chapters": 737,
+      "committed": true
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "name": "本草求真",
+      "book_id": 319,
+      "chapters": 581,
+      "committed": true
+    },
+    {
+      "key": "furendaquanliangfang",
+      "name": "妇人大全良方",
+      "book_id": 320,
+      "chapters": 1306,
+      "committed": true
+    }
+  ],
+  "skipped_existing_books": 47,
+  "compatibility_tests": {
+    "passed": 17,
+    "failed": 0
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "navigationBarTitleText": "经典处方",
+  "navigationBarTitleText": "经典经方",
   "disableScroll": true,
   "usingComponents": {
     "custom-nav": "/components/custom-nav/custom-nav",

@@ -1,0 +1,241 @@
+{
+  "generated_at": "2026-11-21T14:59:08.118Z",
+  "isolated": true,
+  "schema": "qingnang_books_test_8d29920c19bb3b01",
+  "shape": "canonical title column, no item_order, MEDIUMTEXT content",
+  "passed": true,
+  "existing_book_preserved": true,
+  "counts": {
+    "books": 50,
+    "chapters": 23400
+  },
+  "preflight": {
+    "existing_books": 1,
+    "planned_new_books": 49,
+    "inserted_books": 0,
+    "planned_chapters": 23400,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "first_import": {
+    "existing_books": 1,
+    "planned_new_books": 49,
+    "inserted_books": 49,
+    "planned_chapters": 23400,
+    "inserted_chapters": 23400,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "repeat_import": {
+    "existing_books": 50,
+    "planned_new_books": 0,
+    "inserted_books": 0,
+    "planned_chapters": 0,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "dataset_hashes": [
+    {
+      "key": "suwen",
+      "sha256": "dda3dcaf3818f87759b015234bfed33682a82d6311004da12f31d271f22d38d2"
+    },
+    {
+      "key": "lingshu",
+      "sha256": "f209de7670e8ccb52d38513c87d82dee64d57344d797f746c9d73faacef54d31"
+    },
+    {
+      "key": "nanjing",
+      "sha256": "bde13924151e7361d1f879b513d8745c9955a0acf727f37444bfcff769b1f1ed"
+    },
+    {
+      "key": "shanghanlun",
+      "sha256": "80798e210a6dc27d547711cdcda3bef3c10a733697e582a178a5183c4125f765"
+    },
+    {
+      "key": "jinguiyaolue",
+      "sha256": "a25053c393565f91f94cca116dc7aac8740bc54bf40e16d8aea2b8849d87f6f2"
+    },
+    {
+      "key": "shennongbencaojing",
+      "sha256": "cd918702ea2c675c99a93157b84bba0414f7517cd11c43879215494ae1141bfc"
+    },
+    {
+      "key": "bencaogangmu",
+      "sha256": "fbdac68df81619af1d0964524aafaa01d2d7ede09cbbbcec3e7b6801d628c90d"
+    },
+    {
+      "key": "bencaobeiyao",
+      "sha256": "c0a4b259bc31d6b009067365f32a1040407260921304f88e4f5731aabc36d55a"
+    },
+    {
+      "key": "bencaocongxin",
+      "sha256": "803dcdf56fb1dc82bc2df63ef01525fbb13d1dccfd4dc8a29903198296d45ae5"
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "sha256": "b4821444af9eb0d243690bdf9cd0d5a390d50f3eb9823778592026cab9ed9881"
+    },
+    {
+      "key": "bencaogangmushiyi",
+      "sha256": "fa75b2b5a45266fc81af3c577086acfe71f050ba800bdb7973512fe54174f28c"
+    },
+    {
+      "key": "qianjinyaofang",
+      "sha256": "4623dac4e7c0de2da29a02066f7c05c3a41dc94b13f968dcfa4d3b009b0ececb"
+    },
+    {
+      "key": "qianjinyifang",
+      "sha256": "19e92108b37c0bd7b10ea04402773b498dd99488ef0b676e3032a89f760ca262"
+    },
+    {
+      "key": "waitaimiyao",
+      "sha256": "5a993fa1d99f0753a54936b6cf6270ef4620e0e7244d6240b84d8246b03e64cb"
+    },
+    {
+      "key": "zhouhoubeijifang",
+      "sha256": "8cf2676e1befcd7fef0d53dde98a948374f1a0e2721153faa344964bde9d97d3"
+    },
+    {
+      "key": "hejijufang",
+      "sha256": "945882aa93af2dfa41022cc52d7711e6d024a8eb0928622282c15a4dcbe1b90b"
+    },
+    {
+      "key": "yifangjijie",
+      "sha256": "e5cdef184c8f6771a87274942ca681447e70d2b720c10cf7ae7422a6cd052101"
+    },
+    {
+      "key": "tangtougejue",
+      "sha256": "fa459f5dea9718140f6e74108a7c97173f009046faf7f8b0e35ea673e21d294d"
+    },
+    {
+      "key": "yifangkao",
+      "sha256": "f38dfd3b3871fdb590987b69212ffabe547f8b14edfc9eedbfd36fa7bfaf74bf"
+    },
+    {
+      "key": "maijing",
+      "sha256": "bad56be7f5a41447a048773550efa3a542c2862aa6c5f3c33f0b94dbd8d51930"
+    },
+    {
+      "key": "binhumaixue",
+      "sha256": "ff50c1c9211c014acf5032a7bace42cb90fa40e665584428c74885e7e464a2e2"
+    },
+    {
+      "key": "zhenjiashuyao",
+      "sha256": "3a8dca6ca4a0eef7d2ea23306be846c72ad0f9b3ba08aa16244184e5e3e12087"
+    },
+    {
+      "key": "zhenjiujiayijing",
+      "sha256": "4fabc8557277668f663221ce2fc563918d9ba5af75b1370a3eaf3944e38ae2ab"
+    },
+    {
+      "key": "zhenjiudacheng",
+      "sha256": "2d83468020278c5e6b9ba172a978fee4d03db8d22161baeafa47eef4191363fc"
+    },
+    {
+      "key": "qijingbamaikao",
+      "sha256": "d44e3a7cd398582dbbc0c4271dc5ee3c95c06cbff69cae4081ccd62c2fe0202b"
+    },
+    {
+      "key": "zhubingyuanhoulun",
+      "sha256": "04563ddda2ce61dc772a2b5eb0f6ddecf1050a7e851fe5951c7f184b888c2fe9"
+    },
+    {
+      "key": "piweilun",
+      "sha256": "afdcc1c9ab2745373c8132e0195c8ea4c7e775b4103cf04036890fa06f0b21e1"
+    },
+    {
+      "key": "rumenshiqin",
+      "sha256": "9aaa77bc15dbfcc88d1b68dfa77900473dd07c3877fab2e208f70d515978cd3b"
+    },
+    {
+      "key": "gezhiyulun",
+      "sha256": "e9ea409c75e414a63c1ea0c0c61487ea6e10576d5ffc6698999bc62f479ae051"
+    },
+    {
+      "key": "danxixinfa",
+      "sha256": "9dd9b9257a4cd91ffde89e8300f533080b3004575056c63d846e3af8e4257466"
+    },
+    {
+      "key": "jingyuequanshu",
+      "sha256": "dace4191258b866565a53b946e57c585060e99050b094bceaaebc818219550ad"
+    },
+    {
+      "key": "yixuexinwu",
+      "sha256": "3e45d44ebc5c7edc150cbc0ee7bc0713431b50a9796f926f1c9d1f2d3b78531c"
+    },
+    {
+      "key": "sishengxinyuan",
+      "sha256": "e17fa5ecfb25ab5f53da0183d63d9531c7d0331506e3bfb5225cf52b591906a3"
+    },
+    {
+      "key": "yizongjinjian",
+      "sha256": "82af4da2c9ffaa345dc9181354455c66f6a30698275e9039b797f2a6f735311d"
+    },
+    {
+      "key": "wenyilun",
+      "sha256": "255a009fb1e1bdfa02cd97dfdc0ca524c50451ffba68e3a64b22e371e413ae1d"
+    },
+    {
+      "key": "wenrelun",
+      "sha256": "acc73de623bb0e48c1b28ccd1dc543629cd93214a081f038fafcb0d4aaf337aa"
+    },
+    {
+      "key": "shirebingpian",
+      "sha256": "f02deda35ac06893aa4bd8bf3234b9709dad3d95c2f845fe737e07e60b45477a"
+    },
+    {
+      "key": "wenbingtiaobian",
+      "sha256": "9e29ac21e10ba1cbbb7da79255a462b11fef83f51f083792449e76050af84130"
+    },
+    {
+      "key": "wenrejingwei",
+      "sha256": "d081eb10789716ddbe18d6bc9a765a702d5a32c52d95716581843e45be7887a2"
+    },
+    {
+      "key": "furendaquanliangfang",
+      "sha256": "cf765be454e95036eaea7084cf9cfa163056e7e4b130c0a7bd9bba94d47c24cd"
+    },
+    {
+      "key": "fuqingzhunvke",
+      "sha256": "ebb66ac64fe259ba897d5d1e6504b1359a646fc4fd3bd9e595ad2a993ba4b1ac"
+    },
+    {
+      "key": "xiaoeryaozhengzhijue",
+      "sha256": "87a6e8a83b82be892885ae4effbeb5fef7e24c0ff071666982f75d0d824fb913"
+    },
+    {
+      "key": "youyoujicheng",
+      "sha256": "7ddb153f12a394483930fa8bf0645f9023c9c7df2ac5ab08808bfebdcf969d62"
+    },
+    {
+      "key": "waikezhengzong",
+      "sha256": "77a4a653ed1619f749912733e2ec2fdbfb61410ce66d84cf7303649010bd3933"
+    },
+    {
+      "key": "waikezhengzhiquanshengji",
+      "sha256": "a42610a9035f1edc078a5c4dff15f3821d3e64cbd990c9e146d14c41a922c587"
+    },
+    {
+      "key": "linzhengzhinanyian",
+      "sha256": "06969dfeb841c0c896cae7f1cf86c6aa12ffca81c27491033a0ed2ca54bf4d7a"
+    },
+    {
+      "key": "yilingaicuo",
+      "sha256": "a240fb29ac6d86f4a3487d6a02c10ba213196ab59ae29ca0cce5ca130d25746f"
+    },
+    {
+      "key": "yixuesanzijing",
+      "sha256": "677c6a89c2a856525dd852b918dc14918b2ef7053d77cb6b28b5268b21a52c0c"
+    },
+    {
+      "key": "yixueyuanliulun",
+      "sha256": "14d93098a9dc85b2b8421b09df1686a0a1a6e069be9b250cc52fb528d25b8cb0"
+    },
+    {
+      "key": "yinshanzhengyao",
+      "sha256": "20dfcfae6f1dcdcc75f499f6037a9c360505f901e9cb560d21ffba76ed006703"
+    }
+  ]
+}

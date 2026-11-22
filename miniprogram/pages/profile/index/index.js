@@ -1,9 +1,9 @@
 const store = require('../../../utils/learning-store');
 Page({
-  data: { user: null, busy: false, syncMessage: '', error: '' },
+  data: { user: null, busy: false, syncFailed: false, error: '' },
   onShow() {
     const bar = this.getTabBar && this.getTabBar();
-    if (bar) bar.setData({ selected: 1 });
+    if (bar) bar.setData({ selected: 2 });
     this.setData({ user: store.account() });
     if (this.data.user) this.sync();
   },
@@ -21,18 +21,20 @@ Page({
     }
   },
   async sync() {
-    this.setData({ syncMessage: '正在同步学习记录…' });
+    this.setData({ syncFailed: false });
     try {
       const pending = await store.synchronize();
-      this.setData({ user: store.account(), syncMessage: pending ? '有待处理的恢复副本，请打开笔记核对' : '学习记录已保存到云端', error: '' });
+      this.setData({ user: store.account(), error: pending ? '有待处理的恢复副本，请打开笔记核对' : '' });
     } catch (error) {
-      this.setData({ user: store.account(), syncMessage: '连接云端失败，点击重试', error: error.message });
+      this.setData({ user: store.account(), syncFailed: true, error: error.message });
     }
   },
   async openPage(event) {
     try {
       await store.requireLogin();
-      wx.navigateTo({ url: '/pages/' + event.currentTarget.dataset.page + '/index/index' });
+      const page = event.currentTarget.dataset.page;
+      if (page === 'notes') wx.switchTab({ url: '/pages/notes/index/index' });
+      else wx.navigateTo({ url: '/pages/' + page + '/index/index' });
     } catch (error) { this.setData({ error: error.message }); }
   },
   openPrivacy() {
@@ -48,7 +50,7 @@ Page({
         if (result.confirm) {
           try {
             await store.logout();
-            this.setData({ user: null, syncMessage: '', error: '' });
+            this.setData({ user: null, syncFailed: false, error: '' });
           } catch (error) { this.setData({ error: error.message }); }
         }
       }

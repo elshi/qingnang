@@ -1,0 +1,408 @@
+{
+  "generated_at": "2026-11-21T15:01:56.858Z",
+  "books": 50,
+  "chapters": 23400,
+  "characters": 10456707,
+  "full_text_conversion_check": true,
+  "automatic_sampled_units": 583,
+  "assistant_excerpt_review_books": 50,
+  "node_tests": {
+    "passed": 14,
+    "failed": 0,
+    "skipped": 0
+  },
+  "existing_api_tests": {
+    "passed": 6,
+    "assertions": 36
+  },
+  "corpus_test_report": "corpus-import-test-report.json",
+  "business_database": {
+    "written": false,
+    "read_only_schema_attempt": "ER_ACCESS_DENIED_ERROR"
+  },
+  "oversized_text_units": [
+    {
+      "key": "waitaimiyao",
+      "name": "外台秘要",
+      "count": 1,
+      "max_bytes": 93676
+    },
+    {
+      "key": "jingyuequanshu",
+      "name": "景岳全书",
+      "count": 2,
+      "max_bytes": 119538
+    },
+    {
+      "key": "yizongjinjian",
+      "name": "医宗金鉴",
+      "count": 3,
+      "max_bytes": 100674
+    },
+    {
+      "key": "shirebingpian",
+      "name": "湿热病篇",
+      "count": 1,
+      "max_bytes": 75373
+    },
+    {
+      "key": "wenrejingwei",
+      "name": "温热经纬",
+      "count": 2,
+      "max_bytes": 91793
+    }
+  ],
+  "audit": [
+    {
+      "key": "suwen",
+      "name": "黄帝内经·素问",
+      "images_omitted": 0,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "lingshu",
+      "name": "黄帝内经·灵枢",
+      "images_omitted": 2,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 9
+    },
+    {
+      "key": "nanjing",
+      "name": "难经",
+      "images_omitted": 13,
+      "gap_marker_units": 4,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "shanghanlun",
+      "name": "伤寒论",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 3
+    },
+    {
+      "key": "jinguiyaolue",
+      "name": "金匮要略",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 1
+    },
+    {
+      "key": "shennongbencaojing",
+      "name": "神农本草经",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "bencaogangmu",
+      "name": "本草纲目",
+      "images_omitted": 2,
+      "gap_marker_units": 9,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "bencaobeiyao",
+      "name": "本草备要",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "bencaocongxin",
+      "name": "本草从新",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "name": "本草求真",
+      "images_omitted": 0,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "bencaogangmushiyi",
+      "name": "本草纲目拾遗",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "qianjinyaofang",
+      "name": "备急千金要方",
+      "images_omitted": 0,
+      "gap_marker_units": 3,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "qianjinyifang",
+      "name": "千金翼方",
+      "images_omitted": 1,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 3
+    },
+    {
+      "key": "waitaimiyao",
+      "name": "外台秘要",
+      "images_omitted": 17,
+      "gap_marker_units": 5,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "zhouhoubeijifang",
+      "name": "肘后备急方",
+      "images_omitted": 0,
+      "gap_marker_units": 3,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "hejijufang",
+      "name": "太平惠民和剂局方",
+      "images_omitted": 9,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yifangjijie",
+      "name": "医方集解",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "tangtougejue",
+      "name": "汤头歌诀",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yifangkao",
+      "name": "医方考",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "maijing",
+      "name": "脉经",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "binhumaixue",
+      "name": "濒湖脉学",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "zhenjiashuyao",
+      "name": "诊家枢要",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "zhenjiujiayijing",
+      "name": "针灸甲乙经",
+      "images_omitted": 0,
+      "gap_marker_units": 2,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "zhenjiudacheng",
+      "name": "针灸大成",
+      "images_omitted": 170,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "qijingbamaikao",
+      "name": "奇经八脉考",
+      "images_omitted": 1,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "zhubingyuanhoulun",
+      "name": "诸病源候论",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "piweilun",
+      "name": "脾胃论",
+      "images_omitted": 1,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "rumenshiqin",
+      "name": "儒门事亲",
+      "images_omitted": 2,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "gezhiyulun",
+      "name": "格致余论",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "danxixinfa",
+      "name": "丹溪心法",
+      "images_omitted": 0,
+      "gap_marker_units": 3,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "jingyuequanshu",
+      "name": "景岳全书",
+      "images_omitted": 0,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yixuexinwu",
+      "name": "医学心悟",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "sishengxinyuan",
+      "name": "四圣心源",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yizongjinjian",
+      "name": "医宗金鉴",
+      "images_omitted": 536,
+      "gap_marker_units": 12,
+      "modern_editorial_notes_excluded": 13
+    },
+    {
+      "key": "wenyilun",
+      "name": "温疫论",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "wenrelun",
+      "name": "温热论",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "shirebingpian",
+      "name": "湿热病篇",
+      "images_omitted": 0,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "wenbingtiaobian",
+      "name": "温病条辨",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "wenrejingwei",
+      "name": "温热经纬",
+      "images_omitted": 0,
+      "gap_marker_units": 2,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "furendaquanliangfang",
+      "name": "妇人大全良方",
+      "images_omitted": 9,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "fuqingzhunvke",
+      "name": "傅青主女科",
+      "images_omitted": 0,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "xiaoeryaozhengzhijue",
+      "name": "小儿药证直诀",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "youyoujicheng",
+      "name": "幼幼集成",
+      "images_omitted": 7,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "waikezhengzong",
+      "name": "外科正宗",
+      "images_omitted": 36,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "waikezhengzhiquanshengji",
+      "name": "外科证治全生集",
+      "images_omitted": 3,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "linzhengzhinanyian",
+      "name": "临证指南医案",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yilingaicuo",
+      "name": "医林改错",
+      "images_omitted": 16,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yixuesanzijing",
+      "name": "医学三字经",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yixueyuanliulun",
+      "name": "医学源流论",
+      "images_omitted": 0,
+      "gap_marker_units": 0,
+      "modern_editorial_notes_excluded": 0
+    },
+    {
+      "key": "yinshanzhengyao",
+      "name": "饮膳正要",
+      "images_omitted": 0,
+      "gap_marker_units": 1,
+      "modern_editorial_notes_excluded": 0
+    }
+  ],
+  "cli_test_report": "cli-test-report.json"
+}

@@ -50,11 +50,11 @@ class PrescriptionController extends Controller
     public function show($id)
     {
         if (!ctype_digit((string) $id) || strlen((string) $id) > 10 || (float) $id > 4294967295) {
-            return $this->error('处方 ID 无效', 422);
+            return $this->error('经方 ID 无效', 422);
         }
         try {
             $record = Prescription::query()->find((int) $id);
-            if (!$record) return $this->error('未找到该处方', 404);
+            if (!$record) return $this->error('未找到该经方', 404);
             return response()->json(['code' => 0, 'data' => array_merge($this->listItem($record), [
                 'modern_dose' => $record->modern_dose,
                 'decoction' => $record->decoction,
@@ -75,7 +75,7 @@ class PrescriptionController extends Controller
         $summary = trim((string) $record->indications);
         return [
             'id' => $record->id,
-            'title' => trim((string) $record->name) ?: '未命名处方',
+            'title' => trim((string) $record->name) ?: '未命名经方',
             'source' => trim((string) $record->cited),
             'tags' => $tags,
             'summary' => mb_strlen($summary) > 120 ? mb_substr($summary, 0, 120) . '…' : $summary,
@@ -87,13 +87,13 @@ class PrescriptionController extends Controller
         report($error);
         $driverCode = $error instanceof QueryException ? (int) ($error->errorInfo[1] ?? 0) : 0;
         $messages = [
-            1044 => '数据库账号无法访问处方数据库，请检查数据库配置与账号权限',
-            1045 => '数据库账号无法访问处方数据库，请检查数据库配置与账号权限',
-            1142 => '数据库账号无权读取处方表，请为 t_prescriptions 授予 SELECT 权限',
-            1146 => '未找到处方数据表，请检查 PRESCRIPTIONS_TABLE 配置',
-            1054 => '处方数据表字段不匹配，请检查 t_prescriptions 表结构',
+            1044 => '数据库账号无法访问经方数据库，请检查数据库配置与账号权限',
+            1045 => '数据库账号无法访问经方数据库，请检查数据库配置与账号权限',
+            1142 => '数据库账号无权读取经方表，请为 t_prescriptions 授予 SELECT 权限',
+            1146 => '未找到经方数据表，请检查 PRESCRIPTIONS_TABLE 配置',
+            1054 => '经方数据表字段不匹配，请检查 t_prescriptions 表结构',
         ];
-        return $this->error($messages[$driverCode] ?? '处方加载失败，请稍后重试', 500);
+        return $this->error($messages[$driverCode] ?? '经方加载失败，请稍后重试', 500);
     }
 
     private function error(string $message, int $status)

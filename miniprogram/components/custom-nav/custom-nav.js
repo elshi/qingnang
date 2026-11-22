@@ -16,6 +16,14 @@ Component({
       type: Boolean,
       value: false
     },
+    action: {
+      type: String,
+      value: ''
+    },
+    actionBusy: {
+      type: Boolean,
+      value: false
+    },
     searchEmphasis: {
       type: Boolean,
       value: false
@@ -44,11 +52,16 @@ Component({
 
   methods: {
     goBack() {
-      wx.navigateBack();
+      if (getCurrentPages().length > 1) wx.navigateBack();
+      else wx.switchTab({ url: '/pages/home/home' });
     },
 
     search() {
       this.triggerEvent('search');
+    },
+
+    act() {
+      if (!this.data.actionBusy) this.triggerEvent('action');
     }
   }
 });

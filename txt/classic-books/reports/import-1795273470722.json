@@ -1,0 +1,31 @@
+{
+  "mode": "apply",
+  "database": "qingnang_books_test_5084ac0c95a5a661",
+  "started_at": "2026-11-21T15:04:30.706Z",
+  "books": [
+    {
+      "key": "suwen",
+      "name": "黄帝内经·素问",
+      "existing_book": true,
+      "book_id": 1,
+      "action": "reuse",
+      "existing_chapters": 84,
+      "conflicts": [],
+      "existing_metadata_sha256": "d79921570acfe76ef71c42684ace39b62b0518db76b4e42ffb1831b2a1450625",
+      "planned_chapters": 0,
+      "inserted_books": 0,
+      "inserted_chapters": 0,
+      "committed": true
+    }
+  ],
+  "finished_at": "2026-11-21T15:04:30.722Z",
+  "summary": {
+    "existing_books": 1,
+    "planned_new_books": 0,
+    "inserted_books": 0,
+    "planned_chapters": 0,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  }
+}

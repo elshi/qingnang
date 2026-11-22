@@ -1,8 +1,10 @@
+const { contentShare } = require('../../../utils/content-share');
 const { getCaseDetail } = require('../../../utils/cases-api');
 
 const tabs = [
   { key: 'original', label: '原文' },
-  { key: 'analysis', label: '解析' }
+  { key: 'analysis', label: '解析' },
+  { key: 'notes', label: '笔记' }
 ];
 
 const prescriptionKeys = ['items', 'prescription', 'drugs', 'medicines', 'content'];
@@ -88,6 +90,7 @@ function formatOriginalContent(value) {
 }
 
 Page({
+  onShareAppMessage() { return contentShare('case', this.data.item); },
   data: {
     tabs,
     activeTab: 'original',

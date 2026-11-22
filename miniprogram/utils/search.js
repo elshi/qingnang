@@ -1,7 +1,7 @@
 const sampleData = require('./sample-data');
 const { meridians } = require('./meridians');
 
-const typeTextMap = { case: '医案', book: '医书', prescription: '处方', meridian: '经脉', acupoint: '穴位' };
+const typeTextMap = { case: '医案', book: '医书', prescription: '经方', meridian: '经脉', acupoint: '穴位' };
 const routeMap = { case: '/pages/cases/detail/detail', book: '/pages/books/reader/reader', prescription: '/pages/prescriptions/detail/detail', meridian: '/pages/meridians/detail/detail', acupoint: '/pages/acupoints/detail/detail' };
 
 function normalize(value) { return String(value || '').trim().toLowerCase(); }

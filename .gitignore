@@ -3,7 +3,8 @@ node_modules
 /database/PRIVATE*
 /storage/logs/*
 /bootstrap/cache/*.php
-txt
+/txt/*
+!/txt/classic-books/
 books
 doctors
 design

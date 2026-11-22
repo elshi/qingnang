@@ -1,7 +1,9 @@
 @import "../../../styles/personal.wxss";
-.note-row { padding:40rpx 0; border-bottom:1rpx solid #e9e1d7; }
-.note-excerpt { margin-top:10rpx; color:#7e7467; font-size:34rpx; line-height:1.6; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
-.note-footer { display:flex; justify-content:space-between; gap:20rpx; margin-top:18rpx; color:#948879; font-size:30rpx; line-height:1.5; }
+@import "../../../styles/personal-catalog.wxss";
+.note-excerpt { margin-top:10rpx; color:#675e53; font-size:26rpx; line-height:1.55; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+.note-footer { display:flex; justify-content:space-between; gap:20rpx; margin-top:16rpx; color:#a27942; font-size:21rpx; line-height:1.5; }
 .note-footer text:first-child { flex:1; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }
 .note-footer text:last-child { flex-shrink:0; }
-.draft-entry { margin:16rpx 0 0; padding:16rpx; color:#a77936; background:#f3ecdf; font-size:30rpx; text-align:left; }
+.personal-list-page button.draft-entry { width:100% !important; margin:0 0 15rpx; padding:18rpx 22rpx; border:1rpx solid #e4d3b9; border-radius:7rpx; color:#a27942; background:#f3ecdf; font-size:24rpx; text-align:left; }
+
+.personal-list-page { box-sizing:border-box; padding-bottom:calc(112rpx + env(safe-area-inset-bottom)); }

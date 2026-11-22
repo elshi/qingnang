@@ -1,0 +1,401 @@
+{
+  "mode": "apply",
+  "database": "qingnang",
+  "started_at": "2026-11-21T16:23:15.719Z",
+  "books": [
+    {
+      "key": "bencaocongxin",
+      "name": "本草从新",
+      "existing_book": false,
+      "book_id": 318,
+      "action": "insert",
+      "existing_chapters": 0,
+      "conflicts": [],
+      "planned_chapters": 737,
+      "inserted_books": 1,
+      "inserted_chapters": 737,
+      "committed": true
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "name": "本草求真",
+      "existing_book": false,
+      "book_id": 319,
+      "action": "insert",
+      "existing_chapters": 0,
+      "conflicts": [],
+      "planned_chapters": 581,
+      "inserted_books": 1,
+      "inserted_chapters": 581,
+      "committed": true
+    },
+    {
+      "key": "furendaquanliangfang",
+      "name": "妇人大全良方",
+      "existing_book": false,
+      "book_id": 320,
+      "action": "insert",
+      "existing_chapters": 0,
+      "conflicts": [],
+      "planned_chapters": 1306,
+      "inserted_books": 1,
+      "inserted_chapters": 1306,
+      "committed": true
+    }
+  ],
+  "finished_at": "2026-11-21T16:23:49.981Z",
+  "summary": {
+    "existing_books": 0,
+    "planned_new_books": 3,
+    "inserted_books": 3,
+    "planned_chapters": 2624,
+    "inserted_chapters": 2624,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "transport": {
+    "tls": [
+      {
+        "Variable_name": "Ssl_cipher",
+        "Value": "DHE-RSA-AES128-GCM-SHA256"
+      },
+      {
+        "Variable_name": "Ssl_version",
+        "Value": "TLSv1.2"
+      }
+    ],
+    "certificate_chain_verified": false,
+    "scope": "this_connection_only"
+  },
+  "skipped_existing": [
+    {
+      "key": "suwen",
+      "name": "黄帝内经·素问",
+      "book_id": 1,
+      "existing_chapters": 82,
+      "conflict_count": 82
+    },
+    {
+      "key": "lingshu",
+      "name": "黄帝内经·灵枢",
+      "book_id": 2,
+      "existing_chapters": 82,
+      "conflict_count": 82
+    },
+    {
+      "key": "nanjing",
+      "name": "难经",
+      "book_id": 8,
+      "existing_chapters": 81,
+      "conflict_count": 81
+    },
+    {
+      "key": "shanghanlun",
+      "name": "伤寒论",
+      "book_id": 3,
+      "existing_chapters": 411,
+      "conflict_count": 25
+    },
+    {
+      "key": "jinguiyaolue",
+      "name": "金匮要略",
+      "book_id": 5,
+      "existing_chapters": 26,
+      "conflict_count": 26
+    },
+    {
+      "key": "shennongbencaojing",
+      "name": "神农本草经",
+      "book_id": 42,
+      "existing_chapters": 370,
+      "conflict_count": 370
+    },
+    {
+      "key": "bencaogangmu",
+      "name": "本草纲目",
+      "book_id": 224,
+      "existing_chapters": 1872,
+      "conflict_count": 1872
+    },
+    {
+      "key": "bencaobeiyao",
+      "name": "本草备要",
+      "book_id": 178,
+      "existing_chapters": 484,
+      "conflict_count": 484
+    },
+    {
+      "key": "bencaogangmushiyi",
+      "name": "本草纲目拾遗",
+      "book_id": 294,
+      "existing_chapters": 879,
+      "conflict_count": 879
+    },
+    {
+      "key": "qianjinyaofang",
+      "name": "备急千金要方",
+      "book_id": 111,
+      "existing_chapters": 280,
+      "conflict_count": 280
+    },
+    {
+      "key": "qianjinyifang",
+      "name": "千金翼方",
+      "book_id": 172,
+      "existing_chapters": 218,
+      "conflict_count": 218
+    },
+    {
+      "key": "waitaimiyao",
+      "name": "外台秘要",
+      "book_id": 84,
+      "existing_chapters": 1108,
+      "conflict_count": 1094
+    },
+    {
+      "key": "zhouhoubeijifang",
+      "name": "肘后备急方",
+      "book_id": 219,
+      "existing_chapters": 73,
+      "conflict_count": 73
+    },
+    {
+      "key": "hejijufang",
+      "name": "太平惠民和剂局方",
+      "book_id": 144,
+      "existing_chapters": 88,
+      "conflict_count": 88
+    },
+    {
+      "key": "yifangjijie",
+      "name": "医方集解",
+      "book_id": 190,
+      "existing_chapters": 418,
+      "conflict_count": 418
+    },
+    {
+      "key": "tangtougejue",
+      "name": "汤头歌诀",
+      "book_id": 21,
+      "existing_chapters": 210,
+      "conflict_count": 210
+    },
+    {
+      "key": "yifangkao",
+      "name": "医方考",
+      "book_id": 92,
+      "existing_chapters": 72,
+      "conflict_count": 72
+    },
+    {
+      "key": "maijing",
+      "name": "脉经",
+      "book_id": 15,
+      "existing_chapters": 99,
+      "conflict_count": 99
+    },
+    {
+      "key": "binhumaixue",
+      "name": "濒湖脉学",
+      "book_id": 23,
+      "existing_chapters": 29,
+      "conflict_count": 29
+    },
+    {
+      "key": "zhenjiashuyao",
+      "name": "诊家枢要",
+      "book_id": 30,
+      "existing_chapters": 22,
+      "conflict_count": 15
+    },
+    {
+      "key": "zhenjiujiayijing",
+      "name": "针灸甲乙经",
+      "book_id": 13,
+      "existing_chapters": 140,
+      "conflict_count": 140
+    },
+    {
+      "key": "zhenjiudacheng",
+      "name": "针灸大成",
+      "book_id": 14,
+      "existing_chapters": 176,
+      "conflict_count": 176
+    },
+    {
+      "key": "qijingbamaikao",
+      "name": "奇经八脉考",
+      "book_id": 50,
+      "existing_chapters": 17,
+      "conflict_count": 17
+    },
+    {
+      "key": "zhubingyuanhoulun",
+      "name": "诸病源候论",
+      "book_id": 151,
+      "existing_chapters": 1747,
+      "conflict_count": 1741
+    },
+    {
+      "key": "piweilun",
+      "name": "脾胃论",
+      "book_id": 17,
+      "existing_chapters": 103,
+      "conflict_count": 103
+    },
+    {
+      "key": "rumenshiqin",
+      "name": "儒门事亲",
+      "book_id": 28,
+      "existing_chapters": 390,
+      "conflict_count": 390
+    },
+    {
+      "key": "gezhiyulun",
+      "name": "格致余论",
+      "book_id": 20,
+      "existing_chapters": 43,
+      "conflict_count": 43
+    },
+    {
+      "key": "danxixinfa",
+      "name": "丹溪心法",
+      "book_id": 18,
+      "existing_chapters": 110,
+      "conflict_count": 110
+    },
+    {
+      "key": "jingyuequanshu",
+      "name": "景岳全书",
+      "book_id": 51,
+      "existing_chapters": 1124,
+      "conflict_count": 1124
+    },
+    {
+      "key": "yixuexinwu",
+      "name": "医学心悟",
+      "book_id": 131,
+      "existing_chapters": 153,
+      "conflict_count": 153
+    },
+    {
+      "key": "sishengxinyuan",
+      "name": "四圣心源",
+      "book_id": 9,
+      "existing_chapters": 130,
+      "conflict_count": 130
+    },
+    {
+      "key": "yizongjinjian",
+      "name": "医宗金鉴",
+      "book_id": 171,
+      "existing_chapters": 1835,
+      "conflict_count": 1665
+    },
+    {
+      "key": "wenyilun",
+      "name": "温疫论",
+      "book_id": 56,
+      "existing_chapters": 87,
+      "conflict_count": 87
+    },
+    {
+      "key": "wenrelun",
+      "name": "温热论",
+      "book_id": 68,
+      "existing_chapters": 17,
+      "conflict_count": 2
+    },
+    {
+      "key": "shirebingpian",
+      "name": "湿热病篇",
+      "book_id": 125,
+      "existing_chapters": 35,
+      "conflict_count": 2
+    },
+    {
+      "key": "wenbingtiaobian",
+      "name": "温病条辨",
+      "book_id": 7,
+      "existing_chapters": 327,
+      "conflict_count": 88
+    },
+    {
+      "key": "wenrejingwei",
+      "name": "温热经纬",
+      "book_id": 102,
+      "existing_chapters": 16,
+      "conflict_count": 16
+    },
+    {
+      "key": "fuqingzhunvke",
+      "name": "傅青主女科",
+      "book_id": 16,
+      "existing_chapters": 145,
+      "conflict_count": 79
+    },
+    {
+      "key": "xiaoeryaozhengzhijue",
+      "name": "小儿药证直诀",
+      "book_id": 25,
+      "existing_chapters": 203,
+      "conflict_count": 203
+    },
+    {
+      "key": "youyoujicheng",
+      "name": "幼幼集成",
+      "book_id": 239,
+      "existing_chapters": 247,
+      "conflict_count": 247
+    },
+    {
+      "key": "waikezhengzong",
+      "name": "外科正宗",
+      "book_id": 87,
+      "existing_chapters": 150,
+      "conflict_count": 150
+    },
+    {
+      "key": "waikezhengzhiquanshengji",
+      "name": "外科证治全生集",
+      "book_id": 207,
+      "existing_chapters": 462,
+      "conflict_count": 462
+    },
+    {
+      "key": "linzhengzhinanyian",
+      "name": "临证指南医案",
+      "book_id": 238,
+      "existing_chapters": 113,
+      "conflict_count": 113
+    },
+    {
+      "key": "yilingaicuo",
+      "name": "医林改错",
+      "book_id": 45,
+      "existing_chapters": 22,
+      "conflict_count": 22
+    },
+    {
+      "key": "yixuesanzijing",
+      "name": "医学三字经",
+      "book_id": 22,
+      "existing_chapters": 81,
+      "conflict_count": 81
+    },
+    {
+      "key": "yixueyuanliulun",
+      "name": "医学源流论",
+      "book_id": 43,
+      "existing_chapters": 101,
+      "conflict_count": 101
+    },
+    {
+      "key": "yinshanzhengyao",
+      "name": "饮膳正要",
+      "book_id": 73,
+      "existing_chapters": 29,
+      "conflict_count": 29
+    }
+  ]
+}

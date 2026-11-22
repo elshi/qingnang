@@ -1,0 +1,107 @@
+.personal-list-page {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  color: #31291f;
+  background-color: #f8f3ea;
+  background-image: url("/assets/common/paper-bg.png");
+  background-position: top center;
+  background-repeat: repeat-y;
+  background-size: 750rpx auto;
+}
+
+.personal-list-scroll { flex: 1; min-height: 0; width: 100%; }
+.personal-list-page .personal-body { padding: 15rpx 24rpx calc(36rpx + env(safe-area-inset-bottom)); }
+.personal-list-page .personal-search {
+  flex: 0 0 68rpx;
+  height: 68rpx;
+  margin: 13rpx 28rpx;
+  padding: 0 22rpx;
+  border: 1rpx solid rgba(225, 214, 198, 0.85);
+  border-radius: 34rpx;
+  background: rgba(255, 253, 248, 0.82);
+}
+.personal-list-page .personal-search image { width: 29rpx; height: 29rpx; margin-right: 16rpx; opacity: .62; }
+.personal-list-page .personal-search input { height: 68rpx; color: #40372d; font-size: 25rpx; }
+.personal-list-page .personal-search button { color: #aa762f; font-size: 21rpx; }
+
+.personal-list-page .personal-tabs {
+  flex: 0 0 82rpx;
+  height: 82rpx;
+  padding: 0 28rpx;
+  border-bottom: 1rpx solid rgba(214, 202, 185, .7);
+}
+.personal-list-page .personal-tabs button.personal-tab {
+  display: flex;
+  flex: 1 1 0;
+  align-items: center;
+  justify-content: center;
+  width: 0 !important;
+  min-width: 0;
+  height: 82rpx;
+  margin: 0;
+  padding: 0;
+  color: #746b60;
+  font-size: 25rpx;
+}
+.personal-list-page .personal-tabs button.personal-tab--active { color: #a87025; }
+.personal-list-page .personal-tab--active::after { display: none; }
+.personal-list-page .personal-tab-indicator {
+  right: auto;
+  bottom: -1rpx;
+  left: 50%;
+  width: 52rpx;
+  height: 3rpx;
+  background: #bd883c;
+  transform: translateX(-50%);
+}
+
+.personal-result-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 44rpx;
+  margin-bottom: 14rpx;
+  color: #594b3b;
+  font-size: 21rpx;
+}
+.personal-result-count { color: #9b9084; }
+.personal-list-page button.personal-list-action {
+  margin: 0;
+  padding: 8rpx 16rpx;
+  border: 1rpx solid #c99b56;
+  border-radius: 24rpx;
+  color: #a8752c;
+  font-size: 22rpx;
+}
+.personal-list-page .personal-row,
+.personal-list-page .note-row,
+.personal-list-page .history-item {
+  margin-bottom: 15rpx;
+  padding: 22rpx 23rpx 18rpx;
+  border: 1rpx solid rgba(225, 214, 198, .85);
+  border-radius: 7rpx;
+  background: rgba(255, 253, 248, .78);
+  box-shadow: 0 3rpx 10rpx rgba(78, 59, 35, .035);
+}
+.personal-list-page .personal-row { min-height: 102rpx; }
+.personal-list-page .personal-title {
+  color: #31291f;
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  font-size: 30rpx;
+  font-weight: 600;
+  line-height: 1.4;
+}
+.personal-list-page .personal-meta { margin-top: 8rpx; color: #a27942; font-size: 21rpx; line-height: 1.5; }
+.personal-list-page button.personal-more { width: 44rpx !important; min-height: 64rpx; margin: 0 0 0 12rpx; }
+.personal-list-page .personal-more image { width: 27rpx; height: 27rpx; }
+.personal-list-page .personal-empty { padding: 72rpx 20rpx; color: #81776b; font-size: 24rpx; line-height: 1.7; }
+.personal-list-page .personal-empty image { width: 60rpx; height: 60rpx; margin-bottom: 18rpx; }
+.personal-list-page .personal-empty-title { margin-bottom: 8rpx; color: #594b3b; font-size: 29rpx; }
+.personal-list-page .personal-link { color: #a8752c; font-size: 23rpx; }
+.personal-list-page .personal-sync { padding: 10rpx 4rpx; color: #8a8073; font-size: 23rpx; }
+.personal-list-page .personal-error { font-size: 24rpx; }
+.personal-list-page .personal-hint { font-size: 23rpx; }
+.personal-list-page .personal-primary { margin-top: 28rpx; padding: 20rpx 24rpx; border-radius: 7rpx; font-size: 28rpx; letter-spacing: 1rpx; }

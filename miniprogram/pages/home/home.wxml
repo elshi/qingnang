@@ -9,7 +9,7 @@
     <input
       class="home-search__input"
       value="{{keyword}}"
-      placeholder="搜索医书、医案、处方、穴位"
+      placeholder="搜索医书、医案、经方、穴位"
       placeholder-class="home-search__placeholder"
       confirm-type="search"
       maxlength="100"
@@ -41,7 +41,7 @@
       <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true"></image>
     </button>
     <button wx:if="{{hasMoreCases}}" class="home-results__action" bindtap="openMoreCases">查看更多医案</button>
-    <button wx:if="{{hasMorePrescriptions}}" class="home-results__action" bindtap="openMorePrescriptions">查看更多处方</button>
+    <button wx:if="{{hasMorePrescriptions}}" class="home-results__action" bindtap="openMorePrescriptions">查看更多经方</button>
 
     <view wx:if="{{searchLoading}}" class="home-results__status">正在搜索…</view>
     <view wx:elif="{{searchFailed}}" class="home-results__status">
@@ -107,7 +107,6 @@
       </view>
       <view class="home-cases__list">
         <button wx:for="{{featuredCases}}" wx:key="id" class="home-case" data-id="{{item.id}}" bindtap="openCase" hover-class="home-row--pressed" aria-label="阅读{{item.title}}">
-          <text class="home-case__number">{{item.number}}</text>
           <view class="home-case__copy">
             <text class="home-case__title home-serif">{{item.title}}</text>
             <text wx:if="{{item.source}}" class="home-case__source">{{item.source}}</text>
@@ -121,6 +120,37 @@
           <button class="home-results__action" bindtap="loadFeaturedCases">重新加载</button>
         </view>
         <view wx:elif="{{!featuredCases.length}}" class="home-results__status">暂无精选医案，可查看全部馆藏</view>
+      </view>
+    </view>
+    <view class="home-cases">
+      <view class="home-bookshelf__header">
+        <text class="home-section-title home-serif">经典经方</text>
+        <navigator class="home-bookshelf__all" url="/pages/prescriptions/index/index" hover-class="home-link--pressed"><text>查看全部</text><image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" /></navigator>
+      </view>
+      <view class="home-cases__list">
+        <button wx:for="{{featuredPrescriptions}}" wx:key="id" class="home-case" data-id="{{item.id}}" bindtap="openPrescription" hover-class="home-row--pressed">
+          <view class="home-case__copy"><text class="home-case__title home-serif">{{item.title}}</text><text wx:if="{{item.source}}" class="home-case__source">{{item.source}}</text><text wx:if="{{item.summary}}" class="home-case__excerpt">{{item.summary}}</text></view>
+          <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" />
+        </button>
+        <view wx:if="{{prescriptionsLoading}}" class="home-results__status">正在加载经典经方…</view>
+        <view wx:elif="{{prescriptionsFailed}}" class="home-results__status"><text>经方暂时无法加载</text><button class="home-results__action" bindtap="loadFeaturedPrescriptions">重新加载</button></view>
+        <view wx:elif="{{!featuredPrescriptions.length}}" class="home-results__status">暂无经方，可查看全部馆藏</view>
+      </view>
+    </view>
+    <view class="home-cases">
+      <view class="home-bookshelf__header">
+        <text class="home-section-title home-serif">历史记录</text>
+        <button class="home-bookshelf__all" bindtap="openHistory"><text>查看全部</text><image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" /></button>
+      </view>
+      <view class="home-cases__list">
+        <button wx:for="{{recentHistory}}" wx:key="key" class="home-case" data-key="{{item.key}}" bindtap="openHistoryItem" hover-class="home-row--pressed">
+          <view class="home-case__copy"><text class="home-case__title home-serif">{{item.title}}</text><text class="home-case__source">{{item.sourceLabel}}</text><text wx:if="{{item.progressLabel}}" class="home-case__excerpt">{{item.progressLabel}}</text></view>
+          <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" />
+        </button>
+        <view wx:if="{{!loggedIn}}" class="home-results__status"><text>登录后查看阅读记录</text><button class="home-results__action" bindtap="openHistory">微信登录</button></view>
+        <view wx:elif="{{historyLoading && !recentHistory.length}}" class="home-results__status">正在加载历史记录…</view>
+        <view wx:elif="{{historyError}}" class="home-results__status"><text>{{historyError}}</text><button class="home-results__action" bindtap="loadHistory">重试</button></view>
+        <view wx:elif="{{!recentHistory.length}}" class="home-results__status">暂无历史记录，阅读经典后会显示在这里</view>
       </view>
     </view>
   </block>

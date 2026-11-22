@@ -1,3 +1,4 @@
+const { contentShare } = require('../../../utils/content-share');
 const { getMeridianDetail } = require('../../../utils/meridians-api');
 const { getAcupoints } = require('../../../utils/acupoints-api');
 const { pointRowsFromPoints } = require('../../../utils/meridians');
@@ -9,6 +10,7 @@ const sectionDefinitions = [
 ];
 
 Page({
+  onShareAppMessage() { return contentShare('meridian', this.data.item); },
   data: {
     item: null, sections: [], meta: [], rows: [], pointTotal: 0,
     loading: true, error: '', pointsLoading: false, pointsError: '',

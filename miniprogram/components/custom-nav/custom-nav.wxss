@@ -63,6 +63,21 @@
   height: 40rpx;
 }
 
+.custom-nav__action {
+  position: absolute;
+  right: 176rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 76rpx;
+  height: 64rpx;
+  margin: 0;
+  color: #a8752c;
+  font-size: 25rpx;
+}
+
+.custom-nav__action[disabled] { color: #a99d8b; }
+
 .custom-nav__arrow {
   width: 22rpx;
   height: 22rpx;

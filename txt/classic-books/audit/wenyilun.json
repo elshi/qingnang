@@ -1,0 +1,815 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E8%AB%96/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "自敘",
+        "path": [
+          "自敘"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "上卷",
+        "path": [
+          "上卷"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 2,
+        "title": "原病",
+        "path": [
+          "上卷",
+          "原病"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 2,
+        "title": "溫疫初起",
+        "path": [
+          "上卷",
+          "溫疫初起"
+        ]
+      },
+      {
+        "ordinal": 13,
+        "level": 2,
+        "title": "傳變不常",
+        "path": [
+          "上卷",
+          "傳變不常"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 2,
+        "title": "急證急攻",
+        "path": [
+          "上卷",
+          "急證急攻"
+        ]
+      },
+      {
+        "ordinal": 17,
+        "level": 2,
+        "title": "表裡分傳",
+        "path": [
+          "上卷",
+          "表裡分傳"
+        ]
+      },
+      {
+        "ordinal": 21,
+        "level": 2,
+        "title": "熱邪散漫",
+        "path": [
+          "上卷",
+          "熱邪散漫"
+        ]
+      },
+      {
+        "ordinal": 27,
+        "level": 2,
+        "title": "內壅不汗",
+        "path": [
+          "上卷",
+          "內壅不汗"
+        ]
+      },
+      {
+        "ordinal": 29,
+        "level": 2,
+        "title": "下後脈浮",
+        "path": [
+          "上卷",
+          "下後脈浮"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 2,
+        "title": "下後脈復沉",
+        "path": [
+          "上卷",
+          "下後脈復沉"
+        ]
+      },
+      {
+        "ordinal": 33,
+        "level": 2,
+        "title": "邪氣復聚",
+        "path": [
+          "上卷",
+          "邪氣復聚"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 2,
+        "title": "下後身反熱",
+        "path": [
+          "上卷",
+          "下後身反熱"
+        ]
+      },
+      {
+        "ordinal": 37,
+        "level": 2,
+        "title": "下後脈反數",
+        "path": [
+          "上卷",
+          "下後脈反數"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "因證數攻",
+        "path": [
+          "上卷",
+          "因證數攻"
+        ]
+      },
+      {
+        "ordinal": 42,
+        "level": 2,
+        "title": "病愈結存",
+        "path": [
+          "上卷",
+          "病愈結存"
+        ]
+      },
+      {
+        "ordinal": 44,
+        "level": 2,
+        "title": "下格",
+        "path": [
+          "上卷",
+          "下格"
+        ]
+      },
+      {
+        "ordinal": 46,
+        "level": 2,
+        "title": "注意逐邪勿拘結糞",
+        "path": [
+          "上卷",
+          "注意逐邪勿拘結糞"
+        ]
+      },
+      {
+        "ordinal": 60,
+        "level": 2,
+        "title": "蓄血",
+        "path": [
+          "上卷",
+          "蓄血"
+        ]
+      },
+      {
+        "ordinal": 73,
+        "level": 2,
+        "title": "發黃",
+        "path": [
+          "上卷",
+          "發黃"
+        ]
+      },
+      {
+        "ordinal": 80,
+        "level": 2,
+        "title": "邪在胸膈",
+        "path": [
+          "上卷",
+          "邪在胸膈"
+        ]
+      },
+      {
+        "ordinal": 85,
+        "level": 2,
+        "title": "辨明傷寒時疫",
+        "path": [
+          "上卷",
+          "辨明傷寒時疫"
+        ]
+      },
+      {
+        "ordinal": 88,
+        "level": 2,
+        "title": "發斑戰汗合論",
+        "path": [
+          "上卷",
+          "發斑戰汗合論"
+        ]
+      },
+      {
+        "ordinal": 90,
+        "level": 2,
+        "title": "戰汗",
+        "path": [
+          "上卷",
+          "戰汗"
+        ]
+      },
+      {
+        "ordinal": 94,
+        "level": 2,
+        "title": "自汗",
+        "path": [
+          "上卷",
+          "自汗"
+        ]
+      },
+      {
+        "ordinal": 96,
+        "level": 2,
+        "title": "盜汗",
+        "path": [
+          "上卷",
+          "盜汗"
+        ]
+      },
+      {
+        "ordinal": 104,
+        "level": 2,
+        "title": "狂汗",
+        "path": [
+          "上卷",
+          "狂汗"
+        ]
+      },
+      {
+        "ordinal": 106,
+        "level": 2,
+        "title": "發斑",
+        "path": [
+          "上卷",
+          "發斑"
+        ]
+      },
+      {
+        "ordinal": 111,
+        "level": 2,
+        "title": "數下亡陰",
+        "path": [
+          "上卷",
+          "數下亡陰"
+        ]
+      },
+      {
+        "ordinal": 113,
+        "level": 2,
+        "title": "解後宜養陰忌投參朮",
+        "path": [
+          "上卷",
+          "解後宜養陰忌投參朮"
+        ]
+      },
+      {
+        "ordinal": 127,
+        "level": 2,
+        "title": "用參宜忌有前利後害之不同",
+        "path": [
+          "上卷",
+          "用參宜忌有前利後害之不同"
+        ]
+      },
+      {
+        "ordinal": 129,
+        "level": 2,
+        "title": "下後間服緩劑",
+        "path": [
+          "上卷",
+          "下後間服緩劑"
+        ]
+      },
+      {
+        "ordinal": 134,
+        "level": 2,
+        "title": "下後反痞",
+        "path": [
+          "上卷",
+          "下後反痞"
+        ]
+      },
+      {
+        "ordinal": 139,
+        "level": 2,
+        "title": "下後反嘔",
+        "path": [
+          "上卷",
+          "下後反嘔"
+        ]
+      },
+      {
+        "ordinal": 144,
+        "level": 2,
+        "title": "奪液無汗",
+        "path": [
+          "上卷",
+          "奪液無汗"
+        ]
+      },
+      {
+        "ordinal": 146,
+        "level": 2,
+        "title": "補瀉兼施",
+        "path": [
+          "上卷",
+          "補瀉兼施"
+        ]
+      },
+      {
+        "ordinal": 155,
+        "level": 2,
+        "title": "藥煩",
+        "path": [
+          "上卷",
+          "藥煩"
+        ]
+      },
+      {
+        "ordinal": 157,
+        "level": 2,
+        "title": "停藥",
+        "path": [
+          "上卷",
+          "停藥"
+        ]
+      },
+      {
+        "ordinal": 159,
+        "level": 2,
+        "title": "虛煩似狂",
+        "path": [
+          "上卷",
+          "虛煩似狂"
+        ]
+      },
+      {
+        "ordinal": 161,
+        "level": 2,
+        "title": "神虛譫語",
+        "path": [
+          "上卷",
+          "神虛譫語"
+        ]
+      },
+      {
+        "ordinal": 163,
+        "level": 2,
+        "title": "奪氣不語",
+        "path": [
+          "上卷",
+          "奪氣不語"
+        ]
+      },
+      {
+        "ordinal": 165,
+        "level": 2,
+        "title": "老少異治",
+        "path": [
+          "上卷",
+          "老少異治"
+        ]
+      },
+      {
+        "ordinal": 167,
+        "level": 2,
+        "title": "妄投破氣藥論",
+        "path": [
+          "上卷",
+          "妄投破氣藥論"
+        ]
+      },
+      {
+        "ordinal": 169,
+        "level": 2,
+        "title": "妄投補劑論",
+        "path": [
+          "上卷",
+          "妄投補劑論"
+        ]
+      },
+      {
+        "ordinal": 171,
+        "level": 2,
+        "title": "妄投寒涼藥論",
+        "path": [
+          "上卷",
+          "妄投寒涼藥論"
+        ]
+      },
+      {
+        "ordinal": 175,
+        "level": 2,
+        "title": "大便",
+        "path": [
+          "上卷",
+          "大便"
+        ]
+      },
+      {
+        "ordinal": 190,
+        "level": 2,
+        "title": "小便",
+        "path": [
+          "上卷",
+          "小便"
+        ]
+      },
+      {
+        "ordinal": 200,
+        "level": 2,
+        "title": "前後虛實",
+        "path": [
+          "上卷",
+          "前後虛實"
+        ]
+      },
+      {
+        "ordinal": 202,
+        "level": 2,
+        "title": "脈厥",
+        "path": [
+          "上卷",
+          "脈厥"
+        ]
+      },
+      {
+        "ordinal": 204,
+        "level": 2,
+        "title": "脈證不應",
+        "path": [
+          "上卷",
+          "脈證不應"
+        ]
+      },
+      {
+        "ordinal": 207,
+        "level": 2,
+        "title": "體厥",
+        "path": [
+          "上卷",
+          "體厥"
+        ]
+      },
+      {
+        "ordinal": 210,
+        "level": 2,
+        "title": "乘除",
+        "path": [
+          "上卷",
+          "乘除"
+        ]
+      },
+      {
+        "ordinal": 213,
+        "level": 1,
+        "title": "下卷",
+        "path": [
+          "下卷"
+        ]
+      },
+      {
+        "ordinal": 214,
+        "level": 2,
+        "title": "雜氣論",
+        "path": [
+          "下卷",
+          "雜氣論"
+        ]
+      },
+      {
+        "ordinal": 216,
+        "level": 2,
+        "title": "論氣盛衰",
+        "path": [
+          "下卷",
+          "論氣盛衰"
+        ]
+      },
+      {
+        "ordinal": 220,
+        "level": 2,
+        "title": "論氣所傷不同",
+        "path": [
+          "下卷",
+          "論氣所傷不同"
+        ]
+      },
+      {
+        "ordinal": 222,
+        "level": 2,
+        "title": "蛔厥",
+        "path": [
+          "下卷",
+          "蛔厥"
+        ]
+      },
+      {
+        "ordinal": 224,
+        "level": 2,
+        "title": "呃逆",
+        "path": [
+          "下卷",
+          "呃逆"
+        ]
+      },
+      {
+        "ordinal": 227,
+        "level": 2,
+        "title": "似表非表，似里非里",
+        "path": [
+          "下卷",
+          "似表非表，似里非里"
+        ]
+      },
+      {
+        "ordinal": 230,
+        "level": 2,
+        "title": "論食",
+        "path": [
+          "下卷",
+          "論食"
+        ]
+      },
+      {
+        "ordinal": 232,
+        "level": 2,
+        "title": "論飲",
+        "path": [
+          "下卷",
+          "論飲"
+        ]
+      },
+      {
+        "ordinal": 237,
+        "level": 2,
+        "title": "損復",
+        "path": [
+          "下卷",
+          "損復"
+        ]
+      },
+      {
+        "ordinal": 244,
+        "level": 2,
+        "title": "標本",
+        "path": [
+          "下卷",
+          "標本"
+        ]
+      },
+      {
+        "ordinal": 246,
+        "level": 2,
+        "title": "行邪伏邪之別",
+        "path": [
+          "下卷",
+          "行邪伏邪之別"
+        ]
+      },
+      {
+        "ordinal": 248,
+        "level": 2,
+        "title": "應下諸證",
+        "path": [
+          "下卷",
+          "應下諸證"
+        ]
+      },
+      {
+        "ordinal": 288,
+        "level": 2,
+        "title": "應補諸證",
+        "path": [
+          "下卷",
+          "應補諸證"
+        ]
+      },
+      {
+        "ordinal": 290,
+        "level": 2,
+        "title": "論陰證世間罕有",
+        "path": [
+          "下卷",
+          "論陰證世間罕有"
+        ]
+      },
+      {
+        "ordinal": 292,
+        "level": 2,
+        "title": "論陽證似陰",
+        "path": [
+          "下卷",
+          "論陽證似陰"
+        ]
+      },
+      {
+        "ordinal": 297,
+        "level": 2,
+        "title": "舍病治藥",
+        "path": [
+          "下卷",
+          "舍病治藥"
+        ]
+      },
+      {
+        "ordinal": 299,
+        "level": 2,
+        "title": "舍病治弊",
+        "path": [
+          "下卷",
+          "舍病治弊"
+        ]
+      },
+      {
+        "ordinal": 301,
+        "level": 2,
+        "title": "論輕疫誤治每成痼疾",
+        "path": [
+          "下卷",
+          "論輕疫誤治每成痼疾"
+        ]
+      },
+      {
+        "ordinal": 303,
+        "level": 2,
+        "title": "肢體浮腫",
+        "path": [
+          "下卷",
+          "肢體浮腫"
+        ]
+      },
+      {
+        "ordinal": 305,
+        "level": 2,
+        "title": "服寒劑反熱",
+        "path": [
+          "下卷",
+          "服寒劑反熱"
+        ]
+      },
+      {
+        "ordinal": 307,
+        "level": 2,
+        "title": "知一",
+        "path": [
+          "下卷",
+          "知一"
+        ]
+      },
+      {
+        "ordinal": 311,
+        "level": 2,
+        "title": "四損不可正治",
+        "path": [
+          "下卷",
+          "四損不可正治"
+        ]
+      },
+      {
+        "ordinal": 316,
+        "level": 2,
+        "title": "勞復、食復、自復",
+        "path": [
+          "下卷",
+          "勞復、食復、自復"
+        ]
+      },
+      {
+        "ordinal": 322,
+        "level": 2,
+        "title": "感冒兼疫",
+        "path": [
+          "下卷",
+          "感冒兼疫"
+        ]
+      },
+      {
+        "ordinal": 324,
+        "level": 2,
+        "title": "瘧疫兼證",
+        "path": [
+          "下卷",
+          "瘧疫兼證"
+        ]
+      },
+      {
+        "ordinal": 327,
+        "level": 2,
+        "title": "溫瘧",
+        "path": [
+          "下卷",
+          "溫瘧"
+        ]
+      },
+      {
+        "ordinal": 329,
+        "level": 2,
+        "title": "疫痢兼證",
+        "path": [
+          "下卷",
+          "疫痢兼證"
+        ]
+      },
+      {
+        "ordinal": 334,
+        "level": 2,
+        "title": "婦人時疫",
+        "path": [
+          "下卷",
+          "婦人時疫"
+        ]
+      },
+      {
+        "ordinal": 337,
+        "level": 2,
+        "title": "妊娠時疫",
+        "path": [
+          "下卷",
+          "妊娠時疫"
+        ]
+      },
+      {
+        "ordinal": 341,
+        "level": 2,
+        "title": "小兒時疫",
+        "path": [
+          "下卷",
+          "小兒時疫"
+        ]
+      },
+      {
+        "ordinal": 345,
+        "level": 2,
+        "title": "主客交",
+        "path": [
+          "下卷",
+          "主客交"
+        ]
+      },
+      {
+        "ordinal": 350,
+        "level": 2,
+        "title": "調理法",
+        "path": [
+          "下卷",
+          "調理法"
+        ]
+      },
+      {
+        "ordinal": 352,
+        "level": 2,
+        "title": "統論疫有九傳治法",
+        "path": [
+          "下卷",
+          "統論疫有九傳治法"
+        ]
+      },
+      {
+        "ordinal": 366,
+        "level": 2,
+        "title": "正名",
+        "path": [
+          "下卷",
+          "正名"
+        ]
+      },
+      {
+        "ordinal": 368,
+        "level": 2,
+        "title": "《傷寒例》正誤",
+        "path": [
+          "下卷",
+          "《傷寒例》正誤"
+        ]
+      },
+      {
+        "ordinal": 380,
+        "level": 2,
+        "title": "諸家溫疫正誤",
+        "path": [
+          "下卷",
+          "諸家溫疫正誤"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 89,
+      "paragraph_blocks": 303,
+      "nonempty_paragraph_blocks": 303,
+      "represented_paragraph_blocks": 303
+    }
+  }
+]

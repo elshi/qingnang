@@ -1,4 +1,4 @@
-<view class="personal-page"><personal-nav title="隐私保护指引" back="{{true}}" /><view class="personal-body privacy-body">
+<view class="personal-page privacy-page"><custom-nav title="隐私保护指引" showBack="{{true}}"></custom-nav><view class="personal-body privacy-body">
 <view class="personal-title">你的学习记录，由你掌握</view>
 <view class="privacy-section"><view class="privacy-heading">收藏、笔记与阅读历史</view><text>微信登录后，收藏、笔记、草稿和最近200条阅读记录保存在你的云端账号中，可跨设备查看。本机缓存用于加快读取，网络异常时保留笔记恢复副本并提示未上传。取消收藏、删除笔记和清空历史以云端确认结果为准。</text></view>
 <view class="privacy-section"><view class="privacy-heading">微信登录</view><text>使用微信提供的账号标识区分用户，不读取微信密码、通讯录或聊天记录。退出登录后，本机保留该账号的学习记录，下次登录时可继续使用。</text></view>

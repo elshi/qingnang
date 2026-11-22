@@ -3,6 +3,7 @@ Component({
     selected: 0,
     tabs: [
       { text: '经典', pagePath: '/pages/home/home', key: 'home' },
+      { text: '笔记', pagePath: '/pages/notes/index/index', key: 'note' },
       { text: '我的', pagePath: '/pages/profile/index/index', key: 'profile' }
     ]
   },

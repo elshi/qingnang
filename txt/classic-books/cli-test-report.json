@@ -1,0 +1,36 @@
+{
+  "passed": true,
+  "isolated": true,
+  "database": "qingnang_books_test_5084ac0c95a5a661",
+  "default_preflight_did_not_write": true,
+  "dry": {
+    "report": "D:\\www\\qingnang\\txt\\classic-books\\reports\\preflight-1795273470070.json",
+    "existing_books": 0,
+    "planned_new_books": 1,
+    "inserted_books": 0,
+    "planned_chapters": 84,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "applied": {
+    "report": "D:\\www\\qingnang\\txt\\classic-books\\reports\\import-1795273470439.json",
+    "existing_books": 0,
+    "planned_new_books": 1,
+    "inserted_books": 1,
+    "planned_chapters": 84,
+    "inserted_chapters": 84,
+    "conflicts": 0,
+    "errors": 0
+  },
+  "repeat": {
+    "report": "D:\\www\\qingnang\\txt\\classic-books\\reports\\import-1795273470722.json",
+    "existing_books": 1,
+    "planned_new_books": 0,
+    "inserted_books": 0,
+    "planned_chapters": 0,
+    "inserted_chapters": 0,
+    "conflicts": 0,
+    "errors": 0
+  }
+}

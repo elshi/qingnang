@@ -66,7 +66,7 @@ const TYPES = {
   book: '医书',
   chapter: '医书章节',
   case: '医案',
-  prescription: '处方',
+  prescription: '经方',
   meridian: '经络',
   acupoint: '穴位'
 };
@@ -74,7 +74,7 @@ const FILTERS = [
   { key: 'all', label: '全部' },
   { key: 'book', label: '医书' },
   { key: 'case', label: '医案' },
-  { key: 'prescription', label: '处方' },
+  { key: 'prescription', label: '经方' },
   { key: 'meridian', label: '经络' }
 ];
 function id() {
@@ -119,10 +119,26 @@ function records(kind) {
     .sort((a, b) => b.updatedAt - a.updatedAt);
 }
 
+function relatedNotes(ref) {
+  if (!ref) return [];
+  const key = refKey(ref);
+  return records('note').filter(item => item.ref && refKey(item.ref) === key);
+}
+
+function normalizeHistoryRecord(record) {
+  if (record.kind !== 'history' || record.scrollTop === undefined) return record;
+  const scrollTop = Number(record.scrollTop);
+  if (!Number.isFinite(scrollTop)) {
+    const { scrollTop: ignored, ...rest } = record;
+    return rest;
+  }
+  return { ...record, scrollTop: Math.min(10000000, Math.max(0, Math.round(scrollTop))) };
+}
+
 async function sendPending(entry, user) {
   if (scope() !== user.id) throw new Error('账号已变更，请重新打开页面');
   try {
-    const result = await api('records', 'POST', entry, user);
+    const result = await api('records', 'POST', { ...entry, record: normalizeHistoryRecord(entry.record) }, user);
     if (result.clearedDraft) remember(result.clearedDraft, user.id);
     remember(result, user.id);
     const current = state(user.id);
@@ -178,7 +194,7 @@ function visit(ref, progress = {}) {
   const user = account();
   if (!user || !ref) return Promise.resolve();
   const ready = state(user.id).hydrated ? Promise.resolve() : synchronize();
-  return ready.then(() => commit({ key: 'history:' + refKey(ref), kind: 'history', ref, title: ref.title, ...progress }, user)).catch(() => {});
+  return ready.then(() => commit(normalizeHistoryRecord({ key: 'history:' + refKey(ref), kind: 'history', ref, title: ref.title, ...progress }), user)).catch(() => {});
 }
 async function clearHistory() {
   const user = await requireLogin();
@@ -243,7 +259,7 @@ async function importLegacy(user) {
     const done = new Set(read(doneKey, []));
     const candidates = items.filter(row => !done.has(row.key));
     for (let i = 0; i < candidates.length; i += 20) {
-      const batch = candidates.slice(i, i + 20).map(({ audio, ...row }) => row);
+      const batch = candidates.slice(i, i + 20).map(({ audio, ...row }) => normalizeHistoryRecord(row));
       const result = await api('import', 'POST', { records: batch }, user);
       result.records.forEach(row => { remember(row, user.id); done.add(row.key); });
       wx.setStorageSync(doneKey, [...done]);
@@ -308,7 +324,7 @@ async function uploadImage(path) {
   return ticket.fileID;
 }
 async function submitFeedback(feedback) { await requireLogin(); return api('feedback', 'POST', feedback); }
-module.exports = { TYPES, FILTERS, account, scope, id, reference, refKey, category, sourceLabel, matches, records,
+module.exports = { TYPES, FILTERS, account, scope, id, reference, refKey, category, sourceLabel, matches, records, relatedNotes,
   isFavorite, toggleFavorite, visit, clearHistory, saveNote, remove, getDraft, setDraft, saveDraft, clearDraft,
   route, open, editNote, dateLabel, historyGroups, login, requireLogin, logout, synchronize, syncQuietly, uploadImage, submitFeedback, dismissConflict };
 function route(ref, progress = {}) {
@@ -324,7 +340,7 @@ function route(ref, progress = {}) {
   let url = `/pages/${paths[ref.type]}?id=${encodeURIComponent(ref.id)}`;
   if (ref.chapterId !== undefined) url += `&chapterId=${encodeURIComponent(ref.chapterId)}`;
   if (Number.isFinite(progress.scrollTop))
-    url += `&resume=1&scrollTop=${Math.max(0, Math.round(progress.scrollTop))}&contentMode=${progress.contentMode === 'shiyi' ? 'shiyi' : 'original'}`;
+    url += `&resume=1&scrollTop=${progress.contentMode === 'shiyi' ? 0 : Math.max(0, Math.round(progress.scrollTop))}&contentMode=original`;
   return url;
 }
 function open(ref, progress) {

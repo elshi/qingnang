@@ -1,0 +1,180 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%9C%AC%E7%BE%A9/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 1,
+        "title": "凡例",
+        "path": [
+          "凡例"
+        ]
+      },
+      {
+        "ordinal": 18,
+        "level": 1,
+        "title": "闕誤總類",
+        "path": [
+          "闕誤總類"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 1,
+        "title": "難經匯考",
+        "path": [
+          "難經匯考"
+        ]
+      },
+      {
+        "ordinal": 74,
+        "level": 1,
+        "title": "上卷",
+        "path": [
+          "上卷"
+        ]
+      },
+      {
+        "ordinal": 276,
+        "level": 1,
+        "title": "下卷",
+        "path": [
+          "下卷"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 57,
+        "label": "難經圖",
+        "source": "urn:270:07575.jpg"
+      },
+      {
+        "ordinal": 58,
+        "label": "色脈相勝相生圖",
+        "source": "urn:270:07576.jpg"
+      },
+      {
+        "ordinal": 59,
+        "label": "五行子母相生圖",
+        "source": "urn:270:07578.jpg"
+      },
+      {
+        "ordinal": 60,
+        "label": "臟腑陰陽寒熱圖",
+        "source": "urn:270:07577.jpg"
+      },
+      {
+        "ordinal": 62,
+        "label": "男女生於寅申圖",
+        "source": "urn:270:07579.jpg"
+      },
+      {
+        "ordinal": 64,
+        "label": "榮衛清濁升降圖",
+        "source": "urn:270:07580.jpg"
+      },
+      {
+        "ordinal": 66,
+        "label": "肝肺色象浮沉圖",
+        "source": "urn:270:07583.jpg"
+      },
+      {
+        "ordinal": 67,
+        "label": "五藏聲色臭味液之圖",
+        "source": "urn:270:07581.jpg"
+      },
+      {
+        "ordinal": 68,
+        "label": "五邪舉心為例圖",
+        "source": "urn:270:07582.jpg"
+      },
+      {
+        "ordinal": 69,
+        "label": "七傳間藏之圖一",
+        "source": "urn:270:07585.jpg"
+      },
+      {
+        "ordinal": 70,
+        "label": "七傳間藏之圖二",
+        "source": "urn:270:07584.jpg"
+      },
+      {
+        "ordinal": 72,
+        "label": "手足陰陽圖",
+        "source": "urn:270:07586.jpg"
+      },
+      {
+        "ordinal": 73,
+        "label": "滎俞剛柔圖",
+        "source": "urn:270:07587.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "b8208d00e51e976c1c39c4ce",
+        "title": "十三难",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "令以下，但言色脈相參，不言聲臭味，殆闕文歟？抑色之著於外者，將切於參驗歟？第"
+        ]
+      },
+      {
+        "chapter_key": "4341240846ae0d8532aaf571",
+        "title": "十六难",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "下共六件，而《本經》並不答所問，似有缺文。今詳三部九候，則十八難中第三章言之"
+        ]
+      },
+      {
+        "chapter_key": "6a99a0551d2a78685cb7758e",
+        "title": "二十八难",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "云云十二字，謝氏則以為於本文上下當有缺文。然《脈經》無此，疑衍文也。或云當在"
+        ]
+      },
+      {
+        "chapter_key": "ae75b7863226eec1b6ca5094",
+        "title": "三十七难",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "臟通九竅之義，而不及五臟之發起，恐有缺文。愚按五臟發起，當如二十三難流注之說"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 8,
+      "paragraph_blocks": 475,
+      "nonempty_paragraph_blocks": 475,
+      "represented_paragraph_blocks": 475
+    }
+  }
+]

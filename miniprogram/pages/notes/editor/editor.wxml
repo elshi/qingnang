@@ -1,6 +1,6 @@
-<view class="personal-page">
-<personal-nav title="写笔记" back="{{true}}" action="保存" busy="{{busy}}" bind:action="save" />
-<view class="personal-body">
+<view class="personal-page personal-list-page note-editor-page page-fade">
+<custom-nav title="写笔记" showBack="{{true}}" action="保存" actionBusy="{{busy}}" bind:action="save"></custom-nav>
+<scroll-view class="personal-list-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}"><view class="personal-body">
 <view class="source-row"><text>关联原文</text><button bindtap="openSource">{{refLabel}}<image src="/assets/personal/chevron.png" /></button></view>
 <view wx:if="{{ref}}" class="source-tools"><button bindtap="chooseSource">更换原文</button><button bindtap="unlink">取消关联</button></view>
 <input class="editor-title" value="{{title}}" data-field="title" bindinput="input" placeholder="笔记标题" maxlength="80" disabled="{{busy}}" />
@@ -10,8 +10,8 @@
 <view class="personal-hint draft-status">{{draftStatus}}</view><view wx:if="{{error}}" class="personal-error">{{error}}</view>
 <button wx:if="{{conflict}}" class="personal-link" bindtap="saveAsNew" disabled="{{busy}}">保留当前内容，另存为新笔记</button>
 <button wx:if="{{key}}" class="delete-note" bindtap="deleteNote">删除笔记</button>
-</view>
+</view></scroll-view>
 <view wx:if="{{pickerOpen}}" class="picker-mask" bindtap="closePicker"><view class="source-picker" catchtap="noop"><view class="picker-title">从收藏与阅读记录中选择<button bindtap="closePicker">关闭</button></view>
-<view class="personal-search"><image src="/assets/personal/search.png" /><input placeholder="搜索原文" value="{{choiceKeyword}}" bindinput="searchChoices" /></view>
+<view class="personal-search"><image src="/assets/cases/search.png" mode="aspectFit" /><input placeholder="搜索原文" value="{{choiceKeyword}}" bindinput="searchChoices" /></view>
 <scroll-view scroll-y="{{true}}" class="picker-list"><view wx:for="{{choices}}" wx:key="key" class="personal-row" data-key="{{item.key}}" bindtap="selectSource"><view><view class="personal-title">{{item.title}}</view><view class="personal-meta">{{item.sourceLabel}}</view></view></view><view wx:if="{{!choices.length}}" class="personal-empty">暂无可选原文，先去阅读或收藏一篇经典吧</view></scroll-view></view></view>
 </view>

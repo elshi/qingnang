@@ -1,0 +1,17 @@
+{
+  "name": "qingnang-classic-books",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "capture": "node capture.mjs",
+    "collect": "node collect.mjs",
+    "validate": "node validate.mjs",
+    "preflight": "node import.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "cheerio": "1.2.0",
+    "mysql2": "3.24.6",
+    "opencc-js": "1.4.2"
+  }
+}

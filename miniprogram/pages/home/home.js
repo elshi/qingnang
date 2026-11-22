@@ -4,6 +4,7 @@ const { getPrescriptions } = require('../../utils/prescriptions-api');
 const { getMeridians } = require('../../utils/meridians-api');
 const { getAcupoints } = require('../../utils/acupoints-api');
 const { typeTextMap, routeMap } = require('../../utils/search');
+const store = require('../../utils/learning-store');
 
 const bookListUrl = '/pages/books/index/index';
 const caseListUrl = '/pages/cases/index/index';
@@ -33,7 +34,7 @@ Page({
     entries: [
       { title: '医书', icon: 'book', url: bookListUrl },
       { title: '医案', icon: 'case', url: caseListUrl },
-      { title: '处方', icon: 'formula', url: '/pages/prescriptions/index/index' },
+      { title: '经方', icon: 'formula', url: '/pages/prescriptions/index/index' },
       { title: '经络', icon: 'meridian', url: '/pages/meridians/index/index' }
     ],
     shelf: [
@@ -43,6 +44,13 @@ Page({
       { name: '温病条辨', author: '吴鞠通', subject: '温病学说', cover: '/assets/home/library/wenbing.png' }
     ],
     featuredCases: [],
+    featuredPrescriptions: [],
+    prescriptionsLoading: true,
+    prescriptionsFailed: false,
+    recentHistory: [],
+    historyLoading: false,
+    historyError: '',
+    loggedIn: false,
     casesLoading: true,
     casesFailed: false,
     keyword: '',
@@ -61,17 +69,21 @@ Page({
     const navHeight = Math.max(44, (capsule.top - statusBarHeight) * 2 + capsule.height);
     this.setData({ statusBarHeight, navHeight });
     this.loadFeaturedCases();
+    this.loadFeaturedPrescriptions();
   },
 
   onShow() {
     const tabBar = this.getTabBar && this.getTabBar();
     if (tabBar) tabBar.setData({ selected: 0 });
+    this.loadHistory();
   },
 
   onUnload() {
     clearTimeout(this.searchTimer);
     this.searchRequest = null;
     this.caseRequest = null;
+    this.prescriptionRequest = null;
+    this.historyRequest = null;
   },
 
   async loadFeaturedCases() {
@@ -93,14 +105,67 @@ Page({
       if (!item || seen.has(item.id)) return false;
       seen.add(item.id);
       return true;
-    }).map(({ item }, index) => ({
+    }).map(({ item }) => ({
       id: item.id,
-      number: String(index + 1).padStart(2, '0'),
       title: item.title,
       source: item.source || item.bookname || '',
       excerpt: item.content_preview || item.summary || ''
     }));
     this.setData({ featuredCases, casesLoading: false, casesFailed: results.some((result) => result.failed) });
+  },
+
+  async loadFeaturedPrescriptions() {
+    const request = this.prescriptionRequest = {};
+    this.setData({ prescriptionsLoading: true, prescriptionsFailed: false });
+    try {
+      const data = await getPrescriptions({ page_size: 3 });
+      if (request !== this.prescriptionRequest) return;
+      this.setData({ featuredPrescriptions: data.items.slice(0, 3), prescriptionsLoading: false });
+    } catch (error) {
+      if (request === this.prescriptionRequest) this.setData({ prescriptionsLoading: false, prescriptionsFailed: true });
+    }
+  },
+
+  refreshHistory() {
+    const loggedIn = Boolean(store.account());
+    this.setData({ loggedIn, recentHistory: loggedIn ? store.records('history').slice(0, 3).map(item => ({
+      ...item, sourceLabel: store.sourceLabel(item.ref)
+    })) : [] });
+  },
+
+  async loadHistory() {
+    const request = this.historyRequest = {};
+    const owner = store.scope();
+    this.refreshHistory();
+    this.setData({ historyLoading: Boolean(store.account()), historyError: '' });
+    try {
+      await store.synchronize();
+    } catch (error) {
+      if (request === this.historyRequest && owner === store.scope()) {
+        this.setData({ historyError: '历史记录同步失败，当前显示上次缓存' });
+      }
+    } finally {
+      if (request === this.historyRequest) {
+        this.refreshHistory();
+        this.setData({ historyLoading: false });
+      }
+    }
+  },
+
+  openPrescription(event) {
+    wx.navigateTo({ url: `${routeMap.prescription}?id=${encodeURIComponent(event.currentTarget.dataset.id)}` });
+  },
+
+  openHistoryItem(event) {
+    const item = store.records('history').find(row => row.key === event.currentTarget.dataset.key);
+    if (item) store.open(item.ref, item);
+  },
+
+  async openHistory() {
+    try {
+      await store.requireLogin();
+      wx.navigateTo({ url: '/pages/history/index/index' });
+    } catch (error) { wx.showToast({ title: error.message, icon: 'none' }); }
   },
 
   openCase(event) {

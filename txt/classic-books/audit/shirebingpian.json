@@ -1,0 +1,34 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+    "toc": [
+      {
+        "ordinal": 17,
+        "level": 2,
+        "title": "薛生白濕熱病篇",
+        "path": [
+          "薛生白濕熱病篇"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "f6c45e701a2f67e6bdc64548",
+        "title": "薛生白湿热病篇",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "，況熱多濕少乎？故不言熱多濕少者，非闕文也。蓋急宜清熱，有不待言矣。所以上下"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 1,
+      "paragraph_blocks": 245,
+      "nonempty_paragraph_blocks": 245,
+      "represented_paragraph_blocks": 245
+    }
+  }
+]

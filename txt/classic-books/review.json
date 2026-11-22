@@ -1,0 +1,1233 @@
+{
+  "reviewed_at": "2026-11-21T15:01:56.783Z",
+  "reviewer": "Codex assistant",
+  "method": "Read source bibliographic metadata and first/middle/last excerpts for each of 50 books; corrected annotation styling after inspection. All 583 sampled units and all paragraph mappings underwent deterministic checks. No page-by-page facsimile collation was performed.",
+  "rights_basis": "Ancient original works and ancient annotations; digital edits under the source CC0 declaration. Website-authored metadata remains attributed to 中醫笈成 under its CC BY 4.0 declaration. This records the evidence reviewed, not a guarantee of third-party title.",
+  "license_url": "https://jicheng.tw/tcm/copyright.html",
+  "books": [
+    {
+      "key": "suwen",
+      "name": "黄帝内经·素问",
+      "dataset_sha256": "dda3dcaf3818f87759b015234bfed33682a82d6311004da12f31d271f22d38d2",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+          "sha256": "f5afa8aceef159cfd759690ec72695c56b203cb19cff6c2bad120a24359283c8"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "1f3bcd78d81e2501b1209de3",
+        "20a8debe40a9008069f1394e",
+        "64502d116376982b83509078"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "采用源站明嘉靖刻本电子整理文本，含《刺法论》《本病论》；这些篇的传承问题不据书名视为同一时代原作。",
+        "源站标示品质2%，不把该数值解释为准确率或本项目校勘完成率。"
+      ]
+    },
+    {
+      "key": "lingshu",
+      "name": "黄帝内经·灵枢",
+      "dataset_sha256": "f209de7670e8ccb52d38513c87d82dee64d57344d797f746c9d73faacef54d31",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html",
+          "sha256": "c410d219f7992402f0662c7f2db697d1c7be3b6df354cd895543935b136e6a84"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "be345e37f1578bf23acb7f5d",
+        "c13781905524d118109a795e",
+        "0b617646a30c318c604a91bf"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "figures_not_included",
+        "modern_editorial_notes_excluded"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "nanjing",
+      "name": "难经",
+      "dataset_sha256": "bde13924151e7361d1f879b513d8745c9955a0acf727f37444bfcff769b1f1ed",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%9C%AC%E7%BE%A9/index.html",
+          "sha256": "9a4a27def6b1fb7f8dfe3bd2fbd6368a8646679de80a4f3f43b661f917682c3d"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "f669cf3529e4be1de1c531cf",
+        "5b9e6b4f3ed20d01d49fc258",
+        "11b25e646067258fd65f6873"
+      ],
+      "automatic_sample_count": 5,
+      "source_warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "改选元代滑寿《难经本义》古注本，排除以1991年《难经校注》为底本的候选来源。经文与滑寿注分别标识。"
+      ]
+    },
+    {
+      "key": "shanghanlun",
+      "name": "伤寒论",
+      "dataset_sha256": "80798e210a6dc27d547711cdcda3bef3c10a733697e582a178a5183c4125f765",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+          "sha256": "fb02503bc9323eea9ca377603ffb5de61defa8bb212c4fb1e6b97ac2c5635f72"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "ced2a09f050d57014d887726",
+        "d4f827ca0f10e0c881b10d0e",
+        "2b88ddbc260ed3c5761a6f2b"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "modern_editorial_notes_excluded"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "jinguiyaolue",
+      "name": "金匮要略",
+      "dataset_sha256": "a25053c393565f91f94cca116dc7aac8740bc54bf40e16d8aea2b8849d87f6f2",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html",
+          "sha256": "5de9f9492e6c2c94cb5ab5713ade2da3535736bbb17118a5d0aaf89671cc1d26"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "24bd3e1b9994b5d78da78a7f",
+        "da748a78764e6a7d26f39d13",
+        "032cf92a8bbce7a3312bb828"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "modern_editorial_notes_excluded"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "shennongbencaojing",
+      "name": "神农本草经",
+      "dataset_sha256": "cd918702ea2c675c99a93157b84bba0414f7517cd11c43879215494ae1141bfc",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
+          "sha256": "a4c4a36fb4a5f2b14a067cf3d8d441e8f17abee02335de01ae8f11d9a491d317"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "467428ec97d1ff21f595248d",
+        "989e7e54ac66ec3a2c10825f",
+        "b3660412a1201058b8da27bf"
+      ],
+      "automatic_sample_count": 6,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "bencaogangmu",
+      "name": "本草纲目",
+      "dataset_sha256": "fbdac68df81619af1d0964524aafaa01d2d7ede09cbbbcec3e7b6801d628c90d",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html",
+          "sha256": "20bfeca757391475776e91c4356a6bf3c04500959334b9b0f495e0ac61664b09"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "23994026867cb954be65b524",
+        "715995db68571b8c4b3a9df4",
+        "b8f388485496556714189bca"
+      ],
+      "automatic_sample_count": 4,
+      "source_warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "bencaobeiyao",
+      "name": "本草备要",
+      "dataset_sha256": "c0a4b259bc31d6b009067365f32a1040407260921304f88e4f5731aabc36d55a",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html",
+          "sha256": "b88b8568605d4b4bf229b756972e4249faa86b73b4a1224c4bced2e9babd8c2c"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "76281d85b4a99e16e6333054",
+        "fbb13ccbe331e5d3b5cc1b6e",
+        "95798f2da6b09c7f988b53e0"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [],
+      "notes": [
+        "电子文本所据1947年《增批本草备要》重印本；核查其增补自序署康熙甲戌、汪昂，并保留源站底本说明，不将重印年份误作原著创作年代。"
+      ]
+    },
+    {
+      "key": "bencaocongxin",
+      "name": "本草从新",
+      "dataset_sha256": "803dcdf56fb1dc82bc2df63ef01525fbb13d1dccfd4dc8a29903198296d45ae5",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%9E%E6%96%B0/index.html",
+          "sha256": "434d707798c2e4356d3b9c00c3aa925a2b4ea1f861de8273912915c7d66efd3a"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "df787de48c48a03c956182db",
+        "673d1effde424c8f598c3e4f",
+        "70f60f4dd1af3ddf69edc446"
+      ],
+      "automatic_sample_count": 21,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "name": "本草求真",
+      "dataset_sha256": "b4821444af9eb0d243690bdf9cd0d5a390d50f3eb9823778592026cab9ed9881",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%B1%82%E7%9C%9F/index.html",
+          "sha256": "7f21d0cfd13c80403b22cea119672d4652a68feb463a3d2d98ff2eaa44185581"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "ce4e9098be8d5874b1c51fa6",
+        "55f730c85cc9d9fa3023bc59",
+        "1af693d280479974a644490b"
+      ],
+      "automatic_sample_count": 12,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "bencaogangmushiyi",
+      "name": "本草纲目拾遗",
+      "dataset_sha256": "fa75b2b5a45266fc81af3c577086acfe71f050ba800bdb7973512fe54174f28c",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%8B%BE%E9%81%BA/index.html",
+          "sha256": "2e125e0d51fcf03fdd8759c58530caa7fbc457a5cb7172a917dddfa6ab406979"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "89804092e81b406bd91678be",
+        "ff3cfb9b8becb09d79f24268",
+        "177d71b96ea6bb5dcaea565d"
+      ],
+      "automatic_sample_count": 13,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "qianjinyaofang",
+      "name": "备急千金要方",
+      "dataset_sha256": "4623dac4e7c0de2da29a02066f7c05c3a41dc94b13f968dcfa4d3b009b0ececb",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html",
+          "sha256": "98a43bd6277f80dc9ab0392eb03dfef48b543597353d2416cdce92de7e64e161"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "040bc975be52df08b1b6f6fc",
+        "3a3d9317d64dc201c5f72023",
+        "40ebd4df8b09b56f94196fda"
+      ],
+      "automatic_sample_count": 34,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "qianjinyifang",
+      "name": "千金翼方",
+      "dataset_sha256": "19e92108b37c0bd7b10ea04402773b498dd99488ef0b676e3032a89f760ca262",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E7%BF%BC%E6%96%B9/index.html",
+          "sha256": "72905681aa2a274477fc6d5bb8360330f229f091e08e41e7052be9482a1d797a"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "091da1f54ae0d316731cd9f8",
+        "20ed7c515f872165faed253d",
+        "18188e3bf45499b5e85ab407"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "figures_not_included",
+        "source_has_gap_markers",
+        "modern_editorial_notes_excluded"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "waitaimiyao",
+      "name": "外台秘要",
+      "dataset_sha256": "5a993fa1d99f0753a54936b6cf6270ef4620e0e7244d6240b84d8246b03e64cb",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+          "sha256": "ac8383a60c72b6485e9d0348cb205e2ce67a3eff1834aa6c54ab942a154edeaf"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "54c4e571ffd8c4e32e8201e3",
+        "f111a0c4c21c9a963b017bda",
+        "5e93948df83a11b1eeadca94"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "zhouhoubeijifang",
+      "name": "肘后备急方",
+      "dataset_sha256": "8cf2676e1befcd7fef0d53dde98a948374f1a0e2721153faa344964bde9d97d3",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html",
+          "sha256": "d5aafe57e1e44ed4670289c1a9f69a53cd4b2c9193b534bbc054627a91e85604"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "e7f167e7aeb31cc85d8e1de0",
+        "59236c2c3eca3b441acb5a9e",
+        "346a53fdd69fc48857934ab0"
+      ],
+      "automatic_sample_count": 11,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "hejijufang",
+      "name": "太平惠民和剂局方",
+      "dataset_sha256": "945882aa93af2dfa41022cc52d7711e6d024a8eb0928622282c15a4dcbe1b90b",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9/index.html",
+          "sha256": "b4d8fa0f315cec60b8f032adecafe0e2d7b122f3abfec36ea7c03f7fd1840d89"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "42439cd690a479d2e0b08631",
+        "c0d9b7d9ad315f6a826d686b",
+        "988538ecf8c66ccd7409c8ab"
+      ],
+      "automatic_sample_count": 16,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "yifangjijie",
+      "name": "医方集解",
+      "dataset_sha256": "e5cdef184c8f6771a87274942ca681447e70d2b720c10cf7ae7422a6cd052101",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html",
+          "sha256": "1d3f6a0047d2ef7f2ab79a4f9a66dd2e17cab6490d037c0f496d20c18a27d65d"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "379d4a1bf9bd73824db413e8",
+        "df6009e7e841c14a7e2e50ab",
+        "b1bd3013e1f01668394c76f3"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "tangtougejue",
+      "name": "汤头歌诀",
+      "dataset_sha256": "fa459f5dea9718140f6e74108a7c97173f009046faf7f8b0e35ea673e21d294d",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B9%AF%E9%A0%AD%E6%AD%8C%E8%A8%A3/index.html",
+          "sha256": "fd957ca5355e5e597f19a56164e19b4e0b8f3075bb76ac65cb2a2ecddf75da69"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "731b0635d6a1795d62a54057",
+        "6c900379fa7ab6a1669dd439",
+        "a02e16ebb061143f644e793d"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [],
+      "notes": [
+        "所据1946年重校本，所收序署康熙甲戌、汪昂；古代歌诀与古注按源站CC0文本收录，未收录现代译注。"
+      ]
+    },
+    {
+      "key": "yifangkao",
+      "name": "医方考",
+      "dataset_sha256": "f38dfd3b3871fdb590987b69212ffabe547f8b14edfc9eedbfd36fa7bfaf74bf",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E8%80%83/index.html",
+          "sha256": "d2d68e6fa2b71406e2a0ab03b527954c1b4b58b9ab7fdb5d7801df00a5ac5655"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "af380f51f785940acc82c6c5",
+        "615559eecbc48b1282454218",
+        "4f4d01270f055e9e24e9a469"
+      ],
+      "automatic_sample_count": 9,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "maijing",
+      "name": "脉经",
+      "dataset_sha256": "bad56be7f5a41447a048773550efa3a542c2862aa6c5f3c33f0b94dbd8d51930",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+          "sha256": "659a85b71fcd2442eacbc1391adc83f28b9bf10edb30a81a2c9cc20fe1ef981b"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "8fbf5e18262e29386cd585b1",
+        "9f2ff8799080496c08eb2ffb",
+        "24bb0809eeb1d5478c51be60"
+      ],
+      "automatic_sample_count": 13,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "binhumaixue",
+      "name": "濒湖脉学",
+      "dataset_sha256": "ff50c1c9211c014acf5032a7bace42cb90fa40e665584428c74885e7e464a2e2",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+          "sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "5cf031b9a9ae74ac48c82154",
+        "43e1472604ab33036c241a6c",
+        "7395634dc79a2be4a28d0796"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "zhenjiashuyao",
+      "name": "诊家枢要",
+      "dataset_sha256": "3a8dca6ca4a0eef7d2ea23306be846c72ad0f9b3ba08aa16244184e5e3e12087",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A8%BA%E5%AE%B6%E6%A8%9E%E8%A6%81/index.html",
+          "sha256": "575adf44d90446469e620d132c7508fa58cbf9ac5dc8c735eea2cc3e821b7c34"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "bac0709102b34b879470dc34",
+        "033dc2aae8e58ca55f16b613",
+        "97e76607499e92f90cc596f0"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "zhenjiujiayijing",
+      "name": "针灸甲乙经",
+      "dataset_sha256": "4fabc8557277668f663221ce2fc563918d9ba5af75b1370a3eaf3944e38ae2ab",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html",
+          "sha256": "99645a1fb233fb2a5bb47d7c0e9aef2fa598a9a6cbe75a79f7d5a58b02cf8545"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "591b96f9cdb56fdbd6ddf579",
+        "60358feecc3a578a1abe3be4",
+        "1eeb1ec8a6915f039b33c3b5"
+      ],
+      "automatic_sample_count": 15,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "zhenjiudacheng",
+      "name": "针灸大成",
+      "dataset_sha256": "2d83468020278c5e6b9ba172a978fee4d03db8d22161baeafa47eef4191363fc",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+          "sha256": "b90e7774a56cb477f8064bc636db6d217b23f058e49fd7dabd4181c6d127f662"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "b5a6b8d7ebcfc37b7d781582",
+        "5c5f54f6962f83a9d2cfb4ee",
+        "2415083bf618ed9904390c50"
+      ],
+      "automatic_sample_count": 12,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "qijingbamaikao",
+      "name": "奇经八脉考",
+      "dataset_sha256": "d44e3a7cd398582dbbc0c4271dc5ee3c95c06cbff69cae4081ccd62c2fe0202b",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83/index.html",
+          "sha256": "aa97925a4b2e1b7ed25300559fe1ec9fca3523d1718a76988dc6f101a90dac0a"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "6ad9fef218b548ef4835b840",
+        "5f98bb1cbf6b6c251e018d8f",
+        "cb668445e911c8e49e35c85c"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "zhubingyuanhoulun",
+      "name": "诸病源候论",
+      "dataset_sha256": "04563ddda2ce61dc772a2b5eb0f6ddecf1050a7e851fe5951c7f184b888c2fe9",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
+          "sha256": "b66da53050468f9a62d88f04bff39df22982aaf0ab887506a1e21bccda007958"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "5eb606f657a3ea0d65ea40c2",
+        "6d1506d39c1d87e44a2a1ecb",
+        "d467ef989c269ddedfd90b27"
+      ],
+      "automatic_sample_count": 53,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "piweilun",
+      "name": "脾胃论",
+      "dataset_sha256": "afdcc1c9ab2745373c8132e0195c8ea4c7e775b4103cf04036890fa06f0b21e1",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%BE%E8%83%83%E8%AB%96/index.html",
+          "sha256": "17bf2cee26896daf21ff99c255effe60285f77c9de7ef9bcb5e962143d7282fc"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "406e083a76f57e3b1b3bff38",
+        "5524b439709adb2a463bbf4b",
+        "52dcc5d7df60af8c8d163331"
+      ],
+      "automatic_sample_count": 6,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "rumenshiqin",
+      "name": "儒门事亲",
+      "dataset_sha256": "9aaa77bc15dbfcc88d1b68dfa77900473dd07c3877fab2e208f70d515978cd3b",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%84%92%E9%96%80%E4%BA%8B%E8%A6%AA/index.html",
+          "sha256": "a4986016f0358f781131de8c5fd21cafc1e339d0d32f4843c5119f3a41c0dfef"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "3778e5ab6f167aec539136d2",
+        "6aedccdf95435d9508673480",
+        "5e65c9c8d520ccf8466375bf"
+      ],
+      "automatic_sample_count": 18,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "gezhiyulun",
+      "name": "格致余论",
+      "dataset_sha256": "e9ea409c75e414a63c1ea0c0c61487ea6e10576d5ffc6698999bc62f479ae051",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%A0%BC%E8%87%B4%E9%A4%98%E8%AB%96/index.html",
+          "sha256": "b0f85b5ddeea424ab2dc961b5fadb312c09bce1640f9bded75d83a26924fb654"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "2b180546f44b348d82d6e08e",
+        "4169698f2fea1a85b0d7d7bb",
+        "d2a4a1e82092b231391d98f4"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "danxixinfa",
+      "name": "丹溪心法",
+      "dataset_sha256": "9dd9b9257a4cd91ffde89e8300f533080b3004575056c63d846e3af8e4257466",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95/index.html",
+          "sha256": "d37f5696ebbd026836c047607325e4a74cd462633811bb42df17979d30228a9b"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "d0d664621a6f93a60d1d8d4b",
+        "d1ae050ff66bd388aee45530",
+        "716f6ab2e03ba183aeba69c8"
+      ],
+      "automatic_sample_count": 8,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "jingyuequanshu",
+      "name": "景岳全书",
+      "dataset_sha256": "dace4191258b866565a53b946e57c585060e99050b094bceaaebc818219550ad",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
+          "sha256": "d3d94b362454670f45af71d23893d12f36bbdad6d38c65d00c680604c18dfece"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "a83e7f747bf15cccef41ac8d",
+        "4fdd276449d931b6e8bac52f",
+        "5e06cbc921ee0a299e504177"
+      ],
+      "automatic_sample_count": 66,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "yixuexinwu",
+      "name": "医学心悟",
+      "dataset_sha256": "3e45d44ebc5c7edc150cbc0ee7bc0713431b50a9796f926f1c9d1f2d3b78531c",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F/index.html",
+          "sha256": "4145f1bc676d2dcaa62bacb3738e8740287c4b84e9a250b1ddc8c2ef104f8fba"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "0ea69afee7479227af9eff0b",
+        "796a67c307bf6ee032f181cb",
+        "44489332e7a80a9d0a8ceb78"
+      ],
+      "automatic_sample_count": 9,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "sishengxinyuan",
+      "name": "四圣心源",
+      "dataset_sha256": "e17fa5ecfb25ab5f53da0183d63d9531c7d0331506e3bfb5225cf52b591906a3",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html",
+          "sha256": "9ee1effcf3013d2015aeb104e2499121ec0462d7353f2fd3d5c45204047c7439"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "b583bd628a9403f91e55e1d8",
+        "a3048657591ec0ac7baeedf7",
+        "4fd674f329fca8cdd59c3b03"
+      ],
+      "automatic_sample_count": 13,
+      "source_warnings": [],
+      "notes": [
+        "源站作者字段作黄玉璐；项目使用通行名黄元御，源站原字段另存于sources.json。"
+      ]
+    },
+    {
+      "key": "yizongjinjian",
+      "name": "医宗金鉴",
+      "dataset_sha256": "82af4da2c9ffaa345dc9181354455c66f6a30698275e9039b797f2a6f735311d",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/index.html",
+          "sha256": "d3d3351578e1c39084f3a0d712b9e96d3d4e7ed218b6cb8d620f0c9524c3cfd8"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html",
+          "sha256": "4c32338f0b08a6a8fb61dbe290ada9fc672825411ef3ad2c32b3ef290666a3f7"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html",
+          "sha256": "b78ede586d82b506807f8f420e91174ed03c94aa78bb5d3ad97009d4d59856ea"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%AA%E8%A3%9C%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
+          "sha256": "073fc0bbd610b168bbe84f2c9758181f9a04f464d088bf45c704da1ddfe5016b"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%9B%9B%E8%A8%BA%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "56fc0dfce4a42cc2d46bc206516ab81869294739bbd0d7a02340a106bdc7837c"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%81%8B%E6%B0%A3%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "5f38282e167d9170c5d52b838de3d10c4d5ebb275688479ab57e56cc81dbfc7b"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%82%B7%E5%AF%92%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "975e284dc6d68996cce8e0fe0b4ad4a83bd8767904c9f01c99cb85dc46062806"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%9B%9C%E7%97%85%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "9640fb2375b063d3a0ca9273477f1101f9062d3c87190f67bb0b254f78c58183"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A9%A6%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "dee3f7ae559575e2ebcb355aaacac12e39684041b9e6c9efadf193271052c04a"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "fc3b757f4ab307b262ea24eeaf9d4a835d2af1633375738c7ea88790f4e2f48f"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%97%98%E7%96%B9%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "34f0ddd8979e5fc6ecb9f246a700430adae77b68b46e4c92db66b7d94495623a"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E7%A8%AE%E7%97%98%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+          "sha256": "1c47dda5c072ca69e85a9bc6319a2ffab44d3f548f98e1555721d068c5413193"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A4%96%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "4e824e94f22f15ce770c60c739ef7d4aed3aa3e43c4a263f40af1e654fe1cf34"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%9C%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "8d75be033f4a57126db149d71521508d62df466c59d4fad425a539fcdad99f9a"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "sha256": "9838b8efad9e13044a71cdde43679fe416d8c9f0024d380b1906e2438d307e76"
+        },
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E6%AD%A3%E9%AA%A8%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+          "sha256": "b3da30eaf2e0488030278d25bd9e4a65f54cce3211d78c6d290146036ac06555"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "ebb59915fbfe5693125f5936",
+        "aa614d6c291cf6b6e9b76628",
+        "e065c06a0fa75d36ff028eda"
+      ],
+      "automatic_sample_count": 84,
+      "source_warnings": [
+        "figures_not_included",
+        "source_has_gap_markers",
+        "modern_editorial_notes_excluded"
+      ],
+      "notes": [
+        "核齐15个分册，以90卷系统次序排列：外科置于种痘后、眼科前；保存各册原卷标题及源站列出的参校底本。"
+      ]
+    },
+    {
+      "key": "wenyilun",
+      "name": "温疫论",
+      "dataset_sha256": "255a009fb1e1bdfa02cd97dfdc0ca524c50451ffba68e3a64b22e371e413ae1d",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E8%AB%96/index.html",
+          "sha256": "824587d703192f6da62d3d3bc5bd4188407299d16c0948b9659c8757f3b8c67c"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "efcf646f8f12d511f62e5dd9",
+        "3e1b22af7d5f7aaeee8231b9",
+        "dd77fa37de397ea4ac805024"
+      ],
+      "automatic_sample_count": 5,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "wenrelun",
+      "name": "温热论",
+      "dataset_sha256": "acc73de623bb0e48c1b28ccd1dc543629cd93214a081f038fafcb0d4aaf337aa",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E8%AB%96/index.html",
+          "sha256": "f564231617cf0cc1bd542b31da075c5bf9aa4216849dec764f0cfb236bc30315"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "98121126aca5a5bf06478254"
+      ],
+      "automatic_sample_count": 1,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "shirebingpian",
+      "name": "湿热病篇",
+      "dataset_sha256": "f02deda35ac06893aa4bd8bf3234b9709dad3d95c2f845fe737e07e60b45477a",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+          "sha256": "0095f0846c186bc51d39d13f5aeb04a38e0738b48ee530719d625657b0389ecb"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "f6c45e701a2f67e6bdc64548"
+      ],
+      "automatic_sample_count": 1,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原独立页面未交代底本，改从《温热经纬》卷四完整提取〈薛生白湿热病篇〉，保留王士雄等古代按语。"
+      ]
+    },
+    {
+      "key": "wenbingtiaobian",
+      "name": "温病条辨",
+      "dataset_sha256": "9e29ac21e10ba1cbbb7da79255a462b11fef83f51f083792449e76050af84130",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%A2%9D%E8%BE%A8/index.html",
+          "sha256": "9a8f1d2124a8f0a5f9224ae2d707caf8a0f4da05156b67bef868e2fbc375229d"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "42c82f11c022687d36b0b81c",
+        "2d333c51c12a26e3addc157c",
+        "228feaa0398e2ea3aa4ea19d"
+      ],
+      "automatic_sample_count": 9,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "wenrejingwei",
+      "name": "温热经纬",
+      "dataset_sha256": "d081eb10789716ddbe18d6bc9a765a702d5a32c52d95716581843e45be7887a2",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+          "sha256": "0095f0846c186bc51d39d13f5aeb04a38e0738b48ee530719d625657b0389ecb"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "b03cc88f0915d837f59925ab",
+        "f93e43a38475b9530cdbeda1",
+        "7b560a5edce6e85dba8c792d"
+      ],
+      "automatic_sample_count": 8,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "furendaquanliangfang",
+      "name": "妇人大全良方",
+      "dataset_sha256": "cf765be454e95036eaea7084cf9cfa163056e7e4b130c0a7bd9bba94d47c24cd",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E5%A4%A7%E5%85%A8%E8%89%AF%E6%96%B9/index.html",
+          "sha256": "f78da81bba63b1e7bf1e82f237150767fe95d5a22098acddb8322b67ada7ff38"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "c69b8debf6475994d9c0f3e8",
+        "064f2983712710d796bd7eaa",
+        "97c4239ee8aab060687b6d60"
+      ],
+      "automatic_sample_count": 27,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "fuqingzhunvke",
+      "name": "傅青主女科",
+      "dataset_sha256": "ebb66ac64fe259ba897d5d1e6504b1359a646fc4fd3bd9e595ad2a993ba4b1ac",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%85%E9%9D%92%E4%B8%BB%E5%A5%B3%E7%A7%91/index.html",
+          "sha256": "a45bf06478ce24ccc05dc5d08f54e97164ca033cf5b4b457bb03f0a3a317d037"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "1cb5de8c369bcd28c32290ac",
+        "4ea7fc4888775da5d45a1611",
+        "a860fdff8b05430335ae5363"
+      ],
+      "automatic_sample_count": 4,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "传统题署傅山，作者栏用“题傅山”，不把有争议的归属写成确定事实。卷首目录保留为单独单元。"
+      ]
+    },
+    {
+      "key": "xiaoeryaozhengzhijue",
+      "name": "小儿药证直诀",
+      "dataset_sha256": "87a6e8a83b82be892885ae4effbeb5fef7e24c0ff071666982f75d0d824fb913",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E8%97%A5%E8%AD%89%E7%9B%B4%E8%A8%A3/index.html",
+          "sha256": "af4a8c5202e0595c30577bae3332b1a9b35c77c32d1f63ab5359b43232698d0c"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "651eca86cf94d166368327b8",
+        "9de07fccd3c6dff2c4eb50f9",
+        "ce0d3fe7dbf87a7e9a622bfb"
+      ],
+      "automatic_sample_count": 6,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "youyoujicheng",
+      "name": "幼幼集成",
+      "dataset_sha256": "7ddb153f12a394483930fa8bf0645f9023c9c7df2ac5ab08808bfebdcf969d62",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E5%B9%BC%E9%9B%86%E6%88%90/index.html",
+          "sha256": "bd823dbee10648fc3c43c283dd2db4bfe5a59e96450aaeaf5995cbe6cff98c41"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "914e5c492f9edf6de18923dd",
+        "c6c1db1c6bd6fbd79fe01dcd",
+        "e1f3f418c362d20552d4a90d"
+      ],
+      "automatic_sample_count": 9,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "waikezhengzong",
+      "name": "外科正宗",
+      "dataset_sha256": "77a4a653ed1619f749912733e2ec2fdbfb61410ce66d84cf7303649010bd3933",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97/index.html",
+          "sha256": "a3d9d0fa25abd38561524112d9fd792fc901964d31af939541e93dd1da5f1290"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "c81b50df2fefd0362db3ca8f",
+        "99d73ab8a181d94a3bc22113",
+        "b0640050fb49abfdfe015b85"
+      ],
+      "automatic_sample_count": 7,
+      "source_warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "waikezhengzhiquanshengji",
+      "name": "外科证治全生集",
+      "dataset_sha256": "a42610a9035f1edc078a5c4dff15f3821d3e64cbd990c9e146d14c41a922c587",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%85%A8%E7%94%9F%E9%9B%86/index.html",
+          "sha256": "fd39670f3a7690983c25963d14a0a6ce48910315c25fe8cc64c2a7e1e1bbe696"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "a780e7ccd7f94d3f32815d87",
+        "cb278b12bc1eab95731770e2",
+        "6e8b9438783d64686657f836"
+      ],
+      "automatic_sample_count": 7,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "源站题《外科全生集》，作者字段王洪绪；项目使用通行书名和作者名王维德，保留原字段及别名。"
+      ]
+    },
+    {
+      "key": "linzhengzhinanyian",
+      "name": "临证指南医案",
+      "dataset_sha256": "06969dfeb841c0c896cae7f1cf86c6aa12ffca81c27491033a0ed2ca54bf4d7a",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%87%A8%E8%AD%89%E6%8C%87%E5%8D%97%E9%86%AB%E6%A1%88/index.html",
+          "sha256": "b2dc9d761766936a8b4fe90119b99730f561e5d18fdef573800aa84ad5753628"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "71cfe3b93f330506581b01fc",
+        "e23a4325afa04e379200114d",
+        "c1bd0080d117d6a9a05da553"
+      ],
+      "automatic_sample_count": 12,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "yilingaicuo",
+      "name": "医林改错",
+      "dataset_sha256": "a240fb29ac6d86f4a3487d6a02c10ba213196ab59ae29ca0cce5ca130d25746f",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%9E%97%E6%94%B9%E9%8C%AF/index.html",
+          "sha256": "36e529283b1f59282975f4e07e5646a8b1b580b976975685a507e881cdc11add"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "7b1b1c188f0f1a0427bd39f2",
+        "2a9b47d8fa63ed177910ac7e",
+        "38cb7eb3416cff8e2ad285b0"
+      ],
+      "automatic_sample_count": 5,
+      "source_warnings": [
+        "figures_not_included"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "yixuesanzijing",
+      "name": "医学三字经",
+      "dataset_sha256": "677c6a89c2a856525dd852b918dc14918b2ef7053d77cb6b28b5268b21a52c0c",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E4%B8%89%E5%AD%97%E7%B6%93/index.html",
+          "sha256": "99e92a3cb8c5d519722a8dd8b780d55ca55cc0698e89365a91beb52d3714034e"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "02d71ae06135291ac4eebf1d",
+        "c2cbed725e125eded46af2dc",
+        "a99c8204db3f1b0b5b6cf2a3"
+      ],
+      "automatic_sample_count": 7,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "yixueyuanliulun",
+      "name": "医学源流论",
+      "dataset_sha256": "14d93098a9dc85b2b8421b09df1686a0a1a6e069be9b250cc52fb528d25b8cb0",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%BA%90%E6%B5%81%E8%AB%96/index.html",
+          "sha256": "3bf88398a9564de239238bf058e061d97f933974784714ee0ed52c8b0290edab"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "d2e85d5dc59f492fd8868f29",
+        "fccb7819a61f67eb57f76fa7",
+        "f3365f417e53fa8fdf71e1d5"
+      ],
+      "automatic_sample_count": 5,
+      "source_warnings": [],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    },
+    {
+      "key": "yinshanzhengyao",
+      "name": "饮膳正要",
+      "dataset_sha256": "20dfcfae6f1dcdcc75f499f6037a9c360505f901e9cb560d21ffba76ed006703",
+      "status": "reviewed_with_caveats",
+      "source_snapshots": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A3%B2%E8%86%B3%E6%AD%A3%E8%A6%81/index.html",
+          "sha256": "98a46269168a1f4c7e9b6250334452b30cf153f2ed226bdded141221f53122f3"
+        }
+      ],
+      "assistant_excerpt_checks": [
+        "09d2a28c57d7ff63c001bf4b",
+        "33ecb9743610f83e4a83dca7",
+        "30e090c856c6c9e6a724fce7"
+      ],
+      "automatic_sample_count": 3,
+      "source_warnings": [
+        "source_has_gap_markers"
+      ],
+      "notes": [
+        "原文及古注采用源站所列古籍电子整理本，保留底本信息与快照；书目简介独立撰写。"
+      ]
+    }
+  ]
+}

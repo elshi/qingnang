@@ -428,3 +428,7 @@
   background: #1e211f;
   color: #c5c2b8;
 }
+
+.reader-scroll[hidden] { display:none; }
+.reader-notes { padding-bottom:calc(130rpx + env(safe-area-inset-bottom)); }
+.reader-notes-title { padding:24rpx 26rpx 0; font-size:30rpx; font-weight:600; line-height:1.5; }

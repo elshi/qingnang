@@ -73,7 +73,7 @@ class PrescriptionApiTest extends TestCase
     public function test_null_fields_tags_and_summary_are_normalized_without_inventing_content()
     {
         $this->getJson('/api/prescriptions/3')->assertOk()
-            ->assertJsonPath('data.title', '未命名处方')->assertJsonPath('data.source', '')
+            ->assertJsonPath('data.title', '未命名经方')->assertJsonPath('data.source', '')
             ->assertJsonPath('data.tags', [])->assertJsonPath('data.modern_dose', null);
         $this->getJson('/api/prescriptions/2')->assertOk()
             ->assertJsonPath('data.tags', ['解表', '和营', '调和', '学习'])
@@ -85,7 +85,7 @@ class PrescriptionApiTest extends TestCase
         foreach (['prescription-001', '-1', '4294967296', '1.5'] as $id) {
             $this->getJson('/api/prescriptions/' . $id)->assertStatus(422)->assertJsonPath('code', -1);
         }
-        $this->getJson('/api/prescriptions/99')->assertStatus(404)->assertJsonPath('errorMsg', '未找到该处方');
+        $this->getJson('/api/prescriptions/99')->assertStatus(404)->assertJsonPath('errorMsg', '未找到该经方');
         DB::table('t_prescriptions')->insert(['id' => 0, 'name' => '零号测试']);
         $this->getJson('/api/prescriptions/0')->assertOk()->assertJsonPath('data.id', 0);
     }
@@ -101,7 +101,7 @@ class PrescriptionApiTest extends TestCase
     {
         Schema::drop('t_prescriptions');
         $response = $this->getJson('/api/prescriptions')->assertStatus(500)
-            ->assertJsonPath('code', -1)->assertJsonPath('errorMsg', '处方加载失败，请稍后重试');
+            ->assertJsonPath('code', -1)->assertJsonPath('errorMsg', '经方加载失败，请稍后重试');
         $this->assertStringNotContainsString('SQLSTATE', $response->getContent());
         $this->getJson('/api/prescriptions/1')->assertStatus(500)->assertJsonPath('code', -1);
     }

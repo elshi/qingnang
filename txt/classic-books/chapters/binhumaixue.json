@@ -1,0 +1,931 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "binhumaixue",
+    "name": "濒湖脉学",
+    "summary": "以歌诀辨析常见脉象的形态、相似脉及主病，附相关脉学资料。",
+    "dynasty": "明",
+    "author": "李时珍",
+    "jp": "BHMX",
+    "aliases": []
+  },
+  "chapters": [
+    {
+      "chapter_key": "5cf031b9a9ae74ac48c82154",
+      "title": "序",
+      "volume": null,
+      "content": "李时珍曰：宋有俗子，杜撰《脉诀》，鄙陋纰缪，医学习诵，以为权舆，逮臻颁白，脉理竟昧。戴同父常刊其误，先考月池翁著《四诊发明》八卷，皆精诣奥室，浅学未能窥造。珍因撮粹撷华，僭撰此书，以便习读，为脉指南。世之医病两家，咸以脉为首务，不知脉乃四诊之末，谓之巧者尔，上士欲会其全，非备四诊不可。\n明嘉靖甲子上元日谨书于濒湖薖所",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "序"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "b406a00097e24debf0de9697bef09c3c4acd58cdafaa5cf0011a5b30da835f78",
+      "content_sha256": "a09245fe9aac5a6fd6df1e8d07bc5ca0dbde7890e7ae3e12824b43878a7a16dc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 159,
+        "simplified_codepoints": 159
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "8868de6e36a302f891052f37",
+      "title": "浮（阳）",
+      "volume": null,
+      "content": "浮脉，举之有余，按之不足（《脉经》）。如微风吹鸟背上毛，厌厌聂聂（轻泛貌），如循榆荚（《素问》），如水漂木（崔氏），如捻葱叶（黎氏）。浮脉法天，有轻清在上之象，在卦为干，在时为秋，在人为肺，又谓之毛。太过则中坚旁虚，如循鸡羽，病在外也。不及则气来毛微，病在中也。《脉诀》言，寻之如太过，乃浮兼洪紧之象，非浮脉也。\n〔体状诗〕浮脉惟从肉上行，如循榆荚似毛轻。三秋得令知无恙，久病逢之却可惊。\n〔相类诗〕浮如木在水中浮，浮大中空乃是芤。拍拍而浮是洪脉，来时虽盛去悠悠。浮脉轻平似捻葱。虚来迟大豁然空。浮而柔细方为濡，散似杨花无定踪。浮而有力为洪，浮而迟大为虚，虚甚为散，浮而无力为芤，浮而柔细为濡。\n〔主病诗〕浮脉为阳表病居，迟风数热紧寒拘。浮而有力多风热，无力而浮是血虚。寸浮头痛眩生风，或有风痰聚在胸。关上土衰兼木旺，尺中溲便不流通。\n浮脉主表，有力表实，无力表虚，浮迟中风，浮数风热，浮紧风寒，浮缓风湿，浮虚伤暑，浮芤失血，浮洪虚热，浮散劳极。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "浮（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "542d57ba75afe1a8ca531aaeb70e5bca44ca4a776c9019048dc475b2f30ba354",
+      "content_sha256": "5e5f4a9d158d316291a5f614278a72b6da88ec2efedd5c25720c0f6d6092caec",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 423,
+        "simplified_codepoints": 423
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "8ba13fd1ee5b4edd3c0fe575",
+      "title": "沉（阴）",
+      "volume": null,
+      "content": "沉脉，重手按至筋骨乃得（《脉经》）。如绵裹砂，内刚外柔（杨氏）。如石投水，必极其底。沉脉法地，有渊泉在下之象，在卦为坎，在时为冬，在人为肾。又谓之石，亦曰营。太过则如弹石，按之益坚，病在外也。不及则气来虚微，去如数者，病在中也。《脉诀》言缓度三关，状如烂绵者，非也。沉有缓数及各部之沉，烂绵乃弱脉，非沉也。\n〔体状诗〕水行润下脉来沉，筋骨之间软滑匀。女子寸兮男子尺，四时如此号为平。\n〔相类诗〕沉帮筋骨自调匀，伏则推筋著骨寻。沉细如绵真弱脉，弦长实大是牢形。（沉行筋间，伏行骨上，牢大有力，弱细无力）\n〔主病诗〕沉潜水蓄阴经病，数热迟寒滑有痰。无力而沉虚与气，沉而有气积并寒。寸沉痰郁水停胸，关主中寒痛不通。尺部浊遗并泄痢，肾虚腰及下元痌。沉脉主里，有力里实，无力里虚。沉则为气，又主水蓄，沉迟痼冷，沉数内热，沉滑痰食，沉涩气郁，沉弱寒热，沉缓寒湿，沉紧冷痛。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "沉（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "c385af7a0ad20fbe3f163152c8e92fc92331d839ea89e68b0f708ef34af8fdc3",
+      "content_sha256": "8df620e8a73077810289c7d8dd22f9e6ab9afc91fabf43e9a0446daef515f87a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 380,
+        "simplified_codepoints": 380
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "05d34406e8874f35017a29a1",
+      "title": "迟（阴）",
+      "volume": null,
+      "content": "迟脉，一息三至，去来极慢（《脉经》）。\n迟为阳不胜阴，故脉来不及。《脉谈》言，重手乃得，是有沉无浮。一息三至，甚为易见。而曰隐隐、曰状且难，是涩脉矣，其谬可知。\n〔体状诗〕迟来一息至惟三，阳不胜阴气血寒。但把浮沉分表里，消阴须益火之原。\n〔体状诗〕脉来三至号为迟，小快于迟作缓持。迟细而难知是涩，浮而迟大以虚推。（三至为迟，有力为缓，无力为涩，有止为弦，迟甚为败，浮大而软为虚。黎氏曰：迟小而实，缓大而慢；迟为阴盛阳衰，缓为卫盛营弱，宜别之。）\n〔主病诗〕迟司脏病或多痰，沉痼症瘕仔细看。有力而迟为冷痛，迟而无力定虚寒。寸迟必是上焦寒，关主中寒痛不堪。尺是肾虚腰脚重，溲便不禁疝牵丸。迟脉主脏，有力冷痛，无力虚寒。浮迟表寒，沉迟里寒。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 15,
+      "source_path": [
+        "遲（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "6ca50d21edd4facd3ec9beb5ed90d805f320a0f40f5e405a5a708d0a8b867e55",
+      "content_sha256": "68df3c477d6463899f5c63a48bd130b99ce046879ed87d7d85e8074722d4c769",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 317,
+        "simplified_codepoints": 317
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "8044c6064008787cc20c71b6",
+      "title": "数（阳）",
+      "volume": null,
+      "content": "数脉，一息六至（《脉经》）。脉流薄疾（《素问》）。数为阴不胜阳，故脉来太过焉。浮、沉、迟、数，脉之纲领。《素问》《脉经》皆为正脉。《脉诀》立七表、八里，而遗数脉，止歌于心脏，其妄甚矣。\n〔体状诗〕数脉息间常六至，阴微阳盛必狂烦。浮沉表里分虚实，惟有儿童作吉看。\n〔相类诗〕数比平人多一至，紧来如数似弹绳。数而时止名为促，数见关中动脉形。数而弦急为紧，流利为滑，数而有止为促，数甚为极，数见关中为动。\n〔主病诗〕数脉为阳热可知，只将君相火来医。实宜凉泻虚温补，肺病秋深却畏之。寸数咽喉口舌疮，吐红咳嗽肺生疡。当关胃火并肝火，尺属滋阴降火汤。数脉主腑，有力实火，无力虚火。浮数表热，沉数里热，气口数实肺痈，数虚肺痿。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 21,
+      "source_path": [
+        "數（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "a54a17ed0ceb4f22cad42b0fdbbeb07ba8147d1aa100d393f1208d7eaddf25ba",
+      "content_sha256": "a89d28400fa2793ed3804630499326f83d340ba38561aa43d2d548c6f8aa04c0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        22,
+        23,
+        24,
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 306,
+        "simplified_codepoints": 306
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "60191567d8932b3cedce740a",
+      "title": "滑（阳中阴）",
+      "volume": null,
+      "content": "滑脉，往来前却，流利展转，替替然如珠之应指（《脉经》）。漉漉如欲脱。滑为阴气有余，故脉来流利如水。脉者，血之府也。血盛则脉滑，故肾脉宜之；气盛则脉涩，故肺脉宜之。《脉诀》云：按之即伏，三关如珠，不进不退，是不分浮滑、沉滑、尺寸之滑也，今正之。\n〔体状相类诗〕滑脉如珠替替然，往来流利却还前。莫将滑数为同类，数脉惟看至数间。（滑则如珠，数则六至）\n〔主病诗〕滑脉为阳元气衰，痰生百病食生灾。上为吐逆下蓄血，女脉调时定有胎。寸滑膈痰生呕吐，吞酸舌强或咳嗽。当关宿食肝脾热，渴痢㿗淋看尺部。滑主痰饮，浮滑风痰，沉滑食痰，滑数痰火，滑短宿食。《脉诀》言：关滑胃寒，赤滑脐似水。与《脉经》言关滑胃热，尺滑血蓄，妇人经病之旨相反，其谬如此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "滑（陽中陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "ee83abc7e8334d9142b4b660d00d890240be1e0c250e187826984e686540b29b",
+      "content_sha256": "cbe92f7358827d1f78f79c64dfd4e129e3c667225a1ac0c12e9773ab9d4ec39d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        27,
+        28,
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 314,
+        "simplified_codepoints": 314
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "1d66fdaea90efed0ac76cbab",
+      "title": "涩（阴）",
+      "volume": null,
+      "content": "涩脉，细而迟，往来难，短且散，或一止复来（《脉经》）。参伍不调（《素问》）。如轻刀刮竹（《脉诀》）。如雨沾沙（《通真子》）。如病蚕食叶。涩为阳气有余，气盛则血少，故脉来蹇滞，而肺宜之。《脉诀》言：指下寻之似有，举之全无。与《脉经》所云，绝不相干。\n〔体状诗〕细迟短涩往来难，散止依稀应指间。如雨沾沙容易散，病蚕食叶慢而艰。\n〔相类诗〕参伍不调名曰涩，轻刀刮竹短而难。微似秒芒微软甚，浮沉不别有无间。细迟短散，时一止曰涩。极细而软，重按若绝曰微。浮而柔细曰濡，沉而柔细曰弱。\n〔主病诗〕涩缘血少或伤精，反胃亡阳汗雨淋。寒湿入营为血痹，女人非孕即无经。寸涩心虚痛对胸，胃虚胁胀察关中。尺为精血俱伤候，肠结溲淋或下红。涩主血少精伤之病，女人有孕为胎病，无孕为败血。杜光庭云：涩脉独见尺中，形同代为死脉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "澀（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "57fe2205f8cc81fcb4771e3f029a75903e908de65a7372257e6e64e9994fae00",
+      "content_sha256": "9d17bbbcf4f6e7353478d931b959986085887a29f0812e5580c3978a3a1e76bf",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 348,
+        "simplified_codepoints": 348
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "705b5ac60439bef16cb2f3be",
+      "title": "虚（阴）",
+      "volume": null,
+      "content": "虚脉，迟大而软，按之无力，隐指豁豁然空（《脉经》）。崔紫虚云：形大力薄，其虚可知。《脉诀》言：寻之不足，举之有余。上言浮脉，不见虚状。杨仁斋言：状似柳絮，散漫而迟。滑氏言：散大而软，皆是散脉，非虚也。\n〔体状相类诗〕举之迟大按之松，脉状无涯类谷空。莫把芤虚为一例，芤来浮大似慈葱。虚脉浮大而迟，按之无力。芤脉浮大，按之中空，芤为脱血。虚为血虚，浮散二脉见浮脉。\n〔主病诗〕脉虚身热为伤暑，自汗怔忡惊悸多。发热阴虚须早治，养营益气莫蹉跎。血不荣心寸口虚，关中腹胀食难舒。骨蒸痿痹伤精血，却在神门两部居。《经》曰：血虚脉虚。曰：气来虚微为不及，病在内。曰：久病脉虚者死。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 35,
+      "source_path": [
+        "虛（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "e79483980d6bc998f23be8f872608f789579c3343834688153d10719e86c0a9e",
+      "content_sha256": "20893f79e2477357ede19d4a2141bc4ba3ff2977bb9b6ccfde32e2ccb197f49f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        36,
+        37,
+        38
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 283,
+        "simplified_codepoints": 283
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "788bce055a13c6a05026492d",
+      "title": "实（阳）",
+      "volume": null,
+      "content": "实脉，浮沉皆得，脉大而长微弦，应指愊愊然（《脉经》）。愊愊，坚实貌。《脉诀》言：如绳应指来，乃紧脉，非实脉也。\n〔体状诗〕浮沉皆得大而长，应指无虚愊愊强。热蕴三焦成壮火，通肠发汗始安康。\n〔相类诗〕实脉浮沉有力强，紧如弹索转无常。须知牢脉帮筋骨，实大微弦更带长。浮沉有力为实，弦急弹人为紧，沉而实大，微弦而长为牢。\n〔主病诗〕实脉为阳火郁成，发狂谵语吐频频。或为阳毒或伤食，大便不通或气疼。寸实应知面热风，咽疼舌强气填胸。当关脾热中宫满，尺实腰肠痛不通。《经》曰：血实脉实。曰：脉实者，水谷为病。曰：气来实强是谓太过。《脉诀》言尺实小便不禁，与《脉经》尺实小腹痛、小便难之说何反。洁古不知其谬，诀为虚寒，药用姜附，愈误矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 39,
+      "source_path": [
+        "實（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "9f7cc7a9607229db979e1a903d1303882c6a3c9bb5a83205c2468169bf86bcdb",
+      "content_sha256": "6b930266031f3cdd69b1cfc9243c99557ccf14fd59f47462c29428e6a9a23860",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        40,
+        41,
+        42,
+        43
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 311,
+        "simplified_codepoints": 311
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "0a2dfcc8415b980d22aaa226",
+      "title": "长（阳）",
+      "volume": null,
+      "content": "长脉，不小不大，迢迢自若（朱氏）。如循长竿末梢为平；如引绳，如循长竿，为病（《素问》）。长有三部之长，一部之长，在时为春，在人为肝；心脉长，神强气壮；肾脉长，蒂固根深。《经》曰：长则气治，皆言平脉也。\n〔体状相类诗〕过于本位脉名长，弦则非然但满张，弦脉与长争较远，良工尺度自能量。（实、牢、弦、紧皆兼长脉）\n〔主病诗〕长脉迢迢大小匀，反常为病似牵绳。若非阳毒癫痫病，即是阳明热势深。（长主有余之病）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "長（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "bd49d404fba35af937001b1f1f3e491a337b30f5220d2ada2feb8e52dbc8c47b",
+      "content_sha256": "a0197cb6b4b42d08d32f2fd3a26cc8170f2132c904339f9a41d3d2b36b741123",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        45,
+        46,
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "d4a51d08602b6687997f2fe3",
+      "title": "短（阴）",
+      "volume": null,
+      "content": "短脉，不及本位（《脉诀》）。应指而回，不能满部（《脉经》）。戴同父云：短脉只见尺寸，若关中见短，上不通寸，下不通尺，是阴阳绝脉，必死矣。故关不诊短。黎居士云：长短未有定体，诸脉举按之，附过于本位者为长，不及本位者为短。长脉属肝宜于春。短脉属肺宜于秋。但诊肝肺，长短自见。\n〔体状相类诗〕两头缩缩名为短，涩短迟迟细且难。短涩而浮秋喜见，三春为贼有邪干。（涩、微、动、结，皆兼短脉）\n〔主病诗〕短脉惟于尺寸寻，短而滑数酒伤神。浮为血涩沉为痞，寸主头疼尺腹疼。（《经》曰：短则气病，短主不及之病）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "短（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "4cbd15617a448c814eb004dba6a0a5c4ad6ddf3675b1ce1c37cac4f1a09ae357",
+      "content_sha256": "2b178f3e7caa67ace14175bc0ee956a5ffe6097ed70db987bdf3df0a18b04d4a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        49,
+        50,
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 245,
+        "simplified_codepoints": 245
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "c04df0efd123bb426a1bca9e",
+      "title": "洪（阳）",
+      "volume": null,
+      "content": "洪脉，指下极大（《脉经》）。来盛去衰（《素问》）。来大去长（《通真子》）。洪脉在卦为离，在时为夏，在人为心。《素问》谓之大，亦曰钩。滑氏曰：来盛去衰，如钩之曲，上而复下。应血脉来去之象，象万物敷布下垂之状。詹炎举言如环珠者，非。《脉诀》云：季夏宜之，秋季、冬季，发汗通肠，俱非洪脉所宜，盖谬也。\n〔体状诗〕脉来洪盛去还衰，满指淹淹应夏时。若在春秋冬月分，升阳散火莫狐疑。\n〔相类诗〕洪脉来时拍拍然，去衰来盛似波澜。欲知实脉参差处，举按弦长愊愊坚。（洪而有力为实，实而无力为洪）\n〔主病诗〕脉洪阳盛血应虚，相火炎炎热病居。胀满胃翻须早治，阴虚泄痢可愁如。寸洪心火上焦炎，肺脉洪时金不堪。肝火胃虚肝内察，肾虚阴火尺中看。洪主阳盛阴虚之病，泄痢、失血、久嗽者忌之。《经》曰：形瘦脉大多气者死。曰：脉大则病进。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "洪（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "2e0e61f69d0cd007b5cb07d8b258528980e5353c1f5bd4c22f718c03f2b5286a",
+      "content_sha256": "f62881833102fad749688fc89624e4bd3610e13523ffe918cc0363832e604138",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        53,
+        54,
+        55,
+        56
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 351,
+        "simplified_codepoints": 351
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "997afbbc3ee67e9622444a9b",
+      "title": "微（阴）",
+      "volume": null,
+      "content": "微脉，极细而软，按之如欲绝，若有若无（《脉经》）。细而稍长（戴氏）。《素问》谓之小。气血微则脉微。\n〔体状相类诗〕微脉轻微瞥瞥乎，按之欲绝有如无。微为阳弱细阴弱。细比于微略较粗。轻诊即见，重按如欲绝者，微也。往来如线而常有者，细也。仲景曰：脉瞥瞥如羹上肥者，阳气微；萦萦如蚕丝细者，阴气衰；长病得之死，卒病得之生。\n〔主病诗〕气血微兮脉亦微，恶寒发热汗淋漓。男为劳极诸虚候，女作崩中带下医。寸微气促或心惊，关脉微时胀满形。尺部见之精血弱，恶寒消瘅痛呻吟。微主久虚血弱之病，阳微恶寒，阴微发热。《脉诀》云：岁中日久为白带，漏下多时骨亦枯。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 57,
+      "source_path": [
+        "微（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "b9afbbaeafd33b5f79a2382bee8b09f362b67e46816a4fa28ffbbf514972ed05",
+      "content_sha256": "1e5d6014db09009aa61c736fb034a6bc436074235bd974eef592ee3a664487c4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        58,
+        59,
+        60
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 268,
+        "simplified_codepoints": 268
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "d65e1683526085fab272fd1c",
+      "title": "紧（阳）",
+      "volume": null,
+      "content": "紧脉，来往有力，左右弹人手（《素问》）。如转索无常（仲景），数如切绳（《脉经》），如纫箄线（丹溪）。紧乃热为寒束之脉，故急数如此，要有神气。《素问》谓之急。《脉诀》言：寥寥入尺来。崔氏言：如线，皆非紧状。或以浮紧为弦，沉紧为牢，亦近似耳。\n〔体状诗〕举如转索切如绳，脉象因之得紧名。总是寒邪来作寇，内为腹痛外身疼。\n〔相类诗〕见弦、实。\n〔主病诗〕紧为诸痛主于寒，喘咳风痫吐冷痰。浮紧表寒须发越，紧沉温散自然安。寸紧人迎气口分，当关心腹痛沉沉。尺中有紧为阴冷，定是奔豚与疝疼。诸紧为寒为痛，人迎紧盛伤于寒，气口紧盛伤于食，尺紧痛居其腹。况乃疾在其腹。中恶浮紧、咳嗽沉紧，皆主死。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "緊（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "61f5f2b47014be672a905f53e21fbf264683f924b5afc3e75454419bfb508f95",
+      "content_sha256": "30cb232171d23fb836b14ab8ecc7972f395fea2413a0c8cf6b491bccf82d292c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        62,
+        63,
+        64,
+        65
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 289,
+        "simplified_codepoints": 289
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "43e1472604ab33036c241a6c",
+      "title": "缓（阴）",
+      "volume": null,
+      "content": "缓脉，去来小快于迟（《脉经》），一息四至（戴氏），如丝在经，不卷其轴，应指和缓，往来甚匀（张太素），如初春杨柳舞风之象（杨玄操），如微风轻飐柳梢（滑伯仁）。缓脉在卦为坤，在时为四季，在人为脾。阳寸、阴尺，上下同等，浮大而软，无有偏胜者，平脉也。若非其时，即为有病。缓而和匀，不浮、不沉，不疾、不徐、不微、不弱者，即为胃气。故杜光庭云：欲知死期何以取？古贤推定五般土。阳土须知不遇阴，阴土遇阴当细数。详《玉函经》。\n〔体状诗〕缓脉阿阿四至通，柳梢袅袅飐轻风。欲从脉里求神气，只在从容和缓中。\n〔相类诗〕见迟脉。\n〔主病诗〕缓脉营衰卫有余，或风或湿或脾虚。上为项强下痿痹，分别浮沉大小区。寸缓风邪项背拘，关为风眩胃家虚。神门濡泄或风秘，或是蹒跚足力迂。浮缓为风，沉缓为湿，缓大风虚，缓细湿痹，缓涩脾虚，缓弱气虚。《脉诀》言：缓主脾热口臭、反胃、齿痛、梦鬼之病。出自杜撰，与缓无关。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 66,
+      "source_path": [
+        "緩（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "6912c96eac2801f880760b2d6cc03de89fa786930b700a032b28142766125e2d",
+      "content_sha256": "bd4092421e04c519907500bb882fb561e76cdecef0d1b9e038d0783da01c4155",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        67,
+        68,
+        69,
+        70
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 388,
+        "simplified_codepoints": 388
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "3593e33a5d2349d62157e3c1",
+      "title": "芤（阳中阴）",
+      "volume": null,
+      "content": "芤脉，浮大而软，按之中央空，两边实（《脉经》）。中空外实，状如慈葱。芤，慈葱也。《素问》无芤名。刘三点云：芤脉何似？绝类慈葱，指下成窟，有边无中。戴同父云：营行脉中，脉以血为形，芤脉中空，脱血之象也。《脉经》云：三部脉芤，长病得之生，卒病得之死。《脉诀》言：两头有，中间无，是脉断截矣。又言主淋沥、气入小肠。与失血之候相反，误世不小。\n〔体状诗〕芤形浮大软如葱，按之旁有中央空。火犯阳经血上溢，热侵阴络下流红。\n〔相类诗〕中空旁实乃为芤，浮大而迟虚脉呼。芤更带弦名曰革，血亡芤革血虚虚。\n〔主病诗〕寸芤积血在于胸，关内逢芤肠胃痈。尺部见之多下血，赤淋红痢漏崩中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 71,
+      "source_path": [
+        "芤（陽中陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "70c54b64df51d419b799b7f53dcbe9c1a709d8f61f2e872e58592377617152ed",
+      "content_sha256": "8a218fc205781c54514f3ccb60e64e8c912ae938b6147c493c2b22c380fd16bb",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 281,
+        "simplified_codepoints": 281
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "c05e7dfcc191f3692fdaf3ce",
+      "title": "弦（阳中阴）",
+      "volume": null,
+      "content": "弦脉，端直以长（《素问》），如张弓弦（《脉经》），按之不移，绰绰如按琴瑟弦（巢氏），状若筝弦（《脉诀》），从中直过，挺然指下（《刊误》）。弦脉在卦为震，在时为春，在人为肝。轻虚以滑者平，实滑如循长竿者病，劲急如新张弓弦者死。池氏曰：弦紧而数劲为太过，弦紧而细为不及。戴同父曰：弦而软，其病轻；弦而硬，其病重。《脉诀》言：时时带数，又言脉紧状绳牵。皆非弦象，今削之。\n〔体状诗〕弦脉迢迢端直长，肝经木旺土应伤。怒气满胸常欲叫，翳蒙瞳子泪淋浪。\n〔相类诗〕弦来端直似丝弦，紧则如绳左右弹。紧言其力弦言象，牢脉弦长沉伏间。（又见长脉）\n〔主病诗〕弦应东方肝胆经，饮痰寒热疟缠身。浮沉迟数须分别，大小单双有重轻。寸弦头痛膈多痰，寒热症瘕察左关。关右胃寒心腹痛，尺中阴疝脚拘挛。弦为木盛之病。浮弦支饮外溢，沉弦悬饮内痛。疟脉自弦，弦数多热，弦迟多寒。弦大主虚，弦细拘急。阳弦头痛，阴弦腹痛。单弦饮癖，双弦寒痼。若不食者，木来克土，必难治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "弦（陽中陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "9adcf408717e96defe304600e2a0e6eac7df4cf0ff4ad52f3f91c013a8f6618f",
+      "content_sha256": "64bfadf83d6cb27d51f34d937589ebb559d96f1e96857e45c6777be4667b759d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        77,
+        78,
+        79,
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 414,
+        "simplified_codepoints": 414
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "09c2d5d427e605a5a3c9f905",
+      "title": "革（阴）",
+      "volume": null,
+      "content": "革脉，弦而芤（仲景），如按鼓皮（丹溪）。仲景曰：弦则为寒，芤则为虚，虚寒相抟，此名曰革。男子亡血失精，妇人半产漏下。《脉经》曰：三部脉革，长病得之死，卒病得之生。时珍曰：此即芤弦二脉相合，故均主失血之候。诸家脉书，皆以为牢脉，故或有革无牢，有牢无革，混淆不辨。不知革浮牢沉，革虚牢实，形证皆异也。又按：《甲乙经》曰：浑浑革革，至如涌泉，病进而危；弊弊绰绰，其去如弦绝者死。谓脉来浑浊革变，急如涌泉，出而不反也。王贶以为溢脉，与此不同。\n〔体状主病诗〕革脉形如按鼓皮，芤弦相合脉寒虚。女人半产并崩漏，男子营虚或梦遗。\n〔相类诗〕见芤、牢。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 81,
+      "source_path": [
+        "革（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "f490aede474cea871f1e4a2df7afe885fc4bda8a62582fa67db54edc11265b63",
+      "content_sha256": "a6b410f5c3909287600beeb628c8cfd341da2dc0dedc6219ca43b841316c06d9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        82,
+        83,
+        84
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 268,
+        "simplified_codepoints": 268
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "501c6e2e83b036295bbcaaf2",
+      "title": "牢（阴中阳）",
+      "volume": null,
+      "content": "牢脉，似沉似伏，实大而长，微弦（《脉经》）。扁鹊曰：牢而长者，肝也。仲景曰：寒则牢坚，有牢固之象。沈氏曰：似沉似伏，牢之位也；实大弦长，牢之体也。《脉诀》不言形状，但云寻之则无，按之则有。云脉入皮肤辨息难，又以牢为死脉，皆孟浪谬误。\n〔体状相类诗〕弦长实大脉牢坚，牢位常居沉伏间。革脉芤弦自浮起，革虚牢实要详看。\n〔主病诗〕寒则牢坚里有余，腹心寒痛木乘脾。疝㿗症瘕何愁也，失血阴虚却忌之。牢主寒实之病，木实则为痛。扁鹊云：软为虚，牢为实。失血者，脉宜沉细，反浮大而牢者死，虚病见实脉也。《脉诀》言：骨间疼痛，气居于表。池氏以为肾传于脾，皆谬妄不经。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 85,
+      "source_path": [
+        "牢（陰中陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "b69ff7fcf5d7400fbfc7eb5b22cedca2c751f4b3ba9e6f0f91b7505551939790",
+      "content_sha256": "9489029c82af98337514346c95936da995c611e6b2a710cf4529af6dcb368ad6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        86,
+        87,
+        88
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 274,
+        "simplified_codepoints": 274
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "e031603e5981f0d496fcbfbe",
+      "title": "濡（阴，即软字）",
+      "volume": null,
+      "content": "濡脉，极软而浮细，如帛在水中，轻手相得，按之无有（《脉经》），如水上浮沤。帛浮水中，重手按之，随手而及之象。《脉诀》言：按之似有举还无，是微脉，非濡也。\n〔体状诗〕濡形浮细按须轻，水面浮绵力不禁。病后产中犹有药，平人若见是无根。\n〔相类诗〕浮而柔细知为濡，沉细诸柔作弱持。微则浮微如欲绝，细来沉细近于微。浮细如绵曰濡，沉细如绵曰弱，浮而极细如绝曰微，沉而极细不断曰细。\n〔主病诗〕濡为亡血阴虚病，髓海丹田暗已亏。汗雨夜来蒸入骨，血山崩倒湿侵脾。寸濡阳微自汗多，关中其奈气虚何。尺伤精血虚寒甚，温补真阴可起疴。濡主血虚之病，又为伤湿。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 89,
+      "source_path": [
+        "濡（陰，即軟字）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "627205aee34646d5c5b6bec9e6305ce8321f4d1ed4ece1ced435c581f785091c",
+      "content_sha256": "0d34b7b7c8d33ab5329901c8c8592f9436a6be776b22699dc1fd6dc874caf0fe",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        90,
+        91,
+        92,
+        93
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 266,
+        "simplified_codepoints": 266
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "f7a314a26e7f56d9ac7602a4",
+      "title": "弱（阴）",
+      "volume": null,
+      "content": "弱脉，极软而沉细，按之乃得，举手无有（《脉经》）。弱乃濡之干者。《脉诀》言：轻手乃得。黎氏譬如浮沤，皆是濡脉，非弱也。《素问》曰：脉弱以滑，是有胃气。脉弱以涩，是谓久病。病后老弱见之顺，平人少年见之逆。\n〔体状诗〕弱来无力按之柔，柔细而沉不见浮。阳陷入阴精血弱，白头犹可少年愁。\n〔相类诗〕见濡脉。\n〔主病诗〕弱脉阴虚阳气衰，恶寒发热骨筋痿。多惊多汗精神减，益气调营急早医。寸弱阳虚病可知，关为胃弱与脾衰。欲求阳陷阴虚病，须把神门两部推。弱主气虚之病。仲景曰：阳陷入阴，故恶寒发热。又云：弱主筋，沉主骨，阳浮阴弱，血虚筋急。柳氏曰：气虚则脉弱，寸弱阳虚，尺弱阴虚，关弱胃虚。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 94,
+      "source_path": [
+        "弱（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "28c2bc1bbc0243112118ab44df1583472e5891658ab0542ad2bd66bcf74ba989",
+      "content_sha256": "957cd1a4ea38ccc047410709e2ee5743ca18781f7355d4275777cee1d8a84d17",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        95,
+        96,
+        97,
+        98
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 287,
+        "simplified_codepoints": 287
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "9e45faabc5e0d79a92eaffa0",
+      "title": "散（阴）",
+      "volume": null,
+      "content": "散脉，大而散。有表无里（《脉经》），涣漫不收（崔氏），无统纪，无拘束，至数不齐，或来多去少，或去多来少。涣散不收，如杨花散漫之象（柳氏）。戴同父曰：心脉浮大而散，肺脉短涩而散，平脉也。心脉软散，怔忡；肺脉软散，汗出；肝脉软散，溢饮；脾脉软散，胻肿，病脉也。肾脉软散，诸病脉代散，死脉也。《难经》曰：散脉独见则危。柳氏曰：散为气血俱虚，根本脱离之脉，产妇得之生，孕妇得之堕。\n〔体状诗〕散似杨花散漫飞，去来无定至难齐。产为生兆胎为堕，久病逢之不必医。\n〔相类诗〕散脉无拘散漫然，濡来浮细水中绵。浮而迟大为虚脉，芤脉中空有两边。\n〔主病诗〕左寸怔忡右寸汗，溢饮左关应软散。右关软散胻肿，胕居两尺魂应断。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 99,
+      "source_path": [
+        "散（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "529fb41445663256bf0b6fba26a07e6b4b560b0f4c22321b66d8e48a8c8de0c9",
+      "content_sha256": "86e2241cd36455601c7a2f939b3070540e7750dad745d28c9465707c83cba2fc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        100,
+        101,
+        102,
+        103
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 299,
+        "simplified_codepoints": 299
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "26f8d2820aa99d3f0d70b46d",
+      "title": "细（阴）",
+      "volume": null,
+      "content": "细脉，小于微而常有，细直而软，若丝线之应指（《脉经》）。《素问》谓之小。王启玄言如莠蓬，状其柔细也。《脉诀》言：往来极微，是微反大于细矣，与《经》指背。\n〔体状诗〕细来累累细如丝，应指沉沉无绝期。春夏少年俱不利，秋冬老弱却相宜。\n〔相类诗〕见微、濡。\n〔主病诗〕细脉萦萦血气衰，诸虚劳损七情乖。若非湿气侵腰肾，即是伤精汗泄来。寸细应知呕吐频，入关腹胀胃虚形。尺逢定是丹田冷，泄痢遗精号脱阴。《脉经》曰：细为血少气衰。有此证则顺，否则逆。故吐衄得沉细者生。忧劳过度者，脉亦细。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 104,
+      "source_path": [
+        "細（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "d3f5a4294851a1d04d1742fb39c4f01857ca05f2a33cb011ffa9ab82cfa74d37",
+      "content_sha256": "d1a0af9fd6a33fe1302547ec0526bd67182cd572e212f7706a8960adbd0f26ec",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 237,
+        "simplified_codepoints": 237
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "ad209242e58ef7da254620b8",
+      "title": "伏（阴）",
+      "volume": null,
+      "content": "伏脉，重按著骨，指下裁动（《脉经》）。脉行筋下（《刊误》）。《脉诀》言：寻之似有，定息全无，殊为舛谬。\n〔体状诗〕伏脉推筋著骨寻，指间裁动隐然深。伤寒欲汗阳将解，厥逆脐疼证属阴。\n〔相类诗〕见沉脉。\n〔主病诗〕伏为霍乱吐频频，腹痛多缘宿食停。蓄饮老痰成积聚，散寒温里莫因循。食郁胸中双寸伏，欲吐不吐常兀兀。当关腹痛困沉沉，关后疝疼还破腹。伤寒，一手脉伏曰单伏，两手脉伏曰双伏，不可以阳证见阴为诊。乃火邪内郁，不得发越，阳极似阴，故脉伏，必有大汗而解。正如久旱将雨，六合阴晦，雨后庶物皆苏之义。又有夹阴伤寒，先有伏阴在内，外复感寒，阴盛阳衰，四脉厥逆，六脉沉伏，须投姜附及灸关元，脉乃复出也。若太溪、冲阳皆无脉者，必死。《脉诀》言：徐徐发汗。洁古以附子细辛麻黄汤主之，皆非也。刘元宾曰：伏脉不可发汗。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "伏（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "f9cbe1852d9ba20c90beb0aded82e17c7d26de9c571d19416d5184225a0520aa",
+      "content_sha256": "dae4662aa6605dc0561dd3f48b37cd9ac685ef631c51678afb3b8c3306e036f6",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 349,
+        "simplified_codepoints": 349
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "91d77abe4ba185fa04dc15b6",
+      "title": "动（阳）",
+      "volume": null,
+      "content": "动乃数脉，见于关上下，无头尾，如豆大，厥厥动摇。仲景曰：阴阳相搏名曰动，阳动则汗出，阴动则发热，形冷恶寒，此三焦伤也。成无己曰：阴阳相搏，则虚者动，故阳虚则阳动，阴虚则阴动。庞安常曰：关前三分为阳，后三分为阴，关位半阴半阳，故动随虚见。《脉诀》言：寻之似有，举之还无，不离其处，不往不来，三关沉沉。含糊谬妄，殊非动脉。詹氏言其形鼓动如钩、如毛者，尤谬。\n〔体状诗〕动脉摇摇数在关，无头无尾豆形团。其原本是阴阳搏，虚者摇兮胜者安。\n〔主病诗〕动脉专司痛与惊，汗因阳动热因阴。或为泄痢拘挛病，男子亡精女子崩。仲景曰：动则为痛为惊。《素问》曰：阴虚阳搏，谓之崩。又曰：妇人手少阴脉动甚者，妊子也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 114,
+      "source_path": [
+        "動（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "d016f5000b156e1f79043eb1e50d7e8ff76a0ccb108642730401c966b416ca7e",
+      "content_sha256": "53639507df021f0d745f0723397b0c4142517998bbe2a83e51ca4f3429a7d1ab",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        115,
+        116,
+        117
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 295,
+        "simplified_codepoints": 295
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "e7bf3da7fbebc3b7fd01a101",
+      "title": "促（阳）",
+      "volume": null,
+      "content": "促脉，来去数，时一止复来（《脉经》）。如蹶之趣，徐疾不常（黎氏）。《脉经》但言数而止为促，《脉诀》乃云：并居寸口，不言时止者，谬矣。数止为促，缓止为结，何独寸口哉！\n〔体状诗〕促脉数而时一止，此为阳极欲亡阴。三焦郁火炎炎盛，进必无生退可生。\n〔相类诗〕见代脉。\n〔主病诗〕促脉惟将火病医，其因有五细推之。时时喘咳皆痰积，或发狂斑与毒疽。促主阳盛之病。促、结之因，皆有气、血、痰、饮、食五者之别。一有留滞，则脉必见止也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 118,
+      "source_path": [
+        "促（陽）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "2304ea2f31652e0e2019a2740bb3cf966d5520f4cfd7b1c2d8abe2335ed2f88e",
+      "content_sha256": "57b7ced7ffbe97b5247abfd65ebad3fd5bec2cc0ab2ae40a800f8d10a732c0f1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        119,
+        120,
+        121,
+        122
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 209,
+        "simplified_codepoints": 209
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "2a76082ae4dad26b4fe3b516",
+      "title": "结（阴）",
+      "volume": null,
+      "content": "结脉，往来缓，时一止复来（《脉经》）。《脉诀》言：或来或去，聚而却还。与结无关。仲景有累累如循长竿曰阴结，蔼蔼如车盖曰阳结。《脉经》又有如麻子动摇，旋引旋收，聚散不常者曰结，主死。此三脉，名同实异也。\n〔体状诗〕结脉缓而时一止，独阴偏盛欲亡阳。浮为气滞沉为积，汗下分明在主张。\n〔相类诗〕见代脉。\n〔主病诗〕结脉皆因气血凝，老痰结滞苦沉吟。内生积聚外痈肿，疝瘕（假）为殃病属阴。结主阴盛之病。越人曰：结甚则积甚，结微则气微，浮结外有痛积，伏结内有积聚。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 123,
+      "source_path": [
+        "結（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "39b5b3ccaf058f954c509215e0300d5d9e43fc1acadbfacfd68b4e3dca73b500",
+      "content_sha256": "9844ca52faed1b6136cb40bc776b6e0df0b6f80fbbdd157407c3624c76620142",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        124,
+        125,
+        126,
+        127
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 226,
+        "simplified_codepoints": 226
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "91e5ddde26c8d34f3cdbba6c",
+      "title": "代（阴）",
+      "volume": null,
+      "content": "代脉，动而中止，不能自还，因而复动（仲景）。脉至还入尺，良久方来（吴氏）。脉一息五至，肺、心、脾、肝、肾五脏之气，皆足五十动而一息，合大衍之数，谓之平脉。反此则止乃见焉，肾气不能至，则四十动一止；肝气不能至，则三十动一止。盖一脏之气衰，而他脏之气代至也。《经》曰：代则气衰。滑伯仁曰：若无病，羸瘦脉代者，危脉也。有病而气血乍损，气不能续者，只为病脉。伤寒心悸脉代者，复脉汤主之，妊娠脉代者。其胎百日。代之生死，不可不辨。\n〔体状诗〕动而中止不能还，复动因而作代看。病者得之犹可疗，平人却与寿相关。\n〔相类诗〕数而时至名为促，缓止须将结脉呼。止不能回方是代，结生代死自殊涂。促、结之止无常数，或二动、三动，一止即来。代脉之止有常数，必依数而止，还入尺中，良久方来也。\n〔主病诗〕代脉元因脏气衰，腹痛泄痢下元亏。或为吐泻中宫病，女子怀胎三月兮。《脉经》曰：代散者死。生泄及便脓血。五十不止身无病，数内有止皆知定。四十一止一脏绝，四年之后多亡命。三十一止即三年，二十一止二年应。十动一止一年殂，更观气色兼形证。两动一止三四日，三四动止应六七。五六一止七八朝，次第推之自无失。戴同父曰：脉必满五十动，出自《难经》；而《脉诀》五脏歌，皆以四十五动为准，乖于经旨。柳东阳曰：古以动数候脉，是吃紧语。须候五十动，乃知五脏缺失。今人指到腕臂，即云见了。夫五十动，岂弹指间事耶？故学者当诊脉、问证、听声、观色，斯备四珍而无失。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 128,
+      "source_path": [
+        "代（陰）"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "a8455702df597423e8a2564a0a01766290573a1706391e25769f14ba7bd93dc8",
+      "content_sha256": "55efae8fab8e156ad56aa7949da351afef5f1ab23f2da0825418d798d892ee31",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        129,
+        130,
+        131,
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 604,
+        "simplified_codepoints": 604
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "7395634dc79a2be4a28d0796",
+      "title": "四言举要",
+      "volume": null,
+      "content": "脉乃血派 气血之先 血之隧道 气息应焉 其象法地 血之府也 心之合也皮之部也 资始于肾 资生于胃 阳中之阴 本乎营卫 营者阴血 卫者阳气 营行脉中 卫行脉外 脉不自行 随气而至 气动脉应 阴阳之谊 气如橐籥 血如波澜 血脉气息 上下循环 十二经中 皆有动脉 惟手太阴 寸口取决 此经属肺 上系吭嗌 脉之大会 息之出入 一呼一吸 四至为息 日夜一万 三千五百 一呼一吸 脉行六寸 日夜八百 十丈为准 初持脉时 令仰其掌 掌后高骨 是谓关上 关前为阳 关后为阴 阳寸阴尺 先后推寻 心肝居左 肺脾居右 肾与命门 居两尺部 魂魄谷神 皆见寸口 左主司官 右主司府 左大顺男 右大顺女 本命扶命 男左女右 关前一分 人命之主 左为人迎 右为气口 神门决断 两在关后 人无二脉 病死不愈 男女脉同 惟尺则异 阳弱阴盛 反此病至 脉有七诊 曰浮中沉 上下左右 消息求寻 又有九候 举按轻重 三部浮沉 各候五动 寸候胸上 关候膈下 尺候于脐 下至跟踝 左脉候左 右脉候右 病随所在 不病者否 浮为心肺 沉为肾肝 脾胃中州 浮沉之间 心脉之浮 浮大而散 肺脉之浮 浮涩而短 肝脉之沉 沉而弦长 肾脉之沉 沉实而濡 脾胃属土 脉宜和缓 命为相火 左寸同断 春弦夏洪 秋毛冬石 四季和缓 是谓平脉 太过实强 病生于外 不及虚微 病生于内 春得秋脉 死在金日 五脏准此 推之不失 四时百病 胃气为本 脉贵有神 不可不审 调停自气 呼吸定息 四至五至 平和之则 三至为迟 迟则为冷 六至为数 数即热证 转迟转冷 转数转热 迟数既明 浮沉当别 浮沉迟数 辨内外因 外因于天 内因于人 天有阴阳 风雨晦冥 人喜怒忧 思悲恐惊 外因之浮 则为表证 沉里迟阴 数则阳盛 内因之浮 虚风所为 沉气迟冷 数热何疑 浮数表热 沉数里热 浮迟表虚 沉迟冷结 表里阴阳 风气冷热 辨内外因 脉证参别 脉理浩繁 总括于四 既得提纲 引申触类 浮脉法天 轻手可得 泛泛在上 如水漂木 有力洪大 来盛去悠 无力虚大 迟而且柔 虚甚则散 涣漫不收 有边无中 其名曰芤 浮小为濡 绵浮水面 濡甚则微 不任寻按 沉脉法地 近于筋骨 深深在下 沉极为伏 有力为牢 实大弦长 牢甚则实 愊愊而强 无力为弱 柔小如绵 弱甚则细 如蛛丝然 迟脉属阴 一息三至 小快于迟 缓不及四 二损一败 病不可治 两息夺精 脉已无气 浮大虚散 或见芤革 浮小濡微 沉小细弱 迟细为涩 往来极难 易散一止 止而复还 结则来缓 止而复来 代则来缓 止不能回 数脉属阳 六至一息 七疾八极 九至为脱 浮大者洪 沉大牢实 往来流利 是谓之滑 有力为紧 弹如转索 数见寸口 有止为促 数见关中 动脉可候 厥厥动摇 状如小豆 长则气治 过于本位 长而端直 弦脉应指 短则气病 不能满部 不见于关 惟尺寸候 一脉一形 各有主病 数脉相兼 则见诸证 浮脉主表 里必不足 有力风热 无力血弱 浮迟风虚 浮数风热 浮紧风寒 浮缓风湿 浮虚伤暑 浮芤失血 浮洪虚火 浮微劳极 浮濡阴虚 浮散虚剧 浮弦痰饮 浮滑痰热 沉脉主里 主寒主积 有力痰食 无力气郁 沉迟虚寒 沉数热伏 沉紧冷痛 沉缓水蓄 沉牢痼冷 沉实热极 沉弱阴虚 沉细痹湿 沉弦饮痛 沉滑宿食 沉伏吐利 阴毒聚积 迟脉主脏 阳气伏潜 有力为痛 无力虚寒 数脉主腑 主吐主狂 有力为热 无力为疮 滑脉主痰 或伤于食 下为蓄血 上为吐逆 涩脉少血 或中寒湿 反胃结肠 自汗厥逆 弦脉主饮 病属胆肝 弦数多热 弦迟多寒 浮弦支饮 沉弦悬痛 阳弦头痛 阴弦腹痛 紧脉主寒 又主诸痛 浮紧表寒 沉紧里痛 长脉气平 短脉气病 细则气少 大则病进 浮长风痫 沉短宿食 血虚脉虚 气实脉实 洪脉为热 其阴则虚 细脉为湿 其血则虚 缓大者风 缓细者湿 缓涩血少 缓滑内热 濡小阴虚 弱小阳竭 阳竭恶寒 阴虚发热 阳微恶寒 阴微发热 男微虚损 女微泻血 阳动汗出 阴动发热 为痛与惊 崩中失血 虚寒相搏 其名为革 男子失精 女子失血 阳盛则促 肺痈阳毒 阴盛则结 疝瘕积郁 代则气衰 或泄脓血 伤寒心悸 女胎三月 脉之主病 有宜不宜 阴阳顺逆 凶吉可推 中风浮缓 急实则忌 浮滑中痰 沉迟中气 尸厥沉滑 卒不知人 入脏身冷 入腑身温 风伤于卫 浮缓有汗 寒伤于营 浮紧无汗 暑伤于气 脉虚身热 湿伤于血 脉缓细涩 伤寒热病 脉喜浮洪 沉微涩小 证反必凶 汗后脉静 身凉则安 汗后脉躁 热甚必难 阳病见阴 病必危殆 阴病见阳 虽困无害 上不至关 阴气已绝 下不至关 阳气已竭 代脉止歇 脏绝倾危 散脉无根 形损难医 饮食内伤 气口急滑 劳倦内伤 脾脉大弱 欲知是气 下手脉沉 沉极则伏 涩弱久深 火郁多沉 滑痰紧食 气涩血芤 数火细湿 滑主多痰 弦主留饮 热则滑数 寒则弦紧 浮滑兼风 沉滑兼气 食伤短疾 湿留濡细 疟脉自弦 弦数者热 弦迟者寒 代散者折 泄泻下痢 沉小滑弱 实大浮洪 发热则恶 呕吐反胃 浮滑者昌 弦数紧涩 结肠者亡 霍乱之候 脉代勿讶 厥逆迟微 是则可怕 咳嗽多浮 聚肺关胃 沉紧小危 浮濡易治 喘急息肩 浮滑者顺 沉涩肢寒 散脉逆证 病热有火 洪数可医 沉微无火 无根者危 骨蒸发热 脉数而虚 热而涩小 必殒其躯 劳极诸虚 浮软微弱 土败双弦 火炎急数 诸病失血 脉必见芤 缓小可喜 数大可忧 瘀血内蓄 却宜牢大 沉小涩微 反成其害 遗精白浊 微涩而弱 火盛阴虚 芤濡洪数 三消之脉 浮大者生 细小微涩 形脱可惊 小便淋閟 鼻头色黄 涩小无血 数大何妨 大便燥结 须分气血 阳数而实 阴迟而涩 癫乃重阴 狂乃重阳 浮洪吉兆 沉急凶殃 痫脉宜虚 实急者恶 浮阳沉阴 滑痰数热 喉痹之脉 数热迟寒 缠喉走马 微伏则难 诸风眩晕 有火有痰 左涩死血 右大虚看 头痛多弦 浮风紧寒 热洪湿细 缓滑厥痰 气虚弦软 血虚微涩 肾厥弦坚 真痛短涩 心腹之痛 其类有九 细迟从吉 浮大延久 疝气弦急 积聚在里 牢急者生 弱急者死 腰痛之脉 多沉而弦 兼浮者风 兼紧者寒 弦滑痰饮 濡细肾著 大乃肾虚 沉实闪肭 脚气有四 迟寒数热 浮滑者风 濡细者湿 痿病肺虚 脉多微缓 或涩或紧 或细或濡 风寒湿气 合而为痹 浮涩而紧 三脉乃备 五疸实热 脉必洪数 涩微属虚 切忌发渴 脉得诸沉 责其有水 浮气与风 沉石或里 沉数为阳 沉迟为阴 浮大出厄 虚小可惊 胀满脉弦 土制于木 湿热数洪 阴寒迟热 浮为虚满 紧则中实 浮大可治 虚小危极 五脏为积 六腑为聚 实强者生 沉细者死 中恶腹胀 紧细者生 脉若浮大 邪气已深 痈疽浮散 恶寒发热 若有痛处 痈疽所发 脉数发热 而痛者阳 不数不热 不疼阴疮 未溃痈疽 不怕洪大 已溃痈疽 洪大可怕 肺痈已成 寸数而实 肺痿之形 数而无力 肺痈色白 脉宜短涩 不宜浮大 唾糊呕血 肠痈实热 滑数可知 数而不热 关脉芤虚 微涩而紧 未脓当下 紧数脓成 切不可下 妇人之脉 以血为本 血旺易胎 气旺难孕 少阴动甚 谓之有子 尺脉滑利 妊娠可喜 滑疾不散 胎必三月 但疾不散 五月可别 左疾为男 右疾为女 女腹如箕 男腹如釜 欲产之脉 其至离经 水下乃产 未下勿惊 新产之脉 缓滑为吉 实大弦牢 有证则逆 小儿之脉 七至为平 更察色证 与虎口纹 奇经八脉 其诊又别 直上直下 浮则为督 牢则为冲 紧则任脉 寸左右弹 阳跷可决 尺左右弹 阴跷可别 关左右弹 带脉当诀 尺外斜上 至寸阴维 尺内斜上 至寸阳维 督脉为病 脊强癫痫 任脉为病 七疝瘕坚 冲脉为病 逆气里急 带主带下 脐痛精失 阳维寒热 目眩僵仆 阴维心痛 胸胁刺筑 阳跷为病 阳缓阴急 阴跷为病 阴缓阳急 癫痫瘛疭 寒热恍惚 八脉脉证 各有所属 平人无脉 移于外络 兄位弟乘 阳溪列缺 病脉既明 吉凶当别 经脉之外 又有真脉 肝绝之脉 循刀责责 心绝之脉 转豆躁疾 脾则雀啄 如屋之漏 如水之流 如杯之覆 肺绝如毛 无根萧索 麻子动摇 浮波之合 肾脉将绝 至如省客 来如弹石 去如解索 命脉将绝 虾游鱼翔 至如涌泉 绝在膀胱 真脉既形 胃已无气 参察色证 断之以臆",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+      "source_ordinal": 133,
+      "source_path": [
+        "四言舉要"
+      ],
+      "source_sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+      "original_sha256": "b367a667a9d62c1a28b7e4a7f07c5377477052fed96077b7ef3afdd38890e50c",
+      "content_sha256": "190da1e2ac358b66230500101ade4a6d2a97fa10d330557f1261e245cb16653f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        134
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 3298,
+        "simplified_codepoints": 3298
+      },
+      "order": 29
+    }
+  ]
+}

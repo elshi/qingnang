@@ -1,7 +1,21 @@
-<view class="personal-page"><personal-nav title="我的笔记" back="{{true}}" action="新建" bind:action="create" /><view class="personal-body">
-<view class="personal-search"><image src="/assets/personal/search.png" /><input value="{{keyword}}" placeholder="搜索标题或正文" bindinput="onSearch" maxlength="100" confirm-type="search" /><button wx:if="{{keyword}}" bindtap="clearSearch">清除</button></view>
-<view class="personal-tabs"><button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button></view>
-<button wx:if="{{hasDraft}}" class="draft-entry" bindtap="create">有一篇未完成的草稿，继续书写</button><view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
-<view wx:for="{{items}}" wx:key="key" class="note-row" data-key="{{item.key}}" bindtap="edit" bindlongpress="more" aria-role="button"><view class="personal-title">{{item.title}}</view><view class="note-excerpt">{{item.excerpt}}</view><view class="note-footer"><text>{{item.sourceLabel}}</text><text>{{item.dateLabel}}</text></view></view>
-<view wx:if="{{!items.length}}" class="personal-empty"><image src="/assets/personal/note.png" /><view class="personal-empty-title">{{keyword?'没有找到相关笔记':'暂无笔记'}}</view><view>{{keyword?'换个关键词再试试':'记下心得，让每一次阅读有所收获'}}</view><button class="personal-link" bindtap="create">写一篇笔记</button></view>
-</view></view>
+<view class="personal-page personal-list-page page-fade">
+  <custom-nav title="我的笔记"></custom-nav>
+  <view class="personal-search">
+    <image src="/assets/cases/search.png" mode="aspectFit" aria-hidden="true" />
+    <input value="{{keyword}}" placeholder="搜索标题或正文" bindinput="onSearch" maxlength="100" confirm-type="search" />
+    <button wx:if="{{keyword}}" bindtap="clearSearch">清除</button>
+  </view>
+  <view class="personal-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button>
+  </view>
+  <scroll-view class="personal-list-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
+    <view class="personal-body">
+      <view class="personal-result-head"><text>{{keyword ? '搜索结果' : '全部笔记'}}</text><button class="personal-list-action" bindtap="create">新建</button></view>
+      <button wx:if="{{hasDraft}}" class="draft-entry" bindtap="create">有一篇未完成的草稿，继续书写</button>
+      <view wx:if="{{syncError}}" class="personal-sync">{{syncError}}</view>
+      <view wx:for="{{items}}" wx:key="key" class="note-row pressable" data-key="{{item.key}}" bindtap="edit" bindlongpress="more" aria-role="button"><view class="personal-title">{{item.title}}</view><view class="note-excerpt">{{item.excerpt}}</view><view class="note-footer"><text>{{item.sourceLabel}}</text><text>{{item.dateLabel}}</text></view></view>
+      <view wx:if="{{!loggedIn}}" class="personal-empty"><image src="/assets/personal/note.png" /><view class="personal-empty-title">登录后查看我的笔记</view><button class="personal-link" bindtap="login">微信登录</button></view>
+      <view wx:elif="{{!items.length}}" class="personal-empty"><image src="/assets/personal/note.png" /><view class="personal-empty-title">{{keyword?'没有找到相关笔记':'暂无笔记'}}</view><view>{{keyword?'换个关键词再试试':'记下心得，让每一次阅读有所收获'}}</view><button class="personal-link" bindtap="create">写一篇笔记</button></view>
+    </view>
+  </scroll-view>
+</view>

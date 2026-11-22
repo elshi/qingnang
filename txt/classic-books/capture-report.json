@@ -1,0 +1,3043 @@
+{
+  "generated_at": "2026-11-21T14:47:52.680Z",
+  "index": {
+    "url": "https://jicheng.tw/tcm/book/index.html",
+    "final_url": "https://jicheng.tw/tcm/book/index.html",
+    "retrieved_at": "2026-11-21T14:42:26.518Z",
+    "etag": "W/\"6af4476d-1bd62\"",
+    "last_modified": "Wed, 11 Nov 2026 10:46:05 GMT",
+    "sha256": "764e6304ecaf5473a7cb8a85b9a9dae8ff01cbd11019d533531ffd15f4ddeb77",
+    "bytes": 114018,
+    "file": "raw/579e43c4bbe88e115bdedf36.html.gz"
+  },
+  "license": {
+    "url": "https://jicheng.tw/tcm/copyright.html",
+    "final_url": "https://jicheng.tw/tcm/copyright.html",
+    "retrieved_at": "2026-11-21T14:42:26.919Z",
+    "etag": "W/\"6af4476d-1fd8\"",
+    "last_modified": "Wed, 11 Nov 2026 10:46:05 GMT",
+    "sha256": "033c044d703cdbe7f90f51aa9e1c1b91c40a41d4ca6a4c5612ce2ec92a4dd229",
+    "bytes": 8152,
+    "file": "raw/0ebfd31f68eb2129ba3e67df.html.gz"
+  },
+  "books": [
+    {
+      "key": "suwen",
+      "name": "黄帝内经·素问",
+      "parts": [
+        {
+          "title": "黃帝內經素問",
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html",
+          "retrieved_at": "2026-11-21T14:42:27.773Z",
+          "etag": "W/\"6af44a45-e967c\"",
+          "last_modified": "Wed, 11 Nov 2026 10:58:13 GMT",
+          "sha256": "f5afa8aceef159cfd759690ec72695c56b203cb19cff6c2bad120a24359283c8",
+          "bytes": 956028,
+          "file": "raw/fb059fcce628e68524b2b81d.html.gz",
+          "metadata": {
+            "作者": "佚名，唐·王冰次",
+            "朝代": "戰國至西漢",
+            "年份": "公元前475年至公元9年",
+            "底本": "明嘉靖間刻本（美國國會圖書館藏本）",
+            "品質": "2%"
+          },
+          "heading_count": 108,
+          "first_headings": [
+            "序",
+            "序",
+            "卷第一",
+            "上古天真論篇第一"
+          ],
+          "last_headings": [
+            "陰陽類論篇第七十九",
+            "方盛衰論篇第八十",
+            "解精微論篇第八十一",
+            "後序"
+          ],
+          "edition_links": [
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402769"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F/index.html"
+        }
+      ]
+    },
+    {
+      "key": "lingshu",
+      "name": "黄帝内经·灵枢",
+      "parts": [
+        {
+          "title": "靈樞",
+          "url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E/index.html",
+          "retrieved_at": "2026-11-21T14:42:28.523Z",
+          "etag": "W/\"6af8afb6-aae06\"",
+          "last_modified": "Sat, 14 Nov 2026 19:00:06 GMT",
+          "sha256": "c410d219f7992402f0662c7f2db697d1c7be3b6df354cd895543935b136e6a84",
+          "bytes": 699910,
+          "file": "raw/7c1707b3d0042bbc2a7b8758.html.gz",
+          "metadata": {
+            "朝代": "春秋戰國",
+            "作者": "佚名",
+            "底本": "明趙府居敬堂刊本（國家圖書館掃描本）；《四部叢刊初編·靈樞𦀰》，景明趙府居敬堂刊本（掃描本）；明嘉靖庚戌（二十九年，1550）武陵顧從德覆宋刊本（國家圖書館掃描本）；《靈樞𦀰》，1936年上海中華書局據醫統本校刊（國家圖書館掃描本：1、2）；《欽定四庫全書·子部五·醫家類·靈樞經》，文淵閣本（漢リポ掃描及文字化本）。電子文本整理自行政院中醫藥委員會94年文本CM018。"
+          },
+          "heading_count": 83,
+          "first_headings": [
+            "九鍼十二原第一",
+            "本輸第二",
+            "小鍼解第三",
+            "邪氣藏府病形第四"
+          ],
+          "last_headings": [
+            "九鍼論第七十八",
+            "歲露論第七十九",
+            "大惑論第八十",
+            "癰疽第八十一"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=6a063265269341a5979e0bc9bf78083cfDcyMTA30.VDQTMRMjQnNZUryxM7z0LUrd_FXDk_veinxcqFieTR4_&SourceID=0"
+            },
+            {
+              "label": "掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=77416"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=a9bddd53bda14bcd9b8dad410cec80ebfDE5ODI5Mg2.s3hX_HuTI8ypVEiYzFCLMOIRDmDl1CZBADVlIH5ZxNI_&SourceID=0"
+            },
+            {
+              "label": "1",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-002452039"
+            },
+            {
+              "label": "2",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-002452040"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0002/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%9D%88%E6%A8%9E/index.html"
+        }
+      ]
+    },
+    {
+      "key": "nanjing",
+      "name": "难经",
+      "parts": [
+        {
+          "title": "難經本義",
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%9C%AC%E7%BE%A9/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%9C%AC%E7%BE%A9/index.html",
+          "retrieved_at": "2026-11-21T14:45:37.045Z",
+          "etag": "W/\"6af44a16-68c9b\"",
+          "last_modified": "Wed, 11 Nov 2026 10:57:26 GMT",
+          "sha256": "9a4a27def6b1fb7f8dfe3bd2fbd6368a8646679de80a4f3f43b661f917682c3d",
+          "bytes": 429211,
+          "file": "raw/196b2619396af920bd017dda.html.gz",
+          "metadata": {
+            "作者": "滑壽",
+            "朝代": "元",
+            "年份": "公元1361年",
+            "底本": "日本寛永10年刊本（京都大學掃描本）；《欽定四庫全書·子部五·醫家類·難經本義》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 8,
+          "first_headings": [
+            "序",
+            "序",
+            "序",
+            "凡例"
+          ],
+          "last_headings": [
+            "闕誤總類",
+            "難經匯考",
+            "上卷",
+            "下卷"
+          ],
+          "edition_links": [
+            {
+              "label": "京都大學掃描本",
+              "url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00022829"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0004/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%9B%A3%E7%B6%93%E6%9C%AC%E7%BE%A9/index.html"
+        }
+      ]
+    },
+    {
+      "key": "shanghanlun",
+      "name": "伤寒论",
+      "parts": [
+        {
+          "title": "傷寒論（宋本）",
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+          "retrieved_at": "2026-11-21T14:42:29.702Z",
+          "etag": "W/\"6af8af50-ada4e\"",
+          "last_modified": "Sat, 14 Nov 2026 18:58:24 GMT",
+          "sha256": "fb02503bc9323eea9ca377603ffb5de61defa8bb212c4fb1e6b97ac2c5635f72",
+          "bytes": 711246,
+          "file": "raw/74324ea34b1b1517a97059fe.html.gz",
+          "metadata": {
+            "作者": "張機",
+            "朝代": "東漢",
+            "年份": "公元25年至公元220年",
+            "品質": "65%",
+            "底本": "《仲景全書·傷寒論》，明萬曆二十七年趙開美刊本（國立中央圖書館典藏國立北平圖書館善本：平圖011603–011604）；日本安政三年覆刊明萬曆間趙開美本（故宮善本：故觀003364–003367）；日本鈔本（國家圖書館掃描本）；舊鈔本（國家圖書館掃描本）"
+          },
+          "heading_count": 34,
+          "first_headings": [
+            "林億校序",
+            "張仲景原序",
+            "卷第一",
+            "辨脈法第一"
+          ],
+          "last_headings": [
+            "辨不可下病脈證並治第二十",
+            "辨可下病脈證並治第二十一",
+            "卷第十",
+            "辨發汗吐下後脈證並治第二十二"
+          ],
+          "edition_links": [
+            {
+              "label": "國立中央圖書館典藏國立北平圖書館善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/4076997z8=b=J"
+            },
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407700Fw7xCAN"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=e668c4ba9def4310bd6fce38d33333c3fDcyMTI40&SourceID=0"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=cdb6175100b64d5f9f3fa37532fe91c8fDcyMTI30&SourceID=0"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html"
+        }
+      ]
+    },
+    {
+      "key": "jinguiyaolue",
+      "name": "金匮要略",
+      "parts": [
+        {
+          "title": "金匱要略方論",
+          "url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:42:30.298Z",
+          "etag": "W/\"6af8afb3-7cbfa\"",
+          "last_modified": "Sat, 14 Nov 2026 19:00:03 GMT",
+          "sha256": "5de9f9492e6c2c94cb5ab5713ade2da3535736bbb17118a5d0aaf89671cc1d26",
+          "bytes": 510970,
+          "file": "raw/b2f5741d6d04718b733c43a9.html.gz",
+          "metadata": {
+            "作者": "張機",
+            "朝代": "漢",
+            "年份": "公元219年",
+            "品質": "90%",
+            "底本": "《仲景全書·金匱要畧方論》，明萬曆二十七年趙開美刊本（國立中央圖書館典藏國立北平圖書館善本：平圖011607）；《四部叢刊初編·新編金匱要畧方論》，景明刊古今醫統正脈本（掃描本）；《金匱要畧》，上海中華書局據醫統本校刊（國家圖書館掃描本）；日本武村新兵衛刊本（故宮善本：故觀003423–003425）；《四部叢刊·新編金匱要畧方論》（漢リポ文字化本）"
+          },
+          "heading_count": 37,
+          "first_headings": [
+            "金匱要略方論序",
+            "臟腑經絡先後病脈證第一",
+            "痙濕暍病脈證並治第二",
+            "百合病狐惑陰陽毒病脈證並治第三"
+          ],
+          "last_headings": [
+            "婦人雜病脈證并治第二十二",
+            "雜療方第二十三",
+            "禽獸魚蟲禁忌并治第二十四",
+            "果實菜穀禁忌并治第二十五"
+          ],
+          "edition_links": [
+            {
+              "label": "國立中央圖書館典藏國立北平圖書館善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407727fQUQN11"
+            },
+            {
+              "label": "掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=77418"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-9910010215"
+            },
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/4077289W=vqD="
+            },
+            {
+              "label": "漢リポ文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0007/SBCK/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E6%96%B9%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "shennongbencaojing",
+      "name": "神农本草经",
+      "parts": [
+        {
+          "title": "神農本草經",
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html",
+          "retrieved_at": "2026-11-21T14:42:30.930Z",
+          "etag": "W/\"6af4490b-e0e2b\"",
+          "last_modified": "Wed, 11 Nov 2026 10:52:59 GMT",
+          "sha256": "a4c4a36fb4a5f2b14a067cf3d8d441e8f17abee02335de01ae8f11d9a491d317",
+          "bytes": 921131,
+          "file": "raw/9801b3be29bcb3cf520198e7.html.gz",
+          "metadata": {
+            "作者": "佚名，清·孫星衍、孫馮翼輯",
+            "朝代": "秦漢",
+            "底本": "《問經堂叢書》本（掃描本）"
+          },
+          "heading_count": 390,
+          "first_headings": [
+            "邵序",
+            "張序",
+            "孫序",
+            "周序"
+          ],
+          "last_headings": [
+            "果，下部",
+            "菜，上部",
+            "米，上部",
+            "米，中部"
+          ],
+          "edition_links": [
+            {
+              "label": "掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=81440"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93/index.html"
+        }
+      ]
+    },
+    {
+      "key": "bencaogangmu",
+      "name": "本草纲目",
+      "parts": [
+        {
+          "title": "本草綱目",
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html",
+          "retrieved_at": "2026-11-21T14:42:33.744Z",
+          "etag": "W/\"6af8af83-10797f8\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:15 GMT",
+          "sha256": "20bfeca757391475776e91c4356a6bf3c04500959334b9b0f495e0ac61664b09",
+          "bytes": 17274872,
+          "file": "raw/c66d7033bf7392082be1c291.html.gz",
+          "metadata": {
+            "作者": "李時珍",
+            "朝代": "明",
+            "年份": "公元1578年（明·萬曆六年）",
+            "底本": "清順治十二年錢塘吳毓昌刻本（美國國會圖書館藏本）；日本寬文十二年（1672）刊本（國家圖書館掃描本）；《精校本草綱目》，1916年鴻寶齋書局印行（國家圖書館掃描本：1、2、3、4、5、6、7、8、9、2、10）；《欽定四庫全書·子部五·醫家類·本草綱目》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 1988,
+          "first_headings": [
+            "《本草綱目》原序",
+            "進《本草綱目》疏",
+            "《本草綱目》凡例",
+            "序例第一卷上"
+          ],
+          "last_headings": [
+            "人肉",
+            "木乃伊",
+            "方民",
+            "人傀"
+          ],
+          "edition_links": [
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402594"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=ab2d593e2bda468d98d8d42c69c83e6cfDcyNDI00._gjlxwwJOEdHf6NZM5efcPvqlUc4D25Pw6RRPpvRW6o_&SourceID=0"
+            },
+            {
+              "label": "1",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003306"
+            },
+            {
+              "label": "2",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003307"
+            },
+            {
+              "label": "3",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003308"
+            },
+            {
+              "label": "4",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003309"
+            },
+            {
+              "label": "5",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003310"
+            },
+            {
+              "label": "6",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003311"
+            },
+            {
+              "label": "7",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003312"
+            },
+            {
+              "label": "8",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003313"
+            },
+            {
+              "label": "9",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003314"
+            },
+            {
+              "label": "2",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003315"
+            },
+            {
+              "label": "10",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003306"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0079/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE/index.html"
+        }
+      ]
+    },
+    {
+      "key": "bencaobeiyao",
+      "name": "本草备要",
+      "parts": [
+        {
+          "title": "本草備要",
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html",
+          "retrieved_at": "2026-11-21T14:42:40.756Z",
+          "etag": "W/\"6af4489b-11d441\"",
+          "last_modified": "Wed, 11 Nov 2026 10:51:07 GMT",
+          "sha256": "b88b8568605d4b4bf229b756972e4249faa86b73b4a1224c4bced2e9babd8c2c",
+          "bytes": 1168449,
+          "file": "raw/c0f23ff46933a0f8a60e32c0.html.gz",
+          "metadata": {
+            "作者": "汪昂",
+            "朝代": "清",
+            "年份": "公元1694年",
+            "底本": "《增批本草備要》，1947年廣益書局刊行（國家圖書館掃描本）"
+          },
+          "heading_count": 495,
+          "first_headings": [
+            "陳序",
+            "童序",
+            "自序",
+            "增補本草備要自序"
+          ],
+          "last_headings": [
+            "秋石",
+            "人中黃",
+            "糞清",
+            "人中白"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900014611"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%9C%AC%E8%8D%89%E5%82%99%E8%A6%81/index.html"
+        }
+      ]
+    },
+    {
+      "key": "bencaocongxin",
+      "name": "本草从新",
+      "parts": [
+        {
+          "title": "本草從新",
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%9E%E6%96%B0/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%BE%9E%E6%96%B0/index.html",
+          "retrieved_at": "2026-11-21T14:42:41.541Z",
+          "etag": "W/\"6af448a6-17215b\"",
+          "last_modified": "Wed, 11 Nov 2026 10:51:18 GMT",
+          "sha256": "434d707798c2e4356d3b9c00c3aa925a2b4ea1f861de8273912915c7d66efd3a",
+          "bytes": 1515867,
+          "file": "raw/ce4d69bf6bd22e685d93c93d.html.gz",
+          "metadata": {
+            "作者": "吳儀洛",
+            "朝代": "清",
+            "年份": "公元1757年",
+            "底本": "北京大學圖書館掃描本"
+          },
+          "heading_count": 739,
+          "first_headings": [
+            "原序",
+            "本草從新凡例",
+            "藥性總義",
+            "卷一　草部"
+          ],
+          "last_headings": [
+            "初生臍帶",
+            "人胞",
+            "人骨",
+            "跋"
+          ],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2680"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%9C%AC%E8%8D%89%E5%BE%9E%E6%96%B0/index.html"
+        }
+      ]
+    },
+    {
+      "key": "bencaoqiuzhen",
+      "name": "本草求真",
+      "parts": [
+        {
+          "title": "本草求真",
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%B1%82%E7%9C%9F/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%B1%82%E7%9C%9F/index.html",
+          "retrieved_at": "2026-11-21T14:42:42.473Z",
+          "etag": "W/\"6af448ad-1d0908\"",
+          "last_modified": "Wed, 11 Nov 2026 10:51:25 GMT",
+          "sha256": "7f21d0cfd13c80403b22cea119672d4652a68feb463a3d2d98ff2eaa44185581",
+          "bytes": 1902856,
+          "file": "raw/c74e36b602765fb3fa364182.html.gz",
+          "metadata": {
+            "作者": "黃宮繡",
+            "朝代": "清",
+            "年份": "公元1769年",
+            "底本": "北京大學圖書館掃描本"
+          },
+          "heading_count": 590,
+          "first_headings": [
+            "凡例",
+            "上編",
+            "卷一　補劑",
+            "溫中"
+          ],
+          "last_headings": [
+            "積",
+            "痛",
+            "消渴",
+            "卷十　總義"
+          ],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2725"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%9C%AC%E8%8D%89%E6%B1%82%E7%9C%9F/index.html"
+        }
+      ]
+    },
+    {
+      "key": "bencaogangmushiyi",
+      "name": "本草纲目拾遗",
+      "parts": [
+        {
+          "title": "本草綱目拾遺",
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%8B%BE%E9%81%BA/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%8B%BE%E9%81%BA/index.html",
+          "retrieved_at": "2026-11-21T14:42:43.422Z",
+          "etag": "W/\"6af448bf-1ec4c9\"",
+          "last_modified": "Wed, 11 Nov 2026 10:51:43 GMT",
+          "sha256": "2e125e0d51fcf03fdd8759c58530caa7fbc457a5cb7172a917dddfa6ab406979",
+          "bytes": 2016457,
+          "file": "raw/49b8c1f10da9cac7212e6051.html.gz",
+          "metadata": {
+            "作者": "趙學敏",
+            "朝代": "清",
+            "年份": "公元1765年",
+            "底本": "清抄本（美國國會圖書館藏本）；北京大學圖書館掃描本"
+          },
+          "heading_count": 909,
+          "first_headings": [
+            "本草綱目拾遺小序",
+            "卷一",
+            "水部",
+            "春水"
+          ],
+          "last_headings": [
+            "人蚜",
+            "虹蟲",
+            "本草綱目拾遺跋",
+            "利濟十二種總序"
+          ],
+          "edition_links": [
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402163"
+            },
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2700"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%9C%AC%E8%8D%89%E7%B6%B1%E7%9B%AE%E6%8B%BE%E9%81%BA/index.html"
+        }
+      ]
+    },
+    {
+      "key": "qianjinyaofang",
+      "name": "备急千金要方",
+      "parts": [
+        {
+          "title": "備急千金要方",
+          "url": "https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html",
+          "retrieved_at": "2026-11-21T14:42:44.741Z",
+          "etag": "W/\"6af8af4f-3d792c\"",
+          "last_modified": "Sat, 14 Nov 2026 18:58:23 GMT",
+          "sha256": "98a43bd6277f80dc9ab0392eb03dfef48b543597353d2416cdce92de7e64e161",
+          "bytes": 4028716,
+          "file": "raw/7306df66335cdfbfc1a0e1a0.html.gz",
+          "metadata": {
+            "作者": "孫思邈",
+            "朝代": "唐",
+            "年份": "公元652年（唐·永微三年）",
+            "底本": "《重刊孫真人備急千金要方》，元刊黑口十二行本（故宮善本：故觀000238–000247）；《孫真人備急千金要方》，明嘉靖二十二年（1543）耀州喬世寧小丘山房刊本（國家圖書館掃描本）；《正統道藏·孫真人備急千金要方》，涵芬樓版（漢リポ掃描及文字化本）；《欽定四庫全書·子部五·醫家類·備急千金要方》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 1825,
+          "first_headings": [
+            "《備急千金要方》序",
+            "卷一　諸論",
+            "論大醫習業第一",
+            "論大醫精誠第二"
+          ],
+          "last_headings": [
+            "㿗疝病",
+            "雜病第七",
+            "婦人病第八",
+            "小兒病第九"
+          ],
+          "edition_links": [
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407697p1WATVu"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=d49432652dd54f458de15e813af3baccfDcyMzI40.izXIAh_YUMDefTgs3LmfD5D3PEsy2D_8FIMZbtLYarE_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR5e0065/HFL/"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0013/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%82%99%E6%80%A5%E5%8D%83%E9%87%91%E8%A6%81%E6%96%B9/index.html"
+        }
+      ]
+    },
+    {
+      "key": "qianjinyifang",
+      "name": "千金翼方",
+      "parts": [
+        {
+          "title": "千金翼方",
+          "url": "https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E7%BF%BC%E6%96%B9/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E7%BF%BC%E6%96%B9/index.html",
+          "retrieved_at": "2026-11-21T14:42:46.613Z",
+          "etag": "W/\"6af447c1-30d8e8\"",
+          "last_modified": "Wed, 11 Nov 2026 10:47:29 GMT",
+          "sha256": "72905681aa2a274477fc6d5bb8360330f229f091e08e41e7052be9482a1d797a",
+          "bytes": 3201256,
+          "file": "raw/bbe234d34e771a11b09d95b7.html.gz",
+          "metadata": {
+            "作者": "孫思邈",
+            "朝代": "唐",
+            "年份": "公元682年",
+            "底本": "清同治戊辰7年掃葉山房藏板（香港中文大學圖書館掃描本）"
+          },
+          "heading_count": 2018,
+          "first_headings": [
+            "序",
+            "校正千金翼方後序",
+            "卷第一·藥錄纂要",
+            "採藥時節第一"
+          ],
+          "last_headings": [
+            "禁狗鼠第十九",
+            "護身禁法第二十",
+            "禁賊盜第二十一",
+            "咒童子令說鬼姓字第二十二"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-586896"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%8D%83%E9%87%91%E7%BF%BC%E6%96%B9/index.html"
+        }
+      ]
+    },
+    {
+      "key": "waitaimiyao",
+      "name": "外台秘要",
+      "parts": [
+        {
+          "title": "外臺秘要",
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html",
+          "retrieved_at": "2026-11-21T14:42:48.345Z",
+          "etag": "W/\"6af8af61-5714fa\"",
+          "last_modified": "Sat, 14 Nov 2026 18:58:41 GMT",
+          "sha256": "ac8383a60c72b6485e9d0348cb205e2ce67a3eff1834aa6c54ab942a154edeaf",
+          "bytes": 5707002,
+          "file": "raw/f00b46fe76cc414ca45ca6c8.html.gz",
+          "metadata": {
+            "作者": "王燾",
+            "朝代": "唐",
+            "年份": "公元752年（唐·天寶十一年）",
+            "底本": "明崇禎庚辰（十三年，1640）新氏程氏經餘居刊本（國家圖書館掃描本）；日本嘉永六年影鈔宋紹興間兩浙東路茶鹽司本（故宮善本：故觀000283–000323）；《欽定四庫全書·子部五·醫家類·外臺秘要方》，文淵閣本（漢リポ掃描及文字化本）。電子文本整理自行政院中醫藥委員會94年文本CM092。"
+          },
+          "heading_count": 1132,
+          "first_headings": [
+            "重刻《外臺秘要方》序",
+            "重刻《外臺秘要》序",
+            "《外臺秘要》序",
+            "自序"
+          ],
+          "last_headings": [
+            "馬汗及毛入人瘡中方六首",
+            "牛狗疾方六首",
+            "牛牴觸腸出方一首",
+            "油衣黏及松脂著人衣蟲蝕毯韉法五首"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=174043f944764f7b9e3232189dc7f0aafDcyMzMy0.ui41NNxdObkrYACfarc5CGlv7G5amPi_hTGhyCxMiX0_&SourceID=0"
+            },
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407704XWoiBFl"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0015/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%A4%96%E8%87%BA%E7%A7%98%E8%A6%81/index.html"
+        }
+      ]
+    },
+    {
+      "key": "zhouhoubeijifang",
+      "name": "肘后备急方",
+      "parts": [
+        {
+          "title": "肘後備急方",
+          "url": "https://jicheng.tw/tcm/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html",
+          "retrieved_at": "2026-11-21T14:42:50.816Z",
+          "etag": "W/\"6af8af9b-f619e\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:39 GMT",
+          "sha256": "d5aafe57e1e44ed4670289c1a9f69a53cd4b2c9193b534bbc054627a91e85604",
+          "bytes": 1008030,
+          "file": "raw/b88017728e134361bbbc5f43.html.gz",
+          "metadata": {
+            "作者": "葛洪",
+            "朝代": "東晉",
+            "年份": "公元341年",
+            "底本": "原刊道藏輯要本（國家圖書館掃描本）；《欽定四庫全書·子部五·醫家類·肘後備急方》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 82,
+          "first_headings": [
+            "《葛洪肘後備急方》序",
+            "《葛洪肘後備急方》序",
+            "華陽隱居《補闕肘後百一方》序",
+            "鹿鳴山續古序"
+          ],
+          "last_headings": [
+            "治卒飲酒大醉諸病方第七十一",
+            "卷八",
+            "治百病備急丸散膏諸要方第七十二",
+            "治牛馬六畜水穀疫癘諸病方第七十三"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=0a1e848b344c45d893a3fbe0a0955cb6fDcyMzI20.4Lf2DgO8cisIVd0XVKt1U9rCO98JSZAn4WVKHFChFNQ_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0010/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E8%82%98%E5%BE%8C%E5%82%99%E6%80%A5%E6%96%B9/index.html"
+        }
+      ]
+    },
+    {
+      "key": "hejijufang",
+      "name": "太平惠民和剂局方",
+      "parts": [
+        {
+          "title": "太平惠民和劑局方",
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9/index.html",
+          "retrieved_at": "2026-11-21T14:42:51.529Z",
+          "etag": "W/\"6af8af62-181d30\"",
+          "last_modified": "Sat, 14 Nov 2026 18:58:42 GMT",
+          "sha256": "b4d8fa0f315cec60b8f032adecafe0e2d7b122f3abfec36ea7c03f7fd1840d89",
+          "bytes": 1580336,
+          "file": "raw/51c0471e5433bece28149bac.html.gz",
+          "metadata": {
+            "作者": "太平惠民和劑局",
+            "朝代": "宋",
+            "年份": "公元1078年至1085年（初刊於宋·元豐年間）",
+            "底本": "元大德八年余志安勤有堂刊本（故宮善本：故觀000248–000257）；加拿大多倫多大學圖書館藏本；《欽定四庫全書·子部五·醫家類·太平惠民和劑局方》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 922,
+          "first_headings": [
+            "進表",
+            "卷之一",
+            "治諸風",
+            "至寶丹"
+          ],
+          "last_headings": [
+            "論瀉痢證候",
+            "論癰疽諸證",
+            "論婦人諸疾",
+            "論小兒諸疾"
+          ],
+          "edition_links": [
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407705mSSWl=H"
+            },
+            {
+              "label": "加拿大多倫多大學圖書館藏本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=448de0dde2a642deb66bd6dfd5a821d5fDcwODUxMw2.dYTuHk8jgnbGEdyPHSJqVB1V81A00obql0EueTFMREU_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0033/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%A4%AA%E5%B9%B3%E6%83%A0%E6%B0%91%E5%92%8C%E5%8A%91%E5%B1%80%E6%96%B9/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yifangjijie",
+      "name": "医方集解",
+      "parts": [
+        {
+          "title": "醫方集解",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html",
+          "retrieved_at": "2026-11-21T14:42:52.411Z",
+          "etag": "W/\"6af449cd-1b5d0d\"",
+          "last_modified": "Wed, 11 Nov 2026 10:56:13 GMT",
+          "sha256": "1d3f6a0047d2ef7f2ab79a4f9a66dd2e17cab6490d037c0f496d20c18a27d65d",
+          "bytes": 1793293,
+          "file": "raw/3b8ff2f66ba258e7bcc79e24.html.gz",
+          "metadata": {
+            "作者": "汪昂",
+            "朝代": "清",
+            "年份": "公元1682年",
+            "底本": "清光緒5年掃葉山房刻本（香港中文大學圖書館掃描本）"
+          },
+          "heading_count": 450,
+          "first_headings": [
+            "自序",
+            "凡例",
+            "補養之劑第一",
+            "六味地黃丸"
+          ],
+          "last_headings": [
+            "風寒傷",
+            "濕傷",
+            "飲食傷",
+            "色欲傷"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-466527"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E6%96%B9%E9%9B%86%E8%A7%A3/index.html"
+        }
+      ]
+    },
+    {
+      "key": "tangtougejue",
+      "name": "汤头歌诀",
+      "parts": [
+        {
+          "title": "湯頭歌訣",
+          "url": "https://jicheng.tw/tcm/book/%E6%B9%AF%E9%A0%AD%E6%AD%8C%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%B9%AF%E9%A0%AD%E6%AD%8C%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:42:53.145Z",
+          "etag": "W/\"6af448d5-4fff8\"",
+          "last_modified": "Wed, 11 Nov 2026 10:52:05 GMT",
+          "sha256": "fd957ca5355e5e597f19a56164e19b4e0b8f3075bb76ac65cb2a2ecddf75da69",
+          "bytes": 327672,
+          "file": "raw/13156487313c5f8aa48efec6.html.gz",
+          "metadata": {
+            "作者": "汪昂",
+            "朝代": "清",
+            "年份": "公元1692年",
+            "底本": "《重校湯頭歌訣》，1946年廣益書局刊行（國家圖書館掃描本）",
+            "品質": "25%"
+          },
+          "heading_count": 230,
+          "first_headings": [
+            "敘",
+            "凡例",
+            "補益之劑",
+            "四君子湯"
+          ],
+          "last_headings": [
+            "骨灰固齒",
+            "軟腳散",
+            "小兒稀痘方",
+            "稀痘神"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900014614"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%B9%AF%E9%A0%AD%E6%AD%8C%E8%A8%A3/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yifangkao",
+      "name": "医方考",
+      "parts": [
+        {
+          "title": "醫方考",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E8%80%83/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E8%80%83/index.html",
+          "retrieved_at": "2026-11-21T14:42:54.035Z",
+          "etag": "W/\"6af8afac-12f7f1\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:56 GMT",
+          "sha256": "d2d68e6fa2b71406e2a0ab03b527954c1b4b58b9ab7fdb5d7801df00a5ac5655",
+          "bytes": 1243121,
+          "file": "raw/c7d80d4224de182177005312.html.gz",
+          "metadata": {
+            "作者": "吳昆",
+            "朝代": "明",
+            "年份": "公元1584年",
+            "底本": "明萬曆乙酉（十三年，1585）歙縣汪躍德等刊本（國家圖書館掃描本）；明萬曆12年光啟堂刻本（美國國會圖書館藏本）"
+          },
+          "heading_count": 850,
+          "first_headings": [
+            "序",
+            "卷一",
+            "中風門第一",
+            "烏梅擦牙關方"
+          ],
+          "last_headings": [
+            "去母水方",
+            "自溺",
+            "玄黃丹",
+            "鹿䘒鹿血鹿角膠鹿茸麋茸豬脊髓總考"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=bd053368cb3740a283305067770fdaf2fDcyMzky0.Pf3tB674qRg5nuYSf3nYWz1uAycJ81nzTx_6rbU52Do_&SourceID=0"
+            },
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402241"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E6%96%B9%E8%80%83/index.html"
+        }
+      ]
+    },
+    {
+      "key": "maijing",
+      "name": "脉经",
+      "parts": [
+        {
+          "title": "脈經",
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%B6%93/index.html",
+          "retrieved_at": "2026-11-21T14:42:54.757Z",
+          "etag": "W/\"6af8af9c-ccfca\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:40 GMT",
+          "sha256": "659a85b71fcd2442eacbc1391adc83f28b9bf10edb30a81a2c9cc20fe1ef981b",
+          "bytes": 839626,
+          "file": "raw/a22d4b1bcf53f69d8052e136.html.gz",
+          "metadata": {
+            "作者": "王叔和",
+            "朝代": "西晉",
+            "年份": "公元280年",
+            "底本": "影鈔宋嘉定刊小字本（國家圖書館掃描本）；《四部叢刊·新刊王氏脈經》，景元廣勤書堂刊本（掃描本、漢リポ文字化本）；《脈經》，1935年上海商務印書館發行本（國家圖書館掃描本：1、2）"
+          },
+          "heading_count": 111,
+          "first_headings": [
+            "序",
+            "卷一",
+            "脈形狀指下秘決第一（二十四種）",
+            "平脈早晏法第二"
+          ],
+          "last_headings": [
+            "卷十",
+            "上足三陽脈",
+            "上足三陰脈",
+            "上陽蹺陰蹺帶脈"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=f0d4fdb82d6145e7829e378ad8feb82efDcyMTMz0.kEURa5ZVMNAtMxqTqzdQSAzNq_hTNNGYms0B7IX9ql0_&SourceID=0"
+            },
+            {
+              "label": "掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=77420"
+            },
+            {
+              "label": "漢リポ文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0009/SBCK/"
+            },
+            {
+              "label": "1",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-9910007037"
+            },
+            {
+              "label": "2",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NCL-9910007038"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E8%84%88%E7%B6%93/index.html"
+        }
+      ]
+    },
+    {
+      "key": "binhumaixue",
+      "name": "濒湖脉学",
+      "parts": [
+        {
+          "title": "瀕湖脈學",
+          "url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html",
+          "retrieved_at": "2026-11-21T14:42:55.223Z",
+          "etag": "W/\"6af8af87-15a7c\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:19 GMT",
+          "sha256": "0f70ac89d40f4472de4e3e4ab818891e1e913501b25ff91d50f7ce58ead608ef",
+          "bytes": 88700,
+          "file": "raw/90f1f57fab07e116c8d9326a.html.gz",
+          "metadata": {
+            "作者": "李時珍",
+            "朝代": "明",
+            "年份": "公元1564年（明·嘉靖四十三年）",
+            "底本": "明萬曆間（1573－1620）刊本（國家圖書館掃描本）；《欽定四庫全書·子部五·醫家類·瀕湖脈學》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 29,
+          "first_headings": [
+            "序",
+            "浮（陽）",
+            "沉（陰）",
+            "遲（陰）"
+          ],
+          "last_headings": [
+            "促（陽）",
+            "結（陰）",
+            "代（陰）",
+            "四言舉要"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=2d801d130ad94ad5a6d1a2daea3914d9fDkwODA0Mw2.4AduQVtqkngEoNlxcRmpUDYfQTVCuoxUvC5YCtS3DNA_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0081/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E7%80%95%E6%B9%96%E8%84%88%E5%AD%B8/index.html"
+        }
+      ]
+    },
+    {
+      "key": "zhenjiashuyao",
+      "name": "诊家枢要",
+      "parts": [
+        {
+          "title": "診家樞要",
+          "url": "https://jicheng.tw/tcm/book/%E8%A8%BA%E5%AE%B6%E6%A8%9E%E8%A6%81/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E8%A8%BA%E5%AE%B6%E6%A8%9E%E8%A6%81/index.html",
+          "retrieved_at": "2026-11-21T14:42:55.566Z",
+          "etag": "W/\"6af44963-1ca3f\"",
+          "last_modified": "Wed, 11 Nov 2026 10:54:27 GMT",
+          "sha256": "575adf44d90446469e620d132c7508fa58cbf9ac5dc8c735eea2cc3e821b7c34",
+          "bytes": 117311,
+          "file": "raw/b9638133a882ff6314b6b9d2.html.gz",
+          "metadata": {
+            "作者": "滑壽",
+            "朝代": "元",
+            "年份": "公元1359年",
+            "底本": "出自《周氏醫學叢書》"
+          },
+          "heading_count": 15,
+          "first_headings": [
+            "序",
+            "脈象大旨",
+            "左右手配臟腑部位",
+            "五臟平脈"
+          ],
+          "last_headings": [
+            "診家宗法",
+            "附錄",
+            "諸脈條辨",
+            "持脈總論"
+          ],
+          "edition_links": [
+            {
+              "label": "《周氏醫學叢書》",
+              "url": "https://ctext.org/library.pl?if=gb&res=78950"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E8%A8%BA%E5%AE%B6%E6%A8%9E%E8%A6%81/index.html"
+        }
+      ]
+    },
+    {
+      "key": "zhenjiujiayijing",
+      "name": "针灸甲乙经",
+      "parts": [
+        {
+          "title": "針灸甲乙經",
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html",
+          "retrieved_at": "2026-11-21T14:42:56.224Z",
+          "etag": "W/\"6af44a00-12a7f1\"",
+          "last_modified": "Wed, 11 Nov 2026 10:57:04 GMT",
+          "sha256": "99645a1fb233fb2a5bb47d7c0e9aef2fa598a9a6cbe75a79f7d5a58b02cf8545",
+          "bytes": 1222641,
+          "file": "raw/2fbac1014491f3c2e8cfd714.html.gz",
+          "metadata": {
+            "作者": "皇甫謐",
+            "朝代": "晉",
+            "年份": "公元256年",
+            "底本": "《欽定四庫全書·子部五·醫家類·鍼灸甲乙經》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 155,
+          "first_headings": [
+            "林序",
+            "皇甫序",
+            "序例",
+            "卷一"
+          ],
+          "last_headings": [
+            "手足陽明少陽脈動發喉痹咽痛第八",
+            "氣有所結髮瘤癭第九",
+            "婦人雜病第十",
+            "小兒雜病第十一"
+          ],
+          "edition_links": [
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0005/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%87%9D%E7%81%B8%E7%94%B2%E4%B9%99%E7%B6%93/index.html"
+        }
+      ]
+    },
+    {
+      "key": "zhenjiudacheng",
+      "name": "针灸大成",
+      "parts": [
+        {
+          "title": "針灸大成",
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html",
+          "retrieved_at": "2026-11-21T14:42:57.721Z",
+          "etag": "W/\"6af449fc-23e889\"",
+          "last_modified": "Wed, 11 Nov 2026 10:57:00 GMT",
+          "sha256": "b90e7774a56cb477f8064bc636db6d217b23f058e49fd7dabd4181c6d127f662",
+          "bytes": 2353289,
+          "file": "raw/c73ec7da3ac88a97d0fc3861.html.gz",
+          "metadata": {
+            "作者": "楊繼洲",
+            "朝代": "明",
+            "品質": "70%",
+            "底本": "清康熙間李月桂德鄰軒刻本（美國國會圖書館藏本）；北京大學圖書館掃描本。電子文本修訂自永諸藏書。"
+          },
+          "heading_count": 326,
+          "first_headings": [
+            "卷一",
+            "針道源流",
+            "針灸直指",
+            "針灸方宜始論"
+          ],
+          "last_headings": [
+            "論虛實二症歌",
+            "五言歌",
+            "附辯（《醫統》）",
+            "益"
+          ],
+          "edition_links": [
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402918"
+            },
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2772"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E6%88%90/index.html"
+        }
+      ]
+    },
+    {
+      "key": "qijingbamaikao",
+      "name": "奇经八脉考",
+      "parts": [
+        {
+          "title": "奇經八脈考",
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83/index.html",
+          "retrieved_at": "2026-11-21T14:42:58.759Z",
+          "etag": "W/\"6af44811-1f93d\"",
+          "last_modified": "Wed, 11 Nov 2026 10:48:49 GMT",
+          "sha256": "aa97925a4b2e1b7ed25300559fe1ec9fca3523d1718a76988dc6f101a90dac0a",
+          "bytes": 129341,
+          "file": "raw/41bd2fca7e4c4654f6525077.html.gz",
+          "metadata": {
+            "作者": "李時珍",
+            "朝代": "明",
+            "年份": "公元1577年（明·萬曆五年）",
+            "底本": "《欽定四庫全書·子部五·醫家類·奇經八脉考》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 18,
+          "first_headings": [
+            "奇經八脈總說",
+            "八脈",
+            "陰維脈",
+            "陽維脈"
+          ],
+          "last_headings": [
+            "帶脈",
+            "帶脈為病",
+            "氣口九道脈",
+            "釋音"
+          ],
+          "edition_links": [
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0080/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%A5%87%E7%B6%93%E5%85%AB%E8%84%88%E8%80%83/index.html"
+        }
+      ]
+    },
+    {
+      "key": "zhubingyuanhoulun",
+      "name": "诸病源候论",
+      "parts": [
+        {
+          "title": "諸病源候論",
+          "url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:42:59.798Z",
+          "etag": "W/\"6af8afa0-1d91bc\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:44 GMT",
+          "sha256": "b66da53050468f9a62d88f04bff39df22982aaf0ab887506a1e21bccda007958",
+          "bytes": 1937852,
+          "file": "raw/9cc627641bd7a0e6f22691d1.html.gz",
+          "metadata": {
+            "作者": "巢元方",
+            "朝代": "隋",
+            "年份": "公元614年",
+            "底本": "日本影鈔宋本（故宮善本：故觀000324–000331）；日本正保二年（明福王弘光元年，1645）木村源兵衛刊本（國家圖書館掃描本）；《欽定四庫全書·子部五·醫家類·巢氏諸病源候論》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 1876,
+          "first_headings": [
+            "序",
+            "卷之一",
+            "風病諸候（上凡二十九論）",
+            "一、中風候"
+          ],
+          "last_headings": [
+            "二百五十二、浸淫瘡候",
+            "二百五十三、旺灼惡瘡候",
+            "二百五十四、疳濕瘡候",
+            "二百五十五、陰腫成瘡候"
+          ],
+          "edition_links": [
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407723ZuwxtGp"
+            },
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=9b33922beb7149f0995555d754cd2bbcfDkwODAxOA2.P6FLItm8VI599HYJdQ5C4N7yLzZWxnOZWc4eu8JVDb8_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0012/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E8%AB%B8%E7%97%85%E6%BA%90%E5%80%99%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "piweilun",
+      "name": "脾胃论",
+      "parts": [
+        {
+          "title": "脾胃論",
+          "url": "https://jicheng.tw/tcm/book/%E8%84%BE%E8%83%83%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E8%84%BE%E8%83%83%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:43:00.629Z",
+          "etag": "W/\"6af8af9c-5911c\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:40 GMT",
+          "sha256": "17bf2cee26896daf21ff99c255effe60285f77c9de7ef9bcb5e962143d7282fc",
+          "bytes": 364828,
+          "file": "raw/f912c051672657e7c5ee090b.html.gz",
+          "metadata": {
+            "作者": "李杲",
+            "朝代": "金",
+            "年份": "公元1249年",
+            "底本": "明嘉靖間（1522－1566）遼藩梅南書屋刊東垣十書本（國家圖書館掃描本）；《欽定四庫全書·子部五·醫家類·脾胃論》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 107,
+          "first_headings": [
+            "序",
+            "卷上",
+            "脾胃虛實傳變論",
+            "臟氣法時升降浮沉補瀉圖說"
+          ],
+          "last_headings": [
+            "攝養",
+            "遠欲",
+            "省言箴",
+            "後序"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=005b069103c641dc8dbf5a4984f34a4efDcyMTc40.bzZyo_uqPn7d4uxRStHbwS4FA0m0TWRbtVnFRpqcCmU_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0053/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E8%84%BE%E8%83%83%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "rumenshiqin",
+      "name": "儒门事亲",
+      "parts": [
+        {
+          "title": "儒門事親",
+          "url": "https://jicheng.tw/tcm/book/%E5%84%92%E9%96%80%E4%BA%8B%E8%A6%AA/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%84%92%E9%96%80%E4%BA%8B%E8%A6%AA/index.html",
+          "retrieved_at": "2026-11-21T14:43:01.296Z",
+          "etag": "W/\"6af447b2-162c04\"",
+          "last_modified": "Wed, 11 Nov 2026 10:47:14 GMT",
+          "sha256": "a4986016f0358f781131de8c5fd21cafc1e339d0d32f4843c5119f3a41c0dfef",
+          "bytes": 1453060,
+          "file": "raw/bce2a8a329c9d88c1079f9be.html.gz",
+          "metadata": {
+            "作者": "張從正",
+            "朝代": "金",
+            "年份": "公元1228年",
+            "底本": "《中國醫學大成·儒門事親》，1936年上海大東書局按吳勉學刊本、日本正德刊本刊印（國家圖書館掃描本）；《古今醫統正脈全書·儒門事親》，明萬曆29年（1601）吳勉學刊本（哈佛燕京圖書館掃描本）；明嘉靖辛丑邵輔刊本（美國國會圖書館藏本）；日本正徳元年（1711年）刊本（京都大學掃描本）；《欽定四庫全書·子部五·醫家類·儒門事親》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 800,
+          "first_headings": [
+            "新刻《儒門事親》序",
+            "重刊《儒門事親》序",
+            "《儒門事親》後序",
+            "卷一"
+          ],
+          "last_headings": [
+            "取雕青",
+            "治蚰蜒入耳中",
+            "辟穀絕食第十八",
+            "辟穀方"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTL-9900015246"
+            },
+            {
+              "label": "哈佛燕京圖書館掃描本",
+              "url": "https://nrs.harvard.edu/urn-3:FHCL:27609401"
+            },
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2014514313"
+            },
+            {
+              "label": "京都大學掃描本",
+              "url": "https://rmda.kulib.kyoto-u.ac.jp/item/rb00003046"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0051/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%84%92%E9%96%80%E4%BA%8B%E8%A6%AA/index.html"
+        }
+      ]
+    },
+    {
+      "key": "gezhiyulun",
+      "name": "格致余论",
+      "parts": [
+        {
+          "title": "格致餘論",
+          "url": "https://jicheng.tw/tcm/book/%E6%A0%BC%E8%87%B4%E9%A4%98%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%A0%BC%E8%87%B4%E9%A4%98%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:43:01.974Z",
+          "etag": "W/\"6af8af84-38f1b\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:16 GMT",
+          "sha256": "b0f85b5ddeea424ab2dc961b5fadb312c09bce1640f9bded75d83a26924fb654",
+          "bytes": 233243,
+          "file": "raw/863c236ed1e488943839f202.html.gz",
+          "metadata": {
+            "作者": "朱震亨",
+            "朝代": "元",
+            "年份": "公元1347年",
+            "底本": "日本鈔本（國家圖書館掃描本）；《欽定四庫全書·子部五·醫家類·格致餘論》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 47,
+          "first_headings": [
+            "序",
+            "飲食色欲箴序",
+            "飲食箴",
+            "色欲箴"
+          ],
+          "last_headings": [
+            "吃逆論",
+            "房中補益論",
+            "天氣屬金說",
+            "張子和攻擊注論"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=f07fd3e84374452a91ee06da1cf8d999fDcyMTg00.1GRiJl4cjT0guwxzkIzxF_angzMb0BRq_Q6tDNa4l9k_&SourceID=0"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0060/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%A0%BC%E8%87%B4%E9%A4%98%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "danxixinfa",
+      "name": "丹溪心法",
+      "parts": [
+        {
+          "title": "丹溪心法",
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95/index.html",
+          "retrieved_at": "2026-11-21T14:43:02.600Z",
+          "etag": "W/\"6af4477f-12f8a9\"",
+          "last_modified": "Wed, 11 Nov 2026 10:46:23 GMT",
+          "sha256": "d37f5696ebbd026836c047607325e4a74cd462633811bb42df17979d30228a9b",
+          "bytes": 1243305,
+          "file": "raw/3b4208f10b86a41c1a41e7cf.html.gz",
+          "metadata": {
+            "作者": "朱震亨、戴思恭",
+            "朝代": "元末明初",
+            "年份": "公元1481年",
+            "底本": "《重訂丹溪心法》，明嘉靖18年刊本（国立公文書館掃描本）；《古今醫統正脈全書·丹溪心法》，明萬曆29年（1601）吳勉學刊本（哈佛燕京圖書館掃描本）"
+          },
+          "heading_count": 129,
+          "first_headings": [
+            "序",
+            "序二",
+            "附錄",
+            "十二經見證"
+          ],
+          "last_headings": [
+            "秘方一百",
+            "附錄",
+            "故丹溪先生朱公石表辭",
+            "丹溪翁傳"
+          ],
+          "edition_links": [
+            {
+              "label": "国立公文書館掃描本",
+              "url": "https://www.digital.archives.go.jp/file/1084008"
+            },
+            {
+              "label": "哈佛燕京圖書館掃描本",
+              "url": "https://nrs.harvard.edu/urn-3:FHCL:27609414?n=2"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E4%B8%B9%E6%BA%AA%E5%BF%83%E6%B3%95/index.html"
+        }
+      ]
+    },
+    {
+      "key": "jingyuequanshu",
+      "name": "景岳全书",
+      "parts": [
+        {
+          "title": "景岳全書",
+          "url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html",
+          "retrieved_at": "2026-11-21T14:43:04.073Z",
+          "etag": "W/\"6af4488d-7e3bc5\"",
+          "last_modified": "Wed, 11 Nov 2026 10:50:53 GMT",
+          "sha256": "d3d94b362454670f45af71d23893d12f36bbdad6d38c65d00c680604c18dfece",
+          "bytes": 8272837,
+          "file": "raw/dd761d7f5d6a42ca12809cea.html.gz",
+          "metadata": {
+            "作者": "張介賓",
+            "朝代": "明",
+            "年份": "公元1640年",
+            "底本": "《欽定四庫全書·子部五·醫家類·景岳全書》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 1338,
+          "first_headings": [
+            "賈序",
+            "範序",
+            "查序",
+            "魯序"
+          ],
+          "last_headings": [
+            "以下通用方",
+            "卷之六十四春集·外科鈐古方",
+            "外科",
+            "以下通用方"
+          ],
+          "edition_links": [
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0086/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%99%AF%E5%B2%B3%E5%85%A8%E6%9B%B8/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yixuexinwu",
+      "name": "医学心悟",
+      "parts": [
+        {
+          "title": "醫學心悟",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F/index.html",
+          "retrieved_at": "2026-11-21T14:43:06.498Z",
+          "etag": "W/\"6af4499e-10fd6b\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:26 GMT",
+          "sha256": "4145f1bc676d2dcaa62bacb3738e8740287c4b84e9a250b1ddc8c2ef104f8fba",
+          "bytes": 1113451,
+          "file": "raw/84e6f6dfac80edfed1e3f0f5.html.gz",
+          "metadata": {
+            "作者": "程國彭",
+            "朝代": "清",
+            "年份": "公元1732年",
+            "底本": "清經綸堂本（香港中文大學圖書館掃描本）"
+          },
+          "heading_count": 694,
+          "first_headings": [
+            "序",
+            "自序",
+            "凡例",
+            "卷一"
+          ],
+          "last_headings": [
+            "魘夢不醒",
+            "搐鼻通天散",
+            "補遺",
+            "加味甘桔湯"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-387392"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AD%B8%E5%BF%83%E6%82%9F/index.html"
+        }
+      ]
+    },
+    {
+      "key": "sishengxinyuan",
+      "name": "四圣心源",
+      "parts": [
+        {
+          "title": "四聖心源",
+          "url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html",
+          "retrieved_at": "2026-11-21T14:43:08.190Z",
+          "etag": "W/\"6af447dd-a3333\"",
+          "last_modified": "Wed, 11 Nov 2026 10:47:57 GMT",
+          "sha256": "9ee1effcf3013d2015aeb104e2499121ec0462d7353f2fd3d5c45204047c7439",
+          "bytes": 668467,
+          "file": "raw/8e1543524410fbbf0a60f5ba.html.gz",
+          "metadata": {
+            "作者": "黃玉璐",
+            "朝代": "清",
+            "年份": "公元1753年",
+            "底本": "北京大學圖書館掃描本"
+          },
+          "heading_count": 170,
+          "first_headings": [
+            "自敘",
+            "後序",
+            "序",
+            "序"
+          ],
+          "last_headings": [
+            "墮胎",
+            "胎漏",
+            "產後根原",
+            "黃先生醫書八種後跋"
+          ],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2914"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%9B%9B%E8%81%96%E5%BF%83%E6%BA%90/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yizongjinjian",
+      "name": "医宗金鉴",
+      "parts": [
+        {
+          "title": "醫宗金鑑",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/index.html",
+          "retrieved_at": "2026-11-21T14:43:08.664Z",
+          "etag": "W/\"6af449b6-1a5d\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:50 GMT",
+          "sha256": "d3d3351578e1c39084f3a0d712b9e96d3d4e7ed218b6cb8d620f0c9524c3cfd8",
+          "bytes": 6749,
+          "file": "raw/5cdd8433ba8b5f2b767e55a6.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本）；《新增全圗足本醫宗金鑑》，上海啟新書局發行本（國立臺灣大學圖書館掃描本：1、2、3、4、5、6、7、8）；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 0,
+          "first_headings": [],
+          "last_headings": [],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-995843"
+            },
+            {
+              "label": "1",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003258"
+            },
+            {
+              "label": "2",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003259"
+            },
+            {
+              "label": "3",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003260"
+            },
+            {
+              "label": "4",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003261"
+            },
+            {
+              "label": "5",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003262"
+            },
+            {
+              "label": "6",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003263"
+            },
+            {
+              "label": "7",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003264"
+            },
+            {
+              "label": "8",
+              "url": "https://taiwanebook.ncl.edu.tw/zh-tw/book/NTUL-9910003257"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/index.html"
+        },
+        {
+          "title": "醫宗金鑑·訂正仲景全書傷寒論註",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html",
+          "retrieved_at": "2026-11-21T14:43:11.572Z",
+          "etag": "W/\"6af449ba-1efdc9\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:54 GMT",
+          "sha256": "4c32338f0b08a6a8fb61dbe290ada9fc672825411ef3ad2c32b3ef290666a3f7",
+          "bytes": 2031049,
+          "file": "raw/5459cc1f774328549c18099b.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷一至卷十七；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷一至卷十七（漢リポ掃描及文字化本）",
+            "品質": "75%"
+          },
+          "heading_count": 67,
+          "first_headings": [
+            "凡例",
+            "卷一",
+            "辨太陽病脈證并治上篇",
+            "卷二"
+          ],
+          "last_headings": [
+            "辨不可下病篇存疑",
+            "陶隱居《名醫別錄》合藥分劑法則",
+            "附：三陽三陰經脈各圖",
+            "附：傷寒刺灸等穴圖"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-995843"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E5%82%B7%E5%AF%92%E8%AB%96%E8%A8%BB/index.html"
+        },
+        {
+          "title": "醫宗金鑑·訂正仲景全書金匱要略註",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html",
+          "retrieved_at": "2026-11-21T14:43:13.126Z",
+          "etag": "W/\"6af449bb-125c84\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:55 GMT",
+          "sha256": "b78ede586d82b506807f8f420e91174ed03c94aa78bb5d3ad97009d4d59856ea",
+          "bytes": 1203332,
+          "file": "raw/6b66de0b4246536f2ef70a28.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷十八至卷二十五；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷十八至卷二十五（漢リポ掃描及文字化本）",
+            "品質": "75%"
+          },
+          "heading_count": 71,
+          "first_headings": [
+            "卷一",
+            "藏府經絡先後病脈證第一",
+            "痙濕暍病脈證并治第二",
+            "卷二"
+          ],
+          "last_headings": [
+            "婦人妊娠第二十",
+            "婦人產後第二十一",
+            "婦人雜病第二十二",
+            "雜療第二十三"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-996396"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E8%A8%82%E6%AD%A3%E4%BB%B2%E6%99%AF%E5%85%A8%E6%9B%B8%E9%87%91%E5%8C%B1%E8%A6%81%E7%95%A5%E8%A8%BB/index.html"
+        },
+        {
+          "title": "醫宗金鑑·刪補名醫方論",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%AA%E8%A3%9C%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%AA%E8%A3%9C%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:43:10.173Z",
+          "etag": "W/\"6af449b7-91a9e\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:51 GMT",
+          "sha256": "073fc0bbd610b168bbe84f2c9758181f9a04f464d088bf45c704da1ddfe5016b",
+          "bytes": 596638,
+          "file": "raw/55b75a6b5d6d19e9378dcc36.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷二十六至卷三十三；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷二十六至卷三十三（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 16,
+          "first_headings": [
+            "卷一",
+            "刪補名醫方論（一）",
+            "卷二",
+            "刪補名醫方論（二）"
+          ],
+          "last_headings": [
+            "卷七",
+            "刪補名醫方論（七）",
+            "卷八",
+            "刪補名醫方論（八）"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-996773"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%AA%E8%A3%9C%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html"
+        },
+        {
+          "title": "醫宗金鑑·四診心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%9B%9B%E8%A8%BA%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%9B%9B%E8%A8%BA%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:09.588Z",
+          "etag": "W/\"6af449b7-352b2\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:51 GMT",
+          "sha256": "56fc0dfce4a42cc2d46bc206516ab81869294739bbd0d7a02340a106bdc7837c",
+          "bytes": 217778,
+          "file": "raw/c1821e3f97daa03e488000b8.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷三十四；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷三十四（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 2,
+          "first_headings": [
+            "四診心法要訣（上）",
+            "四診心法要訣（下）"
+          ],
+          "last_headings": [
+            "四診心法要訣（上）",
+            "四診心法要訣（下）"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-996936"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%9B%9B%E8%A8%BA%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·運氣要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%81%8B%E6%B0%A3%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%81%8B%E6%B0%A3%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:09.126Z",
+          "etag": "W/\"6af449bb-2481c\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:55 GMT",
+          "sha256": "5f38282e167d9170c5d52b838de3d10c4d5ebb275688479ab57e56cc81dbfc7b",
+          "bytes": 149532,
+          "file": "raw/5d1172022d6703a510685cc4.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷三十五；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷三十五（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 30,
+          "first_headings": [
+            "正文",
+            "太虛理氣天地陰陽歌",
+            "五行質氣生剋制化歌",
+            "運氣合臟腑十二經絡歌"
+          ],
+          "last_headings": [
+            "運氣為病歌",
+            "五運客運太過為病歌",
+            "六氣客氣主病歌",
+            "運氣當審常變歌"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-996936"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%81%8B%E6%B0%A3%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·傷寒心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%82%B7%E5%AF%92%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%82%B7%E5%AF%92%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:12.399Z",
+          "etag": "W/\"6af449b6-3f27c\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:50 GMT",
+          "sha256": "975e284dc6d68996cce8e0fe0b4ad4a83bd8767904c9f01c99cb85dc46062806",
+          "bytes": 258684,
+          "file": "raw/cbed294e66f825d99bfec586.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷三十六至卷三十八；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷三十六至卷三十八（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 103,
+          "first_headings": [
+            "卷一",
+            "傷寒傳經從陽化熱從陰化寒原委",
+            "太陽風邪傷衛脈證",
+            "太陽寒邪傷營脈證"
+          ],
+          "last_headings": [
+            "匯方",
+            "傷寒附法",
+            "雙解散完素解利初法",
+            "河間解利後法"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997031"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%82%B7%E5%AF%92%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·雜病心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%9B%9C%E7%97%85%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%9B%9C%E7%97%85%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:13.814Z",
+          "etag": "W/\"6af449bc-68322\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:56 GMT",
+          "sha256": "9640fb2375b063d3a0ca9273477f1101f9062d3c87190f67bb0b254f78c58183",
+          "bytes": 426786,
+          "file": "raw/7190682865069cc4ea3f3d67.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷三十九至卷四十三；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷三十九至卷四十三（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 97,
+          "first_headings": [
+            "卷—",
+            "中風總括",
+            "中風死候",
+            "類中風總括"
+          ],
+          "last_headings": [
+            "治癃閉熨吐汗三法",
+            "小便不通",
+            "大便燥結總括",
+            "結燥治法"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997104"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E9%9B%9C%E7%97%85%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·婦科心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A9%A6%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A9%A6%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:14.362Z",
+          "etag": "W/\"6af449b8-271ce\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:52 GMT",
+          "sha256": "dee3f7ae559575e2ebcb355aaacac12e39684041b9e6c9efadf193271052c04a",
+          "bytes": 160206,
+          "file": "raw/885c1188b9ebb438cf3b5eaa.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷四十四至卷四十九；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷四十四至卷四十九（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 190,
+          "first_headings": [
+            "調經門",
+            "婦科總括",
+            "天癸月經之原",
+            "婦人不孕之故"
+          ],
+          "last_headings": [
+            "梅核氣證治",
+            "血風瘡證治",
+            "臁瘡證治",
+            "足跟痛證治"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997256"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A9%A6%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·幼科心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:14.958Z",
+          "etag": "W/\"6af449b8-3f867\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:52 GMT",
+          "sha256": "fc3b757f4ab307b262ea24eeaf9d4a835d2af1633375738c7ea88790f4e2f48f",
+          "bytes": 260199,
+          "file": "raw/bb6350f21d831d5978d98ccb.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷五十至卷五十五；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷五十至卷五十五（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 235,
+          "first_headings": [
+            "四診總括",
+            "察色",
+            "聽聲",
+            "審病"
+          ],
+          "last_headings": [
+            "解顱",
+            "囟陷",
+            "囟填",
+            "中惡"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997363"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·痘疹心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%97%98%E7%96%B9%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%97%98%E7%96%B9%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:15.561Z",
+          "etag": "W/\"6af449b9-4b045\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:53 GMT",
+          "sha256": "34f0ddd8979e5fc6ecb9f246a700430adae77b68b46e4c92db66b7d94495623a",
+          "bytes": 307269,
+          "file": "raw/3d60916d2f78dac6c71cba02.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷五十六至卷五十九；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷五十六至卷五十九（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 159,
+          "first_headings": [
+            "卷一",
+            "痘原",
+            "出痘形證",
+            "痘出五臟形證"
+          ],
+          "last_headings": [
+            "衄血",
+            "瘙疹",
+            "蓋痘疹",
+            "癮疹"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997562"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%97%98%E7%96%B9%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·幼科種痘心法要旨",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E7%A8%AE%E7%97%98%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E7%A8%AE%E7%97%98%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+          "retrieved_at": "2026-11-21T14:43:16.026Z",
+          "etag": "W/\"6af449b9-a435\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:53 GMT",
+          "sha256": "1c47dda5c072ca69e85a9bc6319a2ffab44d3f548f98e1555721d068c5413193",
+          "bytes": 42037,
+          "file": "raw/a0d7aca873747b0907a98c08.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷六十；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷六十（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 19,
+          "first_headings": [
+            "正文",
+            "種痘要旨",
+            "選苗",
+            "蓄苗"
+          ],
+          "last_headings": [
+            "信苗",
+            "補種",
+            "自出",
+            "治法"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997709"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%B9%BC%E7%A7%91%E7%A8%AE%E7%97%98%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html"
+        },
+        {
+          "title": "醫宗金鑑·外科心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A4%96%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A4%96%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:16.878Z",
+          "etag": "W/\"6af449b8-152f23\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:52 GMT",
+          "sha256": "4e824e94f22f15ce770c60c739ef7d4aed3aa3e43c4a263f40af1e654fe1cf34",
+          "bytes": 1388323,
+          "file": "raw/cc4b46708b486e8a06969b2f.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），外科卷一至卷十六；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷六十一至卷七十六（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 442,
+          "first_headings": [
+            "卷一",
+            "十二經循行部位歌",
+            "頭前正面歌",
+            "頭後項頸歌"
+          ],
+          "last_headings": [
+            "十二時人神歌",
+            "十二支日人神所在歌",
+            "十干日不宜用針，犯之病多反復",
+            "九宮尻神歌"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-998149"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%A4%96%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·眼科心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%9C%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%9C%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:18.236Z",
+          "etag": "W/\"6af449b9-2bec6\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:53 GMT",
+          "sha256": "8d75be033f4a57126db149d71521508d62df466c59d4fad425a539fcdad99f9a",
+          "bytes": 179910,
+          "file": "raw/d39d9e36464cb39eb58d9c88.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷六十一至卷六十二；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷七十七至卷七十八（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 104,
+          "first_headings": [
+            "卷一",
+            "目睛原始歌",
+            "五輪所屬部位歌",
+            "五輪主五臟病歌"
+          ],
+          "last_headings": [
+            "行經目痛歌",
+            "妊娠目病歌",
+            "產後病目歌",
+            "附外治方"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997709"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E7%9C%BC%E7%A7%91%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·刺灸心法要訣",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:10.702Z",
+          "etag": "W/\"6af449b7-76e4b\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:51 GMT",
+          "sha256": "9838b8efad9e13044a71cdde43679fe416d8c9f0024d380b1906e2438d307e76",
+          "bytes": 486987,
+          "file": "raw/da718536042e9e9fd28e07e1.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷六十三至卷七十；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷七十九至卷八十六（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 196,
+          "first_headings": [
+            "卷一",
+            "九針原始歌",
+            "九針式圖並九針主治法歌",
+            "行針次第手法歌"
+          ],
+          "last_headings": [
+            "十二時人神所在禁忌針灸歌",
+            "禁針穴歌",
+            "禁灸穴歌",
+            "制針法歌"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-997796"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E5%88%BA%E7%81%B8%E5%BF%83%E6%B3%95%E8%A6%81%E8%A8%A3/index.html"
+        },
+        {
+          "title": "醫宗金鑑·正骨心法要旨",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E6%AD%A3%E9%AA%A8%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E6%AD%A3%E9%AA%A8%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html",
+          "retrieved_at": "2026-11-21T14:43:17.696Z",
+          "etag": "W/\"6af449b9-3270c\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:53 GMT",
+          "sha256": "b3da30eaf2e0488030278d25bd9e4a65f54cce3211d78c6d290146036ac06555",
+          "bytes": 206604,
+          "file": "raw/5b0012bc13577d64a8a856e2.html.gz",
+          "metadata": {
+            "作者": "吳謙等",
+            "朝代": "清",
+            "年份": "公元1742年",
+            "底本": "《御纂醫宗金鑑》，光緒十八年（1892）上海五彩書局石印本（香港中文大學圖書館掃描本），卷七十一至卷七十四；《欽定四庫全書·子部五·醫家類·御纂醫宗金鑑》卷八十七至卷九十（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 88,
+          "first_headings": [
+            "卷一",
+            "外治法",
+            "手法總論",
+            "手法釋義"
+          ],
+          "last_headings": [
+            "作渴",
+            "秘結",
+            "挾表",
+            "補遺方"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-998046"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0090/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AE%97%E9%87%91%E9%91%91/%E6%AD%A3%E9%AA%A8%E5%BF%83%E6%B3%95%E8%A6%81%E6%97%A8/index.html"
+        }
+      ]
+    },
+    {
+      "key": "wenyilun",
+      "name": "温疫论",
+      "parts": [
+        {
+          "title": "溫疫論",
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:43:18.793Z",
+          "etag": "W/\"6af8af86-51855\"",
+          "last_modified": "Sat, 14 Nov 2026 18:59:18 GMT",
+          "sha256": "824587d703192f6da62d3d3bc5bd4188407299d16c0948b9659c8757f3b8c67c",
+          "bytes": 333909,
+          "file": "raw/2eaa84f7ee699c3dfd9767e4.html.gz",
+          "metadata": {
+            "作者": "吳有性",
+            "朝代": "明",
+            "年份": "公元1642年",
+            "底本": "舊鈔本（國家圖書館掃描本）"
+          },
+          "heading_count": 89,
+          "first_headings": [
+            "自敘",
+            "上卷",
+            "原病",
+            "溫疫初起"
+          ],
+          "last_headings": [
+            "統論疫有九傳治法",
+            "正名",
+            "《傷寒例》正誤",
+            "諸家溫疫正誤"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=96cf8d50a0fc40a2bffe48502be2b149fDcyMjg40.J9RPgd36cgyAAjF1cHypzEnWz48xwPIEzIWmczQ5t3s_&SourceID=0"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%BA%AB%E7%96%AB%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "wenrelun",
+      "name": "温热论",
+      "parts": [
+        {
+          "title": "溫熱論",
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:43:19.278Z",
+          "etag": "W/\"6af448d6-b048\"",
+          "last_modified": "Wed, 11 Nov 2026 10:52:06 GMT",
+          "sha256": "f564231617cf0cc1bd542b31da075c5bf9aa4216849dec764f0cfb236bc30315",
+          "bytes": 45128,
+          "file": "raw/e90449e3a625d12903d49061.html.gz",
+          "metadata": {
+            "作者": "葉桂口述，門人顧景文等錄",
+            "朝代": "清",
+            "年份": "公元1746年",
+            "底本": "節錄自《溫熱經緯》〈葉香巖外感溫熱篇〉（北京大學圖書館掃描本）。亦參《周氏醫學叢書》〈溫熱論〉。",
+            "品質": "95%"
+          },
+          "heading_count": 0,
+          "first_headings": [],
+          "last_headings": [],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2704"
+            },
+            {
+              "label": "《周氏醫學叢書》〈溫熱論〉",
+              "url": "https://ctext.org/library.pl?if=gb&res=78952"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%BA%AB%E7%86%B1%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "shirebingpian",
+      "name": "湿热病篇",
+      "parts": [
+        {
+          "title": "溫熱經緯",
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+          "retrieved_at": "2026-11-21T14:43:22.112Z",
+          "etag": "W/\"6af448d6-10cbb2\"",
+          "last_modified": "Wed, 11 Nov 2026 10:52:06 GMT",
+          "sha256": "0095f0846c186bc51d39d13f5aeb04a38e0738b48ee530719d625657b0389ecb",
+          "bytes": 1100722,
+          "file": "raw/67ae97ee8ad72f5fed16bbb8.html.gz",
+          "metadata": {
+            "作者": "王士雄",
+            "朝代": "清",
+            "年份": "公元1852年",
+            "底本": "北京大學圖書館掃描本"
+          },
+          "heading_count": 33,
+          "first_headings": [
+            "序",
+            "序",
+            "自序",
+            "卷一"
+          ],
+          "last_headings": [
+            "疫證條辨",
+            "卷五",
+            "方論",
+            "唐跋"
+          ],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2704"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html"
+        }
+      ]
+    },
+    {
+      "key": "wenbingtiaobian",
+      "name": "温病条辨",
+      "parts": [
+        {
+          "title": "溫病條辨",
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%A2%9D%E8%BE%A8/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%A2%9D%E8%BE%A8/index.html",
+          "retrieved_at": "2026-11-21T14:43:21.089Z",
+          "etag": "W/\"6af448d8-108989\"",
+          "last_modified": "Wed, 11 Nov 2026 10:52:08 GMT",
+          "sha256": "9a8f1d2124a8f0a5f9224ae2d707caf8a0f4da05156b67bef868e2fbc375229d",
+          "bytes": 1083785,
+          "file": "raw/b4611c00ea3abe1d06dd4a3b.html.gz",
+          "metadata": {
+            "作者": "吳塘",
+            "朝代": "清",
+            "年份": "公元1798年",
+            "底本": "粤東惠濟倉重刊本（香港中文大學圖書館掃描本、美國國會圖書館藏本）"
+          },
+          "heading_count": 94,
+          "first_headings": [
+            "問心堂溫病條辨原序",
+            "凡例",
+            "原病篇",
+            "卷一·上焦篇"
+          ],
+          "last_headings": [
+            "疹論",
+            "瀉白散不可妄用論",
+            "萬物各有偏勝論",
+            "草木各得一太極論"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-402313"
+            },
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402994"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%BA%AB%E7%97%85%E6%A2%9D%E8%BE%A8/index.html"
+        }
+      ]
+    },
+    {
+      "key": "wenrejingwei",
+      "name": "温热经纬",
+      "parts": [
+        {
+          "title": "溫熱經緯",
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html",
+          "retrieved_at": "2026-11-21T14:43:22.112Z",
+          "etag": "W/\"6af448d6-10cbb2\"",
+          "last_modified": "Wed, 11 Nov 2026 10:52:06 GMT",
+          "sha256": "0095f0846c186bc51d39d13f5aeb04a38e0738b48ee530719d625657b0389ecb",
+          "bytes": 1100722,
+          "file": "raw/67ae97ee8ad72f5fed16bbb8.html.gz",
+          "metadata": {
+            "作者": "王士雄",
+            "朝代": "清",
+            "年份": "公元1852年",
+            "底本": "北京大學圖書館掃描本"
+          },
+          "heading_count": 33,
+          "first_headings": [
+            "序",
+            "序",
+            "自序",
+            "卷一"
+          ],
+          "last_headings": [
+            "疫證條辨",
+            "卷五",
+            "方論",
+            "唐跋"
+          ],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2704"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E6%BA%AB%E7%86%B1%E7%B6%93%E7%B7%AF/index.html"
+        }
+      ]
+    },
+    {
+      "key": "furendaquanliangfang",
+      "name": "妇人大全良方",
+      "parts": [
+        {
+          "title": "婦人大全良方",
+          "url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E5%A4%A7%E5%85%A8%E8%89%AF%E6%96%B9/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E4%BA%BA%E5%A4%A7%E5%85%A8%E8%89%AF%E6%96%B9/index.html",
+          "retrieved_at": "2026-11-21T14:43:23.111Z",
+          "etag": "W/\"6af44818-1c2b48\"",
+          "last_modified": "Wed, 11 Nov 2026 10:48:56 GMT",
+          "sha256": "f78da81bba63b1e7bf1e82f237150767fe95d5a22098acddb8322b67ada7ff38",
+          "bytes": 1846088,
+          "file": "raw/e068c4aa583efb5096d43d33.html.gz",
+          "metadata": {
+            "作者": "陳自明",
+            "朝代": "南宋",
+            "年份": "公元1237年（南宋·嘉熙元年）",
+            "底本": "《欽定四庫全書·子部五·醫家類·婦人大全良方》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 1340,
+          "first_headings": [
+            "《婦人良方》序",
+            "辨識修製藥物法度",
+            "卷之一",
+            "調經門"
+          ],
+          "last_headings": [
+            "大效內補丸",
+            "南嶽魏夫人濟陰丹",
+            "烏雞煎",
+            "《產乳集》將護嬰兒方論"
+          ],
+          "edition_links": [
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0038/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%A9%A6%E4%BA%BA%E5%A4%A7%E5%85%A8%E8%89%AF%E6%96%B9/index.html"
+        }
+      ]
+    },
+    {
+      "key": "fuqingzhunvke",
+      "name": "傅青主女科",
+      "parts": [
+        {
+          "title": "傅青主女科",
+          "url": "https://jicheng.tw/tcm/book/%E5%82%85%E9%9D%92%E4%B8%BB%E5%A5%B3%E7%A7%91/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%82%85%E9%9D%92%E4%B8%BB%E5%A5%B3%E7%A7%91/index.html",
+          "retrieved_at": "2026-11-21T14:43:24.010Z",
+          "etag": "W/\"6af9cded-4cd4f\"",
+          "last_modified": "Sun, 15 Nov 2026 15:21:17 GMT",
+          "sha256": "a45bf06478ce24ccc05dc5d08f54e97164ca033cf5b4b457bb03f0a3a317d037",
+          "bytes": 314703,
+          "file": "raw/a1d9ebb139c731918fb67b31.html.gz",
+          "metadata": {
+            "作者": "傅山",
+            "朝代": "清",
+            "年份": "公元1673年",
+            "底本": "同治八年（1869年）湖北崇文書局開雕本（掃描本）；維基共享資源掃描本。電子文本整理自行政院中醫藥委員會94年文本CM102。"
+          },
+          "heading_count": 79,
+          "first_headings": [
+            "上卷",
+            "白帶下一",
+            "青帶下二",
+            "黃帶下三"
+          ],
+          "last_headings": [
+            "產後肉線出七十四",
+            "產後肝痿七十五",
+            "產後氣血兩虛乳汁不下七十六",
+            "產後鬱結乳汁不通七十七"
+          ],
+          "edition_links": [
+            {
+              "label": "掃描本",
+              "url": "https://digital.library.mcgill.ca/chinesemedicine/search/display_page.php?target=Fu_Printer_Print_Date.xml&lang=ch"
+            },
+            {
+              "label": "維基共享資源掃描本",
+              "url": "https://commons.wikimedia.org/wiki/File:CADAL02093361_%E5%82%B3%E9%9D%92%E4%B8%BB%E5%A5%B3%E7%A7%91%EF%BC%88%E4%B8%80%EF%BC%89.djvu"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%82%85%E9%9D%92%E4%B8%BB%E5%A5%B3%E7%A7%91/index.html"
+        }
+      ]
+    },
+    {
+      "key": "xiaoeryaozhengzhijue",
+      "name": "小儿药证直诀",
+      "parts": [
+        {
+          "title": "小兒藥證直訣",
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E8%97%A5%E8%AD%89%E7%9B%B4%E8%A8%A3/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E8%97%A5%E8%AD%89%E7%9B%B4%E8%A8%A3/index.html",
+          "retrieved_at": "2026-11-21T14:43:24.958Z",
+          "etag": "W/\"6af8af6f-44c1f\"",
+          "last_modified": "Sat, 14 Nov 2026 18:58:55 GMT",
+          "sha256": "af4a8c5202e0595c30577bae3332b1a9b35c77c32d1f63ab5359b43232698d0c",
+          "bytes": 281631,
+          "file": "raw/1883539ebb399a84b8306562.html.gz",
+          "metadata": {
+            "作者": "錢乙",
+            "朝代": "北宋",
+            "年份": "公元1119年",
+            "底本": "宋刊大字本配補清昭文張氏雙芙閣影鈔清陳世傑仿宋刊本（國家圖書館掃描本）；《小兒藥證真訣》，清乾隆間武英殿聚珍本（故宮善本：故殿037558–037559）"
+          },
+          "heading_count": 222,
+          "first_headings": [
+            "原序",
+            "錢仲陽傳",
+            "卷上·脈證治法",
+            "小兒脈法"
+          ],
+          "last_headings": [
+            "地骨皮散",
+            "蘭香散",
+            "敷齒立效散",
+            "蚵皮丸"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=0fcdb1800ca04ca1810251b6cad8be19fDcyMzQz0.1ABFYk85KOOw3N763W2RftUbwgWE23rjw9p_R_GK_Sc_&SourceID=0"
+            },
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407707LYQYn4V"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%B0%8F%E5%85%92%E8%97%A5%E8%AD%89%E7%9B%B4%E8%A8%A3/index.html"
+        }
+      ]
+    },
+    {
+      "key": "youyoujicheng",
+      "name": "幼幼集成",
+      "parts": [
+        {
+          "title": "幼幼集成",
+          "url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E5%B9%BC%E9%9B%86%E6%88%90/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E5%B9%BC%E9%9B%86%E6%88%90/index.html",
+          "retrieved_at": "2026-11-21T14:43:25.679Z",
+          "etag": "W/\"6af44830-167a20\"",
+          "last_modified": "Wed, 11 Nov 2026 10:49:20 GMT",
+          "sha256": "bd823dbee10648fc3c43c283dd2db4bfe5a59e96450aaeaf5995cbe6cff98c41",
+          "bytes": 1473056,
+          "file": "raw/d1ddf7e47fd738126454f032.html.gz",
+          "metadata": {
+            "作者": "陳復正",
+            "朝代": "清",
+            "年份": "公元1750年",
+            "底本": "《鼎鍥幼幼集成》，日本文化11年刊本（国立公文書館掃描本）；《鼎鍥幼幼集成》（北京大學圖書館掃描本）"
+          },
+          "heading_count": 258,
+          "first_headings": [
+            "裘序",
+            "梁序",
+            "小引",
+            "凡例"
+          ],
+          "last_headings": [
+            "麻疹骨髓賦",
+            "麻痘西江月",
+            "麻疹證治歌",
+            "入方"
+          ],
+          "edition_links": [
+            {
+              "label": "国立公文書館掃描本",
+              "url": "https://www.digital.archives.go.jp/file/1078143"
+            },
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2936"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%B9%BC%E5%B9%BC%E9%9B%86%E6%88%90/index.html"
+        }
+      ]
+    },
+    {
+      "key": "waikezhengzong",
+      "name": "外科正宗",
+      "parts": [
+        {
+          "title": "外科正宗",
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97/index.html",
+          "retrieved_at": "2026-11-21T14:43:26.546Z",
+          "etag": "W/\"6af8af5b-115646\"",
+          "last_modified": "Sat, 14 Nov 2026 18:58:35 GMT",
+          "sha256": "a3d9d0fa25abd38561524112d9fd792fc901964d31af939541e93dd1da5f1290",
+          "bytes": 1136198,
+          "file": "raw/48e0d31f8c5e4fbfe4765104.html.gz",
+          "metadata": {
+            "作者": "陳實功",
+            "朝代": "明",
+            "年份": "公元1617年",
+            "底本": "明萬曆丁巳（四十五年，1617年）崇川陳氏刊本（國家圖書館掃描本）"
+          },
+          "heading_count": 294,
+          "first_headings": [
+            "自序",
+            "卷之一",
+            "癰疽門",
+            "癰疽原委論第一"
+          ],
+          "last_headings": [
+            "醫家五戒第一百五十四（佚）",
+            "醫家十要第一百五十五（佚）",
+            "開割披針喉針形第一百五十六",
+            "補遺方一百五十七"
+          ],
+          "edition_links": [
+            {
+              "label": "國家圖書館掃描本",
+              "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=fbb6d3cd5eeb446a98058e521ea7f5eefDcyMjgx0.KcK_901IKY2iCU8AzDVx_60hTwfVA9lBgCNfDBOns0E_&SourceID=0"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%A4%96%E7%A7%91%E6%AD%A3%E5%AE%97/index.html"
+        }
+      ]
+    },
+    {
+      "key": "waikezhengzhiquanshengji",
+      "name": "外科证治全生集",
+      "parts": [
+        {
+          "title": "外科全生集",
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%85%A8%E7%94%9F%E9%9B%86/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%85%A8%E7%94%9F%E9%9B%86/index.html",
+          "retrieved_at": "2026-11-21T14:43:27.241Z",
+          "etag": "W/\"6af9cdfd-65db0\"",
+          "last_modified": "Sun, 15 Nov 2026 15:21:33 GMT",
+          "sha256": "fd39670f3a7690983c25963d14a0a6ce48910315c25fe8cc64c2a7e1e1bbe696",
+          "bytes": 417200,
+          "file": "raw/0e28d2b2fd3e36451dae2534.html.gz",
+          "metadata": {
+            "作者": "王洪緒",
+            "朝代": "清",
+            "年份": "公元1740年",
+            "底本": "上海大東書局印行本（維基共享資源掃描本）"
+          },
+          "heading_count": 477,
+          "first_headings": [
+            "潘序",
+            "黃序",
+            "王序",
+            "馬評湯序"
+          ],
+          "last_headings": [
+            "回生丹",
+            "大麻風湯藥方",
+            "丸藥方",
+            "楓子膏方"
+          ],
+          "edition_links": [
+            {
+              "label": "維基共享資源掃描本",
+              "url": "https://commons.wikimedia.org/wiki/File:NLC416-07jh006898-96469_%E5%A4%96%E7%A7%91%E5%85%A8%E7%94%9F%E9%9B%86.pdf"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E5%A4%96%E7%A7%91%E5%85%A8%E7%94%9F%E9%9B%86/index.html"
+        }
+      ]
+    },
+    {
+      "key": "linzhengzhinanyian",
+      "name": "临证指南医案",
+      "parts": [
+        {
+          "title": "臨證指南醫案",
+          "url": "https://jicheng.tw/tcm/book/%E8%87%A8%E8%AD%89%E6%8C%87%E5%8D%97%E9%86%AB%E6%A1%88/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E8%87%A8%E8%AD%89%E6%8C%87%E5%8D%97%E9%86%AB%E6%A1%88/index.html",
+          "retrieved_at": "2026-11-21T14:43:28.124Z",
+          "etag": "W/\"6af4494d-228af9\"",
+          "last_modified": "Wed, 11 Nov 2026 10:54:05 GMT",
+          "sha256": "b2dc9d761766936a8b4fe90119b99730f561e5d18fdef573800aa84ad5753628",
+          "bytes": 2263801,
+          "file": "raw/8a5d1f79092a6d54c939bc66.html.gz",
+          "metadata": {
+            "作者": "葉桂",
+            "朝代": "清",
+            "年份": "公元1746年",
+            "底本": "乾隆丙戌31年刊本（香港中文大學圖書館掃描本）"
+          },
+          "heading_count": 123,
+          "first_headings": [
+            "卷一",
+            "中風",
+            "肝風",
+            "眩暈"
+          ],
+          "last_headings": [
+            "吐瀉",
+            "癇痙厥",
+            "蟲",
+            "附錄"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-577028"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E8%87%A8%E8%AD%89%E6%8C%87%E5%8D%97%E9%86%AB%E6%A1%88/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yilingaicuo",
+      "name": "医林改错",
+      "parts": [
+        {
+          "title": "醫林改錯",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%9E%97%E6%94%B9%E9%8C%AF/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%9E%97%E6%94%B9%E9%8C%AF/index.html",
+          "retrieved_at": "2026-11-21T14:43:29.074Z",
+          "etag": "W/\"6af449cf-39052\"",
+          "last_modified": "Wed, 11 Nov 2026 10:56:15 GMT",
+          "sha256": "36e529283b1f59282975f4e07e5646a8b1b580b976975685a507e881cdc11add",
+          "bytes": 233554,
+          "file": "raw/09cf8babe9d8f084ebb10dfe.html.gz",
+          "metadata": {
+            "作者": "王清任",
+            "朝代": "清",
+            "年份": "公元1830年",
+            "底本": "北京大學圖書館掃描本"
+          },
+          "heading_count": 113,
+          "first_headings": [
+            "張序",
+            "劉序",
+            "知非子序",
+            "自序"
+          ],
+          "last_headings": [
+            "黃耆甘草湯",
+            "木耳散",
+            "玉龍膏（即勝玉膏）",
+            "辨方效經錯之源論血化為汗之誤"
+          ],
+          "edition_links": [
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=2926"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E6%9E%97%E6%94%B9%E9%8C%AF/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yixuesanzijing",
+      "name": "医学三字经",
+      "parts": [
+        {
+          "title": "醫學三字經",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E4%B8%89%E5%AD%97%E7%B6%93/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E4%B8%89%E5%AD%97%E7%B6%93/index.html",
+          "retrieved_at": "2026-11-21T14:43:29.627Z",
+          "etag": "W/\"6af44993-5f62f\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:15 GMT",
+          "sha256": "99e92a3cb8c5d519722a8dd8b780d55ca55cc0698e89365a91beb52d3714034e",
+          "bytes": 390703,
+          "file": "raw/66c89d0eb11c7c400d8aebab.html.gz",
+          "metadata": {
+            "作者": "陳念祖",
+            "朝代": "清",
+            "年份": "公元1804年",
+            "底本": "《陳修園醫書五十種·醫學三字經》，清光緖乙巳31年商務印書館（香港中文大學圖書館掃描本）"
+          },
+          "heading_count": 92,
+          "first_headings": [
+            "小引",
+            "卷之一",
+            "醫學源流第一",
+            "中風第二"
+          ],
+          "last_headings": [
+            "問症",
+            "切脈",
+            "運氣",
+            "張飛疇運氣不足憑說"
+          ],
+          "edition_links": [
+            {
+              "label": "香港中文大學圖書館掃描本",
+              "url": "https://repository.lib.cuhk.edu.hk/tc/item/cuhk-614705"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AD%B8%E4%B8%89%E5%AD%97%E7%B6%93/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yixueyuanliulun",
+      "name": "医学源流论",
+      "parts": [
+        {
+          "title": "醫學源流論",
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%BA%90%E6%B5%81%E8%AB%96/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%BA%90%E6%B5%81%E8%AB%96/index.html",
+          "retrieved_at": "2026-11-21T14:43:30.212Z",
+          "etag": "W/\"6af449a3-5e0e3\"",
+          "last_modified": "Wed, 11 Nov 2026 10:55:31 GMT",
+          "sha256": "3bf88398a9564de239238bf058e061d97f933974784714ee0ed52c8b0290edab",
+          "bytes": 385251,
+          "file": "raw/c1d403d9df63bbf329a20bea.html.gz",
+          "metadata": {
+            "作者": "徐大椿",
+            "朝代": "清",
+            "年份": "公元1757年（清·乾隆二十二年）",
+            "底本": "《徐氏醫書八種》，清光緖十八年重刊本（美國國會圖書館藏本）；《欽定四庫全書·子部五·醫家類·醫學源流論》，文淵閣本（漢リポ掃描及文字化本）"
+          },
+          "heading_count": 109,
+          "first_headings": [
+            "自敘",
+            "卷上",
+            "經絡臟腑",
+            "無氣存亡論"
+          ],
+          "last_headings": [
+            "邪說陷溺論",
+            "涉獵醫書誤人論",
+            "病家論",
+            "醫者誤人無罪論"
+          ],
+          "edition_links": [
+            {
+              "label": "美國國會圖書館藏本",
+              "url": "https://lccn.loc.gov/2012402487"
+            },
+            {
+              "label": "漢リポ掃描及文字化本",
+              "url": "https://www.kanripo.org/ed/KR3e0100/WYG/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%86%AB%E5%AD%B8%E6%BA%90%E6%B5%81%E8%AB%96/index.html"
+        }
+      ]
+    },
+    {
+      "key": "yinshanzhengyao",
+      "name": "饮膳正要",
+      "parts": [
+        {
+          "title": "飲膳正要",
+          "url": "https://jicheng.tw/tcm/book/%E9%A3%B2%E8%86%B3%E6%AD%A3%E8%A6%81/index.html",
+          "final_url": "https://jicheng.tw/tcm/book/%E9%A3%B2%E8%86%B3%E6%AD%A3%E8%A6%81/index.html",
+          "retrieved_at": "2026-11-21T14:43:30.655Z",
+          "etag": "W/\"6af8afbd-546e2\"",
+          "last_modified": "Sat, 14 Nov 2026 19:00:13 GMT",
+          "sha256": "98a46269168a1f4c7e9b6250334452b30cf153f2ed226bdded141221f53122f3",
+          "bytes": 345826,
+          "file": "raw/f801aa8fbecad6805d758c13.html.gz",
+          "metadata": {
+            "作者": "忽思慧",
+            "朝代": "元",
+            "年份": "公元1330年",
+            "底本": "明景泰七年內府刊本（故宮善本：故殿025429–025431）；北京大學圖書館掃描本；《四部叢刊初編·飲膳正要》（漢リポ文字化本）"
+          },
+          "heading_count": 501,
+          "first_headings": [
+            "御製《飲膳正要》序",
+            "卷第一",
+            "三皇聖紀",
+            "太昊伏羲氏"
+          ],
+          "last_headings": [
+            "梔子",
+            "蒲黃",
+            "回回青",
+            "跋"
+          ],
+          "edition_links": [
+            {
+              "label": "故宮善本",
+              "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/4077355tyMrOH"
+            },
+            {
+              "label": "北京大學圖書館掃描本",
+              "url": "https://ctext.org/library.pl?if=gb&res=3172"
+            },
+            {
+              "label": "漢リポ文字化本",
+              "url": "https://www.kanripo.org/ed/KR3i0043/SBCK/"
+            }
+          ],
+          "revision_url": "https://gitlab.com/jicheng/jc.data/-/blob/master/pages/book/%E9%A3%B2%E8%86%B3%E6%AD%A3%E8%A6%81/index.html"
+        }
+      ]
+    }
+  ]
+}

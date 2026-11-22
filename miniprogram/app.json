@@ -36,6 +36,12 @@
         "selectedIconPath": "assets/personal/tab-book-active.png"
       },
       {
+        "pagePath": "pages/notes/index/index",
+        "text": "笔记",
+        "iconPath": "assets/tabbar/note-normal.png",
+        "selectedIconPath": "assets/tabbar/note-active.png"
+      },
+      {
         "pagePath": "pages/profile/index/index",
         "text": "我的",
         "iconPath": "assets/tabbar/profile-normal.png",
