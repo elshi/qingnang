@@ -6,7 +6,7 @@
 <input class="editor-title" value="{{title}}" data-field="title" bindinput="input" placeholder="笔记标题" maxlength="80" disabled="{{busy}}" />
 <view class="editor-paper"><textarea class="editor-content" value="{{content}}" data-field="content" bindinput="input" bindblur="rememberCursor" placeholder="记录阅读心得与思考…" maxlength="20000" auto-height="{{true}}" cursor-spacing="100" show-confirm-bar="{{false}}" disabled="{{busy || recognizing}}" />
 <view wx:if="{{recognizing}}" class="personal-hint speech-preview">{{speechText || '正在聆听，请说话…'}}</view>
-<button class="voice-button {{recognizing?'voice-button--active':''}}" bindtap="record" disabled="{{busy}}"><image src="/assets/personal/mic.png" />{{recognizing?'结束转文字（最长60秒）':'语音转文字'}}</button></view>
+<button class="voice-button {{recognizing?'voice-button--active':''}}" bindtap="record" disabled="{{busy || speechProcessing}}"><image src="/assets/personal/mic.png" />{{speechProcessing?'正在转换文字…':recognizing?'结束转文字（最长60秒）':'语音转文字'}}</button></view>
 <view class="personal-hint draft-status">{{draftStatus}}</view><view wx:if="{{error}}" class="personal-error">{{error}}</view>
 <button wx:if="{{conflict}}" class="personal-link" bindtap="saveAsNew" disabled="{{busy}}">保留当前内容，另存为新笔记</button>
 <button wx:if="{{key}}" class="delete-note" bindtap="deleteNote">删除笔记</button>

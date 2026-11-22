@@ -3,6 +3,7 @@
 namespace Tests\Feature;
 
 use App\Services\WeChatIdentity;
+use App\Services\TencentSpeech;
 use Illuminate\Support\Facades\DB;
 use Tests\TestCase;
 
@@ -126,5 +127,53 @@ class PersonalApiTest extends TestCase
         $data['id'] = 'feedback-2';
         $data['images'] = ['personal/another-user/feedback/image.jpg'];
         $this->postJson('/api/personal/feedback', $data, $this->headers($user))->assertStatus(422);
+    }
+
+    public function test_speech_requires_login_valid_audio_and_returns_only_text()
+    {
+        $speech = new class extends TencentSpeech {
+            public $audio;
+            public function recognize(string $audio, string $format = 'mp3'): string
+            {
+                $this->audio = [$audio, $format];
+                return '饮食有节，起居有常。';
+            }
+        };
+        $this->app->instance(TencentSpeech::class, $speech);
+        $request = ['audio' => base64_encode('temporary-audio'), 'format' => 'mp3', 'duration' => 1500];
+        $this->postJson('/api/personal/speech/recognize', $request)->assertStatus(401);
+        $user = $this->loginAs();
+        $this->postJson('/api/personal/speech/recognize', array_merge($request, ['format' => 'wav']), $this->headers($user))->assertStatus(422);
+        $this->postJson('/api/personal/speech/recognize', array_merge($request, ['audio' => 'invalid!']), $this->headers($user))->assertStatus(422);
+        $this->postJson('/api/personal/speech/recognize', array_merge($request, ['duration' => 60001]), $this->headers($user))->assertStatus(422);
+        $this->postJson('/api/personal/speech/recognize', $request, $this->headers($user))
+            ->assertOk()->assertJsonPath('data.text', '饮食有节，起居有常。');
+        $this->assertEquals(['temporary-audio', 'mp3'], $speech->audio);
+        $this->assertEquals(0, DB::table('t_personal_records')->count());
+    }
+
+    public function test_tencent_speech_signs_request_and_does_not_return_upstream_errors()
+    {
+        config()->set('services.tencent_asr.secret_id', 'AKID-test');
+        config()->set('services.tencent_asr.secret_key', 'secret-test');
+        $speech = new class extends TencentSpeech {
+            public $payload;
+            public $headers;
+            public $response = [200, '{"Response":{"Result":"识别文字"}}'];
+            protected function send(string $payload, array $headers): array
+            {
+                $this->payload = json_decode($payload, true);
+                $this->headers = $headers;
+                return $this->response;
+            }
+        };
+        $this->assertEquals('识别文字', $speech->recognize('audio'));
+        $this->assertEquals('mp3', $speech->payload['VoiceFormat']);
+        $this->assertEquals(5, $speech->payload['DataLen']);
+        $this->assertEquals(base64_encode('audio'), $speech->payload['Data']);
+        $this->assertStringContainsString('SignedHeaders=content-type;host', implode(' ', $speech->headers));
+        $speech->response = [403, '{"Response":{"Error":{"Message":"private account detail"}}}'];
+        try { $speech->recognize('audio'); $this->fail('Expected service error'); }
+        catch (\RuntimeException $error) { $this->assertStringNotContainsString('private account detail', $error->getMessage()); }
     }
 }

@@ -1,7 +1,7 @@
 const store = require('../../../utils/learning-store');
 const speech = require('../../../utils/speech-input');
 Page({
-  data: { key: '', title: '', content: '', ref: null, refLabel: '', recognizing: false, speechText: '',
+  data: { key: '', title: '', content: '', ref: null, refLabel: '', recognizing: false, speechProcessing: false, speechText: '',
     busy: true, draftStatus: '', error: '', conflict: false, pickerOpen: false, choices: [], choiceKeyword: '' },
   async onLoad(options = {}) {
     try { await store.requireLogin(); } catch (error) { this.setData({ error: error.message }); return; }
@@ -126,26 +126,27 @@ Page({
   },
   record() {
     if (this.data.busy) return;
-    if (this.data.recognizing) { this.speechSession?.stop(); return; }
+    if (this.data.recognizing) { if (!this.data.speechProcessing) this.speechSession?.stop(); return; }
     const original = this.data.content;
     const cursor = Math.max(0, Math.min(this.cursor ?? original.length, original.length));
-    this.setData({ recognizing: true, speechText: '', error: '' });
+    this.setData({ recognizing: true, speechProcessing: false, speechText: '', error: '' });
     try {
       this.speechSession = speech.start({
         onPartial: text => this.update({ speechText: text }),
+        onProcessing: () => this.update({ speechProcessing: true, speechText: '正在转换文字…' }),
         onComplete: text => {
           if (this.disposed) return;
-          if (!text) { this.update({ recognizing: false, speechText: '', error: '没有识别到文字，请再试一次' }); return; }
+          if (!text) { this.update({ recognizing: false, speechProcessing: false, speechText: '', error: '没有识别到文字，请再试一次' }); return; }
           const available = Math.max(0, 20000 - original.length);
           const inserted = text.slice(0, available);
-          this.update({ content: original.slice(0, cursor) + inserted + original.slice(cursor), recognizing: false, speechText: '',
+          this.update({ content: original.slice(0, cursor) + inserted + original.slice(cursor), recognizing: false, speechProcessing: false, speechText: '',
             error: text.length > available ? '正文已达长度上限，请整理后继续输入' : '' });
           this.cursor = cursor + inserted.length;
           this.persist();
         },
-        onError: error => this.update({ recognizing: false, speechText: '', error: error.message })
+        onError: error => this.update({ recognizing: false, speechProcessing: false, speechText: '', error: error.message })
       });
-    } catch (error) { this.setData({ recognizing: false, error: error.message }); }
+    } catch (error) { this.setData({ recognizing: false, speechProcessing: false, error: error.message }); }
   },
   deleteNote() {
     if (!this.data.key || this.data.busy) return;
@@ -166,7 +167,7 @@ Page({
   },
   onHide() {
     this.speechSession?.cancel();
-    this.update({ recognizing: false, speechText: '' });
+    this.update({ recognizing: false, speechProcessing: false, speechText: '' });
     this.flushDraft();
   },
   onShow() {

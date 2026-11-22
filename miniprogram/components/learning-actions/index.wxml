@@ -16,5 +16,5 @@
 <button class="learning-action" bindtap="favorite" aria-label="{{favorite?'取消收藏':'收藏'}}"><image class="learning-icon" src="{{favorite?'/assets/personal/star-filled.png':'/assets/personal/star.png'}}" /><text>{{favorite?'已收藏':type==='chapter'?'收藏本章':'收藏'}}</text></button>
 <button class="learning-action" wx:if="{{type==='chapter'}}" bindtap="favoriteBook"><image class="learning-icon" src="/assets/personal/book.png" /><text>{{bookFavorite?'本书已收藏':'收藏本书'}}</text></button>
 <button class="learning-action" bindtap="note"><image class="learning-icon" src="/assets/personal/note.png" /><text>写笔记</text></button>
-<button class="learning-action" open-type="share" aria-label="分享当前内容"><text class="share-icon" aria-hidden="true">↗</text><text>分享</text></button>
+<button class="learning-action" open-type="share" aria-label="分享当前内容"><image class="learning-icon" src="/assets/personal/share.png" mode="aspectFit" aria-hidden="true" /><text>分享</text></button>
 </view>

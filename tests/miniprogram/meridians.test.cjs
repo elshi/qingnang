@@ -218,18 +218,24 @@ test('both static atlas images are bundled and search routes include acupoints',
   assert.equal(searchLocal('少商').some((item)=>item.type==='meridian'),false);
 });
 
-test('bundled bitmap assets stay below the WeChat 200KB recommendation', () => {
+test('bundled image and audio assets total at most 200KB', () => {
   const assetRoot=path.join(root,'miniprogram');
-  const imageExtensions=new Set(['.png','.jpg','.jpeg','.gif','.webp','.bmp']);
+  const mediaExtensions=new Set([
+    '.png','.jpg','.jpeg','.gif','.webp','.bmp','.svg','.ico','.avif',
+    '.mp3','.wav','.ogg','.m4a','.aac','.flac','.amr','.aiff','.wma'
+  ]);
   const pending=[assetRoot];
+  let totalBytes=0;
   while (pending.length) {
     const current=pending.pop();
     for (const entry of fs.readdirSync(current,{withFileTypes:true})) {
       const target=path.join(current,entry.name);
       if (entry.isDirectory()) pending.push(target);
-      else if (imageExtensions.has(path.extname(entry.name).toLowerCase())) {
-        assert.ok(fs.statSync(target).size<=200*1024,`${path.relative(assetRoot,target)} exceeds 200KB`);
+      else if (mediaExtensions.has(path.extname(entry.name).toLowerCase())) {
+        totalBytes+=fs.statSync(target).size;
       }
     }
   }
+  // Use the stricter decimal limit so both KB and KiB interpretations pass.
+  assert.ok(totalBytes<=200000,`Bundled images and audio total ${totalBytes} bytes; limit is 200000`);
 });

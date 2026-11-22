@@ -241,20 +241,34 @@ test('legacy import repairs negative reading positions', async () => {
   assert.equal(imported.data.records[0].scrollTop, 0);
 });
 
-test('speech previews never modify text; final result is committed once and cancellation discards it', () => {
-  const engine = { start() {}, stop() {} }, module = { exports: {} };
+test('speech sends temporary audio for recognition, returns only text, and removes the temporary file', async () => {
+  const callbacks = {}, removed = [], calls = [], module = { exports: {} };
+  const engine = {
+    start(options) { calls.push(options); }, stop() {},
+    onStart(fn) { callbacks.start = fn; }, onStop(fn) { callbacks.stop = fn; }, onError(fn) { callbacks.error = fn; }
+  };
+  const wx = { getRecorderManager: () => engine, getFileSystemManager: () => ({
+    readFile(options) { options.success({ data: 'YXVkaW8=' }); },
+    unlink(options) { removed.push(options.filePath); }
+  }) };
+  const transcribed = [];
   vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/speech-input.js'), 'utf8'), {
-    module, require: () => ({ enabled: true, plugin: 'WechatSI' }), requirePlugin: () => ({ getRecordRecognitionManager: () => engine })
+    module, wx, Date, Promise,
+    require: () => ({ async transcribe(audio, duration) { transcribed.push({ audio, duration }); return { text: '饮食有节。' }; } })
   });
-  const partial = [], complete = [];
-  module.exports.start({ onPartial: value => partial.push(value), onComplete: value => complete.push(value) });
-  engine.onRecognize({ result: '饮食' }); engine.onRecognize({ result: '饮食有节' });
-  assert.deepEqual(complete, []);
-  engine.onStop({ result: '饮食有节。', tempFilePath: 'never-saved.mp3' }); engine.onStop({ result: '重复' });
+  const complete = [];
+  const session = module.exports.start({ onComplete: value => complete.push(value) });
+  assert.equal(calls[0].format, 'mp3'); assert.equal(calls[0].duration, 60000);
+  session.stop(); callbacks.stop({ tempFilePath: 'wxfile://tmp/voice.mp3' });
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(transcribed[0].audio, 'YXVkaW8=');
   assert.deepEqual(complete, ['饮食有节。']);
+  assert.deepEqual(removed, ['wxfile://tmp/voice.mp3']);
   const cancelled = module.exports.start({ onComplete: value => complete.push(value) });
-  cancelled.cancel(); engine.onStop({ result: '不要插入' });
-  assert.deepEqual(complete, ['饮食有节。']);
+  cancelled.cancel(); callbacks.stop({ tempFilePath: 'wxfile://tmp/cancel.mp3' });
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(transcribed.length, 1);
+  assert.deepEqual(removed, ['wxfile://tmp/voice.mp3', 'wxfile://tmp/cancel.mp3']);
 });
 test('editor inserts recognized text at cursor without saving an audio attachment', async () => {
   const h = harness(); await h.store.login(); let callbacks;

@@ -38,12 +38,13 @@ page { background: #f8f3ea; }
 .home-section-title { font-size: 38rpx; line-height: 1.4; }
 .home-bookshelf__all { display: flex; align-items: center; gap: 8rpx; min-height: 76rpx; padding-left: 16rpx; color: #a27942; font-size: 25rpx; }
 .home-chevron { flex: 0 0 16rpx; width: 16rpx; height: 26rpx; }
-.home-bookshelf__books { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 22rpx; }
+.home-bookshelf__books { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .home-book {
   display: flex; align-items: center; gap: 21rpx; width: 100%; min-width: 0;
-  margin: 0; padding: 20rpx 6rpx; border-radius: 0;
+  margin: 0; padding: 20rpx 11rpx 20rpx 0; border-radius: 0;
   border-bottom: 1rpx solid #ded0bd; color: #31291f; text-align: left;
 }
+.home-book:nth-child(even) { padding-right: 0; padding-left: 11rpx; }
 .home-book__cover { flex: 0 0 104rpx; width: 104rpx; height: 152rpx; }
 .home-book__copy { flex: 1; min-width: 0; }
 .home-book__title, .home-book__author, .home-book__subject { display: block; }
@@ -52,8 +53,7 @@ page { background: #f8f3ea; }
 .home-book__rule { width: 26rpx; height: 1rpx; background: #c9a670; margin: 18rpx 0; }
 .home-book__subject { color: #857664; font-size: 25rpx; line-height: 1.45; white-space: nowrap; }
 .home-cases { margin-top: 24rpx; }
-.home-page .home-case { display: flex; align-items: center; width: 100%; margin: 0; padding: 17rpx 10rpx; border-radius: 0; color: #31291f; text-align: left; }
-.home-case + .home-case { border-top: 1rpx solid #ded0bd; }
+.home-page .home-case { display: flex; align-items: center; width: 100%; margin: 0; padding: 17rpx 0; border-bottom: 1rpx solid #ded0bd; border-radius: 0; color: #31291f; text-align: left; }
 .home-case__copy { flex: 1; min-width: 0; padding: 0 24rpx 0 0; }
 .home-case__title, .home-case__source, .home-case__excerpt { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .home-case__title { font-size: 30rpx; line-height: 1.5; }
@@ -157,6 +157,18 @@ page { background: #f8f3ea; }
   line-height: 84rpx;
 }
 
+.home-cases__list .home-results__status {
+  padding-right: 0;
+  padding-left: 0;
+  border-bottom: 1rpx solid #ded0bd;
+  text-align: left;
+}
+
+.home-cases__list .home-results__action {
+  width: auto;
+  margin-left: 0;
+  padding-left: 0;
+}
 
 @media (max-width: 360px) {
   .home-book { gap: 14rpx; }

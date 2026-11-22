@@ -1,39 +1,98 @@
-// The plugin streams recognition results. No recording file is saved or uploaded by the app.
-const config = require('./speech-config');
-let manager = null;
+const store = require('./learning-store');
+
+let recorder = null;
 let active = null;
-function getManager() {
-  if (!config.enabled) throw new Error('语音转文字尚未开通，请稍后再试');
-  if (manager) return manager;
+const MAX_BASE64_LENGTH = 3 * 1024 * 1024;
+
+function removeTempFile(filePath) {
+  if (!filePath) return;
+  try { wx.getFileSystemManager().unlink({ filePath, fail() {} }); } catch (error) {}
+}
+
+function finish(session, error, text = '') {
+  if (active === session) active = null;
+  if (session.cancelled) return;
+  if (error) session.onError?.(error);
+  else session.onComplete?.(text);
+}
+
+function readBase64(filePath) {
+  return new Promise((resolve, reject) => {
+    try {
+      wx.getFileSystemManager().readFile({
+        filePath, encoding: 'base64',
+        success: result => resolve(result.data),
+        fail: () => reject(new Error('无法读取临时语音，请重试'))
+      });
+    } catch (error) { reject(new Error('无法读取临时语音，请重试')); }
+  });
+}
+
+async function recognize(session, result) {
+  const filePath = result?.tempFilePath;
+  if (!filePath) { finish(session, new Error('没有录到语音，请重试')); return; }
+  let removed = false;
   try {
-    manager = requirePlugin(config.plugin).getRecordRecognitionManager();
-  } catch (error) {
-    throw new Error('语音转文字暂不可用，请检查插件开通状态或使用微信真机重试');
+    if (session.cancelled) return;
+    session.onProcessing?.();
+    const audio = await readBase64(filePath);
+    removeTempFile(filePath);
+    removed = true;
+    if (session.cancelled) return;
+    if (!audio || audio.length > MAX_BASE64_LENGTH) throw new Error('语音过长，请缩短后重试');
+    const response = await store.transcribe(audio, Math.min(60000, Math.max(1, Date.now() - session.startedAt)));
+    finish(session, null, String(response.text || '').trim());
+  } catch (error) { finish(session, error); }
+  finally {
+    if (!removed) removeTempFile(filePath);
+    if (session.cancelled && active === session) active = null;
   }
-  manager.onStart = () => { if (active && !active.cancelled) active.onStart?.(); };
-  manager.onRecognize = (result) => { if (active && !active.cancelled) active.onPartial?.(result.result || ''); };
-  manager.onStop = (result) => {
-    const session = active;
-    active = null;
-    if (session && !session.cancelled) session.onComplete?.(String(result.result || '').trim());
-  };
-  manager.onError = () => {
-    const session = active;
-    active = null;
-    if (session && !session.cancelled) session.onError?.(new Error('未能识别语音，请检查麦克风权限和网络后重试'));
-  };
-  return manager;
 }
+
+function getRecorder() {
+  if (recorder) return recorder;
+  if (!wx.getRecorderManager || !wx.getFileSystemManager) throw new Error('当前微信版本不支持语音转文字');
+  recorder = wx.getRecorderManager();
+  recorder.onStart(() => { if (active && !active.cancelled) active.onStart?.(); });
+  recorder.onStop(result => {
+    const session = active;
+    if (session && !session.processing) {
+      session.processing = true;
+      recognize(session, result);
+    }
+    else removeTempFile(result?.tempFilePath);
+  });
+  recorder.onError(() => {
+    const session = active;
+    if (session) finish(session, new Error('录音失败，请检查麦克风权限后重试'));
+  });
+  return recorder;
+}
+
 function start(callbacks) {
-  const engine = getManager();
   if (active) throw new Error('上次语音正在结束，请稍后再试');
-  const session = { ...callbacks, cancelled: false };
+  const engine = getRecorder();
+  const session = { ...callbacks, cancelled: false, stopping: false, startedAt: Date.now() };
   active = session;
-  try { engine.start({ duration: 60000, lang: 'zh_CN' }); }
-  catch (error) { active = null; throw new Error('无法开始语音转文字，请检查微信麦克风权限'); }
+  try { engine.start({ duration: 60000, sampleRate: 16000, numberOfChannels: 1, encodeBitRate: 32000, format: 'mp3' }); }
+  catch (error) { active = null; throw new Error('无法开始录音，请检查微信麦克风权限'); }
   return {
-    stop() { if (active === session) engine.stop(); },
-    cancel() { if (active === session) { session.cancelled = true; engine.stop(); } }
+    stop() {
+      if (active !== session || session.stopping) return;
+      session.stopping = true;
+      session.onProcessing?.();
+      try { engine.stop(); }
+      catch (error) { finish(session, new Error('无法结束录音，请重试')); }
+    },
+    cancel() {
+      if (active !== session) return;
+      session.cancelled = true;
+      if (!session.stopping) {
+        session.stopping = true;
+        try { engine.stop(); } catch (error) { active = null; }
+      }
+    }
   };
 }
+
 module.exports = { start };

@@ -34,7 +34,9 @@ class CheckPersonal extends Command
         $images = true;
         foreach (['cos_bucket', 'cos_region', 'cos_secret_id', 'cos_secret_key'] as $setting) $images = $images && (bool) config('personal.' . $setting);
         $this->line('Private screenshot storage: ' . ($images ? 'configured' : 'MISSING (text feedback remains available)'));
-        $this->line('Also verify runtime INSERT/UPDATE/DELETE privileges and enable WechatSI in the mini-program console.');
-        return $ready && $images ? 0 : 1;
+        $speech = (bool) config('services.tencent_asr.secret_id') && (bool) config('services.tencent_asr.secret_key');
+        $this->line('Tencent Cloud speech recognition: ' . ($speech ? 'configured' : 'MISSING'));
+        $this->line('Also verify runtime INSERT/UPDATE/DELETE privileges and activate Tencent Cloud ASR.');
+        return $ready && $images && $speech ? 0 : 1;
     }
 }

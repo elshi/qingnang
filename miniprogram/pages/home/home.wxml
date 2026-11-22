@@ -124,7 +124,7 @@
     </view>
     <view class="home-cases">
       <view class="home-bookshelf__header">
-        <text class="home-section-title home-serif">经典经方</text>
+        <text class="home-section-title home-serif">经典方剂</text>
         <navigator class="home-bookshelf__all" url="/pages/prescriptions/index/index" hover-class="home-link--pressed"><text>查看全部</text><image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" /></navigator>
       </view>
       <view class="home-cases__list">
@@ -132,9 +132,9 @@
           <view class="home-case__copy"><text class="home-case__title home-serif">{{item.title}}</text><text wx:if="{{item.source}}" class="home-case__source">{{item.source}}</text><text wx:if="{{item.summary}}" class="home-case__excerpt">{{item.summary}}</text></view>
           <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" />
         </button>
-        <view wx:if="{{prescriptionsLoading}}" class="home-results__status">正在加载经典经方…</view>
-        <view wx:elif="{{prescriptionsFailed}}" class="home-results__status"><text>经方暂时无法加载</text><button class="home-results__action" bindtap="loadFeaturedPrescriptions">重新加载</button></view>
-        <view wx:elif="{{!featuredPrescriptions.length}}" class="home-results__status">暂无经方，可查看全部馆藏</view>
+        <view wx:if="{{prescriptionsLoading}}" class="home-results__status">正在加载经典方剂…</view>
+        <view wx:elif="{{prescriptionsFailed}}" class="home-results__status"><text>方剂暂时无法加载</text><button class="home-results__action" bindtap="loadFeaturedPrescriptions">重新加载</button></view>
+        <view wx:elif="{{!featuredPrescriptions.length}}" class="home-results__status">暂无方剂，可查看全部馆藏</view>
       </view>
     </view>
     <view class="home-cases">

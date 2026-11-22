@@ -34,6 +34,10 @@ async function api(path, method = 'GET', data = {}, user = account()) {
     throw error;
   }
 }
+async function transcribe(audio, duration) {
+  if (!account()) throw new Error('请先微信登录后再使用语音转文字');
+  return api('speech/recognize', 'POST', { audio, format: 'mp3', duration });
+}
 async function login() {
   if (loginTask) return loginTask;
   loginTask = (async () => {
@@ -326,7 +330,7 @@ async function uploadImage(path) {
 async function submitFeedback(feedback) { await requireLogin(); return api('feedback', 'POST', feedback); }
 module.exports = { TYPES, FILTERS, account, scope, id, reference, refKey, category, sourceLabel, matches, records, relatedNotes,
   isFavorite, toggleFavorite, visit, clearHistory, saveNote, remove, getDraft, setDraft, saveDraft, clearDraft,
-  route, open, editNote, dateLabel, historyGroups, login, requireLogin, logout, synchronize, syncQuietly, uploadImage, submitFeedback, dismissConflict };
+  route, open, editNote, dateLabel, historyGroups, login, requireLogin, logout, synchronize, syncQuietly, uploadImage, submitFeedback, transcribe, dismissConflict };
 function route(ref, progress = {}) {
   if (!ref || !TYPES[ref.type]) throw new Error('关联内容不可用');
   const paths = {
