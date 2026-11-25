@@ -1,0 +1,716 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E6%8A%98%E8%A1%B7/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "凡例",
+        "path": [
+          "凡例"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 1,
+        "title": "記錄十四科",
+        "path": [
+          "記錄十四科"
+        ]
+      },
+      {
+        "ordinal": 14,
+        "level": 1,
+        "title": "初生護養",
+        "path": [
+          "初生護養"
+        ]
+      },
+      {
+        "ordinal": 29,
+        "level": 1,
+        "title": "入門審候歌",
+        "path": [
+          "入門審候歌"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 1,
+        "title": "觀面部五色",
+        "path": [
+          "觀面部五色"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 1,
+        "title": "三關脈紋主病歌",
+        "path": [
+          "三關脈紋主病歌"
+        ]
+      },
+      {
+        "ordinal": 38,
+        "level": 1,
+        "title": "上卷",
+        "path": [
+          "上卷"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "急慢驚風",
+        "path": [
+          "上卷",
+          "急慢驚風"
+        ]
+      },
+      {
+        "ordinal": 96,
+        "level": 2,
+        "title": "疳積",
+        "path": [
+          "上卷",
+          "疳積"
+        ]
+      },
+      {
+        "ordinal": 138,
+        "level": 2,
+        "title": "諸吐",
+        "path": [
+          "上卷",
+          "諸吐"
+        ]
+      },
+      {
+        "ordinal": 166,
+        "level": 2,
+        "title": "諸瀉",
+        "path": [
+          "上卷",
+          "諸瀉"
+        ]
+      },
+      {
+        "ordinal": 191,
+        "level": 2,
+        "title": "吐瀉",
+        "path": [
+          "上卷",
+          "吐瀉"
+        ]
+      },
+      {
+        "ordinal": 205,
+        "level": 2,
+        "title": "霍亂吐瀉",
+        "path": [
+          "上卷",
+          "霍亂吐瀉"
+        ]
+      },
+      {
+        "ordinal": 225,
+        "level": 2,
+        "title": "瘧疾",
+        "path": [
+          "上卷",
+          "瘧疾"
+        ]
+      },
+      {
+        "ordinal": 249,
+        "level": 2,
+        "title": "痢疾",
+        "path": [
+          "上卷",
+          "痢疾"
+        ]
+      },
+      {
+        "ordinal": 289,
+        "level": 3,
+        "title": "附：脫肛",
+        "path": [
+          "上卷",
+          "痢疾",
+          "附：脫肛"
+        ]
+      },
+      {
+        "ordinal": 303,
+        "level": 2,
+        "title": "咳嗽",
+        "path": [
+          "上卷",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 314,
+        "level": 3,
+        "title": "附：龜胸龜背",
+        "path": [
+          "上卷",
+          "咳嗽",
+          "附：龜胸龜背"
+        ]
+      },
+      {
+        "ordinal": 339,
+        "level": 2,
+        "title": "傷積",
+        "path": [
+          "上卷",
+          "傷積"
+        ]
+      },
+      {
+        "ordinal": 345,
+        "level": 3,
+        "title": "附：傷食",
+        "path": [
+          "上卷",
+          "傷積",
+          "附：傷食"
+        ]
+      },
+      {
+        "ordinal": 355,
+        "level": 2,
+        "title": "傷寒",
+        "path": [
+          "上卷",
+          "傷寒"
+        ]
+      },
+      {
+        "ordinal": 406,
+        "level": 2,
+        "title": "熱症",
+        "path": [
+          "上卷",
+          "熱症"
+        ]
+      },
+      {
+        "ordinal": 454,
+        "level": 2,
+        "title": "痧症",
+        "path": [
+          "上卷",
+          "痧症"
+        ]
+      },
+      {
+        "ordinal": 473,
+        "level": 2,
+        "title": "喘症",
+        "path": [
+          "上卷",
+          "喘症"
+        ]
+      },
+      {
+        "ordinal": 492,
+        "level": 3,
+        "title": "附：齁䶎",
+        "path": [
+          "上卷",
+          "喘症",
+          "附：齁䶎"
+        ]
+      },
+      {
+        "ordinal": 498,
+        "level": 2,
+        "title": "痓症",
+        "path": [
+          "上卷",
+          "痓症"
+        ]
+      },
+      {
+        "ordinal": 514,
+        "level": 2,
+        "title": "癇症",
+        "path": [
+          "上卷",
+          "癇症"
+        ]
+      },
+      {
+        "ordinal": 539,
+        "level": 2,
+        "title": "積聚",
+        "path": [
+          "上卷",
+          "積聚"
+        ]
+      },
+      {
+        "ordinal": 555,
+        "level": 2,
+        "title": "黃疸",
+        "path": [
+          "上卷",
+          "黃疸"
+        ]
+      },
+      {
+        "ordinal": 568,
+        "level": 2,
+        "title": "諸血",
+        "path": [
+          "上卷",
+          "諸血"
+        ]
+      },
+      {
+        "ordinal": 589,
+        "level": 2,
+        "title": "頭痛",
+        "path": [
+          "上卷",
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 612,
+        "level": 3,
+        "title": "附：頸項強痛",
+        "path": [
+          "上卷",
+          "頭痛",
+          "附：頸項強痛"
+        ]
+      },
+      {
+        "ordinal": 622,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "上卷",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 652,
+        "level": 2,
+        "title": "胃脘痛",
+        "path": [
+          "上卷",
+          "胃脘痛"
+        ]
+      },
+      {
+        "ordinal": 672,
+        "level": 2,
+        "title": "腫脹",
+        "path": [
+          "上卷",
+          "腫脹"
+        ]
+      },
+      {
+        "ordinal": 697,
+        "level": 1,
+        "title": "下卷",
+        "path": [
+          "下卷"
+        ]
+      },
+      {
+        "ordinal": 698,
+        "level": 2,
+        "title": "汗症",
+        "path": [
+          "下卷",
+          "汗症"
+        ]
+      },
+      {
+        "ordinal": 723,
+        "level": 2,
+        "title": "疝症",
+        "path": [
+          "下卷",
+          "疝症"
+        ]
+      },
+      {
+        "ordinal": 733,
+        "level": 2,
+        "title": "滯頤",
+        "path": [
+          "下卷",
+          "滯頤"
+        ]
+      },
+      {
+        "ordinal": 742,
+        "level": 2,
+        "title": "五淋",
+        "path": [
+          "下卷",
+          "五淋"
+        ]
+      },
+      {
+        "ordinal": 762,
+        "level": 3,
+        "title": "附：便濁",
+        "path": [
+          "下卷",
+          "五淋",
+          "附：便濁"
+        ]
+      },
+      {
+        "ordinal": 767,
+        "level": 2,
+        "title": "蟲症",
+        "path": [
+          "下卷",
+          "蟲症"
+        ]
+      },
+      {
+        "ordinal": 775,
+        "level": 2,
+        "title": "目症",
+        "path": [
+          "下卷",
+          "目症"
+        ]
+      },
+      {
+        "ordinal": 797,
+        "level": 2,
+        "title": "耳症",
+        "path": [
+          "下卷",
+          "耳症"
+        ]
+      },
+      {
+        "ordinal": 805,
+        "level": 2,
+        "title": "鼻症",
+        "path": [
+          "下卷",
+          "鼻症"
+        ]
+      },
+      {
+        "ordinal": 817,
+        "level": 2,
+        "title": "喉痹",
+        "path": [
+          "下卷",
+          "喉痹"
+        ]
+      },
+      {
+        "ordinal": 825,
+        "level": 2,
+        "title": "口病",
+        "path": [
+          "下卷",
+          "口病"
+        ]
+      },
+      {
+        "ordinal": 845,
+        "level": 2,
+        "title": "大便結",
+        "path": [
+          "下卷",
+          "大便結"
+        ]
+      },
+      {
+        "ordinal": 853,
+        "level": 2,
+        "title": "陰囊腫",
+        "path": [
+          "下卷",
+          "陰囊腫"
+        ]
+      },
+      {
+        "ordinal": 870,
+        "level": 2,
+        "title": "小便閉",
+        "path": [
+          "下卷",
+          "小便閉"
+        ]
+      },
+      {
+        "ordinal": 884,
+        "level": 3,
+        "title": "附：遺溺尿床",
+        "path": [
+          "下卷",
+          "小便閉",
+          "附：遺溺尿床"
+        ]
+      },
+      {
+        "ordinal": 890,
+        "level": 2,
+        "title": "麻木",
+        "path": [
+          "下卷",
+          "麻木"
+        ]
+      },
+      {
+        "ordinal": 904,
+        "level": 2,
+        "title": "驚癱鶴膝",
+        "path": [
+          "下卷",
+          "驚癱鶴膝"
+        ]
+      },
+      {
+        "ordinal": 912,
+        "level": 2,
+        "title": "諸瘡",
+        "path": [
+          "下卷",
+          "諸瘡"
+        ]
+      },
+      {
+        "ordinal": 932,
+        "level": 2,
+        "title": "丹毒",
+        "path": [
+          "下卷",
+          "丹毒"
+        ]
+      },
+      {
+        "ordinal": 947,
+        "level": 2,
+        "title": "風毒",
+        "path": [
+          "下卷",
+          "風毒"
+        ]
+      },
+      {
+        "ordinal": 961,
+        "level": 2,
+        "title": "夜啼",
+        "path": [
+          "下卷",
+          "夜啼"
+        ]
+      },
+      {
+        "ordinal": 980,
+        "level": 2,
+        "title": "瘖症",
+        "path": [
+          "下卷",
+          "瘖症"
+        ]
+      },
+      {
+        "ordinal": 1003,
+        "level": 2,
+        "title": "胃氣虛寒",
+        "path": [
+          "下卷",
+          "胃氣虛寒"
+        ]
+      },
+      {
+        "ordinal": 1009,
+        "level": 2,
+        "title": "小兒初生諸症",
+        "path": [
+          "下卷",
+          "小兒初生諸症"
+        ]
+      },
+      {
+        "ordinal": 1043,
+        "level": 3,
+        "title": "附：小兒五軟",
+        "path": [
+          "下卷",
+          "小兒初生諸症",
+          "附：小兒五軟"
+        ]
+      },
+      {
+        "ordinal": 1056,
+        "level": 2,
+        "title": "脈法",
+        "path": [
+          "下卷",
+          "脈法"
+        ]
+      },
+      {
+        "ordinal": 1089,
+        "level": 2,
+        "title": "脈要論",
+        "path": [
+          "下卷",
+          "脈要論"
+        ]
+      },
+      {
+        "ordinal": 1092,
+        "level": 2,
+        "title": "小兒哺乳宜慎擇論",
+        "path": [
+          "下卷",
+          "小兒哺乳宜慎擇論"
+        ]
+      },
+      {
+        "ordinal": 1094,
+        "level": 2,
+        "title": "護養法",
+        "path": [
+          "下卷",
+          "護養法"
+        ]
+      },
+      {
+        "ordinal": 1098,
+        "level": 2,
+        "title": "變蒸",
+        "path": [
+          "下卷",
+          "變蒸"
+        ]
+      },
+      {
+        "ordinal": 1106,
+        "level": 2,
+        "title": "五臟虛實所主論",
+        "path": [
+          "下卷",
+          "五臟虛實所主論"
+        ]
+      },
+      {
+        "ordinal": 1120,
+        "level": 2,
+        "title": "五臟相勝之邪論",
+        "path": [
+          "下卷",
+          "五臟相勝之邪論"
+        ]
+      },
+      {
+        "ordinal": 1133,
+        "level": 2,
+        "title": "五臟子母虛實鬼賊微正論",
+        "path": [
+          "下卷",
+          "五臟子母虛實鬼賊微正論"
+        ]
+      },
+      {
+        "ordinal": 1137,
+        "level": 2,
+        "title": "五臟補瀉之法論",
+        "path": [
+          "下卷",
+          "五臟補瀉之法論"
+        ]
+      },
+      {
+        "ordinal": 1190,
+        "level": 2,
+        "title": "五臟伏敵喜傷諸病論",
+        "path": [
+          "下卷",
+          "五臟伏敵喜傷諸病論"
+        ]
+      },
+      {
+        "ordinal": 1196,
+        "level": 2,
+        "title": "驗五臟氣絕症",
+        "path": [
+          "下卷",
+          "驗五臟氣絕症"
+        ]
+      },
+      {
+        "ordinal": 1203,
+        "level": 2,
+        "title": "運氣總論",
+        "path": [
+          "下卷",
+          "運氣總論"
+        ]
+      },
+      {
+        "ordinal": 1210,
+        "level": 1,
+        "title": "附錄",
+        "path": [
+          "附錄"
+        ]
+      },
+      {
+        "ordinal": 1211,
+        "level": 2,
+        "title": "六氣之圖",
+        "path": [
+          "附錄",
+          "六氣之圖"
+        ]
+      },
+      {
+        "ordinal": 1214,
+        "level": 2,
+        "title": "逐年五運六氣圖",
+        "path": [
+          "附錄",
+          "逐年五運六氣圖"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 1212,
+        "label": "圖",
+        "source": "urn:270:03528.jpg"
+      },
+      {
+        "ordinal": 1213,
+        "label": "六氣之圖",
+        "source": "urn:270:03526.jpg"
+      },
+      {
+        "ordinal": 1215,
+        "label": "逐年五運六氣圖",
+        "source": "urn:270:03527.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 76,
+      "paragraph_blocks": 1145,
+      "nonempty_paragraph_blocks": 1145,
+      "represented_paragraph_blocks": 1145
+    }
+  }
+]

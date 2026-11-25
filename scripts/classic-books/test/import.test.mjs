@@ -64,7 +64,7 @@ test('real MySQL isolated import scenarios',{skip:!port},async t=>{
       const [oldBooks]=await db.query('SELECT * FROM t_books');
       const [oldChapters]=await db.query('SELECT * FROM t_book_chapters');
       const dry=await importDatasets(db,database,[dataset()]);assert.equal(dry.summary.planned_new_books,1);assert.equal(await count('t_books'),1);
-      const first=await importDatasets(db,database,[dataset()],{apply:true});
+      const first=await importDatasets(db,database,[dataset()],{apply:true,chapterBatchSize:2});
       assert.equal(first.summary.errors,0);assert.equal(first.books[0].book_id,318);assert.equal(first.summary.inserted_chapters,3);
       const [added]=await db.query('SELECT id,book_id FROM t_book_chapters WHERE book_id=318 ORDER BY id');
       assert.deepEqual(added,[5001,5002,5003].map(id=>({id,book_id:318})));

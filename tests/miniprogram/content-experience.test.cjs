@@ -14,7 +14,8 @@ function harness(file, modules = {}, wxExtra = {}, stack = [{}]) {
     'content-share': share,
     'search': require('../../miniprogram/utils/search'),
     'books-api': {}, 'cases-api': {}, 'prescriptions-api': {}, 'meridians-api': {}, 'acupoints-api': {},
-    'learning-store': {}, 'speech-input': {}, 'meridians': require('../../miniprogram/utils/meridians'), ...modules
+    'learning-store': {}, 'speech-input': {}, 'meridians': require('../../miniprogram/utils/meridians'),
+    'acupoint-location': require('../../miniprogram/utils/acupoint-location'), ...modules
   };
   vm.runInNewContext(fs.readFileSync(path.join(root, file), 'utf8'), {
     Page: value => { definition = value; }, Component: value => { definition = value; },
@@ -68,25 +69,32 @@ test('home formula retries ignore stale and unloaded responses', async () => {
   assert.equal(another.data.featuredPrescriptions.length, 0);
 });
 
-test('home history refreshes after sync, resumes reading, and clears on logout', async () => {
-  let loggedIn = true, rows = [], opened;
-  const store = { account: () => loggedIn ? { id:'user' } : null, scope: () => loggedIn ? 'user' : 'guest',
-    records: () => rows, sourceLabel: () => '医书章节', open: (...args) => { opened=args; },
-    synchronize: async () => { rows = [1,2,3,4].map(id => ({ key:'history:'+id, ref:{type:'chapter', id:7, chapterId:id}, scrollTop:320, contentMode:'original' })); } };
-  const { page } = harness(home, { 'learning-store': store });
-  await page.loadHistory(); assert.equal(page.data.recentHistory.length, 3);
-  page.openHistoryItem({ currentTarget: { dataset: { key:'history:1' } } });
-  assert.equal(opened[0].chapterId, 1); assert.equal(opened[1].scrollTop, 320);
-  loggedIn = false; page.refreshHistory(); assert.equal(page.data.recentHistory.length, 0);
-  assert.equal(page.data.loggedIn, false);
+test('home syncs personal data in the background without a history section', () => {
+  let syncCalls = 0;
+  const { page } = harness(home, { 'learning-store': { syncQuietly: () => { syncCalls += 1; } } });
+  page.onShow();
+  assert.equal(syncCalls, 1);
+  const markup = fs.readFileSync(path.join(root, home.replace(/\.js$/, '.wxml')), 'utf8');
+  assert.doesNotMatch(markup, /历史记录|recentHistory/);
 });
 
-test('home retains cached history and reports a recoverable sync failure', async () => {
-  const store = { account: () => ({ id:'a' }), scope: () => 'a', sourceLabel: () => '医案',
-    records: () => [{ key:'a', title:'缓存医案' }], synchronize: async () => { throw Error('offline'); } };
-  const { page } = harness(home, { 'learning-store':store });
-  await page.loadHistory(); assert.equal(page.data.recentHistory[0].title, '缓存医案');
-  assert.match(page.data.historyError, /缓存/); assert.equal(page.data.historyLoading, false);
+test('history page retains cached records and resumes reading when sync fails', async () => {
+  const ref = { type: 'chapter', id: 7, chapterId: 1 };
+  const row = { key: 'history:chapter:7:1', title: '缓存章节', ref, scrollTop: 320, contentMode: 'original', updatedAt: Date.now() };
+  let opened;
+  const store = {
+    ...require('../../miniprogram/utils/learning-store'),
+    records: () => [row],
+    open: (...args) => { opened = args; },
+    synchronize: async () => { throw Error('offline'); }
+  };
+  const { page } = harness('miniprogram/pages/history/index/index.js', { 'learning-store': store });
+  page.onShow();
+  await new Promise(resolve => setImmediate(resolve));
+  assert.match(page.data.syncError, /缓存/);
+  assert.equal(page.data.groups.length, 1);
+  page.openItem({ currentTarget: { dataset: { key: row.key } } });
+  assert.deepEqual(opened, [ref, row]);
 });
 
 test('all public details share public content with a fixed image and never personal state', () => {

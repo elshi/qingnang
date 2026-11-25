@@ -1,0 +1,1156 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "自序",
+        "path": [
+          "自序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 2,
+        "title": "醫範",
+        "path": [
+          "卷一",
+          "醫範"
+        ]
+      },
+      {
+        "ordinal": 16,
+        "level": 2,
+        "title": "醫鑑",
+        "path": [
+          "卷一",
+          "醫鑑"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 2,
+        "title": "慎疾",
+        "path": [
+          "卷一",
+          "慎疾"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "保生",
+        "path": [
+          "卷一",
+          "保生"
+        ]
+      },
+      {
+        "ordinal": 50,
+        "level": 2,
+        "title": "慎藥",
+        "path": [
+          "卷一",
+          "慎藥"
+        ]
+      },
+      {
+        "ordinal": 65,
+        "level": 2,
+        "title": "求醫",
+        "path": [
+          "卷一",
+          "求醫"
+        ]
+      },
+      {
+        "ordinal": 70,
+        "level": 2,
+        "title": "診法",
+        "path": [
+          "卷一",
+          "診法"
+        ]
+      },
+      {
+        "ordinal": 73,
+        "level": 2,
+        "title": "脈",
+        "path": [
+          "卷一",
+          "脈"
+        ]
+      },
+      {
+        "ordinal": 87,
+        "level": 2,
+        "title": "用藥",
+        "path": [
+          "卷一",
+          "用藥"
+        ]
+      },
+      {
+        "ordinal": 102,
+        "level": 1,
+        "title": "卷二",
+        "path": [
+          "卷二"
+        ]
+      },
+      {
+        "ordinal": 103,
+        "level": 2,
+        "title": "古人",
+        "path": [
+          "卷二",
+          "古人"
+        ]
+      },
+      {
+        "ordinal": 112,
+        "level": 2,
+        "title": "今人",
+        "path": [
+          "卷二",
+          "今人"
+        ]
+      },
+      {
+        "ordinal": 131,
+        "level": 2,
+        "title": "古書",
+        "path": [
+          "卷二",
+          "古書"
+        ]
+      },
+      {
+        "ordinal": 146,
+        "level": 2,
+        "title": "今書",
+        "path": [
+          "卷二",
+          "今書"
+        ]
+      },
+      {
+        "ordinal": 184,
+        "level": 1,
+        "title": "卷三",
+        "path": [
+          "卷三"
+        ]
+      },
+      {
+        "ordinal": 185,
+        "level": 2,
+        "title": "形體",
+        "path": [
+          "卷三",
+          "形體"
+        ]
+      },
+      {
+        "ordinal": 188,
+        "level": 2,
+        "title": "中風",
+        "path": [
+          "卷三",
+          "中風"
+        ]
+      },
+      {
+        "ordinal": 190,
+        "level": 2,
+        "title": "傷寒",
+        "path": [
+          "卷三",
+          "傷寒"
+        ]
+      },
+      {
+        "ordinal": 193,
+        "level": 2,
+        "title": "陰證陽證",
+        "path": [
+          "卷三",
+          "陰證陽證"
+        ]
+      },
+      {
+        "ordinal": 196,
+        "level": 2,
+        "title": "暑",
+        "path": [
+          "卷三",
+          "暑"
+        ]
+      },
+      {
+        "ordinal": 199,
+        "level": 2,
+        "title": "暑風",
+        "path": [
+          "卷三",
+          "暑風"
+        ]
+      },
+      {
+        "ordinal": 201,
+        "level": 2,
+        "title": "霍亂轉筋（俗稱吊腳痧）",
+        "path": [
+          "卷三",
+          "霍亂轉筋（俗稱吊腳痧）"
+        ]
+      },
+      {
+        "ordinal": 204,
+        "level": 2,
+        "title": "熱",
+        "path": [
+          "卷三",
+          "熱"
+        ]
+      },
+      {
+        "ordinal": 210,
+        "level": 2,
+        "title": "熱入心胞",
+        "path": [
+          "卷三",
+          "熱入心胞"
+        ]
+      },
+      {
+        "ordinal": 213,
+        "level": 2,
+        "title": "疫",
+        "path": [
+          "卷三",
+          "疫"
+        ]
+      },
+      {
+        "ordinal": 216,
+        "level": 2,
+        "title": "痧",
+        "path": [
+          "卷三",
+          "痧"
+        ]
+      },
+      {
+        "ordinal": 221,
+        "level": 2,
+        "title": "瘧",
+        "path": [
+          "卷三",
+          "瘧"
+        ]
+      },
+      {
+        "ordinal": 225,
+        "level": 2,
+        "title": "三陰瘧",
+        "path": [
+          "卷三",
+          "三陰瘧"
+        ]
+      },
+      {
+        "ordinal": 227,
+        "level": 2,
+        "title": "痢",
+        "path": [
+          "卷三",
+          "痢"
+        ]
+      },
+      {
+        "ordinal": 232,
+        "level": 2,
+        "title": "瀉",
+        "path": [
+          "卷三",
+          "瀉"
+        ]
+      },
+      {
+        "ordinal": 234,
+        "level": 2,
+        "title": "疝",
+        "path": [
+          "卷三",
+          "疝"
+        ]
+      },
+      {
+        "ordinal": 236,
+        "level": 2,
+        "title": "咳嗽",
+        "path": [
+          "卷三",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 239,
+        "level": 2,
+        "title": "噎",
+        "path": [
+          "卷三",
+          "噎"
+        ]
+      },
+      {
+        "ordinal": 243,
+        "level": 2,
+        "title": "吐",
+        "path": [
+          "卷三",
+          "吐"
+        ]
+      },
+      {
+        "ordinal": 245,
+        "level": 2,
+        "title": "頭痛",
+        "path": [
+          "卷三",
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 247,
+        "level": 2,
+        "title": "脅痛",
+        "path": [
+          "卷三",
+          "脅痛"
+        ]
+      },
+      {
+        "ordinal": 249,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "卷三",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 251,
+        "level": 2,
+        "title": "肝病",
+        "path": [
+          "卷三",
+          "肝病"
+        ]
+      },
+      {
+        "ordinal": 256,
+        "level": 2,
+        "title": "七情",
+        "path": [
+          "卷三",
+          "七情"
+        ]
+      },
+      {
+        "ordinal": 258,
+        "level": 2,
+        "title": "不寐",
+        "path": [
+          "卷三",
+          "不寐"
+        ]
+      },
+      {
+        "ordinal": 262,
+        "level": 1,
+        "title": "卷四",
+        "path": [
+          "卷四"
+        ]
+      },
+      {
+        "ordinal": 263,
+        "level": 2,
+        "title": "吐血",
+        "path": [
+          "卷四",
+          "吐血"
+        ]
+      },
+      {
+        "ordinal": 269,
+        "level": 2,
+        "title": "諸血",
+        "path": [
+          "卷四",
+          "諸血"
+        ]
+      },
+      {
+        "ordinal": 272,
+        "level": 2,
+        "title": "汗",
+        "path": [
+          "卷四",
+          "汗"
+        ]
+      },
+      {
+        "ordinal": 274,
+        "level": 2,
+        "title": "疸",
+        "path": [
+          "卷四",
+          "疸"
+        ]
+      },
+      {
+        "ordinal": 276,
+        "level": 2,
+        "title": "腫",
+        "path": [
+          "卷四",
+          "腫"
+        ]
+      },
+      {
+        "ordinal": 278,
+        "level": 2,
+        "title": "消",
+        "path": [
+          "卷四",
+          "消"
+        ]
+      },
+      {
+        "ordinal": 280,
+        "level": 2,
+        "title": "傷食",
+        "path": [
+          "卷四",
+          "傷食"
+        ]
+      },
+      {
+        "ordinal": 284,
+        "level": 2,
+        "title": "邪祟",
+        "path": [
+          "卷四",
+          "邪祟"
+        ]
+      },
+      {
+        "ordinal": 287,
+        "level": 2,
+        "title": "癘",
+        "path": [
+          "卷四",
+          "癘"
+        ]
+      },
+      {
+        "ordinal": 290,
+        "level": 2,
+        "title": "耳",
+        "path": [
+          "卷四",
+          "耳"
+        ]
+      },
+      {
+        "ordinal": 293,
+        "level": 2,
+        "title": "目",
+        "path": [
+          "卷四",
+          "目"
+        ]
+      },
+      {
+        "ordinal": 298,
+        "level": 2,
+        "title": "喉",
+        "path": [
+          "卷四",
+          "喉"
+        ]
+      },
+      {
+        "ordinal": 301,
+        "level": 2,
+        "title": "舌",
+        "path": [
+          "卷四",
+          "舌"
+        ]
+      },
+      {
+        "ordinal": 307,
+        "level": 2,
+        "title": "齒",
+        "path": [
+          "卷四",
+          "齒"
+        ]
+      },
+      {
+        "ordinal": 311,
+        "level": 2,
+        "title": "腿",
+        "path": [
+          "卷四",
+          "腿"
+        ]
+      },
+      {
+        "ordinal": 316,
+        "level": 2,
+        "title": "雜病",
+        "path": [
+          "卷四",
+          "雜病"
+        ]
+      },
+      {
+        "ordinal": 323,
+        "level": 2,
+        "title": "婦科",
+        "path": [
+          "卷四",
+          "婦科"
+        ]
+      },
+      {
+        "ordinal": 333,
+        "level": 2,
+        "title": "胎產",
+        "path": [
+          "卷四",
+          "胎產"
+        ]
+      },
+      {
+        "ordinal": 349,
+        "level": 2,
+        "title": "乳",
+        "path": [
+          "卷四",
+          "乳"
+        ]
+      },
+      {
+        "ordinal": 351,
+        "level": 1,
+        "title": "卷五",
+        "path": [
+          "卷五"
+        ]
+      },
+      {
+        "ordinal": 352,
+        "level": 2,
+        "title": "幼科",
+        "path": [
+          "卷五",
+          "幼科"
+        ]
+      },
+      {
+        "ordinal": 357,
+        "level": 2,
+        "title": "痘",
+        "path": [
+          "卷五",
+          "痘"
+        ]
+      },
+      {
+        "ordinal": 361,
+        "level": 2,
+        "title": "疳",
+        "path": [
+          "卷五",
+          "疳"
+        ]
+      },
+      {
+        "ordinal": 364,
+        "level": 2,
+        "title": "外科",
+        "path": [
+          "卷五",
+          "外科"
+        ]
+      },
+      {
+        "ordinal": 374,
+        "level": 2,
+        "title": "疔",
+        "path": [
+          "卷五",
+          "疔"
+        ]
+      },
+      {
+        "ordinal": 377,
+        "level": 2,
+        "title": "針灸",
+        "path": [
+          "卷五",
+          "針灸"
+        ]
+      },
+      {
+        "ordinal": 380,
+        "level": 2,
+        "title": "藥品",
+        "path": [
+          "卷五",
+          "藥品"
+        ]
+      },
+      {
+        "ordinal": 430,
+        "level": 2,
+        "title": "食忌",
+        "path": [
+          "卷五",
+          "食忌"
+        ]
+      },
+      {
+        "ordinal": 434,
+        "level": 2,
+        "title": "酒",
+        "path": [
+          "卷五",
+          "酒"
+        ]
+      },
+      {
+        "ordinal": 436,
+        "level": 2,
+        "title": "鴉片煙",
+        "path": [
+          "卷五",
+          "鴉片煙"
+        ]
+      },
+      {
+        "ordinal": 439,
+        "level": 2,
+        "title": "雜方",
+        "path": [
+          "卷五",
+          "雜方"
+        ]
+      },
+      {
+        "ordinal": 455,
+        "level": 2,
+        "title": "質正",
+        "path": [
+          "卷五",
+          "質正"
+        ]
+      },
+      {
+        "ordinal": 464,
+        "level": 1,
+        "title": "跋",
+        "path": [
+          "跋"
+        ]
+      },
+      {
+        "ordinal": 467,
+        "level": 1,
+        "title": "補編",
+        "path": [
+          "補編"
+        ]
+      },
+      {
+        "ordinal": 468,
+        "level": 2,
+        "title": "弁言",
+        "path": [
+          "補編",
+          "弁言"
+        ]
+      },
+      {
+        "ordinal": 470,
+        "level": 2,
+        "title": "醫範",
+        "path": [
+          "補編",
+          "醫範"
+        ]
+      },
+      {
+        "ordinal": 471,
+        "level": 3,
+        "title": "醫宗四大家",
+        "path": [
+          "補編",
+          "醫範",
+          "醫宗四大家"
+        ]
+      },
+      {
+        "ordinal": 474,
+        "level": 3,
+        "title": "何書田",
+        "path": [
+          "補編",
+          "醫範",
+          "何書田"
+        ]
+      },
+      {
+        "ordinal": 477,
+        "level": 3,
+        "title": "張夢廬",
+        "path": [
+          "補編",
+          "醫範",
+          "張夢廬"
+        ]
+      },
+      {
+        "ordinal": 480,
+        "level": 3,
+        "title": "《赤水玄珠》",
+        "path": [
+          "補編",
+          "醫範",
+          "《赤水玄珠》"
+        ]
+      },
+      {
+        "ordinal": 483,
+        "level": 3,
+        "title": "《難經經釋》",
+        "path": [
+          "補編",
+          "醫範",
+          "《難經經釋》"
+        ]
+      },
+      {
+        "ordinal": 486,
+        "level": 3,
+        "title": "《醫學源流論》",
+        "path": [
+          "補編",
+          "醫範",
+          "《醫學源流論》"
+        ]
+      },
+      {
+        "ordinal": 489,
+        "level": 2,
+        "title": "選案",
+        "path": [
+          "補編",
+          "選案"
+        ]
+      },
+      {
+        "ordinal": 490,
+        "level": 3,
+        "title": "《續名醫類案》",
+        "path": [
+          "補編",
+          "選案",
+          "《續名醫類案》"
+        ]
+      },
+      {
+        "ordinal": 493,
+        "level": 3,
+        "title": "學醫宜慎",
+        "path": [
+          "補編",
+          "選案",
+          "學醫宜慎"
+        ]
+      },
+      {
+        "ordinal": 496,
+        "level": 2,
+        "title": "錄方",
+        "path": [
+          "補編",
+          "錄方"
+        ]
+      },
+      {
+        "ordinal": 497,
+        "level": 3,
+        "title": "乾霍亂治法",
+        "path": [
+          "補編",
+          "錄方",
+          "乾霍亂治法"
+        ]
+      },
+      {
+        "ordinal": 500,
+        "level": 3,
+        "title": "苦參子治休息痢",
+        "path": [
+          "補編",
+          "錄方",
+          "苦參子治休息痢"
+        ]
+      },
+      {
+        "ordinal": 503,
+        "level": 3,
+        "title": "蜈蚣入腹",
+        "path": [
+          "補編",
+          "錄方",
+          "蜈蚣入腹"
+        ]
+      },
+      {
+        "ordinal": 506,
+        "level": 3,
+        "title": "青腿牙疳方",
+        "path": [
+          "補編",
+          "錄方",
+          "青腿牙疳方"
+        ]
+      },
+      {
+        "ordinal": 509,
+        "level": 3,
+        "title": "目疾秘方",
+        "path": [
+          "補編",
+          "錄方",
+          "目疾秘方"
+        ]
+      },
+      {
+        "ordinal": 512,
+        "level": 3,
+        "title": "治瘡秘方",
+        "path": [
+          "補編",
+          "錄方",
+          "治瘡秘方"
+        ]
+      },
+      {
+        "ordinal": 517,
+        "level": 3,
+        "title": "湯火傷方",
+        "path": [
+          "補編",
+          "錄方",
+          "湯火傷方"
+        ]
+      },
+      {
+        "ordinal": 520,
+        "level": 3,
+        "title": "巴鯽膏",
+        "path": [
+          "補編",
+          "錄方",
+          "巴鯽膏"
+        ]
+      },
+      {
+        "ordinal": 530,
+        "level": 3,
+        "title": "五聖丹",
+        "path": [
+          "補編",
+          "錄方",
+          "五聖丹"
+        ]
+      },
+      {
+        "ordinal": 535,
+        "level": 3,
+        "title": "沈嫗傳方",
+        "path": [
+          "補編",
+          "錄方",
+          "沈嫗傳方"
+        ]
+      },
+      {
+        "ordinal": 541,
+        "level": 3,
+        "title": "許秀山傳方",
+        "path": [
+          "補編",
+          "錄方",
+          "許秀山傳方"
+        ]
+      },
+      {
+        "ordinal": 544,
+        "level": 3,
+        "title": "家傳單方",
+        "path": [
+          "補編",
+          "錄方",
+          "家傳單方"
+        ]
+      },
+      {
+        "ordinal": 547,
+        "level": 3,
+        "title": "禁咒治病法",
+        "path": [
+          "補編",
+          "錄方",
+          "禁咒治病法"
+        ]
+      },
+      {
+        "ordinal": 550,
+        "level": 3,
+        "title": "油汙衣方",
+        "path": [
+          "補編",
+          "錄方",
+          "油汙衣方"
+        ]
+      },
+      {
+        "ordinal": 552,
+        "level": 2,
+        "title": "宜忌",
+        "path": [
+          "補編",
+          "宜忌"
+        ]
+      },
+      {
+        "ordinal": 553,
+        "level": 3,
+        "title": "食忌",
+        "path": [
+          "補編",
+          "宜忌",
+          "食忌"
+        ]
+      },
+      {
+        "ordinal": 556,
+        "level": 3,
+        "title": "藥忌",
+        "path": [
+          "補編",
+          "宜忌",
+          "藥忌"
+        ]
+      },
+      {
+        "ordinal": 559,
+        "level": 3,
+        "title": "餳",
+        "path": [
+          "補編",
+          "宜忌",
+          "餳"
+        ]
+      },
+      {
+        "ordinal": 562,
+        "level": 3,
+        "title": "常食之物",
+        "path": [
+          "補編",
+          "宜忌",
+          "常食之物"
+        ]
+      },
+      {
+        "ordinal": 565,
+        "level": 3,
+        "title": "饑飢餓解",
+        "path": [
+          "補編",
+          "宜忌",
+          "饑飢餓解"
+        ]
+      },
+      {
+        "ordinal": 568,
+        "level": 2,
+        "title": "博物",
+        "path": [
+          "補編",
+          "博物"
+        ]
+      },
+      {
+        "ordinal": 569,
+        "level": 3,
+        "title": "麒麟",
+        "path": [
+          "補編",
+          "博物",
+          "麒麟"
+        ]
+      },
+      {
+        "ordinal": 572,
+        "level": 3,
+        "title": "麈角解",
+        "path": [
+          "補編",
+          "博物",
+          "麈角解"
+        ]
+      },
+      {
+        "ordinal": 575,
+        "level": 3,
+        "title": "鼠",
+        "path": [
+          "補編",
+          "博物",
+          "鼠"
+        ]
+      },
+      {
+        "ordinal": 578,
+        "level": 3,
+        "title": "猴經",
+        "path": [
+          "補編",
+          "博物",
+          "猴經"
+        ]
+      },
+      {
+        "ordinal": 581,
+        "level": 3,
+        "title": "鰣魚",
+        "path": [
+          "補編",
+          "博物",
+          "鰣魚"
+        ]
+      },
+      {
+        "ordinal": 584,
+        "level": 3,
+        "title": "蠼螋",
+        "path": [
+          "補編",
+          "博物",
+          "蠼螋"
+        ]
+      },
+      {
+        "ordinal": 587,
+        "level": 3,
+        "title": "蒼耳子蟲",
+        "path": [
+          "補編",
+          "博物",
+          "蒼耳子蟲"
+        ]
+      },
+      {
+        "ordinal": 590,
+        "level": 3,
+        "title": "孑孓蟲",
+        "path": [
+          "補編",
+          "博物",
+          "孑孓蟲"
+        ]
+      },
+      {
+        "ordinal": 593,
+        "level": 3,
+        "title": "檳榔",
+        "path": [
+          "補編",
+          "博物",
+          "檳榔"
+        ]
+      },
+      {
+        "ordinal": 596,
+        "level": 3,
+        "title": "槜李",
+        "path": [
+          "補編",
+          "博物",
+          "槜李"
+        ]
+      },
+      {
+        "ordinal": 599,
+        "level": 3,
+        "title": "火浣布、鳳首木、火油",
+        "path": [
+          "補編",
+          "博物",
+          "火浣布、鳳首木、火油"
+        ]
+      },
+      {
+        "ordinal": 601,
+        "level": 3,
+        "title": "自然氣化",
+        "path": [
+          "補編",
+          "博物",
+          "自然氣化"
+        ]
+      },
+      {
+        "ordinal": 604,
+        "level": 3,
+        "title": "鬚髮早白",
+        "path": [
+          "補編",
+          "博物",
+          "鬚髮早白"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 123,
+      "paragraph_blocks": 483,
+      "nonempty_paragraph_blocks": 483,
+      "represented_paragraph_blocks": 483
+    }
+  }
+]

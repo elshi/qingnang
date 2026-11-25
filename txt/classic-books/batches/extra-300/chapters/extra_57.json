@@ -1,0 +1,4233 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_57",
+    "name": "四圣悬枢",
+    "summary": "《四圣悬枢》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“自叙”、“卷一”、“温病名义”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "黄元御",
+    "jp": "SSXS",
+    "aliases": [
+      "四聖懸樞"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "256f7623957a0b9c682f0c4b",
+      "title": "自叙",
+      "volume": null,
+      "content": "天未尝有生而无杀，或以兵荒，或以疫疠。杀之自天，于人何尤，然此虽天之过乎，抑亦人之罪焉。兵荒未必杀人，世无良相也，疫疠未必杀人，世无良医也。相而不良其罪小，医而不良其罪大。\n魏晋以来，至于今日，疫疠之杀人多矣。其书数十百部，其徒数千百人，病则家不得免，药则户不能逃。最可恨者，小儿之痘疹，即大人之疫疠，愚妄不以为岁气，而以为胎毒。哀此百万生灵，既困天灾，复加人祸，民有两死而无一生，吁其悲矣！天地不仁，不过以百姓为刍狗，愚妄不仁，遂至以苍生为鱼肉，此怨天乎？抑尤人乎？仲景先师，创内外感伤之法，而未言疫疠。其言之彰明而较著者，人犹有未解，况其未言者与，何怪于群儿之讹谬耶。\n仆于己巳春初，草《四圣悬枢》，析温疫痘疹之义，辛未六月，笔削于清江河院暑中。四部俱成，伤寒之义元矣，疫疠之义，元之又元。\n慨夫！上士十载悟玄，下士见之大笑，以为尚白。其于闳意眇旨，玄而白之，其于沉辞浮藻，白而玄之。此黑之悬，彼白之募，是墨以为明而狐以为苍也。杨朱之弟，黑出而白入，其狗吠焉，杨朱之狗，黑往而白来，其弟怪焉。兹苍黄之未变，又黑白之不分，世无杨朱之弟矣，世亦并无杨朱之狗也。往有楚士而官于齐者，聚书数车，袭故纸以谈岐黄，览兹玄解，胡卢而笑。吴牛之喘，未见月也，蜀犬之吠，未见日也，吾安得进吴蜀之犬牛，登泰岳，凌清浮，与之抑日月之光华哉！\n昔子云草《玄》，侯芭从而受业，桓谭以为绝伦。今宇内之大，谅必有侯桓其人，吾将藏之深山，虚坐以待矣。\n壬申十月昌邑黄元御",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "自敘"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "ac2c8fd4fd6ce3538f9ff5a3188f284576ad4a15a8d7f48bf75452ba279391a3",
+      "content_sha256": "f14e2a0cccd63934084323c507d788dc0a077dc6dbaaa79270bd2e9a0e256fa0",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 621,
+        "simplified_codepoints": 621
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "7f409b7ce2cf780b833bc2fa",
+      "title": "卷一",
+      "volume": null,
+      "content": "时分冬夏，病殊寒温，气候不同，感伤亦异。伤寒著于仲景，温病阐于岐伯，各有妙解，水火判然。自叔和混热病于伤寒，伤寒之理，既永晦于千古，温病之义，亦长讹于百代。后世庸工纷起，杀运宏开，当鼓橐吹炉之际，何须覆鼎，值焦头烂额之秋，那堪入瓮。横览夭枉，怆恨实多，作温病解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 8,
+      "source_path": [
+        "卷一"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a5e1602019552896fb55371e95f9e03b5e00f2f15ddd8fe3bc78e198ea0b5e08",
+      "content_sha256": "04969f768c7dee6e646c9b99971b30b55471c13633bb432445357fc818f14b8a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "ebb37034b843d99cca1307aa",
+      "title": "温病名义",
+      "volume": "卷一 / 温病解第一",
+      "content": "秋冬感冒，名曰伤寒，春夏感冒，名曰温病。病于春者谓之温，病于夏者谓之热，温热同病，因时异名，《素问·热论》：先夏至日者为病温，后夏至日者为病暑是也。四时之候，秋凉冬寒，春温夏热，约而言之，不过阴阳，阴阳之气，不过寒热。寒盛于冬，热盛于夏，秋之凉者，将寒而未寒也，春之温者，将热而未热也。感于冬者，谓之伤寒，感于夏者，谓之病热，感秋之凉，轻于伤寒，而实伤寒之属也，感春之温，轻于病热，而实病热之属也，故秋冬之感证，统曰伤寒，春夏之感证，统曰热病。仲景之言伤寒，兼秋月之伤凉也，《素问》之言热病，兼春月之病温也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 11,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "溫病名義"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "1a2c385bce74ac0bab881227453b8644c0f45a8e4afe12a8f7340d3c91222d5b",
+      "content_sha256": "4694d966f30aedbf9b79c66ec52b1164839525ec18a79d144e7063c08dfab892",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 254,
+        "simplified_codepoints": 254
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "1aba71fc73d18e0394771e74",
+      "title": "附岐伯温义",
+      "volume": "卷一 / 温病解第一 / 温病名义",
+      "content": "《素问·热论》：黄帝问曰：今夫热病者，皆伤寒之类也，或愈或死，其死皆以六七日之间，其愈皆以十日以上者何也？\n热病者，伤寒之类，非伤寒也。\n岐伯对曰：人之伤于寒也，则为病热，热虽甚不死，其两感于寒而病者，必不免于死。\n外感之病，统曰伤寒，而其中实有风寒之分。春温夏热，皆感风邪，而曰伤寒者，感病之总名也。上文曰：热病者，伤寒之类，则温热非由伤寒甚明。\n人之春夏感伤，风泄其卫，卫闭而遏营血，则为病热。热虽至甚，而经尽阴复，不至于死。其阳亢阴枯，外被邪客，而表里双传，一日两经，是谓两感，精液消亡，必不免于死也。\n帝曰：愿闻其状。岐伯曰：伤寒一日，巨阳受之，巨阳者，诸阳之属也，故为诸阳主气也，其脉连于风府，故头项痛，腰脊强。二日阳明受之，阳明主肉。其脉挟鼻络于目，故身热目痛而鼻干，不得卧也。三日少阳受之，少阳主胆，其脉循胁络于耳，故胸胁痛而耳聋。三阳经络，皆受其病，而未入于脏者，故可汗而已。\n足之三阳，自头走足。伤寒一日，太阳受之，太阳者，诸阳之所属也，故为诸阳主气也。太阳行身之后，其脉自头下项，挟脊抵腰，连于督脉之风府，邪自风府而入，客于太阳之经，故头项痛，腰脊强。二日阳明受之，阳明行身之前，其脉挟鼻络于目，故目痛鼻干。三阳之气，皆随阳明下行，阳气蛰藏则善寐，阳明上逆，阳升而火泄，故身热而不卧。三日少阳受之，少阳行身之侧，其脉从耳下颈，自胸贯胭，而循胁里，故胸胁痛而耳聋。三阳经络，皆受其病，而未入于三阴之脏者，经郁热发，汗之开其皮毛，经热外泻，则病愈矣。\n四日太阴受之，太阴脉布胃中，络于嗌，故腹满而嗌干。五日少阴受之，少阴脉贯肾，络于肺，系舌本，故口燥舌干而渴。六日厥阴受之，厥阴脉循阴器而络于肝，故烦满而囊缩。\n足之三阴，自足走胸。四日太阴受之，太阴行身之前，其脉入腹络胃，上膈挟咽，故腹满而嗌干。五日少阴受之，少阴行身之后，其脉贯脊属肾入肺，而系舌本，故口燥舌干而渴。六日厥阴受之，厥阴行身之侧，其脉过阴器，抵少腹，挟胃属肝络胆，故烦满而囊缩。太阴曰脉布胃中，少阴曰脉贯肾，厥阴曰脉络于肝，是三阴之病，皆入于脏也。\n其不两感于寒者，七日巨阳病衰，头痛少愈，八日阳明病衰，身热少愈，九日少阳病衰，耳聋微闻，十日太阴病衰，腹减如故，则思饮食，十一日少阴病衰，渴止不满，舌干已而嚏 ，十二日厥阴病衰，囊纵，少腹微下。大气皆去，病日已矣。\n六日而六经俱尽，六日而六经俱解，所谓其愈皆以十日以上也。\n帝曰：治之奈何？岐伯曰：治之各通其脏脉，病日衰已矣。其未满三日者，可汗而已，其已满三日者，可泻而已。\n腑亦称脏，《素问·十二脏相使论》，十二脏之贵贱相使是也。五脏六腑皆受病矣，各通其脏脉，是何脏腑之病，即针通其何脏腑之脉也。其未满三日者，所谓三阳经络皆受其病，而未入于脏，故可汗而已。其已满三日者，已入于脏，故可泻而已。汗泻俱是刺法，详见「刺热篇」。\n《灵枢·热病》：热病三日，而气口静，人迎躁者，取之诸阳，五十九刺，以泻其热而出其汗，实其阴以补其不足。泻之则热去，补之则汗出。热病阳有余而阴不足，故泻其阳以补其阴。其在三阳，而未入脏者，热邪尚浅，补其经中之阴，则汗自出。其在三阴，而己入于脏者，热邪已深，非泄其脏中之阳，则热不去。温热之病，所以不死者，脏阴之未亡也，已入脏而不泄，则脏阴亡矣，故用泻法。\n帝曰：其两感于寒者，其脉应与其病形何如？岐伯曰：其两感于寒者，病一日巨阳与太阴俱病，则头痛口干而烦满，二日阳明与少阴俱病，则腹满身热，不欲食，谵语，三日少阳与厥阴俱病，则耳聋囊缩而厥，水浆不入，不知人，六日死。三阴三阳、五脏六腑皆受病，营卫不行，五脏不通，则死矣。帝曰：五脏已伤，六腑不通，营卫不行，如是之后三日乃死何也？岐伯曰：阳明者，十二经脉之长也，其血气盛，故不知人，三日其气乃尽，故死矣。\n两感者，阳强不密，阴气衰绝。其太阳之寒，随少阴而化热，太阴之湿，随阳明而化燥，厥阴之风，随少阳而化火，故一日之内，两经俱病。经其表里同气，故感应神速，三日六经俱病，再三日而阳明之气全消，是以死也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "溫病名義",
+        "附岐伯溫義"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9479f5b9ebdd591a6d0b1d818d13815fcc8a1a91419dfff5bcb177a523e80361",
+      "content_sha256": "096413ebb706b2bbc731187fe8d3bda4cd851cce3facdf2dab303ea9b6944dbe",
+      "paragraph_count": 16,
+      "paragraph_ordinals": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1654,
+        "simplified_codepoints": 1654
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "60fb147fafdcd5091c786ae0",
+      "title": "附仲景温义",
+      "volume": "卷一 / 温病解第一 / 温病名义",
+      "content": "仲景《伤寒》：太阳病，发热而渴，不恶寒者，为温病。若发汗已，身热灼者，名曰风温。风温为病，脉阴阳俱浮，自汗出，身重，多眠睡，鼻息必鼾，语言难出。若被下者，小便不利，直视失溲。若被火者，微发黄色，剧则如惊痫，时瘛疭，若火熏之。一逆尚引日，再逆促命期。\n伤寒阳乘阴位，卫气内郁则发热，热传阳明，金土枯燥则作渴，阴乘阳位，营气外闭则恶寒，故太阳伤寒，未传阳明，则有寒热，而无渴证。若病在太阳，发热作渴，而不恶寒，此非伤寒，是谓温病。温病之家，阳盛阴虚，津血枯槁，最忌汗下火攻。若发汗亡阴，身热如灼，火烈风生，名日风温。风温为病，阳亢阴绝，其脉尺寸俱浮。毛蒸里泄，常自汗出。清气消亡，身体重浊。胆热传胃，土困则多眠睡。鼻息粗重，必作鼾声。机关燥涩，语言难出。是皆误汗之证也。若被下者，亡其肾阴，小便不利。血枯金燥，直视不转。风木疏泄，溲溺遗失。是皆误下之证也。若被火者，病微则肌肉熏蒸，而发黄色。病剧则水枯木燥，肝胆失荣，魂气震荡，形如惊痫。筋脉伸缩，时作瘛疭。肌肤焦黑，色若烟熏。是皆误火之证也。凡若汗若下若火，皆为逆治，一逆尚延引其时日，再逆则催促其命期矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "溫病名義",
+        "附仲景溫義"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "d31d5ff51f5cf930811c343a37c26a9b712f80a430c25c266bbfb0f91c4edee5",
+      "content_sha256": "36591873a98f16a193f88e4d2371f57c34aa52d30f871e4d140aedf9f519d9ab",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        31,
+        32
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 477,
+        "simplified_codepoints": 477
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "aecfd9d0cf31cd1d76265986",
+      "title": "温病根原",
+      "volume": "卷一 / 温病解第一",
+      "content": "《素问·阴阳应象论》：冬伤于寒，春必病温。「生气通天论」：阴阳之要，阳秘乃固，阳强不能密，阴气乃绝。阴平阳秘，精神乃治，阴阳离决，精气乃绝。因于露风，乃生寒热。是以冬伤于寒，春必病温。「金匮真言论」：夫精者，身之本也，故藏于精者，春不病温。\n四时之气，春生夏长，秋收冬藏。木火旺于春夏，而司生长，金水旺于秋冬，而司收藏。而金水之所以收藏者，则精魄之能也。精以至阴而主藏，魄者精之始基，但能收而未能藏，是以蛰藏之职，独归于精。藏气得令，相火蛰封，肾精温暖，是谓阳密。少阴癸水与太阳壬水，两相表里，皆主蛰藏，癸水之藏，以其温也，壬水之藏，以其寒也。五行之气，热则发宣，寒则凝闭，癸水之温而善藏者，壬水之寒而善闭也。\n人于冬时，宜顺寒水之令，以藏阳气。阴精失藏，相火泄露，阳根不密，是谓冬伤于寒，冬伤于寒者，伤其寒水蛰藏之令气也。相火升炎，久而弥盛，春气一交，阳根尽泄，变木为火，化温成热，是以春月而行夏令也。天时之寒暄奠定，人窍之启闭无常，一遭风露侵凌，温病作矣。春时不病，至夏而感，是谓热病。冬时不病者，寒水司气，虽蛰藏失政，而经络脏腑之热，究未如春夏之盛也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 33,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "溫病根原"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "7052b2c7c6bd569a5691f413ef43ba00ffd55774fce50c975a4f45bd1cda0326",
+      "content_sha256": "045e866f998e2f2d3945786fe39148f8722a39d3cb8e6848337f2ea79356cde1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        34,
+        35,
+        36
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 479,
+        "simplified_codepoints": 479
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "66cb277de8f64b3d77ef825e",
+      "title": "病原同异",
+      "volume": "卷一 / 温病解第一",
+      "content": "温病之原，起于冬不藏精，伤其寒水之令，故春夏病感，必是内热。但冬伤于寒，春夏必病温热，而春夏之温热，不必皆冬伤于寒。其冬伤于寒而病温热者，自是内热，其不冬伤于寒而病温热者，未可定谓之内热也，病与温疫相同，而法亦无殊。其营郁热发，而又病于春夏之间，固无入脏生寒，用四逆。真武之证，然燥渴饮冷，积水不消者，亦未尝少，此皆不可用凉泻之法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 37,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "病原同異"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "498128091ac1bd8ca11dabd60b43da0a3fd70841a70b5fb5c3cf29511e10580f",
+      "content_sha256": "e11f57766e43e38936494d69ae3ad6543cf15e851e837249f25540d9759c9df2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        38
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "b4310af8ccb7e801c5481d7f",
+      "title": "风寒异邪",
+      "volume": "卷一 / 温病解第一",
+      "content": "四时感伤之因，有风有寒，寒者，天地之阴气，风者，天地之阳气。阳主开，阴主阖，伤于寒者，皮毛开而寒束之，故窍闭而无汗，中于风者，皮毛闭而风泄之，故窍开而有汗。\n气统于肺，金性清凉而降敛，血司于肝，木性温暖而升发，肺气清降则窍阖，肝血温升则窍开。人之汗孔，秋冬则阖者，气清而敛之也，春夏则开者，血温而发之也。秋冬窍阖，而有时偶开，则寒气伤之，春夏窍开，而有时偶闭，则风气中之，此四时之邪感伤之因也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 39,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "風寒異邪"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "918646c36ecdcf6c8330d129440fc7fa46d407ff384c6fec00df2626ebbcf6d9",
+      "content_sha256": "c5e0bfe64dadc52a60e1f16ebdcd7c84d9e390c81094fc470adfa42d244516a0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        40,
+        41
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 197,
+        "simplified_codepoints": 197
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "f0dc2d6e7810765bc6e5eff1",
+      "title": "营卫殊伤",
+      "volume": "卷一 / 温病解第一",
+      "content": "肺藏卫气，肝藏营血，寒则伤营而不伤卫，以卫气肃静，孔窍阖而寒莫由入，是以不伤，唯血温而窍开，乃伤于寒。风则伤卫而不伤营，以营血蒸动，孔窍开而风随汗解，是以不伤，唯气凉而窍阖，乃伤于风。\n然寒伤营血，而病则在卫，以营性升发，一被寒邪，阖其皮毛，则营愈欲发，外乘阳位，而束卫气，故卫闭而恶寒。风伤卫气，而病则在营，以卫性降敛，一被风邪，开其汗孔，则卫愈欲敛，内乘阴位，而逼营血，故营郁而为热。\n胃为戊土，乃卫气变化之原，伤寒之病，戊土与金水受之。金水司气，随戊土而下降，以阳体而胎阴魄，故气常清降而外敛，伤寒而气反内郁，是以病在气分。脾为己土，乃营血滋生之本，中风之病，己土与木火受之。木火主血，随己土而上升，以阴体而抱阳魂，故血常温升而内发，中风而血不外达，是以病在血分。\n气清而孕水，故气病则寒盛，而为伤寒，血温而孕火，故血病即热盛，而为温病。秋冬之感，皆是伤寒，其时非必无风，中于风者，便是秋冬之温病，春夏之感，皆是中风，其时非必无寒，伤于寒者，便是春夏之寒病。究竟秋冬寒多而风少，故往往病寒，春夏寒少而风多，故往往病温，时令不同也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 42,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "營衛殊傷"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f2323184ffa004693d3f399c222cbdba611fc59df1f8986eb638c4cfbf11d6ae",
+      "content_sha256": "bbb7ded4e7ac9af71553d8f09f190b84fd8faf30f180dab49e1ab8a7d1756749",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 468,
+        "simplified_codepoints": 468
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "7cb9da8c40f8da9276294576",
+      "title": "传经大凡",
+      "volume": "卷一 / 温病解第一",
+      "content": "一日一经，六日经尽，凡诸感病之大凡也，若伤寒，若中风，若温病、热病，若温疫、寒疫，若痘病、疹病，无不皆然。但温热必传脏腑，余则病由外感，原无内热，不必定传脏腑耳。程氏郊倩，谓温病传经，伤寒中风不传经，其论全非。唯两感之家，一日两经，则温热之所独有，而诸感病之所无也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "傳經大凡"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "3c4d3c8ef09f53169bdfd3a22e0f6ebaab420bcce266ddfe6fb99ae6acf3d633",
+      "content_sha256": "0e219fc306ac89388754049a589a5d700d8f19f7c96cd8e0e68648c7c6237e37",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        48
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 133,
+        "simplified_codepoints": 133
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "c80ed62bbdcdf401047933c0",
+      "title": "头痛热渴",
+      "volume": "卷一 / 温病解第一 / 太阳经证",
+      "content": "太阳以寒水主令，手太阳以丙火而化气于寒水，阴盛则壬水司气而化寒，阳盛则丙火违令而化热，故太阳以寒水之经，而易于病热。\n温病之家，冬不藏精，相火升泄，伤其寒水闭蛰之气，火旺水亏，由来已久。及其春夏病感，卫阳闭秘，营热郁隆，寒水之气愈亏。故受病之一日，即发热作渴，而不恶寒也。\n太阳在六经之表，故感则先病。其经自头下项，行身之背，故头项痛而腰脊强。肺主卫，肝主营，而总统于太阳。太阳之经，在皮毛之部，营卫者，皆皮毛之所统辖也。\n温病卫闭而营郁，法当清营热而泻卫闭。一日之初，卫闭己见，营热方生，故一日太阳之治，宜凉金补水，而开皮毛，不易之法也。\n玄霜丹\n浮萍（三钱） 麦冬（三钱） 甘草（二钱，炙） 元参（三钱） 丹皮（三钱） 芍药（三钱） 生姜（三钱，切） 大枣（三枚，劈）\n流水五杯，煎大半杯，热服，覆衣，饮热稀粥，取少汗。\n治一日太阳温病，头项痛，腰脊强，发热作渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 50,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "太陽經證",
+        "頭痛熱渴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "465ae4fe1c84060a86ed2235ef17249f69b61389680eaba244ea4250faccb8f6",
+      "content_sha256": "d0497c80e855366fd5f7e4d5165c29700a27e98031689b2c42279f8f9eeb0481",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 385,
+        "simplified_codepoints": 385
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "b28d7e0871bb9579d554b92a",
+      "title": "目痛鼻干",
+      "volume": "卷一 / 温病解第一 / 阳明经证",
+      "content": "阳明以燥金主令，足阳明以戊土而化气于燥金，太阴胜则阳明化气而为湿，阳明胜则太阴化气而为燥，故阳明之经，易于病燥。\n温病冬水失藏，相火升炎，胃津既涸，脾精亦亡，太阴之湿，久化阳明之燥。春夏病感，卫阳遏闭，营热郁发，土焦金燔，燥气愈甚。其经挟鼻络目，行身之前，故目痛鼻干，而身热不卧。\n阳莫盛于阳明，燥热在经，不得泄路，迟则胃腑积热，因表郁而内应。腑热一作，脏阴渐枯，便伏异日死机。于其腑热未动之时，凉泻经络，以清其热，则后患绝矣。\n素雪丹\n浮萍（三钱） 石膏（三钱） 元参（三钱） 葛根（三钱） 甘草（二钱，炙） 丹皮（三钱） 芍药（三钱） 生姜（三钱，切） 麦冬（三钱）\n流水六杯，粳米半杯，煎大半杯，去渣，热服，覆衣，饮热稀粥，取少汗。\n治二日阳明温病，身热目痛，鼻干不卧，胸燥口渴者。呕者，加半夏三钱。\n人参白虎汤\n石膏（五钱） 知母（三钱） 人参（三钱） 甘草（二钱） 生姜（三钱） 粳米（半杯）\n流水煎大半杯，热服，覆衣，取少汗。\n温病二日，方传阳明之经，腑热未作，法宜清热而发表。热甚者，必伤肺气，当用人参白虎汤，清金泻热，益气生津，乃为善法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 60,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "陽明經證",
+        "目痛鼻乾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "31e88940ec1892ea02591d6f3e8ba1e5694e2ab90a64deb5501f7c018f815f55",
+      "content_sha256": "a429f0ac90849b070e29ccd86bc4eac4f4e38e05689f7f2c0324ea00424b21f9",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 477,
+        "simplified_codepoints": 477
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "0b7461bd85f680db08963ffc",
+      "title": "胁痛耳聋",
+      "volume": "卷一 / 温病解第一 / 少阳经证",
+      "content": "少阳以相火主令，足少阳以甲木而化气于相火，顺则下蛰而温肾水，逆则上炎而刑肺金，故少阳之经，最易病火。\n温病寒水失藏，相火炎蒸，已旺于衰废之时。春夏病感，卫闭营郁，热盛火发，势当得令之候，愈极熏赫。少阳伤寒，有寒热之往来，以二阳在表，三阴在里，阳胜则热，阴胜则寒，少阳居表里之半，是以寒往而热来。温病三阴经气，从阳化热，故但热而无寒。其经络耳循胁，行身之侧，故胸胁痛而耳聋。火曰炎上，炎上作苦，故咽干而口苦。\n相火内郁，则肺金受刑，甲木内郁，则刑胃土，外无泄路，势必焦土流金，而入阳明。当以清凉和解之法，散其炎烈也。\n红雨丹\n柴胡（四钱） 黄芩（三钱） 芍药（三两） 石膏（三钱） 甘草（三钱） 丹皮（三钱） 生姜（三钱，切） 元参（三钱）\n流水煎大半杯，热服，覆衣，饮热稀粥，取微汗。\n治三日少阳温病，胸胁疼痛，耳聋口苦，咽干作渴者。\n三阳经络，皆受其病，而未入于脏腑者，法应汗之。而温病与伤寒中风，寒暄异气，不宜麻桂辛温，以清润之剂，凉泻经络燥热，方是温病汗法。其伤在卫气，而病在营血，营热郁发，故用丹皮、白芍，泻热而凉营也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 73,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "少陽經證",
+        "脅痛耳聾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "0dd6f7760ec7b81434461292c5c2c855670ce18d2890cb0ab91af8c48f47d3bc",
+      "content_sha256": "dcd108cb5a4c8391d5246cba32e5ad6c6bdae986682a138ba389d13153c64987",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 464,
+        "simplified_codepoints": 464
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "6bf76881ce995882d3b301f3",
+      "title": "三阳传胃",
+      "volume": "卷一 / 温病解第一",
+      "content": "伤寒中风，病于秋冬之际，原无内热。表邪不解，阳盛则传阳明之腑，阴盛则传太阴之脏。阴阳平和，则不入脏腑，始终在经，六日经尽，则汗解矣。温病内热素积，断无但在经络，不传胃腑之理。缘其经热郁隆，外泄无路，而胃腑积热，自当感应而发。但胃热大作，必在三日之后，经热不解，而后腑热郁勃，此自然之层次。病由外感，是以表热先发也。\n其在三日之内，表邪郁迫，里热方生，但当发表，未可攻里，表气疏泄，里气自平。若三日之外，腑热已作，则攻泻之法，乃可续用。\n盖胃土燥热，必烁脏阴。其肺脾津液，肝肾精血，久为相火煎熬，益以燥热燔蒸，脏阴枯竭，则人死矣。是宜滋其脏阴，泻其腑热，勿令阳亢而阴亡矣。\n白英丹\n大黄（五钱，生） 芒硝（三钱） 甘草（一钱，炙） 枳实（二钱，炒） 厚朴（三钱，炒） 元参（三钱） 麦冬（八钱） 丹皮（三钱） 芍药（三钱） 生地（三钱）\n流水煎大半杯，热服。\n阳明戊土，位居三阳之长，阳盛之极，必皆归宿阳明，而入胃腑。温病三日之外，三阴脏病，悉以胃热为之根本，虽曰五脏六腑皆受病，而阳明胃腑，实其纲领也。其里热发作，不拘在何脏腑，总以泻胃为主，而兼清本部。但肠胃未至燥结，则第滋阴，不须承气。即燥结未甚，亦当俟之六日经尽之后，腑邪内实，用泻热滋阴之法，一下而清矣。若燥热隆盛，则三四五日之内，俱可泻下。是当用《伤寒》急下之法，不可循《伤寒》缓攻之条，以其内热郁伏，原与伤寒不同也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "三陽傳胃"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "cc65f94e6926c5d6f5f813a4e95107f1ff58d671d4b3f21352cf5420f8ccc973",
+      "content_sha256": "876b0c5ef992230db33db9c0a6b3793d5a1ffe0d7dde7ed5a72a44532071ada3",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 589,
+        "simplified_codepoints": 589
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "9df1546214a672b231fc00d9",
+      "title": "腹满嗌干",
+      "volume": "卷一 / 温病解第一 / 太阴经证",
+      "content": "太阴以湿土主令，手太阴以辛金而化气于湿土，阳明盛则太阴化气而为燥，太阴盛则阳明化气而为湿，故太阴之经，最易病湿。然外感风寒，以及内伤百病，其在太阴，无不是湿，而惟温病之在太阴，则化湿为燥，以其冬水失藏，相火泄而脾阴烁也。\n春夏病感，营郁热旺，湿气自当愈耗。其经布胃络嗌，故腹满而嗌干。\n太阴之湿夺于阳明之燥，脾阴枯槁，则肾肝精血，俱难保矣。是宜清散皮毛，泻阳明之燥而滋太阴之湿也。\n黄酥丹\n浮萍（三钱） 生地（四钱） 甘草（二钱，炙） 丹皮（三钱） 芍药（三钱） 生姜（三钱）\n流水煎大半杯，热服，覆衣。\n治四日太阴温病，腹满嗌干，发热作渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "太陰經證",
+        "腹滿嗌乾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9b6e75ae606126619547f7dd0c02bfd175b96d199ac2f729c7793f1af4983ae4",
+      "content_sha256": "d066dc7b7d3ef7e79932f878acd228b48d07b6ec92f7e539b520bdf7106b84c5",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 272,
+        "simplified_codepoints": 272
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "487798be419d4f610b3f7aed",
+      "title": "干燥发渴",
+      "volume": "卷一 / 温病解第一 / 少阴经证",
+      "content": "少阴以君火主令，足少阴以癸水而化气于君火，阳盛则丁火司权而化热，阴盛则癸水违令而生寒，故少阴以君火之经，而最易病寒。然外感风寒，以及内伤百病，其在少阴，无不是寒，而惟温病之在少阴，则化寒为热，以其冬不藏精，水亏火泄，春夏病感，更值火旺水虚之候。\n其经贯肾络肺，而系舌本，故口燥舌干而渴。\n肾者主水，人身水火对列，水枯而火亢，则人亡矣。是宜清散皮毛，泻君火之亢而益肾水之枯也。\n紫玉丹\n浮萍（三钱） 生地（四钱） 知母（三钱） 元参（三钱） 甘草（二钱） 天冬（三钱） 生姜（三钱）\n流水煎大半杯，热服，覆衣。\n治五日少阴温病，口燥舌干，发热作渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "少陰經證",
+        "乾燥發渴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "909a703357b3ab2778111625b1517ba47db6dd55c3cbbf94b5e33871304eb3c7",
+      "content_sha256": "0209dc2798d6effde4d0734d0c6769d266782048103911fab865bc94e0c5f4a8",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 274,
+        "simplified_codepoints": 274
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "620cd83db8ff029282fd3052",
+      "title": "烦满囊缩",
+      "volume": "卷一 / 温病解第一 / 厥阴经证",
+      "content": "厥阴以风木主令，手厥阴以相火而化气于风木，治则木达而化温，病则火郁而生热，以厥阴乙木，原胎丁火，故厥阴之经，最易病热。\n温病卫闭而遏营血，营郁是以发热，而营藏于肝，则温病之来，实受于厥阴。方其隆冬火泄，营血已伤，势将腾沸。春夏病感，卫闭营遏，血热自当愈剧。其经循阴器而络肝，故烦满而囊缩。\n手厥阴之火，扇以足厥阴之风，风烈火炎，煎迫营阴，营血枯槁，则命殒矣。是宜清散皮毛，泻相火之炎而滋风木之燥也。\n苍霖丹\n浮萍（三钱） 生地（四钱） 芍药（三钱，生） 当归（三钱） 丹皮（三钱） 甘草（二钱，生）生姜（三钱）\n流水煎大半杯，热服，覆衣。\n治六日厥阴温病，烦满囊缩，发热作渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "厥陰經證",
+        "煩滿囊縮"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "7e31d822cb809d24e1591ee0e8a5d9d53df52f7d9918b0e0a1fb919eed494488",
+      "content_sha256": "2a0882176025b45d1fc5b14b3269e330cf6d089573c173b9ba2817d71355012b",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 289,
+        "simplified_codepoints": 289
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "70cba4c2a760982645839cb5",
+      "title": "三阴入脏",
+      "volume": "卷一 / 温病解第一",
+      "content": "岐伯温病治法，未满三日者，可汗而已，其满三日者，可泻而已。三阳经络，皆受其病，而未入于脏者，故可汗而已。温病内热蓄积，交春夏而受感伤，内热郁隆，原无但传经络不传脏腑之理。第传脏传腑，必在三日之外，其未满三日，则但在经络，故曰三阳经络，皆受其病，而未入于脏，在经，是以可汗。若三日之外，则必入于脏，既入于脏，则无不入于腑矣，故曰五脏六腑皆受病，入脏入腑，是以可泻。以阳盛于外，而根于内，三日之内，病在三阳，阳盛于外，故但是经热而已，三日之外，病入三阴，而脏阴消烁，已化亢阳，则非止经热而已也。积热郁伏，是以内传脏腑耳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 117,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "三陰入臟"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9ccf037ac878c23c0e3ad1ae08aeb4490d5ca0766b2652ada9cb4f18dfbc0cd7",
+      "content_sha256": "f702decf441e8bb4838c4fe19af0c462d85f90e065007d91231fd8f0eea7249e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 258,
+        "simplified_codepoints": 258
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "bf7ca1934d1e6060bf0d873a",
+      "title": "脏腑治法",
+      "volume": "卷一 / 温病解第一",
+      "content": "脏以太阴为主，所谓脾者，孤脏以灌四旁也，腑以阳明为主，所谓阳明者，五脏六腑之海，十二经脉之长也。足太阴以湿土主令，足阳明从燥金化气，温病阳明之燥劫夺太阴之湿，滋太阴之湿而泻阳明之燥固已，而推原太阴土湿之所由来，实原于水，而肾水之所以枯槁，一耗伤于燥土，一盗泄于风木。治法，以麦冬润阳明之燥，以地黄滋太阴之湿，以知母、元参、天冬清金而壮少阴之水，以当归、丹皮、白芍润木而息厥阴之风。而地黄之性，滋湿清风，兼而能之，故三阴并宜。\n地黄泄阳助湿，至下之品，至于温病，土燥而木枯，则反为灵宝，莫佳于此矣！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "臟腑治法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "dfb85f32a84bdcc9542aca6cfb650c289431765ef7de9c23e9a6ed1a983b2831",
+      "content_sha256": "6ab3239f9fb6bf28368784e630138a23f206207d6bc90fa46b45389f5b15a52d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        120,
+        121
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 248,
+        "simplified_codepoints": 248
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "ab4a77eb657c0f02b0e505e7",
+      "title": "汗泻之法",
+      "volume": "卷一 / 温病解第一",
+      "content": "温热之病，阳强阴弱，岐伯立法，则曰汗泻，仲景垂戒，则曰汗下，义若不同，而理实无殊。岐伯之示汗泻，补阴而泻阳也，仲景之戒汗下，泻阳而亡阴也。后世通岐伯之针刺，效仲景之汤丸，易麻桂之温燥，汗之以清凉之剂，变承气之荡涤，泻之以滋润之品，壮火既清，微阴续复，则悉得岐伯之遗法，而不犯仲景之明戒矣。\n岐伯论温，于「刺热篇」云：治诸热病，饮之寒水，乃刺之，必寒衣之，居止寒处，身寒而止也。仲景论温，但戒汗下火劫，未尝立法。究竟温病治法，不离汗泻两义，但须清凉滋润而已。会岐伯。仲景之义，于一百一十三方中选而用之，有汗法焉，暍病之人参白虎是也，《金匮》方中，有泻法焉，百合病之百合地黄是也。由此二法而变通之，法不胜穷矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 122,
+      "source_path": [
+        "卷一",
+        "溫病解第一",
+        "汗瀉之法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "95006cbcb4c64334a0c7e40e3787ef3b227047ed1600fc079436749a231eadbe",
+      "content_sha256": "dd479423cf0a1f6d014c2fd85474007213c0fb6618ddfefb85ce6eeff1433fce",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        123,
+        124
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 303,
+        "simplified_codepoints": 303
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "fca3a6a9ac6a48344c565498",
+      "title": "卷二",
+      "volume": null,
+      "content": "外感之邪，秋冬伤寒，春夏病温，寒温之外，乃有疫疠。天地违和，人物罹殃，州里相传，死亡继踵，惨目伤心，莫甚于此。念此身世，长不百龄，风霾夭骨，霜露雕年，益以医药差讹，调摄乖方，人寿几何，那复堪此！仲景《伤寒》垂法，宏济百代，人亡义晦，复无解者，况于疫疠， 先师无言，著书立说之家，甚于瘟魔，制方用药之人，残于疠鬼。丈夫有志，燮理无权，永念来者，情何能已，作疫病解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 125,
+      "source_path": [
+        "卷二"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "d603fa27f899ba600e28d3e5b816dbfe747842ca8ef771695c6bf9257059ac6b",
+      "content_sha256": "985856a9f2d9d3527d59f53460e81504f8fc0a6e305c363195a1a2f5927e1704",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        126
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "673750ecefcc61d69d53ab89",
+      "title": "疫病原始",
+      "volume": "卷二 / 疫病解第二",
+      "content": "中风伤寒，外感风寒，而寒热阴阳，视乎本气，是以人不皆病而病不皆同，半由客邪而半关主气。疫疠感于岁气之偏，乡里传染，证状皆同，少由主气而多属客邪。\n盖天地有六气，风火暑湿燥寒也，岁有五运，土金水木火也。天之六气，随五运而迭迁，地之六气，亘千古而不变。五运回周，以天之六气合地之六气，客主加临，大过不及之数见焉。由是生克胜复、亢害承制之变参差不一，而岁气于焉不正。\n人与天地相通也，一气不正，而人气感之，而一经之病见焉。风淫则病在厥阴，火淫则病在少阴，湿淫则病在太阴，\n暑淫则病在少阳，燥淫则病在阳明，寒淫则病在太阳，同气相感也。木火病则伤在血分，金水病则伤在气分。土者气血之中，血化于己土而气化于戊土，血伤则己土病，气伤则戊土病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 128,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "疫病原始"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "255bd26b24545b81b1afa3fca100e9482140c47cee81d2119e45a5e8284e00c8",
+      "content_sha256": "4b46f950a97593cc289be9a11481d8b2d4c3dfeb5a28f4d01593e56a456c816b",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        129,
+        130,
+        131,
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 315,
+        "simplified_codepoints": 315
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "4cffd6ed1999a4ce0e9cc83d",
+      "title": "寒温病异",
+      "volume": "卷二 / 疫病解第二",
+      "content": "疫病之邪，虽备六气，而寒温为多。温疫感春夏之风，寒疫感秋冬之寒。风为阳邪，感则伤阳，寒为阴邪，感则伤阴。卫气为阳，故中于风，营血为阴，故伤于寒。\n平人卫气在外而内交于营，营血在内而外交于卫，营卫调和，是以无病。风伤卫气，则遏闭营血，而生内热，寒伤营血，则裹束卫气，而生外寒，营卫不调，是以病也。卫伤而内郁其营，故风虽伤卫而病实在血，营伤而外束其卫，故寒虽伤营而病实在气。血病者，多传阳明而为热，以血藏于肝而肝木生火，火盛则阳旺而入腑也；气病者，多传太阴而为寒，以气藏于肺而肺金生水，水盛则阴旺而入脏也。\n温疫之家，阴气不衰，足以济阳，则但传阳经而不入阳明之腑，寒疫之家，阳气不衰，足以济阴，则但传阴经而不入太阴之脏，是谓顺证。六日六经俱遍，邪退正复，则表解而病愈矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 133,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "寒溫病異"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f1393aa0e032e7d2771af1f960b642a66f68e29609ed2da6003fd99a92e622f3",
+      "content_sha256": "cd4b32d75f9ed69a57d3f8987822dcea7ea83a36808852ef5e3d668f9bc5278f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        134,
+        135,
+        136
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 333,
+        "simplified_codepoints": 333
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "7ab690515f0838708ad2865c",
+      "title": "表里殊法",
+      "volume": "卷二 / 疫病解第二",
+      "content": "病在营卫，皮毛闭秘，法宜解表，以发内郁。营卫外发则生，内陷则死。风伤卫气，卫闭其营，营血外发，则斑生而病解，寒伤营血，营闭其卫，卫气外发，则汗出而病愈。\n温疫传腑，腑热则营血内陷而不外发，寒疫传脏，脏寒则卫气内陷而不外发。故温疫营病，脏阴旺者多生，腑阳盛者多死，寒疫卫病，腑阳旺者多生，脏阴盛者多死。\n温疫传腑，当清其腑热，以发营血，寒疫传脏，当温其脏寒，以发卫气。营司于肝，而实生于太阴，脏阴旺则外发，温疫之家，非阴盛之极者，不可轻泻其脾精，卫司于肺，而实化于阳明，腑阳旺则外发，寒疫之家，非阳盛之极者，不可轻泻其胃气也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 137,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "表裡殊法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "ba8f7e0d10d6d06ebde7bca69b5ed6b75f34e1a2e54a342a6d53ef670f9a0e9c",
+      "content_sha256": "25691ba0845bdaf41c221770cae197d706aba783c6aaa650dd896dda3ac9d8bd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        138,
+        139,
+        140
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 262,
+        "simplified_codepoints": 262
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "7ad4f0f5e97b5d16d2c76b6d",
+      "title": "温疫由来",
+      "volume": "卷二 / 疫病解第二",
+      "content": "温疫之证，发热出汗，得之于风。其年木火不能发泄，则人气应之，多病温疫，以孔窍闭而风气泄之也。\n木火生长，因乎阴气之左升。盖纯阴之位，而一阳已生，阳生必升，升则温暖而化风木，积温而热，是为君火。温则生而热则长，阳气敷舒于九天之上，孔窍发宣而不阖，故弗伤于风。木火不能发泄，则阳气下郁，而生内热，经络闭塞，孔窍不开，是以易中于风。\n天人同气，天地之木火不能发泄，人物应之，而病温疫，故多病于春夏。其病于春者，伤在乙木，其病于夏者，伤在丁火也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 141,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "溫疫由來"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "b7091901bcd4d3242a4ee4c83e9e5cb1dc0edf4b79ee55ead1c94cd99c5aecd2",
+      "content_sha256": "7c6931c8da7dad4c137481a3019c8ef7e61e551f71744e41a97a16b2f7b875b2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        142,
+        143,
+        144
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 219,
+        "simplified_codepoints": 219
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "de1623ba590e0d286d597bea",
+      "title": "寒温殊病",
+      "volume": "卷二 / 疫病解第二",
+      "content": "温病感在经络而内有积热，前三日则在三阳之经，后三日则入三阴之脏，既入于脏，必入于腑，其入腑入脏，总是热而非寒。伤寒感在经络而内无积热，阳盛而后入腑，阴盛而后入脏，入腑则是热，入脏则是寒。温疫亦感在经络而内无积热，阳盛者亦入于腑，阴盛者亦入于脏，第未尝必入于腑，必入于脏，而病内热，其较温病不同。然营郁而热盛，但有入腑而病热，必无入脏而病寒者，其较伤寒亦不同。故温疫为病，止有寒泻之法，而无温补之条。其在三阴，皆六日传经之证，与伤寒三阴脏寒之证，天渊不一也。凡经尽而斑发者，是但在经络而未入于腑也，若经尽而斑不发，必有内郁之证，表药之中，必兼凉泻，内热既清，则营达而斑发矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 145,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "寒溫殊病"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "bd845828448002838326dddfa016641a64f8e91b54c7f496d8b388c3b4653d8c",
+      "content_sha256": "520e558c8a6edaee308c5f7ab51b4e85e60bba72bfd2e0ad0f8016d262aa17d9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        146
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 286,
+        "simplified_codepoints": 286
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "26eb989f2464339b37bc915a",
+      "title": "表解热除",
+      "volume": "卷二 / 疫病解第二",
+      "content": "风性疏泄，气性收敛，风伤卫气，开其腠理，气欲内敛，风欲外泄。气闭于内，则营郁而为热，风泄于外，则窍开而为汗。风愈泄而气愈闭，营热日积，待至六经既尽，斑点外发，而后血分之热泄。\n若气闭而不泄，则营热内郁，而生燥闷，五脏燔蒸，而人死矣。或泄之不透，隐见于皮肤之间，必郁而为痒。痒者，是谓隐疹。隐疹之家，血热蕴积，久而肌肉溃腐，发为痂癞，所谓脉风者也。当凉血发表，使营热外达，不令内蒸也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 147,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "表解熱除"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "c328144b0a159100eebb7d9c0b96638f47f6c37cf6c900ce61955854e16c5687",
+      "content_sha256": "1c63ca73595cd2d7d5f7e36cd1dedb1f573cf8c76dfcfbd3e942d861e1310ed1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        148,
+        149
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 191,
+        "simplified_codepoints": 191
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "33d6ec40762f7103dcf25329",
+      "title": "阴衰营陷",
+      "volume": "卷二 / 疫病解第二",
+      "content": "温疫之病，在于血分。风本伤卫，卫伤而闭其营血，是以病在血分。\n肝藏营血而太阴为生血之本，脾以阴土而含阳气，脾阳一升，则温暖而化肝木。温疫之病，非第在肝，而实连于太阴。脾阴不弱，足以滋润其营血，则营郁外达而斑点生。太阴脾脏，以湿土主令，阴衰传腑，湿化为燥，阳旺而生里热，则营气内陷，而不外达。温疫之死,死于脾阴之弱，火上燥热，而营郁不能达也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 150,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陰衰營陷"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "47907582993b929081bd7ee4bdd06258a9d5f99f9eeffba4be2be5534b76f44c",
+      "content_sha256": "c11fc9082f4677872399dee7c071b8b23b17210c6feac1a1dc9a0bd045617260",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        151,
+        152
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "6a8059dd73310019235a2014",
+      "title": "发热头痛",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "太阳之经，总统营卫，风伤卫气，遏闭营血，郁迫而生里热。肝木藏血而生火，火者，血中温气蓄积而化热也。太阳寒水之经，应当恶寒，以营郁而生火，故但热而不寒。其经自头走足，行身之背，经逆而不降，故头痛而项强也。\n浮萍汤\n浮萍（三钱） 丹皮（三钱） 芍药（三钱） 甘草（二钱，炙） 生姜（三钱，切） 大枣（三枚，劈）\n流水煎大半杯，热服，覆衣，取汗。\n治一日太阳温疫，发热头痛者。\n温疫得之中风，亦是桂枝汤证。但发于春夏之月，但热无寒，不宜桂枝辛温,故以浮萍泻卫气之闭，丹皮、芍药泻营血之郁也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 154,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "發熱頭痛"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "7e5377731701ef765e1f9b003da3c549b4ab7b72a882f42324f5e638b25f48a7",
+      "content_sha256": "08ebe84745ad92609042952b8b9a3c73632d800764649d8f84a0a81e7037be83",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        155,
+        156,
+        157,
+        158,
+        159,
+        160
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 242,
+        "simplified_codepoints": 242
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "867208a7e7f29a8f516c17f5",
+      "title": "身痛脉紧烦躁无汗",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "温疫在太阳之经，脉浮头痛，发热汗出，以风强而气不能闭也。若脉浮而紧，发热恶寒，身痛腰痛，烦躁无汗，而喘促者，是气强而风不能泄也。\n盖寒疫无汗，温疫有汗，以寒性闭藏而风性疏泄也。若卫阳遏闭，风不能泄，营郁莫达，则烦躁喘促，与伤寒同证，宜以浮萍、石膏，清散经络之热也。\n浮萍石膏汤\n浮萍（三钱） 石膏（三钱，生，研） 杏仁（三钱，泡，去皮尖） 甘草（二钱，炙）生姜（三钱）大枣（三枚，劈）\n流水煎大半杯，热服，覆衣。\n治温疫身痛，脉浮紧，烦躁喘促，无汗者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 161,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "身痛脈緊煩躁無汗"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f1f2b1aba1ff00df15fe2a6b52f093ea230b0d86ac92e4cf89b7c740de89ee50",
+      "content_sha256": "6328a45a8c206cb6a54f86150a25635a62f9aac5f66f8924064798045a34ed10",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 226,
+        "simplified_codepoints": 226
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "5b87b2d12e342a720df0c708",
+      "title": "烦热燥渴",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "病在太阳之经，未入阳明之腑，不至遽生烦渴。若阳明燥盛之人，经热外逼，燥热内应，则见烦渴。阳明从燥金化气，腑燥发作，故有烦热便难之证，而腑燥未作，经燥先动，是以烦渴生焉。\n其太阳表证未解，宜浮萍石膏清金而解表，绝其烦热入腑之源。表证已解，第以白虎加元麦汤，清燥而生津。气虚者，加人参以益气，以表解阳虚，恐其燥去而阳亡也。\n白虎加元麦汤\n石膏（五钱） 知母（三钱） 甘草（二钱，炙）粳米（一杯） 元参（三钱） 麦冬（八钱）\n流水煎至米熟，取大半杯，热服。\n治温疫太阳经罢，烦热燥渴者。\n人参白虎加元麦汤\n石膏（五钱） 知母（三钱） 甘草（二钱，炙）人参（三钱） 元参（三钱） 麦冬（八钱） 粳米（一杯）\n流水煎至米熟，取大半杯，热服。\n治温疫太阳经罢，气虚烦渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "煩熱燥渴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "c950ed74f29cae33fc062429f71c4477133fa6024ae8eb52f18e1ac02e21eed1",
+      "content_sha256": "63155c3ed77757104bd12c83db78453a6f347f7c0b4b5231f7e0e8a9eaca81c2",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 330,
+        "simplified_codepoints": 330
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "0bd3deb55c9bd57f5f62aef9",
+      "title": "目痛鼻干呕吐泄利",
+      "volume": "卷二 / 疫病解第二 / 阳明经证",
+      "content": "三阳之经，阳明为盛，足阳明从燥金化气，太阳表邪不解，经热内传，火性就燥，必入阳明。阴盛于里而阳盛于表，腑燥未作，经燥先动。「热论」：二日阳明受之，其脉挟鼻络于目，故身热目痛而鼻干，不得卧．是皆经络燥热之证也。\n阳明主降，戊土右降，则金水收藏，相火归根，故上焦清空而善容。阳明不降，金水失其收藏，胆木逆行，相火上炎，肺金被克，故目痛而鼻干。胆木逆行，而贼胃土，胃气壅遏，不能容受，故呕吐而泄利，缘经邪郁迫其腑气故也。\n浮萍葛根汤\n浮萍（三钱） 葛根（三钱） 石膏（三钱） 元参（三钱） 甘草（三钱） 生姜（三钱）\n流水煎大半杯，热服。\n治温疫阳明经证，目痛鼻干，烦热不卧者。\n浮萍葛根芍药汤\n浮萍（三钱） 葛根（三钱）石膏（三钱） 元参（三钱） 甘草（二钱，炙） 芍药（三钱） 生姜（三钱）\n流水煎大半杯，热服。\n治温疫阳明经证，泄利者。\n浮萍葛根半夏汤\n浮萍（三钱） 葛根（三钱） 石膏（三钱） 元参（三钱） 甘草（三钱） 芍药（三钱） 半夏（三钱） 生姜（三钱）\n流水煎大半杯，热服。\n治温疫阳明经证，呕吐者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 180,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽明經證",
+        "目痛鼻乾嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "de2b6779068f1f45fe859798c5bb74164c8b8f3b9ded8ea98bd28d726fe1431b",
+      "content_sha256": "3d7bf27314fac9ffef2d91d01e1bba8c1a12eaa6488af854d945855df64dea55",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 456,
+        "simplified_codepoints": 456
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "6878c2766dd7510d4a2e766d",
+      "title": "潮热汗出谵语腹痛便秘",
+      "volume": "卷二 / 疫病解第二 / 阳明腑证",
+      "content": "病传阳明之经，不得汗解，腑阳素旺之人，以经热郁蒸，而腑热内作，开其皮毛，则见大汗，至于手足淋漓，表邪尽解，全是内伤矣，经气发舒，无复郁迫，腑气松畅，吐利皆安。汗愈泄而土愈焦，燥愈增而热愈盛，每至申酉之交，应时发热，如潮汐不爽，是谓潮热。燥土消烁心液，于是谵语。燥矢壅遏腑气，于是满痛。迟则脏阴耗亡，营气郁陷，生死攸关，不可不亟下也。泻以大小承气，而加养阴凉血之味，脏阴续复，营郁外达矣。\n调胃承气加芍药地黄汤\n大黄（三钱，生） 甘草（二钱） 芒硝（三钱） 芍药（三钱） 生地（八钱）\n流水煎一杯，去渣，入芒硝，火化，温服。\n小承气加芍药地黄汤\n大黄（五钱，生） 厚朴（三钱，生） 枳实（三钱，炒） 芍药（三钱） 生地（一两）\n流水煎一杯，温服。不便，再服。\n大承气加芍药地黄汤\n大黄（八钱，生） 芒硝（三钱） 厚朴（四钱） 枳实（四钱） 芍药（三钱） 生地（一两二钱）\n流水煎一杯，去渣，入芒硝，火化，温服。不下，再服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽明腑證",
+        "潮熱汗出譫語腹痛便秘"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "237fccbb8af0be6a458c16a986df2f79879c9e5b01388ab5719135182d792768",
+      "content_sha256": "1a9176e2d1fd570c5e759fbbda9026c1515c19ba87437ce52c6e897e7d25da88",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 410,
+        "simplified_codepoints": 410
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "132862e2990e9d7846c7498e",
+      "title": "目眩耳聋口苦咽干胸痛胁痞呕吐泄利",
+      "volume": "卷二 / 疫病解第二 / 少阳经证",
+      "content": "温疫二日，阳明经热不解，三日则入少阳之经。少阳以相火主令，足少阳以甲木而化气于相火，伤寒之口苦咽干而目眩者，皆相火之上炎也。其经自头下项，行身之侧，热病之胸胁痛而耳聋者，皆胆木之逆行也。少阳在二阳之里，三阴之表，阴盛则传太阴之脏，阳盛则传阳明之腑，少阳者，入腑入脏之门户也。温疫营郁热盛，火旺木枯，但传胃腑而为热，不入脾脏而为寒，传胃则木邪逼土，腑气郁遏，而生吐利。是宜清散经邪，杜其入腑之路也。\n柴芩栝蒌芍药汤\n柴胡（三钱） 黄芩（三钱） 半夏（三钱）甘草（二钱，生） 生姜（三钱） 大枣（三枚，劈） 芍药（三钱） 栝蒌根（三钱）\n流水煎大半杯，热服，覆衣，饮热粥，取微汗。\n治少阳经温疫，目眩耳聋，口苦咽干，胸痛胁痞者。\n大柴胡加元参地黄汤\n柴胡（三钱） 黄芩（三钱） 半夏（三钱）芍药（三钱） 枳实（三钱） 大黄（三钱） 生姜（三钱） 大枣（三枚） 元参（三钱） 地黄（三钱）\n流水煎大半杯，温服。\n治少阳经温疫传阳明胃府，呕吐泄利者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 208,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "少陽經證",
+        "目眩耳聾口苦咽乾胸痛脅痞嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "726379f842c8e224d3fcb9c150d2adcc8642df76e959f919cf7d7593d57c6913",
+      "content_sha256": "4cdc6ba31c7a9bb1d17923040ed8626e67abf872e65bbe0e789713578234a0d5",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 421,
+        "simplified_codepoints": 421
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "3f2650b76cf5e820b5f005e8",
+      "title": "三阳传胃",
+      "volume": "卷二 / 疫病解第二",
+      "content": "温病三阳经病，营郁热盛，势必内传胃腑。而胃阳素旺，燥热感发，经腑同气，表里俱病。腑热内遏，而脏阴消烁，过经不解，则脏腑郁蒸，而人死矣。温疫所最忌者，营热不能外泄。其不外泄之由，全以卫盛而营衰，脾阴虚而胃阳旺也。若脾阴不衰，胃阳虽旺，六经既遍，邪欲内传，而脏气捍格，热无内陷之隙，则蒸泄皮毛，发为斑点，而病解焉。温疫之斑发而不死者，脏阴充足，外御经邪，而热不内陷也。若一入胃腑，腑阳日盛，则脏阴日枯，不得不用泻法。缓则泻于经尽之后，急则泻于经尽之前。腑热一清，则经热外达，而红斑发矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 218,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "三陽傳胃"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "afb3fce3d99958646271fefff8840125f6f6e8805bd9da89b520497dea976bdc",
+      "content_sha256": "a7089d0e922ad1fc5b9292e37850f63a8463f45987cbbbba5563d29a79f0a9e6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 241,
+        "simplified_codepoints": 241
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "b274b2c19e6fa8cae557b8a2",
+      "title": "腹满嗌干",
+      "volume": "卷二 / 疫病解第二 / 太阴经证",
+      "content": "太阴以湿土主令，其经自足走胸，行身之前，温疫营郁热盛，三阴之经，化气于三阳，故病传大阴，则腹满而嗌干。阳明之燥气太亢，则营热内蒸，而殒性命，太阴之湿气不枯，则营热外达，而生斑点，温疫所最惧者，湿衰而燥胜也。太阴经病，脾阴足以济胃阳，则营热不至于内蒸，自然发越于皮毛矣。\n浮萍地黄汤\n浮萍（三钱） 生地（三钱） 丹皮（三钱） 芍药（三钱） 甘草（二钱） 生姜（三钱） 大枣（三枚）\n流水煎大半杯，热服。\n治温疫太阴经证，腹满嗌干者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 221,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陰經證",
+        "腹滿嗌乾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "5dbfa6883c346e12d8b736ed61a19b139495f74d737a5b0759c6c66e86bd0388",
+      "content_sha256": "4019c6393027d461eac52fe6b167fbab36dd3f502c2041ef3914d8462e17810a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        222,
+        223,
+        224,
+        225,
+        226
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 215,
+        "simplified_codepoints": 215
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "0568297db769817443fff33b",
+      "title": "口燥舌干",
+      "volume": "卷二 / 疫病解第二 / 少阴经证",
+      "content": "少阴以癸水而化君火，其经自足走腰，行身之后，温疫发于春夏相火得令之时，火胜水衰，故口燥舌干而渴。丁火太亢，则营郁而内焚，癸水不枯，则斑生而热退，温疫之所最惧者，水败而火胜也。少阴经病，肾水可以支相火，则营热不至于内焚，自然宣泄于孔窍也。\n浮萍天冬汤\n浮萍（三钱） 天冬（三钱） 生地（三钱） 元参（三钱） 丹皮（三钱） 生姜（三钱） 栝蒌根（三钱）\n流水煎大半杯，温服。\n治温疫少阴经证，口燥舌干而渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 228,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "少陰經證",
+        "口燥舌乾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a69cf8f7c5553849c5a246f47372eccc70dda5655f3ad5c1a971a26b8dbf4fc8",
+      "content_sha256": "e0b1bf819e2fd1c43e9ed0d41e3c509d18fe01d03773f3e615b4ade5fa292894",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 202,
+        "simplified_codepoints": 202
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "5e2153be06d36d56b21dc208",
+      "title": "烦满发斑",
+      "volume": "卷二 / 疫病解第二 / 厥阴经证",
+      "content": "厥阴以风木主令，其经自足走胸，行身之侧，循阴器而络肝，故烦满而囊缩。厥阴肝木，司营血而胎君火，温疫之病，受在营血，则传至厥阴，邪热斯甚。若木荣血畅，经脏润泽，营热不能内传，六经即遍，别无去路，则郁极而发，蒸泄皮毛，而见红斑。若营气虚弱，不能遽发，过时斑见，而色带紫黑，则多至不救。以其经热郁蒸，后期而发，营血伤败，失其华鲜也。是宜清解凉血，使其营热发达，此治厥阴温疫之定法也。\n浮萍当归汤\n浮萍（三钱） 当归（三钱） 生地（三钱） 丹皮（三钱） 芍药（三钱） 甘草（三钱，生） 生姜（三钱）\n流水煎大半杯，热服。\n治温疫厥阴经证，烦满发斑者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 235,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "厥陰經證",
+        "煩滿發斑"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "111cacc2414a287980169738978df0c01c43d21a6bbfe24389019e0c9cc0ee79",
+      "content_sha256": "7c9427bdfde056981284cabf2944bbbfa6482c586b52555ffcf322ed3a81dc3a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        236,
+        237,
+        238,
+        239,
+        240
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 271,
+        "simplified_codepoints": 271
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "2c028eae734c7a8b01ee6339",
+      "title": "六经治法",
+      "volume": "卷二 / 疫病解第二",
+      "content": "温疫营郁血热，六日而至厥阴。六经既尽，阴气续复，血热外达，应见红斑，斑生则热退而病解矣。红斑之后，继以白斑。红斑者，营血之外发，白斑者，卫气之外泄。\n寒疫营闭而卫郁，温疫卫闭而营郁，营开而卫泄则为汗，卫开而营发则为疹。小儿寒疫，皮肤致密，不得汗泄，则卫气升腾，冲突皮肤而为痘，温疫则大人小儿皆生疹点，无有异也。\n温疫之感，全在少阳厥阴两经。厥阴职司营血，而营中之伏热，则少阳之相火，而非但乙木所胎之君火也。若未满六日，而表证已解，血热未深，止是汗出，尚无红斑也。六日而传厥阴，血热已深，是以表解而斑红。若六日之外，过时而后斑发，营血郁蒸，红转而紫，紫变而黑，则十不救一。\n治法：六日之内，总宜透发肌表，以泻血热，至六日经尽之后，表药更当急进，刻不可缓也。血热不泄，立致殒亡，即泄之不透，隐见于皮肤之间，亦生风癞之疾，非细故也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 241,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "六經治法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "2cf130f5fc03165e155d56d65c1abb0a0d0c76c84672eb57d0f35c8bd301c448",
+      "content_sha256": "f6a06e8dc699bc8816e4ec35748258d365a624fda26069c6b83e914f75037a9d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        242,
+        243,
+        244,
+        245
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 363,
+        "simplified_codepoints": 363
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "ab279c99e1bce0c956528d8c",
+      "title": "停水不消",
+      "volume": "卷二 / 疫病解第二",
+      "content": "温疫固无入脏生寒之证，然亦不皆入腑而生内热。其脏不寒而腑不热，而经热燔蒸，木火枯燥，烦渴饮冷，不能禁止。水积胃腑，停蓄不消，于是腹胁胀满，小便不利，以土湿木郁，疏泄之令不行也。\n凡腑阳非旺，而病温疫，无有不停水之证。此在伤寒，便是三阴四逆、真武诸病，以温疫经热胜其脏寒，故内寒不作，然至积水不消，则脏阴较甚于腑阳矣。\n其表证未解，当以猪苓汤加浮萍，表里双解之。表解而斑发，则但以猪苓，泻其积水也。\n猪苓汤\n猪苓（三钱） 茯苓（三钱） 泽泻（三钱） 滑石（三钱，研） 阿胶（三钱，炒，研）\n流水煎大半杯，入阿胶，消化，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 246,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "停水不消"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "98940e01fcf7069ec0e579f7563c7026aff5b93493cbae5d019bec4f64560e5d",
+      "content_sha256": "bdbae394183173c8866d31394c0151558f81f0e97bc596d1906911db55f31abd",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        247,
+        248,
+        249,
+        250,
+        251,
+        252
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 261,
+        "simplified_codepoints": 261
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "d3eb6fa4e13cfcfbde00dea0",
+      "title": "寒疫由来",
+      "volume": "卷二 / 疫病解第二",
+      "content": "寒疫之证，寒热无汗，得之于寒。其年金水不能敛藏，则人气应之，多病寒疫，以孔窍开而寒气闭之也。\n金水收藏，因乎阳气之右降。盖纯阳之位，而一阴已生，阴生必降，降则清凉而化燥金，积凉成寒，是为寒水。凉则收而寒则藏，阳气封蛰于九地之下，皮毛秘密而不开，故弗伤于寒。金水不能敛藏，则阳气上郁，而生外热。腠理发泄，皮毛不闭，是以易伤于寒。\n天人同气，天地之金水不能敛藏，人物应之，而病寒疫，故多病于秋冬。其病于秋者，伤在庚金，病于冬者，伤在壬水也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 253,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "寒疫由來"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9879d1854d9f69787e32d0cbd8c66e974bf537a6b8944bd2428c80faa1cf5244",
+      "content_sha256": "1dca45186ba52f78f9612e5f2f9cc4daa2c38e8c082d64004654ed60d19b1e1f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        254,
+        255,
+        256
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 218,
+        "simplified_codepoints": 218
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "6bdaac1218ddb6b69450edcb",
+      "title": "表里同异",
+      "volume": "卷二 / 疫病解第二",
+      "content": "寒疫有传经之证，传经者，前三日则在三阳，后三日则在三阴，六日六经，人所同也，亦凡感病所同也。有传腑传脏之证，传腑者，不拘何日，阳盛则内传，阴盛者，不入于腑，传脏者，不拘何日，阴盛则内传，阳盛者，不入于脏，人所不同也，亦凡感病所不同也。盖温病原有内热，必传脏腑，不论传腑传脏，皆是热证。伤寒原无内热，阳旺而后传腑，阴旺而后传脏，入腑则为热，入脏则为寒。温疫亦无内热，然营郁热盛，阳旺之家，则有入腑之热，阴旺之家，亦无入脏之寒。寒疫亦无内热，亦无内寒，不必定入于腑，不必定入于脏。但人不皆阳盛，不皆阴盛，不皆阳虚，不皆阴虚，故或入于腑，或入于脏，或不入腑，或不入脏。人各不同，法与伤寒无殊，但疫感天气之非正，淫泆缠绵，较之伤寒，颇难驱逐，而其入脏入腑，亦半关岁气之偏，不尽由人气也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 257,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "表裡同異"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "8cc18cbe21d78113e34be211c4256b568de98189ce3ece03359ba32301dd7f36",
+      "content_sha256": "a6e051a4b0835b5040ebf23ff7f3426fd984138921c47d921fb98a60043485fa",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        258
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 339,
+        "simplified_codepoints": 339
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "0213bf8c28e4fee79ec59782",
+      "title": "表解寒散",
+      "volume": "卷二 / 疫病解第二",
+      "content": "寒性闭涩，血性发扬，发扬则窍开，闭涩则窍阖。平人之气，营阴在内，卫阳在外，寒伤营血，闭其皮毛，卫气陷于营阴之内，营阴闭藏，则生表寒。其阳盛者，三阴脏气从阳而化热，其阴盛者，三阳经气从阴而化寒。阳盛则卫气外发而汗出，阴盛则卫气内陷而人亡，故寒疫之病，阳盛而外热者吉，阴盛而内寒者凶。缘其病愈，必须汗出，而其汗出，全赖阳旺。使其里气平和，则但可解表，勿轻用硝黄误下，以陷其卫阳也。若其里阳素盛，而表寒不解，以致里热郁发，则兼清里热，以解表寒。若里阳素虚，卫气郁沦，不能外发，但用表药，犹难汗解，再事寒攻，则卫阳愈陷，祸变遂生。如其里阴郁动，寒湿淫滋，当速用温燥，以回阳气，稍用泻下之剂，则人随药毙，不可活矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 259,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "表解寒散"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "4ef0dcb3656cfc834d701faffa77b3eee4571ad553aa1e73089bc047ebe79896",
+      "content_sha256": "e810b5f987aeb4e0f0e32971fa37e9dc5400cef1794f307f92be0e2d0a875c2d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        260
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 302,
+        "simplified_codepoints": 302
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "e0ee2c9d2ba795c47c84f2ef",
+      "title": "阳衰卫陷",
+      "volume": "卷二 / 疫病解第二",
+      "content": "寒疫之病，在于气分。寒本伤营，营伤而束其卫气，是以病在气分。肺藏卫气，而阳明为化气之原。胃以阳土而含阴气，胃阴一降，则清凉而化肺金。寒疫之病，非第在肺，而实连于阳明，胃阳不虚，足以发越其卫气，则卫郁外达而毛理泄。阳明胃腑，从燥金化气，阳衰传脏，燥化为湿，阴旺而生里寒，则卫气内陷，而不外达。寒疫之死，死于胃阳之虚，水土湿寒，而卫郁不能达也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 261,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽衰衛陷"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "1398e0960533681d3c8b223bc971602e2598b67c3ccae31bbefbc22ef8a49c79",
+      "content_sha256": "08a716303848e3dfebfd4871f6b0f9e478ec43d279ba617dcb583f5d87b12e47",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        262
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "81835e3f1c88eeeb027a13d8",
+      "title": "传经大凡",
+      "volume": "卷二 / 疫病解第二",
+      "content": "寒疫传经，亦与伤寒相同，一日太阴，二日阳明，三日少阳，四日太阴，五日少阴，六日厥阴。阳性热而阴性寒，里热非盛，不入阳明之腑，内寒非盛，不入太阴之脏，始终在表，未尝内陷，六日经尽，则邪退正复，汗出而愈矣。\n其卫盛而感轻者，皮毛易泄，则先期而汗解。其卫虚而感重者，腠理难开，则过期而汗解。其卫弱郁深，不能遽发，往往振栗战摇，而后汗出。\n寒战者，少阳之证，寒战而不能发热者，相火之虚，发热而不能汗出者，表寒之盛也。少阳为阴阳之枢，寒极则入于太阴，热极则入于阳明，故阴阳偏胜而内传脏腑，多由少阳而入。入于脏腑，则解无定期而动致危亡，不可不慎也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 263,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "傳經大凡"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a7d2098e5b619181afe1fe16d57d10c6e9d7bd546d58c9e375e22e1f51ca206c",
+      "content_sha256": "e46eaeea4063c72c16ae4b843a5873c8bb4ebb406e28e0d2c322add36a76fe1f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        264,
+        265,
+        266
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 268,
+        "simplified_codepoints": 268
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "255e0f9481adf48c2e04fca9",
+      "title": "阳旺传腑",
+      "volume": "卷二 / 疫病解第二",
+      "content": "腑阳素盛而经气郁遏，则里热感发而传胃腑，腑阳长则脏阴消。凡人之病，阳长则安，阴长则危，伤寒三阳之少死者，因于阳长而阴消也。病传胃腑，阳气日长，自是吉事，但阳不可亢，亢则阴亡，而寓死机。胃土燥热，攻下失期，阴精枯槁，亦成死证。是以入腑虽吉，不如在经之有吉而无凶也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 267,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽旺傳腑"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "dbed850d79e565bd7237ec1956ddcd1b1bfd51220c34359898cd24cf5b37b0e1",
+      "content_sha256": "16edd208af4b88ad05749d52dd5793c2f5dadbf8bb3e5be21d0962a244a045db",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        268
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "d5c30a00e03cc489b4e3783b",
+      "title": "阴盛传脏",
+      "volume": "卷二 / 疫病解第二",
+      "content": "脏阴素旺而经气闭束，则内寒郁动而传脾脏，脏阴进则腑阳退。凡人之疾，阳进则安，阴进则危，伤寒三阴之多死者，以其阴进而阳退也。病传脾脏，阴气日进，最是险事，盖阴不可胜，胜则阳败，而无生望。脾土湿寒，温补后时，阳气消灭，则成死证。是以入脏则险，不如在腑之夷多而险少也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 269,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陰盛傳臟"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "78204b7c9a8b3718bb153f2d366651deaa1fd515577f9be974757bdabeb59577",
+      "content_sha256": "f8380c205c9848f32b04a45759010640ada1872ea427ec1153015e6016473d68",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        270
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "8e5f04080272ccde10c57186",
+      "title": "头痛恶寒",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "太阳之经，外在皮毛，实为六经之长。肺藏卫气，肝藏营血，而总统于太阳。寒伤营血，裹束卫气，不得外发，故闭藏而生表寒。其经自头下项，行身之背，经气上壅，故头项痛而腰脊强。肺主卫气，而开窍于鼻，卫气遏闭，不能外泄，故逆行鼻窍，而生嗽嚏。卫气逆行，不得下降，故胸膈郁闷，而发喘促也。\n紫苏汤\n苏叶（三钱） 桂枝（三钱） 杏仁（三钱，泡）甘草（二钱，炙）\n流水煎大半杯，热服，覆衣，取汗。\n治一日太阳寒疫，头痛，发热，恶寒者。\n寒疫得之伤寒，亦是麻黄汤证。但不尽见于冰雪之天，非皆纯寒，未必咸宜麻黄辛温，故以桂枝泻营血之郁，苏叶、杏仁泻卫气之郁也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 272,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "頭痛惡寒"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "ab4104388fbf4d28e866c1de8f2d02d870e033a56662d4127bb2290e5830cb05",
+      "content_sha256": "a81dee550ae186d6a4e87a71f69b913a8b18611f4c5e7f220f1a4e48da828dab",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        273,
+        274,
+        275,
+        276,
+        277,
+        278
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 269,
+        "simplified_codepoints": 269
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "5a1f8ac88677fc2cef1e7181",
+      "title": "血升鼻衄",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "太阳经病不解，卫郁莫泄，升逼营阴，则见衄证。以肺主卫气，开窍于鼻，卫阳遏闭，不得外达，经脉莫容，上寻出路，冲其营血，是以上溢。血衄则卫郁发泻，亦同汗解，但营血流漓，不无耗丧耳。\n阳明伤寒，脉浮发热，口干鼻燥，能食者，则衄。方在太阳阳明，于其脉浮发热、口干鼻燥之时，早以紫苏石膏地黄汤，泻卫郁而凉血热，则血不上流矣。\n紫苏石膏地黄汤\n苏叶（三钱） 桂枝（三钱） 杏仁（三钱） 甘草（三钱，炙） 石膏（三钱，生，研） 生地（三钱） 麦冬（三钱） 丹皮（三钱） 生姜（三钱，切） 大枣（三枚，劈）\n流水煎大半杯，热服，覆衣，取汗。\n治寒疫太阳经病不解，血升鼻衄者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 279,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "血升鼻衄"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "e936ede4ba3052c01063d930858bfe1edf0b2ba5eb517c712b066dce18cbc905",
+      "content_sha256": "e7b00fca814b5bb4c02485e8b3e0d95e0cac9f974ff3dddb03084841501f815a",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 279,
+        "simplified_codepoints": 279
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "a31ef01e41c6c09e5fea3f39",
+      "title": "水气内停",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "太阳膀胱，寒水之经，太阳经病，阳虚之人，多有水气停瘀之证。或原无积水，而渴燥饮冷，蓄而不消。水气阻格，肺胃上逆，则眩晕而呕咳，肝脾下陷，则淋涩而泄利。外寒未解而里水又动，久而火败土崩，则入三阴之脏，是宜外发表邪而内驱寒水也。\n苏桂姜辛汤\n苏叶（三钱） 桂枝（三钱） 甘草（二钱） 半夏（三钱，炮） 芍药（三钱） 细辛（一钱） 干姜（二钱）五味子（一钱）\n流水煎大半杯，热服，覆衣。若下利，加赤石脂一钱。若渴者，去半夏，加栝蒌根三钱。若小便不利，加茯苓三钱。若喘者，加杏仁三钱。若噫者，加附子三钱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 286,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "水氣內停"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "dabdb12ceb4cecfe52e0c7f7768831aff75fb2aa10c88f35a1377d1044203ab7",
+      "content_sha256": "b65dc8d308e2cfbdd445a96be8e7e62b9c5424d8d3fe88404fd9ebc9266c1969",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        287,
+        288,
+        289,
+        290
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 248,
+        "simplified_codepoints": 248
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "e6626f002aa16a2e07b802b3",
+      "title": "烦躁发渴",
+      "volume": "卷二 / 疫病解第二 / 太阳经证",
+      "content": "病在太阳，未应烦渴，设见烦渴，便是将入阳明之腑，以阳明燥气，因表郁而内发也。若表证已解，用白虎加元麦汤，清燥而生津。气虚者，加人参以益气，以汗后阳虚，恐其渴止而阳亡也。\n白虎加元麦汤\n石膏（三钱） 知母（三钱） 甘草（二钱） 粳米（一杯） 元参（三钱） 麦冬（五钱，去心）\n流水煎至米熟，取大半杯，热服。\n治寒疫太阳经罢，烦躁发渴者。\n人参白虎加元麦汤\n石膏（三钱） 知母（三钱） 甘草（二钱） 粳米（一杯） 人参（三钱） 元参（三钱） 麦冬（五钱）\n流水煎至米熟，取大半杯，热服。\n治寒疫太阳经罢，气虚烦渴者。\n寒疫之病，脏腑易生湿寒，燥热者少，然白虎证亦恒有之，此法不可废也。表证未解，加紫苏三钱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 291,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陽經證",
+        "煩躁發渴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "8035d3a630d2ab4acb07ae225dc6814d7da8143d40f06a3dbdf1a52b2e05fc8f",
+      "content_sha256": "dd7f15319adb6e0a0fee0d50aa306a78e20be2aa5a2f01f27bb06315bdc13645",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 301,
+        "simplified_codepoints": 301
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "2d763e39c8f2d605cb75e66d",
+      "title": "呕吐泄利",
+      "volume": "卷二 / 疫病解第二 / 阳明经证",
+      "content": "阳明之经，在肌肉之分，皮毛之内，太阳表寒未解，以次相传，二日则及阳明。其经挟口环唇，行身之前。经气上壅，故鼻干口燥而胸满。阳明从燥金化气，太阳以湿土主令，燥盛则传腑而生热，湿盛则入脏而生寒。卫气之外发而汗解，全恃乎胃阳盛而燥气长也。\n胃者，水谷之腑，一传阳明，必见呕吐。以少阳胆木，本从胃土下行，阳明经病，不能顺降，则胆木上逆，而克胃土，胃气壅遏，失其容受之量，水谷在中脘以上者则为呕吐，在中脘以下者则为泄利。呕多则胃病，利多则脾病也。\n紫苏葛根升麻汤\n苏叶（三钱） 葛根（三钱） 桂枝（三钱） 芍药（三钱） 甘草（二钱） 升麻（二钱）\n流水煎大半杯，温服。\n治寒疫阳明经泄利者。\n紫苏葛根半夏汤\n苏叶（三钱） 葛根（三钱） 桂枝（三钱） 芍药（三钱） 半夏（三钱） 生姜（三钱） 甘草（二钱）\n流水煎大半杯，热服。\n治寒疫阳明经呕吐者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 303,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽明經證",
+        "嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "4341e088199d8df1ad78c9031b3b0eb1f95f4296ae54bc629cf078d58a976233",
+      "content_sha256": "5785c56bfd80259d54247e7ca70006c02fcf97bf26006fbc88acf8012f1084a4",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 369,
+        "simplified_codepoints": 369
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "e21ebc632c6d86718d251eda",
+      "title": "干燥发渴",
+      "volume": "卷二 / 疫病解第二 / 阳明经证",
+      "content": "阳明经病，而见燥渴，便是将入胃腑，用白虎加麦冬、元参，清肺金而润臊。气虚者，酌加人参。\n盖病入阳明，燥气必作。燥必先见于庚金而后见于戊土，以燥乃庚金之令气而戊土之化气也。戊土之燥在腹，庚金之燥在胸。胸者，辛金之位，辛金本化气于湿土，阳明旺则辛金不化己土之湿而化庚金之燥，是以燥见于胸。大肠者，庚金之腑，胸燥则肠燥可知矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 314,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽明經證",
+        "乾燥發渴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "4b2d89bf60b47e9df412cb911c678bcc7dbe32a564a0b4e420a14addf0d3b5aa",
+      "content_sha256": "585de8d77cbfc25a5fcec30046a6c9e5ed7351bd7984d14b219c48748aedf5f2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        315,
+        316
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "096336d99778b72cdd283395",
+      "title": "潮热汗出谵语腹满便秘",
+      "volume": "卷二 / 疫病解第二 / 阳明腑证",
+      "content": "三阳以阳明为盛，经热不解，转入胃腑，阳郁火旺，必作潮热。每日申酉之交，烦热倍加，如海水潮信，是名潮热。热蒸皮毛，汗出表解，津亡土燥，糟粕焦枯，不俟入肠，炼成结粪，堵塞下脘。胃热郁遏，上耗心液，于是谵语。胃气闭壅，于是腹满。迟而伤及三阴，脾阴烁则唇裂，肾阴枯则耳焦，肝阴涸则舌短，阴精竭流，则人死矣。是宜以承气加元参。麦冬、白蜜，泻其热而润其燥，虽用攻下，而不至亡阴也。\n调胃承气加麦冬元参汤\n大黄（三钱） 芒硝（三钱） 甘草（二钱）麦冬（五钱） 元参（三钱） 白蜜（一杯）\n流水煎大半杯，入白蜜，热服。\n小承气加麦冬元参汤\n大黄（四钱） 厚朴（三钱） 枳实（三钱，炒）麦冬（五钱） 元参（三钱） 白蜜（一杯）\n流水煎大半杯，入白蜜，热服。\n大承气加麦冬元参汤\n大黄（三钱） 芒硝（三钱） 枳实（三钱） 厚朴（三钱） 麦冬（八钱） 元参（三钱） 白蜜（一杯）\n流水煎大半杯，入白蜜，热服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 318,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "陽明腑證",
+        "潮熱汗出譫語腹滿便秘"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f485a679f6845f1e54d5d3f952254a12b85898370f792c5c90923c2f8c50034f",
+      "content_sha256": "f8e9b3b5d17242954503a78504f5642c41fab0aa51f9168c3bd207eb1b76f5f2",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 393,
+        "simplified_codepoints": 393
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "2aacfff19bbaa81faf2acec3",
+      "title": "口苦咽干目眩耳聋胸痛胁痞寒热往来",
+      "volume": "卷二 / 疫病解第二 / 少阳经证",
+      "content": "少阳甲木，从相火化气，病则行其火令。其经起目锐眦，上络于耳，下颈而合缺盆，行两胁而走足。经气逆升，滞塞胸胁，相火燔腾，是以口苦咽干，目眩耳聋，胸痛而胁痞也。位居阳明之里，太阴之表。太阴主营，阳明主卫。营阴外束，卫气欲出而不能，鼓勃振动，则为寒战，卫气透发，则汗出，凡将汗而战摇者，卫弱不能遽发也。卫阳内发，营气欲出而不得，蓄积壅遏，则为发热，营气透发，则热退，凡发热而无汗者，营郁不能外达也。营卫交争，迭为胜复，是以寒往而热来，寒来而热往。相争之久，胜负遂分，寒胜则入于太阴，热胜则入于阳明。入于太阴，则阳负而多危，入于阳明，则阴尽而亦凶。其于寒热往来时，以小柴胡双解表里之邪，柴胡、黄芩，清泻半表之阳，人参、甘草，温补半里之阴，则无偏阴偏阳、内传脏腑之患矣。\n小柴胡汤\n柴胡（四钱） 黄芩（三钱） 半夏（三钱） 人参（二钱） 甘草（二钱） 生姜（三钱） 大枣（三枚）\n流水煎大半杯，热服，覆衣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 330,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "少陽經證",
+        "口苦咽乾目眩耳聾胸痛脅痞寒熱往來"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "098d6f0f16e4ef8e6a8d7d2eb50c4550f222983c0f7e81733279b2ea1c11baab",
+      "content_sha256": "97db7f582cee32ee28c4ef2c55f8005c7ddf3216aa63f73987d856e26e039511",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        331,
+        332,
+        333,
+        334
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 398,
+        "simplified_codepoints": 398
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "a21059e037c57967061ea162",
+      "title": "呕吐泄利",
+      "volume": "卷二 / 疫病解第二 / 少阳经证",
+      "content": "少阳经气，随阳明戊土下降，寒邪外束，甲木郁塞，不能顺降，逆侵戊土，戊土被贼，遂与少阳之经痞结胸胁，凡心胸痞塞、胁肋硬满之证，皆少阳阳明两经之上逆也。胃主受盛，戊土贼于甲木，腑气郁遏，不能容纳水谷，故吐利并作。木贼土负，中气被伤，阴虚则入阳明之腑，阳虚则入太阴之脏。方其木邪肆虐之时，下见泄利，则以黄芩汤清其相火，上见呕吐，则以黄芩半夏生姜汤降其逆气，其半在少阳之经，半入阳明之腑，则以大柴胡汤双解经腑之邪，其半在少阳之经，半入太阴之脏，而下见泄利，则以柴胡桂枝干姜汤温其湿土，上见呕吐，则以柴胡桂姜半夏汤降其逆气也。\n黄芩汤\n黄芩（三钱） 芍药（三钱） 甘草（二钱） 大枣（三枚）\n流水煎大半杯，热服。\n治寒疫少阳经胸胁痞满泄利者。\n黄芩半夏生姜汤\n黄芩（三钱） 芍药（三钱） 甘草（二钱） 大枣（三枚） 半夏（三钱） 生姜（三钱）\n流水煎大半杯，热服。\n治寒疫少阳经胸胁痞满呕吐者。\n大柴胡汤\n柴胡（三钱） 黄芩（三钱） 半夏（三钱） 大枣（三枚） 芍药（三钱） 枳实（三钱） 大黄（三钱） 生姜（三钱）\n流水煎大半杯，热服。\n治少阳经传阳明腑，胸胁痞满，呕吐泄利者。\n柴胡桂枝干姜汤\n柴胡（三钱） 黄芩（三钱） 甘草（二钱） 桂枝（二钱） 干姜（三钱） 牡蛎（三钱） 栝蒌（三钱）\n流水煎大半杯，热服。\n治少阳经传太阴脏，胸胁痞满，泄利者。\n柴胡桂姜半夏汤\n柴胡（三钱） 黄芩（三钱） 干姜（三钱） 桂枝（二钱） 甘草（二钱） 牡蛎（三钱） 栝蒌（三钱） 半夏（三钱） 生姜（三钱）\n流水煎大半杯，温服。\n治少阳经传太阴脏，胸胁痞满，呕吐者。\n寒疫之少阳与伤寒之少阳，病同而法亦不殊。凡见少阳诸证，非内传于腑，即内传于脏。内连脏腑，而后少阳经证日久不罢，方宜小柴胡汤增减治之。若不连脏腑，而但经络外病，则是三日少阳之证，总以太阳为主，第宜紫苏汤发表，无事大小柴胡汤也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 335,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "少陽經證",
+        "嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "037f94bba8342e449afccc6b7baaeff6bbdf1d899c665ec6ebfc85165196754a",
+      "content_sha256": "1182f83b6d5ba974cf621f439741e18db81bb4c436f8907407442fc28d33468b",
+      "paragraph_count": 22,
+      "paragraph_ordinals": [
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 786,
+        "simplified_codepoints": 786
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "37e6f4fd7cc1a2f7beefdb73",
+      "title": "痛满吐利",
+      "volume": "卷二 / 疫病解第二 / 太阴经证",
+      "content": "寒疫传经，四日而至太阴。脾阴非旺，终不入脏，脾阴一旺，则不拘何日，皆可内传。太阴以湿土主令，表郁湿动，故病传脾脏。土湿则中气不运，伤寒太阴痛满吐利之证俱起。卫气郁陷，皆因于此。当补火燥湿，以回脾阳，则卫气发宣而不陷没矣。\n苓桂参甘厚朴汤\n人参（三钱） 甘草（二钱） 干姜（三钱） 茯苓（三钱） 桂枝（三钱） 厚朴（三钱）\n流水煎大半杯，温服。\n治寒疫太阴腹满者。\n苓桂参甘椒附汤\n人参（三钱） 甘草（三钱） 桂枝（三钱） 茯苓（三钱） 蜀椒（三钱，去目） 附子（三钱，炮） 芍药（三钱） 粳米（半杯）\n流水煎大半杯，温服。\n治寒疫太阴腹痛者。\n参甘姜苓半夏汤\n人参（三钱） 甘草（二钱） 茯苓（三钱） 干姜（三钱） 半夏（三钱） 生姜（三钱）\n流水煎大半杯，温服。\n治寒疫太阴呕吐者。\n茯苓四逆加赤石脂汤\n人参（三钱） 甘草（二钱） 干姜（三钱） 茯苓（三钱） 附子（三钱） 赤石脂（三钱，生，研）\n流水煎大半杯，温服。\n治寒疫太阴泄利者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 359,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "太陰經證",
+        "痛滿吐利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "30e4223ad2e4c15d5a4f492cad50d5ceb773e5bc2358152a39be6752e2cef731",
+      "content_sha256": "fd964845f7c985aba07004e113dc494a3f16713de52818248d85ba3f1a8e6c4f",
+      "paragraph_count": 17,
+      "paragraph_ordinals": [
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 420,
+        "simplified_codepoints": 420
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "78939c0aa001d7cfd62ede7c",
+      "title": "厥逆吐泄",
+      "volume": "卷二 / 疫病解第二 / 少阴经证",
+      "content": "寒疫传经，五日而至少阴。肾阴非旺，终不入脏，肾阴一旺，则不拘何日，皆可内传。少阴以癸水而化君火，病则水旺而火衰，以水能胜火而火不胜水，自然之势也。表郁寒作，故病传肾脏。水寒则侮土灭火，伤寒少阴厥逆吐泄之证俱起。卫气陷败，全由于此。当补火泻水，以回肾阳，则卫气发达而不陷亡矣。\n茯苓四逆加半夏汤\n人参（三钱） 茯苓（六钱） 甘草（三钱） 干姜（三钱） 附子（三钱） 半夏（三钱）\n流水煎大半杯，温服。\n呕吐与泄利并见，加赤石脂。但见泄利，用茯苓四逆加赤石脂汤。方在「太阴」。四肢厥冷，蜷卧恶寒，而不吐泄，但用茯苓四逆汤治之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 378,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "少陰經證",
+        "厥逆吐泄"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "b9f1550fa3824e9e533fd50d7c7ac623dbae12365451294afb9d818d74ac53bc",
+      "content_sha256": "d5bfe1d8a99f50b87bbb8ffcda08f382e1179ee52777418366d161c943e5f00f",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        379,
+        380,
+        381,
+        382,
+        383
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 261,
+        "simplified_codepoints": 261
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "036c6cd69411efcdffde003f",
+      "title": "厥逆发热消渴吐泄",
+      "volume": "卷二 / 疫病解第二 / 厥阴经证",
+      "content": "寒疫传经，六日而至厥阴。肝阴非旺，终不入脏，肝阴一旺，则不拘何日，皆可内传。厥阴以风木主令，下为肾水之子，上为君火之母，病则水火不交，下寒上热。水胜则厥生，火复则热发，厥而阳绝则死，热而阳回则苏。\n寒疫之在少阴，但有厥逆，一传厥阴，厥逆之极，多见发热。其厥逆者，母气也，其发热者，子气也。厥为死机，热为生兆，厥热胜复之际，不可不察也。\n风木之性，疏泄而枯燥，土湿水寒，木郁风动，肠窍疏泄，则为泄利，肺津枯燥，则为消渴。风木者，脾土之贼，其死者，死于水旺而土负，其生者，生于火旺而土胜。厥阴之泄利消渴日甚不已者，水胜而火息，土败而木贼也。暖水以荣木，补火以生土，厥阴之法，不外此矣。\n茯苓参甘姜附归脂汤\n人参（三钱） 甘草（二钱） 茯苓（三钱） 桂枝（三钱） 干姜（三钱） 附子（三钱） 当归（三钱） 赤石脂（三钱）\n流水煎大半杯，温服。\n治寒疫厥阴厥逆泄利者。\n参甘归芍麦冬栝蒌汤\n人参（三钱） 甘草（三钱，生） 当归（三钱） 芍药（三钱） 麦冬（三钱） 栝蒌根（三钱）\n流水煎大半杯，热服。\n治寒疫厥阴发热消渴者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 385,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "厥陰經證",
+        "厥逆發熱消渴吐泄"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "4f2294e077091e1a0394006c730828c9d3d9d01385c12a89f9586e0861f904ee",
+      "content_sha256": "a188823d7436294ba94e5b084bfc987b3b5f0cd10eae84501d5294fb6648c71e",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 458,
+        "simplified_codepoints": 458
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "a53c528f070d10e8b38579ae",
+      "title": "三阴治法",
+      "volume": "卷二 / 疫病解第二",
+      "content": "伤寒三阴之病，皆三阴脏证而非经证。经证者，四日太阴，五日少阴，六日厥阴，但在三阴之经，不入三阴之脏，法以太阳为主，不论何日，总是麻黄汤证，不必另立三阴之门也。仲景三阴诸法，原为三阴脏病而设。寒疫亦然，其但在三阴之经，总是紫苏汤证，以其离经而入脏，不得不另立专法也。\n其传经而不传脏者，六日经尽，自能汗解。缘里阳不虚，卫无内陷之由，正复邪衰，自然外发。凡过期缠绵，不得汗解者，皆阴盛而入脏也。阳盛入腑，则潮热汗出而不解，阴盛入脏，则厥冷无汗而不解。寒疫入腑者少，入脏者多。温疫之死，死于阳旺而入腑，寒疫之死，死于阴旺而入脏。小儿痘病，即大人之寒疫，其阳虚卫陷，痘疮痒塌而死者，皆阴盛而入脏也。\n寒疫之感，受在太阳少阴两经。寒水之气旺，感于太阳之经，则传于少阴之脏。少阴主水，五脏之阴，莫盛于少阴，太阴厥阴之病，悉因少阴之水旺，泻癸水而益丁火，三阴之通法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 397,
+      "source_path": [
+        "卷二",
+        "疫病解第二",
+        "三陰治法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "520eea09844de27264f3c2ab5cd243cea38cf4c6391ffb3fa3d5f8408010b9a1",
+      "content_sha256": "5310db665f6d0bd63c0c8d0861549f29ff8aed6dfc2deb995fcdf33aa38729ed",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        398,
+        399,
+        400
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 377,
+        "simplified_codepoints": 377
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "2cabc3e018c50aef250f2df9",
+      "title": "卷三",
+      "volume": null,
+      "content": "小儿痘病，既大人寒疫。寒伤营血，营闭而卫郁，卫气外发则生，内陷则死。非解仲景《伤寒》，不知寒疫，非解寒疫，不知痘病。但以先圣无言，古经阙载，后世庸工，未烛厥理，涉水迷津，凿山罔道，灵关弗启，玄钥难开，篇章累架，悉凭虚公子之言，著作连箱，皆乌有先生之论，致令孩提不禄，襁负夭亡，方出人关，已登鬼录，纵使昔之寿民，且为今之殇子。痛此亿万婴童，横罹冤酷，怛然悲惋，心折骨惊，作痘病解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 401,
+      "source_path": [
+        "卷三"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "aecfc6d16e686b48fadd858a68ec273c8e0b0449d0f664ccd986d60266405625",
+      "content_sha256": "adeb3e19d5de7f9f51b97575c8612d8af0477b705597bcac086c209ae6b7c634",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        402
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 189,
+        "simplified_codepoints": 189
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "e27f681913263680d893a31c",
+      "title": "痘病根原",
+      "volume": "卷三 / 痘病解第三",
+      "content": "痘病者，寒疫之伤营血也。此因木火发泄，营阴不敛，是以寒侵于血分。寒伤大人，则为寒疫，小儿则为痘证，其病一也，而证则异焉。\n气统于肺，血藏于肝，肺气清凉而降敛，肝血温暧而升发，自然之性也。血性宣扬而寒性闭涩，寒伤营血，闭其皮气，营愈闭而愈欲发，发而不透，外束卫气，故卫郁而为热。六日经尽，卫气郁隆，发于汗孔，形同豆粒，是以名痘。小儿寒水蛰藏，相火未泄，皮毛之密，异于大人，故感冒寒疫，卫郁而痘发。痘粒圆满，卫郁散布，则热退而病除矣。\n小儿未尝不感伤寒，而未始病痘，至寒疫之邪，缠绵固涩，最难解散，小儿肌肤敛密，感之则痘生焉。\n岭南塞北，不见此病。地暖则孔窍不闭，地寒则皮毛不开，故感而不伤也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 404,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "痘病根原"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "c28036967b481e380315665e2c00e2943ed34ec34c3357922289c04dfdf945b0",
+      "content_sha256": "15b33838c6d8b52f4a925f1965e25ed041f0365f1dd6771409e77ba0fc74f69b",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        405,
+        406,
+        407,
+        408
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 295,
+        "simplified_codepoints": 295
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "c8a38bb7a470d6d6b6adadcf",
+      "title": "痘病消长",
+      "volume": "卷三 / 痘病解第三",
+      "content": "小几寒疫传经，亦同大人，一日太阳，二日阳明，三日少阳，四日太阴，五日少阴，六日厥阴。六经俱尽，卫气外发，而生痘粒，一经之郁散，则一经之病解。七日太阳病衰，八日阳明病衰，九日少阳病衰，十日太阴病衰，十一日少阴病衰，十二日厥阴病衰，卫气尽达，而痘愈矣。\n阳盛者，经阳司气而热郁于外，阴盛者，脏阴当权而寒郁于内，阳盛则红白而起发，阴盛则紫黑而塌陷，以阳长而阴藏，其性然也，起发则生，塌陷则死，故阴不可长而阳不可消。阳莫盛于阳明，阴莫盛于少阴，阳盗则阳明之经病也，阴盛则少阴之脏病也。脏阴太盛，寒及于经，而络中之阳亦消，经阳太盛，热连于腑，而脏中之阴亦耗。脏寒则宜温补，而腑热不可寒泻，补则卫发而痘长，泻恐卫陷而痘消。明于消长之理，崇阳明而黜少阴，痘家不易之法也。仲景《伤寒》「少阴」之篇：少阴负趺阳者，为顺也（趺阳，胃脉）。实痘病之玉策金绳也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 409,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "痘病消長"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "83e0319e4d5dabd260797ac4fb4dc99e7a67cf98135239e1f4059a4e70d60433",
+      "content_sha256": "a9e814621fc35739eb945ef0dc46327e332626022a57943ccc060520920a2e8a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        410,
+        411
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 369,
+        "simplified_codepoints": 369
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "4518be1be1887dd16d73899f",
+      "title": "热吉寒凶",
+      "volume": "卷三 / 痘病解第三",
+      "content": "痘发于阳盛而外热，陷于阴盛而内寒，是以感病之时，热甚者吉，热微者凶。\n发热三日，三阳之盛也。发热二日，则太阳之阳虚，故一日不热。发热一日，则阳明之阳虚，故二日不热。阳虚则卫郁不发，即暂时略发，而究不茂长，终必塌陷。一入三阴之脏，热退寒生，死不可医矣。\n阳贵阴贱，凡病皆然，至于痘家，尤为甚焉。阴贵之证，除温病、温疫、伤寒阳明实证外，他未尝有也。是以三阳之经热，痘家之生途，而一见少阴之寒来，即寓死机，恐其寒来而热不继发也。三阴之脏寒，痘家之死路，而一见厥阴之热发，即为佳兆，喜其热发而寒不再来也。其阳复而热过者，疳蚀痈溃，不无后患，然既已出死路而登生途，纵治法乖违，未免损伤，究为肢体残缺之人，犹胜作官骸周全之鬼也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 412,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "熱吉寒凶"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "af7e41dc212f71e7b8b2e2790c31c5cb85e8febb84731fcefde7e8bfb054f42c",
+      "content_sha256": "e95c13b639a7b77216a5e91f83999bc16ca31b8f738f57882ab1ff2590779c75",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        413,
+        414,
+        415
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 308,
+        "simplified_codepoints": 308
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "f643b3c2663e358e93917758",
+      "title": "抑阴扶阳",
+      "volume": "卷三 / 痘病解第三",
+      "content": "痘家自始至终，全赖阳旺。阳减一分，则其异时发达收结，必有一分欠缺。其甚则红紫凹塌，而卫气不升。其次则灰色平陷，而卫气不长。其次则泡壳空虚，而卫气不充。其次则皮肤脆嫩，而卫气不敛。卫有不到之处，即人有危亡之忧。纵毫无欠缺，痂退病除，而瘢色老嫩，犹关性命。\n黑者上吉，红者无虑，白者终凶。黑者，阳旺而热盛也，红者，阳平而热调也，白者，阳虚而热败也。\n凡见诸证，当竭力扶阳，以挽末路。惟烦热频作，痘色枯焦，此少阳相火之旺，厥阴风木之郁。缘木司营血，而主色泽，血虚不能华色，而风木消烁，愈失光润，故见枯焦。宜以柴胡、黄芩、地黄、芍药，泻相火而滋风木。\n肌肤自华，原非下证，痘家误服硝黄而反起发丰润者，正是此种。此是误用而误效，虽能奏效，究竟是误。庸工见其偶效，以为痘有下证，死有余辜者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 416,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "抑陰扶陽"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "93dade8a75763cee408b583884b9b7b3ee280489b094f0dfaa73d8e326356338",
+      "content_sha256": "ff326acb3748109393f8ceff731596c64afc2d6a2c2109da502c446560986f4f",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        417,
+        418,
+        419,
+        420
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 340,
+        "simplified_codepoints": 340
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "868072f70663b8b166a4711d",
+      "title": "头痛腰痛发热恶寒嗽喘嚏喷",
+      "volume": "卷三 / 痘病解第三 / 太阳经证",
+      "content": "太阳在六经之外，皮毛之分，次则阳明，次则少阳，次则太阴，次则少阴，次则厥阴，近于骨矣。卫司于肺，营司于肝，营行脉中，卫行脉外，而总统于太阳。\n寒自外感，而伤营血，故太阳先病。寒性闭涩，窍开寒入，闭其皮毛，血不得泄，是以伤营，阴内阳外，气之常也。寒伤营血，皮毛闭塞，营阴欲泄，肤无透窍，外乘阳位，束其卫气，卫气内郁，则遏闭而为热，营血外束，则收藏而为寒，阴阳易位，彼此缠迫，故发热而恶寒也。太阳之经，自头下项，行身之后，经气迫束，故头项腰脊骨节俱痛也。皮毛外阖，肺气壅遏，逆行上窍，泄之不及，故嗽嚏喘促也。营血遏郁，木气不畅，肝木不升，则振撼而为悸，胆木勿降，则悬虚而为惊也。足少阳行于耳后，手厥阴行于中指，少阳之相火上逆，故耳后筋红，厥阴之相火下陷，手厥阴亦为相火。故中指节冷也。\n营为寒侵，束闭卫气，卫气不达，郁而生热，是营伤而卫病也。宜紫苏汤，苏叶发其皮毛，杏仁利其肺气，桂枝通经而行营血，甘草培土而补中气，使寒随汗散，营开而卫泄，则不生痘病矣。\n紫苏汤\n苏叶（三钱） 桂枝（一钱） 杏仁（二钱，泡）甘草（一钱，炙）\n流水煎半杯，热服，覆衣，取汗。\n治小儿寒疫太阳经证，而未成痘者。\n冬月寒盛，须以麻黄发之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 422,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "太陽經證",
+        "頭痛腰痛發熱惡寒嗽喘嚏噴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "b8fd48ea2f08fcd3836e5e92ef2a281286900463a0022964c2fb7eb2cbfc7264",
+      "content_sha256": "4b0b609d786faebcf389ad123ee1f9de75a12824b7d0de46587e6f00dd6f5550",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 506,
+        "simplified_codepoints": 506
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "b66474c4b90f934985a1ae3b",
+      "title": "阴阳盛衰",
+      "volume": "卷三 / 痘病解第三 / 太阳经证",
+      "content": "太阳一经，三阳三阴之纲领也，阳盛则外传三阳之经，阴盛则内传三阴之脏。阳盛者，三阳当令，经热外发，则脏阴退避，而内寒不生，阴盛者，三阴司权，脏寒内动，则经阳败没，而外热不作。阳盛则善长，故红肿而外发，阴盛则善藏，故黑塌而内陷。外发则卫气升达而人生，内陷则卫气沦亡而人死。阳盛者顺，阴盛者逆，自然之理也。究之病在太阳，不早解表寒，其内传六经，卫郁痘发，已为顺中之逆。若于痘形未见之先，早以表药解之，令其寒散卫泄，痘粒不生，是为顺中之顺也。\n庸工谬妄，以为脏腑之毒，不知解表，而又以寒泻，败其胃气，小儿夭枉，千载奇冤。此辈穰穰，何可胜诛也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 431,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "太陽經證",
+        "陰陽盛衰"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "84cffb2959c96e78a1aa93e6619f7559252ad7656e555c7e0c16622ca7de00db",
+      "content_sha256": "02d2dd09770b4f2200958d495d130ad8bbd413739e533dc2cf4d6bed0fa388ef",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        432,
+        433
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 267,
+        "simplified_codepoints": 267
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "8ef12872b00935659843d8e3",
+      "title": "停水不消",
+      "volume": "卷三 / 痘病解第三 / 太阳经证",
+      "content": "太阳膀胱，职司水道，阳衰土湿之家，水不归壑，乘表寒外闭，里水郁发，逆行阳位，客居心下。或原无停水，而渴饮茶汤，蓄积不化。水气阻格，肺胃不降，多生呕哕咳喘之证，肝脾不升，多有泄利淋涩之条。水旺则火土双败，异日黑陷之基，实伏于此。是宜表里双解之苏桂姜辛汤，苏叶泻其卫气，桂枝行其营血，甘草培土，芍药泻木，半夏、细辛、干姜、五味，降冲逆而止咳呕，里气调而表郁宣，积水化汗，泄于皮毛矣。\n苏桂姜辛汤\n苏叶（三钱） 桂枝（一钱） 甘草（一钱） 芍药（一钱） 半夏（二钱，洗） 细辛（一钱） 干姜（一钱） 五味（一钱）\n流水煎半杯，热服，覆衣。\n治太阳经证痘未发，而有水气停阻者。\n若下利，加赤石脂一钱。若渴者，去半夏，加栝蒌根二钱。若小便不利，加茯苓二钱。若喘者，加杏仁一钱。若噫者，加附子一钱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 434,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "太陽經證",
+        "停水不消"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "00efdc5df03f5a4c5d88ea233af2306dcaf71aac9f1942da2c55f18a922c13bf",
+      "content_sha256": "0be5e515c3b6b03b6304ab8b444d7a00f81699382b8017ccd7310aaf759de2bb",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        435,
+        436,
+        437,
+        438,
+        439,
+        440
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 343,
+        "simplified_codepoints": 343
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "f8997ab40e7085a617b6b3e3",
+      "title": "烦渴发热",
+      "volume": "卷三 / 痘病解第三 / 太阳经证",
+      "content": "太阳未传阳明，不作烦渴，内连阳明，卫郁发热，而外泄无路，烦渴乃生，以胃腑燥气，因表郁而里应也。此在大人，或有表解而病此者，小儿不得汗泄，必连表证。宜白虎加元麦紫苏汤，清金而发表。气虚者，加人参以益气，防其渴止阳亡而卫气虚败也。\n白虎加元麦紫苏汤\n石膏（二钱，生） 知母（一钱） 甘草（一钱）粳米（半杯） 元参（一钱） 麦冬（三钱，去心） 紫苏（三钱）\n流水煎至米熟，取半杯，热服，覆衣。\n治太阳经证未解，而见烦渴者。\n人参白虎加元麦紫苏汤\n石膏（一钱） 知母（一钱） 甘草（一钱） 粳米（半杯） 人参（一钱） 元参（一钱） 麦冬（三钱） 紫苏（三钱）\n流水煎至米熟，取大半杯，热服，覆衣。\n治证同前，而气虚者。\n寒疫之证，脏腑亦生湿寒，燥热者颇少。小儿相火未泄，阳旺之人，多有此证，白虎法不可不备也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 441,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "太陽經證",
+        "煩渴發熱"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "76cc7fd7c09c8dee2588ec2775a5b16d8bab379442754ae4799c46b18ee360a8",
+      "content_sha256": "92f8a34a7e8c5002cf29a475e73f74cd23395fe02cc8a72ed7ee2c6933fc5d50",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 350,
+        "simplified_codepoints": 350
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "d7d8f7a25d5e6f5bc2ca552e",
+      "title": "血升鼻衄",
+      "volume": "卷三 / 痘病解第三 / 太阳经证",
+      "content": "太阳未传阳明，卫郁非盛，尚无衄证，一传阳明，卫气郁遏，经络勿容，逆循鼻窍，冲逼营血，则见衄证。衄则卫郁升泄，痘可不生。然衄解较之汗解，损伤颇重，且恐卫郁不尽发泄，而衄后阳虚，痘不茂长，则反坏大事。于其脉浮发热，鼻燥口干，卫郁欲衄之时，以紫苏石膏地黄汤，泻卫郁而凉血蒸，表解汗泄，则衄证免矣。\n紫苏石膏地黄汤\n苏叶（三钱） 桂枝（一钱） 杏仁（一钱） 甘草（一钱） 石膏（一钱） 生地（一钱） 麦冬（三钱） 丹皮（一钱） 生姜（一钱） 大枣（一枚）\n流水煎半杯，热服，覆衣。\n治太阳将传阳明，脉浮发热，鼻燥口干，欲作衄证者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 452,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "太陽經證",
+        "血升鼻衄"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f21ebbc65a434317a6b0785a1e0dc0e6c0043fccf336f04b95b7c8c4ae8ae79b",
+      "content_sha256": "020e6c905c433fa9499834d906c865607dd70964b014519b2823534ce1b96749",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        453,
+        454,
+        455,
+        456,
+        457
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 261,
+        "simplified_codepoints": 261
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "0aab7157554c48c782dd0cd7",
+      "title": "呕吐泄利",
+      "volume": "卷三 / 痘病解第三 / 阳明经证",
+      "content": "阳明之经，在肌肉之分，皮毛之内，太阳经病，以次相传，二日则及阳明。其经挟口环唇，行身之前，经气上壅，故鼻干口燥而胸满。胃者，水谷之府，一传阳明，必见吐泄。以少阳甲木，从阳明戊土下行，表寒束迫，阳明经气不能顺降，壅碍甲木下行之路，甲木郁遏，而贼戊土，胃腑被逼，失其容受之量，水谷在中脘以上者则为呕吐，在中脘以下者则为泄利。\n呕利者，入腑入脏之先机也。阳明胃腑，从燥金化气，太阴脾脏，以湿土主令，阳盛则呕泄亡阴，入腑而生热，阴盛则吐利亡阳，入脏而生寒。\n寒疫之病，大人卫泄而汗解，小儿卫发而痘生，全恃乎胃阳盛而燥气长也。于其呕泄方作之时，扶阳明而抑太阴，一定之法也。\n紫苏葛根升麻汤\n苏叶（三钱） 葛根（二钱） 桂枝（一钱） 芍药（一钱） 甘草（一钱） 升麻（一钱）\n流水煎半杯，温服。\n治阳明经泄利者。\n紫苏葛根半夏汤\n苏叶（三钱） 葛根（三钱） 桂枝（一钱）芍药（一钱） 半夏（二钱） 生姜（一钱） 甘草（一钱）\n流水煎半杯，温服。\n治阳明经呕吐者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 459,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "陽明經證",
+        "嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "b7d387c2ee599c07d6439dd17aa083826776583c29a8311374d2c203c73214d4",
+      "content_sha256": "7daf8355dd06cc27d27847d2bd60b8f572aac1563b3b536d2c2f0d53beacbdd6",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 425,
+        "simplified_codepoints": 425
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "1a028a90e6e23859f3eddadc",
+      "title": "发热出痘粒满痂生",
+      "volume": "卷三 / 痘病解第三 / 阳明经证",
+      "content": "小儿痘证，原于卫郁，卫阳极盛，而后外发。阳莫盛于阳明，表寒外束，阳气郁隆，是以发热。日传一经，而至少阳，三阳俱病，卫郁盛发，故发热三日，而见痘形。四日太阴，五日少阴，六日厥阴，正阳当令，六经俱周。三阳不消，三阴不长，卫气郁满，经脉莫容，既无内陷之窍，自当外寻出路，而发于汗孔，汗孔一开，卫气外泄则为汗。寒束窍闭，汗孔莫开，卫气升腾，冲突皮肤，穹隆起发，是以成痘。\n痘者，卫郁外发，而不得汗泄者也。此在大人，经脉疏阔，而卫气虚损，六日之内，满而不实，经尽之后，又能汗解，故无痘证。小儿卫盛阳满，窍隧紧密，外感寒淫，肌表不泄，与大人同病，而证状悬绝，发为颗粒，此痘病之原由也。\n卫气莫泄，发越丰隆，再三日而痘粒完满，再三日而卫郁透彻，痂生热化，病退而人安矣。\n凡诸疮疿，血肉肿溃，脓成必泄。痘粒之肿，不关血肉，只是卫气冲腾，皮肤泡起。经阳升发，氤氲叆叇，影影如浆，其实非脓。经热外烁，皮肤焦结，痂落皮损，是以成麻。计其起落，十有二日，而后病愈。\n大人病此，多愈于六七日之间者，六经既遍，邪退正复，自能汗解。小儿无汗，卫气不泄，是以再加六日，卫郁发尽，结为痘证，粒满痂生，而后病退。其卫盛者，六七八日经尽而即起，其卫虚者，十七八日三经周而后平也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 471,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "陽明經證",
+        "發熱出痘粒滿痂生"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "0a5c54498af679b236d85650c6ef50fbc18b356c770bb9655d4a89ed29d4dfde",
+      "content_sha256": "079390f691d540f232e6bbbffc4c6c48c08a77ea0e797f58a8445c3eacb90f89",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        472,
+        473,
+        474,
+        475,
+        476
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 520,
+        "simplified_codepoints": 520
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "1896d91a5071012239282308",
+      "title": "红白消长",
+      "volume": "卷三 / 痘病解第三 / 阳明经证",
+      "content": "痘病卫郁营内，外发则生，内陷则死，而其外发之权，全赖乎阳明之经。营生于太阴，卫化于阳明，肝藏血而脾乃生血之本，肺藏气而胃为化气之原也。\n营内卫外，自然之位，寒伤表闭，卫气不得外行而反内郁，营血不得内守而反外束。卫气发于营血之内，是以痘粒初生，营血包裹，全是红色。太阴虚而阳明盛，则卫阳外发而营不得闭。方其初发，重围未透，营血朦胧，红不遽退。及其升发散越，透彻无郁，营阴退落，红线绕根，光圆白润，血色全消矣。卫统于肺而外司皮毛，卫虚则泡壳清薄，卫盛则泡壳苍厚，阳气醇浓，雾洒烟霏，游溢升腾，郁郁蔼蔼。卫气全升，经热尽泄于痘泡之内，郁消热化，壳硬皮焦，痂落疮平，初于经脏无伤也。太阴盛而阳明虚，则营阴外闭而卫不能发。纵竭力升发，而群阴障蔽，不得外达，血色迷蒙，久而莫消。卫气郁抑，势必内陷，卫陷则痘粒痒塌，而命殒矣。\n卫郁则红变而紫，卫陷则紫转而黑。庸愚见其红紫，以为血热毒深，而用凉解之剂，助其内陷，赤子夭殇，祸流千载。念之眦裂冠冲，辄欲死鞭其尸，生拔其舌！悠悠苍天，此恨何极也！\n参耆丹桂红蓝汤\n人参（二钱） 黄耆（二钱） 桂枝（一钱） 芍药（一钱） 甘草（一钱） 丹皮（二钱） 红花（一钱）\n流水煎半杯，热服。\n治色红过经不退者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 477,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "陽明經證",
+        "紅白消長"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "76e7f0ea169d6a5928729df843acaccad9a1d77185d08b7c2903dcc53a38e1d0",
+      "content_sha256": "0cc2b2773d5f050886924076c049641e669e1f19229e747be48693230231e72c",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 516,
+        "simplified_codepoints": 516
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "c63047e3dabcbed6bff3c3a8",
+      "title": "发紫变黑顶平根散",
+      "volume": "卷三 / 痘病解第三 / 阳明经证",
+      "content": "痘粒初生，营阴闭束，卫气冲发，红点外形。及至卫气盛发，突围而出，营血退缩，周外环绕，痘泡圆白，红根如线。其红根之紧细者，卫气之冲逼也，其白泡之丰圆者，营血之敛束也，此为营卫之俱盛。\n营衰则红根散漫，敛束不紧，卫衰则白顶灰平，升发不快，营卫俱衰，则顶平而根散，不能圆紧也。其卫气更虚者，重围不透, 血色终存。卫气怫郁，燥闷烦渴，则红变而紫。及其陷没，则紫变而黑。其极虚者，一郁遂陷，不作热烦，则红变而黑，紫不久驻。其红其紫其黑，皆阴盛阳虚，卫气不能外发也。\n参耆桂麻汤\n人参（二钱） 甘草（一钱） 黄耆（三钱） 桂枝（一钱） 升麻（一钱）\n流水煎半杯，温服。\n治顶平者。\n参归芍药汤\n人参（一钱） 甘草（一钱） 当归（三钱） 芍药（三钱，醋炒）\n流水煎半杯，温服。\n治根散者。\n参耆蓝苏石膏汤\n人参（三钱） 甘草（一钱） 黄耆（三钱） 石膏（二钱） 苏叶（三钱） 红花（二钱） 升麻（一钱） 丹皮（一钱）\n流水煎半杯，温服。\n治色紫而烦渴者。\n如无烦渴，去石膏。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 485,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "陽明經證",
+        "發紫變黑頂平根散"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "c2e067b4d4b5bcc3316343610ceff21d73546701ef40fdeecab78c658472a8d5",
+      "content_sha256": "23c40bb604fa7f5c90d34ec924ea33dac82cb93150918940f3808e2d8aa43dd9",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 430,
+        "simplified_codepoints": 430
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "83d3f826655f74508efab336",
+      "title": "郁重粒多蒙头锁项抱鼻环唇肿消眼闭",
+      "volume": "卷三 / 痘病解第三 / 阳明经证",
+      "content": "痘病营闭卫郁，郁轻者稀，郁重者密。密之极者，卫郁不能尽发，危证也！此当用清补温散之剂，使卫旺表疏，阳郁尽发，不至死也。蒙头锁项者，足三阳之不降也。手之三阳，自手走头，足之三阳，自头走足，而总由于项。阳根下弱，营阴闭束，经气不降，故头项偏多。太阳在后，阳明在前，少阳在侧，各有其部，而悉缘阳明之弱。阳明者，三阳之长，阳明不降，故太少二阳逆行而上也。抱鼻环唇者，阳明之不降也。手足阳明之经，挟鼻环唇，阳明不降，故环抱于口，亦以阳明之虚也。四肢秉气于脾胃，脾旺则气达手足之掌，胃旺则气达手足之背。足之三阴，皆随太阴而上升，足之三阳，皆随阳明而下降。太阴主营，阳明主卫，痘者卫气之郁发，则关乎阳明而不关乎太阴，卫气昼行于六阳，夜行于六阴，手足背外之痘，阳明之气也，手足掌内之痘，亦阳明之气也。阳明旺则发布于手足，阳明虚则上壅于头面。此当补阳明以壮卫气，使卫气四达，亦可生也。其升发之时，郁重粒多，头面偏密者，肤肿眼合，自是常事，若肿消而眼闭者，即卫气之陷也。亦当补阳明以益卫，疏太阴以开营，使营散而卫发，万无一失也。\n参耆姜苏石膏汤\n人参（二钱） 甘草（一钱） 黄耆（三钱） 石膏（一钱） 大枣（三枚） 苏叶（三钱） 生姜（一钱）\n流水煎半杯，温服。\n治痘密者。\n参甘苓夏汤\n人参（三钱） 甘草（二钱） 茯苓 （三钱） 半夏（三钱）\n流水煎半杯，温服。\n治痘抱鼻环唇者。\n参耆麻桂红蓝汤\n人参（三钱） 甘草（一钱） 黄耆（三钱） 桂枝（一钱） 丹皮（一钱） 红花（一钱） 升麻（一钱）\n流水煎半杯，温服。\n治肿消眼闭者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 501,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "陽明經證",
+        "郁重粒多矇頭鎖項抱鼻環唇腫消眼閉"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "35a7333fb1b0cdb78e2a887fa0b81d942eecb5c5587e23ef40434976f488f9a1",
+      "content_sha256": "2ce72fa5ff0a6ecdc8c01b103a9eedc22ea4172a20f9e31142e6922fc444af1c",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 656,
+        "simplified_codepoints": 656
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "95073d7459bf377c602182d3",
+      "title": "潮热谵语腹痛便秘",
+      "volume": "卷三 / 痘病解第三 / 阳明腑证",
+      "content": "痘粒外发，全赖阳明之旺，阳气太盛，则自阳明之经，而入阳明之腑。寒疫阴盛而入脏者多，阳盛而入腑者少，痘病之死，皆由阴盛而阳陷也。阳盛入腑，万不一死，是为上吉，但腑燥便结，阳气过亢，亦当滋其肠胃，以救脏阴，不可轻用承气。伤寒表证未解，误服下药，陷其表阳，则生结胸心痞诸变，寒疫亦然。痘病卫气升达，最忌表阳内陷，承气之证，未易多见也。设其谵语潮热，腹痛便涩，恐其土燥阴亡，不得不泻，则以承气而加滋润之药，下其糟粕，以泻胃热，而不至伤其精气。自非然者，硝黄枳朴，寒泻脾胃之剂，不宜孟浪也。盖大人寒疫，而传胃腑，胃阳郁发，毛理蒸泄，表寒尽解，全是内热。汗去土焦，燥粪堵塞，不用攻下，胃火燔蒸，无从渫越。迟恐三阴枯槁，精液消亡，故有缓攻之法，又有急下之条。小儿寒束表密，汗液未亡，金土燥热，不至如大人之甚，缓攻之疾，固宜详审，急下之病，更当斟酌。以承气之法，能亡阳盛之微阴，最泻阴盛之微阳，小儿一线生阳，甚易扑灭，而痘粒发达，专凭胃气，倘其一下而卫陷，则大事坏矣。\n天地苁蓉汤\n生地（三钱） 天冬（二钱） 甘草（一钱，生） 肉苁蓉（三钱） 麻仁（二钱，炒，研） 白蜜（半杯） 阿胶（二钱，炒，研） 当归（二钱）\n流水煎一杯，分服。\n治阳明腑证，胃燥便结，不必攻下者。\n伤寒表寒未解，无服承气之法，服则表阳必陷，祸变即生。小儿痘病，以不得汗泄，故卫气郁冲，而发颗粒，无表解出痘之理。而痘粒升达，全恃卫气，卫气发越，专赖胃阳。一服下药，胃阳败泻，卫气必陷，窃谓痘病，必无服承气之法。设其胃燥便结，确有下证，用苁蓉滋润肠胃，以滑大便，不可辄用寒泻也。\n小承气加生地苁蓉汤\n大黄（三钱） 厚朴（二钱，炒） 枳实（二钱，炒）肉苁蓉（三钱） 生地（三钱） 白蜜（半杯）\n流水煎大半杯，分，热服。\n调胃承气加生地苁蓉汤\n大黄（二钱） 甘草（一钱） 芒硝（二钱） 肉苁蓉（三钱） 生地（三钱） 白蜜（半杯）\n流水煎大半杯，分，热服。\n大承气加生地苁蓉汤\n大黄（三钱） 枳实（二钱） 芒硝（二钱） 肉苁蓉（三钱） 生地（三钱） 白蜜（半杯） 厚朴（二钱）\n流水煎大半杯，分，热服。\n痘病阳盛则吉，阴盛则凶，凡诸死证，皆由阴盛而卫陷，断无阳旺而人亡者。寒疫脏寒者多，腑热者少，即其阳旺入腑，而表寒未解，亦无服下药之法。余谓痘家纵有承气证，必不可服承气汤，存此承气三法，以备非常之变，非为寻常痘证设也。\n乃有妖魔下鬼，无知造孽，妄作《琐言》、《正宗》诸书，以祸天下。群愚贸昧，醉梦习之，动以大剂硝黄，毙人性命。天道神明，人不可以妄杀，此辈只可担粪，何敢业医！穷凶肆虐，罪大恶极，生无人诛，死逃鬼责，吾不信也！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 516,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "陽明腑證",
+        "潮熱譫語腹痛便秘"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "da8f0bbedd016d1206318549a334d91eb22473b973335da99408accac5a8b1f1",
+      "content_sha256": "f825980f02ce80475b75f611a7de99a2a8cd76422e7cb41cf6c4273ea651d292",
+      "paragraph_count": 17,
+      "paragraph_ordinals": [
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1087,
+        "simplified_codepoints": 1087
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "42cfb4e6fb7b4f2c00f10f7f",
+      "title": "惊悸吐泄寒战发热",
+      "volume": "卷三 / 痘病解第三 / 少阳经证",
+      "content": "少阳之经，在筋脉之分，肌肉之内，阳明经病，以次相传，三日则及少阳。其经自目循耳，行身之侧，下颈而合缺盆，由胸而走胁肋，从相火化气，右降而归癸水。病则经气不降，逆克戊土，阳明壅塞，心胸满胀，愈阻少阳降路，遂与阳明之经，痞结心胸胁肋之间，故有胁痛心痞之证。相火上炎，浊气升腾，故有口苦咽干，目眩耳聋之条。戊土困于甲木，胃腑逼窄，水谷莫容，故作吐泄。吐泄亡阴，则入阴明之腑，吐泄亡阳，则入太阴之脏。入脏入腑，里气郁满，而表气壅碍，则有少阳诸证。若脏腑松畅，中气调和，但传少阳之经，诸证不作也。 少阳甲木，生于壬水而降于癸水，而其下行，则随戊土，戊土下降，而甲木从之，水土栽培，根本不摇，是以胆壮。阳明既病，两经俱逆，胆木虚飘，故生惊悸。位居阳明之里，太阴之表，太阴主营，阳明主卫，营阴外束，卫气欲出，鼓荡振摇，则为寒战。卫气郁发，阳胜而热，则寒往矣，胜极而衰，营阴闭藏，又复如初，阴胜而寒，则热往矣，故少阳之经，有寒热往来之证。营卫相争，久分胜负，寒胜则入于太阴，热胜则入于阳明。入于阳明，则有生而无死，入于太阴，则有死而无生。其入脏入腑，或死或生之机，总卜寒热之胜负，当其热来而寒往，即为阳胜之征，及其热往而寒来，便是阴胜之候。最可虑者，寒来而热不能来，热往两寒不能往也。\n其在大人，寒战而热来，即望汗解，其在小儿，寒战而热来，即望痘生，往来寒热，胜负之际，不可以不察也。\n小柴胡汤\n柴胡（三钱） 黄芩（一钱） 人参（一钱） 甘草（一钱） 半夏（三钱） 生姜（二钱） 大枣（三枚）\n流水煎半杯，温服。\n治寒热呕吐者。\n柴胡芍药石膏汤\n柴胡（三钱） 黄芩（三钱） 人参（一钱） 甘草（一钱） 半夏（二钱） 生姜（二钱） 大枣（三枚） 芍药（二钱） 石膏（二钱，生，研）\n流水煎大半杯，分，温服。\n治少阳热胜，半入阳明者。\n柴胡桂枝干姜汤\n柴胡（二钱） 半夏（二钱） 人参（一钱） 甘草（一钱） 生姜（二钱） 大枣（三枚） 干姜（二钱） 桂枝（一钱）\n流水煎半杯，温服。\n治少阳寒胜，半入太阴者。\n少阳居阴阳之半，半表阳旺，则热胜而入腑，半里阴旺，则寒胜而入脏，吉凶生死，悉判于此。庸愚妄作，以寒战为内热，而用泻下。此辈昏狂狞恶，不安下愚，敢肆凶顽，以祸苍生，可恨也！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 535,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "少陽經證",
+        "驚悸吐泄寒戰發熱"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "d0669ed80e4eed9ceb1b5e0790ba93c2a266ef28bf7744a5fc3493659d858ff6",
+      "content_sha256": "5fb81076781f5b5dcc2e892994a96e26272e9047ea74d10c47411f978ff21ff2",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 930,
+        "simplified_codepoints": 930
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "b3095f499478671ad4d0a9e4",
+      "title": "腹满心痞呕吐泄利",
+      "volume": "卷三 / 痘病解第三 / 太阴经证",
+      "content": "痘病四日，但传太阴之经，不入太阴之脏，此为顺证。阴胜寒作，则入于脏，伤寒痛满吐利之条，次第发矣。《伤寒》：太阴之为病，腹满而吐，食不下，自利益甚，时腹自痛，若下之，则胸下结硬。盖太阴以湿土主令，固有脏寒四逆之证。《伤寒·太阴》：以其脏有寒故也，当温之，宜服四逆。而阳败湿淫，实为脾病之根。\n湿者，脾土之本气，寒者，肾水之客气，究之己土之湿，亦缘癸水之旺。戊土降于火位，故其性燥，己土升于水分，故其性湿。土生于火而火死于水，火胜而土燥，则土能克水，水胜而土湿，则水反侮土，火土双败，水邪凌侮，是以脾脏湿寒也。湿旺而燥衰，寒增而热减，则太阴日胜，阳明日负，营血日长，卫气日消，痘家痒塌黑陷之根，全由于此。凡诸死证，无不缘于脾阴胜而胃阳负也。治太阴之脏，养中扶土，补丁火而泻癸水，无逾于茯苓四逆一方矣。\n茯苓参甘厚朴汤\n人参（一钱） 甘草（一钱） 干姜（一钱） 茯苓 （三钱） 桂枝（一钱） 厚朴（一钱）\n流水煎半杯，温服。\n治太阴腹满者。\n苓桂参甘椒附汤\n人参（一钱） 甘草（一钱） 桂枝（一钱） 茯苓 （三钱） 蜀椒（一钱） 附子（二钱） 芍药（一钱） 粳米（半杯）\n流水煎半杯，温服。\n治太阴腹痛者。\n参甘姜苓半夏汤\n人参（一钱） 甘草（一钱） 茯苓（三钱） 干姜（一钱） 半夏（二钱） 生姜（一钱）\n流水煎半杯，温服。\n治太阴呕吐者。\n茯苓四逆加石脂汤\n人参（二钱） 甘草（一钱） 干姜（二钱） 附子（二钱） 茯苓（三钱） 赤石脂（一钱，生用）\n流水煎半杯，温服。\n治太阴泄利者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 552,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "太陰經證",
+        "腹滿心痞嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "26087df7706030f143c6e47d5e4d6053f2782d2fa2ffd63cff30a4b1884199da",
+      "content_sha256": "2b7d3443cf1567e513e08866d08d6c742e109006e84d54787be9d24313a9bdf1",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 641,
+        "simplified_codepoints": 641
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "6012914170e7ce176ef6903e",
+      "title": "咽痛吐泄蜷卧四逆发痒黑陷便血便脓溃烂无痂痘疔坚石",
+      "volume": "卷三 / 痘病解第三 / 少阴经证",
+      "content": "痘病五日，但传少阴之经，不入少阴之脏，此为顺证。火败寒胜，则入肾脏，《伤寒·少阴》欲寐，蜷卧恶寒，四肢厥逆，咽痛吐利之条，陆续见矣。少阴从君火化气，病则水胜而火败，寒长而热消，必至之势也。\n少阴脉循喉咙，寒水上凌，相火失根，甲木逆冲，是以咽痛。寒水侮土，中气崩溃，胃逆则呕，脾陷则利。阳动而阴静，阴胜阳奔,水旺火熄，故蜷卧恶寒，而但欲寐也。脾胃并主四肢，寒水侮土，四肢失温，故手足厥逆。阳胜则卫气发达而肌肤鲜华，阴胜则卫气沦郁而皮毛黎黑，卫气幽埋，不能发越，故郁而为痒。既不外发，则当内陷，势无中立之理，是以痒则必塌而黑则必陷也。水寒土湿，风木郁陷，疏泄不藏，是以便血。湿寒凝涩，膏血腐败，风木失荣，是以下脓。卫气者，所以熏肤而充身，卫肌腠而敛皮毛，阳虚卫败，则肌肤失其收敛，溃烂而无痂壳。阳性松活，阴性石坚，寒水坚凝而石，故主痘疔。阴莫盛于少阴，所谓肾者主水，受五脏六腑之精而藏之。《素问》语。故阴气独盛，痘家死证，悉以肾阴之盛也。\n甘桔元射汤\n甘草（二钱） 桔梗（二钱） 元参（一钱） 射干（ 一钱）\n流水煎半杯，热服。\n治少阴咽痛者。\n茯苓四逆汤\n茯苓（三钱） 人参（一钱） 甘草（一钱） 干姜（二钱） 附子（二钱）\n流水煎半杯，温服。\n治蜷卧恶寒，四肢厥冷者。\n呕吐，加半夏、生姜。泄利，加赤石脂。与太阴同法。\n苓桂参甘耆附麻苏汤\n人参（三钱） 甘草（一钱） 茯苓（三钱） 桂枝（二钱） 黄耆（三钱） 附子（二钱） 升麻（一钱） 紫苏（三钱）\n流水煎半杯，温服。\n治痒塌黑陷者。\n桂枝芍药黄土汤\n甘草（一钱） 白术（二钱） 附子（二钱） 阿胶（一钱） 生地（一钱） 桂枝（一钱） 芍药（二钱） 灶中黄土（三钱）\n流水煎半杯，温服。\n治便血者。\n桃花汤\n干姜（三钱） 粳米（半杯） 赤石脂（三钱）\n流水煎至米熟，取半杯，入赤石脂末五分，温服。\n治便脓血者。\n苓桂参甘黄耆汤\n人参（一钱） 甘草（一钱） 茯苓（二钱） 桂枝（一钱） 黄耆（三钱）\n流水煎半杯，温服。\n治溃烂无痂者。\n参甘桂附红蓝汤\n人参（一钱） 甘草（一钱） 茯苓（三钱） 桂枝（一钱） 附子（二钱） 红花（二钱） 苏叶（二钱）\n流水煎半杯，温服。\n治痘疔坚石者。\n先用银针刺之，后服此汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 572,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "少陰經證",
+        "咽痛吐泄蜷臥四逆發癢黑陷便血便膿潰爛無痂痘疔堅石"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "69d8b0f1bf1e00974f8b3388b7db4e142de08a2674471566fd3f8f440f619c8a",
+      "content_sha256": "ad407d359633b5a8444b4fdba8810418749a2297d3d8850d534467d0c087240c",
+      "paragraph_count": 32,
+      "paragraph_ordinals": [
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 930,
+        "simplified_codepoints": 930
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "52e6b526affce7675d6b27c3",
+      "title": "气冲心痛咽疼消渴呕吐泄利便血便脓腹痛腰痛厥逆发热疳疮痈脓",
+      "volume": "卷三 / 痘病解第三 / 厥阴经证",
+      "content": "痘病六日，但入厥阴之经，不入厥阴之脏，此为顺证。木郁风动，则入肝脏，《伤寒·厥阴》气冲心疼，咽痛腰痛，消渴呕利，厥逆发热之证，必当渐生。厥阴以风木主令，土湿水寒，木郁风生，郁冲于上，则心疼咽痛，呕吐消渴之条见，郁陷于下，则腰疼腹痛，泄利脓血之病作。\n厥阴之脉，自足走胸，贯膈而循喉咙，上入顽颡，冲于胸膈，则心为之疼，冲于颃颡，则咽为之痛。木郁蠹化，则吐蛔虫。木败胃逆，则呕水谷。木陷于土，郁冲于前，则病腹痛。木陷于水，郁冲于后，则苦腰痛。血藏于肝，谷消于脾，土败木贼，风令疏泄，脾伤则清谷不止，肝伤则便血不收。厥阴风木，生于癸水而孕丁火，实为水火之中气，中气既病，故水火不交，上热而下寒，水胜则发厥，火复则发热。少阴水胜而火败，故病甚则多死，厥阴水终而火复，故病剧而或生，盖以阴极阳回，往往见绝而苏。其厥逆者，死机也，其发热者，生兆也，而阳回热发，往往太过。热郁于上，则咽痛而吐脓血，热郁于下，则腹痛而便脓血，热郁于经，则随在而发痈脓。凡疳疮剥蚀，唇齿消烂，痈脓腐溃，手足卷屈者，皆厥阴之热淫也。厥阴之经，循喉咙之后，连目系，上出额，与督脉会于颠，下颊而环唇，故疳生于唇口。厥阴主筋，诸筋皆会于节，膝踝肘腕者，筋骨之关节，故痈生于肘膝。缘卫郁不能外发，一得厥阴之热，淫蒸腐化，则生疮痈。然虽热过营伤，而阳回痘发，卫气不陷，亦为厥阴之功。痘传厥阴之脏，半死半生，当于厥热胜复之际，先事预防也。\n甘桔柴苓汤\n甘草（一钱，生） 桔梗（二钱） 柴胡（一钱） 黄芩（一钱）\n流水煎半杯，温服。\n治咽痛者。\n风盛咽燥，加生地、白芍。\n参甘归芍栝蒌汤\n人参（一钱） 甘草（一钱，生） 当归（一钱） 芍药（二钱） 生地（一钱） 栝蒌根（三钱）\n流水煎半杯，温服。\n治消渴者。\n苓桂参甘芍药附子汤\n人参（一钱） 甘草（一钱） 茯苓 （三钱） 桂枝（二钱） 附子（二钱） 芍药（二钱）\n流水煎半杯，温服。\n治腰痛腹痛者。\n苓桂参甘归附汤\n人参（一钱） 甘草（一钱） 茯苓（三钱） 桂枝（二钱） 附子（二钱） 当归（二钱）\n流水煎半杯，温服。\n治厥逆不止者。\n吐泄治同太阴。\n当归芍药地黄汤\n甘草（一钱，生） 芍药（三钱） 生地（三钱）当归（一钱）\n流水煎半杯，温服。\n治发热太过者。\n芍药黄土汤\n甘草（一钱） 白术（一钱） 附子（一钱） 阿胶（一钱） 地黄（一钱） 芍药（二钱） 黄芩（一钱） 灶中黄土（三钱）\n流水煎半杯，温服。\n治便血者。\n痘家便血者死，以水寒土湿而木陷也。宜暖水燥土，而清风木。\n白头翁汤\n白头翁（二钱） 黄连（一钱） 黄柏（一钱） 秦皮（一钱）\n流水煎半杯，温服。\n治便脓者。\n土虚木燥，腹痛胁痛者，加甘草、阿胶。\n地黄芍药芩柏汤\n甘草（一钱，生） 芍药（二钱） 生地（一钱）元参（二钱） 黄芩（一钱） 黄柏（一钱）\n流水煎半杯，温服。\n治疳疮者。\n外以黄连、石膏、甘草、青黛等分，研细，时时涂之。\n甘草归地汤\n甘草（一钱，生） 当归（一钱） 生地（一钱） 芍药（二钱） 桔梗（二钱） 元参（二钱） 丹皮（二钱）\n黄芩（一钱）\n流水煎半杯，温服。\n治痈脓者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 606,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "厥陰經證",
+        "氣衝心痛咽疼消渴嘔吐泄利便血便膿腹痛腰痛厥逆發熱疳瘡癰膿"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "1e63bc79152b891a5d8d0c68422d1d803d9e6b8bb3ebdc117f566c7e3b6c786b",
+      "content_sha256": "2a9485ed4b7b7cac83a5b5b8b4c3b09db84488d85aa3e741b618aef101d0ed43",
+      "paragraph_count": 44,
+      "paragraph_ordinals": [
+        607,
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629,
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1281,
+        "simplified_codepoints": 1281
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "c9108de998cadf9cd244e8a8",
+      "title": "三阴治法",
+      "volume": "卷三 / 痘病解第三",
+      "content": "痘家日传一经，六日而至厥阴，阳平而不入于腑，阴平而不入于脏，经尽卫发，此勿药而有喜者。补泻之法，俱不可用，但须发表而已。阳盛则离经而入腑，阴盛则离经而入脏，入腑者有吉而无凶，入脏者少生而多死。此与伤寒、寒疫之证一也，而痘家之三阴，更为危险。以其表寒闭束，甚于大人，卫气难发而易陷，死者十九也。\n凡病腑热则宜寒泻，脏寒则宜温补，此定法也，而痘家一证，则但有温补之法，而无寒泻之条。盖伤寒攻下，皆在表解之后，痘家未有表解之时，是无可攻下之日也。若阴盛入脏，而温补及时，十犹救五，若温补后期，则九死一生，若稍用寒凉，则百不一生矣。\n临痘证者，贵于在经而先觉，不贵于入脏而后喻。救之于履霜之前，则为良工，挽之于坚冰之后，是为下士也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 651,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "三陰治法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "70035b4f39c7f47c52eb8957f516bc86ab6f671b6c12802d7b0870bae74d66ad",
+      "content_sha256": "844f402a17ab12ab0b3a7b92c2af1ff6a09cc97096c03c90fd2e5e7bd0bc2852",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        652,
+        653,
+        654
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 312,
+        "simplified_codepoints": 312
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "43ae631f7e75c8c200a78f39",
+      "title": "庸工谬妄",
+      "volume": "卷三 / 痘病解第三",
+      "content": "痘理微妙，贤智不解，况中古医工，庸愚凡陋，何足知此！其于古先圣哲言之谆切者，犹且背驰千里，况此之未经论著者乎！其荒唐讹谬，不必责也。至于《琐言》、《正宗》之类，巨恶元凶，罪深孽重。而俗子庸夫，群而习之，以扇其虐，丑类凶徒，久而愈繁。此生灵之大祸，仁人之深忧，极当劈版焚书，不可留也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 655,
+      "source_path": [
+        "卷三",
+        "痘病解第三",
+        "庸工謬妄"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "fc95ca9c4a880ad3e847571604ee3b606e6d9ef44a21495240bb41ff29162bbb",
+      "content_sha256": "f0940ae536dec104e025e4f9d47d5b4e60a7b5f792a5dba6b1afb1cfde0e2cc6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        656
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "d188e78b626c44fb7b9c4549",
+      "title": "卷四",
+      "volume": null,
+      "content": "小儿疹病，即大人温疫。风伤卫气，卫闭而营郁，营气内陷则死，外发则生。非解仲景中风，不知温疫，非解温疫，不知疹病。\n疹病之义，岐伯、仲景俱曾言之，而议论未详。后世庸工，不知凉营发表，而率用寒下，徒伤里气，而卫闭不泄，营气郁沦，遂殒性命。庭树方蘖，而遭攀折，山木始生，而夭斧斤，朝荣夕落，蕙兰与 萧艾同伤，夏茂秋零，松柏共蒲柳先殒，半枕黄粱，已非故我，一榻槐安，竟为异物。人悉言愁，我欲赋恨，作疹病解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 657,
+      "source_path": [
+        "卷四"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "fb57e07b607575ab44561b2648d07de84ed06ecd559907d4aeaf3da51c4333d5",
+      "content_sha256": "1a260345033fcb11b734f4f0147e2b5e98c6a474045eb1a178d4a7b21a2207ea",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        658,
+        659
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "b67243d5dff121893e76310c",
+      "title": "疹病根原",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹病者，温疫之伤卫气也。此因金水敛藏，卫阳未泄，是以风袭于气分。风伤大人，则为温疫，小儿则为疹病，其病一也，而证亦同焉。\n血藏于肝，气统于肺，肝血温暖而升发，肺气清凉而降敛，自然之性也。气性闭敛，而风性疏泄，风伤卫气，泄其皮毛，卫愈泄而愈欲敛，敛而不启，内遏营血；故营郁而为热。六日经尽，营血郁勃，发于汗孔，红点圆平，其名曰疹。\n小儿寒水蛰藏，相火未泄，营血本自清和。一袭邪风，相火升炎，亦同大人，故感冒温疫，营郁而疹发。疹点周密，营郁散越，则热退而病除矣。\n凡人中风，未尝病疹，温疫之邪，胶黏闭塞，封固难开，小儿肌表固密，是以感之则疹生焉。\n疹病之与中风，同是风邪，但气则疫疠而时则春夏，血蒸而表密，故热散而发疹点，证与中风不同也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 661,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "疹病根原"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "42e6d1f461e5725cd2a3d41727763585e8411ccc7333e4ce823ceb0bec1556e8",
+      "content_sha256": "940ed27db1809a0d771c4584db10ed9bbae972583057f2721961275961892043",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        662,
+        663,
+        664,
+        665,
+        666
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 317,
+        "simplified_codepoints": 317
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "80a2c5d57a9a73240cf644ec",
+      "title": "疹病隐显",
+      "volume": "卷四 / 疹病解第四",
+      "content": "小儿温疫传经，亦同大人，一日太阳，二日阳明，三日少阳，四日太阴，五日少阴，六日厥阴。六经既尽，营血外发，而生疹点。或发于三日之前，或发于六日之后，表邪之轻重不同，经气之衰旺非一也。\n盖卫气敛闭，营郁热发，外无泄路，倘里有奥援，则内传腑脏，如脏阴未衰，表里异气，营热不得内传，经尽之后，营热郁隆，自然外发。其经阳素旺，则热盛于三日之前，其经阴不衰，则热盛于三日之后。邪轻而表疏，则外发之期早，邪重而表密，则外发之期晚。若卫闭而营不能泄，则郁闷躁烦，昏狂迷乱之证，色色皆起。遇脏阴素虚，则营热内蒸，终不外发，五脏燔烁，则人死矣。或发之未透，隐见于皮肤之内，郁而为痒，是为隐疹，隐疹者，营之半发而未透者也。隐疹之家，营热郁积，久而肌肉腐溃，发为风癞。\n风癞由于隐疹，仲景论之于《伤寒·脉法》、《金匮·水气》之中，岐伯论之于「脉要精微」及「风论」之内，而隐疹之名，岐伯未言，实始仲景，此先圣疹论之始也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 667,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "疹病隱顯"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9a1abc0739064c8b2a2ae7a9a759a169f1e0618be17be9019bac674f1a9e7815",
+      "content_sha256": "92712c973bfe882c4881879b859923fd42b629a96b46108bd942c2a48116ac7d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        668,
+        669,
+        670
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 397,
+        "simplified_codepoints": 397
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "668beab7cbc2b416f3ddd38a",
+      "title": "发热头痛",
+      "volume": "卷四 / 疹病解第四 / 太阳经证",
+      "content": "太阳在六经之外，感则先病。太阳之经，总统营卫，风自外感，而伤卫气，故太阳先病。风性疏泄，窍闭而风泄之，开其皮毛，气莫能敛，是以卫伤。卫秉肺气，素以收敛为性，风伤卫气，皮毛露泄，而卫气愈敛，其性然也。卫闭而遏营血，血中温气不泄，是以发热。太阳寒水之经，病则令气郁发，证见恶寒，温疫营遏热盛，故但热而不寒。其经自头下项，行身之后，营卫壅塞，不得顺行，故头项腰脊骨节俱痛。卫司于肺，胸中宗气，卫之根本，卫郁窍闭，宗气壅逆，逆行上窍，泄之不及，冲激而出，故生嗽嚏。卫为风袭、遏闭营血，营血不达，郁而生热，是卫伤而营病也。宜青萍汤，浮萍泻卫气之闭，芍药泻营血之郁，甘草、大枣，补其脾精，丹皮、生姜，调其肝气，使风随汗散，卫开而营泄，则不生疹病矣。以方在太阳，血热不深，用表药发之，只是汗出，尚无红斑也。\n青萍汤\n浮萍（三钱） 芍药（二钱） 甘草（一钱，生） 大枣（三枚，劈） 生姜（二钱） 丹皮（二钱）\n流水煎半杯，温服，覆衣，取汗。\n治疫疹初起，太阳证之轻者。\n夏月热甚，须以元参佐之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 672,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "太陽經證",
+        "發熱頭痛"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "2de519b1e63ea7f66f9e2575f44715c633eb8f4eac8829fe38e89cf7c0659044",
+      "content_sha256": "e29e058e4ef6a4936540ffc06a5ae862b39b45ff2453e4a4ade9bdc277b387f6",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        673,
+        674,
+        675,
+        676,
+        677,
+        678
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 439,
+        "simplified_codepoints": 439
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "c22babbf8be751c2aeb4493b",
+      "title": "脉紧无汗",
+      "volume": "卷四 / 疹病解第四 / 太阳经证",
+      "content": "风伤卫气，脉浮头痛，发热汗出，以风泄于外而气不能闭也，若脉浮而紧，发热恶寒，身疼腰痛，烦躁无汗，而喘促者，是气闭于内而风不能泄也。温疫亦然，凡风强则疏泄而有汗，气强则敛闭而无汗。有汗者轻，表疏则营郁易发，无汗者重，表密则血热难宣。此当以青萍石膏，清散经邪。是时未传六经，营郁尚浅，风消热泄，则斑点不生，一汗而解矣。\n青萍石膏汤\n浮萍（三钱） 石膏（二钱，生，研） 杏仁（二钱，泡去皮尖） 甘草（一钱，炙） 生姜（二钱） 大枣（二枚）\n流水煎半杯，温服，覆衣。\n治疫疹初起，太阳证之重者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 679,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "太陽經證",
+        "脈緊無汗"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "add0dcfb803ba6e274e7c8d4f1d0cbf3cbc06025becebbe07d3be5218a2f3d72",
+      "content_sha256": "6aec4ea4eb8dc20c3adcdb71e4de18280fb8a67c4a578c2e74acefbf9b225085",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        680,
+        681,
+        682,
+        683,
+        684
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 243,
+        "simplified_codepoints": 243
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "420c714dc5ce38d32c338935",
+      "title": "烦热燥渴",
+      "volume": "卷四 / 疹病解第四 / 太阳经证",
+      "content": "疹传阳明少阳，燥动火炎，则生烦渴，若方在太阳，而烦渴已见，此其三阳素旺，将来多传阳明之腑。盖温疫之邪，受在少阳厥阴两经，足少阳从相火化气，足厥阴以风木主令，胃阳旺而燥盛，则风火激烈而烦渴以生，脾阴旺而湿盛，则风火清宁而烦渴不作，如烦渴见于太阳寒水之经，则火盛水负，湿亏燥盈，是其素秉如此矣。\n火炎就燥，必传胃腑，此在大人，或有表解而病此者，小儿表密，必连经证。宜白虎加元麦青萍汤，清金而发表，绝其传腑之源也。\n白虎加元麦青萍汤\n石膏（二钱，生） 甘草（一钱） 知母（一钱） 粳米（半杯） 元参（一钱） 麦冬（二钱，去心） 浮萍（二钱）\n流水煎至米熟，取半杯，热服，覆衣。\n治疫疹初起，阳气素旺者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 685,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "太陽經證",
+        "煩熱燥渴"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "73340e03501a8017100ec369de9e5f82268f6add3476d1f60ccd687485789ec5",
+      "content_sha256": "aad7867ae04980aeb75b39503d3c5b54c9f37ddab1b728282c267a23dfc33e32",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        686,
+        687,
+        688,
+        689,
+        690,
+        691
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 298,
+        "simplified_codepoints": 298
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "f511b2fce7a3671c60e8a6f8",
+      "title": "寒热胜负",
+      "volume": "卷四 / 疹病解第四 / 太阳经证",
+      "content": "太阳以寒水主令，病则令气遏郁，而见恶寒，凡太阳经病，表阳闭束，发热而恶寒者，其常也。水旺则寒胜其热，火旺则热胜其寒。\n君火胎于营血，相火者，君火之佐也。温疫营郁热发，动其君相之火，火必胜水。寒水未至颓败，犹稍见恶寒，寒水败亡，则寒从热化，但热而无寒。疹家稍见恶寒者轻，但热无寒者重。凡病不宜水旺，而寒水之在疹家，则贵若拱璧，宜补不宜泻也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 692,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "太陽經證",
+        "寒熱勝負"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9b0f321b0990b09fb96c703fcb206cb977891c736d0f9256a1496555243366ea",
+      "content_sha256": "ccb8b1b7682c3f8fcd181f6bd8c4061adad5486a6d38c5d2bbdb04e751d9280f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        693,
+        694
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 169,
+        "simplified_codepoints": 169
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "27e9ac8e8708a1e1286db9d9",
+      "title": "鼻干口燥呕吐泄利",
+      "volume": "卷四 / 疹病解第四 / 阳明经证",
+      "content": "阳明经在太阳之次，太阳表邪不解，以次内传，二日则及阳明。其经挟口环唇，行身之前，经气上壅，则鼻口干燥而胸膈胀满。戊土上逆，碍甲木降路，甲木郁遏，而贼戊土，胃不能容，则作吐泄。温疫阳盛阴虚，但恐吐泄之亡阴，不虑吐泄之亡阳，吐泄亡阴，则入胃腑，吐泄者，疹家传腑之根也。\n青萍葛根汤\n浮萍（三钱） 葛根（三钱） 石膏（二钱） 元参（一钱） 甘草（一钱） 生姜（二钱）\n流水煎半杯，热服。\n治阳明经疹病，口燥鼻干，烦热不眠者。\n青萍葛根芍药汤\n浮萍（三钱） 葛根（三钱） 石膏（二钱） 元参（一钱） 甘草（一钱） 生姜（二钱） 芍药（一钱）\n流水煎半杯，热服。\n治疹病阳明经证备而泄利者。\n青萍葛根半夏汤\n浮萍（三钱） 葛根（三钱） 石膏（二钱） 元参（一钱） 甘草（一钱） 芍药（一钱） 生姜（二钱） 半夏（二钱，洗）\n流水煎半杯，热服。\n治疹病阳明经证备而呕吐者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 696,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "陽明經證",
+        "鼻乾口燥嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "6a28ae16efc4bb22eb119599b5a5a82f03d19daecf7082bb4ad0f738487a1bcf",
+      "content_sha256": "eaaf99e7c350b1e083f3205182139267a1c6138f96df6a23e8209ebfb9fac7c8",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706,
+        707,
+        708,
+        709
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 380,
+        "simplified_codepoints": 380
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "8ee98d65c9524fb556eeb869",
+      "title": "经热传腑",
+      "volume": "卷四 / 疹病解第四 / 阳明经证",
+      "content": "阳明经病，此在大人，汗之太过，则津亡而入胃腑，汗之不及，则热郁而入胃腑，小儿表密，不患其多汗之亡津，只虑其无汗而热闭。小儿温疫，方在阳明之经，法宜透泻其表，以散经热，汗出热散，自无入腑之虑。若表邪不解，阳旺之人，必传胃腑，传腑则不得不用承气诸方矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 710,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "陽明經證",
+        "經熱傳腑"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "0c6fd502c60b85a2423303dcf9f25a1b79e3b23e2fcce13853346e2965eaa5d4",
+      "content_sha256": "34f89d095f758122ff8f6e1cacb7954ef63c7368a618510d871fcf854a460964",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        711
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 124,
+        "simplified_codepoints": 124
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "fbb6f088e4f80ed147c2f559",
+      "title": "潮热谵语腹痛便秘",
+      "volume": "卷四 / 疹病解第四 / 阳明腑证",
+      "content": "伤寒中风，一传阳明之腑，腑热熏蒸，开其皮毛，则见大汗。汗愈泄而土愈燥，表病则以汗解，而腑病则以汗增。疫邪固涩，汗出颇难，而小儿表密，更无自汗表解之理。虽传胃腑，而表证自在，此与伤寒中风之腑证不同，即与大人温疫之腑证亦殊。然有汗无汗之间，长幼自别，而潮热谵语，腹痛便结之条，亦不得迥相悬隔。盖汗亡而土燥，与无汗而火郁，皆成腑病，殊途同归，无有二也。\n腑阳旺而脏阴亏，营热内蒸，不得外发，此疹家殒命之原。相其轻重，泻以承气三汤，而加养阴凉血之味，脏阴续复，经热不能内陷，自然外发矣。\n调胃承气加芍药地黄汤\n大黄（三钱，生） 甘草（一钱，生） 芒硝（一钱） 芍药（二钱） 生地（三钱）\n流水煎半杯，入芒硝，火化，温服。\n治疹病阳明腑证，烦热谵语便秘者。\n小承气加芍药地黄汤\n大黄（二钱） 厚朴（二钱，炒） 枳实（二钱，炒） 芍药（二钱） 生地（三钱）\n流水煎半杯，温服。\n治疹病烦热谵语，痛满便秘者。\n大承气加芍药地黄汤\n大黄（四钱） 芒硝（二钱） 厚朴（二钱） 枳实（二钱） 芍药（二钱） 生地（四钱）\n流水煎半杯，入芒硝，火化，温服。\n治疹病烦热谵语，痛满便秘而燥者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 713,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "陽明腑證",
+        "潮熱譫語腹痛便秘"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a2e3cbfa32f8515da65f1997410607a22b8fab67b8c0cd9732af0935d68e292a",
+      "content_sha256": "72dc886f06894645c0223b454bcb857c18e121bafa029e9c80882dbb8a11a57c",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 483,
+        "simplified_codepoints": 483
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "4aefc12bb56012f12c7cca4c",
+      "title": "攻下缓急",
+      "volume": "卷四 / 疹病解第四 / 阳明腑证",
+      "content": "温疫非必传胃腑，以其原无内热，只是外感，与温病之内热素积者不同。然营郁热盛，遇胃家阳旺，则表里感发，传腑甚易。虽未必人人传腑，而腑证颇多。但用承气攻下，必在表解之后。若表证未解，须以青萍、石膏、知母、生地清润肠胃，凉泻肺心，而透发其表，不可攻下。如六日之外，经尽腑郁，势不可待，乃用下法。腑热既清，营郁自发。第俟其自发，不如承气之中参以表药，使其腑热泻于魄门，经热泻于汗孔，一方而双解之，更为善也。\n庸工不论经腑，逢人则下，固是错误，即腑病将成，经病未解，而遽下于六日之前，亦为孟浪。小儿脆弱，那可肆意如此也。\n白虎加青萍地黄汤\n浮萍（三钱） 生地（三钱） 石膏（二钱） 知母（一钱） 甘草（一钱，生） 粳米（半杯）\n流水煎半杯，热服，覆衣。\n谓胃承气加白芍青萍汤\n大黄（三钱） 芒硝（一钱） 甘草（一钱） 芍药（一钱） 浮萍（三钱） 生姜（二钱）\n流水煎半杯，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 728,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "陽明腑證",
+        "攻下緩急"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "c9db2e28f92af3985e87e629bb3186b4820d3dbed36896e27cfdcf8bb80c2a19",
+      "content_sha256": "65cb3dd9a2d24fe72e4d776e66628459516cc622d41746e4237581c596488e32",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        729,
+        730,
+        731,
+        732,
+        733,
+        734,
+        735,
+        736
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 384,
+        "simplified_codepoints": 384
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "7bf3fb868d6e4d738e517d55",
+      "title": "目眩耳聋口苦咽干胸痛胁痞呕吐泄利",
+      "volume": "卷四 / 疹病解第四 / 少阳经证",
+      "content": "少阳经在阳明之次，阳明表邪不解，以次内传，三日则及少阳。其经自头下项，行身之侧，由胸而走胁肋，归癸水而化相火。病则经气不降，逆克戊土，戊土被贼，不得下行，遂与少阳之经彼此缠迫，故有心胸痞塞，胁肋硬满之证。相火上炎，浊气升突，故有口苦咽干，目眩耳聋之条。胃腑被逼，不能容纳水谷，故作吐泄。少阳居表里之间，阴阳之界，阳盛则传于腑，阴盛则传于脏，温疫营郁热旺，脏寒不作，但有阳盛而传腑者，未有阴盛而传脏者。缘温疫之病，热在营血，而营血之热，全因相火之郁。伤寒中风，寒热往来之证，至此则第苦热来而不病寒来，以其相火郁隆，寒不胜热也。\n柴芩栝蒌芍药汤\n柴胡（三钱） 黄芩（二钱） 半夏（二钱） 甘草（一钱，生） 生姜（二钱） 大枣（三枚） 栝蒌根（三钱） 芍药（三钱）\n流水煎半杯，热服，覆衣。\n治少阳疹病，目眩耳聋，口苦咽干，胸痛胁痞者。\n大柴胡加元参地黄汤\n柴胡（三钱） 黄芩（二钱） 半夏（二钱） 芍药（二钱） 枳实（一钱） 大黄（二钱） 生姜（二钱） 大枣（二枚） 元参（二钱） 生地（三钱）\n流水煎大半杯，温服，分二次。\n治少阳疹病，半入阳明胃腑，呕吐泄利者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 738,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "少陽經證",
+        "目眩耳聾口苦咽乾胸痛脅痞嘔吐泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a50e0526f43139f80a7d3f260884add12699a0cf462c12241148528389c85d7c",
+      "content_sha256": "d853f359a0629b894a9ca5592d1b52f2a322bda019012eb6141d1408726833f7",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 480,
+        "simplified_codepoints": 480
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "ec51f971fc890fe9836575a7",
+      "title": "三阳传胃",
+      "volume": "卷四 / 疹病解第四",
+      "content": "温疫三阳经病，营郁热盛，阳旺之人，则传胃腑。或自太阳，或自阳明，或自少阳，内传之来路不一，视其腑热郁发之早晚也。\n卫统于肺而实化于阳明，卫旺营虚，皮毛敛涩，腑热燔蒸，而表无泄路，营郁莫达，此疹病所由死也。若腑阳非盛，营热不能内传，经尽之后，自然外发，斑点一生，营郁解矣。\n痘家营闭而卫不能发则死，疹家卫闭而营不能发则死。卫气之发，赖乎阳明，营气之发，赖乎太阴，故痘家最忌阳明之虚，疹家惟恐阳明之旺。滋太阳之寒水，泻少阳之相火，助己土之湿，而润庚金之燥，治阳明腑证之大凡也。\n内外感伤，一切百病，悉由阳虚，不宜润药，其最宜滋润者，惟有此种，多服地黄、天冬，愈善也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 748,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "三陽傳胃"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "d89a39246adfc1e8b9b0bc2cfe500e197f89e3ea63da5316641ffe0b215c311a",
+      "content_sha256": "e20d0637a57f1b2e0fc1ffc17eaa86935249bc3b213d48d7ba61c5355e8ce881",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        749,
+        750,
+        751,
+        752
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 281,
+        "simplified_codepoints": 281
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "4a88f10dccda7a47cf6c8392",
+      "title": "腹满嗌干",
+      "volume": "卷四 / 疹病解第四 / 太阴经证",
+      "content": "太阴经在少阳之次，少阳表邪不解，以次相传，四日则及太阴。其经自足走胸，行身之前。温疫营郁热盛，三阴之经，化气于三阳，故病传太阴，则腹满而嗌干。与温病略同，但内热之新故虚实不同也。\n卫化于阳明，营生于太阴，阳明旺而太阴衰，则卫闭而营不能发，太阴旺而阳明衰，则营发而卫不能闭，营发则斑见而人生，卫闭则热亢而人死。疹家斑点发生，全赖脾阴之旺，滋益脾精，以泽燥土，疹家太阴之定法。\n内外百病，悉缘太阴之湿，而惟疹病，则惟恐其燥。己土非燥，营热不至里蒸，终当外发也。\n青萍地黄汤\n浮萍（三钱） 生地（三钱） 丹皮（二钱） 芍药（二钱） 甘草（一钱） 生姜（二钱） 大枣（三枚）\n流水煎半杯，热服。\n治疹病太阴经证，腹满嗌干者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 754,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "太陰經證",
+        "腹滿嗌乾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "0847249fadbd430a974dd1ac3054a1720c952c7f8eb6bd66588faa6f82273f27",
+      "content_sha256": "a3daa309bc025bb269170831c8e5dbd0283c65719d2c50a17685e702f5fd6b0b",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 308,
+        "simplified_codepoints": 308
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "9abda41f3fb6cf88d0f46ca8",
+      "title": "口燥舌干",
+      "volume": "卷四 / 疹病解第四 / 少阴经证",
+      "content": "少阴经在太阴之次，太阴表邪不解，以次相传，五日则及少阴。其经自足走腰，行身之后，以癸水而化君火。少阴百病，皆水胜而火负，而惟温疫，则火胜而水负，故口燥舌干而渴。以其营郁热发，君相燔蒸，一水不敌二火，而再值木生火长之时，则水亏火盈，必然之势。滋益肾水，以清壮火，疹家少阴之良规也。\n青萍天冬汤\n浮萍（三钱） 天冬（三钱） 生地（三钱） 元参（二钱） 丹皮（一钱） 生姜（三钱） 栝蒌根（三钱）\n流水煎半杯，热服。\n治疹病少阴经证，口燥舌干者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 763,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "少陰經證",
+        "口燥舌乾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "c1e9108c46d932f7f8b433bc7a5ae5fd9ee61d304714fb96ed9de341bc66d16e",
+      "content_sha256": "7fff95a6abc982a86a0f97a9e743e16d7418968fbf0a3c10c6c43f70f509254d",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        764,
+        765,
+        766,
+        767,
+        768
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 220,
+        "simplified_codepoints": 220
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "f7594a39f2050d516b67884f",
+      "title": "烦满发斑",
+      "volume": "卷四 / 疹病解第四 / 厥阴经证",
+      "content": "厥阴经在少阴之次，少阴表邪不解，以次相传，六日则及厥阴，六经尽矣。其经自足走胸，行身之侧，循阴器而上行，故烦满而囊缩。厥阴肝木，司营血而胎君火，又与少阳相火两相表里，温疫之病，受在营血，营郁热发，君相之火俱炎，传至厥阴，热盛极矣。是时肝血不枯，水土滋润，营热不能内传，外发皮毛，自见红斑。经传厥阴，法宜凉营血而滋风木，泻皮毛而清相火也。\n青萍当归汤\n浮萍（三钱） 当归（二钱） 生地（三钱） 丹皮（二钱） 芍药（二钱） 生姜（二钱） 甘草（一钱）\n流水煎半杯，热服。\n治疹病厥阴经证，烦满囊缩，而使之发斑者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 770,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "厥陰經證",
+        "煩滿發斑"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "89401d98ab3b16608455cc3e5573094fc960cbe365bcc3e382689dd86939745e",
+      "content_sha256": "7549ea10cb8920708afa7ab092da9bb8d93d62ac5e1ea930019f4212e0a14627",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        771,
+        772,
+        773,
+        774,
+        775
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 254,
+        "simplified_codepoints": 254
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "3d44c9496c7b275d551d1a9b",
+      "title": "红白续发",
+      "volume": "卷四 / 疹病解第四",
+      "content": "红斑外发，则营郁泄越，但卫闭未能豁开，其发非一次可尽。凡欲发斑，则生烦躁，脉必浮数，陆续而出，至二三日，继以白斑，则透发无遗矣。\n白斑者，卫气之外泄也。白斑将发，人必烦郁昏晕，脉必浮大洪数。既发则脉静人安，别无余虑。红斑易生，白斑难生，非郁极不能外发。将发之时，烦乱昏狂，困极欲死者，往往有之也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 776,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "紅白續發"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "2cab48b28e9102a36723167b2bc4d6dbf2e083a0e139d6bed111a05b6f132433",
+      "content_sha256": "38fe2b5415f23c3f16a37dc78a86a70a06b6296f679731a6492733b17d123662",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        777,
+        778
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 148,
+        "simplified_codepoints": 148
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "cdb88467bdcb97cf9d279e04",
+      "title": "紫黑迟见",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹家斑点外发，愈早愈轻。卫旺而表密者，往往经尽乃发，甚有迟至数日之后者。大概已过六日，便是斑发之期，愈迟愈险。\n若营弱不能遽发，过时斑见，而色变紫黑，则多至殒命。以其经热郁蒸，营血腐败，后期而发，遂难救药也。于其紫斑隐见，未能透发之时，速服清散之方，犹可挽转。是皆失于发表，故至于此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 779,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "紫黑遲見"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "86d880047d0a8dd51d25ae40c985bee0d88a18b092948d6d3f9d7aefccf9569e",
+      "content_sha256": "87a35ec57577697874b11293b5e1bd451105f1be91a2c191758e826c9e281d99",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        780,
+        781
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 142,
+        "simplified_codepoints": 142
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "ce1a293da9c2d73297b165ad",
+      "title": "出没隐见",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹点透发皮肤之外，按阵续生，新者已出而旧者未没，此为顺证。若卫敛表固，营弱不能透发，隐见皮里，顷刻即回，此为不救。其次则虽不立回，而终隐皮里，不能透露，此为隐疹。隐疹之家，营郁热伏，未经表散，久而血肉腐溃，发生风癞之疾，数年之后，亦伤性命。若早用发表，必无此祸也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 782,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "出沒隱見"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "5a0fc46c23e1edda465e6804c76094da02868e7a5a80519ccd1bfbdacf1e6b96",
+      "content_sha256": "3a4e7e6f3bc2679a7c46406510c4b93ff89c03c3cb454a78e555b50be6fb5ae1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        783
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 132,
+        "simplified_codepoints": 132
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "032349165c807729c8086381",
+      "title": "水停腹胀",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹家营热郁发，营藏于肝，其病自在厥阴。厥阴以风木主令，木郁风盛，津血耗伤，必生消渴。渴而多饮，土燥木达者，下窍疏泄，则水不停留，若土湿木郁，疏泄不行，必有停水。疹点出后，水停腹胀者，十之八九。此缘脏阴素旺，不能消水。若在痘家，便是三阴脏寒之证，疹家脏阴不亏，则经热外发，反得其益。其经热隆盛，脏寒固不发作，而积水停瘀，必当泻之。其证腹满胁胀，头目晕眩，咳喘气逆，干燥思饮，而水入即吐，不能容受。以猪苓泻其积水，溲溺一通，浊气下达，则眩晕咳喘诸证俱瘳矣。\n猪苓汤\n猪苓（三钱） 茯苓 （三钱） 泽泻（二钱） 滑石（一钱，研） 阿胶（一钱，炒，研）\n流水煎半杯，入阿胶，消化，温服。\n治疹后水停，胀满咳喘诸证者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 784,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "水停腹脹"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "33148f206380e80d2d51e1af608fbd3ff98b997ffdf4850f6896debb770f0ff0",
+      "content_sha256": "2021dca44259d251c3952e939773675809550623852b766d5d80e03fca4c85da",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        785,
+        786,
+        787,
+        788,
+        789
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 304,
+        "simplified_codepoints": 304
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "928378191bce0de3297e5dbb",
+      "title": "呕吐蛔虫",
+      "volume": "卷四 / 疹病解第四",
+      "content": "《伤寒·厥阴》有蛔厥之证，缘木郁蠹化，故生蛔虫。脏寒不能安蛔，故四肢厥逆，而吐蛔虫。非第伤寒，凡内外百病，而见吐蛔，必是脏寒。惟温疫则是热证，缘其经热盛发，脏寒必不内作。即其脏阴素旺，益以饮冷生寒，而疹家原不以脏寒败事，虽见吐蛔，不与伤寒、杂病同论。未可温里，只宜凉营发表，但不当用寒泻耳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 790,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "嘔吐蛔蟲"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a1704ef86bfe90e8b0968d2f3b7ee7e287b139074f1d4491ac81a3297597fabd",
+      "content_sha256": "0a3a155e835a4c9c26b078ae8f65f5bdbb71c3b81790261bec99518266c3ab66",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        791
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "cfeb28493c98f2449246fa6c",
+      "title": "疹后昏愦",
+      "volume": "卷四 / 疹病解第四",
+      "content": "斑发之后，轻者即起，重者余热未清，犹有烦郁谵妄之证，再服清散之剂，便可慧爽。而皮毛已开，汗液当泄，纵不服药，余热自当渐除，不过三日之内，无不清白，静候亦可，莫须多事也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 792,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "疹後昏憒"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9410e21b6f55332518be04992462abdc8bbcd52e3250b33c86c5818716485602",
+      "content_sha256": "60383f06df752c3538403f8227b5b5eeaf8f947e9d81b0a3e7481d508595e01d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        793
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "b7b7ac80298f69b06729a489",
+      "title": "疹后泄利",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹后泄利，全缘土湿水渍，以太阴湿旺，而渴饮水停，木郁风动，行其疏泄，水道不开，则谷道失敛，故生泄利。水去土燥，泄利自止，不须服药。若其不止，恐肝脾遏陷，致生利病，宜以五苓，疏木泻水，以燥土湿也。\n五苓散\n茯苓（三钱） 猪苓（二钱） 泽泻（二钱） 白术（二钱） 桂枝（一钱）\n研细，饮服二三钱，日三次。服后多饮暖水，取汗。\n治疹后泄利渴饮，小便不利者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 794,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "疹後泄利"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "4814ab06a3a0e02399c7a724b902e5780b0be260c7e4998ed9f86869b166577f",
+      "content_sha256": "d22a0caa939d6db4acfb952789c9de664589e7601d254516c983ec70b8c78baa",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        795,
+        796,
+        797,
+        798,
+        799
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 175,
+        "simplified_codepoints": 175
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "03e4d64293cffff05d2609cb",
+      "title": "疹后脓血",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹后泄利不止，肝脾郁陷，致成下痢脓血之疾。庸工谓是疹后余热，非也，此缘土湿木遏，郁生下热，膏血腐败，故便脓血。宜白头翁汤清其湿热，加甘草、阿胶、桂枝、茯苓，培土清风，疏木而泻湿也。\n白头翁加甘草阿胶苓桂汤\n白头翁（三钱） 黄连（一钱） 黄柏（一钱） 秦皮（一钱） 甘草（一钱） 阿胶（二钱） 桂枝（一钱）茯苓（三钱）\n流水煎半杯，入阿胶，消化，温服。\n治疹后便脓血者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 800,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "疹後膿血"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f38c632bc63c1f808d085662b32155ad8914a60f74cb03a9e068fbf298ce079d",
+      "content_sha256": "aafdb7ca27f7e15dd4a420c3003b66857e35c429d7c3d63a2bcfa1bbaef899c5",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        801,
+        802,
+        803,
+        804,
+        805
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "9a3bce94b9d9ecfd53603118",
+      "title": "疹后目疾",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹后营郁不能透发，余热伤眼，眦烂睛红，久而不愈，此肝气不调之故。肝窍于目而司营血，血热未清，肝气抑遏，故令病此。以凉营达木、泻湿清风之药调其肝气，木荣风息，眼病自瘳。\n芍药桂苓胶地汤\n芍药（三钱） 桂枝（一钱） 生地（三钱） 甘草（一钱） 茯苓（三钱） 阿胶（二钱） 生姜（二钱）\n流水煎半杯，温服。\n治疹后目疾。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 806,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "疹後目疾"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "a268647c917a4e1d748f25f41d136ac22cf99b8ed60c49351dba86396238ee4c",
+      "content_sha256": "e4bf0d60472455ab76100e71362cfa973ef080b08f7763ded57f4caa0a51453a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        807,
+        808,
+        809,
+        810,
+        811
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 157,
+        "simplified_codepoints": 157
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "db8aca48c069d5bc03552839",
+      "title": "六经治法",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹家六日经尽，血热外发，而见红斑。其在三日之前，早服表药，一汗解矣，营郁既泄，不至发斑。若三日之后，以至经尽，而服表药，血热已深，虽有汗出，犹发斑点。治法总宜发表，前三日则加清金泻热之药，后三日则加凉血滋阴之品，要以表邪透发、经热肃清为主。发之不透，余热缠绵，淫渍种种诸疾，为害非小也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 812,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "六經治法"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "9cf0fcf2ca723ce29ac51bb571625d466c88a94fbb1f06947f62c0c161df8343",
+      "content_sha256": "a0248d666ab05fb94c20b79b7ed90c2f89075e5dccaadb3ff2c7fbf23f4a8d67",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        813
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 143,
+        "simplified_codepoints": 143
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "3d6c2f02793a37288466d99a",
+      "title": "经腑殊方",
+      "volume": "卷四 / 疹病解第四",
+      "content": "疹家未病之前，原无内热，既病之后，亦无内寒，阳盛者则有传腑之条，阴盛者则无入脏之证。阳盛传腑，则宜寒泻，阳平而不入于腑，始终在经者，则寒泻无用，但须发表而已。善治者，在前三阳，则以汗解，在后三阴，则以斑解。详分经腑，细斟汗下，慎勿在经而用攻下之剂，亦莫入腑而用发散之方，汗下不谬，经腑清平，疹家之能事毕矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 814,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "經腑殊方"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "782df12d3cb26494c13aedfcd3a10eb5b9c3e16890c6dc2608ac4504ff3a4910",
+      "content_sha256": "17606a5bbeadc68df03095d0cf79db40807293fa3cf6d7f3fdd7b700df6f54af",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        815
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 153,
+        "simplified_codepoints": 153
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "5458669a8817f76438d52ea2",
+      "title": "汗下宜忌",
+      "volume": "卷四 / 疹病解第四",
+      "content": "痘病寒伤营血，营闭而卫郁，疹病风伤卫气，卫闭而营郁，营开卫发，则生痘粒，卫开营发，则生疹点。以营热散于皮毛，故见红斑，而发自汗孔，故斑点正圆。营热外发则生，内郁则死。其内郁之原，必缘阳旺而腑热，腑热则宜寒泻。但内热之证，尚属后起，其先全是外热不解。阴旺之家，终无内郁之热，阳旺之人，表里感应，内郁日积，迟乃发热耳。阴旺而无内热者，固不可误清其里，即阳旺而内热未实，亦但可凉解表邪，未宜遽用寒泻，伤其里气。\n病在经络，而攻其脏腑，此为粗工。若脏阴素旺之人，则中气败亡，而殒性命，所关非小。庸愚谬妄，凡治疹病，必用寒泻，已是不通，甚且泻之三日之内，方传阳经之时，则无论阳旺阴旺，总无是处矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 816,
+      "source_path": [
+        "卷四",
+        "疹病解第四",
+        "汗下宜忌"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "f37e988713f82023a1328636b433146cf1ccf789a2f093f873bf68988c3dbef5",
+      "content_sha256": "12f727fbd4b59c29365f03482f59729d7032e0f16d7eecaf225aa9e37e024216",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        817,
+        818
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 293,
+        "simplified_codepoints": 293
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "10dae42034a306da7ca85a93",
+      "title": "卷五",
+      "volume": null,
+      "content": "伊公，丞相文端公之孙，大司马学庭公之子，名赞咸，字益庵，聪明好古，博综百氏，而尤爱农黄之学。玉楸子解温疫痘疹，四部俱成，此前贤所未喻，亦先圣之罕言。荒荒坤轴，落落玄宗，室无问字之人，门乏好奇之客。惟公清规远镜，洞辟灵台，玄鉴虚凝，廓开智府，挑银釭而夜诵，卷珠箔以晨披，得其寰中，超以象外，流水是其今日，明月乃其前身，百年以来，一人而已。采其清言微旨，作四问之篇。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 819,
+      "source_path": [
+        "卷五"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "8338860c884c60e66221611820039dee0335e4f3e706cbcd8d9fabcd9811ba9a",
+      "content_sha256": "b337b11bca1d5d2ef8f255a035128ec4750028d760eb35e3ce5da89744fd5958",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        820
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 111
+    },
+    {
+      "chapter_key": "47427468983bd4ea67a2c46a",
+      "title": "伊公问旨",
+      "volume": "卷五 / 伊公四问第五",
+      "content": "癸酉八月，玉楸子成《四圣悬枢》，论温疫痘疹之法。少司马伊公问曰：温疫痘疹四病，异同之义云何？玉楸子曰：感于秋冬，谓之伤寒，感于春夏，谓之温病。温病者，一人之病，非众人所同病也。其州里传染，众人同病者，是为疫疠。疫分寒温，春夏谓之温疫，秋冬谓之寒疫。痘即大人之寒疫，疹即大人之温疫也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 822,
+      "source_path": [
+        "卷五",
+        "伊公四問第五",
+        "伊公問旨"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "591cdd366461cdbc999cb2ca713934335c71008dd88944a0b4cfa2ceeb810513",
+      "content_sha256": "50e10677b7b80c242d9d272e710eb4d37b7fca7177b2578a3b04d6ff9d1e7d1e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        823
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 112
+    },
+    {
+      "chapter_key": "219502d798878b8a7e2d6db6",
+      "title": "问温五条",
+      "volume": "卷五 / 伊公四问第五",
+      "content": "问：经所言热病为何？玉楸子曰：热病即温病也，病于春者谓之温，病于夏者谓之热。《素问·评热病论》：先夏至日者为病温，后夏至日者为病暑，暑即热也，以时令而异名也。\n问：温病与伤寒何殊？玉楸子曰：《素问》：热病者，伤寒之类也，而实非伤寒。伤寒感秋冬之寒，温病感春夏之风，时令不同，而寒温异矣。\n问：温病与温疫何殊？玉楸子曰：温病之根，得之冬伤于寒，而有内热，感则表里皆病。温疫冬不伤寒，而无内热，但是表病，阳盛之家，而后里病也。\n问：冬伤于寒，何缘而有内热？玉楸子曰：冬气封藏，天地闭塞，阳蛰九地之下，则寒水得令。人于冬时，纵欲亡精，阳泄而火飞，是以变寒而为热也。\n问：冬伤于寒，何缘而春必病温？玉楸子曰：凡外感之深，必因内伤之重，阳气重伤，病则寒深，阴气重伤，病则热深，表里热剧，皮毛不开，是为温病。盖卫气以收敛为性，平日内热郁伏，一遇风邪，伤其卫气，卫闭则营郁，营血郁蒸而欲泄于内，风气发扬而欲泄于外，内外交泄而卫气愈敛，其性然也，敛而不启，乃成温病。春夏风多，是以最易感伤。若脏腑平和，素无内热，则旋感而旋解，不成温病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 824,
+      "source_path": [
+        "卷五",
+        "伊公四問第五",
+        "問溫五條"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "5e19993e4fe6dba254e4aba5bac877435b39ba418aee1ad9ed279ee7970b43a9",
+      "content_sha256": "8c43da3031257ee50dd991e695dae0b324922cd0422249e6a839d8930b2792a1",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        825,
+        826,
+        827,
+        828,
+        829
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 461,
+        "simplified_codepoints": 461
+      },
+      "order": 113
+    },
+    {
+      "chapter_key": "709a49cbf011d3f05a80a0f4",
+      "title": "问疫五条",
+      "volume": "卷五 / 伊公四问第五",
+      "content": "问：疫分寒温，前贤不解，先生推仲景微义，以发眇旨，令吾闻所不闻，快矣，但犹有疑焉。秋冬则曰伤寒，春夏则曰温病，寒疫亦以秋冬名，温疫亦以春夏名。温病温疫，俱缘中风，仲景《伤寒》所列中风，实非春夏之温病，是为何时之邪也？玉楸子曰：仲景中风，秋冬之病也。秋冬之月，不皆寒天，其时日暖风和，而病外感，自是风淫，而非寒邪。然究与三春之炎风、九夏之温风气候迥别，故但名中风，而不可以为温热也。\n问：寒疫温疫，感异风寒，邪既不同，证自悬殊，其分别之义安在？玉楸子曰：风为阳邪，而性疏泄，寒为阴邪，而性闭涩。故温疫之脉浮缓，其证发热而有汗，寒疫之脉浮紧，其证恶寒而无汗。温疫卫闭而营郁，是以经尽而出红斑，寒疫营闭而卫郁，是以经尽而发白汗。汗者，卫气之所蒸泄，斑者，营血之所逼现。其病解既别，其病发亦判，不相混也。\n问：温疫得之风邪，当与中风同法，寒疫得之寒邪，当与伤寒同法，今温疫不用桂枝，寒疫不用麻黄，其法不同何居？玉楸子曰：春夏温病，秋冬伤寒，虽感天地之风寒，然不因岁气之偏。至于疫疠，阴阳愆伏，寒暄错乱，或盛夏而零寒露，或隆冬而飘温风，节候乖常，是以成疫。其分寒温于冬夏者，大略如此，而未始尽然，固难以桂枝、麻黄统治错杂无定之寒温也。\n问：寒疫温疫之传脏腑，同乎不同？玉楸子曰：温疫有表热而无里热，不必传腑，阳盛者，里热作，乃传于腑，寒疫有表寒而无里寒，不必传脏，阴盛者，里寒动，乃传于脏。寒疫传脏，未始不入腑，其入腑者，亦是寒而非热也，温疫传腑，未始不入脏，其入脏者，亦是热而非寒也。温疫非无寒，而寒终不胜其热，入腑而病热者多，入脏而病寒者少，寒疫非无热，而热终不胜其寒，入脏而病寒者多，入腑而病热者少也。\n问：温疫热胜，法宜清泻，寒疫寒胜，法宜温补否耶？玉楸子曰：温疫之热，在表不在里，法宜清散其表热，不必清里，表热入腑，而后用清泻之剂，寒疫之寒，在表不在里，法宜温散其表寒，不必温里，表寒入脏，而后用温补之方，是当透发表邪，非有里证，不可误用攻补。后世庸工，之于疫疠，不论寒温表里，概用硝黄泻下，十治九误，此助天为虐者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 830,
+      "source_path": [
+        "卷五",
+        "伊公四問第五",
+        "問疫五條"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "e61756149c10cbf3dfea2ff475b8342e12b791fb8775a33c156d318a787c01e5",
+      "content_sha256": "21daf6c56480479149a6dc77fb02e2ece725bfd3045f8e479b5451fc9c915478",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        831,
+        832,
+        833,
+        834,
+        835
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 859,
+        "simplified_codepoints": 859
+      },
+      "order": 114
+    },
+    {
+      "chapter_key": "bf1a38a8d81b1028c025d1fc",
+      "title": "问痘七条",
+      "volume": "卷五 / 伊公四问第五",
+      "content": "问：痘始何时？书昉何代？玉楸子曰：黄帝、岐伯、越人、仲景四圣，谈医不及痘证，然疫疠之疾，岐伯于运气诸篇，往往及之。痘即大人寒疫，未有大人独病而小儿不病者。推其渊源，实始上古，但先圣未言耳。痘书之作，则起后世，大抵皆赵宋以后之人也。\n问：小儿寒疫，何为而发豆颗？玉楸子曰：寒疫营闭而卫郁，营开卫泄则为汗，疫邪固涩，而小儿表密，卫气不能透发，故冲突皮肤，而发豆粒者。使窍开而汗出，卫郁泄于皮肤之外，不作痘形也。\n问：痘粒之丰圆何故？玉楸子曰：寒邪外闭，三日而传三阳，卫郁盛满，发于汗孔，外为皮肤所限，旁为汗孔所束，卫郁发越，颗粒充盈，不得不丰圆也。\n问：痘粒之散漫何故？玉楸子曰：肺藏卫气，而司皮毛，金性收敛，卫外而敛皮毛，故谓之卫。卫盛则皮肤敛束而致密，卫虚则皮肤松懈而疏豁，卫郁外发，冲其皮肤，而裹束不紧，旁无界限，是以散漫而不丰圆也。\n问：痘属外感，可以汗解耶？玉楸子曰：何为而不可也！大人寒疫，必以汗解，小儿不得汗解，故发痘粒，若可汗解，何必以痘解！譬如大人，强以固表之药敛之，使之不得汗解，而以痘解可乎。\n问：痘家最恐表虚，不能完满收结，今以汗泄卫阳，能无后虑？玉楸子曰：大人汗解，不必皆死，小儿无汗，不必皆生。卫虚者，汗之亦死，不汗亦死，卫盛者，不汗亦生，汗之亦生。若用人参黄耆于表药之中，则卫虚可汗，而何况实者。苟非过汗亡阳，保无后虑也。\n问：痘书何故而错谬如是？玉楸子曰：造化之理，非圣不作，非明不述。百世一圣，而至犹接踵，千里一贤，而生同比肩，圣明之少也如是。即有圣作，必待乎述，况后无明者之述，即有明述，犹须乎作，况前无圣人之作。以俗子腐生而冒圣作之才，以顽民悍夫而僭明述之业，此蟪蛄而谈春秋，朝菌而议晦朔耳，何当于是哉！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 836,
+      "source_path": [
+        "卷五",
+        "伊公四問第五",
+        "問痘七條"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "df881f5142961af41945541778f499a43210d0e3aec6797211cc8521d98d6d7f",
+      "content_sha256": "ca4c5c876d93393028b905e6c979d51604e5eba147dc2e360efb6093284e5632",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        837,
+        838,
+        839,
+        840,
+        841,
+        842,
+        843
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 719,
+        "simplified_codepoints": 719
+      },
+      "order": 115
+    },
+    {
+      "chapter_key": "7b19b85b81837bd82cb8bd20",
+      "title": "问疹四条",
+      "volume": "卷五 / 伊公四问第五",
+      "content": "问：生平所观疹痘之书众矣，无如此之明白清畅，犀照无遗者也，但小儿痘发而不再病，疹则感而又病，其义何居？玉楸子曰：小儿痘病，卫气大发，窍隧疏漏，复感寒疫，则与大人，同以汗解，故痘不再生。小儿疹病，即大人温疫，其痘后未尝不病寒疫，则其疹后何能不病温疫，是以可一而可再也。\n问：疹病可以汗解乎？玉楸子曰：寒疫营闭而卫郁，温疫卫闭而营郁，营开卫发则为痘，卫开营发则为疹，营卫透泄，皆能作汗，痘疹者，营卫晚发而不得早泄者也。若早发其汗，卫郁既泄，则痘粒安生？营郁既泄，则疹点何来？既成痘疹，悉缘失治，原非必生之病，胡不可以汗解也！\n问：疹病即大人温疫，先生但解温疫可矣，何为又解疹病？玉楸子曰：温疫一也，而少长大别，则证状亦自微异。小儿年齿幼小，然或怀质抱真，而秉良资，大人春秋盛壮，然或淳漓朴散，而负空器，则补泻温清之法，自难尽同也。\n问：小儿疹病，既即大人温疫，何疹发之时，小儿独病，大人不染耶？王楸子曰：《灵枢·九宫八风》之篇：太乙随一岁八节，而居八方，太乙移日，天必应之以风雨。风从所居之乡来，为实风，如冬至后四十六日，风自北来，夏至后四十六日，风自南来。主长养万物，从其冲后来，为虚风，如冬之南风，夏之北风也。伤人者也，仅候虚风而避之，故圣人日避虚邪如避矢石，邪勿能害。风从西方来，名曰刚风，风从北方来，名曰大刚风，风从东南来，名曰弱风，风从南方来，名曰大弱风。风有刚弱，人有少长，感以大王之风，宋玉《风赋》），少者不伤，此大王之雄风也，袭以婴儿之风，风从东方来，名曰婴儿风。长者不病。同声相应，同气相感，自然之理也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+      "source_ordinal": 844,
+      "source_path": [
+        "卷五",
+        "伊公四問第五",
+        "問疹四條"
+      ],
+      "source_sha256": "07df122080eecbd557d1108f35ccc7a88e320086ad562fde59bd10e963bb5964",
+      "original_sha256": "0246105f8cc2a146e039f8935f690e738295a4804b37e5aba78d7788203f16f4",
+      "content_sha256": "e33a096821c31f75f3c8600b271c624a05da675bba980ae069901d688e5874b9",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        845,
+        846,
+        847,
+        848
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 659,
+        "simplified_codepoints": 659
+      },
+      "order": 116
+    }
+  ]
+}

@@ -1,0 +1,881 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_977",
+    "name": "保生心鉴",
+    "summary": "《保生心鉴》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“修真要诀”、“引用诸书”、“五运六气枢要之图 六十年纪运图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "明",
+    "author": "铁峰居士",
+    "jp": "BSXJ",
+    "aliases": [
+      "保生心鑑"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "57da40cc361094729577b968",
+      "title": "序",
+      "volume": null,
+      "content": "尝闻修养始于太乙氏，而导引则始于阴康氏也。太乙时，医药未立，乃调和血气以保长生，而修养之法显。阴康时，民患重膇，因制舞法，以疏气血，而导引之术名。故民皆赖以调摄，无夭伤之患，建法异而致妙同，盖真上古保民之心法也。夫何太朴一散，历数千世，其法寥寥未闻，有得传者迩，惟《活人心书》所刊导引八图，悉上古遗法，而为好修者宝之。弘治乙丑秋，适见《圣贤保修通鉴》，前序古今学道之失，后书道术疗病之功，深嘉契爱而欲传之，值客归促留少顷，得私誊其概，一或受疾，辄取试之，多有验焉。因尝叹是术虽非太乙、阴康手书，诚保生至法也。惜乎简而未详，微而不著。乃用参诸月令，搜古医经，反复研究，正讹补略，并采活人心八法，命善图者缮形摹写，计总三十二图，纂为一帙，目之曰《保生心鉴》。俾有生者知所以保养真元，不令轻耗；保生者知所以炼修形体，先须定志，小可却病，而大可驻年也。所谓炼形蓄气而养神者，或庶几矣！岂小小补益云哉。\n正德丙寅春王正月古南沙铁峰居士序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "序"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "b455134f31c9489e256e9e98a89160fba2e33080b557778200e36c82605e9248",
+      "content_sha256": "c99abe556ff5458e120d76424bbdc865ca2aad786a091568c26a6a565d4f9bfb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 413,
+        "simplified_codepoints": 413
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "3fe9ad7b43ad36b6dd5a96ef",
+      "title": "修真要诀",
+      "volume": null,
+      "content": "凡欲修养，须择净室，顺温凉之宜，明燥湿之异。每夜半后生气时，或五更睡觉，依法坐立，务先瞑目，握固调息，后乃以次著力行功，勤而不怠，则自然身轻体健，而疾疫可却，性命可延矣。虽然此其常法，若春得夏疾，秋得春疾，亦但按法行之，岂必待其时，然后可哉？如此则固而不通，滞而不法，非善养真也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "修真要訣"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "176fdfd44ba864653dc410d56b633eb9c0a25247336f4cac02062850318c8754",
+      "content_sha256": "3249c9a9e3648bc1fced554a73013a8e67ef90eb3a24706663d4169fcb02c9ea",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        5
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "187bb48d5c7735c720753609",
+      "title": "引用诸书",
+      "volume": null,
+      "content": "《圣贤保修通鉴》\n《活人心书》\n《礼记月令》\n《素问内经》\n《灵枢经》\n《运气论奥》\n《救命索》\n《乐道山居录》\n《心印绀珠》\n《十四经发挥》",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 6,
+      "source_path": [
+        "引用諸書"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "1ab788a939a7735b727b3707a32083e6f9805db13debeb88415e66186da4fa23",
+      "content_sha256": "fa6456a35bfe1ab61872de580bcd43469c18d3e86dcd9b9c3ad88520f49cb33b",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 71,
+        "simplified_codepoints": 71
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "9a70ada37d5831d37275cb83",
+      "title": "五运六气枢要之图 六十年纪运图",
+      "volume": null,
+      "content": "〔图版未收录：五运六气枢要之图〕\n〔图版未收录：六十年纪运图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 17,
+      "source_path": [
+        "五運六氣樞要之圖 六十年紀運圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "e512550edd7efc6a6244f2d11e57b5f48e4e858ac046f24509e314aacf704ca0",
+      "content_sha256": "fa5e729d8c5cd0c795e59a76febf9400c949ea7ed469852d3c7b4f316f480de2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        18,
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 31,
+        "simplified_codepoints": 31
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "5cfe96b385805aaf3cce8f5d",
+      "title": "四时气候之图",
+      "volume": null,
+      "content": "〔图版未收录：四时气候之图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "四時氣候之圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "17fabcf91b9ddcf27f9897755bad90597a91cc2a1c1533807c78e8277a866cc6",
+      "content_sha256": "9e9bdc5ff383e056e0133f76694485bec55f49d234dd44b5e6cc164ee3daed4e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 14,
+        "simplified_codepoints": 14
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "6a2abc843209cc51e291ad4e",
+      "title": "五天气图 主气之图",
+      "volume": null,
+      "content": "〔图版未收录：五天气图 主气之图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "五天氣圖 主氣之圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "01597743e2689e3e6296bce6483a5686dc6d5aa11e60a5ade950e7f06d68c1b1",
+      "content_sha256": "0eefa220c403d7257c2fc42029784e73dc83cc4fcaec36741c85b9ffe5054e59",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 17,
+        "simplified_codepoints": 17
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "dd070dce656f6eee0edd6d4b",
+      "title": "客气之图",
+      "volume": null,
+      "content": "〔图版未收录：客气之图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "客氣之圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "b7f0688a1d52e01c473b8c582459a9b50ad64596b11a8c77c9066f53c5c3c53e",
+      "content_sha256": "59ef60f17209a266e9021540276539891319e721f3d8804bd94d7a5ad4269751",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 12,
+        "simplified_codepoints": 12
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "d05208062b93a94d48b1d847",
+      "title": "脏腑配经络图",
+      "volume": null,
+      "content": "一脏一腑相为表里之官\n肺 手太阴 大肠 手阳明\n心 手少阴 小肠 手太阳\n包络 手厥阴 三焦 手少阳\n人身 脉运于中 周流气血不已\n脾 足太阴 胃 足阳明\n肾 足少阴 膀胱 足太阳\n肝 足厥阴 胆 足少阳\n一经一络各应阴阳之象",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "臟腑配經絡圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "76183766a94cfaeebc2dfc4b8d70c2541609734c16b80f006af9e2a2d1b5c2e4",
+      "content_sha256": "861221002e76d9f707a344c3b4b41ea94c39b894b9fb08acb2fb061eb75f6931",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 113,
+        "simplified_codepoints": 113
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "8cb6214d1b3653b82af22b3a",
+      "title": "经络配四时图",
+      "volume": null,
+      "content": "寅手少阳三焦 巳手厥阴心包\n春 卯手阳明大肠 生 夏 午手少阴心 长\n辰手太阳小肠 未手太阴肺\n天时十二月 人身十二经 地支十二位\n手经络应天 足经络应地\n申足少阳胆 亥足厥阴肝\n秋 酉足阳明胃 杀 冬 子足少阴肾 藏\n戌足太阳膀胱 丑足太阴脾",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 36,
+      "source_path": [
+        "經絡配四時圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "9c154fdaa6814768e9f8aeaccdfdb6ed486f06b1ff22e0bcd5139002e9b5397c",
+      "content_sha256": "c65008e7571fba26b5b232a7d1245492777cb7a6f69a1b36d4a6c556da4d0952",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 122,
+        "simplified_codepoints": 122
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "75a6ec9625bbb0c04eb3097d",
+      "title": "太上养生要诀",
+      "volume": null,
+      "content": "老子曰：人，国也；神，君也；血，臣也；气，民也。志人理身，明君治国也。爱其民，所以安其国。爱其气，所以全其身。民弊则国亡，气衰则身谢。是以上士施医于未病之先，不追修于既败之后也。审其机以安社稷，节其欲以保性命，六害不可不除：一曰薄名利，二曰禁声色，三曰廉货财，四曰损滋味，五曰屏虚妄，六曰除嫉妒。少思、少念、少笑、少言、少喜、少怒、少乐、少愁、少好、少恶、少事、少机。多思则神散，多念则心劳，多笑则脏腑上翻，多言则气海虚脱，多喜则膀胱纳客风，多怒则辏。朝勿虚食，夏暮勿饱食。早起鸡鸣后，晚起日出前。心内澄则真人守位，气内定则外邪去身。行一善则魂神喜，念一恶则魄神欢。魂欲人生，魄欲人死。宽泰以居，恬澹以守，神形安静，笑灾不生。仙录书名，死籍消咎，养生之要，尽在此矣。至于炼丹而补理奔浮。多乐则心神邪荡，多愁则头面焦枯，多好则智意溃溢，多恶则精爽奔腾，多事则筋脉干急，多机则智虑沉迷，是皆伐人之生甚于斤斧，蚀人之性猛于豺狼。无久行，无久坐，无久立，无久卧，无久视，无久听。不饥强食则脾劳，不渴强饮则胃胀。冬脑化金液以留形，此上真人之妙道，非食谷啖血之越分也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 45,
+      "source_path": [
+        "太上養生要訣"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "ed9437437dec6224a47c43a62220c4b97c9daf2328062f5f8652e33ebee6a833",
+      "content_sha256": "bbaf0a271fd010cb38e4fed0c4a783bc466d61cdb4d4dc2c0e000bf943309107",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 478,
+        "simplified_codepoints": 478
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "bb23718825daeb5e61ec4bb9",
+      "title": "太清二十四气水火聚散图序",
+      "volume": null,
+      "content": "太清三箔，章章林林，惟主导引，不言药石，岂其以谓山泽之癯，形骸土木而云笈，有耶？非然也。药有真伪，性有反误，疾纵去而毒尚留，或弃寒暑之变，或因饮食之反而生他疾，至于杀身者有之。是以仙道不取药石，而贵导引。导引之上，行其无病。导引之中，行其未病。导引之下，行其已病。何谓也？二十四邪方袭肤，方滞经络，按摩以行之，注闭以攻之。咽纳以平之，不至于侵其荣卫，而蚀其脏腑也。修身养命者，于是乎取之。\n立春正月节，运主厥阴初气。月令东风解冻，蛰虫始振，鱼上冰。时配手少阳三焦相火。\n〔图版未收录：图一〕\n坐功\n宜每日子丑时，叠手按胫，转身拗颈，左右耸引，各三五度，叩齿，吐纳，漱咽。\n治病\n风气积滞，颈项痛，耳后肩臑痛，背痛，肘臂诸痛。\n雨水正月中，运主厥阴初气。月令獭祭鱼，鸿雁北，草木萌动。时配手少阳三焦相火。\n〔图版未收录：图二〕\n坐功\n每日子丑时，叠手按胫，拗颈转身，左右偏引，各三五度，叩齿，吐纳，漱咽。\n治病\n三焦经络留滞邪毒，嗌干及肿哕，喉痹，耳聋，汗出，目锐眦痛诸疾。\n惊蛰二月节，运主厥阴初气，月令桃始华，鸧鹒鸣，鹰化为鸠。时配手阳明大肠燥金。\n〔图版未收录：图三〕\n坐功\n每日丑寅时，握固转颈，及肘后向顿掣，日五六度，叩齿六六，吐纳，漱咽三三。\n治病\n腰膂脾胃蕴积邪毒，目黄，口干，鼽衄，喉痹，面肿，暴哑，头风，牙宣，目暗羞明，鼻不闻臭，疳牙，疙疮。\n春分二月中，运主少阴二气。月令玄鸟至，雷乃发声、始电。时配手阳明大肠燥金。\n行功\n每日丑寅时，伸手回头，左右挽引，各六七度，叩齿六六，吐纳，漱咽三三。\n治病\n胸臆肩背经络虚劳邪毒，齿痛，头肿，寒粟，热肿，耳聋耳鸣，耳后、肩臑、肘臂、外背痛，气满，皮肤壳壳然坚而不痛，或痰气，皮肤瘙痒。\n〔图版未收录：图四〕\n清明三月节，运主少阴二气。月令桐始华，田鼠化为鴽，虹始见。时配手太阳小肠寒水。\n〔图版未收录：图五〕\n行功\n每日丑寅时，正坐换手左右，如引硬弓，各七八度，叩齿，纳清吐浊，咽液各三。\n治病\n腰肾肠胃虚邪积滞，耳前热，苦寒，耳聋，嗌痛，颈痛不可回顾，肩拔臑折，腰软，肘臂诸痛。\n谷雨三月中，运主少阴二气。月令萍始生，鸣鸠拂其羽，戴胜降于桑。时配手太阳小肠寒水。\n〔图版未收录：图六〕\n行功\n每日丑寅时，平坐换手，左右举托，移臂左右掩乳，各五七度，叩齿，吐纳，咽漱。\n治病\n脾胃结瘕，瘀血目黄，鼻鼽，颊肿，颔肿，肘臂外后臁肿痛，臀外痛，掌中热。\n立夏四月节，运主少阴二气。月令蝼蝈鸣，蚯蚓出，王瓜生。时配手厥阴心包络风木。\n坐功\n每日寅卯时，闭息瞑目，反换两手，抑挈两膝，各五七度，叩齿，吐纳，咽液。\n治病\n风湿留滞经络，肿痛，臂肘挛急，腋肿，手心热，喜笑不休，杂症。\n〔图版未收录：图七〕\n小满四月中，运主少阳三气。月令苦菜秀，靡草死，麦秋至。时配手厥阴心包络风木。\n〔图版未收录：图八〕\n坐功\n每日寅卯时，正坐，一手举托，一手拄按，左右各三五度，叩齿，吐纳，咽液。\n治病\n肺腑蕴滞邪毒，胸胁支满，心中憺憺大动，面赤鼻赤，目黄烦心，心痛，掌中热诸病。\n芒种五月，运主少阳三气。月令螳螂生，鵙始鸣，反舌无声。时配手少阴心君火。\n〔图版未收录：图九〕\n坐功\n每日寅卯时，正立仰身，两手上托，左右力举，各五六度，定息，叩齿，吐纳，咽液。\n治病\n腰肾蕴积虚劳，嗌干心痛欲饮，目黄胁痛，消渴，善笑、善惊、善忘，上咳吐，下气泄，身热而股痛，心悲，头顶痛，面赤。\n夏至五月中，运主少阳三气。月令鹿角解，蜩始鸣，半夏生。时配手少阴心君火。\n〔图版未收录：图十〕\n坐功\n每日寅卯时，跪坐伸手叉指，屈脚换踏，左右各五七度，叩齿，纳清，吐浊，咽液。\n治病\n风湿积滞，腕膝痛，臑臂痛，后廉痛，厥，掌中热痛，两肾内痛，腰背痛，身体重。\n小暑六月节，运主少阳三气。月令温风至，蟋蟀居壁，鹰乃学习。时配手太阴肺湿土。\n〔图版未收录：图十一〕\n行功\n每日丑寅时，两手踞，屈压一足，直伸一足，用力掣三五度，叩齿，吐纳，咽液。\n治病\n腿膝腰脾风湿，肺胀满，嗌干喘咳，缺盆中痛，善嚏，脐右小腹胀引腹痛，手挛急，身体重，半身不遂，偏风，健忘，哮喘，脱肛，腕无力，喜怒不常。\n大暑六月中，运主太阴四气。月令腐草为萤，土润褥暑，大雨时行。时配手太阴肺湿土。\n〔图版未收录：图十二〕\n行功\n每日丑寅时，双拳踞地。返首肩引作虎视，左右各三五度，叩齿，吐纳，咽液。\n治病\n头项胸背风毒，咳嗽上气，喘渴烦心，胸满臑臂痛，中热，脐上或肩背痛，风寒，汗出中风，小便数欠，溏泄，皮肤痛及麻，悲愁欲哭，洒淅寒热。\n立秋七月节，运主太阴四气。月令凉风至，白露降，寒蝉鸣。时配足少阳胆相火。\n〔图版未收录：图十三〕\n行功\n每日丑寅时，正坐，两手托，缩体，闭息，耸身上踊，凡七八度，叩齿，吐纳，咽漱。\n治病\n补虚益损，去腰肾积气，口苦善太息，心胁痛不能反侧，面尘体无泽，足外热，头痛、颔痛，目锐眦痛，缺盆肿痛，腋下肿，汗出振寒，马刀，侠瘿，结核。\n处暑七月中，运主太阴四气。月令鹰乃祭鸟，天地始肃，禾乃登。时配足少阳胆相火。\n〔图版未收录：图十四〕\n行功\n每日丑寅时，正坐，转头，左右举引就返，两手捶背之上，各五七度，叩齿，吐纳，咽液。\n治病\n风湿留滞，肩背痛，胸痛，脊膂痛，胁肋、髀膝、经络外至胫、绝骨外踝前及诸节皆痛，少气咳嗽，喘渴上气，胸背脊膂积滞之气。\n白露八月节，运主太阴四气。月令鸿雁来，玄鸟归，群鸟养羞。时配足阳明胃燥金。\n〔图版未收录：图十五〕\n行功\n每日丑寅时，正坐，两手按膝，转头左右推引，各三五度，叩齿，吐纳，咽液。\n治病\n风气留滞腰背经络，洒洒振寒，善伸数欠，或恶人与火，闻木声则惊狂，疟，汗出，鼽衄，口㖞，唇胗，颈肿，喉痹，不能言，颜黑，呕，呵欠，狂，欲上登而歌，弃衣而走。\n秋分八月中，运主阳明五气，月令雷乃收声，蛰虫坏户，水始涸。时配足阳明胃燥金。\n〔图版未收录：图十六〕\n行功\n每日丑寅时，盘足而坐，两手掩耳，左右返侧，各三五度，叩齿，吐纳，咽液。\n治病\n风湿积滞胁肋腰股，腹大水肿，膝膑肿痛，膺乳气冲股，伏兔、䯒外臁、足跗诸痛，遗溺、矢气奔响，腹胀，髀不可转，腘似结，腨似裂，消谷善饥，胃寒，喘满，劳伤，厥逆，反胃，疟疠，水蛊，气痞。\n〔图版未收录：图十七〕\n寒露九月节，运主阳明五气。月令鸿雁来宾，雀入水为蛤，菊有黄华。时配足太阳膀胱寒水。\n行功\n每日丑寅时，正坐举两臂，踊身上托，左右各三五度，叩齿，吐纳，咽液。\n治病\n诸风寒湿邪，胁腋经络动，冲头苦痛，目似脱，项如拔，脊痛腰折，痔，疟，狂，癞痛，头两边痛，头囟顶痛，目黄泪出，鼽衄，霍乱诸疾。\n霜降九月中，运主阳明五气。月令豺祭兽，草木黄落，蛰虫咸俯。时配足太阳膀胱寒水。\n〔图版未收录：图十八〕\n行功\n每日丑寅时，平坐，纾两手攀两足，用膝间力，纵而复收，五七度，叩齿，吐纳，咽液。\n治病\n风湿痹入腰，脚髀不可曲，腘结痛，腨裂痛，项背、腰尻、阴股、膝髀痛，脐反出，肌肉痿，下肿，便脓血，小腹胀痛，欲小便不得，脏毒筋寒，脚气，久痔，脱肛。\n立冬十月节，运主阳明五气。月令水始冰，地始冻，雉入水为蜃，时配足厥阴肝风木。\n〔图版未收录：图十九〕\n行功\n每日丑寅时，正坐，抝颈左右顾，两手左右托，各三五度，吐纳，叩齿，咽液。\n治病\n胸胁积滞，虚劳邪毒，腰痛不可俯仰，嗌干，面尘脱色，胸满，呕逆，飧泄，头痛，耳无闻，颊肿，肝逆面青，目赤肿痛，两胁下痛引小腹，四肢满闷，眩冒，目肿痛。\n小雪十月中，运主太阳终气。月令虹藏不见，天升地降，闭塞成冬。时配足厥阴肝风木。\n〔图版未收录：图二十〕\n行功\n每日丑寅时，正坐，一手按膝，一手挽肘，左右争力，各三五度，吐纳，叩齿，咽液。\n治病\n腕肘风湿热毒，妇人小腹肿，丈夫㿉疝、狐疝，遗溺，闭，癃血，幸肿，睪疝，足逆寒，胻善瘛，节时肿，转筋阴缩，两筋挛，洞泄，血在胁下，喘，善恐，胸中喘，五淋。\n大雪十一月节，运主太阳终气。月令鵙鸟不鸣，虎始交，荔挺出。时配足少阴肾君火。\n〔图版未收录：图二十一〕\n行功\n每日子丑时，起身仰膝，两手左右托，两足左右踏，各五七度。叩齿，吐纳，咽液。\n治病\n脚膝风湿毒气，口热舌干，咽肿，上气嗌干及肿，烦心，心痛，黄疸，肠澼，阴下湿，饥不欲食，面如漆，咳唾有血，渴喘，目无所见，心悬如饥，多恐，常若人捕等病。\n冬至十一月中，运主太阳终气。月令蚯蚓结，麋角解，水泉动。时配足少阴肾君火。\n〔图版未收录：图二十二〕\n行功\n每日子丑时，平坐，伸两足，拳两手，按两膝，左右极力三五度，吐纳，叩齿，咽液。\n治病\n手足经络寒湿，脊、股内后臁痛，足痿厥，嗜卧，足下热痛，脐、左胁下、背、肩、髀间痛，胸中满，大小腹痛，大便难，腹大，颈肿咳嗽，腰冷如冰及肿，脐下气逆，小腹急痛，泄下，肿，足胻寒而逆，冻疮，下痢，善思，四肢不收。\n小寒十二月节，运主太阳终气。月令雁北向，鹊始巢，雉雊。时配足太阴脾湿土。\n行功\n每日子丑时，正坐，一手按足，一手上托，挽手互换，极力三五度，吐纳，叩齿，漱咽。\n治病\n荣卫积气蕴，食则呕，胃脘痛，腹胀，哕，疟，饮发中满，食减，善噫，身体皆重，食不下，烦心，心下急痛，溏瘕泄，水闭，黄疸，五泄注下五色，大小便不通，面黄口干，怠惰嗜卧，抢心，心下痞，苦善饥善味，不嗜食。\n〔图版未收录：图二十三〕\n大寒十二月中，运主厥阴初气。月令鸡始乳，鸷鸟厉疾，水泽腹坚。时配足太阴脾湿土。\n〔图版未收录：图二十四〕\n行功\n每日子丑时，两手踞床跪坐，一足直伸，一足用力，左右三五度，叩齿，漱咽，吐纳。\n治病\n经络湿积诸气，舌本强痛，体不能动摇，或不能卧，强立，股膝内肿，尻阴、臑、胻、足背痛，腹胀肠鸣，飧泄不化，足不收行，九窍不通，足胻肿若水。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "太清二十四氣水火聚散圖序"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "4197561809b5194ee7e39471dc83fd9df4481f40b85b36549a6cfbed29fb196e",
+      "content_sha256": "42270d5982c862e8cb436e8c545ea18b860af58d568522a9dea058c770bf8de2",
+      "paragraph_count": 145,
+      "paragraph_ordinals": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 3940,
+        "simplified_codepoints": 3940
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "96bb5214abef170cd8275f3b",
+      "title": "附活人心法序",
+      "volume": null,
+      "content": "昔在太昊之先，轩岐未曾有，太乙氏之王天下也。调泰鸿之气，薄滋味，寡嗜欲，而修长生久视之道，其修养之法已有矣。有巢氏搏生咀华，以和气血，药饵之说已有矣。阴康氏时，水渎阴凝，民疾重坠，乃制舞以疏气血，导引之术已有矣，故人无夭伤。太朴既散，民多疾厄，厥后轩辕氏作，岐伯氏出，而有医药之方行焉。故至人治于未病之先，医家治于已病之后者，曰药饵，曰砭焫。虽治之法有二，而病之源则一，未必不由因心而生也。老子曰：心为神主，动静从心。心为祸本，心为宗道，静则心君泰然，百脉宁谧；动则血气昏乱，百病相攻。是以性静则情逸，心动则神疲；守真则志满，逐物则意移。意移则神驰，神驰则气散；气散则病生，病生则殒矣！虽常俗之语，最合于道妙，今述其二家之说，自成一家新话，编为上下二卷，目之曰《活人心》。谓常存救人之心，欲一人之生，同归于寿域也，岂小补哉。然世之医书，各家新编者，何暇千本，纷然聚具，徒多无补。但此书方虽不多，皆能夺命于悬绝，虽司命莫之神也。凡为医者，而能察其受病之源而用之，止此一书，医道足矣。人能行其修养之术而用之，止此一书，仙道成矣，何况不寿乎？士之于世不缺焉。\n前南极冲虚妙道真君臞仙书",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 193,
+      "source_path": [
+        "附活人心法序"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "bfc1c43b0a3fe97a391d03cf0868bb4cfd502520e2f9bd37ad04d0c3f8f3c641",
+      "content_sha256": "86a49ae926f55956b0a3af5e469fe6a825291d001ad52ebcdfa8675b8c97d803",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        194,
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 489,
+        "simplified_codepoints": 489
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "11d007dfd21f539571cbf545",
+      "title": "附活人心法",
+      "volume": null,
+      "content": "臞仙曰：古之神圣之医，而能疗人之心，预使不致于有疾。今之医者，惟知疗人之疾，而不知疗人之心，是由舍本逐末，不穷根源，而攻其流，欲求疾愈，不亦愚乎！虽一时侥幸而安之，此则世俗之庸医，不足取也。殊不知病由心生，业由人作，盖阴有鬼神，阳有天理，报复之机，鲜无不验，故有天刑之疾，有自戕之疾。其天刑之疾也，五体不具，生而隐宫者，生而暗哑、盲、聩者，因跌扑而手足折者，有生人面疮、赘疣疾者，凡传染一切瘵疫之证是也。盖因夙世今生积恶过多，天地谴之，故致斯疾，此亦业原于心也。其自戕之疾者，调养失宜，风寒暑湿之所感，酒色财气之所伤，七情六欲生于内，阴阳二气攻于外，是谓病生于心，害攻于体也。今只以人之易知易见者论之。且曰：人心思火，久而体热；人心思水，久而体寒。悚则发竖，惊则汗沥，惧则肉战，愧则面赤，悲则泪出，慌则心跳，气则麻痹。言酸则垂涎，言臭则吐唾，言喜则笑，言哀则哭，笑则貌妍，哭则貌媸。又若日间有所见，夜则魂梦有所思，疚则讪语，梦交合则精泄。至若惊悸，气怒而成疾者，则发狂，裸体逾垣上屋，呼神见鬼，歌舞笑哭，此皆因心而生也。太白真人曰：欲治其疾，先治其心，必正其心，然后资于道。使病者尽去一切疑虑思想，一切安念，一切不平，一切人我悔悟。平生所为过恶，便当放下，身心以我之天而合所事之天。久之，遂凝于神。则自然心君泰宁，性地平和，知世间万事皆是空虚，终日营为皆是妄想。知我身皆是虚幻，祸福皆是无有，生死皆是一梦，慨然领悟，顿然解释，心地自然清净，疾病自然安痊。能如是，药未到口病已忘矣，此真人以道治心，疗病之大法也。盖真人之教也，本于天地立心，为生民立命。惟心与天一，理之所得者独明而开人心之迷；惟其心与地一，水之所汲者独灵而能涤人心之陋。故以一杯之水，而能疗医所不治之疾，罔不瘳者，岂由水之灵？实资于道之用也。苟非其人，则以予为妄诞。老子曰：吾言甚易知，甚易行，天下莫能知，莫能行，是以知我者稀，则我者贵。又曰：上士闻道，勤而行之；中士闻道，若存若亡；下士闻道，大笑之，不笑不足以为道。《内观经》曰：知道易，信道难。信道易，行道难。行道易，得道难。得道易，守道难。难守而不失，乃可长生。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "附活人心法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "6a5a70b80528a5554bb62457ccd2c9d9b913689be2b6684442aba7d0c04e1bc6",
+      "content_sha256": "2a52d4ee697eeaa9f24c95e345ae3e1b176066520dd7c9c4c058bb602b181954",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        197
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 891,
+        "simplified_codepoints": 891
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "5b355bf79736b71dfe6e3468",
+      "title": "治心",
+      "volume": "附活人心法",
+      "content": "臞仙曰：心者，神明之舍，中虚不过经寸，而神明居焉。事物之滑，如理乱棼，如涉惊浸，或怵惕，或惩创，或喜怒，或思虑，一日之间，一时之顷，径寸之地，炎如火矣。故神弗留则蠹明，弗留则耗休，休焉常与道谋，而自不觉。或曰谨于为善，若嗜欲一萌，即不善也。归而勿纳，是与良心竞也，必有忿悁之心起而与我敌。以我矜愿之意，接彼忿悁之心，何为不斗？斗不止而害生矣。凡七情六欲之生于心，皆然，故曰心静可以通乎神明，事未至而先知，是不出户知天下，不窥牖见天道也。盖心如水之不挠，久而澄清，洞见其底，是谓灵明，宜乎静，可以固元气，则万病不生，故能长久。若一念既萌，神驰于外，气散于内，血随气行，荣卫昏乱，百病相攻，皆因心而生也。大概恰恰养天君，疾病不作，此治心之法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 198,
+      "source_path": [
+        "附活人心法",
+        "治心"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "5fc44780f58caa8756d42e1009eb07983d70038574973b433cfb3fd24ea1ce21",
+      "content_sha256": "c900e0011667cbf09eae6c01335c75c6787149a11265182358c1cf20ebfcedc1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        199
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 320,
+        "simplified_codepoints": 320
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "487c320c5f0fdb278a017596",
+      "title": "导引法",
+      "volume": "附活人心法",
+      "content": "闭目冥心坐（冥心盘跗而坐），握固静思神，叩齿三十六，两手抱昆仑（叉两手向项后，数九息勿令耳闻，自此以后，出入息皆不可使耳闻。）左右鸣天鼓，二十四度闻（移两手心掩两耳，先以第二指压中指，弹击脑后，左右各二十四次。）微摆撼天柱（摇头左右顾，肩膊随动二十四，先须握固。）赤龙搅水浑（赤龙者舌也，以舌搅口齿并左右颊，待津液生而咽。）漱津三十六（一云鼓漱，）神水满口匀，口分三咽（所漱津液，分作三口，作汨汨声而咽之。）龙行虎自奔（液为龙，气为虎。）闭气搓手热（以鼻引清气闭之，少顷搓手令极热，鼻中徐徐乃放气出。）背摩后精门（精门者，腰后外肾也，合两手摩毕，收手握固。）尽此一口气（再闭气也。）想火烧脐轮（闭口鼻之气，想用心火下烧丹田，觉热极，即用后法。）左右辘辘转（俯首摆撼两肩三十六，想火自丹田透，透双关入脑户，）两脚放舒伸（放直两脚，）叉手双虚托（叉手相交，向上托空三次或九次，）低头攀足频（以两手向前扳脚心十三次，乃收足端坐。）以候逆水上（候口中津液生，如未生再用急揽，取水同前法，）再漱再吞津。如此三度毕，神水九次吞（谓再漱三十六，如前口分三咽，乃为九也。）咽下汨汨响，百脉自调匀。河车搬运讫（摆肩并身二十四，及再转辘辘二十四次，）发火遍烧身（想丹田火，自下而上，遍烧身体，想时口及鼻皆闭气少顷。）邢魔不敢近，梦寐不能昏，寒暑不能入，灾病不能迍。子后午前作，造化合乾坤，循环次第转，八卦是良因。\n诀曰：其法于甲子日，夜半子时，起首行时，口中不得出气，唯鼻中微放清气。每日子后午前，各行一次，或昼夜共行三次，久而自知蠲除疾疫，渐觉身轻，若能勤苦不怠，则仙道不远矣。叩齿集神三十六，两手抱昆仑，双手击天鼓二十四。\n上法先须闭目、冥心、盘坐、握固、静思，然后叩齿、集神，次叉两手向项后，数九息勿令耳闻，乃移手各掩耳，以第二指压中指，击弹脑后，左右各二十四次。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 200,
+      "source_path": [
+        "附活人心法",
+        "導引法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "2f613b99d50c1c96ed0ed6625494f99a083dc7ed2b4c7e1073412f3b3494b6db",
+      "content_sha256": "cefb730c6c415f657db2623742403d2cabb79feef922eb34c043dfc9e7de36f6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        201,
+        202,
+        203
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 775,
+        "simplified_codepoints": 775
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "d93b7fdb079c257f9757f38b",
+      "title": "叩齿集神图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：叩齿集神图法〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 204,
+      "source_path": [
+        "附活人心法",
+        "叩齒集神圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "16d6191b2d989978eb2f32af980f634dfabb1214d6dcc8f03fad64244cbf38b5",
+      "content_sha256": "450fb5685db0b2839513ac212937c9785b846656f3554672c3d12410f0d30b47",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        205
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 14,
+        "simplified_codepoints": 14
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "cc715dd5c9cf5664536e14c8",
+      "title": "摇天柱图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：摇天柱图法〕\n左右手摇天柱各二十四次。\n上法先须握固，乃摇头左右顾肩膊，随动二十四。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 206,
+      "source_path": [
+        "附活人心法",
+        "搖天柱圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "30f881140ac08a3f8b2ebf3ffc12f13290ab27dbb827ed4b8154c4436f8f1fe3",
+      "content_sha256": "91501c0c1842904502d95eb5b5e687dee3ccbe8d5cbe498ca139951c0ffa2bd6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        207,
+        208,
+        209
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 49,
+        "simplified_codepoints": 49
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "9e9f6c9c400edb2dbce29afd",
+      "title": "舌搅漱咽图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：舌搅漱咽图法〕\n左右舌搅上腭三十六漱，三十六分作三口，如硬物咽之，然后方得行火。\n上法以舌搅口齿，并左右颊，待津液生，方漱之，至满口，方咽之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 210,
+      "source_path": [
+        "附活人心法",
+        "舌攪漱咽圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "201c6125f6b9d61efd3603c6792d71a64bde08c27bb0f8aa72cdddc558247136",
+      "content_sha256": "d7767255add98e448751fe0254250184fe38c4be65ee1234e655fa459198dab4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        211,
+        212,
+        213
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "aa6760703e4ba3e0f8cf5d6d",
+      "title": "摩肾堂图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：摩肾堂图法〕\n两手摩肾堂三十六，以数多更妙。\n上法闭气，搓手令热，后摩肾堂，如数毕，仍收手握固，再闭气，想用心火下烧丹田，觉热极，即用后法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 214,
+      "source_path": [
+        "附活人心法",
+        "摩腎堂圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "1b8c5bee436db764e6ad0b87110bffcfe22a398cc9960b62ed140cf0dcac81c7",
+      "content_sha256": "1ebd2696bdcb6b99d5540b9079491421b110da1484a136889f8a4c183b9d71cd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        215,
+        216,
+        217
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "e176a0bb7e889dd8d22ab739",
+      "title": "单关辘轳图",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：单关辘轳图〕\n左右单关辘轳各三十六。\n上法须俯首，摆撼左肩三十六次，右肩亦三十六次。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 218,
+      "source_path": [
+        "附活人心法",
+        "單關轆轤圖"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "072f0d9f70c4c72beab0b960d019e7b60708165fa40bb3bcc60f523a2804262a",
+      "content_sha256": "15fb9203bfafdefcc443d4e0097c95a86e099a24e69ee6bf2bf9608f7f7fb68a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        219,
+        220,
+        221
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 49,
+        "simplified_codepoints": 49
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "374db335281a7c18bdf3c653",
+      "title": "双关辘轳图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：双关辘轳图法〕\n双关辘轳三十六。\n上法两肩并摆撼，至三十六数，想火自丹田透双关入脑户，鼻引清气，后伸两脚。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 222,
+      "source_path": [
+        "附活人心法",
+        "雙關轆轤圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "0c9043626df3bc5e3e7fd6cabe84e28b7160e9c97b0726982e50cbdfad12df57",
+      "content_sha256": "d45d53c448d66e1ad349383c0c3f2300435a5fcea7006fba8afea85e99fd4dd7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        223,
+        224,
+        225
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "865e3aa58e3bf9b1dbae3634",
+      "title": "托天按顶图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：托天按顶图法〕\n两手相搓，当呵五呵，后叉手托天，按顶各九次。\n上法叉手相交，向上托空三次或九次。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 226,
+      "source_path": [
+        "附活人心法",
+        "托天按頂圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "e0a20f47c31c1adc449ee92547d5b1d60416aea2e7747bb9bf0ca72083234703",
+      "content_sha256": "f5f3cb818303c822238c7733b15bc57b2fd3109b8dc16a83a69f2d15b685e171",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        227,
+        228,
+        229
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 55,
+        "simplified_codepoints": 55
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "7d69e96a1a78353153492b65",
+      "title": "钩攀图法",
+      "volume": "附活人心法",
+      "content": "〔图版未收录：钩攀图法〕\n以两手如钩，向前攀双脚心十二，再收足端坐。\n上法以两手向前攀脚心十二次，乃收足端坐，候口中津液生，再漱再吞，一如前数，摆肩并身二十四，及再转辘轳二十四次，想丹田火自下而上，遍烧身体，想时口鼻皆须闭气少顷。\n已上八法，乃修真之次第工程也。每日子前午后，各行一次，或昼夜共行三次。久则自然身轻体健，诸邪无所入矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+      "source_ordinal": 230,
+      "source_path": [
+        "附活人心法",
+        "鉤攀圖法"
+      ],
+      "source_sha256": "60a36db6c94c28cf908c3e9d654d9e37de306d1cb2bf88ee06b8eee2819da636",
+      "original_sha256": "723bf8105c447de62f530d1ffaaba0f1ac0cc957a34ccfd051f3320a43412abd",
+      "content_sha256": "1b4f741ce36e3b8c5781baf8fcb88cdd6dfcf78a43c01d199eca6194ac90807f",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        231,
+        232,
+        233,
+        234
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 23
+    }
+  ]
+}

@@ -1,0 +1,729 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%8F%B2%E8%BC%89%E4%B9%8B%E6%96%B9/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "卷上",
+        "path": [
+          "卷上"
+        ]
+      },
+      {
+        "ordinal": 2,
+        "level": 2,
+        "title": "四時正脈",
+        "path": [
+          "卷上",
+          "四時正脈"
+        ]
+      },
+      {
+        "ordinal": 3,
+        "level": 3,
+        "title": "春",
+        "path": [
+          "卷上",
+          "四時正脈",
+          "春"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 3,
+        "title": "夏",
+        "path": [
+          "卷上",
+          "四時正脈",
+          "夏"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 3,
+        "title": "秋",
+        "path": [
+          "卷上",
+          "四時正脈",
+          "秋"
+        ]
+      },
+      {
+        "ordinal": 9,
+        "level": 3,
+        "title": "冬",
+        "path": [
+          "卷上",
+          "四時正脈",
+          "冬"
+        ]
+      },
+      {
+        "ordinal": 11,
+        "level": 3,
+        "title": "中",
+        "path": [
+          "卷上",
+          "四時正脈",
+          "中"
+        ]
+      },
+      {
+        "ordinal": 13,
+        "level": 3,
+        "title": "真脈",
+        "path": [
+          "卷上",
+          "四時正脈",
+          "真脈"
+        ]
+      },
+      {
+        "ordinal": 17,
+        "level": 2,
+        "title": "厥陰所勝生病",
+        "path": [
+          "卷上",
+          "厥陰所勝生病"
+        ]
+      },
+      {
+        "ordinal": 18,
+        "level": 3,
+        "title": "運氣所勝",
+        "path": [
+          "卷上",
+          "厥陰所勝生病",
+          "運氣所勝"
+        ]
+      },
+      {
+        "ordinal": 20,
+        "level": 3,
+        "title": "司天所勝",
+        "path": [
+          "卷上",
+          "厥陰所勝生病",
+          "司天所勝"
+        ]
+      },
+      {
+        "ordinal": 22,
+        "level": 3,
+        "title": "在泉所勝",
+        "path": [
+          "卷上",
+          "厥陰所勝生病",
+          "在泉所勝"
+        ]
+      },
+      {
+        "ordinal": 24,
+        "level": 2,
+        "title": "少陰所勝生病",
+        "path": [
+          "卷上",
+          "少陰所勝生病"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 3,
+        "title": "運勝",
+        "path": [
+          "卷上",
+          "少陰所勝生病",
+          "運勝"
+        ]
+      },
+      {
+        "ordinal": 27,
+        "level": 3,
+        "title": "天勝",
+        "path": [
+          "卷上",
+          "少陰所勝生病",
+          "天勝"
+        ]
+      },
+      {
+        "ordinal": 29,
+        "level": 3,
+        "title": "地勝",
+        "path": [
+          "卷上",
+          "少陰所勝生病",
+          "地勝"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 2,
+        "title": "太陰所勝生病",
+        "path": [
+          "卷上",
+          "太陰所勝生病"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 3,
+        "title": "運勝",
+        "path": [
+          "卷上",
+          "太陰所勝生病",
+          "運勝"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 3,
+        "title": "天勝",
+        "path": [
+          "卷上",
+          "太陰所勝生病",
+          "天勝"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 3,
+        "title": "地勝",
+        "path": [
+          "卷上",
+          "太陰所勝生病",
+          "地勝"
+        ]
+      },
+      {
+        "ordinal": 38,
+        "level": 2,
+        "title": "陽明所勝生病",
+        "path": [
+          "卷上",
+          "陽明所勝生病"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 3,
+        "title": "運勝",
+        "path": [
+          "卷上",
+          "陽明所勝生病",
+          "運勝"
+        ]
+      },
+      {
+        "ordinal": 41,
+        "level": 3,
+        "title": "天勝",
+        "path": [
+          "卷上",
+          "陽明所勝生病",
+          "天勝"
+        ]
+      },
+      {
+        "ordinal": 43,
+        "level": 3,
+        "title": "地勝",
+        "path": [
+          "卷上",
+          "陽明所勝生病",
+          "地勝"
+        ]
+      },
+      {
+        "ordinal": 45,
+        "level": 2,
+        "title": "太陽所勝生病",
+        "path": [
+          "卷上",
+          "太陽所勝生病"
+        ]
+      },
+      {
+        "ordinal": 46,
+        "level": 3,
+        "title": "運勝",
+        "path": [
+          "卷上",
+          "太陽所勝生病",
+          "運勝"
+        ]
+      },
+      {
+        "ordinal": 48,
+        "level": 3,
+        "title": "天勝",
+        "path": [
+          "卷上",
+          "太陽所勝生病",
+          "天勝"
+        ]
+      },
+      {
+        "ordinal": 50,
+        "level": 3,
+        "title": "地勝",
+        "path": [
+          "卷上",
+          "太陽所勝生病",
+          "地勝"
+        ]
+      },
+      {
+        "ordinal": 52,
+        "level": 2,
+        "title": "少陽所勝生病",
+        "path": [
+          "卷上",
+          "少陽所勝生病"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 3,
+        "title": "天勝",
+        "path": [
+          "卷上",
+          "少陽所勝生病",
+          "天勝"
+        ]
+      },
+      {
+        "ordinal": 55,
+        "level": 3,
+        "title": "地勝",
+        "path": [
+          "卷上",
+          "少陽所勝生病",
+          "地勝"
+        ]
+      },
+      {
+        "ordinal": 57,
+        "level": 2,
+        "title": "六氣復而生病",
+        "path": [
+          "卷上",
+          "六氣復而生病"
+        ]
+      },
+      {
+        "ordinal": 58,
+        "level": 3,
+        "title": "厥陰之復",
+        "path": [
+          "卷上",
+          "六氣復而生病",
+          "厥陰之復"
+        ]
+      },
+      {
+        "ordinal": 60,
+        "level": 3,
+        "title": "少陰之復",
+        "path": [
+          "卷上",
+          "六氣復而生病",
+          "少陰之復"
+        ]
+      },
+      {
+        "ordinal": 62,
+        "level": 3,
+        "title": "太陰之復",
+        "path": [
+          "卷上",
+          "六氣復而生病",
+          "太陰之復"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 3,
+        "title": "少陽之復",
+        "path": [
+          "卷上",
+          "六氣復而生病",
+          "少陽之復"
+        ]
+      },
+      {
+        "ordinal": 66,
+        "level": 3,
+        "title": "陽明之復",
+        "path": [
+          "卷上",
+          "六氣復而生病",
+          "陽明之復"
+        ]
+      },
+      {
+        "ordinal": 68,
+        "level": 3,
+        "title": "太陽之復",
+        "path": [
+          "卷上",
+          "六氣復而生病",
+          "太陽之復"
+        ]
+      },
+      {
+        "ordinal": 70,
+        "level": 2,
+        "title": "論六氣所生之病",
+        "path": [
+          "卷上",
+          "論六氣所生之病"
+        ]
+      },
+      {
+        "ordinal": 72,
+        "level": 2,
+        "title": "大府泄",
+        "path": [
+          "卷上",
+          "大府泄"
+        ]
+      },
+      {
+        "ordinal": 86,
+        "level": 2,
+        "title": "大府秘",
+        "path": [
+          "卷上",
+          "大府秘"
+        ]
+      },
+      {
+        "ordinal": 96,
+        "level": 2,
+        "title": "小府秘",
+        "path": [
+          "卷上",
+          "小府秘"
+        ]
+      },
+      {
+        "ordinal": 110,
+        "level": 2,
+        "title": "身熱",
+        "path": [
+          "卷上",
+          "身熱"
+        ]
+      },
+      {
+        "ordinal": 120,
+        "level": 2,
+        "title": "身寒",
+        "path": [
+          "卷上",
+          "身寒"
+        ]
+      },
+      {
+        "ordinal": 127,
+        "level": 2,
+        "title": "頭痛",
+        "path": [
+          "卷上",
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 129,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "卷上",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 163,
+        "level": 2,
+        "title": "脹滿",
+        "path": [
+          "卷上",
+          "脹滿"
+        ]
+      },
+      {
+        "ordinal": 168,
+        "level": 2,
+        "title": "喘",
+        "path": [
+          "卷上",
+          "喘"
+        ]
+      },
+      {
+        "ordinal": 185,
+        "level": 2,
+        "title": "腳痛",
+        "path": [
+          "卷上",
+          "腳痛"
+        ]
+      },
+      {
+        "ordinal": 196,
+        "level": 2,
+        "title": "脈要精微解",
+        "path": [
+          "卷上",
+          "脈要精微解"
+        ]
+      },
+      {
+        "ordinal": 207,
+        "level": 2,
+        "title": "明熹脈",
+        "path": [
+          "卷上",
+          "明熹脈"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 2,
+        "title": "傷寒論",
+        "path": [
+          "卷上",
+          "傷寒論"
+        ]
+      },
+      {
+        "ordinal": 229,
+        "level": 2,
+        "title": "診失血",
+        "path": [
+          "卷上",
+          "診失血"
+        ]
+      },
+      {
+        "ordinal": 242,
+        "level": 2,
+        "title": "診失精",
+        "path": [
+          "卷上",
+          "診失精"
+        ]
+      },
+      {
+        "ordinal": 250,
+        "level": 2,
+        "title": "診㿗疝",
+        "path": [
+          "卷上",
+          "診㿗疝"
+        ]
+      },
+      {
+        "ordinal": 255,
+        "level": 2,
+        "title": "診汗脈",
+        "path": [
+          "卷上",
+          "診汗脈"
+        ]
+      },
+      {
+        "ordinal": 261,
+        "level": 2,
+        "title": "論膈噎",
+        "path": [
+          "卷上",
+          "論膈噎"
+        ]
+      },
+      {
+        "ordinal": 270,
+        "level": 2,
+        "title": "診室女婦人諸脈",
+        "path": [
+          "卷上",
+          "診室女婦人諸脈"
+        ]
+      },
+      {
+        "ordinal": 303,
+        "level": 2,
+        "title": "診黃疸",
+        "path": [
+          "卷上",
+          "診黃疸"
+        ]
+      },
+      {
+        "ordinal": 305,
+        "level": 2,
+        "title": "半產正產論",
+        "path": [
+          "卷上",
+          "半產正產論"
+        ]
+      },
+      {
+        "ordinal": 340,
+        "level": 1,
+        "title": "卷下",
+        "path": [
+          "卷下"
+        ]
+      },
+      {
+        "ordinal": 341,
+        "level": 2,
+        "title": "診胃脈",
+        "path": [
+          "卷下",
+          "診胃脈"
+        ]
+      },
+      {
+        "ordinal": 352,
+        "level": 2,
+        "title": "為醫總論",
+        "path": [
+          "卷下",
+          "為醫總論"
+        ]
+      },
+      {
+        "ordinal": 359,
+        "level": 2,
+        "title": "涎論",
+        "path": [
+          "卷下",
+          "涎論"
+        ]
+      },
+      {
+        "ordinal": 365,
+        "level": 2,
+        "title": "治涎諸方",
+        "path": [
+          "卷下",
+          "治涎諸方"
+        ]
+      },
+      {
+        "ordinal": 368,
+        "level": 2,
+        "title": "治風氣取涎方",
+        "path": [
+          "卷下",
+          "治風氣取涎方"
+        ]
+      },
+      {
+        "ordinal": 371,
+        "level": 2,
+        "title": "痢論",
+        "path": [
+          "卷下",
+          "痢論"
+        ]
+      },
+      {
+        "ordinal": 375,
+        "level": 2,
+        "title": "治痢諸方",
+        "path": [
+          "卷下",
+          "治痢諸方"
+        ]
+      },
+      {
+        "ordinal": 523,
+        "level": 1,
+        "title": "附錄一",
+        "path": [
+          "附錄一"
+        ]
+      },
+      {
+        "ordinal": 527,
+        "level": 1,
+        "title": "附錄二",
+        "path": [
+          "附錄二"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "28f9a9b235ff8fa997fd70a9",
+        "title": "天胜",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "忘，甚則心痛嘔血，血泄，鼽衄，善悲。□□時眩僕，腹滿，手熱，肘攣掖腫，心澹"
+        ]
+      },
+      {
+        "chapter_key": "e192a2f7ce3d0236ac1e68ce",
+        "title": "诊室女妇人诸脉",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "妊娠之脈，尺脈不絕，與肝脈相連，而□軟無力，又沉以細，當主少腹疼痛蓋胎氣"
+        ]
+      },
+      {
+        "chapter_key": "17aad98352c02147de5d5af0",
+        "title": "诊黄疸",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "也，只可緩行其小府，濕熱相鬱而疸，即□脈洪而大，不弦，卻帶軟而長，宜利其小"
+        ]
+      },
+      {
+        "chapter_key": "ca36076d87cd574417a6cc33",
+        "title": "半产正产论",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "香（各一分） 木香（一銖） 桑寄生（□分）吳茱萸 蓬莪朮（各三銖） 甘草（"
+        ]
+      },
+      {
+        "chapter_key": "d82447a2e77350d8c5c4d6e5",
+        "title": "为医总论",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "點，（空心服，）不過數服而嗽止，此輕□□解其寒邪，空心賺其寒邪之氣流出於胃"
+        ]
+      },
+      {
+        "chapter_key": "bc4ff6e9bf3ebd6bb95b517a",
+        "title": "治痢诸方",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "，寒邪犯心，其勢漸減也。赤白相等者，□水火相犯其氣相等，寒濕之氣相搏而成也"
+        ]
+      },
+      {
+        "chapter_key": "799bbbd64182097f1d4537d9",
+        "title": "附录一",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "方切去原紙處，悉以宋紙補之，尾葉原填闕字，亦以宋紙易去，命工仍錄其文，想前人"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 70,
+      "paragraph_blocks": 460,
+      "nonempty_paragraph_blocks": 460,
+      "represented_paragraph_blocks": 460
+    }
+  }
+]

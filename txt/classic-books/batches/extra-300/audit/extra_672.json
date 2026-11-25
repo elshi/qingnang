@@ -1,0 +1,329 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E6%92%AE%E8%A6%81/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "前序",
+        "path": [
+          "前序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "卷上",
+        "path": [
+          "卷上"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 2,
+        "title": "經候不調",
+        "path": [
+          "卷上",
+          "經候不調"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 2,
+        "title": "經漏不止",
+        "path": [
+          "卷上",
+          "經漏不止"
+        ]
+      },
+      {
+        "ordinal": 49,
+        "level": 2,
+        "title": "經閉不行",
+        "path": [
+          "卷上",
+          "經閉不行"
+        ]
+      },
+      {
+        "ordinal": 60,
+        "level": 2,
+        "title": "帶下",
+        "path": [
+          "卷上",
+          "帶下"
+        ]
+      },
+      {
+        "ordinal": 71,
+        "level": 2,
+        "title": "血分水分",
+        "path": [
+          "卷上",
+          "血分水分"
+        ]
+      },
+      {
+        "ordinal": 76,
+        "level": 2,
+        "title": "小便出血",
+        "path": [
+          "卷上",
+          "小便出血"
+        ]
+      },
+      {
+        "ordinal": 81,
+        "level": 2,
+        "title": "熱入血室",
+        "path": [
+          "卷上",
+          "熱入血室"
+        ]
+      },
+      {
+        "ordinal": 87,
+        "level": 2,
+        "title": "師尼寡婦寒熱",
+        "path": [
+          "卷上",
+          "師尼寡婦寒熱"
+        ]
+      },
+      {
+        "ordinal": 96,
+        "level": 2,
+        "title": "歷節痛風",
+        "path": [
+          "卷上",
+          "歷節痛風"
+        ]
+      },
+      {
+        "ordinal": 106,
+        "level": 2,
+        "title": "流注",
+        "path": [
+          "卷上",
+          "流注"
+        ]
+      },
+      {
+        "ordinal": 115,
+        "level": 2,
+        "title": "瘰癧",
+        "path": [
+          "卷上",
+          "瘰癧"
+        ]
+      },
+      {
+        "ordinal": 124,
+        "level": 2,
+        "title": "乳癰乳岩",
+        "path": [
+          "卷上",
+          "乳癰乳岩"
+        ]
+      },
+      {
+        "ordinal": 143,
+        "level": 2,
+        "title": "血風瘡",
+        "path": [
+          "卷上",
+          "血風瘡"
+        ]
+      },
+      {
+        "ordinal": 151,
+        "level": 2,
+        "title": "臁瘡",
+        "path": [
+          "卷上",
+          "臁瘡"
+        ]
+      },
+      {
+        "ordinal": 161,
+        "level": 2,
+        "title": "陰瘡",
+        "path": [
+          "卷上",
+          "陰瘡"
+        ]
+      },
+      {
+        "ordinal": 176,
+        "level": 2,
+        "title": "附方並注",
+        "path": [
+          "卷上",
+          "附方並注"
+        ]
+      },
+      {
+        "ordinal": 278,
+        "level": 1,
+        "title": "卷下",
+        "path": [
+          "卷下"
+        ]
+      },
+      {
+        "ordinal": 279,
+        "level": 2,
+        "title": "保胎",
+        "path": [
+          "卷下",
+          "保胎"
+        ]
+      },
+      {
+        "ordinal": 295,
+        "level": 2,
+        "title": "小產",
+        "path": [
+          "卷下",
+          "小產"
+        ]
+      },
+      {
+        "ordinal": 301,
+        "level": 2,
+        "title": "保產",
+        "path": [
+          "卷下",
+          "保產"
+        ]
+      },
+      {
+        "ordinal": 305,
+        "level": 2,
+        "title": "子死腹中",
+        "path": [
+          "卷下",
+          "子死腹中"
+        ]
+      },
+      {
+        "ordinal": 310,
+        "level": 2,
+        "title": "胎衣不出",
+        "path": [
+          "卷下",
+          "胎衣不出"
+        ]
+      },
+      {
+        "ordinal": 315,
+        "level": 2,
+        "title": "交骨不開陰門不閉子宮不收",
+        "path": [
+          "卷下",
+          "交骨不開陰門不閉子宮不收"
+        ]
+      },
+      {
+        "ordinal": 326,
+        "level": 2,
+        "title": "產後腹痛",
+        "path": [
+          "卷下",
+          "產後腹痛"
+        ]
+      },
+      {
+        "ordinal": 336,
+        "level": 2,
+        "title": "產後血暈並失血",
+        "path": [
+          "卷下",
+          "產後血暈並失血"
+        ]
+      },
+      {
+        "ordinal": 343,
+        "level": 2,
+        "title": "產後發痓",
+        "path": [
+          "卷下",
+          "產後發痓"
+        ]
+      },
+      {
+        "ordinal": 349,
+        "level": 2,
+        "title": "產後便血",
+        "path": [
+          "卷下",
+          "產後便血"
+        ]
+      },
+      {
+        "ordinal": 356,
+        "level": 2,
+        "title": "產後大便不通",
+        "path": [
+          "卷下",
+          "產後大便不通"
+        ]
+      },
+      {
+        "ordinal": 361,
+        "level": 2,
+        "title": "產後寒熱",
+        "path": [
+          "卷下",
+          "產後寒熱"
+        ]
+      },
+      {
+        "ordinal": 366,
+        "level": 2,
+        "title": "產後咳嗽",
+        "path": [
+          "卷下",
+          "產後咳嗽"
+        ]
+      },
+      {
+        "ordinal": 373,
+        "level": 2,
+        "title": "產後瘧疾",
+        "path": [
+          "卷下",
+          "產後瘧疾"
+        ]
+      },
+      {
+        "ordinal": 380,
+        "level": 2,
+        "title": "產後瀉痢",
+        "path": [
+          "卷下",
+          "產後瀉痢"
+        ]
+      },
+      {
+        "ordinal": 389,
+        "level": 2,
+        "title": "附方並注",
+        "path": [
+          "卷下",
+          "附方並注"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 35,
+      "paragraph_blocks": 593,
+      "nonempty_paragraph_blocks": 593,
+      "represented_paragraph_blocks": 593
+    }
+  }
+]

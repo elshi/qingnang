@@ -1,0 +1,184 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%BB%A3%E5%97%A3%E8%A6%81%E8%AA%9E/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "總論",
+        "path": [
+          "總論"
+        ]
+      },
+      {
+        "ordinal": 3,
+        "level": 1,
+        "title": "調理精血論",
+        "path": [
+          "調理精血論"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 1,
+        "title": "直指真源論",
+        "path": [
+          "直指真源論"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "男女服藥論",
+        "path": [
+          "男女服藥論"
+        ]
+      },
+      {
+        "ordinal": 9,
+        "level": 1,
+        "title": "交會宜忌日",
+        "path": [
+          "交會宜忌日"
+        ]
+      },
+      {
+        "ordinal": 26,
+        "level": 1,
+        "title": "診婦人有妊歌",
+        "path": [
+          "診婦人有妊歌"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 1,
+        "title": "妊娠雜病併產生死二歌余不能盡錄也",
+        "path": [
+          "妊娠雜病併產生死二歌余不能盡錄也"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 1,
+        "title": "調元",
+        "path": [
+          "調元"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 1,
+        "title": "調經",
+        "path": [
+          "調經"
+        ]
+      },
+      {
+        "ordinal": 42,
+        "level": 1,
+        "title": "安胎",
+        "path": [
+          "安胎"
+        ]
+      },
+      {
+        "ordinal": 48,
+        "level": 1,
+        "title": "便產",
+        "path": [
+          "便產"
+        ]
+      },
+      {
+        "ordinal": 54,
+        "level": 1,
+        "title": "轉女為男法",
+        "path": [
+          "轉女為男法"
+        ]
+      },
+      {
+        "ordinal": 57,
+        "level": 1,
+        "title": "附方",
+        "path": [
+          "附方"
+        ]
+      },
+      {
+        "ordinal": 107,
+        "level": 1,
+        "title": "集驗方",
+        "path": [
+          "集驗方"
+        ]
+      },
+      {
+        "ordinal": 176,
+        "level": 1,
+        "title": "廣嗣附方",
+        "path": [
+          "廣嗣附方"
+        ]
+      },
+      {
+        "ordinal": 348,
+        "level": 1,
+        "title": "附論一篇",
+        "path": [
+          "附論一篇"
+        ]
+      },
+      {
+        "ordinal": 349,
+        "level": 2,
+        "title": "論童壯",
+        "path": [
+          "附論一篇",
+          "論童壯"
+        ]
+      },
+      {
+        "ordinal": 351,
+        "level": 2,
+        "title": "論衰老",
+        "path": [
+          "附論一篇",
+          "論衰老"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 14,
+        "label": "實陽能入虛陰之圖",
+        "source": "urn:270:04868.jpg"
+      },
+      {
+        "ordinal": 17,
+        "label": "實陰不能受陽之圖",
+        "source": "urn:270:04869.jpg"
+      },
+      {
+        "ordinal": 20,
+        "label": "弱陰不能攝陽之圖",
+        "source": "urn:270:04870.jpg"
+      },
+      {
+        "ordinal": 22,
+        "label": "微陽不能射陰之圖",
+        "source": "urn:270:04871.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 18,
+      "paragraph_blocks": 335,
+      "nonempty_paragraph_blocks": 335,
+      "represented_paragraph_blocks": 335
+    }
+  }
+]

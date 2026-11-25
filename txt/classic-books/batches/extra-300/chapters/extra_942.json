@@ -1,0 +1,2663 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_942",
+    "name": "寿世青编",
+    "summary": "《寿世青编》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“勿药须知”、“疗心法言”、“林鉴堂安心诗”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "尤乘",
+    "jp": "SSQB",
+    "aliases": [
+      "壽世青編"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "690de57805c43a8f8689a71b",
+      "title": "勿药须知",
+      "volume": "卷上",
+      "content": "臞仙曰：古神圣之医，能疗人之心，预使不至于有疾。今之医者，惟知疗人之疾，而不知疗人之心，是犹舍本而逐末也。不穷其源而攻其流，欲求疾愈，安可得乎？殊不知病由心生，孽由人作。佛氏谓一切唯心造，良不诬矣。所以人之七情内起，正性颠倒，以致大疾缠身，诚非医药所能治疗，盖药能治五行生克之色身，不能治无形之七情；能治七情所伤之气血，不能治七情忽起忽灭、动静无端之变幻。故臞仙又曰：医不入刑官之家，药不疗不仁者之疾。盖福有所主，祸有所司，报复之机，无一不验。因有天刑之疾，自戕之疾。其天刑之疾，由夙世今生所积过愆，天地谴之以致斯疾，此孽源于心也；其自戕之疾者，风寒暑湿之所感，酒色性气之所伤，六欲七情生于内，阴阳二气攻于外，此病生于心也。《仙经》曰：炼精化气，炼气化神，炼神还虚。噫！将从何处炼乎？总不出于心耳。故凡思虑伤心，忧悲伤肺，忿怒伤肝，饮食伤脾，淫欲伤肾。药之所治，只有一半，其一半则全不系药力，唯要在心药也。或曰：何谓心药？引林鉴堂诗曰：自家心病自家知，起念还当把念医，只是心生心作病，心安那有病来时？此之谓心药。以心药治七情内起之病，此之谓疗心。予考历代医书之盛，汗牛充栋，反复详明，其要主于却疾。然《内经》有一言可以蔽之，曰「不治已病治未病」是也。治有病不若治于无病，疗身不若疗心。吾以为使人疗，尤不若先自疗也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 2,
+      "source_path": [
+        "卷上",
+        "勿藥須知"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "00abf3ff1b03091c3780217112acadbb60b37563c245460cff38e31a4ad8936d",
+      "content_sha256": "3de6fa2733b344fc6ff1cc053d119fc9d8bb29fc22dbee7b7791825eb50a5bdb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 557,
+        "simplified_codepoints": 557
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "055a448965a430e033c88c3d",
+      "title": "疗心法言",
+      "volume": "卷上",
+      "content": "《素问·天真论》曰：恬淡虚无，真气从之，精神内守，病安从来？老子曰：人生以百年为限，节护乃至千岁。如膏之小炷与大炷耳。人大言我小语，人多烦我少记，人悸怖我不怒。淡然无为，神气自满。此长生之药。\n刘河间曰：形者生之舍也，气者生之元也，神者生之制也。形以气充，气耗形病，神依气立，气合神存。修真之士，法于阴阳，和于术数。持满御神，专气抱一。以神为车，以气为马。神气相合，可以长生。又曰：全生之术，形气贵乎安，安则有伦而不乱。精神贵乎保，保则有要而不耗。故保养之道，初不离乎形气精神。\n达摩曰：心不缘境，住在本源。意不流散，守于内息。神不外役，免于劳伤。人知心即气之主，气即形之根。形者气之宅，神形之具，令人相因而立。若一事有失，即不合于至理，可能久立焉？\n老子曰：不见可欲，使心不乱。\n《直指》曰：清谓清其心源，静谓静其气海。心源清则外事不能扰，性定而神明；气海静则邪欲不能作，精全而复实。\n《指归》曰：游心于虚静，结志于微妙，委虑于无欲，指归于无为。故能达生延命，与道为久。\n《妙真经》曰：人常失道，非道失人。人常去生，非生去人。故养生者，慎勿失道；为道者，慎勿失生。使道与生相守，生与道相保。\n《元道真经》曰：生可冀也，死可畏也。草木根生，去土则死。鱼鳖沉生，去水则死。人以形生，去气则死。故圣人知气之所在，以为身宝。\n《仙经》曰：精气神为内三宝，耳目口为外三宝。常令内三宝不逐物而流，外三宝不诱中而扰。\n又曰：毋劳尔形，毋摇尔精。归心静默，可以长生。\n《定观经》曰：惟令定心之上，豁然无覆；定心之下，旷然无塞。旧孽日销，新孽不造。无所挂碍，迥脱尘病。\n又曰：唯灭动心，不灭照心。但凝空心，不凝住心。\n重阳祖师曰：老人于十二时中，行住坐卧，一切动中，要把心似泰山，不摇不动，谨守四门，眼耳鼻口，不令内入外出。此名养寿，要紧。\n《真人大计》曰：奢懒者寿，悭靳者夭，放散劬劳之异也。田夫寿，膏粱夭，嗜欲多少之验也。处士少疾，游子多患，事务简烦之殊也。故俗人竞利，道士罕营。\n《唐书》曰：多记损心，多言耗气。心气内损，形神外散，初虽不觉，久则为弊。\n《元始真经》曰：喜怒损性，哀乐伤神，性损则害生，故养性以全气，保神以安身，气全体平，身安神逸。此全生之诀也。\n《洞神经》曰：养生以不损为延年之术，不损以为有补卫生之经。\n《天真论》曰：外不劳形于事，内无思想之患。以恬愉为务，以自得为功。形体不敝，精神不散。\n《庄子》曰：能遵生者，虽富贵不以养伤身，虽贫贱不以利累形，又曰：吾生也有涯，而智也无涯，以有涯逐无涯，殆矣已而。为智者，殆而已矣。\n《秋声赋》云：奈何思其力之所不及，忧其智之所不能。宜其渥然丹者为槁木，黟然黑者为星星。此士大夫通患也。又曰：百忧感其心，万事劳其形。有动于中，必摇其精。人常有多思多忧之患，方壮遽老，方老遽衰。反此亦长生之法。\n孙思邈曰：多思则神殆，多念则智散，多欲则智昏，多事则劳形，多言则气乏，多笑则伤藏，多愁则心慑，多乐则语溢，多喜则妄错昏乱，多怒则百节不定。\n《小有经》曰：才所不胜而强思之，伤也；力所不任而强举之，伤也；深忧而不解，重喜而不释、皆伤也。\n《淮南子》曰：太喜坠阳，太怒破阴，是以君子有节焉。\n《玄珠》曰：起居不节，用力过度，则脉络伤，伤阳则衄血，伤阴则下血。\n《书》曰：行走勿语，伤气，语多则住而再语。笑多则肾转腰疼。\n《神仙传》曰：养寿之道，但莫伤之而已。\n《素问》曰：食饮有节，起居有常，不妄作劳，故能形与神俱，而尽终其天年。\n《真训》曰：眼者身之镜，耳者体之牖，视多则镜昏，听众则牖闭。面者神之庭，发者脑之华，心悲则面焦，脑减则发素。精者体之神，明者神之宝，劳多则精散，营竟则明消。\n《妙真经》曰：视过其目者明不居，听过其耳者精不守，爱过其心者神不居，牵过于利者动则惧。\n《真诰》曰：镜以照面，智以照心，镜明则尘垢不染，智明则邪恶不生。\n《阴符经》曰：淫声美色，破骨之斧锯也。世之人不能秉灵烛以照迷情，持慧剑以割爱欲。流浪生死之海，害生于恩也。\n《河图帝视萌》曰：侮天地者凶，顺天时者吉，春夏乐山高处，秋冬居卑深藏。吉利多福，寿考无穷。\n《西山记》曰：一体之盈虚消息，皆通乎天地，应乎万类，和之于始，和之于终，静神灾想，生之道也。\n《卫生诀》云：凡人一日一夜，一万三千五百息，减之一息则寒，加之一息则热。脏腑不和，诸疾生焉。故元气在保养，谷神在守护。\n吕洞宾曰：寡言语以养气，寡思虑以养神，寡嗜欲以养精。精生气，气生神，神自灵也。是故精绝则气绝，气绝则命绝也。是故精气神，人身之内三宝也。\n齐丘子曰：乔松所以能凌霜雪者，藏正气也；美玉所以能犯烈火者，蓄至精也。是以大人昼运灵旗，夜录神芝，觉所不觉，思所不思，可以冬御风而不寒，夏御火而不热。故君子藏正气，可以远鬼神，伏奸佞。蓄至精者，可以保生灵，跻福寿，是以贵乎养气也。\n《素问》曰：谨和五味，骨正筋柔，气血以流，腠理以密，长有天命。\n又曰：食风者灵而延寿算，食谷者多智而劳形神，食草者痴愚而力足，食肉者勇鄙而多嗔，服气者常存而得道。\n《传》曰：杂食者，百病妖邪所钟。所食愈少，心愈开，年愈益，所食愈多，心愈塞，年愈损焉。所以服气者千年不死，故身飞于天，食谷者千百皆死，故形归于地。\n《白玉蟾》曰：薄滋味以养气，去嗔怒以养性，处卑下以养德，守清静以养道。\n学山曰：食饮有节，脾土不泄；调息寡言，肺金自全；动静以敬，心火自定；宠辱不惊，肝木自宁；恬然无欲，肾水自足。\n益州老人曰：凡欲身之无病，必须先正其心，使其心不乱求，心不狂思，不贪嗜欲，不著迷惑，则心君泰然矣。心君泰然，则百骸四体虽有病不难治疗。独此心一动，百患为招，即扁鹊华佗在旁，亦无所措手乎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "卷上",
+        "療心法言"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "0839a51e80e30db3eddb02c4314b21a25e9b722218a0a6dd0d7dbf1c64d14430",
+      "content_sha256": "96efda1a076c6970e5a1011525a2ad0228b141d88961d28ae7f61d4f4415464c",
+      "paragraph_count": 42,
+      "paragraph_ordinals": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2324,
+        "simplified_codepoints": 2324
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "779d2b75f07fa65496442680",
+      "title": "林鉴堂安心诗",
+      "volume": "卷上",
+      "content": "我有灵丹一小锭，能医四海群迷病。些儿吞下体安然，管取延年兼接命。安心心法有谁知？却把无形妙药医。医得此心能不病，翻身跳入太虚时。念杂由来业障多，憧憧扰扰竟如何？驱魔自存玄微诀，引入尧天安乐窝。人有二心方显念，念无二心始为人。人心无二浑无念，念绝悠然见太清。这也了时那也了，纷纷攘攘皆分晓。云开万里见清光，明月一轮圆皎皎。四海遨游养浩然。心连碧水水连天。津头自存渔郎问，洞里桃花日日鲜。\n《性理》曰：夫人之心，皆明镜也。圣人特不尘之耳。夫人之心，皆止水也，圣人特不波之耳。又朱晦庵曰：学者常要提醒此心，惺惺不昧，如日中天，群邪自息，同一旨也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "卷上",
+        "林鑑堂安心詩"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "c6440dc1e3065fb21c148c0a5762209dcd0ef0d708406fbc5accd5925d800b1d",
+      "content_sha256": "acd7c3b23a35db8753255fa30a13f7951a635d9f41b4c213935002ac1ce96aa0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        48,
+        49
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 270,
+        "simplified_codepoints": 270
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "6dc5e9d59c3642cd33977f01",
+      "title": "养心说",
+      "volume": "卷上",
+      "content": "夫心者，万法之宗，一身之主，生死之本，善恶之源，与天地而可通，为神明之主宰，而病否之所由系也。盖一念萌动于中，六识流转于外，不趋乎善，则五内颠倒，大疾缠身。若夫达士则不然，一真澄湛，万祸消除。老子曰：夫人神好清而人扰之，人心好静而欲牵之：常能遣其欲而心自静，澄其心而神自清，自然六欲不生，三毒消灭。盂子曰：养心莫善于寡欲。所以妄想一病，神仙莫医。正心之人，鬼神亦惮，养与不养故也。目无妄视，耳无妄听，口无妄言，心无妄动。贪嗔痴爱，是非人我，一切放下。未事不可先迎，遇事不宜过扰。既事不可留住，听其自来，应以自然，信其自去，忿懥恐惧，好乐忧患，皆得其正，此养之法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 50,
+      "source_path": [
+        "卷上",
+        "養心說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "2aa46fde634e8e2b3006b94dc0fb79a9675af89498c6d24b7ddd5b2a4aebedb5",
+      "content_sha256": "43f60219816caf03e454ccd6935dbebd80ee864fab9c8b5a04c95ed5025d3c4c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 282,
+        "simplified_codepoints": 282
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "169f5893f556d8df14693ab2",
+      "title": "养肝说",
+      "volume": "卷上",
+      "content": "夫肝者，魂之处也，其窍在目，其位在震，通于春气，主春升发动之令也。然木能动风，故《经》曰：诸风掉眩，皆属于肝。又曰：阳气者，烦劳则张，精绝辟积于夏，使人煎厥。设气方升，而烦劳太过，则气张于外，精绝于内。春而邪辟之气积久不散，至夏未痊，则火旺而真阴如煎，火炎而虚气逆上，故曰煎厥。按《脉解论》曰：肝气失治，善怒者名日煎厥。戒怒养阳，使生生之气相生于无穷。又曰：大怒则形气绝，而血菀于上，使人薄厥。菀，结也。怒气伤肝，肝为血海，怒则气上，气厥则绝，所以血菀上焦，相迫曰薄，气逆曰厥，气血惧乱，故曰薄厥。积于上者，势必厥而吐也。薄厥者，气血之多而盛者也。所以肝藏血，血和则体泽，血衰则枯槁，故养肝之要在乎戒念，是摄生之第一法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "卷上",
+        "養肝說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "e10f189828ea2299d26328d14482cf733e6f02e1cde0911a7557f817e1d8d96a",
+      "content_sha256": "2b509db72bb972cd1dc651b2b490b073244d1bdf45938283ad13c085eaa491e2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        53
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 311,
+        "simplified_codepoints": 311
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "ab2a9c8ad86f141f8c01a29c",
+      "title": "养脾说",
+      "volume": "卷上",
+      "content": "脾者后天之本，人身之仓廪也。脾应中宫之土，土为万物之母。如婴儿初生，一日不再食则饥，七日不食则肠胃涸绝而死。《经》曰：安谷则昌，绝谷则亡。盖谷气入胃，洒陈六腑而气至和，调五脏而血生，而人资以为生者也。然土恶湿而喜燥，饮不可过，过则湿而不健；食不可过，过则壅滞而难化，病由是生矣。故饮食所以养生，而贪嚼无厌，亦能害生。《物理论》曰：谷气胜元气，其人肥而不寿。养性之术，常令谷气少则病不生。谷气且然，矧五味餍饫为为五内害乎！甚而广搜珍错，争尚新奇，恐其性味良毒，与人脏腑宜忌，尤未可晓。故西方圣人使我戒杀茹素，本无异道。人能戒杀则性慈而善念举，茹素则心清而肠胃厚。无嗔无贪，罔不由此。外考禽兽肉食，谷者宜人，不可不慎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "卷上",
+        "養脾說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "a4cb7a13365eeb0ff4fbbd9df3fb91de269a38c001c9a27836da0406e0a0f4f9",
+      "content_sha256": "84060839a81786ae5c029d3a051435c9fabb841f968d8c03e051ee46d25d20e3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        55
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 307,
+        "simplified_codepoints": 307
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "5413f335bafe2fbaab46b28b",
+      "title": "养肺说",
+      "volume": "卷上",
+      "content": "肺者脏之长也，心之华盖也，其藏魄，其主气，统领一身之气者也。《经》曰：有所失亡，所求不得，则发肺鸣，鸣则肺热叶焦。充之则耐寒暑，伤之则百邪易侵，随事痿矣。故怒则气上，喜则气缓，悲则气消，恐则气下，惊则气乱，劳则气耗，思则气结。七情之害，皆气主之也。直养无害，而后得其所以浩然者，天地可塞，人之气与天地之气可一也，道气可配，人之气与天地之气可通也。先王以至日闭关，养其微也。慎言语，节饮食，防其耗也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 56,
+      "source_path": [
+        "卷上",
+        "養肺說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "e634c39251426c0ac15a1d4cb2bf6c537bedc5630bc0d1d67ed189997caf43b8",
+      "content_sha256": "6d51d28af060e0166452e66a858b326c00d8e5ded31abca5a7c7dd893a894b9a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "11d14b3c4d5a63fb27933014",
+      "title": "养肾说",
+      "volume": "卷上",
+      "content": "肾者先天之本，藏精与志之宅也。《仙经》曰：借问如何是玄牝，婴儿初生先两肾。又曰：玄牝之门，是为天地根。是故人未有此身，先生两肾，盖婴儿未成，先结胞胎，其象中空，一茎透起，形加莲蕊。一茎即脐带，连蕊即两肾也，为五脏六腑之本，十二脉之根，呼吸之主，三焦之原。人资以为始，岂非天地之根乎，而命寓焉者。故又曰：命门天一生水，故曰坎水。夫人欲念一起，炽若炎火，水火相克，则水热火寒，而灵台之焰，借此以灭矣。使水先枯涸，而木无所养，则肝病。火炎则土燥而脾败，脾败则肺金无资，咳嗽之症成矣。所谓五行受伤，大本已去，欲求长生，岂可得乎！《庄子》曰：人之大可畏者，衽席之间不知戒者故也，养生之要，首先寡欲。嗟乎！元气有限，情欲无穷。《内经》曰：以酒为浆，以妄为常，醉以入房，以竭其精，此当戒也，然人之有欲，如树之有蠹，蠹甚则木折，欲炽则身亡。《仙经》曰：无劳尔形，无摇尔精，无使尔思虑营营，可以长生，智者鉴之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 58,
+      "source_path": [
+        "卷上",
+        "養腎說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "98a4a9dc3aef8ffd1ee6dfa8100dbcd9b42964097ad84fa52e0e92e93c814de0",
+      "content_sha256": "5912b2e11af7a879c6a27cdf12e7992a084b2f2973c128544814845c896e5e5a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        59
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 396,
+        "simplified_codepoints": 396
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "a15e89f40657a91490fb9fad",
+      "title": "斋说",
+      "volume": "卷上",
+      "content": "夫世之持斋，往往以斋之说为误，何也？茹素而已，不复知有斋之实事。意谓茹素可以弭灾集福，却病延年，则谬矣，《玉华子》曰：斋者，齐也。齐其心而洁其体也，岂仅茹素而已。所谓齐心者，澹志寡营，轻得失，勤内省，远荤酒；洁其体者，不履邪径，不视恶色，不听淫声，不为物诱。入室闭户，烧香静坐，方可谓之斋也。诚能如是，则身中之神明自安，升降不碍，可以却病，可以长生，可以迪福弭罪。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 60,
+      "source_path": [
+        "卷上",
+        "齋說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "24a62f470d2ff3ac9eee47248e5bdb66dcad3301de32a24adcfae40ff6b33837",
+      "content_sha256": "098bce7f4c506d2c50238df66a952aa4154cf7c8ae5e6739644debaff49b5989",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        61
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 182,
+        "simplified_codepoints": 182
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "1e98960ef9e36e22889f4254",
+      "title": "食忌说",
+      "volume": "卷上",
+      "content": "《太乙真人七禁文》其六曰：美饮食，养胃气，彭鹤林云：夫脾为脏，胃为腑，脾胃二气，互相表里。胃为水谷之海，主纳水谷，脾在中央，磨而消之，化为气血，以灌溉脏腑，荣养周身。所系最重修养之士，不可不美其饮食以调之。所谓美者，非水陆毕具异品珍馐之谓也。要在乎生冷勿食，粗硬勿食，勿强食，勿强饮。先饥而食，食不过饱；先渴而饮，饮不过多。孔子曰：食饐而餲，鱼馁而肉败不食，色恶不食，臭恶不食，失饪不食，不时不食，凡此者皆损胃气，非惟致病，亦乃伤生，欲希长年，斯宜深戒，而奉老慈幼，与观颐者审之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 62,
+      "source_path": [
+        "卷上",
+        "食忌說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "f62a66400de24bb1abb9b1068c79a9d8ba592545673a144b03fd211f1a8bc2c3",
+      "content_sha256": "353eebad74a9f95dbfaab8d267e2f0b38c94ae8cb0a6c2d6a708a528c2665dd7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        63
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 240,
+        "simplified_codepoints": 240
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "be6a042fa4c15c831cd15770",
+      "title": "食饮以宜",
+      "volume": "卷上",
+      "content": "饮食之宜，当候已饥而进食，食不厌细嚼，仍候焦渴而引饮，饮不厌细呷。毋待饥甚而食，食勿过饱。时觉渴甚而饮，饮勿过多。食不厌精细，饮不厌温热。五味毋令胜谷味，肉味毋令胜食气。食必先食热，后食冷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 64,
+      "source_path": [
+        "卷上",
+        "食飲以宜"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "8e2aeb5d2706abfbe60ab953709c3c7be8cc04a08628f197713e39f5477aaff5",
+      "content_sha256": "4b0c318f1058b799de5fc24883674821042551d913f0c8a1adfbe152d46cbbf4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        65
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "bee23d3b469eca71917a3d1a",
+      "title": "居室安处论",
+      "volume": "卷上",
+      "content": "天隐子曰：吾谓安处者，非华堂邃宇，重裀广榻之谓也，在乎南面而坐，东首而寝，阴阳适中，明暗相半。屋无高，高则阳盛而明多；屋无卑，卑则阴盛而暗多。故明多则伤魄，暗多则伤魂，人之魂阳而魄阴。苟伤明暗，则疾病生焉。此所谓居处之室，尚使之然。况天地之气，有亢阳之攻肌，淫阴之侵体，岂可不防慎哉。修身之士，倘不法此，非安处之道。曰：吾所居室，四边皆窗户，遇风即合，风息即开；吾所居室，前帘后屏，太明即下帘，以和其内映，太暗则卷帘，以通其外耀。内以安心，外以安目，心目俱安，则身安矣。明暗且然，况太多思虑，太多情欲，岂能安其内外哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 66,
+      "source_path": [
+        "卷上",
+        "居室安處論"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "0006b29fada28ef92fce52da17d6c08f680d2cc8f618f34c81132b2a57817357",
+      "content_sha256": "956bee418c4c4b02884a97855937494d822d5fea1e7f716a7db4459ebcc697db",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        67
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 259,
+        "simplified_codepoints": 259
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "d63cde89e66a9912d9bbaf08",
+      "title": "居处宜忌说",
+      "volume": "卷上",
+      "content": "《保生要录》曰：人之家室，土厚水深，居之不疾。凡人居处，随其方所，皆欲土厚水深。土欲坚润而黄，水欲甘美而清。常坐之处，令其四面周密，勿令小有细隙，致风得入，人不易知，其伤人最重，初时不觉，久能中人。夫风者，天地之气也，能生成万物，亦能损人，有正有邪故耳。初入腠理，渐至肌肤，内传经脉，达脏腑，传变既深，为患不小。故《素问》云：夫上古圣人之教下民也，皆谓之虚邪贼风，避之有时。又《养生书》云：避风如避箭。若盛暑所居，两头通屋，弄堂夹道，风回凉爽，其为害尤甚，养生者当慎之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 68,
+      "source_path": [
+        "卷上",
+        "居處宜忌說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "07eff1f3be1caafa2bafbeea7a108d250766249115e1ce4a9a320c691e4e76fe",
+      "content_sha256": "773a6c85cb7d9b10615e1cd77bb0e87e484dcfab84bd0bb7cf3bd724a7d59ab4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        69
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 235,
+        "simplified_codepoints": 235
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "a04098aba3fd12d4a5feba25",
+      "title": "寝室宜忌说",
+      "volume": "卷上",
+      "content": "凡人卧床常令高，则地气不及，鬼吹不干。鬼气侵人，常因地气上逆耳。人卧室宇，当令洁净，净则受灵气，不洁则受故气。故气之乱人室宇，所为不成，所依不立，即一身亦尔，当常令沐浴洁净。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 70,
+      "source_path": [
+        "卷上",
+        "寢室宜忌說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "7ae077777db3a5cddd8ed6f8dae1c9aa527160c589ff8b3f0b9763ef558145b1",
+      "content_sha256": "63d539ff5a3ef35e43970171eadaf3ced397a2646899b86415c45492ecf0d044",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        71
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "2645dbe90f41e81e4d311ea1",
+      "title": "卧时祝法",
+      "volume": "卷上",
+      "content": "《黄素四十四方经》云：夜寝欲合眼时，以手抚心三过，闭目微祝曰：太灵九宫，太乙守房，百神安位，魂魄和同，长生不死，塞灭邪凶，咒毕而寝。比名九宫隐祝寝魂之法。常能行之，使人魂魄安宁，永获贞吉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 72,
+      "source_path": [
+        "卷上",
+        "臥時祝法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "de8a339a30249a31ece59f9bbd3b2f9c82269a731857823b58d21f0595eb13cb",
+      "content_sha256": "fd25819da6f424094f4c7044dcb3cc8ec5186972b213d489183a40cd1957b0bc",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        73
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 94,
+        "simplified_codepoints": 94
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "77e4ced8c7f646cffe1a861e",
+      "title": "睡诀",
+      "volume": "卷上",
+      "content": "西山蔡季通云：睡侧而屈，觉正而伸，早晚以待，先睡心，后睡眼。朱晦庵谓未发之妙。\n《千金方》云：半醉酒，独自宿，软枕头，暖盖足，能息心，自瞑目。陆平泉云：每夜欲睡，必走千步始寝。\n《论语》曰：食不语，寝不言，寝卧不得多言笑。五脏如钟磐，不悬则不可发声。\n伏气有三种眠法：病龙眠，屈其膝也：寒猿眠，抱其膝也；龟鹤眠，踵其膝也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 74,
+      "source_path": [
+        "卷上",
+        "睡訣"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "80f03ae00ac46b25c022d7261d004bd01e378bf44361350cc434b8a0dceccb2c",
+      "content_sha256": "16b67d70beb15703f6d8372711e8908651c3abdfd9948862b5878c51fa8d4133",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 161,
+        "simplified_codepoints": 161
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "4373a69e4b991a40513017e1",
+      "title": "孙真人卫生歌",
+      "volume": "卷上",
+      "content": "天地之间人为贵，头象天兮足象地。父母遗体宜保之，箕畴五福寿为最。卫生切要知三戒，大怒大欲并大醉。三者若还有一焉，须防损失真元气。欲求长生先戒性，火不出兮神自定。木还去火不成灰，人能戒性方延命。贪欲无穷志却精，用心不已走元神。劳形散尽中和气，更复何能保此身。心若太费费则竭，形若太劳劳则歇。神若太伤伤则虚，气若太损损则绝。世人欲知卫生道，喜乐有常嗔怒少。心诚意正思虑除，顺理修身去烦恼，春嘘明月木扶肝，夏至呵心火自闲。秋呬定收金肺润，冬吹肾水得平安。三焦嘻却除烦热，四季常呼脾化餐。切忌出声闻口耳，其功尤胜保神丹。发宜多梳气宜炼，齿宜频叩津宜咽。子欲不死修昆仑，双手揩摩常在面。春月少酸宜食甘，冬月宜苦不宜咸。夏要增辛减却苦，秋辛可省便加酸。季月可咸甘略戒，自然五脏保平安。若能全减身康健，滋味偏多多病难。春寒莫放绵衣薄，夏月多汗须换著。秋冬衣冷渐加添，莫待病生才服药。惟有夏月难调理，内有伏阴忌凉水。瓜桃生冷忌少餐，免致秋来生疟痢。君子之人守斋戒，心旺肾衰宜切记。常令充实勿空虚，日食须当去油腻。太饱伤神饥伤胃，太渴伤血并伤气。饥餐渴饮勿太过，免致膨脝伤心肺。醉后强饮饱强食，未有此生不成疾。人资饮食以养身，去其甚者自安适。食后须行百步多，手摩脐腹食消磨。夜半云根灌清水，丹田浊气切须呵。饮酒可以陶性情，太饮过多防有病。肺为华盖倘受伤，咳嗽劳精能损命。慎勿将盐去点茶，分明引贼入其家。下焦虚冷令人瘦，伤肾伤脾防病加。坐卧切防脑后风，脑内入风人不寿，更兼醉饱卧风中，风才一入成灾咎。雁有序兮犬有义，黑鲤朝北知臣礼。人无礼义反食之，天地神明俱不喜。养体须当节五辛，五辛不节损元神。莫教引动虚阳发，精竭神枯定丧身。不问在家并在外，若遇迅雷风雨至，急须端肃敬天威。静室收心须少避，恩爱牵缠不自由，利名萦绊几时休。放宽些子自家福，免致中年早白头。顶天立地非容易，饱食暖衣宁不愧。思量无以报洪恩，早暮焚香谢天地。身安寿永事如何，胸次平夷积善多。惜命惜身兼惜气，请君熟玩卫生歌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 79,
+      "source_path": [
+        "卷上",
+        "孫真人衛生歌"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "de90dcb355a3751299a54070c3cc00d62e5d733b4f579c5f328c26d94c36ac5f",
+      "content_sha256": "d2a5ac6263295c1dafc80a6ec149b1809a456fa002377e5aa81d7d64700b9850",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 832,
+        "simplified_codepoints": 832
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "bd68297a67b295726a8453dd",
+      "title": "真西山卫生歌",
+      "volume": "卷上",
+      "content": "万物惟人为最贵，百岁光阴如旅寄。自非留意修养中，未免疾苦为身累。何必餐霞饵大药，妄意延令等龟鹤，但于饮食嗜欲间，去其甚者将安乐。食后徐行百步多，两手摩胁并胸腹。须臾转手摩肾堂，谓之运动水与土。仰面常呵三四呵，自然食毒气消磨。醉眠饱卧俱无益，渴饮饥餐尤戒多。食不欲粗并欲速，宁可少餐相接续。若教一顿饱充肠，损气伤脾非尔福。生冷黏腻筋韧物，自死牲牢皆勿食。馒头闭气宜少餐，生脍偏招脾胃疾。酢酱胎卵兼油腻，陈臭腌𨢇尽阴类。老弱若欲更食之，是借寇兵毋以异，炙煿之物须冷吃，否则伤齿伤血脉。晚食常宜申酉时，向夜徒劳滞胸膈。饮酒莫教令大醉，大醉伤神损心志。酒渴饮水并啜茶，腰脚自兹成自坠。常闻避风如避箭，坐卧须当预防患。况因食后汗孔开，风才一入成瘫痪。不问四时俱暖酒，太热太冷莫入口。五味偏多不益人，恐随脏腑成灾疚。视听行坐不可久，五劳七伤从此有。四肢亦欲得小劳，譬如户枢终不朽。卧不厌缩觉即舒，饱宜沐浴饥宜梳。梳多浴少益心目，默寝暗眠神晏如。四时惟夏难调摄，伏阴在内肠易滑。补肾汤丸不可无，食物稍冷休餔啜。心旺肾衰何所忌，特忌疏通泄精气。寝处尤宜严密间，宴居静虑和心气。沐浴盥漱皆暖水，簟凉枕冷俱弗宜。瓜茄生冷不宜人，岂独秋来作疟痢。伏阳在内冬三月，切忌汗多泄精气。阴雾之中莫远行，暴雨迅雷宜速避。道家更有颐生旨，第一戒人少嗔恚。秋冬日出始穿衣，春夏鸡鸣宜早起。子后寅前睡觉来，瞑目叩齿二七回。吸新吐故毋令误，咽漱玉泉还养胎。指摩手心熨两眼；仍更揩摩额与面。中指时时擦鼻茎，左右耳根筌数遍。更能干浴一身间，按䏶时须扭两肩。纵有风劳诸湿气，何忧腰背复拘挛。嘘呵呼嘻吹及呬，行气之人分六字。果能依用口诀中，新旧有疴皆可治。声色虽云属少年，稍知撙节乃无愆。闭精息气宜闻早，莫使羽苞火中燃。有能操履常方正，于利无贪名不竞。纵向歌中未尽行，可保周身亦无病。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 81,
+      "source_path": [
+        "卷上",
+        "真西山衛生歌"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "57e2f133de7b0d4c636e25693309ebccd91b67accc55e730697ec19ba7e560f1",
+      "content_sha256": "c7ae919aebaab58ed82e1b06d2dffcaa9b6ccf4f991efbaaa40f7e561aac2ac9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        82
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 768,
+        "simplified_codepoints": 768
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "cca96178571259bc1fa5793b",
+      "title": "养神气铭",
+      "volume": "卷上",
+      "content": "神者气之子，气者神之母，形者神之室。气清则神畅，气浊则神昏，气乱则神劳，气衰则神去，神去则形腐。人以气为道，道以气为生，生道两存，则长生久视。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 83,
+      "source_path": [
+        "卷上",
+        "養神氣銘"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "cb97e7eaa47f144348c055f8c8805d65f1ca8ad2935fc5ecb271bbced212ecb8",
+      "content_sha256": "172b4106ce15fbac85a9e1d7c58284f8cd80d07377852b5f711dd51e4a409787",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        84
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 71,
+        "simplified_codepoints": 71
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "1fd76ff5880d3bd3d955257d",
+      "title": "孙真人养生铭",
+      "volume": "卷上",
+      "content": "怒甚偏伤气，思多太损神，神疲心易役，气弱病来侵。勿使悲欢极，常令饮食均。再三防夜醉，第一戒晨嗔。亥寝鸣天鼓，晨兴漱玉津。妖邪难犯己，神气自全身。若要无诸病，常当节五辛。安神宜悦乐，惜气保和纯。寿天休论命，修形在本人。若能遵此理，平地可朝真。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 85,
+      "source_path": [
+        "卷上",
+        "孫真人養生銘"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "aa289de3fca374d1a87080b0a15d54fa1ae4fae0dd5400865546947c7e1d8c37",
+      "content_sha256": "209af62179a96c302ca2ffc52453cd6d87769067f50649eb9ce07de331b06032",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 120,
+        "simplified_codepoints": 120
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "9eeb839aa579e41158ede008",
+      "title": "谨疾箴",
+      "volume": "卷上",
+      "content": "凡人富贵名利，勿强求之，而况此身父母之所遗；才情意气，勿竞争之，而况此身妻之所仰。身之柔脆，非木与石，伤之七情，报以百疾。疾之既来，有术奚施，疾之未来，有术不知。我明告子，子尚听之，色之悦目，惟男女之欲，思所以远之，如脱桎梏；味之爽口，惟饮食之欲，思所以禁之，如畏鸠毒。多言则伤气，欲养气者，言不费，思则损血，欲养血者，思不越。忧不可积，乐不可纵。形不可太劳，神不可太用。凡此数言，终身宜诵。\n《勿药真言》云：独宿之妙，不但老年，少壮亦当如此。日间纷扰，心神散乱，全赖夜间休息，以复元气。若日内心猿意马，狂妄驰驱，至夜又醉饱而恣情纵欲，不自爱惜，其精神血气，何能堪此？",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "卷上",
+        "謹疾箴"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "1e372fd71927af8270a927a15839c9ba78632c2ee18a026736956f1884999117",
+      "content_sha256": "7b48b8ba92ac07426f59a43e6a70308eb379f3006eac3c6067d1ff9528456b61",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        88,
+        89
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 284,
+        "simplified_codepoints": 284
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "1af796584ab5af79b8c526ef",
+      "title": "导引却病法",
+      "volume": "卷上",
+      "content": "老子曰：天有三宝，日月星，人有三宝，精气神。此其旨可得而知也。余自少慕道，夙有因缘，幸遇高贤异士，得读古圣法言，乃知性命之理，简易渊微，舍精气神，则别无了道之门，而老子一言，固己悉之矣。人自离母腹，三元真气，日可生发，后为情欲所蔽，不知保养，斫丧者多。于是古圣传授教人修补之法，呼吸吐纳，存神运想，闭息按摩。虽非大道，然能勤行积久，乃可却病延年。若夫虚劳内损，痼疾经年，即扁鹊、卢公，难于措手。苟能积气开关，决有回生之效，久之则任督二脉交通，水升火降乃成既济。从前受病之根，斩刈无遗。嗣后真元之气，蒸蒸不竭。然勿谓草木无功，遂委之命也哉。余虽不敏，尝事于斯，以谢奇疴，谛信专行，功臻旦夕。敢以告之同志。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 90,
+      "source_path": [
+        "卷上",
+        "導引卻病法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "6a14a36bb66ee10fd1e1630d9e781c24ef333212baa91c5032f71d83056ebb61",
+      "content_sha256": "f24e0080c96997bfebacf9ed0ce30558d995a2e2232ed799bfec7b2a73de975c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        91
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 301,
+        "simplified_codepoints": 301
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "789355297e5bec09c60cba6c",
+      "title": "内养下手诀",
+      "volume": "卷上",
+      "content": "《易》曰：一阖一辟谓之变，往来不穷谓之通，阖辟往来无非道也。人生以气为本，以息为元，以心为根，以肾为蒂。天地相去八万四千里，人心与肾相去八寸四分。此肾是内肾，脐下一寸三分是也。中有一脉，以通天息之浮沉。息总百脉。一呼则百脉皆开，一吸则百脉皆合。天地造化流行，亦不出于阖辟二字。人之呼吸，即天地之阖辟也。是乃出于心肾之间，以应天地阴阳升降之理。人能知此，养以自然，则气血从轨，无俟乎搬运之烦，百病何自而生。如有病能知此而调之，则不治而自却矣。下手之诀，必先均调呼吸，均调呼吸，先须屏绝外缘，顺温凉之宜，明燥湿之异。明窗净几，涤虑清心，闭目端坐，叩齿三十六遍，以集心神。然后以大拇指背，于手掌心劳宫穴处，摩令极热，用拭目之大小眦各九遍。并擦鼻之两旁各九遍。又以两手摩令热，闭口鼻气，然后摩面，不俱遍数，以多为上，名真人起居法。次以舌舐上腭，搅口中华池上下，取津漱炼百次，候水澄清，一口分作三次，汩然咽下，名曰赤龙取水。又曰：玉液炼己法，最能灌溉五脏，光泽面目，润肺止嗽，其效若神。行持时不必拘定子午，每于夜半后生气时行之，或睡觉时皆妙。如日中闲暇时亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 92,
+      "source_path": [
+        "卷上",
+        "內養下手訣"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "ae93ed8f0456052d00fe612c80bc94069e6cd13622fd1ef4ec9dd1b79f3e63a0",
+      "content_sha256": "7b57d73b9900b1cc2aeaa65f5c24ec663cbbcf243157e2e3ae01975780fbf879",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        93
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 475,
+        "simplified_codepoints": 475
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "e97b188f47f46b5c0a7a0333",
+      "title": "运气法",
+      "volume": "卷上",
+      "content": "凡运气法，当闭目静坐，鼻吸清气降至丹田，转过尾闾，随即提气如忍大便状，自夹脊双关透上，直至泥丸，转下鹊桥，汩然咽下，仍归丹田。初行功时，焚香一炷为度，渐增三炷，功行七日而止。凡卧病者，宜用厚褥、绵被、暖帐、重衣。不论寒暑，初行功三日，发大汗以攻阴邪之气，进热粥以为表汗之资。渴则漱玉泉以咽之，饥则炊热粥以食之。饥然后食，不拘餐数。如是衣不解带，能一月，则在床三五七年瘫劳鼓膈等症，皆可刻期而愈。患在上身，收气当存想其处；患在下身，收气亦存想其处。放气则归于丹田。患在遍身，当分经络属上属下，运法亦如之。女子行功，先提水门，后及谷道，运法如前。\n（愚按：人之气，即天地之气。故天气不交于地，乾坤或几乎息矣。人之所以当运其气者，亦体天地交泰之义也。先提谷道，勿使泄也。自背至顶，使相交也。想丹田，使归根也。不惟有疗病之功，抑且多延年之效。何况于无病乎？况微病乎？是名曰修养。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 94,
+      "source_path": [
+        "卷上",
+        "運氣法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "05300266f77ea052121de6f2fab94ddf273054990fff883dadbb8f07accd1121",
+      "content_sha256": "308fb7030a0cd4f10ab8bb1710a228d4be4fad3f69839cb91e2364739224940f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        95,
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 386,
+        "simplified_codepoints": 386
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "c699eb4427cc10e19a151ad0",
+      "title": "固精法",
+      "volume": "卷上",
+      "content": "《金丹秘诀》云：一擦一兜，左右换手，九九之数，真阳不走。每于戍亥二时，阴旺阳衰之候，宜解衣闭息，一手兜外肾，一手擦脐下，左右换手，各兜擦九九之数，仍盘膝端坐，手齿俱固。先提玉茎，如忍小便状，想我身中元精，自尾闾升上，直至泥丸，复过鹊桥，降至丹田，每行七次，精自固矣。\n（愚按：精者，人身真元之气，五官百骸之主，而神魂附之，以生者也。夫神犹火也，精犹油也，油尽则灯灭，精竭则神亡。故精由气生，神由精附。固精之法，宜急讲也，半月固精，久行愈佳。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "卷上",
+        "固精法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "ce382fef307a5ee8ad44bf0271f88cfb4c7fadd78452b05ec98409ba3b68e735",
+      "content_sha256": "2731f9240d4412be2bef2b05dbca38672c2fa4d1318661959e53449ae6694d8a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        98,
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 221,
+        "simplified_codepoints": 221
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "2d0d698e60266557f8594332",
+      "title": "定神法",
+      "volume": "卷上",
+      "content": "人身入神，出入固无定在。迨病者，穷思极想，又有甚焉。若能行功，则神随气转，不虑其他出，否则难乎其有定在也。故恒时必须常想玄关，思睡必须常想鼻准，如是则神不外驰而定矣。\n（愚按：神外无心，心外无道，道即神之主，心即神之宅也。然心外无道，故收放心，即神定而道在。孟子谓：学问之道无他，求其放心而已。夫放心而知求，则志气清明，义理昭著。此定神之功验也。今之养病者，日思丹田，思鼻准，亦收放心之法也。不曰收放心，而曰定神。盖游心千里，无有定在，此皆神之外出，故曰定神。以上三条，乃却病修养之大纲，外有导引等法，详具于后。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "卷上",
+        "定神法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "b4af89973272e09bbb70ff8b4b276d7eceaf1594cb3b4155b10fbfacb4fa1f6a",
+      "content_sha256": "2b4c5da854b1bdae40a3236f0fb62a7da44044619410025614c4fea161ed9732",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        101,
+        102
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 257,
+        "simplified_codepoints": 257
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "e176a9ed1e93f0f44e5dfb04",
+      "title": "十二段动功",
+      "volume": "卷上",
+      "content": "叩齿一 齿为筋骨之余，常宜叩击，使筋骨活动，心神清爽。每次叩击三十六数。\n咽津二 将舌舐上腭，久则津生满口，便当咽之，咽下啯然有声，使灌溉五脏，降火甚捷。咽数以多为妙。\n浴面三 将两手自相摩热，覆面擦之，如浴面之状，则须发不白，即升冠鬓不斑之法，颜如童矣。\n鸣天鼓四 将两手掌掩两耳窍，先以第二指压中指，弹脑后骨上，左右各二十四次，去头脑疾。\n运膏肓五 此穴在背上第四椎下，脊两旁各三寸。药力所不到，将两肩扭转二七次。治一身诸疾。\n托天六 以两手握拳，以鼻收气运至泥丸，即向天托起，随放左右膝上，每行三次。去胸腹中邪气。\n左右开弓七 此法要闭气，将左手伸直，右手作攀弓状，以两目看右手，左右各三次。泻三焦火，可以去臂腋风邪积气。\n摩丹田八 法将左手托肾囊，右手摩丹田，三十六次。然后左手转换如前法，暖肾补精。\n擦内肾穴九 此法要闭气，将两手搓热，向背后擦肾堂及近脊命门穴，左右各三十六次。\n擦涌泉穴十 法用左手把住左脚，以右手擦左脚心，左右交换，各三十六次。\n摩夹脊穴十一 此穴在背脊之下，大便之上，统会一身之气血，运之大有益，并可疗痔。\n洒腿十二 足不运则气血不和，行走不能爽快，须将左足立定，右足提起，洒七次，左右交换如前。\n右十二段，乃运导按摩之法，古圣相传，却病延年，明白显易，尽人可行。庄子曰：呼吸吐纳，熊经鸟伸，为寿而已矣。此导引之士，养形之人，彭祖寿考者之所好也。由是传之至今，其法自修养家书及医经所载，种数颇多，又节取要约，切近者十六则，合前十二段参之，各法大概备矣。\n凡行功每于子后寅前，此时气清腹虚，行之有效。先须两目垂帘，披衣端坐，两手握固趺坐，当以左足后跟，曲顶肾茎根下动处，不令精窍漏泄耳。两手当屈两大指抵食指根，余四指捻定大指，是为两手握固。然后叩齿三十通，即以两手抱项，左右宛转二十四次。（此可去两胁积聚之邪）。复以两手相叉，虚空托天，反手按顶二十四。（此可除胸膈中病）。复以两手心掩两耳，却以第二指弹脑后枕骨二十四。（此可除风池邪气）。复以两手相促，按左膝左捩身，按右膝右捩身，各二十四。（此可去肝家风邪）。复以两手一向前一向后，如挽五石弓状，二十四次。（此可去臂腋积邪。）复大坐展两手扭项，左右反顾，肩膊随，二十四次。（此可去脾胃积邪）。复以两手握固，并拄两肋，摆撼两肩，二十四。（此可去腰胁间之风邪）。复以两手交捶臂及膊，反捶背上连腰股，各十四。（此可去四肢胸臆之邪）。复大坐斜身偏倚，两手齐向上如排天状，二十四，（此可去肺家积聚之邪。）复大坐伸足，以两手向前，低头扳足十二次。却钩所伸足，屈在膝上，按摩二十四。（此可去心包络间邪气）。复以两手据地，缩身曲脊，向上十二举。（此可去心肝二经积邪）。复以起立据床，拔身向背后视，左右各二十四。（此可去肾间风邪）。复起立徐行，两手握固，左足前踏，左手摆向前，右手摆向后；右足前踏，右手摆向前，左手摆向后，二十四。（此可去两肩俞之邪）。复以手向背上相捉，低身徐徐宛转，二十四。（此可去两肋之邪）。复以足相扭而行，前进十数步，后退十数。复高坐伸足，将两足扭向内，复扭向外，各二十四。（此两条，可去两膝两足间风邪）。行此十六节讫，复端坐垂帘，握固冥心，以舌舐上腭，搅取华池神水漱三十六次，作啯啯声咽下，复闭气，想丹田之火自下而上，遍烧身体内外，蒸热乃止。\n（愚按：老子导引四十二势，婆罗门导引十二势，赤松子导引十八势，钟离引八势，胡见素五熟导引法十二势，在诸法中颇为妙解。然撮其功要，不过于此。学者能日行一二遍，久久体健身轻，百邪皆除，不复疲倦矣）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 103,
+      "source_path": [
+        "卷上",
+        "十二段動功"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "89273ad7f1c0f55dee81ff6f365b81e4e3b4d2dc3862b20179d65002f2de76d7",
+      "content_sha256": "4994e18fe8ca0eebace5e3f9d66baed03ebc8e7cd98977f1344935dce20b4eaa",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1462,
+        "simplified_codepoints": 1462
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "378d8489030545b69b133e7e",
+      "title": "四时摄生篇",
+      "volume": "卷上",
+      "content": "凡人在气交之中，呼吸出入皆接天地之气。故风寒暑湿，四时之暴戾，偶一中人，壮者气行自愈，怯者则留而为病。宜随时加摄，使阴阳中度，是谓先几防于未病。\n春风阳气闭藏于冬者，渐发于外，故宜发散以畅阳气。《内经》曰：春三月，此谓发陈，天地以生，万物以荣。夜卧早起，广步于庭。被发缓形，以使志生。生而勿杀，予而勿夺，赏而勿罚。此春气之应，养生之道也，逆之则伤肝，夏为寒变。故人当二月以来，摘取东引桃枝并叶各一握，水三碗，煎取两碗，空心服之，即吐却心膈痰饮宿热。春深稍宜和平将息，绵衣晚脱，不可令背寒，寒即伤肺，鼻塞咳嗽。如觉热即去之，冷则加之、加减俱要早起之时。若于食后日中，防恐感冒风寒。春不可衣薄，令人伤寒霍乱，消渴头痛。春冻未泮，衣欲下厚而上薄。\n夏三月，人身阳气发外，伏阴在内，是精神疏泄之时，特忌下利以泄阴气。《内经》曰：夏三月，此谓蕃秀，天地气交，万物华实。夜卧早起，无厌于日，使志无怒，使英华成实，使气得泄，若爱在外，此夏气之应，养长之道也。逆之则伤心，秋为痎疟。故人常宜宴居静坐，节减饮食嗜欲，调和心志。此时心旺肾衰，精化为水，至秋乃凝，尤须保啬以固阴气。常宜食热物，使腹温暖，如爪果、生冷、冰水、冷淘、豆粉、蜂蜜，尤不可食，食多秋时必患疟痢，勿以冷水沐浴并浴面及背，使人得虚热目病，筋脉厥逆，霍乱阴黄等疾。勿当风卧，勿眠中令人扇，汗出毫孔开，风邪易入，犯之患风痹不仁，手足不遂，言语蹇涩。年壮或不即病，已种病矣。气衰者，未有不桴鼓相应者。酒后尤当禁之。\n秋三月，阳气当敛，不宜吐及发汗，犯之令人脏腑消烁。《内经》曰：秋三月，此谓容平，天气以急，地气以明，早卧早起，与鸡俱兴，使志安宁，以缓秋形。收敛神气，使秋气平，无外其志，使肺气清。此秋气之应，养收之道也，逆之则伤肺，冬为飧泄。若知夏时多食瓜果凉物，宜以童便二碗，大腹槟榔五枚，细切水煎八分，生姜汁一分，和雪水三分，作两空早服。泻两三行，一夏所食冷物及膀胱宿水，悉为驱逐，不能为患。虽老年者亦宜服。如小心加慎饮食者，可不必也。泻后以薤白粥同羊肾空心服之，胜如补剂。\n冬三月，天地闭，气血藏，伏阳在内，心膈多热，切忌发汗以泄阳气。《内经》曰：冬三月，谓之闭藏，水冰地坼，无扰乎阳。早卧晚起，必待日光，使志若伏若匿，若有私意，若己有得。去寒就温，无泄皮肤，使气亟夺。此冬气之应，养藏之道也，逆之则伤肾，春为痿厥。故人当服浸酒药以迎阳气，虽然亦不可过暖，绵衣当晚著，使渐渐加厚，即大冷不宜向火烘炙，恐损目，且手足心能引火入内，令人心脏燥，血液耗。衣服亦不太炙，冬月天寒，阳气内藏，若加以炙衣重裘，向火醉酒，则阳太甚矣，如遇春寒，闭塞之久，不与发散，至春夏之交，阴气既入，不能摄运阳气，致有时行热症，甚而谵妄狂越，皆由冬月不善保阴之故。务宜自爱，寒热适中，此为至要，乃摄生之大法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "卷上",
+        "四時攝生篇"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "ac3e7a53df82797f45601c769267f414fa75683ee603a02d3686f587ba076da6",
+      "content_sha256": "ff7eaa8867ea1ae618ad50f677d976c298575ac3682c7489a5988dde3b7db486",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1166,
+        "simplified_codepoints": 1166
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "0e7a921a4570ffb882965e37",
+      "title": "十二时无病法",
+      "volume": "卷上",
+      "content": "洁一室穴南牖，八窗通明，勿多陈列玩器，引乱心目。设广榻长几各一，笔砚焚楚，旁设小几一，挂字画一幅，频换。几上置得意书一二部，古帖一本，香炉一，茶具全。心目间常要一尘不染。\n丑寅 时，精气发生之候，勿浓睡，拥衾坐床，呵气一二口，以出浊气。将两手搓热，擦鼻两旁及熨两目五七遍；更将两耳揉卷，向前后五七遍，以两手抱脑，手心恰掩两耳，用食指弹中指，击脑后各二十四，左右耸身，舒臂作开弓势五七遍；后以两股伸缩五七遍；叩齿七七数；漱津满口，以意送下丹田，作三口咽。清五脏火，少息。\n卯 见晨光，量寒温穿衣服，起坐明窗下，进百滚白汤一瓯，勿饮茶，栉发百下，使疏风散火，明目去脑热。盥漱毕，早宜粥，宜淡素，饱摩腹，徐行五六十步。取酒一壶，放案头，如出门先饮一二杯。昔有三人，皆冒重雾行，一病一死一无恙。或问故，无恙者曰我饮酒，病者食，死者空腹。是以知酒力辟邪最胜。不出门或倦，则浮白以助其气。\n辰巳 二时，或课儿业，或理家政，就事欢然，勿以小故动气。杖入园林，督园丁种植蔬果，芟草灌花莳药。归来入室，闭目定神，咽津约十数口。盖亥字以来，真气至，巳午而微，宜用调息以养之。\n午 餐量腹而入，食宜美。美非水陆毕具，异品殊珍。柳公度年八十九，尝语人曰：我不以脾胃熟生物，暖冷物，软硬物。不生、不冷、不硬，美也。又勿强食，当饥而食，食勿过饱，食毕起行百步。摩腹又转手摩肾堂令热，使水土运动，汲水煎茶。饮适可，勿过多。\n未 时就书案，或读快书，怡悦神气，或吟古诗，畅发悠情。或知己偶聚，谈勿及阃，勿及权势，勿臧否人物，勿争辨是非，当持寡言养气之法。或共知己闲行百余步，不衫不履，颓然自放，勿从劳苦殉礼节。\n申 时点心，用粉面一二物，或果品一二物，弄笔临古帖，抚古琴，倦即止。\n酉 时宜晚餐勿迟，量饥饱勿过，小饮勿醉，陶然而已。《千金方》云：半醉酒，独自宿，软枕头，暖盖足。言最有味。课子孙一日程，如法即止，勿苛。\n戌 时篝灯，热汤濯足，降火除湿，冷茶漱口，涤一日饮食之毒。默坐，日间看书得意处，复取阅之，勿多阅，多伤目，亦勿多思。郑汉奉曰：思虑之害，甚于酒色。思虑多则心火上炎，火炎则肾水下涸，心肾不交，人理绝矣。故少思以宁心，更阑方就寝。涌泉二穴，精气所生之地，寝时宜擦千遍。榻前宜烧苍术诸香，以辟秽气及诸不详。\n亥子 时，安睡以培元气，身必欲侧，屈上一足。先睡心，后睡眼，勿想过去、未来、人我等事。惟以一善为念，则怪梦不生，如此御气调神，方为自爱其宝。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 125,
+      "source_path": [
+        "卷上",
+        "十二時無病法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "40d6a099d32469da8f0837e1edfb1ffbbc4afe6b4a3d1e500e9944a2c7f04964",
+      "content_sha256": "4dc6636fa46dad2fc37e4f504cd9984bb5a4931697b2f0c0b16baae180150435",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1015,
+        "simplified_codepoints": 1015
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "4603390afdf26f898b55b9a0",
+      "title": "静功六字却病法",
+      "volume": "卷上",
+      "content": "六字出息，治病之旨。常道从正，变道从权。\n嘘 应肝 春行之 肝病行之\n呵 应心 夏行之 心病行之\n呼 应脾 四季行之 脾病行之\n呬 应肺 秋行之 肺病行之\n吹 应肾 冬行之 肾病行之\n噫 应三焦 热病行之\n上六字诀，《道藏玉轴经》云：言世人五脏六腑之气，因五味熏灼，又被七情六欲所乱，积久成患，以致百骸受病。故太上悯之，以六字气诀，治五脏六腑之病。其法行时宜静室中，暖帐厚褥，盘足趺坐，将前动功略行一次。初学静功，恐血脉不利，故先行动功，后及静功。若七日后，不必行动功。行动功毕，即闭固耳目口齿，存想吾身。要身似冰壶，心如秋月，良久待其呼吸和，血脉定，然后口中微放浊气一二口，然后照前节令行之。\n假如春月，须低声念嘘字，不可令耳闻。闻即气粗，粗恐气泄耳。放嘘字气尽，即以鼻收清气，入于本经，仍及丹田。一收一放，各二十四，或三十六。余仿此。乃时令运行之常道也。\n假如秋月患目疾，应乎肝，当行嘘字。又如春患虚黄，当行呼字，此乃权变病应之法也。\n独肺部之疾，肺本主气，不得行此法。宜专行咽津功夫，降火甚捷。\n（凡修此道，须择子日子时起首，二十七日为期。如耳聋、虚劳、臌膈之症，顿然自愈。行之既久，腹中自闻漉漉有声，内视自有一种景象，百病除而精神充矣。至于炼精化气，烁气化神，炼神还虚，则又向上功夫；兹不具述。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 136,
+      "source_path": [
+        "卷上",
+        "靜功六字卻病法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "8e1237135952e7a0594f2fd436c9109fefd93b93c18bb662055677eea1bad54e",
+      "content_sha256": "9f5b8305ea3f9b42becf063043754436720356ee1d8011cf490c2f3cc439d0a1",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 552,
+        "simplified_codepoints": 552
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "3741072f85223fc4bff2ae17",
+      "title": "念六字口诀歌",
+      "volume": "卷上",
+      "content": "肝若（嘘）时目睁开，肺如（呬）气双手擎，心（呵）顶上连叉手，肾（吹）抱取膝头平，脾病（呼）时须撮口，三焦客热卧（嘻）宁。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 149,
+      "source_path": [
+        "卷上",
+        "念六字口訣歌"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "100cae35e7ed69fa45116f260e669c42e68d72a0712780532dd29f6453a6f7d9",
+      "content_sha256": "1eae20b264e7e056bd10b2fd8b356509b723ba4f2b82a1e680436867e576e7de",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        150
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "30194ea2a54db3bfebd76635",
+      "title": "四季却病六字决",
+      "volume": "卷上",
+      "content": "春（嘘）明目大扶肝，夏至（呵）心火自闲，秋（呬）定知肺金润，冬（吹）惟令肾中安，三焦（嘻）却除烦热，四季常（呼）脾化餐。切忌出声闻口耳，其功尤胜保神丹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 151,
+      "source_path": [
+        "卷上",
+        "四季卻病六字決"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "0302fcbcbdefd8a9670a1cf0b1084f88d27e2e5a6bdf0c67c922e5930f79ee74",
+      "content_sha256": "54b3243515f8512982a329a3a53bd4e2f7e79cdd430a760b1bc36fe80a88258a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        152
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 76,
+        "simplified_codepoints": 76
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "67df4cd9b8d070e58dae1be5",
+      "title": "调息",
+      "volume": "卷上",
+      "content": "调息一法，贯彻三教。大之可以入道，小用亦可以养生。静功之最上一乘法也，故迦文垂教，以视鼻端白数出入息，为止观初门。庄子《南华经》曰：至人之息以踵大易。随卦曰：君子以向晦入宴息。王龙溪曰：古之至人，有息无睡，故曰向晦入宴息。宴息之法，当向晦时，耳无闻，目无见，四体无动，心无思虑，如种火相似。元天元神元气，停育相抱，真意绵绵。老子曰绵绵若存是也。其开合自然，与虚空同体，故能与虚空同寿也。世人终日营营，精神困败，借此夜间一睡，始彀日间之用。不能调之，一点光明，尽被后天尘浊所蔽，是谓阳陷于阴也。\n调息之法，不拘时候，平身端坐，解衣缓带，务令适然，口中舌搅数次，微微吐出浊气，不令有声，鼻中微微纳之，或三五遍，二七遍。有津咽下，叩齿数通，舌抵上腭，唇齿相著，两目垂帘，令胧胧然，渐次调息，不喘不粗，或数息出，或数息入。从一至十，从十至百，摄心在数，勿令散乱，如心息相依，杂念不生，则止勿数，任其自然，坐久愈妙。若欲起身，须徐徐舒放，手足勿得遽起，能勤行之，静中光景，种种奇特，直可明心见性，不但养身全生而已。出入绵绵，若存若亡，神气相依，是为真息，息息归根，自能夺天地之造化，长生不死之妙道也。\n苏子瞻《养生颂》云：已饥方食，未饱先止，散步逍遥，务令腹空。当腹空时即便入室，不拘昼夜，坐卧自便，唯在摄身。使如木偶，常自念言，我今此身，若少动摇，如毫发许，便坠地狱，如商君法，如孙武令，事在必行，有死无犯。又用佛言及老子曰：视鼻端白数出入息，绵绵若存，用之不勤，数至数百，此身寂然，此身兀然，与空虚等，不烦禁制，自然不动。数至数千，或不能数，则有一法，强名曰：随与息俱出，复与俱入，随之不已。一旦自住，不出不入，忽觉此息从毛窍中八万四千，云蒸雨散，无始以来，诸病自除，诸障自灭，定能生慧，自然明悟。譬如盲人忽然有眼，此时何用求人指路！是故老人言尽于此。\n小周天法：先将身心澄定，面东趺坐，平坐亦可，但前膝不可低，肾子不可著物。呼吸和平，以手作三昧印，掐无名指，右掌加左掌上，按于脐下，叩齿三十六通，以集心神，赤龙搅海，内外三十六遍。赤龙，舌也；内外，齿内外也。双目随舌运转，舌抵上腭，静心数息，三百六十周天毕，待神水满，漱津数遍，用四字诀。（摄提谷道，舌抵上腭，目闭上视，鼻吸莫呼。）从任脉撮过谷道，到尾闾，以意运送，徐徐上夹脊中关，渐渐速些，闭目上视，鼻吸莫呼，撞过玉枕（颈上脑后骨），将目往前一忍，直转昆仑（头顶），倒下鹊桥（舌），分津送下重楼入离宫（心也），而至气海（脐下穴也）。略定一定，复用前法，连行三次，口中之津，分三次咽下，所谓天河水逆流也。静坐片时，将手左右擦丹田一百八下，连脐抱住，放手时，将衣被脐腹间围住，勿令风入。（古所谓养得丹田暖暖热，此是神仙真妙法）。次将大指背擦热，拭目十四遍，去心火，擦鼻三十六遍，润肺；擦耳十四遍，补肾；擦面十四遍，健脾。两手掩耳鸣天鼓，徐徐将手往上，即朝天揖，如是者三，徐徐呼出浊气四五口。鼻收清气，两手抱肩，移筋换骨数遍，擦玉枕关二十四下，擦腰眼（即肾堂）一百八下，擦足心（即涌泉）各一百八下，谓之一周。久久行之，精神强旺，百病不生，长生耐老。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 153,
+      "source_path": [
+        "卷上",
+        "調息"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "6d190c1e109068d52898c4c9aee9002579586bca30f8f96357f68f2e2975f57b",
+      "content_sha256": "daea825d199d279a29a76791261443437bd09ef5567488a4fa899ef6c1224396",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        154,
+        155,
+        156,
+        157
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1295,
+        "simplified_codepoints": 1295
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "409a2b31948a627081c88e7b",
+      "title": "清心说",
+      "volume": "卷上",
+      "content": "夫既行运气功夫，又加以动功，再及静功，则胸膈舒泰，气血流行，宿疾沉疴，为之顿去。但此心不清，或预料将来，或追悔已往，或为钱财，或为声色，或为意气，种种妄想，缠绵纠结，杂乱其心，则欲火内生，气血复乖，前功尽废矣。病者于是时当自想曰：向者我病笃时，九死一生，几为尘下之土，无复立人间世矣。今幸得再生，此余生也。声色货利，皆身外之余物，至于意气争执，尤觉无谓。儿孙自有儿孙福，更无纤毫牵挂。一切世味淡然漠然，但得自在逍遥，随缘度日足矣。即此却病之方，即此延年之药，又曰：钱财所以养生，若贪取之，必致伤生，声色所以悦心，若过恋之，必致损身；意气所以自高，若争竞之，反取自辱；酒肉所以适口，若沉酣之，反能为害。故曰：酒色财气伤人物，多少英雄被他惑，若能打退四凶魔，便是九霄云外客。\n又曰：一人之身，一国之象也。胸臆之间，犹宫府焉；肢体之位，犹郊境焉，骨节之分，犹四衢焉；血脉之道，犹百川焉；神犹君也；精犹臣也；气犹民也。故至人能理其身，犹人君能治其国。爱民安国，爱气全身。民弊国亡，气衰身谢。故善养生者，先除六害。一曰薄名位，二曰廉货财，三曰少色欲，四曰减滋味，五曰屏虚妄，六曰除嫉妬。如六者尚存，不能自禁，即真经空念，其如衰朽，安得挽乎！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 158,
+      "source_path": [
+        "卷上",
+        "清心說"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "b2297612e1ee523302e54cfceba67ba7782b27e98790de1a58c12b8a668b5164",
+      "content_sha256": "0ddb679a9f78409bf07c4da66319ad74dc9a2b5848b7ad87e28c459d73fd56d8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        159,
+        160
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 515,
+        "simplified_codepoints": 515
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "53676dccec263b6074d60dcc",
+      "title": "修养余言",
+      "volume": "卷上",
+      "content": "孙真人曰：人年四十以上，勿食泻药。人有所怒，血气未定，若交合，令人发痈疽。\n远行疲乏入房，成五劳，少子。忍小便膝冷成淋。忍大便成气痔。水银不可近阴，鹿豕二脂不可近阴，皆令人阴痿。养生者，发宜多梳，面宜常擦。目宜常运，耳宜常筌。\n舌宜抵腭。齿宜常叩。津宜常咽，背宜常暖，胸宜常护，腹宜常摩。谷道宜常撮，足宜常擦涌泉。一身皮肤，宜常干浴。大小便，宜咬齿勿言。又须省多言，省笔札，省交游，省妄想。所一息不可省者，居敬养心耳。饥勿过饱，饱食成癖病。饱食夜卧失覆，多霍乱。时病瘥，勿食脍，成痢。食脍勿食乳酪，成虫病。食兔肉勿食姜，成霍乱。勿食父母本命所属之肉，欲令寿永。勿食自己本命所属肉，欲令魂魄安宁。勿食一切脑，恐损神。勿食盘面上众人先用物。成结气。凡食毕漱口数过，令人齿固。凡食皆熟胜生，少胜多。春天不可衣薄，令伤寒霍乱。湿衣汗衣勿著，令发疮疡。夜卧头勿向北，并勿近火炉，恐损目。夜卧常习闭口，开则气耗，又恐异气入口，慎之。凡入梦魇，不得燃灯唤之，亦不可近而急唤。夜梦恶勿说，旦起口含凉水，向东噀之，咒曰：恶梦著草木，好梦成珠玉。即解。凡梦善恶勿说获吉。居处切防令有小隙，小隙之风最劣，勿忍急避。凡在家在外，忽遇大风大雨，震雷昏雾，必是诸煞鬼神经过，宜入室闭户，烧香恭默，过后乃出，否则恐招损获咎。《琐碎录》云：卧处不可以首近火，恐伤脑，亦不可当风，恐患头风。背受风则嗽，肩受风则臂疼。善调摄者，虽盛暑不当风及坐卧露下。\n又云：戒酒后语，忌食时嗔，忍难忍事，怒不明人，口腹不节，致病之因，念虑不正，杀身之本。\n又曰：酒不顾身，色不顾病，财不顾亲，气不顾命。当其未值，孰不明知，亦能劝人，及到自临其境，仍复昏迷，当此之时，再思猛省。\n《杨廉夫集》有路逢三叟词云：上臾前致词，大道抱天全；中叟前致词，寒暑每节宣；下叟前致词，百岁半单眠。尝见后山诗中一词亦此意，盖出应璩，璩诗曰：昔有行道人，陌上见三叟，年各百岁余，相与锄禾莠。往前问三叟，何以得此寿？上叟前致词，室内姬粗丑，二叟前致词，量腹节所受；下叟前致词，夜卧不覆首。要哉三叟言，所以能长久。\n保养之道，无过在于平日饮食男女之间，能自节爱，即是省身修德。若恣肆无忌，即是过恶，潜滋暗长，甚则疾病应之。虽因风寒外感，或缘内伤七情，实由人违犯圣教，以致魂魄相离，精神失守，肌体空疏，百骸不遂，风寒邪气，得以中入。若有德者，虽处幽暗，不敢为非，虽居荣禄，不敢为恶，量体而衣，随分而食，虽富贵不敢恣欲，虽贫贱不敢强求，是以外无残暴，内无疾病也。盖心内澄，则真神守其位；气内定，则邪秽去其身。行欺诈，则神昏；行争竞，则神沮。轻侮于人，必减算；杀害于物，必伤年。行一善则神魂欢，作一恶则心气乱。人能宽泰自居，恬淡自守，则形神安静，灾病不生，福寿永昌，由兹伊始。\n人之遘疾者，始于心，忘其身，而病生，继则过患其身，而病不去。忘身者，在康强时，不择味而饱，不择风而裸，不择时而色，不择醒而醉，不择里而趋，不择性而喜怒哀乐。故病乘吾所弗备，即至也，悔无及。\n夫人之涕唾便溺也，必有气焉以充之而后出，草木之华，鸟兽之羽毛也，亦必有脉焉以贯之而后荣，是故气脉之贵乎养也。\n已上诸仙垂训，皆却病良方，延年妙快，虽非金丹大旨，然由此而进，未尝不可以入道也。嗣有大周天三炼要旨。容图灾木，就正宇内。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 161,
+      "source_path": [
+        "卷上",
+        "修養余言"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "eae827ffa9d11c34f2cf9f30c6dfb89c2bbc4b6c1bae472484f75d133d86e079",
+      "content_sha256": "b6352055790f13e800e2c301f910086209f1041062527ddfaf4a6d5dc1de1e32",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1358,
+        "simplified_codepoints": 1358
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "61063d326dd6e31261d0fff1",
+      "title": "服药须知",
+      "volume": "卷下",
+      "content": "夫病之所由来，因放逸其心，逆于生乐，以精神殉智巧，以忧患殉得失，以劳苦殉礼节，以身世殉财利。四殉不置，心为之病也。极力劳形，躁暴气逆，当风饮酒，食嗜辛咸，肝为之病矣。饮食失节，温凉失度，久坐久卧，大饱大饥，脾为之病矣。呼叫过常，辨争陪答，冒犯寒暄，恣食酸咸，肺为之病矣。久坐湿地，强力涉远，纵欲劳形，三田漏溢，肾为之病矣。五病即作，故未老而羸，未羸而病，病至则重，重则必毙。呜呼！是皆弗思而自取之也。今既病矣，而后药之，得非临渴掘井乎！然必以慎起居，戒暴怒，简言语，清心寡营，轻得失，收视听，节饮食，忌肥浓、炙煿、生冷。凡食勿顿而多，任可少而频，食不欲急，急则伤脾，法宜细嚼缓咽，勿太热，勿太冷，又不得杂，杂则物性或有相反，则脾与胃不大可虑哉！苟能慎之，服药自效。设仍率性任情，不守戒忌，岂特药力无功，而其疾更剧矣，是不可不慎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 173,
+      "source_path": [
+        "卷下",
+        "服藥須知"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "ccf97e991e465c0f3502e8b0f1b8ac1aa9251e11fbe71ca828d82085af655682",
+      "content_sha256": "69e5c5a0ac23e21d1d8ee938aff38e86334f3dfe8eae97afdec6355723b54f7b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        174
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 364,
+        "simplified_codepoints": 364
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "56190698612f8f5d04bb133d",
+      "title": "煎药有法",
+      "volume": "卷下",
+      "content": "慎用水。按方书所载。\n长流水 即千里水，但当取其流长而来远耳。不可泥于千里之外者，以取其来远通达。用以煎治手足四肢病，及通利二便之药也。\n急流水 湍上峻急之流水也，以其急速而达下，取以煎利二便及足胫之风湿药也。\n顺流水 其性顺而下流，故亦取治下焦腰膝之病，及二便之药也。\n逆流水 慢流洄澜之水也，以其逆而倒流，取其调和发吐痰饮之药也。\n半天河水 即长桑君授扁鹊饮以上池之水，乃竹篱藩头管内所盛之水也，取其自天而降，未受下流重浊之气，故可以炼还丹、调仙药之用。\n春雨水 立春日，空中以器盛接之水，其性始得春升生发之气，可以煎补中气及清气不升之剂。古方谓妇人无子者，于立春日清晨，以器盛空中之雨水，或是日百草晓露之水，夫妻各饮一杯，还房当即有孕，取其资始资生，发育万物之意耳。\n秋露水 其性禀收敛肃杀之气，取煎祛祟之药，及调敷虫疥癣疮风癞之用。\n井华水 清晨井中第一汲者，其天一真元之气浮结水面，取煎滋阴之剂及修炼丹药之用。\n新汲水 井中新汲未入缸瓮者，取其无所混浊，用以煎药为洁。\n甘澜水 以器盛水，又以器扬濯之，使其珠沫盈于水面，约以百次为度，取其性变温柔，能理伤寒阴症。\n潦水 即无根水，山谷中无人处，新坎中水也，取其性止而不流，且有土气，清者可煎调脾胃补中气之剂。\n冬霜水 阴盛则露结而为霜，霜能杀物，性随时异也。解酒毒，治热病。收霜法，鸡羽刷，贮瓶密封候用，一方治寒热症，秋霜一钱，热酒送下，奇效如神。\n腊雪水 冬至后第三戊为腊，其水解时疫丹石毒。煎茶煮粥，止消渴，洗目赤如神，及调和杀虫药用。\n阴阳水 即生熟水，新汲水合百沸汤，和匀是也。入烧盐饮之，消醉饱过度。霍乱肚胀者，饮一二升，吐出痰食即痊。凡霍乱呕吐，不能令纳食，其势危者，先饮数口即定。\n菊英水 蜀中有长寿源，其源多菊花，而流水皆菊花香，居人饮其水者，寿皆二三百岁。故渊明好植菊花。日采其华英浸水烹茶，期延年也。夫《本草》虽有诸水之名，而未及其用，今特表而出之。\n按《千金方》云：煎人参须用流水，用止水即不验。今甚有宿水煎药，不惟无功，恐有虫毒，阴气所侵，益蒙其害。即滚汤停宿者，浴面无颜色，洗身成癣。已上诸水，各有所宜，临用之际，宜细择焉。\n慎火候，按方书所载。\n桑柴火 桑木能利关节，养津液，得火则良。《抱朴子》云：一切仙药，不得桑煎不服。桑乃箕星之精，能助药力，除风寒痹痛。久服不患风疾故也。\n栎炭火 宜煅炼一切金石之药，以其坚也。\n金粟火 即粟米壳也，煅炼丹药用。\n烰炭火 宜烹煎焙炙百药丸散。\n白炭 误吞金银铜铁在腹，烧红急为末煎汤呷之，甚者刮末一钱，井水调服，未效再服。又解水银轻粉毒。\n石炭 今西北所烧之煤即是，不入药用。\n芦荻火 竹火 宜煎一切滋补药。\n按火有文武。从容和缓，不疾不徐，文火也。恐炽焰沸腾，则药汁易涸，气味不全耳，并用纸蘸水封器口煎之。如煎探吐痰饮之剂，当用武火，取其急速而发吐之也。\n慎煎器。必用砂铫瓦罐。如富贵家，净银之器，煎之更妙。切忌油秽腥气，铜、锡、铁锅。或煎过他药者，必涤洁净。器口用纸蘸水封之。\n慎煎药之人。有等鲁莽者，不按水火，率意煎熬，或药汁太多而背地倾藏，或过煎太少而私搀茶水，供应病人，惟图了事。必择谨慎、能识火候者，或亲信骨肉，按法煎造。其去渣必用新绢滤净，取清汁服。\n慎服药。凡病在胸膈以上者，先食而后药；病在心腹以下者，先药而后食；病在四肢血脉者，宜饥食而在旦；病在骨髓者，宜饱食而在夜。在上不厌频而少，在下不厌频而多。少服则滋润于上，多服即峻补于下，其药气与谷气不欲相逢，食气下则服药，药气退则进食，有食前食后服，宜审此意。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 175,
+      "source_path": [
+        "卷下",
+        "煎藥有法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "c77cda25398c8e11c8ece72946712616fe44a33ecdbbd6c92fe95f72ddf32d6f",
+      "content_sha256": "f33b4b28bd8a56e6b6934f3b423a1858c8de70f290db1e3fd3f4d9570f64da68",
+      "paragraph_count": 29,
+      "paragraph_ordinals": [
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1477,
+        "simplified_codepoints": 1477
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "20d454d13949d5b143606f39",
+      "title": "服药忌食",
+      "volume": "卷下",
+      "content": "凡服药，不可杂食肥腻、鱼酢、陈羹、犬豕诸肉，及胡荽、生蒜、葱韭、生菜、瓜果、生冷、滑滞之物。并忌见死尸、产妇、淹秽等事。\n有苍术 忌桃、李、雀肉、青鱼、蛤、菘菜。\n有黄连、胡黄连 豕肉、冷水并忌。\n有甘草 忌豕肉、海菜、菘菜。\n有桔梗、远志、乌梅 忌豕肉、冷水、生葱。\n有地黄、何首乌 忌一切血、葱、蒜、菜菔。\n有半夏、菖蒲、补骨脂 忌羊肉、饴糖。\n有细辛、常山 忌生菜、生葱。\n有丹参、茯神、茯苓 忌一切酸味物并醋。\n有牡丹皮 忌胡荽、蒜。\n有仙茅、牛膝 忌牛乳、羊肉。\n有苍耳 忌豕肉\n有吴茱萸 忌豕心、肺、豕肉、慈姑。\n有荆芥 忌河豚，一切鱼蟹。\n有二冬 忌鲤鱼、鲫鱼。\n有鳖甲 忌苋菜。\n有泽泻 忌海蛤。\n有枸杞、萆薢 忌牛肉、牛乳。\n有肉桂、蜂蜜 忌葱。\n有厚朴、蓖麻 忌炒豆。\n有巴豆 忌冷水。\n有薄荷 忌鳖肉。\n有紫苏、丹参、龙骨 忌鲤鱼。\n有商陆 忌犬肉。\n有当归 忌湿面。\n有附子、乌头、天雄 忌豉汁、稷米。\n有土茯苓、威灵仙 忌茶、面汤。\n有阳起、云母、钟乳、矾石、硇砂 并忌羊血。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 205,
+      "source_path": [
+        "卷下",
+        "服藥忌食"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "288608abba595075318f8739642e79da42274ff11437199aa3cae47b8b749384",
+      "content_sha256": "03f5177e79b6d632c546fc7a0f565e1415598867e63b42261c57677d743a32b9",
+      "paragraph_count": 28,
+      "paragraph_ordinals": [
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 451,
+        "simplified_codepoints": 451
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "b1ba35de712df67c28b7adf2",
+      "title": "饮食禁忌节要",
+      "volume": "卷下",
+      "content": "（不可同食）\n食猪肉 忌姜、羊肝。\n猪肝 忌鱼酢。\n猪心肺 忌饴。\n羊肉 忌梅子、酢。\n羊心、肝 忌椒、笋。\n犬肉 忌蒜、鱼。\n牛肉 忌姜、栗子。\n牛肝、牛乳 忌鱼。\n鸡肉、鸡子 同忌蒜、葱、芥、李。\n鸭子 忌李。\n鹌鹑 忌菌、木耳。\n雀肉 忌李、酱。\n鲤鱼 忌鸡、猪肝、葵菜。\n鲫鱼 忌猪肝、蒜、鸡、糖。\n鱼酢 忌绿豆、酱。\n黄鱼 忌荞麦。\n鲈鱼 忌乳酪。\n鲟鱼 忌干笋。\n蟹 忌柿、橘、枣。\n虾子 忌鸡、豕。\n李子 忌蜜。\n枣 忌葱、鱼。\n韭 忌牛肉、蜜。\n梅子 忌豕肉。\n胡荽、炒豆 忌豕肉。\n苋菜 忌鳖。\n杨梅 忌葱。\n荞麦 忌豕、羊、雉肉、黄鱼。\n黍米 忌牛肉、葵菜、蜜。\n绿豆 忌榧子，能杀人，鱼酢。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 234,
+      "source_path": [
+        "卷下",
+        "飲食禁忌節要"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "9f6b6f3b4a24428cda828c10a97c281d20904d57688df4e5ca127c78d0a81f49",
+      "content_sha256": "1e59f1b8da83a3fde308dbb22bae829373e538e5aa1b3f6647d3be2e90dd6c7d",
+      "paragraph_count": 31,
+      "paragraph_ordinals": [
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 306,
+        "simplified_codepoints": 306
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "2230e717ca63ce8cefe413df",
+      "title": "病有十失",
+      "volume": "卷下",
+      "content": "骄恣率性，不遵戒忌，一也。\n轻命重财，治疗不早，二也。\n听信巫祷，广行杀戮，不信医药，三也。\n讳疾试医，言不由中，四也。\n不善择医，信人毁誉，或从蓍卜，五也。\n急欲速效，旦暮更张，杂剂乱投，六也。\n索即写方，制炮失宜，私自加减，七也。\n侍奉不得人，煎丸失法，怠不精详，八也。\n寝兴不适，饮食无度，九也。\n过服汤药，荡涤肠胃，十也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 266,
+      "source_path": [
+        "卷下",
+        "病有十失"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "fad32a7346da8a72b5f00f0622da13666222d7d48b40611111d0a1505a234f29",
+      "content_sha256": "39b0c3adfcb1e82fbb4b9948cbb631c5a3e5ede9bf899eff8fdbb8dbb4a96930",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "18e9b6b43e9ce01f03148713",
+      "title": "病有八不治",
+      "volume": "卷下",
+      "content": "室家乖戾，处事不和，动成荆棘，一也。\n恣纵慆淫，不自珍重，二也。\n忧思想慕，得失萦怀，三也。\n今日预愁明日，一年营计百年，四也。\n烦躁暴戾，不自宽慰，五也。\n窘若拘囚，无潇洒志，六也。\n怨天尤人，广生懊恼，七也。\n以死为苦，难割难舍，八也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 277,
+      "source_path": [
+        "卷下",
+        "病有八不治"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "61fbd4f2c15a3d2e04aa7cdde8a459d9da1834226846c6f12ba9eea381df937c",
+      "content_sha256": "6890daff4b7fca17410fbf3e832af30ac43cd6b123a9bbd9e6160ac229fdb327",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 120,
+        "simplified_codepoints": 120
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "718d600d0db7354bcd534a6d",
+      "title": "却病十要",
+      "volume": "卷下",
+      "content": "一要静坐观空，万缘放下，当知四大原从假合，勿认此身为久安长住之所，战战以为忧也。\n二要烦恼现前，以死喻之，勿以争长较短。\n三要常将不如我者，巧自宽解，勿以不适生嗔。\n四要造物劳我以生，遇病却闲，反生庆幸。\n五要深信因果，或者夙业难逃，却欢喜领受，勿生嗟怨。\n六要室家和睦，无交谪之言入耳。\n七要起居务适，毋强饮食，宁节毋多。\n八要严防嗜欲攻心，风露侵衣。\n九要常自观察，克治病之根本处。\n十要觅高朋良友，讲开怀出世之言，或对竹木鱼鸟相亲，翛然自得，皆却病法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 286,
+      "source_path": [
+        "卷下",
+        "卻病十要"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "819f5cb5fd24c5c69caceaa0fe54fb4ace8224cf376356ec3815af7396d9549f",
+      "content_sha256": "004c577f44e998431dabae8f85d73ac2262e32997152094171f6481324be5361",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "c65032cfc974c8664de14b87",
+      "title": "病有七失不可治",
+      "volume": "卷下",
+      "content": "病有七失不可治者，失于不审，失于不慎，失于不信，失于怠忽过时，失于不择医，失于不辨药，失于自立意见。应补责医以泻，畏功责医欲补；应针欲艾，应灼欲砭。七者之中，有一于此，即为难治。非止医家之罪，实病家之自误也。矧有医不慈仁，病者猜鄙二理，交驰于病，为害者不少。由是言之，医者不可不慈仁，病者不可多猜鄙，如犯之则招祸。在医者当以救济为心，在病家务以精诚笃挚为念，各尽其极，乃治病求愈之大端也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 297,
+      "source_path": [
+        "卷下",
+        "病有七失不可治"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "f4198d20129f31e1d6a748a40f118e1f84d87fb404a64a314f537e6e693b352e",
+      "content_sha256": "cc205a13fe5d5392235cf1b4930bebd8eaf0b8ecd258ebb455d40215c7ece305",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        298
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 194,
+        "simplified_codepoints": 194
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "fda2e9a47eb055fd4f83fa22",
+      "title": "老人病不同治法",
+      "volume": "卷下",
+      "content": "常见年高疾患，将同少年混投汤药，妄行针灸，务欲速愈。殊不知老年之人，血气已衰，精神减耗，至于视听不至聪明，手足举动不随其志，身体劳倦，头目昏眩，宿疾时发，或秘或泄，或冷或热，皆老人之常也。勿紧用针药，急求痊愈，往往因此别致危殆。且攻病之药，或汗或吐，或解或利。缘衰老之人不同年少，年少者真气壮盛，虽汗吐转利，未致危殆。其老弱者汗之则阳气泄，吐之则胃气逆，下之则元气脱，立致不可救。此养老之大忌也。大率老人药饵，止用扶持，只可温平顺气，进食补虚，中和之剂，不可用市肆购买，他人惠送，未识方味者与之服饵，切须详审。若有宿疾时发，则随其疾状，用和平汤剂调顺，三朝五日，自然痊退，惟是调停饮食，随其食性变馔治之。此最为良法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 299,
+      "source_path": [
+        "卷下",
+        "老人病不同治法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "b6bc2196fc23bcee62b343cb6c71a8892cf95a506b19c3117e97b184cd36cfc5",
+      "content_sha256": "c4e27ab12bf92432a0e0a663daf71550157b0004ee70b168d13e2a9bca414c39",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        300
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 309,
+        "simplified_codepoints": 309
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "65019336a8bbd2db92a672db",
+      "title": "治妇人病有不能尽法之弊",
+      "volume": "卷下",
+      "content": "治妇人疾，有不能尽圣人之法者。今富贵之家，居奥室之中，处帏幔之内，甚又以帛幪手臂，既不能行望色之神，又不能殚切脉之巧，四者有二缺焉。黄帝曰：凡治病察其形气色泽。形气相得，谓之可治，色泽以浮，谓之易已。形气相失，谓之难治，色夭不泽，谓之难已。又曰：诊病之道，观人勇怯，骨肉皮肤，能知其情，以为诊法。若病人脉病不相应，既不得见其形，医者止据脉供药，其可得乎！如此言之，乌能尽其术哉！此医家之公患，世不能革，医者不得不尽理质问，以凭调治。病家见其所问烦逮，意其脉道不精，往往得药不服，似此甚多。扁鹊见齐侯之色，尚不肯信，况其不得见者乎，嗟哉！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 301,
+      "source_path": [
+        "卷下",
+        "治婦人病有不能盡法之弊"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "a5d1890ad121964a1a6d1a064d01f983d600ce1039eb9aec4205ad4876299a25",
+      "content_sha256": "7ecbf05713ec98b316a64b1eee7b5350865282be923e930a4b0d24b6a06d2311",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        302
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 268,
+        "simplified_codepoints": 268
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "19c08cdffbd9a5b62a352b0c",
+      "title": "妄庸议病",
+      "volume": "卷下",
+      "content": "世有病人亲朋故旧，交游来问疾者，其人曾不经一事，未读一方，自夸了了，谈说异端，或言是虚，或言是实，或云是风，或云是气。纷纷缪说，种种不同，使乱病人心意，不知孰是。迁延已久，时不待人，欻然致祸，各自走散。设有明医，识病深浅，探究方书，熟知本草，看病不尔，大误人事，何况妄议者乎！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 303,
+      "source_path": [
+        "卷下",
+        "妄庸議病"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "c513ecca8b546e480e1eb89362fc2cc0eaebf553979c76b8b69f6748356e53d5",
+      "content_sha256": "5463a26e93caca95aa6ac83f2c497f5639e21d38384de3ace7038a9bd6955030",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        304
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 138,
+        "simplified_codepoints": 138
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "c648ab9b9d685fe572e19cb6",
+      "title": "古方无妄用",
+      "volume": "卷下",
+      "content": "鄱阳周顺，医有十全之功，云：古方如《圣惠》、《千金》、《外台秘要》，所论病原脉症，及针灸法，皆不可废，然处方分剂，与今大异，不深究其旨者，谨勿妄用。有人得目疾，用古方治之，目遂突出。又有妇人因产病，用《外台秘要》坐导方，其后反得恶露之疾，终身不瘥。曾有士人得脚弱病，方书罗列，积药如山，而疾益甚。余今悉屏去，但用杉木为桶，盛水濯足，并令排樟脑于两股间，以脚绷系定，月余安健如初。南方多此疾，不可不知。顺固名医，语必不妄，故录于此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 305,
+      "source_path": [
+        "卷下",
+        "古方無妄用"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "4098d1246d9a0429b60fce0727e6e5186473b5e4122e2f6bbf678383a0c5ff28",
+      "content_sha256": "aae80549382155e80047dbd25bd0ddc23059f281ae20e621c2dd0b0340a531b6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        306
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 215,
+        "simplified_codepoints": 215
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "1e695bf6dcb825d37b17fc4b",
+      "title": "草药不可妄用",
+      "volume": "卷下",
+      "content": "《甲志》云：绍兴十九年三月，英州僧希赐，往州南三十里洸口扫塔，有客船自番禺至，舟中士人携一仆，病脚弱，不能行，舟师悯之曰：吾有一药，治此病如神，饵之而瘥者，不可胜计。既赛庙毕，饮胙颇醉，乃入山求得，草渍酒，授病者，今天未明服之，如其言，药入口即呻吟云：肠胃如刀割截痛。迟明而死。士人以咎舟师，舟师恚曰：何有此！即取昨夕所余药，自渍酒服之，不逾时亦死。盖此山多断肠草，人误食之辄死，舟师所取药，为根蔓所缠，醉不暇择，径投酒中，以此致祸。则知草药不可妄用也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 307,
+      "source_path": [
+        "卷下",
+        "草藥不可妄用"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "874c8ff7a6a1a3e0e8d23fa9b701a2dcca1857950952a4493e8999e2ffdc1bc6",
+      "content_sha256": "1c2ec76c93ca92bfbec2ee266dfecca07a52fcfd81bcb400fd11a5a749a75ff9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        308
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 227,
+        "simplified_codepoints": 227
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "61c3a5caa1e416288e464f91",
+      "title": "真菊野菊",
+      "volume": "卷下",
+      "content": "蜀人多种菊，以苗可以菜，花可以药，园圃悉能植之。今人多采野菊供药肆，颇有大误。真菊延龄，野菊杀人。如张华言：黄精益寿，钩吻杀人。形类相似之误，有如此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 309,
+      "source_path": [
+        "卷下",
+        "真菊野菊"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "e90f120622bbee72b1243e6d5d4235841d7a835ea16b519b9fe51b5209a439d2",
+      "content_sha256": "83e643c1405e853b92a7dc2365219aa24556b44dbb89d0f3f769f043870d59e8",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        310
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "48e8dc36e609a77c92408fac",
+      "title": "服饵忌羊血",
+      "volume": "卷下",
+      "content": "服饵之家，忌食羊血，虽服饵数十年，一食则前功尽丧，以其能解药力如此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 311,
+      "source_path": [
+        "卷下",
+        "服餌忌羊血"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "ea541058796b492919cd9ed5fccf12be5645c49dfada756115dca77d0654968f",
+      "content_sha256": "ccf2d0086142d77858ab768bc78d6cded0e5c52423eb28140a6ceeb8ee7167e5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        312
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 34,
+        "simplified_codepoints": 34
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "14d37d7d044e240378b5cded",
+      "title": "论妇人病有不同治法",
+      "volume": "卷下",
+      "content": "孙真人云：宁医十男子，莫医一妇人。以嗜欲多于丈夫，故感病倍于男子。盖其慈恋爱憎，嫉妬忧患，染著坚牢，情不自抑，以此成疾，非外感六气，必内伤七情之所致也。七情之病不可医，诚以情想内结，自无而有，思虑过当，多致劳损。是以释氏称说酢梅，口中水出，想蹈悬崖，足心酸楚，大都如此。若非宽缓情意，改易心志，则虽金丹大药，亦不能已。盖病出于五内，无有已期，药力不可及也。法当令病者存想以摄心，抑情以养性。\n葛仙翁曰：凡妇人病，兼治其忧恚，令宽其思虑，则疾无不愈矣。\n凡人在病中，百念灰冷，虽有富贵，欲享不能，反羡贫贱而健者。人能于平日无病时，作是想头，病从何来！及一切名利、得失、恩怨亦自淡然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 313,
+      "source_path": [
+        "卷下",
+        "論婦人病有不同治法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "8880cd2902b153702b86583ff24ec4c7cf807dd5e11d7ab8ffd181035c7ecad9",
+      "content_sha256": "d0589be647aeb14fdf7964c649eefe695d77ac516cb31d9b2a0872ec4dcda837",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        314,
+        315,
+        316
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 290,
+        "simplified_codepoints": 290
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "167f8824a432638386779d21",
+      "title": "用药例丸散汤膏各有所宜",
+      "volume": "卷下",
+      "content": "药有宜丸宜散者，宜水煎者，宜酒渍者，宜煎膏者，亦有一物兼宜者，亦有不可入汤酒者，并随药性不可过越。汤者，荡也，煎成清汁是也，去大病用之。散者，散也，研成细末是也。丸者，缓也，作为丸粒也，不能速效，舒缓而治之也。\n渍之者，以酒浸药也，有宜酒浸以助其力，如当归、地黄、知母、黄柏，阴寒之气味，假酒力而行气血也。有用药锉细，如法煮酒密封，早晚频饮，以行经络，或补或攻，渐以取效是也。\n细末者，不循经络，止去胃中及腑脏之积，及治肺疾咳嗽为宜。气味厚者，白汤调；气味薄者，煎之，和渣服丸。治下焦之病者，极大而光且圆，治中焦者次之，治上焦者极小，面糊者，取其迟化，直至下焦；或酒取其散；或醋取其收。如半夏、南星及利湿者，以姜汁稀糊丸，取其易化也，汤泡蒸饼，尤易化，滴水亦然。炼蜜丸者，取其迟化而气循经络也。蜡丸者，取其能达下焦，而治肠澼等疾。\n凡修合丸剂，用蜜只用蜜，用饴只用饴，勿相杂用。且如丸药，用蜡取其固护药气，欲其经久不失味力，且过膈关而作效也。今若投蜜相和，虽易为丸，然下咽亦即散化，如何得至肠中？若或有毒药，不宜在上化，岂徒无益，而反为害，全非用蜡之本意。\n凡炼蜜宜先掠去沫，令熬色微黄，试水不散，再熬一二沸作丸，则收潮而不黏成块也。\n冬月炼蜜，炼时要加二杯水为妙，《衍义》云：每蜜一斤，只炼得十二两，是其度数也。和药末要乘极滚时和之，臼内捣千百杵，自然软熟，容易作条，好丸也。\n凡为末，先须细切，晒燥退冷捣之，有宜合捣者，其滋润之药，如天麦冬、生熟地黄、当归辈，先切晒之独捣。或以慢火隔纸焙燥，退冷捣之，则为细末。若入众药，少停回润，则和之不匀也。凡湿药，燥皆大耗蚀，当先增分两，待燥称之乃准。其汤酒中不须如此。\n凡合丸药用蜜，绢令细筛，散药尤宜精细，若捣丸，必于石臼中杵千百过，色理和同为佳。\n凡欲浸酒，皆须细切，上绢袋盛，乃入酒密封，随寒暑日数，视其浓烈，便可漉出，不须待酒尽也。渣则曝燥微捣，更渍饮之，亦可为散服。\n凡合膏子，须令膏少之料先淹浸，先煎其汁，乃下有膏之料，煮时当杖以三上三下，以泄其火气，勿令沸腾，不妨旋取药汁，渣须再煮，务令力尽而已。然后渐渐慢火收厚如饴，加炼蜜，收贮瓷瓶，出火气七日二七日，听用。\n凡煎摩贴之膏，或醋、或酒、或油，须令淹浸，然后煎熬，用杖三上三下，以泄其热势，令药味得出。上之使咂咂沸，下之要沸静，良久乃上之，如有葱白及姜在内，以渐焦为度。如有附子、木鳖者，亦令焦黄，勿令枯黑。滤膏必以新布。\n若是可服之膏，渣亦可酒煮饮之，可摩之膏，渣亦可敷，亦欲兼尽其药力也。\n凡汤膏中，用诸石药皆细研之，以新绢裹之纳中。《衍义》云：石药入散，如朱砂、钟乳之类，用水研乳极细，必要二三日乃已，以水漂澄极细，方可服饵。岂但研细，绢裹为是。\n凡草叶之药，如柏叶、荷叶、茅根、蓟根、十灰散类，必要焦枯，用器盖在地上，出火性，存本性，倘如死灰，则白无效矣。\n凡有脂膏，如桃、杏、麻仁等，须另末，旋次入众味，合研则匀。\n凡汤剂中，用一切完物，俱破壳研之，如豆蔻、苏子、益智、骨脂之类。不则如米之在壳，虽煮之终日，米终不熟。职是故也。\n凡用香燥，如木香、沉香、砂仁、豆蔻，不宜久煎，点泡尤妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 317,
+      "source_path": [
+        "卷下",
+        "用藥例丸散湯膏各有所宜"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "87d8bd34c0255c9e4ff5fc3922cebf0a2fa54fe4a22a75c183e85e9f5abebf66",
+      "content_sha256": "f598b1b58ca8e096b588a8773332a9157a0cd2f338700c7a1775d661422ea82e",
+      "paragraph_count": 17,
+      "paragraph_ordinals": [
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1304,
+        "simplified_codepoints": 1304
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "3f732bbae22c65fa96cd9b92",
+      "title": "药品制度法",
+      "volume": "卷下",
+      "content": "药之制度，食品之调和也。食品之加五味，非调和不能足其味。次药有良毒，不藉修治，岂能奏效？假如芩、连、知、柏，用治头面手足皮肤者，须酒炒，以其性沉寒，借酒力可上腾也。用治中焦，酒洗。下焦生用。黄连去痰火，姜汁拌炒，去胃火，和土炒；治吞酸，同吴茱萸炒。此各从其宜也。大黄用行太阳经，酒浸，阳明经，酒洗。况其性寒力猛，气弱之人，须用煨蒸，否则必寒伤胃也。地黄、知母，下焦药也，用之须用酒浸，亦恐寒胃。地黄用治中风，非姜汁浸炒，恐泥膈也。苦参、龙胆，酒浸者，制其苦寒也。当归、防己、天麻，酒浸者，助发散之意也。川乌、天雄、附子，其性劣，灰中慢慢炮之裂，去皮脐及尖，再以童便浸一宿，制其燥毒也。半夏汤泡七次，南星水浸，俱于腊月冰冻二三宿，去其燥性更妙，用治风痰，俱以姜汁浸一宿。南星治惊痫，以黄牛胆酿阴干，取壮其胆气也。吴茱萸味恶，须汤泡七次。麻黄先煮两沸，去沫，免令人烦闷。山栀仁用泻阴火，炒令色变。水蛭、虻虫、斑蝥、干漆，非烟尽不能去其毒，生则令人吐逆不已。巴豆性最急劣，有大毒，不去油莫用。大戟、芫花、甘遂、商陆，其性亦暴，非妙用峻利不已。苍术气烈，非泔浸经宿，燥性不减。凡用金石并子仁之类，须各另研细，方可入剂。但制度得法，而药能施功矣。余见今人索方入市，希图省俭，不顾有误，不惟炮制失宜，抑且真伪未明，多少不合，全失君臣佐使用药之法。大非求药治病之心，使反力致误，伊谁之咎耶？凡事修合，必须选料制度，一如后法，务在至诚，毋得忽也。用火煅者，必于地上取去火毒为妙。倘随症自有制法，不拘此例。\n人参 去芦，人乳拌蒸。\n生地 酒洗。\n熟地 酒洗，焙。\n二门冬 水润，去心。\n苍术 米泔浸，炒。\n白术 米泔浸，蒸，切片，蜜水拌炒褐色。\n黄耆 蜜炙。\n远志 甘草汤浸透，去梗，焙。\n升麻、柴胡 忌火。\n菖蒲 去须，焙。\n葳蕤 蜜水蒸。\n山药 蒸。\n苡米 炒。\n当归 去根，酒洗。\n二芍 酒拌炒。\n木香 生用理气，煨用止泄。\n甘草 生用泻火，熟用补中。\n石斛 酒浸蒸。\n牛膝、川芎 酒净。\n知母 去毛酒炒。\n五味 嗽生用，补焙用。\n贝母 去心焙。\n紫菀 水净，蜜水焙。\n泽泻 去毛酒焙。\n续断 酒炒。\n甘菊 去蒂。\n车前 酒焙，研。\n萆薢 酒浸，焙。\n苦参 泔水浸，蒸晒。\n白芷 焙。\n防风 去芦并叉者。\n金银花 去枝叶。\n茺蔚子 忌铁。\n麻黄 去根节。\n黄柏 去皮，酒炒。\n黄芩 酒蒸。\n天麻 酒浸，湿纸包煨。\n干葛 生用坠胎，熟解酒毒。\n龙胆 酒炒。\n香附 醋、酒、童便可制。\n何首乌 米泔浸，黑豆蒸。\n桔梗 略焙。\n白豆蔻 去衣微炒。\n草豆蔻 同上。\n白附 炮去皮脐。\n草果 去壳。\n肉豆蔻 面裹煨，忌铁。\n砂仁 去壳炒，研。\n玄胡索、莪术 酒炒。\n三棱 醋炒。\n款冬花 去枝，蜜水炒。\n百部 去心，酒洗，焙。\n旋覆花 去蒂，焙。\n兜铃 水净。\n枳壳 麸炒。\n半夏 姜汤泡，煮透。\n南星 炮去皮脐，冬月研末入牛胆，挂风处。\n蒺藜 酒炒，去刺。\n大黄 酒蒸用。\n天雄、附子 童便浸去皮，切四片，另再用童便加甘草、防风，煮干为度。\n巴戟 酒浸，焙。\n杜仲 酥炙。\n仙茅 泔浸去赤水。\n淫羊藿 羊油拌炒。\n肉苁蓉 酒洗去甲。\n菟丝子 酒煮，打作饼，晒为末。\n补骨脂 酒炒。\n益智 盐水炒研。\n覆盆子 去蒂酒炒。\n骨碎补 去毛蜜蒸。\n狗脊 去毛酒炒。\n商陆 黑豆拌蒸。\n芫花 醋煮，晒。\n大戟 水煮去骨。\n甘遂 面裹煨。\n郁李仁 去皮，研如膏。\n常山 去芦酒炒。\n蓖麻子 去壳。\n续随子 研去油。\n葫芦巴 淘净酒焙。\n牛蒡 酒炒，研。\n桑白皮 蜜水炒。\n山栀子 炒黑。\n干姜 炮。\n厚朴 姜汁炒。\n桃杏仁 汤泡去皮尖研。\n神曲 炒研。\n麦芽 炒。\n莱菔子 炒研。\n白芥子 炒研。\n紫苏子 炒研。\n莲子 去心炒。\n山茱萸 去核焙。\n吴茱萸 去闭口，盐汤泡三次，焙。\n蜀椒 去合口、核，炒。\n诃子 蒸去核，焙。\n青蒿 童便浸一宿，晒。\n枇杷叶 胃病姜汁炙，肺病蜜炙，去毛。\n椿樗白皮 醋炙。\n雷丸 酒蒸去皮。\n蜜蒙花 酒润焙。\n麻仁 炒研。\n扁豆 炒。\n乳香、没药 箬上烘出油，同灯心研之，则能细。\n山楂 去核。\n生姜 去皮热，留皮寒。\n干漆 炒尽烟为度。\n粟壳 醋炒。\n韭子 炒。\n葱、蒜 忌蜜。\n黑白丑 酒蒸研。\n苏合香 酒蒸另研。\n丁香 忌火。\n水蛭、全蝎 炒去毒。\n乌药 酒炒。\n大腹皮 水洗，晒。\n酸枣仁 生醒寐，熟安神。\n柏子仁 炒。\n牡丹皮 酒炒。\n地榆 忌火。\n白芨 略焙。\n决明子 炒研。\n蝉蜕 去翅足，洗。\n斑蝥 去头足翅，同大米炒。\n葶苈子 同米炒。\n连翘 酒炒。\n白僵蚕 米泔浸经宿，待涎浮水面取起，焙干去丝及黑口，研。\n穿山甲 土炙、酒炙，研。\n代赭 煅醋淬，水飞。\n雄黄、朱砂 另研水飞。\n石膏 煅研。\n赤白石脂 火煅研，水飞用。\n自然铜、磁石 煅醋淬九次，细研水飞。\n滑石 研，水飞。\n炉甘石、青礞石、花蕊石、伏龙肝 火煅研，水飞。\n阳起石 火煅，酒淬七次，水飞。\n白矾 煅。\n龙骨 火煅，水飞，酒煮。\n阿胶 蛤粉炒。\n石决明 盐水煮，研，水飞。\n牡蛎 火煅，童便淬，研。\n珍珠 绢包入豆腐中，煮一炷香，研。\n鳖甲 去肋，酥炙。\n鹿茸 烙去毛，酥炙。\n虎胫骨 酥炙。\n五灵脂 酒飞去沙。\n龟甲 酒浸炙。\n墨 火煅，研。\n发 入瓦罐中，盐泥封固，煅存性。\n齿 火煅水飞。\n海螵蛸 炙。\n桑螵蛸 蒸透再焙。\n昆布 水净。\n海藻 水净焙。\n绯丹 汤泡去黄水，炒令紫色，研。\n石硫 用猪大肠盛之，水煮三日夜，以皂角汤淘去黑水，再以紫背浮萍同煮，消其火毒。畏细辛、醋及诸般血。\n香附 醋、酒、童便可制。\n土硫黄辛热腥臭，止可入疮科外治，不堪服饵。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 335,
+      "source_path": [
+        "卷下",
+        "藥品制度法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "d8ca5836963e5245830399201d056637ae20c7a36bc3292ad15c620b6c646268",
+      "content_sha256": "16707aa15def8f0dd68f33cf9d894ef7037ea2aa5624e35eacad983548a30d5f",
+      "paragraph_count": 159,
+      "paragraph_ordinals": [
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2324,
+        "simplified_codepoints": 2324
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "cdf89e2fcc3a91508bb11c8a",
+      "title": "病后调理服食法",
+      "volume": null,
+      "content": "凡一切病后将愈，表里气血耗于外，脏腑精神损于内，形体虚弱，倦怠少力，乃其常也。宜安心静养，调和脾胃为要，防风寒，慎起居，戒脑怒，节饮食，忌房劳，除妄想，是其切要。若犯之，即良医亦难奏功矣。勿以身命等蜉蝣，如灯蛾之扑焰，自损其躯哉！戒之戒之，例次如下。\n初愈务宜衣被适寒温，如太热，发渴，心烦，助虚热；如寒，则又令外邪仍入内。\n伤寒时疫，身凉脉缓，宜进青菜汤，疏通余邪，如觉腹中宽爽，再进陈仓米清汤，以开胃中谷气，一二日后，可进糜粥盏许，日三四次，或四五六次，慎勿太过。或用陈豆豉，或清爽之物过口，或清水煮白鲞，醋点极妙。再渐进活鲫鱼汤调理百日，方无食复劳复等症。\n食后复发热，宜断谷即愈，服调脾胃之剂，切勿用骤补、热药，须从缓处治，能收全功。\n切痛，忌食猪脂、湿面、鸡、羊、腻滞、煎炒等物，犯之复发难治。\n中风后，忌服辛散香燥等药，及猪、羊、鹅、鸡、鱼腥、荞面、蛋，滞气发病等物。\n病后切忌房劳，犯之舌出数寸，死。\n劳嗽发热，水肿喘急，宜淡食，忌盐物。\n疟痢后，忌饱食，及香甜、滑利、诸血之物，生冷、梨、瓜之类。\n痈疽发背，忌同伤寒。\n虚损喘咳骨蒸，忌用大热温补等药，宜服补阴药，培养真元，庶几可也。\n产后切禁寒凉等物，虽在酷暑之日，亦所不宜，世多误用，以致伤生，特为拈出。\n痘疹后，不善调摄，多致危殆，因其忽略保护故也。\n凡病后，如水浸泥墙，已干之后，最怕重复冲激，再犯不救。今具食治方于下，为保身者之助，并利畏服药者，以便于养老慈幼云。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 495,
+      "source_path": [
+        "病後調理服食法"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "f5eac5526f3aba9d947f55c94f18d93c3cbbeb9f4bc3325a783e11bb20d5ae90",
+      "content_sha256": "89a7a209b88c2ec3d9e0452b56a68d67aa0b4ab3a6070489ed7447e11c60ddab",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 620,
+        "simplified_codepoints": 620
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "280837f2079710af2d77e290",
+      "title": "食治秘方",
+      "volume": "病后调理服食法",
+      "content": "客曰：万病皆从口入，如何食反能治病耶？盖草木药石，得五行之偏气，如人之得疾。因五脏有偏胜，则气血有偏倾。故用偏气之药物，治五脏偏胜之气血，使得归其正。然中病则已，不可过焉，过则药又反能生病也。是故饮食，人赖以养者，贪嗜之，所以有万病皆从口入之说，亦犹是耳，且五谷得五行之正气，尚有是说。盖饮养阳气，食养阴气，《内经》言之详矣。五谷为养，五果为助，血气调和，长有天命。何况今人忽而不讲，惟知药可治病，不知饮食起居之间，能自省察，得以却疾延年也，古人食治之方，良有深意，卫生者鉴之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 510,
+      "source_path": [
+        "病後調理服食法",
+        "食治秘方"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "9291aba1a5dbbf24d88a753de41232c283b2f6fe33d8f2c29f4623313bdc0831",
+      "content_sha256": "ff651c1b569a12d563fc0c8c9030ba3d55d668bc7e746e507fc10cd9f362cbd7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        511
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 239,
+        "simplified_codepoints": 239
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "574862217e7714b45503204e",
+      "title": "风门",
+      "volume": "病后调理服食法",
+      "content": "葱粥 治伤风鼻塞，妊娠胎动，产后血晕。\n用糯米煮粥，临熟入葱数茎，再略沸食之。\n羊脂粥 治半身不遂，中风。\n用羊脂入粳米、葱白、姜、椒、豉煮粥。日食一具，十日效。\n苍耳粥 治目暗不明，及诸风鼻流清涕，兼治下血痔疮。\n用苍耳子五钱取汁，和米三合，煮食。\n乌鸡臛 治中风烦热，言语秘涩，或手足发热。\n用乌鸡肉半斤，葱白一握，煮熟。入麻油、盐、豉、姜、椒，再煮令熟，空腹食。\n黄牛脑子酒 治远年近日偏正头风。\n用牛脑一个切片，白芷、川芎末各三钱，同入瓷器内，加酒煮熟，乘热食之，尽量而醉，醉后即卧，卧醒疾若失。\n猪胰酒 治赤白癜风。\n用猪胰一具，酒浸一时，饭上蒸熟食。不过十具愈。\n又方 白煮猪肚一枚，食之顿尽，三个愈。切忌房事、",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 512,
+      "source_path": [
+        "病後調理服食法",
+        "風門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "3b934b90b337b7e0773d084b1475d16473747eea4d3cb015944af972211fa63b",
+      "content_sha256": "a2bb351bcb0d75f261113e4b5c70854c22f135816a94cf773aa722200b732756",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 312,
+        "simplified_codepoints": 312
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "777f98e302da8cb39aec5352",
+      "title": "寒门",
+      "volume": "病后调理服食法",
+      "content": "干姜粥 治一切寒冷，气郁心痛，胸腹胀满。\n用白米四合，入干姜、良姜各一两，煮食。\n生姜煎 治反胃羸弱。\n生姜切片，麻油煎过为末，煮粥调食。\n生姜酒 治霍乱转筋，入腹欲死，心腹冷疼。\n生姜三两捣，陈酒一升，煮两三沸服，仍以渣贴疼处。\n生姜醋浆 治呕吐不止。\n生姜一两，醋浆两合，银器煎取四合，连渣嚼呷。又杀腹内长虫。\n茱萸粥 治心气痛不止，胸腹胀满。\n用吴茱萸二分，和米煮粥食之。\n又方 川椒茶（治同上）。\n丁香熟水 治亦同上。\n丁香一二粒打碎，入壶倾滚水在内，其香勃然，大能快脾利气，定痛辟寒。\n肉桂酒 治感寒身体疼痛。\n用辣桂末二钱，温酒调服。腹痛泄泻，俗以生姜、吴萸、擂酒俱效，如跌扑伤坠疼痛，瘀血为患，宜用桂枝。\n豆蔻汤 治一切冷气，心腹胀满，胸膈痞滞，哕逆呕吐，泄泻虚滑，水谷不消，困倦少力，不思饮食。\n用肉豆蔻仁四两，面裹煨，甘草炒一两，白面炒四两，丁香五分，盐炒五钱，共为末，每服二钱，沸汤点服，空腹妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 526,
+      "source_path": [
+        "病後調理服食法",
+        "寒門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "139904b236f46e3729af15d055a1bd5d157bce3d5c18bd241ef3101b3fc54a9a",
+      "content_sha256": "47db424873110bbb09b1d7661dd39bb9425857f87b9f80eddb3fce2b1c815c67",
+      "paragraph_count": 17,
+      "paragraph_ordinals": [
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 408,
+        "simplified_codepoints": 408
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "cf472dcb9155fb34eac975fd",
+      "title": "暑门",
+      "volume": "病后调理服食法",
+      "content": "绿豆粥 解暑渴。\n用绿豆淘净，下汤煮熟，入米同煮食之。\n绿豆酒 治同上。\n用绿豆蒸熟，浸酒服。\n又方 加黄连少许。\n桂浆 解暑渴，去热生凉，益气消痰。\n官桂末一两，白蜜二两，先以水二斗煎至一斗，候冷入瓷坛中，入桂、蜜二味，搅一二百余遍，先用油纸一层，外加绵纸数层，以绳封之。每日去纸一重，七日开之，气香味美，或以蜜封，置井中一日，冰冷可口。每服一二杯，百病不作。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 544,
+      "source_path": [
+        "病後調理服食法",
+        "暑門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "d292711d5f30087bcdce99418345b1267ecd684b757a60ca730d8b90f6379d2d",
+      "content_sha256": "e1b60b350e75f70cff7c3e02124c5b95d59229aa535e3a3d2b308fb2fe848df2",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "198ebe9fdaba281881cfd39a",
+      "title": "湿门",
+      "volume": "病后调理服食法",
+      "content": "薏苡粥 去湿气肿胀，利肠胃，功胜诸药。\n用薏米淘净，对配白米煮粥，入白糖一二匙食。\n郁李仁粥 治水肿，腹胀喘急，二便不通，体重痛痹，转动不能，脚气亦宜。\n郁李仁二两，研汁，和薏米五合，同米煮粥食。\n赤豆粥 利小便，消水肿脚气，辟邪疠。\n赤豆淘净，同陈仓米对配煮粥，空腹食。\n赤小豆饮 治水气胀满，手足浮肿，气急烦闷。\n赤豆三升，樟柳枝一升，同煮豆熟为度，空心，去枝取豆食，渴则饮汁，勿食他物，自效。\n桑皮饮 治水肿，腹胀喘急。\n用桑根白皮四两，和米四合，煮烂可食。\n紫苏粥 治老人脚气。\n用家园紫苏细捣，入水取汁煮粥，将熟加苏子研汁，搅匀食之。\n鲤鱼臛 治水肿，满闷气急，不能食，皮肤欲裂，四肢常疼，不可屈伸\n用鲤鱼十两，葱白一握，麻子一升，取汁煮作羹臛，入盐豉姜椒调和，空心慢食。\n又方 鲤鱼二斤，陈皮二两，煮烂，入青盐少许，拌匀空食。\n苍术酒 治诸般风湿，疮疡脚气下重。\n苍术三十斤、洗净打碎，以东流水三石，浸二十日，去渣，以汁浸曲，如家造酒法，酒熟任饮，不拘时，忌桃李。\n松节酒 治冷风虚弱，筋骨挛痛，脚气缓痹。一方松叶酒，治同造同。\n用松节煮汁，同曲米酿酒饮。松针捣煎亦可。\n白石英酒 治风湿周痹，肢节湿痛，肾虚耳聋。\n白石英、磁石煅醋淬七次，各五两，绢袋盛浸酒中五六日，温饮、如少加酒，尽其力可也。\n逡巡酒 补虚益气，去一切风痹湿气，耐老延年，久服自效。\n造法：三月三日，收桃花三两三钱；五月五日，收马兰花五两五钱；六月六日，收脂麻花六两六钱，九月九日，收黄甘菊九两九钱。已上俱阴干，十二月八日取腊水三斗。待春分，取桃仁四十九粒，去皮尖。白面十斤。同前花和作曲，纸包阴干四十九日听用。欲造酒，煮糯米饭一升，白水一瓶，曲一丸，用曲一块封良久，酒即成矣。如淡，再加曲一丸。\n五加皮酒 去一切风湿痿痹，壮筋骨，填精髓。\n五加皮洗净去梗煎汁，和面米酿成饮之。或切碎袋盛浸酒，煮饮。或加当归、牛膝、地榆等。\n仙灵脾酒 治偏风不遂，强筋壮骨。\n仙灵脾一斤，袋盛浸无灰酒二斗，封固三日饮之。\n女贞皮酒 治风虚，补腰膝。\n女贞皮切片，浸酒煮饮之。\n薏苡酒 去风湿，强筋骨，健脾胃。\n用薏米粉同曲米酿之，或将袋盛，煮酒饮之亦可。\n海藻酒 治瘿气。\n用海藻一斤，洗浸，无灰酒日夜细饮。\n黄药酒 治诸瘿气。\n用万州黄药切片一斤，袋盛浸酒煮饮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 552,
+      "source_path": [
+        "病後調理服食法",
+        "濕門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "ecb8dca53fe47dafcda005238504f59a45eab390e7153cf333e20958562a5aae",
+      "content_sha256": "c299dff3a011f5c89195e604c0fbc537a69b7232d8ea33d299da4a0937a05086",
+      "paragraph_count": 35,
+      "paragraph_ordinals": [
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561,
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569,
+        570,
+        571,
+        572,
+        573,
+        574,
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582,
+        583,
+        584,
+        585,
+        586,
+        587
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 965,
+        "simplified_codepoints": 965
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "41cc6e25896277578fae2118",
+      "title": "燥门",
+      "volume": "病后调理服食法",
+      "content": "生地粥 滋阴润肺，及妊娠胎漏，下血目赤。\n生地捣汁，米二合，煮熟入汁一合，调匀再煮，加熟蜜少许，空心服。\n麻苏粥 治产后血晕，汗多便闭，老人血虚风闭，胸腹不快，恶心吐逆。\n用家园苏子、麻子各五钱，水淘净微炒，研如泥，水滤取汁，入米煮粥食之。\n百部酒 治久近一切咳嗽。\n百部切炒，袋盛浸酒，频频饮之。\n蜜酒 孙真人治风疹风癣，肌肤燥痒。\n沙蜜一斤，糯米饭一斤，曲五两，熟水五升，同入瓶内，封七日成酒。寻常以蜜入酒代之。\n人乳粥 润肺通肠，补虚养血。\n用壮实无疾女人乳汁，俟粥半熟，去汤下乳，代汤煮熟，置碗中，加酥油一二钱，调匀食。\n槐枝酒 治大麻痿痹。\n槐枝煮油，如常酿酒法。\n巨胜酒 治风虚痹弱，腰膝疼痛。\n巨胜子二升，炒薏米二升，生地半斤，袋盛浸酒饮。\n蚕砂酒 治风缓麻痹，诸节不遂，腹内宿痛。\n原蚕砂炒黄，袋盛浸酒服。\n紫酒 治中风，口偏不语，角弓反张，鼓胀不消。\n鸡屎白一升，炒焦，投酒中，待紫色频饮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 588,
+      "source_path": [
+        "病後調理服食法",
+        "燥門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "465b98e374ad1bf51823b3b89064684cbc09b8164dc1b90665f6e7fc14872692",
+      "content_sha256": "7a5e2c4176da4fb246927cbd7986023655e3a2ab015ab32672e829277bc48b90",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        589,
+        590,
+        591,
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 404,
+        "simplified_codepoints": 404
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "8462a1c5b534398a3994e1d5",
+      "title": "火门",
+      "volume": "病后调理服食法",
+      "content": "甘蔗粥 治咳嗽虚热，口干舌燥，涕吐稠黏。\n用甘蔗取汁三碗，入米三合煮粥，空心食之。\n竹沥粥 治痰火如神。\n如常煮粥法，以竹沥下半杯，食之。\n绿豆酒 治阴虚痰火诸疾。\n用绿豆、山药各二两，黄怕、牛膝、元参、沙参、白芍、山栀、天麦冬、花粉、蜂蜜各一两半，当归一两二钱，\n甘草三钱，以好酒浸之饮。\n黄连酒 有火症及发热，不宜饮酒。盖酒性大热，助病为疟，多致不治。倘遇喜庆事，必欲饮用此。\n以黄连、绿豆各一钱，枸杞三钱，浸酒饮。\n黄柏酒 有相火而好饮者宜。如生疮疥及肌肤不泽，用黄柏一两，猪胰四两，生浸饮。\n一味猪胰浸酒，令妇人多乳，催乳更妙。\n小麦汤 治五淋不止，身体壮热，小便满闷。\n小麦一升，通草二两，水煎。不时可啜，自效。\n甘豆汤 治一切烦渴，二便涩少及风热入肾。\n黑豆二合，甘草二钱，生姜七斤，水煎服。\n藕蜜膏 主虚热口渴，大便燥结，小便秘痛。\n藕汁、蜜各四升，生地汁一升，和匀，慢火熬成膏，每服半匙，口含噙化，不时用，忌煎炒。\n竹叶粥 治膈上风热，头目赤痛，止渴清心。\n竹叶五十片，石膏二两，水三碗，煎至两碗，澄清去渣，入米三合煮粥，加白沙糖二钱食。\n四汁膏 清痰降火，下气止血。\n雪梨、甘蔗、鲜藕、薄荷叶各等分，捣汁，入瓦锅，文火熬膏，频频饮。如无梨，秋白亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 607,
+      "source_path": [
+        "病後調理服食法",
+        "火門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "1f474efe1708e22215c5bd1cd7be65c85897d79471a947c948eb7971d82e6b68",
+      "content_sha256": "fa6ed8de911f2a76fd763f6b76641ff78b4025f0e018b234e768f49e050d123e",
+      "paragraph_count": 21,
+      "paragraph_ordinals": [
+        608,
+        609,
+        610,
+        611,
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 534,
+        "simplified_codepoints": 534
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "a08fde4389b7c1bf16cfe3d8",
+      "title": "调理脾胃门",
+      "volume": "病后调理服食法",
+      "content": "凡病后脾胃弱，肌肉瘦，择相宜者食之，以助药力，绝妙。\n人参粥 治翻胃吐酸，及病后脾弱。\n用粟米一合煮粥，入人参末、姜汁各五钱，和匀空心食。\n门冬粥 治咳嗽及翻胃。\n用麦门冬浸汁，和米煮粥，妊妇食之亦宜。\n粟米粥 治脾胃虚弱，呕吐不食，渐加尪羸。\n粟米、白曲等分，煮粥，空心食，极养胃气。一人病淋，性不可服药，予令日啖此粥，绝去他味，旬日减，月余痊。饮食妙法。\n理脾糕 治老人小儿脾泄水泻。\n用松花一升，百合、莲肉、山药、薏米、芡实、白蒺藜各末一升，粳米粉一斗二升，糯米粉三升，砂糖一斤，拌匀蒸熟，炙干食之。一方加砂仁末一两。\n苏蜜煎 治噎病吐逆，饮食不进。\n紫苏叶二两，白蜜、姜汁各五合，和匀，微火煎沸，每服半匙，空心细咽。\n姜橘汤 治胸满闷结，饮食不下。\n用生姜二两，陈皮一两，空心水煎服。\n芡实粥 益精气，强智力，聪耳目。\n用芡实去壳三合，新者研如膏，陈者作粉，和粳米三合，煮粥食。\n莲子粥 治同上，健脾胃，止泄痢。\n莲肉一两，去衣煮烂，研细入糯米三合，煮粥食。\n鹿豆粥 益精补脾，又治霍乱吐泻。\n白扁豆半斤，先煮豆烂去皮，入人参二钱，下米煮粥。\n山药粥 补下元，固肠止泻。\n怀庆山药为末四分，配六分米煮食。\n茯苓粥 治脾虚泄泻，又治不寐。\n粳米二合，茯苓末一两，煮好，再下苓末一两，再煮烂食。\n萝卜粥 消食利膈。\n萝卜大者一个，配米二合煮食。\n胡萝卜粥 宽中下气，煮法同上。\n苏子粥 下气利膈。\n紫苏子微炒一合，研汁去渣，粥好下汁，再煮食之。\n茴香粥 和胃治疝。\n用小茴香炒，煎汤去渣，入米煮粥食。\n胡椒粥、吴茱萸粥 并治心腹疼痛。煮法同上。\n莲肉糕 治病后胃弱，不消水谷。\n莲肉、粳米各炒四两，茯苓二两共为末，砂糖调和，每用两许，白汤送下。\n豆麦粥 治饮食不住口，仍易饥饿，近似中消。\n用绿豆、糯米、小麦各一升，炒熟为末，每用末一升，滚水调服。\n清米汤 治泄泻。\n用蚤米半升，东壁土一两，吴萸三钱，同炒香熟，去土、萸，取米煎汤饮。\n米饮 治咽中作哽，下食则塞，反胃不止。\n用杵头糠炒一两，煮米饮，调匀，空心食。\n黄鸡馄饨 治脾胃虚弱，少食痿黄，益脏腑，悦颜色。\n用黄鸡肉五两，白面二两，葱白二合，切作馄饨，入咸椒豉和之，煮熟空心食。\n松子粥 润心肺，和大肠。同米煮粥食。\n炒面入粥同食，止白痢。\n烧盐入粥同食，止血痢。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 629,
+      "source_path": [
+        "病後調理服食法",
+        "調理脾胃門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "c5427107dcd68cd65a733955c4e1ede9ef158762ec195f91da44d4280ce93da9",
+      "content_sha256": "36c8610019f79a2d258ee70d2c22bbf125bae797cedba7c1cc9a4c6a54c9f41f",
+      "paragraph_count": 44,
+      "paragraph_ordinals": [
+        630,
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658,
+        659,
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671,
+        672,
+        673
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 963,
+        "simplified_codepoints": 963
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "85c4b6a373185a7cfe1fbb35",
+      "title": "气门",
+      "volume": "病后调理服食法",
+      "content": "杏仁粥 治上气咳嗽。\n扁杏仁去皮尖二两，研如泥，或加猪肺，同米三合，煮食。\n莱菔子粥 治气喘。\n用莱菔子，即萝卜子三合，煮粥食。\n猪肾粥 治脚气顽痹，行履不便，疼痛不止。\n猪肾两枚，切碎，葱白五茎，米三合，同煮，临熟加盐、豉、椒调和食之。\n羊肾粥、鹿肾粥 法同治同。\n鸡肝粥、羊肝粥 并补肝明目，煮法同上。\n鹿胶粥 治诸虚，助元阳。煮粥入胶，熔化即是。\n虎骨酒 治臂胫疼痛，历节风，肾虚膀胱气痛。\n虎胫骨一具，炙黄打碎，同曲米如常造酒饮。\n霹雳酒 治疝气偏坠，妇女崩中下血，胎产不下。\n用铁锤火烧赤，淬入酒中饮之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 674,
+      "source_path": [
+        "病後調理服食法",
+        "氣門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "53a952df1f4451672a84bc3ac5412ad056fcb90d69bd8a2a7e2e43affaa4150d",
+      "content_sha256": "5217091afed96cba06cc8c7294d60b37efb8a57f2a069ad393057725a26674f0",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 257,
+        "simplified_codepoints": 257
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "6758280ee9c87bd4f574ad37",
+      "title": "血门",
+      "volume": "病后调理服食法",
+      "content": "阿胶粥 止血补虚，厚肠胃，又治胎动不安。\n糯米煮粥，临熟入阿胶末一两，和匀食。\n桑耳粥 治五痔下血，常烦热羸瘦。\n桑耳二两，取汁，和粳米三合，煮熟，空心食。\n槐茶 治风热下血，明目益气，止牙疼，利脏腑，顺气道。\n嫩槐叶蒸熟晒干，每日煎如茶法。\n柏茶 止血滋阴。\n侧柏叶晒干，煎汤代茶饮。\n醍醐酒 治鼻衄不止。\n萝卜自然汁，入好酒一半，和匀温服。\n韭汁酒 治赤痢，又治心痛，以其散气行血。\n连白韭菜一把，去梢取汁，和酒一杯温服。\n马齿苋羹 治下痢赤白，水谷不化，腹痛。\n马齿苋菜煮熟，入盐、豉，或姜、醋，拌匀食之。\n猪胰片 治肺损，嗽血咯血。\n猪胰切片，煮熟，蘸薏仁末，空心服，如肺痈，米饮调下。\n羊肺肝肾 治吐血咯血，损伤肺肾及肝，随脏引用，或肺或肝或肾，煮熟切片，蘸白芨末食。\n欲试血从何经来，用水一碗，吐入水中，浮者肺也，沉者肾也，半浮半沉者肝也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 688,
+      "source_path": [
+        "病後調理服食法",
+        "血門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "c5a502190718ecfba5875dad95e50dbfb4efb9eb7ad90098753fb2b0db8e0106",
+      "content_sha256": "9c8303b70dd3be3046ecc626dc4433f1ba0853207dbfc2b787a43a1bc100c25c",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        689,
+        690,
+        691,
+        692,
+        693,
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703,
+        704,
+        705,
+        706
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 376,
+        "simplified_codepoints": 376
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "5449356a37a2a030d952f403",
+      "title": "痰门",
+      "volume": "病后调理服食法",
+      "content": "苏子酒 主消痰下气，润肺止咳。\n家紫苏子炒研，绢袋盛之，浸酒中，日日饮之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 707,
+      "source_path": [
+        "病後調理服食法",
+        "痰門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "5b5da891f20f8f3951fa62c35899a920f61b81ec002998bd885d09941924a6fa",
+      "content_sha256": "a69852cbd06292cea6f1c39188fb015bb7760a6e7f3f5ae922571f0a1f57ebba",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        708,
+        709
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 37,
+        "simplified_codepoints": 37
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "b1e18176645fac38dfa3b6f4",
+      "title": "阴虚门",
+      "volume": "病后调理服食法",
+      "content": "（忌酒）\n芡实粥 见前脾胃门。\n枸杞粥 治肝家火旺血衰，益肾气。\n甘州枸杞一合，米三合，煮食。\n又方 采鲜叶如常煮粥食，入盐少许，空腹食佳。\n鳗鱼臛 补虚劳，杀虫，治肛门肿痛，痔久不愈。\n鳗鱼细切，煮作臛，入盐、豉、姜、椒，空心食。\n牛乳粥 补虚羸。\n如常粥内加入牛乳和匀食。\n羊肝粥。鸡肝粥、鸡汁粥，并治虚劳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 710,
+      "source_path": [
+        "病後調理服食法",
+        "陰虛門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "291f6119106c8d3e465a272999095ecf9f1936889c35a4eeba70307941c37b06",
+      "content_sha256": "d10739fa0a81bb11a209e7927460abe0e27a2ae8657e44b1fa05a038d034bb60",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        711,
+        712,
+        713,
+        714,
+        715,
+        716,
+        717,
+        718,
+        719,
+        720
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 156,
+        "simplified_codepoints": 156
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "31634c4cb4fb2af9baf8a327",
+      "title": "阳虚门",
+      "volume": "病后调理服食法",
+      "content": "羊肉羹 治下焦虚冷，小便频数。\n羊肉四两，羊肺一具，细切，入盐、豉，煮作羹，空心食。\n胡桃粥 治阳虚腰疼及石淋五痔。\n胡桃肉煮粥食。\n又浸酒方 加小茴香、杜仲、补骨脂。\n桂花酒 酿成玉色，香味超然，非世间物也。\n羊羔酒 大补元气，健脾胃，益腰肾。\n宣和化成殿方，用糯米一石，如常浸浆取蒸，再入肥嫩羊肉七斤，曲十四两，杏仁一斤，同煮烂，连汁拌饭，加入木香一两，锉同酿，勿犯水，十日熟。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 721,
+      "source_path": [
+        "病後調理服食法",
+        "陽虛門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "d362101eef46b4ed5d94138fe5f7ffc65f2de0951c083d6177848ed95cbd71ad",
+      "content_sha256": "7abbf6a8519acb0c54d3c4f13d4362679a06bf010349bfa29af4edbcce84f837",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 191,
+        "simplified_codepoints": 191
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "fdd93febe5dd7b46a0c56851",
+      "title": "诸虚门",
+      "volume": "病后调理服食法",
+      "content": "参归腰子 治心气虚损，自汗。\n人参五钱，当归四两，猪肾一枚，细切，同煮食之，以汁送下，或用山药捣丸，如桐子大，每服三十丸，空心温酒下。多服乃佳。\n煨肾法 治肾虚腰痛。\n猪肾一枚，薄切五七片，以椒盐淹去腥水，以杜仲末三钱在内，包以薄荷，外加湿纸，置火内煨熟，酒下。如脾虚，加补骨脂炒末二钱。\n猎肾酒 治同上。\n用童便二钟，好酒一钟，以瓷瓶贮之，取猪肾一对入内，黄泥封固，日晚时以慢火养熟，至中夜止五更初，以火温之，发瓶饮酒，食腰子。病笃者只一月效。平日虚怯尤宜食，绝胜金石草木之药也。\n猪肚方 治虚羸乏气。\n人参五钱，干姜、胡桃各二钱，葱白七茎，糯米三合，为末，入猪肚内扎紧，勿以泄气，煮烂空心服，以好酒一二杯送之。\n牛乳方 老人最宜，补心脉，安心神，长肌肉。为人子者，常当供之，或为乳饼、乳腐，较诸物胜。\n山药酒 补虚损，益颜色，又治下焦虚冷，小便频数。\n用酥一匙，于铛中熔化，入山药末熬令香，入酒一杯，调匀，空心饮。\n生栗方 治脚气及肾气损，脚膝无力。\n用生栗蒸熟风干，每日空心食十枚，效甚。\n水芝丸 补五脏诸虚。\n莲肉一斤去心，入猪肚内扎定，煮烂捣丸，如桐子大，每三四十丸，空心酒下。\n以上诸方，其治病之功，胜于药石。人但知药能治病，而不知食能治病。孙真人有言曰：医者先晓病原，知其所犯，以食治之，食疗不愈，然后议药。不特老人小儿相宜，凡颐养及久病厌药者，亦未为不可也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+      "source_ordinal": 730,
+      "source_path": [
+        "病後調理服食法",
+        "諸虛門"
+      ],
+      "source_sha256": "11aa0c40fd7977f76cc03d85dacbd9bf2cdf4cace451c120d4192bf2df0ef8ad",
+      "original_sha256": "d8a85c0fd9bebf8001dd526f4710e42368f613df1247010a3b8859d08ebd95ee",
+      "content_sha256": "fe2ad3831bfdd8712b61a01e3995ba2ff85ca75a480ec27e1c3aea6aba988818",
+      "paragraph_count": 16,
+      "paragraph_ordinals": [
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 587,
+        "simplified_codepoints": 587
+      },
+      "order": 68
+    }
+  ]
+}

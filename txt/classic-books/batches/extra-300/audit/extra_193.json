@@ -1,0 +1,3400 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%93%87%E8%A6%81%E7%B6%B1%E7%9B%AE/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序一",
+        "path": [
+          "序一"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "序二",
+        "path": [
+          "序二"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "序三",
+        "path": [
+          "序三"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 1,
+        "title": "凡例",
+        "path": [
+          "凡例"
+        ]
+      },
+      {
+        "ordinal": 22,
+        "level": 1,
+        "title": "寒性藥品",
+        "path": [
+          "寒性藥品"
+        ]
+      },
+      {
+        "ordinal": 23,
+        "level": 2,
+        "title": "苦參",
+        "path": [
+          "寒性藥品",
+          "苦參"
+        ]
+      },
+      {
+        "ordinal": 30,
+        "level": 2,
+        "title": "升麻",
+        "path": [
+          "寒性藥品",
+          "升麻"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "柴胡",
+        "path": [
+          "寒性藥品",
+          "柴胡"
+        ]
+      },
+      {
+        "ordinal": 45,
+        "level": 2,
+        "title": "前胡",
+        "path": [
+          "寒性藥品",
+          "前胡"
+        ]
+      },
+      {
+        "ordinal": 51,
+        "level": 2,
+        "title": "甘草",
+        "path": [
+          "寒性藥品",
+          "甘草"
+        ]
+      },
+      {
+        "ordinal": 57,
+        "level": 2,
+        "title": "黃連",
+        "path": [
+          "寒性藥品",
+          "黃連"
+        ]
+      },
+      {
+        "ordinal": 63,
+        "level": 2,
+        "title": "黃芩",
+        "path": [
+          "寒性藥品",
+          "黃芩"
+        ]
+      },
+      {
+        "ordinal": 69,
+        "level": 2,
+        "title": "黃柏",
+        "path": [
+          "寒性藥品",
+          "黃柏"
+        ]
+      },
+      {
+        "ordinal": 74,
+        "level": 2,
+        "title": "知母",
+        "path": [
+          "寒性藥品",
+          "知母"
+        ]
+      },
+      {
+        "ordinal": 79,
+        "level": 2,
+        "title": "乾地黃",
+        "path": [
+          "寒性藥品",
+          "乾地黃"
+        ]
+      },
+      {
+        "ordinal": 85,
+        "level": 2,
+        "title": "熟地黃",
+        "path": [
+          "寒性藥品",
+          "熟地黃"
+        ]
+      },
+      {
+        "ordinal": 92,
+        "level": 2,
+        "title": "（白赤）芍藥",
+        "path": [
+          "寒性藥品",
+          "（白赤）芍藥"
+        ]
+      },
+      {
+        "ordinal": 97,
+        "level": 2,
+        "title": "大黃",
+        "path": [
+          "寒性藥品",
+          "大黃"
+        ]
+      },
+      {
+        "ordinal": 102,
+        "level": 2,
+        "title": "青皮",
+        "path": [
+          "寒性藥品",
+          "青皮"
+        ]
+      },
+      {
+        "ordinal": 107,
+        "level": 2,
+        "title": "枳殼",
+        "path": [
+          "寒性藥品",
+          "枳殼"
+        ]
+      },
+      {
+        "ordinal": 112,
+        "level": 2,
+        "title": "枳實",
+        "path": [
+          "寒性藥品",
+          "枳實"
+        ]
+      },
+      {
+        "ordinal": 117,
+        "level": 2,
+        "title": "豬苓",
+        "path": [
+          "寒性藥品",
+          "豬苓"
+        ]
+      },
+      {
+        "ordinal": 122,
+        "level": 2,
+        "title": "澤瀉",
+        "path": [
+          "寒性藥品",
+          "澤瀉"
+        ]
+      },
+      {
+        "ordinal": 127,
+        "level": 2,
+        "title": "木通",
+        "path": [
+          "寒性藥品",
+          "木通"
+        ]
+      },
+      {
+        "ordinal": 130,
+        "level": 2,
+        "title": "栝蔞",
+        "path": [
+          "寒性藥品",
+          "栝蔞"
+        ]
+      },
+      {
+        "ordinal": 135,
+        "level": 2,
+        "title": "桑白皮",
+        "path": [
+          "寒性藥品",
+          "桑白皮"
+        ]
+      },
+      {
+        "ordinal": 140,
+        "level": 2,
+        "title": "葶藶子",
+        "path": [
+          "寒性藥品",
+          "葶藶子"
+        ]
+      },
+      {
+        "ordinal": 145,
+        "level": 2,
+        "title": "滑石",
+        "path": [
+          "寒性藥品",
+          "滑石"
+        ]
+      },
+      {
+        "ordinal": 150,
+        "level": 2,
+        "title": "薄荷",
+        "path": [
+          "寒性藥品",
+          "薄荷"
+        ]
+      },
+      {
+        "ordinal": 155,
+        "level": 2,
+        "title": "防風",
+        "path": [
+          "寒性藥品",
+          "防風"
+        ]
+      },
+      {
+        "ordinal": 161,
+        "level": 2,
+        "title": "天門冬",
+        "path": [
+          "寒性藥品",
+          "天門冬"
+        ]
+      },
+      {
+        "ordinal": 166,
+        "level": 2,
+        "title": "麥門冬",
+        "path": [
+          "寒性藥品",
+          "麥門冬"
+        ]
+      },
+      {
+        "ordinal": 171,
+        "level": 2,
+        "title": "牡丹皮",
+        "path": [
+          "寒性藥品",
+          "牡丹皮"
+        ]
+      },
+      {
+        "ordinal": 178,
+        "level": 2,
+        "title": "紅藍花",
+        "path": [
+          "寒性藥品",
+          "紅藍花"
+        ]
+      },
+      {
+        "ordinal": 183,
+        "level": 2,
+        "title": "蘇木",
+        "path": [
+          "寒性藥品",
+          "蘇木"
+        ]
+      },
+      {
+        "ordinal": 188,
+        "level": 2,
+        "title": "梔子",
+        "path": [
+          "寒性藥品",
+          "梔子"
+        ]
+      },
+      {
+        "ordinal": 193,
+        "level": 2,
+        "title": "桃仁",
+        "path": [
+          "寒性藥品",
+          "桃仁"
+        ]
+      },
+      {
+        "ordinal": 198,
+        "level": 2,
+        "title": "連翹",
+        "path": [
+          "寒性藥品",
+          "連翹"
+        ]
+      },
+      {
+        "ordinal": 203,
+        "level": 2,
+        "title": "地榆",
+        "path": [
+          "寒性藥品",
+          "地榆"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 2,
+        "title": "石膏",
+        "path": [
+          "寒性藥品",
+          "石膏"
+        ]
+      },
+      {
+        "ordinal": 214,
+        "level": 2,
+        "title": "馬兜鈴",
+        "path": [
+          "寒性藥品",
+          "馬兜鈴"
+        ]
+      },
+      {
+        "ordinal": 219,
+        "level": 2,
+        "title": "枇杷葉",
+        "path": [
+          "寒性藥品",
+          "枇杷葉"
+        ]
+      },
+      {
+        "ordinal": 224,
+        "level": 2,
+        "title": "防己",
+        "path": [
+          "寒性藥品",
+          "防己"
+        ]
+      },
+      {
+        "ordinal": 227,
+        "level": 2,
+        "title": "海藻",
+        "path": [
+          "寒性藥品",
+          "海藻"
+        ]
+      },
+      {
+        "ordinal": 232,
+        "level": 2,
+        "title": "牡蠣",
+        "path": [
+          "寒性藥品",
+          "牡蠣"
+        ]
+      },
+      {
+        "ordinal": 237,
+        "level": 2,
+        "title": "貝母",
+        "path": [
+          "寒性藥品",
+          "貝母"
+        ]
+      },
+      {
+        "ordinal": 243,
+        "level": 2,
+        "title": "沙參",
+        "path": [
+          "寒性藥品",
+          "沙參"
+        ]
+      },
+      {
+        "ordinal": 249,
+        "level": 2,
+        "title": "玄參",
+        "path": [
+          "寒性藥品",
+          "玄參"
+        ]
+      },
+      {
+        "ordinal": 255,
+        "level": 2,
+        "title": "丹參",
+        "path": [
+          "寒性藥品",
+          "丹參"
+        ]
+      },
+      {
+        "ordinal": 261,
+        "level": 2,
+        "title": "桔梗",
+        "path": [
+          "寒性藥品",
+          "桔梗"
+        ]
+      },
+      {
+        "ordinal": 266,
+        "level": 2,
+        "title": "犀角",
+        "path": [
+          "寒性藥品",
+          "犀角"
+        ]
+      },
+      {
+        "ordinal": 271,
+        "level": 2,
+        "title": "牛黃",
+        "path": [
+          "寒性藥品",
+          "牛黃"
+        ]
+      },
+      {
+        "ordinal": 276,
+        "level": 2,
+        "title": "蘆薈",
+        "path": [
+          "寒性藥品",
+          "蘆薈"
+        ]
+      },
+      {
+        "ordinal": 281,
+        "level": 2,
+        "title": "鬱金",
+        "path": [
+          "寒性藥品",
+          "鬱金"
+        ]
+      },
+      {
+        "ordinal": 286,
+        "level": 2,
+        "title": "竹瀝",
+        "path": [
+          "寒性藥品",
+          "竹瀝"
+        ]
+      },
+      {
+        "ordinal": 291,
+        "level": 2,
+        "title": "常山",
+        "path": [
+          "寒性藥品",
+          "常山"
+        ]
+      },
+      {
+        "ordinal": 294,
+        "level": 2,
+        "title": "烏梅",
+        "path": [
+          "寒性藥品",
+          "烏梅"
+        ]
+      },
+      {
+        "ordinal": 299,
+        "level": 2,
+        "title": "大戟",
+        "path": [
+          "寒性藥品",
+          "大戟"
+        ]
+      },
+      {
+        "ordinal": 304,
+        "level": 2,
+        "title": "胡黃蓮",
+        "path": [
+          "寒性藥品",
+          "胡黃蓮"
+        ]
+      },
+      {
+        "ordinal": 310,
+        "level": 2,
+        "title": "荊芥",
+        "path": [
+          "寒性藥品",
+          "荊芥"
+        ]
+      },
+      {
+        "ordinal": 316,
+        "level": 2,
+        "title": "地骨皮",
+        "path": [
+          "寒性藥品",
+          "地骨皮"
+        ]
+      },
+      {
+        "ordinal": 322,
+        "level": 2,
+        "title": "琥珀",
+        "path": [
+          "寒性藥品",
+          "琥珀"
+        ]
+      },
+      {
+        "ordinal": 328,
+        "level": 2,
+        "title": "水銀",
+        "path": [
+          "寒性藥品",
+          "水銀"
+        ]
+      },
+      {
+        "ordinal": 333,
+        "level": 2,
+        "title": "朴硝",
+        "path": [
+          "寒性藥品",
+          "朴硝"
+        ]
+      },
+      {
+        "ordinal": 340,
+        "level": 2,
+        "title": "芒硝",
+        "path": [
+          "寒性藥品",
+          "芒硝"
+        ]
+      },
+      {
+        "ordinal": 349,
+        "level": 2,
+        "title": "羚羊角",
+        "path": [
+          "寒性藥品",
+          "羚羊角"
+        ]
+      },
+      {
+        "ordinal": 355,
+        "level": 2,
+        "title": "甘菊花",
+        "path": [
+          "寒性藥品",
+          "甘菊花"
+        ]
+      },
+      {
+        "ordinal": 361,
+        "level": 2,
+        "title": "射干",
+        "path": [
+          "寒性藥品",
+          "射干"
+        ]
+      },
+      {
+        "ordinal": 366,
+        "level": 2,
+        "title": "薏苡仁",
+        "path": [
+          "寒性藥品",
+          "薏苡仁"
+        ]
+      },
+      {
+        "ordinal": 371,
+        "level": 2,
+        "title": "車前子",
+        "path": [
+          "寒性藥品",
+          "車前子"
+        ]
+      },
+      {
+        "ordinal": 376,
+        "level": 2,
+        "title": "蓮藕",
+        "path": [
+          "寒性藥品",
+          "蓮藕"
+        ]
+      },
+      {
+        "ordinal": 382,
+        "level": 2,
+        "title": "【藕節】",
+        "path": [
+          "寒性藥品",
+          "【藕節】"
+        ]
+      },
+      {
+        "ordinal": 386,
+        "level": 2,
+        "title": "百部",
+        "path": [
+          "寒性藥品",
+          "百部"
+        ]
+      },
+      {
+        "ordinal": 392,
+        "level": 2,
+        "title": "茵陳蒿",
+        "path": [
+          "寒性藥品",
+          "茵陳蒿"
+        ]
+      },
+      {
+        "ordinal": 397,
+        "level": 2,
+        "title": "瞿麥",
+        "path": [
+          "寒性藥品",
+          "瞿麥"
+        ]
+      },
+      {
+        "ordinal": 402,
+        "level": 2,
+        "title": "淫羊藿",
+        "path": [
+          "寒性藥品",
+          "淫羊藿"
+        ]
+      },
+      {
+        "ordinal": 407,
+        "level": 2,
+        "title": "茅根",
+        "path": [
+          "寒性藥品",
+          "茅根"
+        ]
+      },
+      {
+        "ordinal": 412,
+        "level": 2,
+        "title": "牽牛子",
+        "path": [
+          "寒性藥品",
+          "牽牛子"
+        ]
+      },
+      {
+        "ordinal": 418,
+        "level": 2,
+        "title": "萱草",
+        "path": [
+          "寒性藥品",
+          "萱草"
+        ]
+      },
+      {
+        "ordinal": 425,
+        "level": 2,
+        "title": "香附子",
+        "path": [
+          "寒性藥品",
+          "香附子"
+        ]
+      },
+      {
+        "ordinal": 430,
+        "level": 2,
+        "title": "側柏葉",
+        "path": [
+          "寒性藥品",
+          "側柏葉"
+        ]
+      },
+      {
+        "ordinal": 437,
+        "level": 2,
+        "title": "地膚子",
+        "path": [
+          "寒性藥品",
+          "地膚子"
+        ]
+      },
+      {
+        "ordinal": 447,
+        "level": 2,
+        "title": "山豆根",
+        "path": [
+          "寒性藥品",
+          "山豆根"
+        ]
+      },
+      {
+        "ordinal": 453,
+        "level": 2,
+        "title": "白蘚（根皮）",
+        "path": [
+          "寒性藥品",
+          "白蘚（根皮）"
+        ]
+      },
+      {
+        "ordinal": 459,
+        "level": 2,
+        "title": "旋覆花",
+        "path": [
+          "寒性藥品",
+          "旋覆花"
+        ]
+      },
+      {
+        "ordinal": 464,
+        "level": 2,
+        "title": "昆布",
+        "path": [
+          "寒性藥品",
+          "昆布"
+        ]
+      },
+      {
+        "ordinal": 469,
+        "level": 2,
+        "title": "淡竹葉",
+        "path": [
+          "寒性藥品",
+          "淡竹葉"
+        ]
+      },
+      {
+        "ordinal": 475,
+        "level": 2,
+        "title": "槐",
+        "path": [
+          "寒性藥品",
+          "槐"
+        ]
+      },
+      {
+        "ordinal": 484,
+        "level": 2,
+        "title": "金箔",
+        "path": [
+          "寒性藥品",
+          "金箔"
+        ]
+      },
+      {
+        "ordinal": 489,
+        "level": 2,
+        "title": "青黛",
+        "path": [
+          "寒性藥品",
+          "青黛"
+        ]
+      },
+      {
+        "ordinal": 495,
+        "level": 2,
+        "title": "通草",
+        "path": [
+          "寒性藥品",
+          "通草"
+        ]
+      },
+      {
+        "ordinal": 500,
+        "level": 2,
+        "title": "龍膽草",
+        "path": [
+          "寒性藥品",
+          "龍膽草"
+        ]
+      },
+      {
+        "ordinal": 506,
+        "level": 2,
+        "title": "天花粉",
+        "path": [
+          "寒性藥品",
+          "天花粉"
+        ]
+      },
+      {
+        "ordinal": 511,
+        "level": 2,
+        "title": "蔓荊子",
+        "path": [
+          "寒性藥品",
+          "蔓荊子"
+        ]
+      },
+      {
+        "ordinal": 516,
+        "level": 2,
+        "title": "夏枯草",
+        "path": [
+          "寒性藥品",
+          "夏枯草"
+        ]
+      },
+      {
+        "ordinal": 521,
+        "level": 2,
+        "title": "燈心草",
+        "path": [
+          "寒性藥品",
+          "燈心草"
+        ]
+      },
+      {
+        "ordinal": 526,
+        "level": 2,
+        "title": "天竹黃",
+        "path": [
+          "寒性藥品",
+          "天竹黃"
+        ]
+      },
+      {
+        "ordinal": 531,
+        "level": 2,
+        "title": "青蒿（葉莖根子）",
+        "path": [
+          "寒性藥品",
+          "青蒿（葉莖根子）"
+        ]
+      },
+      {
+        "ordinal": 536,
+        "level": 2,
+        "title": "秋石",
+        "path": [
+          "寒性藥品",
+          "秋石"
+        ]
+      },
+      {
+        "ordinal": 541,
+        "level": 2,
+        "title": "茜根",
+        "path": [
+          "寒性藥品",
+          "茜根"
+        ]
+      },
+      {
+        "ordinal": 546,
+        "level": 2,
+        "title": "漏蘆",
+        "path": [
+          "寒性藥品",
+          "漏蘆"
+        ]
+      },
+      {
+        "ordinal": 551,
+        "level": 2,
+        "title": "蟬蛻",
+        "path": [
+          "寒性藥品",
+          "蟬蛻"
+        ]
+      },
+      {
+        "ordinal": 556,
+        "level": 2,
+        "title": "蟾蜍",
+        "path": [
+          "寒性藥品",
+          "蟾蜍"
+        ]
+      },
+      {
+        "ordinal": 562,
+        "level": 2,
+        "title": "蝸牛",
+        "path": [
+          "寒性藥品",
+          "蝸牛"
+        ]
+      },
+      {
+        "ordinal": 568,
+        "level": 2,
+        "title": "穿山甲",
+        "path": [
+          "寒性藥品",
+          "穿山甲"
+        ]
+      },
+      {
+        "ordinal": 573,
+        "level": 2,
+        "title": "象牙",
+        "path": [
+          "寒性藥品",
+          "象牙"
+        ]
+      },
+      {
+        "ordinal": 578,
+        "level": 2,
+        "title": "甘遂",
+        "path": [
+          "寒性藥品",
+          "甘遂"
+        ]
+      },
+      {
+        "ordinal": 583,
+        "level": 2,
+        "title": "雄黃",
+        "path": [
+          "寒性藥品",
+          "雄黃"
+        ]
+      },
+      {
+        "ordinal": 588,
+        "level": 2,
+        "title": "蕎麥",
+        "path": [
+          "寒性藥品",
+          "蕎麥"
+        ]
+      },
+      {
+        "ordinal": 593,
+        "level": 2,
+        "title": "山楂",
+        "path": [
+          "寒性藥品",
+          "山楂"
+        ]
+      },
+      {
+        "ordinal": 598,
+        "level": 2,
+        "title": "漏藍子",
+        "path": [
+          "寒性藥品",
+          "漏藍子"
+        ]
+      },
+      {
+        "ordinal": 604,
+        "level": 1,
+        "title": "熱性藥品",
+        "path": [
+          "熱性藥品"
+        ]
+      },
+      {
+        "ordinal": 605,
+        "level": 2,
+        "title": "附子",
+        "path": [
+          "熱性藥品",
+          "附子"
+        ]
+      },
+      {
+        "ordinal": 610,
+        "level": 2,
+        "title": "乾薑",
+        "path": [
+          "熱性藥品",
+          "乾薑"
+        ]
+      },
+      {
+        "ordinal": 615,
+        "level": 2,
+        "title": "草豆蔻",
+        "path": [
+          "熱性藥品",
+          "草豆蔻"
+        ]
+      },
+      {
+        "ordinal": 620,
+        "level": 2,
+        "title": "白豆蔻",
+        "path": [
+          "熱性藥品",
+          "白豆蔻"
+        ]
+      },
+      {
+        "ordinal": 625,
+        "level": 2,
+        "title": "肉豆蔻",
+        "path": [
+          "熱性藥品",
+          "肉豆蔻"
+        ]
+      },
+      {
+        "ordinal": 630,
+        "level": 2,
+        "title": "縮砂仁",
+        "path": [
+          "熱性藥品",
+          "縮砂仁"
+        ]
+      },
+      {
+        "ordinal": 635,
+        "level": 2,
+        "title": "吳茱萸",
+        "path": [
+          "熱性藥品",
+          "吳茱萸"
+        ]
+      },
+      {
+        "ordinal": 640,
+        "level": 2,
+        "title": "肉蓯蓉",
+        "path": [
+          "熱性藥品",
+          "肉蓯蓉"
+        ]
+      },
+      {
+        "ordinal": 645,
+        "level": 2,
+        "title": "生薑",
+        "path": [
+          "熱性藥品",
+          "生薑"
+        ]
+      },
+      {
+        "ordinal": 650,
+        "level": 2,
+        "title": "五味子",
+        "path": [
+          "熱性藥品",
+          "五味子"
+        ]
+      },
+      {
+        "ordinal": 655,
+        "level": 2,
+        "title": "桂枝",
+        "path": [
+          "熱性藥品",
+          "桂枝"
+        ]
+      },
+      {
+        "ordinal": 660,
+        "level": 2,
+        "title": "肉桂",
+        "path": [
+          "熱性藥品",
+          "肉桂"
+        ]
+      },
+      {
+        "ordinal": 665,
+        "level": 2,
+        "title": "川芎",
+        "path": [
+          "熱性藥品",
+          "川芎"
+        ]
+      },
+      {
+        "ordinal": 670,
+        "level": 2,
+        "title": "續斷",
+        "path": [
+          "熱性藥品",
+          "續斷"
+        ]
+      },
+      {
+        "ordinal": 675,
+        "level": 2,
+        "title": "白朮",
+        "path": [
+          "熱性藥品",
+          "白朮"
+        ]
+      },
+      {
+        "ordinal": 680,
+        "level": 2,
+        "title": "益智仁",
+        "path": [
+          "熱性藥品",
+          "益智仁"
+        ]
+      },
+      {
+        "ordinal": 685,
+        "level": 2,
+        "title": "麻黃",
+        "path": [
+          "熱性藥品",
+          "麻黃"
+        ]
+      },
+      {
+        "ordinal": 690,
+        "level": 2,
+        "title": "乳香",
+        "path": [
+          "熱性藥品",
+          "乳香"
+        ]
+      },
+      {
+        "ordinal": 695,
+        "level": 2,
+        "title": "鹿茸",
+        "path": [
+          "熱性藥品",
+          "鹿茸"
+        ]
+      },
+      {
+        "ordinal": 700,
+        "level": 2,
+        "title": "虎骨",
+        "path": [
+          "熱性藥品",
+          "虎骨"
+        ]
+      },
+      {
+        "ordinal": 705,
+        "level": 2,
+        "title": "蓽茇",
+        "path": [
+          "熱性藥品",
+          "蓽茇"
+        ]
+      },
+      {
+        "ordinal": 711,
+        "level": 2,
+        "title": "膃肭臍",
+        "path": [
+          "熱性藥品",
+          "膃肭臍"
+        ]
+      },
+      {
+        "ordinal": 717,
+        "level": 2,
+        "title": "天雄",
+        "path": [
+          "熱性藥品",
+          "天雄"
+        ]
+      },
+      {
+        "ordinal": 723,
+        "level": 2,
+        "title": "韭子",
+        "path": [
+          "熱性藥品",
+          "韭子"
+        ]
+      },
+      {
+        "ordinal": 729,
+        "level": 2,
+        "title": "烏頭",
+        "path": [
+          "熱性藥品",
+          "烏頭"
+        ]
+      },
+      {
+        "ordinal": 735,
+        "level": 2,
+        "title": "鹿角",
+        "path": [
+          "熱性藥品",
+          "鹿角"
+        ]
+      },
+      {
+        "ordinal": 740,
+        "level": 2,
+        "title": "鹿角膠",
+        "path": [
+          "熱性藥品",
+          "鹿角膠"
+        ]
+      },
+      {
+        "ordinal": 745,
+        "level": 2,
+        "title": "紫蘇",
+        "path": [
+          "熱性藥品",
+          "紫蘇"
+        ]
+      },
+      {
+        "ordinal": 750,
+        "level": 2,
+        "title": "萹豆",
+        "path": [
+          "熱性藥品",
+          "萹豆"
+        ]
+      },
+      {
+        "ordinal": 755,
+        "level": 2,
+        "title": "麝香",
+        "path": [
+          "熱性藥品",
+          "麝香"
+        ]
+      },
+      {
+        "ordinal": 760,
+        "level": 2,
+        "title": "當歸",
+        "path": [
+          "熱性藥品",
+          "當歸"
+        ]
+      },
+      {
+        "ordinal": 765,
+        "level": 2,
+        "title": "山茱萸",
+        "path": [
+          "熱性藥品",
+          "山茱萸"
+        ]
+      },
+      {
+        "ordinal": 770,
+        "level": 2,
+        "title": "秦椒",
+        "path": [
+          "熱性藥品",
+          "秦椒"
+        ]
+      },
+      {
+        "ordinal": 776,
+        "level": 2,
+        "title": "蜀椒（即川椒。）",
+        "path": [
+          "熱性藥品",
+          "蜀椒（即川椒。）"
+        ]
+      },
+      {
+        "ordinal": 781,
+        "level": 2,
+        "title": "獨活",
+        "path": [
+          "熱性藥品",
+          "獨活"
+        ]
+      },
+      {
+        "ordinal": 786,
+        "level": 2,
+        "title": "厚朴",
+        "path": [
+          "熱性藥品",
+          "厚朴"
+        ]
+      },
+      {
+        "ordinal": 791,
+        "level": 2,
+        "title": "代赭石",
+        "path": [
+          "熱性藥品",
+          "代赭石"
+        ]
+      },
+      {
+        "ordinal": 796,
+        "level": 2,
+        "title": "葫蘆巴",
+        "path": [
+          "熱性藥品",
+          "葫蘆巴"
+        ]
+      },
+      {
+        "ordinal": 802,
+        "level": 2,
+        "title": "生卷柏",
+        "path": [
+          "熱性藥品",
+          "生卷柏"
+        ]
+      },
+      {
+        "ordinal": 808,
+        "level": 2,
+        "title": "菖蒲",
+        "path": [
+          "熱性藥品",
+          "菖蒲"
+        ]
+      },
+      {
+        "ordinal": 814,
+        "level": 2,
+        "title": "良薑",
+        "path": [
+          "熱性藥品",
+          "良薑"
+        ]
+      },
+      {
+        "ordinal": 825,
+        "level": 2,
+        "title": "丁香",
+        "path": [
+          "熱性藥品",
+          "丁香"
+        ]
+      },
+      {
+        "ordinal": 836,
+        "level": 2,
+        "title": "畏（鬱金）",
+        "path": [
+          "熱性藥品",
+          "畏（鬱金）"
+        ]
+      },
+      {
+        "ordinal": 843,
+        "level": 2,
+        "title": "靈砂",
+        "path": [
+          "熱性藥品",
+          "靈砂"
+        ]
+      },
+      {
+        "ordinal": 849,
+        "level": 2,
+        "title": "蓽澄茄",
+        "path": [
+          "熱性藥品",
+          "蓽澄茄"
+        ]
+      },
+      {
+        "ordinal": 855,
+        "level": 2,
+        "title": "蓬莪朮",
+        "path": [
+          "熱性藥品",
+          "蓬莪朮"
+        ]
+      },
+      {
+        "ordinal": 861,
+        "level": 2,
+        "title": "檀香",
+        "path": [
+          "熱性藥品",
+          "檀香"
+        ]
+      },
+      {
+        "ordinal": 872,
+        "level": 2,
+        "title": "米醋",
+        "path": [
+          "熱性藥品",
+          "米醋"
+        ]
+      },
+      {
+        "ordinal": 878,
+        "level": 2,
+        "title": "五靈脂",
+        "path": [
+          "熱性藥品",
+          "五靈脂"
+        ]
+      },
+      {
+        "ordinal": 884,
+        "level": 2,
+        "title": "騏驎竭",
+        "path": [
+          "熱性藥品",
+          "騏驎竭"
+        ]
+      },
+      {
+        "ordinal": 890,
+        "level": 2,
+        "title": "白花蛇",
+        "path": [
+          "熱性藥品",
+          "白花蛇"
+        ]
+      },
+      {
+        "ordinal": 896,
+        "level": 2,
+        "title": "烏稍蛇",
+        "path": [
+          "熱性藥品",
+          "烏稍蛇"
+        ]
+      },
+      {
+        "ordinal": 902,
+        "level": 2,
+        "title": "烏藥",
+        "path": [
+          "熱性藥品",
+          "烏藥"
+        ]
+      },
+      {
+        "ordinal": 907,
+        "level": 2,
+        "title": "禹餘糧",
+        "path": [
+          "熱性藥品",
+          "禹餘糧"
+        ]
+      },
+      {
+        "ordinal": 913,
+        "level": 2,
+        "title": "鯽魚",
+        "path": [
+          "熱性藥品",
+          "鯽魚"
+        ]
+      },
+      {
+        "ordinal": 919,
+        "level": 2,
+        "title": "巴豆",
+        "path": [
+          "熱性藥品",
+          "巴豆"
+        ]
+      },
+      {
+        "ordinal": 925,
+        "level": 2,
+        "title": "沉香",
+        "path": [
+          "熱性藥品",
+          "沉香"
+        ]
+      },
+      {
+        "ordinal": 931,
+        "level": 2,
+        "title": "橘皮",
+        "path": [
+          "熱性藥品",
+          "橘皮"
+        ]
+      },
+      {
+        "ordinal": 936,
+        "level": 2,
+        "title": "鎖陽",
+        "path": [
+          "熱性藥品",
+          "鎖陽"
+        ]
+      },
+      {
+        "ordinal": 941,
+        "level": 2,
+        "title": "桂心",
+        "path": [
+          "熱性藥品",
+          "桂心"
+        ]
+      },
+      {
+        "ordinal": 947,
+        "level": 2,
+        "title": "米酒",
+        "path": [
+          "熱性藥品",
+          "米酒"
+        ]
+      },
+      {
+        "ordinal": 952,
+        "level": 2,
+        "title": "燒酒",
+        "path": [
+          "熱性藥品",
+          "燒酒"
+        ]
+      },
+      {
+        "ordinal": 957,
+        "level": 1,
+        "title": "溫性藥品",
+        "path": [
+          "溫性藥品"
+        ]
+      },
+      {
+        "ordinal": 958,
+        "level": 2,
+        "title": "穀精草",
+        "path": [
+          "溫性藥品",
+          "穀精草"
+        ]
+      },
+      {
+        "ordinal": 963,
+        "level": 2,
+        "title": "白芥子",
+        "path": [
+          "溫性藥品",
+          "白芥子"
+        ]
+      },
+      {
+        "ordinal": 968,
+        "level": 2,
+        "title": "木香",
+        "path": [
+          "溫性藥品",
+          "木香"
+        ]
+      },
+      {
+        "ordinal": 973,
+        "level": 2,
+        "title": "半夏",
+        "path": [
+          "溫性藥品",
+          "半夏"
+        ]
+      },
+      {
+        "ordinal": 978,
+        "level": 2,
+        "title": "蒼朮",
+        "path": [
+          "溫性藥品",
+          "蒼朮"
+        ]
+      },
+      {
+        "ordinal": 983,
+        "level": 2,
+        "title": "山藥",
+        "path": [
+          "溫性藥品",
+          "山藥"
+        ]
+      },
+      {
+        "ordinal": 988,
+        "level": 2,
+        "title": "阿膠",
+        "path": [
+          "溫性藥品",
+          "阿膠"
+        ]
+      },
+      {
+        "ordinal": 993,
+        "level": 2,
+        "title": "萊菔子",
+        "path": [
+          "溫性藥品",
+          "萊菔子"
+        ]
+      },
+      {
+        "ordinal": 998,
+        "level": 2,
+        "title": "威靈仙",
+        "path": [
+          "溫性藥品",
+          "威靈仙"
+        ]
+      },
+      {
+        "ordinal": 1003,
+        "level": 2,
+        "title": "細辛",
+        "path": [
+          "溫性藥品",
+          "細辛"
+        ]
+      },
+      {
+        "ordinal": 1009,
+        "level": 2,
+        "title": "艾",
+        "path": [
+          "溫性藥品",
+          "艾"
+        ]
+      },
+      {
+        "ordinal": 1014,
+        "level": 2,
+        "title": "延胡索",
+        "path": [
+          "溫性藥品",
+          "延胡索"
+        ]
+      },
+      {
+        "ordinal": 1019,
+        "level": 2,
+        "title": "白芷",
+        "path": [
+          "溫性藥品",
+          "白芷"
+        ]
+      },
+      {
+        "ordinal": 1025,
+        "level": 2,
+        "title": "骨碎補",
+        "path": [
+          "溫性藥品",
+          "骨碎補"
+        ]
+      },
+      {
+        "ordinal": 1030,
+        "level": 2,
+        "title": "羌活",
+        "path": [
+          "溫性藥品",
+          "羌活"
+        ]
+      },
+      {
+        "ordinal": 1035,
+        "level": 2,
+        "title": "木瓜",
+        "path": [
+          "溫性藥品",
+          "木瓜"
+        ]
+      },
+      {
+        "ordinal": 1040,
+        "level": 2,
+        "title": "仙茅",
+        "path": [
+          "溫性藥品",
+          "仙茅"
+        ]
+      },
+      {
+        "ordinal": 1045,
+        "level": 2,
+        "title": "何首烏",
+        "path": [
+          "溫性藥品",
+          "何首烏"
+        ]
+      },
+      {
+        "ordinal": 1052,
+        "level": 2,
+        "title": "蘇子",
+        "path": [
+          "溫性藥品",
+          "蘇子"
+        ]
+      },
+      {
+        "ordinal": 1057,
+        "level": 2,
+        "title": "淡豆豉",
+        "path": [
+          "溫性藥品",
+          "淡豆豉"
+        ]
+      },
+      {
+        "ordinal": 1062,
+        "level": 2,
+        "title": "蘹香",
+        "path": [
+          "溫性藥品",
+          "蘹香"
+        ]
+      },
+      {
+        "ordinal": 1067,
+        "level": 2,
+        "title": "麻仁",
+        "path": [
+          "溫性藥品",
+          "麻仁"
+        ]
+      },
+      {
+        "ordinal": 1072,
+        "level": 2,
+        "title": "黃耆",
+        "path": [
+          "溫性藥品",
+          "黃耆"
+        ]
+      },
+      {
+        "ordinal": 1078,
+        "level": 2,
+        "title": "菟絲子",
+        "path": [
+          "溫性藥品",
+          "菟絲子"
+        ]
+      },
+      {
+        "ordinal": 1084,
+        "level": 2,
+        "title": "杏仁",
+        "path": [
+          "溫性藥品",
+          "杏仁"
+        ]
+      },
+      {
+        "ordinal": 1089,
+        "level": 2,
+        "title": "秦艽",
+        "path": [
+          "溫性藥品",
+          "秦艽"
+        ]
+      },
+      {
+        "ordinal": 1096,
+        "level": 2,
+        "title": "檳榔",
+        "path": [
+          "溫性藥品",
+          "檳榔"
+        ]
+      },
+      {
+        "ordinal": 1101,
+        "level": 2,
+        "title": "杜仲",
+        "path": [
+          "溫性藥品",
+          "杜仲"
+        ]
+      },
+      {
+        "ordinal": 1108,
+        "level": 2,
+        "title": "薑黃",
+        "path": [
+          "溫性藥品",
+          "薑黃"
+        ]
+      },
+      {
+        "ordinal": 1113,
+        "level": 2,
+        "title": "石鐘乳",
+        "path": [
+          "溫性藥品",
+          "石鐘乳"
+        ]
+      },
+      {
+        "ordinal": 1118,
+        "level": 2,
+        "title": "青鹽",
+        "path": [
+          "溫性藥品",
+          "青鹽"
+        ]
+      },
+      {
+        "ordinal": 1123,
+        "level": 2,
+        "title": "赤石脂",
+        "path": [
+          "溫性藥品",
+          "赤石脂"
+        ]
+      },
+      {
+        "ordinal": 1128,
+        "level": 2,
+        "title": "白石脂",
+        "path": [
+          "溫性藥品",
+          "白石脂"
+        ]
+      },
+      {
+        "ordinal": 1134,
+        "level": 2,
+        "title": "陽起石",
+        "path": [
+          "溫性藥品",
+          "陽起石"
+        ]
+      },
+      {
+        "ordinal": 1140,
+        "level": 2,
+        "title": "紫菀",
+        "path": [
+          "溫性藥品",
+          "紫菀"
+        ]
+      },
+      {
+        "ordinal": 1147,
+        "level": 2,
+        "title": "蒼耳子",
+        "path": [
+          "溫性藥品",
+          "蒼耳子"
+        ]
+      },
+      {
+        "ordinal": 1154,
+        "level": 2,
+        "title": "劉寄奴",
+        "path": [
+          "溫性藥品",
+          "劉寄奴"
+        ]
+      },
+      {
+        "ordinal": 1160,
+        "level": 2,
+        "title": "豆蔻",
+        "path": [
+          "溫性藥品",
+          "豆蔻"
+        ]
+      },
+      {
+        "ordinal": 1166,
+        "level": 2,
+        "title": "款冬花",
+        "path": [
+          "溫性藥品",
+          "款冬花"
+        ]
+      },
+      {
+        "ordinal": 1172,
+        "level": 2,
+        "title": "藁本",
+        "path": [
+          "溫性藥品",
+          "藁本"
+        ]
+      },
+      {
+        "ordinal": 1178,
+        "level": 2,
+        "title": "補骨脂",
+        "path": [
+          "溫性藥品",
+          "補骨脂"
+        ]
+      },
+      {
+        "ordinal": 1184,
+        "level": 2,
+        "title": "忍冬",
+        "path": [
+          "溫性藥品",
+          "忍冬"
+        ]
+      },
+      {
+        "ordinal": 1190,
+        "level": 2,
+        "title": "使君子",
+        "path": [
+          "溫性藥品",
+          "使君子"
+        ]
+      },
+      {
+        "ordinal": 1195,
+        "level": 2,
+        "title": "五倍子",
+        "path": [
+          "溫性藥品",
+          "五倍子"
+        ]
+      },
+      {
+        "ordinal": 1200,
+        "level": 2,
+        "title": "訶子",
+        "path": [
+          "溫性藥品",
+          "訶子"
+        ]
+      },
+      {
+        "ordinal": 1206,
+        "level": 2,
+        "title": "芫花",
+        "path": [
+          "溫性藥品",
+          "芫花"
+        ]
+      },
+      {
+        "ordinal": 1211,
+        "level": 2,
+        "title": "益母草",
+        "path": [
+          "溫性藥品",
+          "益母草"
+        ]
+      },
+      {
+        "ordinal": 1217,
+        "level": 2,
+        "title": "紫石英",
+        "path": [
+          "溫性藥品",
+          "紫石英"
+        ]
+      },
+      {
+        "ordinal": 1224,
+        "level": 2,
+        "title": "橘核仁",
+        "path": [
+          "溫性藥品",
+          "橘核仁"
+        ]
+      },
+      {
+        "ordinal": 1230,
+        "level": 2,
+        "title": "金櫻子",
+        "path": [
+          "溫性藥品",
+          "金櫻子"
+        ]
+      },
+      {
+        "ordinal": 1235,
+        "level": 2,
+        "title": "大薊根",
+        "path": [
+          "溫性藥品",
+          "大薊根"
+        ]
+      },
+      {
+        "ordinal": 1240,
+        "level": 2,
+        "title": "小薊根",
+        "path": [
+          "溫性藥品",
+          "小薊根"
+        ]
+      },
+      {
+        "ordinal": 1245,
+        "level": 2,
+        "title": "莪朮",
+        "path": [
+          "溫性藥品",
+          "莪朮"
+        ]
+      },
+      {
+        "ordinal": 1251,
+        "level": 2,
+        "title": "狗脊",
+        "path": [
+          "溫性藥品",
+          "狗脊"
+        ]
+      },
+      {
+        "ordinal": 1256,
+        "level": 2,
+        "title": "蠡實",
+        "path": [
+          "溫性藥品",
+          "蠡實"
+        ]
+      },
+      {
+        "ordinal": 1265,
+        "level": 2,
+        "title": "海帶",
+        "path": [
+          "溫性藥品",
+          "海帶"
+        ]
+      },
+      {
+        "ordinal": 1270,
+        "level": 2,
+        "title": "晚蠶砂",
+        "path": [
+          "溫性藥品",
+          "晚蠶砂"
+        ]
+      },
+      {
+        "ordinal": 1276,
+        "level": 2,
+        "title": "全蠍",
+        "path": [
+          "溫性藥品",
+          "全蠍"
+        ]
+      },
+      {
+        "ordinal": 1281,
+        "level": 2,
+        "title": "郁李仁",
+        "path": [
+          "溫性藥品",
+          "郁李仁"
+        ]
+      },
+      {
+        "ordinal": 1287,
+        "level": 2,
+        "title": "穬麥糵",
+        "path": [
+          "溫性藥品",
+          "穬麥糵"
+        ]
+      },
+      {
+        "ordinal": 1293,
+        "level": 2,
+        "title": "谷糵",
+        "path": [
+          "溫性藥品",
+          "谷糵"
+        ]
+      },
+      {
+        "ordinal": 1299,
+        "level": 2,
+        "title": "蜈蚣",
+        "path": [
+          "溫性藥品",
+          "蜈蚣"
+        ]
+      },
+      {
+        "ordinal": 1305,
+        "level": 2,
+        "title": "爐甘石",
+        "path": [
+          "溫性藥品",
+          "爐甘石"
+        ]
+      },
+      {
+        "ordinal": 1311,
+        "level": 2,
+        "title": "陽起石",
+        "path": [
+          "溫性藥品",
+          "陽起石"
+        ]
+      },
+      {
+        "ordinal": 1317,
+        "level": 2,
+        "title": "桃花石",
+        "path": [
+          "溫性藥品",
+          "桃花石"
+        ]
+      },
+      {
+        "ordinal": 1323,
+        "level": 2,
+        "title": "麥飯石",
+        "path": [
+          "溫性藥品",
+          "麥飯石"
+        ]
+      },
+      {
+        "ordinal": 1329,
+        "level": 2,
+        "title": "玄精石",
+        "path": [
+          "溫性藥品",
+          "玄精石"
+        ]
+      },
+      {
+        "ordinal": 1334,
+        "level": 2,
+        "title": "硼砂",
+        "path": [
+          "溫性藥品",
+          "硼砂"
+        ]
+      },
+      {
+        "ordinal": 1339,
+        "level": 2,
+        "title": "玄明粉",
+        "path": [
+          "溫性藥品",
+          "玄明粉"
+        ]
+      },
+      {
+        "ordinal": 1344,
+        "level": 2,
+        "title": "蟾酥",
+        "path": [
+          "溫性藥品",
+          "蟾酥"
+        ]
+      },
+      {
+        "ordinal": 1349,
+        "level": 2,
+        "title": "石硫黃",
+        "path": [
+          "溫性藥品",
+          "石硫黃"
+        ]
+      },
+      {
+        "ordinal": 1354,
+        "level": 2,
+        "title": "長松根",
+        "path": [
+          "溫性藥品",
+          "長松根"
+        ]
+      },
+      {
+        "ordinal": 1359,
+        "level": 2,
+        "title": "白頭翁",
+        "path": [
+          "溫性藥品",
+          "白頭翁"
+        ]
+      },
+      {
+        "ordinal": 1365,
+        "level": 2,
+        "title": "山慈菇",
+        "path": [
+          "溫性藥品",
+          "山慈菇"
+        ]
+      },
+      {
+        "ordinal": 1370,
+        "level": 2,
+        "title": "石蒜",
+        "path": [
+          "溫性藥品",
+          "石蒜"
+        ]
+      },
+      {
+        "ordinal": 1376,
+        "level": 2,
+        "title": "杜衡",
+        "path": [
+          "溫性藥品",
+          "杜衡"
+        ]
+      },
+      {
+        "ordinal": 1382,
+        "level": 2,
+        "title": "三七根",
+        "path": [
+          "溫性藥品",
+          "三七根"
+        ]
+      },
+      {
+        "ordinal": 1388,
+        "level": 2,
+        "title": "列當",
+        "path": [
+          "溫性藥品",
+          "列當"
+        ]
+      },
+      {
+        "ordinal": 1394,
+        "level": 2,
+        "title": "蘼蕪",
+        "path": [
+          "溫性藥品",
+          "蘼蕪"
+        ]
+      },
+      {
+        "ordinal": 1402,
+        "level": 2,
+        "title": "藿香葉",
+        "path": [
+          "溫性藥品",
+          "藿香葉"
+        ]
+      },
+      {
+        "ordinal": 1407,
+        "level": 2,
+        "title": "山奈根",
+        "path": [
+          "溫性藥品",
+          "山奈根"
+        ]
+      },
+      {
+        "ordinal": 1412,
+        "level": 2,
+        "title": "排草香",
+        "path": [
+          "溫性藥品",
+          "排草香"
+        ]
+      },
+      {
+        "ordinal": 1417,
+        "level": 2,
+        "title": "野菊",
+        "path": [
+          "溫性藥品",
+          "野菊"
+        ]
+      },
+      {
+        "ordinal": 1423,
+        "level": 2,
+        "title": "澤蘭",
+        "path": [
+          "溫性藥品",
+          "澤蘭"
+        ]
+      },
+      {
+        "ordinal": 1429,
+        "level": 2,
+        "title": "水蘇",
+        "path": [
+          "溫性藥品",
+          "水蘇"
+        ]
+      },
+      {
+        "ordinal": 1435,
+        "level": 2,
+        "title": "由跋",
+        "path": [
+          "溫性藥品",
+          "由跋"
+        ]
+      },
+      {
+        "ordinal": 1441,
+        "level": 2,
+        "title": "鳳仙",
+        "path": [
+          "溫性藥品",
+          "鳳仙"
+        ]
+      },
+      {
+        "ordinal": 1447,
+        "level": 2,
+        "title": "木藜蘆",
+        "path": [
+          "溫性藥品",
+          "木藜蘆"
+        ]
+      },
+      {
+        "ordinal": 1452,
+        "level": 2,
+        "title": "木鱉子仁",
+        "path": [
+          "溫性藥品",
+          "木鱉子仁"
+        ]
+      },
+      {
+        "ordinal": 1457,
+        "level": 2,
+        "title": "降真香",
+        "path": [
+          "溫性藥品",
+          "降真香"
+        ]
+      },
+      {
+        "ordinal": 1462,
+        "level": 2,
+        "title": "樟腦",
+        "path": [
+          "溫性藥品",
+          "樟腦"
+        ]
+      },
+      {
+        "ordinal": 1468,
+        "level": 2,
+        "title": "阿芙蓉",
+        "path": [
+          "溫性藥品",
+          "阿芙蓉"
+        ]
+      },
+      {
+        "ordinal": 1474,
+        "level": 2,
+        "title": "曲",
+        "path": [
+          "溫性藥品",
+          "曲"
+        ]
+      },
+      {
+        "ordinal": 1487,
+        "level": 2,
+        "title": "飴糖",
+        "path": [
+          "溫性藥品",
+          "飴糖"
+        ]
+      },
+      {
+        "ordinal": 1493,
+        "level": 2,
+        "title": "血餘",
+        "path": [
+          "溫性藥品",
+          "血餘"
+        ]
+      },
+      {
+        "ordinal": 1499,
+        "level": 1,
+        "title": "平性藥品",
+        "path": [
+          "平性藥品"
+        ]
+      },
+      {
+        "ordinal": 1500,
+        "level": 2,
+        "title": "天麻",
+        "path": [
+          "平性藥品",
+          "天麻"
+        ]
+      },
+      {
+        "ordinal": 1505,
+        "level": 2,
+        "title": "草決明",
+        "path": [
+          "平性藥品",
+          "草決明"
+        ]
+      },
+      {
+        "ordinal": 1514,
+        "level": 2,
+        "title": "硃砂",
+        "path": [
+          "平性藥品",
+          "硃砂"
+        ]
+      },
+      {
+        "ordinal": 1519,
+        "level": 2,
+        "title": "木賊草",
+        "path": [
+          "平性藥品",
+          "木賊草"
+        ]
+      },
+      {
+        "ordinal": 1524,
+        "level": 2,
+        "title": "覆盆子",
+        "path": [
+          "平性藥品",
+          "覆盆子"
+        ]
+      },
+      {
+        "ordinal": 1529,
+        "level": 2,
+        "title": "牛膝",
+        "path": [
+          "平性藥品",
+          "牛膝"
+        ]
+      },
+      {
+        "ordinal": 1534,
+        "level": 2,
+        "title": "龍骨",
+        "path": [
+          "平性藥品",
+          "龍骨"
+        ]
+      },
+      {
+        "ordinal": 1539,
+        "level": 2,
+        "title": "人參",
+        "path": [
+          "平性藥品",
+          "人參"
+        ]
+      },
+      {
+        "ordinal": 1545,
+        "level": 2,
+        "title": "蒺藜",
+        "path": [
+          "平性藥品",
+          "蒺藜"
+        ]
+      },
+      {
+        "ordinal": 1550,
+        "level": 2,
+        "title": "天南星",
+        "path": [
+          "平性藥品",
+          "天南星"
+        ]
+      },
+      {
+        "ordinal": 1556,
+        "level": 2,
+        "title": "蛤蚧",
+        "path": [
+          "平性藥品",
+          "蛤蚧"
+        ]
+      },
+      {
+        "ordinal": 1562,
+        "level": 2,
+        "title": "桑寄生",
+        "path": [
+          "平性藥品",
+          "桑寄生"
+        ]
+      },
+      {
+        "ordinal": 1567,
+        "level": 2,
+        "title": "棗仁",
+        "path": [
+          "平性藥品",
+          "棗仁"
+        ]
+      },
+      {
+        "ordinal": 1572,
+        "level": 2,
+        "title": "遠志",
+        "path": [
+          "平性藥品",
+          "遠志"
+        ]
+      },
+      {
+        "ordinal": 1577,
+        "level": 2,
+        "title": "沒藥",
+        "path": [
+          "平性藥品",
+          "沒藥"
+        ]
+      },
+      {
+        "ordinal": 1582,
+        "level": 2,
+        "title": "茯神",
+        "path": [
+          "平性藥品",
+          "茯神"
+        ]
+      },
+      {
+        "ordinal": 1587,
+        "level": 2,
+        "title": "（白赤）茯苓",
+        "path": [
+          "平性藥品",
+          "（白赤）茯苓"
+        ]
+      },
+      {
+        "ordinal": 1592,
+        "level": 2,
+        "title": "小麥",
+        "path": [
+          "平性藥品",
+          "小麥"
+        ]
+      },
+      {
+        "ordinal": 1597,
+        "level": 2,
+        "title": "白附子",
+        "path": [
+          "平性藥品",
+          "白附子"
+        ]
+      },
+      {
+        "ordinal": 1602,
+        "level": 2,
+        "title": "紫河車",
+        "path": [
+          "平性藥品",
+          "紫河車"
+        ]
+      },
+      {
+        "ordinal": 1608,
+        "level": 2,
+        "title": "大棗",
+        "path": [
+          "平性藥品",
+          "大棗"
+        ]
+      },
+      {
+        "ordinal": 1613,
+        "level": 2,
+        "title": "龜甲",
+        "path": [
+          "平性藥品",
+          "龜甲"
+        ]
+      },
+      {
+        "ordinal": 1619,
+        "level": 2,
+        "title": "神麯",
+        "path": [
+          "平性藥品",
+          "神麯"
+        ]
+      },
+      {
+        "ordinal": 1625,
+        "level": 2,
+        "title": "五加皮",
+        "path": [
+          "平性藥品",
+          "五加皮"
+        ]
+      },
+      {
+        "ordinal": 1630,
+        "level": 2,
+        "title": "殭蠶",
+        "path": [
+          "平性藥品",
+          "殭蠶"
+        ]
+      },
+      {
+        "ordinal": 1636,
+        "level": 2,
+        "title": "百合",
+        "path": [
+          "平性藥品",
+          "百合"
+        ]
+      },
+      {
+        "ordinal": 1641,
+        "level": 2,
+        "title": "阿魏",
+        "path": [
+          "平性藥品",
+          "阿魏"
+        ]
+      },
+      {
+        "ordinal": 1647,
+        "level": 2,
+        "title": "龍眼肉",
+        "path": [
+          "平性藥品",
+          "龍眼肉"
+        ]
+      },
+      {
+        "ordinal": 1652,
+        "level": 2,
+        "title": "鼠黏子",
+        "path": [
+          "平性藥品",
+          "鼠黏子"
+        ]
+      },
+      {
+        "ordinal": 1657,
+        "level": 2,
+        "title": "蓖麻子",
+        "path": [
+          "平性藥品",
+          "蓖麻子"
+        ]
+      },
+      {
+        "ordinal": 1662,
+        "level": 2,
+        "title": "礞石",
+        "path": [
+          "平性藥品",
+          "礞石"
+        ]
+      },
+      {
+        "ordinal": 1667,
+        "level": 2,
+        "title": "白前",
+        "path": [
+          "平性藥品",
+          "白前"
+        ]
+      },
+      {
+        "ordinal": 1672,
+        "level": 2,
+        "title": "鉤藤",
+        "path": [
+          "平性藥品",
+          "鉤藤"
+        ]
+      },
+      {
+        "ordinal": 1677,
+        "level": 2,
+        "title": "巴戟天",
+        "path": [
+          "平性藥品",
+          "巴戟天"
+        ]
+      },
+      {
+        "ordinal": 1683,
+        "level": 2,
+        "title": "枸杞子",
+        "path": [
+          "平性藥品",
+          "枸杞子"
+        ]
+      },
+      {
+        "ordinal": 1688,
+        "level": 2,
+        "title": "密蒙花",
+        "path": [
+          "平性藥品",
+          "密蒙花"
+        ]
+      },
+      {
+        "ordinal": 1694,
+        "level": 2,
+        "title": "茺蔚",
+        "path": [
+          "平性藥品",
+          "茺蔚"
+        ]
+      },
+      {
+        "ordinal": 1700,
+        "level": 2,
+        "title": "葳蕤",
+        "path": [
+          "平性藥品",
+          "葳蕤"
+        ]
+      },
+      {
+        "ordinal": 1706,
+        "level": 2,
+        "title": "三稜",
+        "path": [
+          "平性藥品",
+          "三稜"
+        ]
+      },
+      {
+        "ordinal": 1711,
+        "level": 2,
+        "title": "萆薢",
+        "path": [
+          "平性藥品",
+          "萆薢"
+        ]
+      },
+      {
+        "ordinal": 1716,
+        "level": 2,
+        "title": "土茯苓",
+        "path": [
+          "平性藥品",
+          "土茯苓"
+        ]
+      },
+      {
+        "ordinal": 1721,
+        "level": 2,
+        "title": "蕪荑",
+        "path": [
+          "平性藥品",
+          "蕪荑"
+        ]
+      },
+      {
+        "ordinal": 1726,
+        "level": 2,
+        "title": "藿香",
+        "path": [
+          "平性藥品",
+          "藿香"
+        ]
+      },
+      {
+        "ordinal": 1731,
+        "level": 2,
+        "title": "香薷",
+        "path": [
+          "平性藥品",
+          "香薷"
+        ]
+      },
+      {
+        "ordinal": 1736,
+        "level": 2,
+        "title": "蔥莖白",
+        "path": [
+          "平性藥品",
+          "蔥莖白"
+        ]
+      },
+      {
+        "ordinal": 1741,
+        "level": 2,
+        "title": "粳米",
+        "path": [
+          "平性藥品",
+          "粳米"
+        ]
+      },
+      {
+        "ordinal": 1747,
+        "level": 2,
+        "title": "硇砂",
+        "path": [
+          "平性藥品",
+          "硇砂"
+        ]
+      },
+      {
+        "ordinal": 1754,
+        "level": 2,
+        "title": "芡實",
+        "path": [
+          "平性藥品",
+          "芡實"
+        ]
+      },
+      {
+        "ordinal": 1760,
+        "level": 2,
+        "title": "茗茶",
+        "path": [
+          "平性藥品",
+          "茗茶"
+        ]
+      },
+      {
+        "ordinal": 1765,
+        "level": 2,
+        "title": "大麥",
+        "path": [
+          "平性藥品",
+          "大麥"
+        ]
+      },
+      {
+        "ordinal": 1770,
+        "level": 2,
+        "title": "蒲黃",
+        "path": [
+          "平性藥品",
+          "蒲黃"
+        ]
+      },
+      {
+        "ordinal": 1776,
+        "level": 2,
+        "title": "商陸",
+        "path": [
+          "平性藥品",
+          "商陸"
+        ]
+      },
+      {
+        "ordinal": 1782,
+        "level": 2,
+        "title": "甘松",
+        "path": [
+          "平性藥品",
+          "甘松"
+        ]
+      },
+      {
+        "ordinal": 1787,
+        "level": 2,
+        "title": "無食子",
+        "path": [
+          "平性藥品",
+          "無食子"
+        ]
+      },
+      {
+        "ordinal": 1793,
+        "level": 2,
+        "title": "皂莢",
+        "path": [
+          "平性藥品",
+          "皂莢"
+        ]
+      },
+      {
+        "ordinal": 1812,
+        "level": 2,
+        "title": "蒲公英",
+        "path": [
+          "平性藥品",
+          "蒲公英"
+        ]
+      },
+      {
+        "ordinal": 1817,
+        "level": 2,
+        "title": "桑螵蛸",
+        "path": [
+          "平性藥品",
+          "桑螵蛸"
+        ]
+      },
+      {
+        "ordinal": 1822,
+        "level": 2,
+        "title": "椿樗皮",
+        "path": [
+          "平性藥品",
+          "椿樗皮"
+        ]
+      },
+      {
+        "ordinal": 1828,
+        "level": 2,
+        "title": "柏子仁",
+        "path": [
+          "平性藥品",
+          "柏子仁"
+        ]
+      },
+      {
+        "ordinal": 1834,
+        "level": 2,
+        "title": "安息香",
+        "path": [
+          "平性藥品",
+          "安息香"
+        ]
+      },
+      {
+        "ordinal": 1840,
+        "level": 2,
+        "title": "黃土",
+        "path": [
+          "平性藥品",
+          "黃土"
+        ]
+      },
+      {
+        "ordinal": 1846,
+        "level": 2,
+        "title": "太陽土",
+        "path": [
+          "平性藥品",
+          "太陽土"
+        ]
+      },
+      {
+        "ordinal": 1851,
+        "level": 2,
+        "title": "道中熱土",
+        "path": [
+          "平性藥品",
+          "道中熱土"
+        ]
+      },
+      {
+        "ordinal": 1856,
+        "level": 2,
+        "title": "大腹子",
+        "path": [
+          "平性藥品",
+          "大腹子"
+        ]
+      },
+      {
+        "ordinal": 1861,
+        "level": 2,
+        "title": "【皮】",
+        "path": [
+          "平性藥品",
+          "【皮】"
+        ]
+      },
+      {
+        "ordinal": 1867,
+        "level": 2,
+        "title": "冬瓜仁",
+        "path": [
+          "平性藥品",
+          "冬瓜仁"
+        ]
+      },
+      {
+        "ordinal": 1873,
+        "level": 2,
+        "title": "赤小豆",
+        "path": [
+          "平性藥品",
+          "赤小豆"
+        ]
+      },
+      {
+        "ordinal": 1879,
+        "level": 2,
+        "title": "銅青",
+        "path": [
+          "平性藥品",
+          "銅青"
+        ]
+      },
+      {
+        "ordinal": 1885,
+        "level": 2,
+        "title": "密陀僧",
+        "path": [
+          "平性藥品",
+          "密陀僧"
+        ]
+      },
+      {
+        "ordinal": 1890,
+        "level": 2,
+        "title": "珊瑚",
+        "path": [
+          "平性藥品",
+          "珊瑚"
+        ]
+      },
+      {
+        "ordinal": 1895,
+        "level": 2,
+        "title": "石楠葉",
+        "path": [
+          "平性藥品",
+          "石楠葉"
+        ]
+      },
+      {
+        "ordinal": 1900,
+        "level": 2,
+        "title": "鱉甲",
+        "path": [
+          "平性藥品",
+          "鱉甲"
+        ]
+      },
+      {
+        "ordinal": 1906,
+        "level": 2,
+        "title": "石青",
+        "path": [
+          "平性藥品",
+          "石青"
+        ]
+      },
+      {
+        "ordinal": 1912,
+        "level": 2,
+        "title": "花乳石",
+        "path": [
+          "平性藥品",
+          "花乳石"
+        ]
+      },
+      {
+        "ordinal": 1918,
+        "level": 2,
+        "title": "白芨根",
+        "path": [
+          "平性藥品",
+          "白芨根"
+        ]
+      },
+      {
+        "ordinal": 1924,
+        "level": 2,
+        "title": "黃精",
+        "path": [
+          "平性藥品",
+          "黃精"
+        ]
+      },
+      {
+        "ordinal": 1929,
+        "level": 2,
+        "title": "蛇床子",
+        "path": [
+          "平性藥品",
+          "蛇床子"
+        ]
+      },
+      {
+        "ordinal": 1935,
+        "level": 2,
+        "title": "白茅香",
+        "path": [
+          "平性藥品",
+          "白茅香"
+        ]
+      },
+      {
+        "ordinal": 1940,
+        "level": 2,
+        "title": "兜納香",
+        "path": [
+          "平性藥品",
+          "兜納香"
+        ]
+      },
+      {
+        "ordinal": 1945,
+        "level": 2,
+        "title": "草犀",
+        "path": [
+          "平性藥品",
+          "草犀"
+        ]
+      },
+      {
+        "ordinal": 1951,
+        "level": 2,
+        "title": "吉利草",
+        "path": [
+          "平性藥品",
+          "吉利草"
+        ]
+      },
+      {
+        "ordinal": 1956,
+        "level": 2,
+        "title": "百兩金",
+        "path": [
+          "平性藥品",
+          "百兩金"
+        ]
+      },
+      {
+        "ordinal": 1961,
+        "level": 2,
+        "title": "錦地羅",
+        "path": [
+          "平性藥品",
+          "錦地羅"
+        ]
+      },
+      {
+        "ordinal": 1966,
+        "level": 2,
+        "title": "曲節草",
+        "path": [
+          "平性藥品",
+          "曲節草"
+        ]
+      },
+      {
+        "ordinal": 1971,
+        "level": 2,
+        "title": "燕脂",
+        "path": [
+          "平性藥品",
+          "燕脂"
+        ]
+      },
+      {
+        "ordinal": 1976,
+        "level": 2,
+        "title": "莔麻",
+        "path": [
+          "平性藥品",
+          "莔麻"
+        ]
+      },
+      {
+        "ordinal": 1981,
+        "level": 2,
+        "title": "敗醬",
+        "path": [
+          "平性藥品",
+          "敗醬"
+        ]
+      },
+      {
+        "ordinal": 1987,
+        "level": 2,
+        "title": "王不留行",
+        "path": [
+          "平性藥品",
+          "王不留行"
+        ]
+      },
+      {
+        "ordinal": 1992,
+        "level": 2,
+        "title": "迎春花",
+        "path": [
+          "平性藥品",
+          "迎春花"
+        ]
+      },
+      {
+        "ordinal": 1998,
+        "level": 2,
+        "title": "鼠麴草",
+        "path": [
+          "平性藥品",
+          "鼠麴草"
+        ]
+      },
+      {
+        "ordinal": 2004,
+        "level": 2,
+        "title": "薰草",
+        "path": [
+          "平性藥品",
+          "薰草"
+        ]
+      },
+      {
+        "ordinal": 2010,
+        "level": 2,
+        "title": "懸鉤子",
+        "path": [
+          "平性藥品",
+          "懸鉤子"
+        ]
+      },
+      {
+        "ordinal": 2021,
+        "level": 2,
+        "title": "榼藤子仁",
+        "path": [
+          "平性藥品",
+          "榼藤子仁"
+        ]
+      },
+      {
+        "ordinal": 2026,
+        "level": 2,
+        "title": "白蘞",
+        "path": [
+          "平性藥品",
+          "白蘞"
+        ]
+      },
+      {
+        "ordinal": 2031,
+        "level": 2,
+        "title": "黃藥子",
+        "path": [
+          "平性藥品",
+          "黃藥子"
+        ]
+      },
+      {
+        "ordinal": 2036,
+        "level": 2,
+        "title": "木芙蓉",
+        "path": [
+          "平性藥品",
+          "木芙蓉"
+        ]
+      },
+      {
+        "ordinal": 2041,
+        "level": 2,
+        "title": "合歡",
+        "path": [
+          "平性藥品",
+          "合歡"
+        ]
+      },
+      {
+        "ordinal": 2047,
+        "level": 2,
+        "title": "豬腰子",
+        "path": [
+          "平性藥品",
+          "豬腰子"
+        ]
+      },
+      {
+        "ordinal": 2052,
+        "level": 2,
+        "title": "青風藤",
+        "path": [
+          "平性藥品",
+          "青風藤"
+        ]
+      },
+      {
+        "ordinal": 2061,
+        "level": 2,
+        "title": "蜂蜜",
+        "path": [
+          "平性藥品",
+          "蜂蜜"
+        ]
+      },
+      {
+        "ordinal": 2067,
+        "level": 2,
+        "title": "露蜂房",
+        "path": [
+          "平性藥品",
+          "露蜂房"
+        ]
+      },
+      {
+        "ordinal": 2072,
+        "level": 2,
+        "title": "乳汁",
+        "path": [
+          "平性藥品",
+          "乳汁"
+        ]
+      },
+      {
+        "ordinal": 2077,
+        "level": 2,
+        "title": "口津唾",
+        "path": [
+          "平性藥品",
+          "口津唾"
+        ]
+      },
+      {
+        "ordinal": 2082,
+        "level": 2,
+        "title": "兔屎",
+        "path": [
+          "平性藥品",
+          "兔屎"
+        ]
+      },
+      {
+        "ordinal": 2088,
+        "level": 1,
+        "title": "後序",
+        "path": [
+          "後序"
+        ]
+      },
+      {
+        "ordinal": 2091,
+        "level": 1,
+        "title": "跋",
+        "path": [
+          "跋"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 377,
+      "paragraph_blocks": 1716,
+      "nonempty_paragraph_blocks": 1716,
+      "represented_paragraph_blocks": 1716
+    }
+  }
+]

@@ -1,0 +1,682 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E9%9B%9C%E7%97%85%E6%B2%BB%E4%BE%8B/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "書《玉機微義》後",
+        "path": [
+          "書《玉機微義》後"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "蘭室集·醫家十要",
+        "path": [
+          "蘭室集·醫家十要"
+        ]
+      },
+      {
+        "ordinal": 19,
+        "level": 1,
+        "title": "蘭室誓戒",
+        "path": [
+          "蘭室誓戒"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 1,
+        "title": "戒行吟",
+        "path": [
+          "戒行吟"
+        ]
+      },
+      {
+        "ordinal": 27,
+        "level": 1,
+        "title": "調鼎吟",
+        "path": [
+          "調鼎吟"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 1,
+        "title": "風",
+        "path": [
+          "風"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 1,
+        "title": "火",
+        "path": [
+          "火"
+        ]
+      },
+      {
+        "ordinal": 77,
+        "level": 1,
+        "title": "暑",
+        "path": [
+          "暑"
+        ]
+      },
+      {
+        "ordinal": 88,
+        "level": 1,
+        "title": "濕",
+        "path": [
+          "濕"
+        ]
+      },
+      {
+        "ordinal": 97,
+        "level": 1,
+        "title": "燥",
+        "path": [
+          "燥"
+        ]
+      },
+      {
+        "ordinal": 108,
+        "level": 1,
+        "title": "寒",
+        "path": [
+          "寒"
+        ]
+      },
+      {
+        "ordinal": 120,
+        "level": 1,
+        "title": "發熱",
+        "path": [
+          "發熱"
+        ]
+      },
+      {
+        "ordinal": 159,
+        "level": 1,
+        "title": "腹痛",
+        "path": [
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 179,
+        "level": 1,
+        "title": "頭痛",
+        "path": [
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 196,
+        "level": 1,
+        "title": "腰痛",
+        "path": [
+          "腰痛"
+        ]
+      },
+      {
+        "ordinal": 212,
+        "level": 1,
+        "title": "脅痛",
+        "path": [
+          "脅痛"
+        ]
+      },
+      {
+        "ordinal": 221,
+        "level": 1,
+        "title": "心痛",
+        "path": [
+          "心痛"
+        ]
+      },
+      {
+        "ordinal": 233,
+        "level": 1,
+        "title": "牙疼",
+        "path": [
+          "牙疼"
+        ]
+      },
+      {
+        "ordinal": 250,
+        "level": 1,
+        "title": "眼目",
+        "path": [
+          "眼目"
+        ]
+      },
+      {
+        "ordinal": 271,
+        "level": 1,
+        "title": "瀉痢",
+        "path": [
+          "瀉痢"
+        ]
+      },
+      {
+        "ordinal": 296,
+        "level": 1,
+        "title": "瘧（又名痁）",
+        "path": [
+          "瘧（又名痁）"
+        ]
+      },
+      {
+        "ordinal": 318,
+        "level": 1,
+        "title": "咳嗽",
+        "path": [
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 338,
+        "level": 1,
+        "title": "吐衄血",
+        "path": [
+          "吐衄血"
+        ]
+      },
+      {
+        "ordinal": 348,
+        "level": 1,
+        "title": "溺血",
+        "path": [
+          "溺血"
+        ]
+      },
+      {
+        "ordinal": 354,
+        "level": 1,
+        "title": "下血",
+        "path": [
+          "下血"
+        ]
+      },
+      {
+        "ordinal": 364,
+        "level": 1,
+        "title": "諸氣",
+        "path": [
+          "諸氣"
+        ]
+      },
+      {
+        "ordinal": 377,
+        "level": 1,
+        "title": "漏",
+        "path": [
+          "漏"
+        ]
+      },
+      {
+        "ordinal": 380,
+        "level": 1,
+        "title": "淋",
+        "path": [
+          "淋"
+        ]
+      },
+      {
+        "ordinal": 392,
+        "level": 1,
+        "title": "小水不禁",
+        "path": [
+          "小水不禁"
+        ]
+      },
+      {
+        "ordinal": 395,
+        "level": 1,
+        "title": "閟（詳淋）",
+        "path": [
+          "閟（詳淋）"
+        ]
+      },
+      {
+        "ordinal": 397,
+        "level": 1,
+        "title": "喉痹",
+        "path": [
+          "喉痹"
+        ]
+      },
+      {
+        "ordinal": 412,
+        "level": 1,
+        "title": "諸瘡",
+        "path": [
+          "諸瘡"
+        ]
+      },
+      {
+        "ordinal": 430,
+        "level": 1,
+        "title": "漏瘡",
+        "path": [
+          "漏瘡"
+        ]
+      },
+      {
+        "ordinal": 433,
+        "level": 1,
+        "title": "疥",
+        "path": [
+          "疥"
+        ]
+      },
+      {
+        "ordinal": 442,
+        "level": 1,
+        "title": "風癬",
+        "path": [
+          "風癬"
+        ]
+      },
+      {
+        "ordinal": 447,
+        "level": 1,
+        "title": "痔瘡",
+        "path": [
+          "痔瘡"
+        ]
+      },
+      {
+        "ordinal": 457,
+        "level": 1,
+        "title": "臁瘡",
+        "path": [
+          "臁瘡"
+        ]
+      },
+      {
+        "ordinal": 462,
+        "level": 1,
+        "title": "疝",
+        "path": [
+          "疝"
+        ]
+      },
+      {
+        "ordinal": 475,
+        "level": 1,
+        "title": "腳氣",
+        "path": [
+          "腳氣"
+        ]
+      },
+      {
+        "ordinal": 491,
+        "level": 1,
+        "title": "轉筋",
+        "path": [
+          "轉筋"
+        ]
+      },
+      {
+        "ordinal": 495,
+        "level": 1,
+        "title": "痿",
+        "path": [
+          "痿"
+        ]
+      },
+      {
+        "ordinal": 504,
+        "level": 1,
+        "title": "內傷",
+        "path": [
+          "內傷"
+        ]
+      },
+      {
+        "ordinal": 511,
+        "level": 1,
+        "title": "痰飲",
+        "path": [
+          "痰飲"
+        ]
+      },
+      {
+        "ordinal": 520,
+        "level": 1,
+        "title": "喘",
+        "path": [
+          "喘"
+        ]
+      },
+      {
+        "ordinal": 535,
+        "level": 1,
+        "title": "哮",
+        "path": [
+          "哮"
+        ]
+      },
+      {
+        "ordinal": 539,
+        "level": 1,
+        "title": "霍亂",
+        "path": [
+          "霍亂"
+        ]
+      },
+      {
+        "ordinal": 544,
+        "level": 1,
+        "title": "嘔吐",
+        "path": [
+          "嘔吐"
+        ]
+      },
+      {
+        "ordinal": 554,
+        "level": 1,
+        "title": "噁心",
+        "path": [
+          "噁心"
+        ]
+      },
+      {
+        "ordinal": 558,
+        "level": 1,
+        "title": "膈噎",
+        "path": [
+          "膈噎"
+        ]
+      },
+      {
+        "ordinal": 568,
+        "level": 1,
+        "title": "疸",
+        "path": [
+          "疸"
+        ]
+      },
+      {
+        "ordinal": 577,
+        "level": 1,
+        "title": "消渴",
+        "path": [
+          "消渴"
+        ]
+      },
+      {
+        "ordinal": 585,
+        "level": 1,
+        "title": "水腫",
+        "path": [
+          "水腫"
+        ]
+      },
+      {
+        "ordinal": 596,
+        "level": 1,
+        "title": "鼓脹",
+        "path": [
+          "鼓脹"
+        ]
+      },
+      {
+        "ordinal": 605,
+        "level": 1,
+        "title": "自汗",
+        "path": [
+          "自汗"
+        ]
+      },
+      {
+        "ordinal": 613,
+        "level": 1,
+        "title": "盜汗",
+        "path": [
+          "盜汗"
+        ]
+      },
+      {
+        "ordinal": 619,
+        "level": 1,
+        "title": "吃逆",
+        "path": [
+          "吃逆"
+        ]
+      },
+      {
+        "ordinal": 625,
+        "level": 1,
+        "title": "頭眩",
+        "path": [
+          "頭眩"
+        ]
+      },
+      {
+        "ordinal": 636,
+        "level": 1,
+        "title": "痛風",
+        "path": [
+          "痛風"
+        ]
+      },
+      {
+        "ordinal": 647,
+        "level": 1,
+        "title": "肩臂痛",
+        "path": [
+          "肩臂痛"
+        ]
+      },
+      {
+        "ordinal": 651,
+        "level": 1,
+        "title": "癖塊",
+        "path": [
+          "癖塊"
+        ]
+      },
+      {
+        "ordinal": 671,
+        "level": 1,
+        "title": "痞",
+        "path": [
+          "痞"
+        ]
+      },
+      {
+        "ordinal": 676,
+        "level": 1,
+        "title": "噯氣",
+        "path": [
+          "噯氣"
+        ]
+      },
+      {
+        "ordinal": 678,
+        "level": 1,
+        "title": "吞酸",
+        "path": [
+          "吞酸"
+        ]
+      },
+      {
+        "ordinal": 680,
+        "level": 1,
+        "title": "嘈雜",
+        "path": [
+          "嘈雜"
+        ]
+      },
+      {
+        "ordinal": 682,
+        "level": 1,
+        "title": "夢遺",
+        "path": [
+          "夢遺"
+        ]
+      },
+      {
+        "ordinal": 689,
+        "level": 1,
+        "title": "濁",
+        "path": [
+          "濁"
+        ]
+      },
+      {
+        "ordinal": 696,
+        "level": 1,
+        "title": "癇",
+        "path": [
+          "癇"
+        ]
+      },
+      {
+        "ordinal": 701,
+        "level": 1,
+        "title": "健忘",
+        "path": [
+          "健忘"
+        ]
+      },
+      {
+        "ordinal": 705,
+        "level": 1,
+        "title": "怔忡",
+        "path": [
+          "怔忡"
+        ]
+      },
+      {
+        "ordinal": 712,
+        "level": 1,
+        "title": "驚悸",
+        "path": [
+          "驚悸"
+        ]
+      },
+      {
+        "ordinal": 714,
+        "level": 1,
+        "title": "耳聾",
+        "path": [
+          "耳聾"
+        ]
+      },
+      {
+        "ordinal": 719,
+        "level": 1,
+        "title": "痹",
+        "path": [
+          "痹"
+        ]
+      },
+      {
+        "ordinal": 728,
+        "level": 1,
+        "title": "厥",
+        "path": [
+          "厥"
+        ]
+      },
+      {
+        "ordinal": 735,
+        "level": 1,
+        "title": "癭",
+        "path": [
+          "癭"
+        ]
+      },
+      {
+        "ordinal": 739,
+        "level": 1,
+        "title": "癩",
+        "path": [
+          "癩"
+        ]
+      },
+      {
+        "ordinal": 762,
+        "level": 1,
+        "title": "白癜風",
+        "path": [
+          "白癜風"
+        ]
+      },
+      {
+        "ordinal": 764,
+        "level": 1,
+        "title": "紫癜風",
+        "path": [
+          "紫癜風"
+        ]
+      },
+      {
+        "ordinal": 766,
+        "level": 1,
+        "title": "下疳瘡",
+        "path": [
+          "下疳瘡"
+        ]
+      },
+      {
+        "ordinal": 768,
+        "level": 1,
+        "title": "骨梗",
+        "path": [
+          "骨梗"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "c3db7cc11b32451232bb90f4",
+        "title": "序",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "州，即漢張掖酒泉郡也。而名醫劉宗厚，□□□□□□□□□神方妙術，猶有存者。"
+        ]
+      },
+      {
+        "chapter_key": "67e741843fd556d680fc20c5",
+        "title": "发热",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "鎮墜 柴雪、硃砂、琥珀、犀角之□□墜浮溜之火。"
+        ]
+      },
+      {
+        "chapter_key": "7f44ed18a954da8bd82c4390",
+        "title": "浊",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "清熱 脈弦滑者，青黛、滑石、柏、□。"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 80,
+      "paragraph_blocks": 689,
+      "nonempty_paragraph_blocks": 689,
+      "represented_paragraph_blocks": 689
+    }
+  }
+]

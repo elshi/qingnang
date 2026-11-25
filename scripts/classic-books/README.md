@@ -16,3 +16,7 @@
 依赖独立锁定于 `package-lock.json`，Node.js 版本须满足所锁定依赖要求（建议 Node.js 22.12 或更新版本）。
 
 审查记录 `review.json` 与数据 SHA-256 绑定。重新采集或修改转换规则后，先复核差异并更新审查记录；工具不会自动将新的文本宣布为已审查。
+
+300 本扩展批次存于 `txt/classic-books/batches/extra-300/`。设置 `CLASSIC_BOOKS_BATCH=extra-300` 后，`validate.mjs` 和 `import.mjs` 使用扩展数据。`capture-extra-candidates.mjs` 保存候选快照，`screen-extra.mjs` 记录逐本筛查结果，`select-extra.mjs` 根据固定候选清单生成扩展书目。`collect.mjs` 保留繁体段落、简体正文、卷篇层次与缺文记录。`record-extra-review.mjs` 将已完成的来源及节选审查与最终数据校验值绑定。
+
+`run-extra-import.mjs` 用于 300 本扩展批次的整批预检、逐书写入和回读核对。默认只输出预检报告，`--apply` 需要同一批次的有效预检结果。远程库的 `abbreviation` 对应书目拼音简码，非自增主键采用当前最大 ID 后的连续值。新章按顺序入库，已有书目和章节的前后校验结果保存在批次 `reports/`。

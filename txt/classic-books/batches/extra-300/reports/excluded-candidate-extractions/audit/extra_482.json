@@ -1,0 +1,809 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%8D%B7%E8%A8%A3/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "總論",
+        "path": [
+          "總論"
+        ]
+      },
+      {
+        "ordinal": 6,
+        "level": 1,
+        "title": "傷寒總訣治法",
+        "path": [
+          "傷寒總訣治法"
+        ]
+      },
+      {
+        "ordinal": 8,
+        "level": 1,
+        "title": "太陽經傷寒",
+        "path": [
+          "太陽經傷寒"
+        ]
+      },
+      {
+        "ordinal": 13,
+        "level": 1,
+        "title": "太陽經傷風",
+        "path": [
+          "太陽經傷風"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 1,
+        "title": "陽明經分在經在腑",
+        "path": [
+          "陽明經分在經在腑"
+        ]
+      },
+      {
+        "ordinal": 18,
+        "level": 1,
+        "title": "陽明經經病",
+        "path": [
+          "陽明經經病"
+        ]
+      },
+      {
+        "ordinal": 22,
+        "level": 1,
+        "title": "陽明經腑病",
+        "path": [
+          "陽明經腑病"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 1,
+        "title": "少陽經主中宜和解",
+        "path": [
+          "少陽經主中宜和解"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 1,
+        "title": "三陰經分傳經直中",
+        "path": [
+          "三陰經分傳經直中"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 1,
+        "title": "太陰經傳經熱症",
+        "path": [
+          "太陰經傳經熱症"
+        ]
+      },
+      {
+        "ordinal": 41,
+        "level": 1,
+        "title": "太陰經直中寒症",
+        "path": [
+          "太陰經直中寒症"
+        ]
+      },
+      {
+        "ordinal": 44,
+        "level": 1,
+        "title": "少陰經傳熱症",
+        "path": [
+          "少陰經傳熱症"
+        ]
+      },
+      {
+        "ordinal": 48,
+        "level": 1,
+        "title": "少陰經直中寒症",
+        "path": [
+          "少陰經直中寒症"
+        ]
+      },
+      {
+        "ordinal": 51,
+        "level": 1,
+        "title": "厥陰經傳經熱症",
+        "path": [
+          "厥陰經傳經熱症"
+        ]
+      },
+      {
+        "ordinal": 55,
+        "level": 1,
+        "title": "厥陰經直中寒症",
+        "path": [
+          "厥陰經直中寒症"
+        ]
+      },
+      {
+        "ordinal": 59,
+        "level": 1,
+        "title": "結胸",
+        "path": [
+          "結胸"
+        ]
+      },
+      {
+        "ordinal": 63,
+        "level": 1,
+        "title": "血結胸",
+        "path": [
+          "血結胸"
+        ]
+      },
+      {
+        "ordinal": 66,
+        "level": 1,
+        "title": "痞氣",
+        "path": [
+          "痞氣"
+        ]
+      },
+      {
+        "ordinal": 70,
+        "level": 1,
+        "title": "下厥上竭",
+        "path": [
+          "下厥上竭"
+        ]
+      },
+      {
+        "ordinal": 73,
+        "level": 1,
+        "title": "亡陽",
+        "path": [
+          "亡陽"
+        ]
+      },
+      {
+        "ordinal": 77,
+        "level": 1,
+        "title": "腸垢鶩溏",
+        "path": [
+          "腸垢鶩溏"
+        ]
+      },
+      {
+        "ordinal": 81,
+        "level": 1,
+        "title": "發黃",
+        "path": [
+          "發黃"
+        ]
+      },
+      {
+        "ordinal": 85,
+        "level": 1,
+        "title": "發狂",
+        "path": [
+          "發狂"
+        ]
+      },
+      {
+        "ordinal": 91,
+        "level": 1,
+        "title": "發斑",
+        "path": [
+          "發斑"
+        ]
+      },
+      {
+        "ordinal": 95,
+        "level": 1,
+        "title": "筋惕肉瞤",
+        "path": [
+          "筋惕肉瞤"
+        ]
+      },
+      {
+        "ordinal": 98,
+        "level": 1,
+        "title": "風溫",
+        "path": [
+          "風溫"
+        ]
+      },
+      {
+        "ordinal": 102,
+        "level": 1,
+        "title": "濕溫",
+        "path": [
+          "濕溫"
+        ]
+      },
+      {
+        "ordinal": 105,
+        "level": 1,
+        "title": "風濕",
+        "path": [
+          "風濕"
+        ]
+      },
+      {
+        "ordinal": 108,
+        "level": 1,
+        "title": "中濕",
+        "path": [
+          "中濕"
+        ]
+      },
+      {
+        "ordinal": 111,
+        "level": 1,
+        "title": "溫病熱病",
+        "path": [
+          "溫病熱病"
+        ]
+      },
+      {
+        "ordinal": 115,
+        "level": 1,
+        "title": "陽毒",
+        "path": [
+          "陽毒"
+        ]
+      },
+      {
+        "ordinal": 118,
+        "level": 1,
+        "title": "陰毒",
+        "path": [
+          "陰毒"
+        ]
+      },
+      {
+        "ordinal": 121,
+        "level": 1,
+        "title": "發汗",
+        "path": [
+          "發汗"
+        ]
+      },
+      {
+        "ordinal": 124,
+        "level": 1,
+        "title": "戰振慄",
+        "path": [
+          "戰振慄"
+        ]
+      },
+      {
+        "ordinal": 127,
+        "level": 1,
+        "title": "合病",
+        "path": [
+          "合病"
+        ]
+      },
+      {
+        "ordinal": 130,
+        "level": 1,
+        "title": "並病",
+        "path": [
+          "並病"
+        ]
+      },
+      {
+        "ordinal": 133,
+        "level": 1,
+        "title": "譫語",
+        "path": [
+          "譫語"
+        ]
+      },
+      {
+        "ordinal": 136,
+        "level": 1,
+        "title": "鄭聲",
+        "path": [
+          "鄭聲"
+        ]
+      },
+      {
+        "ordinal": 139,
+        "level": 1,
+        "title": "嘔吐",
+        "path": [
+          "嘔吐"
+        ]
+      },
+      {
+        "ordinal": 143,
+        "level": 1,
+        "title": "乾嘔",
+        "path": [
+          "乾嘔"
+        ]
+      },
+      {
+        "ordinal": 147,
+        "level": 1,
+        "title": "火邪驚狂",
+        "path": [
+          "火邪驚狂"
+        ]
+      },
+      {
+        "ordinal": 150,
+        "level": 1,
+        "title": "蛔厥",
+        "path": [
+          "蛔厥"
+        ]
+      },
+      {
+        "ordinal": 154,
+        "level": 1,
+        "title": "狐惑",
+        "path": [
+          "狐惑"
+        ]
+      },
+      {
+        "ordinal": 157,
+        "level": 1,
+        "title": "剛痙柔痙",
+        "path": [
+          "剛痙柔痙"
+        ]
+      },
+      {
+        "ordinal": 161,
+        "level": 1,
+        "title": "霍亂",
+        "path": [
+          "霍亂"
+        ]
+      },
+      {
+        "ordinal": 164,
+        "level": 1,
+        "title": "寒熱往來",
+        "path": [
+          "寒熱往來"
+        ]
+      },
+      {
+        "ordinal": 167,
+        "level": 1,
+        "title": "發喘",
+        "path": [
+          "發喘"
+        ]
+      },
+      {
+        "ordinal": 170,
+        "level": 1,
+        "title": "咳嗽",
+        "path": [
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 173,
+        "level": 1,
+        "title": "吐血",
+        "path": [
+          "吐血"
+        ]
+      },
+      {
+        "ordinal": 176,
+        "level": 1,
+        "title": "衄血",
+        "path": [
+          "衄血"
+        ]
+      },
+      {
+        "ordinal": 180,
+        "level": 1,
+        "title": "單伏雙伏",
+        "path": [
+          "單伏雙伏"
+        ]
+      },
+      {
+        "ordinal": 183,
+        "level": 1,
+        "title": "陰陽易",
+        "path": [
+          "陰陽易"
+        ]
+      },
+      {
+        "ordinal": 186,
+        "level": 1,
+        "title": "咳逆",
+        "path": [
+          "咳逆"
+        ]
+      },
+      {
+        "ordinal": 190,
+        "level": 1,
+        "title": "心動悸",
+        "path": [
+          "心動悸"
+        ]
+      },
+      {
+        "ordinal": 194,
+        "level": 1,
+        "title": "兩感傷寒",
+        "path": [
+          "兩感傷寒"
+        ]
+      },
+      {
+        "ordinal": 198,
+        "level": 1,
+        "title": "百合",
+        "path": [
+          "百合"
+        ]
+      },
+      {
+        "ordinal": 201,
+        "level": 1,
+        "title": "懊憹（憹讀惱古字通用）",
+        "path": [
+          "懊憹（憹讀惱古字通用）"
+        ]
+      },
+      {
+        "ordinal": 204,
+        "level": 1,
+        "title": "奔豚動氣",
+        "path": [
+          "奔豚動氣"
+        ]
+      },
+      {
+        "ordinal": 207,
+        "level": 1,
+        "title": "臟結",
+        "path": [
+          "臟結"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 1,
+        "title": "除中",
+        "path": [
+          "除中"
+        ]
+      },
+      {
+        "ordinal": 211,
+        "level": 1,
+        "title": "瘛瘲",
+        "path": [
+          "瘛瘲"
+        ]
+      },
+      {
+        "ordinal": 214,
+        "level": 1,
+        "title": "怫鬱",
+        "path": [
+          "怫鬱"
+        ]
+      },
+      {
+        "ordinal": 217,
+        "level": 1,
+        "title": "勞復食復",
+        "path": [
+          "勞復食復"
+        ]
+      },
+      {
+        "ordinal": 220,
+        "level": 1,
+        "title": "過經不解",
+        "path": [
+          "過經不解"
+        ]
+      },
+      {
+        "ordinal": 223,
+        "level": 1,
+        "title": "溫瘧",
+        "path": [
+          "溫瘧"
+        ]
+      },
+      {
+        "ordinal": 226,
+        "level": 1,
+        "title": "渴症",
+        "path": [
+          "渴症"
+        ]
+      },
+      {
+        "ordinal": 228,
+        "level": 1,
+        "title": "漱水不欲咽",
+        "path": [
+          "漱水不欲咽"
+        ]
+      },
+      {
+        "ordinal": 231,
+        "level": 1,
+        "title": "背惡寒",
+        "path": [
+          "背惡寒"
+        ]
+      },
+      {
+        "ordinal": 235,
+        "level": 1,
+        "title": "惡寒",
+        "path": [
+          "惡寒"
+        ]
+      },
+      {
+        "ordinal": 238,
+        "level": 1,
+        "title": "汗後惡寒",
+        "path": [
+          "汗後惡寒"
+        ]
+      },
+      {
+        "ordinal": 241,
+        "level": 1,
+        "title": "陽經發熱",
+        "path": [
+          "陽經發熱"
+        ]
+      },
+      {
+        "ordinal": 243,
+        "level": 1,
+        "title": "陰經發熱",
+        "path": [
+          "陰經發熱"
+        ]
+      },
+      {
+        "ordinal": 245,
+        "level": 1,
+        "title": "下後有熱",
+        "path": [
+          "下後有熱"
+        ]
+      },
+      {
+        "ordinal": 247,
+        "level": 1,
+        "title": "頭痛",
+        "path": [
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 249,
+        "level": 1,
+        "title": "咽痛",
+        "path": [
+          "咽痛"
+        ]
+      },
+      {
+        "ordinal": 251,
+        "level": 1,
+        "title": "脅痛",
+        "path": [
+          "脅痛"
+        ]
+      },
+      {
+        "ordinal": 253,
+        "level": 1,
+        "title": "腹滿痛",
+        "path": [
+          "腹滿痛"
+        ]
+      },
+      {
+        "ordinal": 255,
+        "level": 1,
+        "title": "燥咽乾",
+        "path": [
+          "燥咽乾"
+        ]
+      },
+      {
+        "ordinal": 258,
+        "level": 1,
+        "title": "循衣摸床",
+        "path": [
+          "循衣摸床"
+        ]
+      },
+      {
+        "ordinal": 260,
+        "level": 1,
+        "title": "煩躁",
+        "path": [
+          "煩躁"
+        ]
+      },
+      {
+        "ordinal": 262,
+        "level": 1,
+        "title": "晝夜偏劇",
+        "path": [
+          "晝夜偏劇"
+        ]
+      },
+      {
+        "ordinal": 264,
+        "level": 1,
+        "title": "多眠",
+        "path": [
+          "多眠"
+        ]
+      },
+      {
+        "ordinal": 266,
+        "level": 1,
+        "title": "不得眠",
+        "path": [
+          "不得眠"
+        ]
+      },
+      {
+        "ordinal": 268,
+        "level": 1,
+        "title": "小便不利",
+        "path": [
+          "小便不利"
+        ]
+      },
+      {
+        "ordinal": 270,
+        "level": 1,
+        "title": "小便自利",
+        "path": [
+          "小便自利"
+        ]
+      },
+      {
+        "ordinal": 272,
+        "level": 1,
+        "title": "大便不利",
+        "path": [
+          "大便不利"
+        ]
+      },
+      {
+        "ordinal": 274,
+        "level": 1,
+        "title": "陰症",
+        "path": [
+          "陰症"
+        ]
+      },
+      {
+        "ordinal": 276,
+        "level": 1,
+        "title": "陽症",
+        "path": [
+          "陽症"
+        ]
+      },
+      {
+        "ordinal": 278,
+        "level": 1,
+        "title": "表症",
+        "path": [
+          "表症"
+        ]
+      },
+      {
+        "ordinal": 280,
+        "level": 1,
+        "title": "里症",
+        "path": [
+          "里症"
+        ]
+      },
+      {
+        "ordinal": 282,
+        "level": 1,
+        "title": "陰厥",
+        "path": [
+          "陰厥"
+        ]
+      },
+      {
+        "ordinal": 284,
+        "level": 1,
+        "title": "陽厥",
+        "path": [
+          "陽厥"
+        ]
+      },
+      {
+        "ordinal": 286,
+        "level": 1,
+        "title": "陰症似陽",
+        "path": [
+          "陰症似陽"
+        ]
+      },
+      {
+        "ordinal": 288,
+        "level": 1,
+        "title": "陽症似陰",
+        "path": [
+          "陽症似陰"
+        ]
+      },
+      {
+        "ordinal": 290,
+        "level": 1,
+        "title": "婦人傷寒",
+        "path": [
+          "婦人傷寒"
+        ]
+      },
+      {
+        "ordinal": 292,
+        "level": 1,
+        "title": "婦人熱入血室",
+        "path": [
+          "婦人熱入血室"
+        ]
+      },
+      {
+        "ordinal": 294,
+        "level": 1,
+        "title": "傷寒有時氣瘟疫不同",
+        "path": [
+          "傷寒有時氣瘟疫不同"
+        ]
+      },
+      {
+        "ordinal": 296,
+        "level": 1,
+        "title": "傷寒有四症相類",
+        "path": [
+          "傷寒有四症相類"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 99,
+      "paragraph_blocks": 199,
+      "nonempty_paragraph_blocks": 199,
+      "represented_paragraph_blocks": 199
+    }
+  }
+]

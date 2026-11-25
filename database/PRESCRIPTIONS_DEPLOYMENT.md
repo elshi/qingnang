@@ -2,7 +2,7 @@
 
 ## 数据源
 
-读取已有的 `qingnang.t_prescriptions`，不运行建表、迁移、导入或修改数据。
+处方 API 使用 SELECT 读取 `qingnang.t_prescriptions`。
 字段使用用户提供的结构：`id, name, modern_dose, decoction, indications, explanation, cited, tags, abbreviation, item_order`。
 `modern_dose`、煎服法、主治、方解原样返回；不推断药材剂量或转换单位。
 `item_order` 不参与排序；列表按 `id ASC`，同名不同 ID 的记录独立保留。
@@ -53,3 +53,24 @@ node --test tests/miniprogram/prescriptions.test.cjs
 PHP 测试使用 SQLite 内存库并在建表前核对连接，真实数据表不受影响。
 用户提供的“度瘴散”原文放在 `tests/Fixtures/prescription.php`，仅用于测试一致性，不代表内容已经审核。
 截图与模拟器测试记录见 `prescriptions-qa.md`。
+
+## 2026-11-23 古方选目
+
+`classic-prescriptions.json` 收录 2,000 首古方，按选目顺序分配 ID 1–2,000。前 193 首来自官方第一批目录和第二批汉族医药目录。余下 1,807 首从馆藏古籍选取，优先考虑有稳定方名、古籍记载明确、多书收载或见于《汤头歌诀》的方剂。遇到同名异方时，选取一个有明确出处的版本。数据共涉及 56 个书名出处，带有官方目录编号或馆藏书目、篇章和行号。
+
+- 方名、出处、原方组成齐全。古籍原单位保存在 `explanation` 的“原方组成”段落。
+- `indications` 和 `decoction` 保留可定位的古籍主治和制法用法，分别有 1,847 条和 1,854 条。
+- `modern_dose` 留空。此次数据按古籍记载整理，古单位未换算成现代剂量。
+
+来源见[第一批官方附件](https://mpa.yn.gov.cn/zfxxgk/zcwj/qtwj/gjwj/201804/t20180418_1224045.html)、[第二批汉族医药附件](https://www.nmpa.gov.cn/directory/web/nmpa/images/1693558753843040322.pdf)及[馆藏古籍的版本说明](../txt/classic-books/README.md)。
+
+生成脚本是 `scripts/build_classic_prescriptions.py`，使用 Python 的 `pdfplumber` 和 `pypinyin`，依次接收两份官方附件的 DOCX、PDF 路径。导入脚本复用 `scripts/classic-books` 下的 Node.js 依赖。
+
+```powershell
+node scripts/classic-books/import-prescriptions.mjs --check
+node scripts/classic-books/import-prescriptions.mjs --verify
+```
+
+`--check` 校验本地数据。联网核验读取 `PRESCRIPTIONS_DB_HOST`、`PRESCRIPTIONS_DB_PORT`、`PRESCRIPTIONS_DB_USER`、`PRESCRIPTIONS_DB_PASSWORD`，可用 `PRESCRIPTIONS_DB_SSL_CA` 验证实例证书。需要导入新的空表时可先用 `--rollback-test` 验证事务内写入和回读，再用 `--apply` 提交。同一数据再次执行时新增 0 条，表中存在不同数据时停止。
+
+本次腾讯云 MySQL 已提交 2,000 条记录。使用新连接对全部字段回读，数据摘要为 `60de5fd2f55b029d63c440e0aaea6d329fba6ca2b2fd39a2077d2e94fa886543`。

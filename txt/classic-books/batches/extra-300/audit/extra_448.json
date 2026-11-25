@@ -1,0 +1,447 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "卷上",
+        "path": [
+          "卷上"
+        ]
+      },
+      {
+        "ordinal": 2,
+        "level": 2,
+        "title": "傷風",
+        "path": [
+          "卷上",
+          "傷風"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 2,
+        "title": "傷寒",
+        "path": [
+          "卷上",
+          "傷寒"
+        ]
+      },
+      {
+        "ordinal": 6,
+        "level": 2,
+        "title": "中暑",
+        "path": [
+          "卷上",
+          "中暑"
+        ]
+      },
+      {
+        "ordinal": 8,
+        "level": 2,
+        "title": "中濕",
+        "path": [
+          "卷上",
+          "中濕"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 2,
+        "title": "風寒俱中",
+        "path": [
+          "卷上",
+          "風寒俱中"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 2,
+        "title": "內外傷寒",
+        "path": [
+          "卷上",
+          "內外傷寒"
+        ]
+      },
+      {
+        "ordinal": 14,
+        "level": 2,
+        "title": "一切汗候",
+        "path": [
+          "卷上",
+          "一切汗候"
+        ]
+      },
+      {
+        "ordinal": 16,
+        "level": 2,
+        "title": "傳染",
+        "path": [
+          "卷上",
+          "傳染"
+        ]
+      },
+      {
+        "ordinal": 18,
+        "level": 2,
+        "title": "表證",
+        "path": [
+          "卷上",
+          "表證"
+        ]
+      },
+      {
+        "ordinal": 20,
+        "level": 2,
+        "title": "里證",
+        "path": [
+          "卷上",
+          "里證"
+        ]
+      },
+      {
+        "ordinal": 22,
+        "level": 2,
+        "title": "表裡證",
+        "path": [
+          "卷上",
+          "表裡證"
+        ]
+      },
+      {
+        "ordinal": 24,
+        "level": 2,
+        "title": "汗後不解",
+        "path": [
+          "卷上",
+          "汗後不解"
+        ]
+      },
+      {
+        "ordinal": 26,
+        "level": 2,
+        "title": "下後不解",
+        "path": [
+          "卷上",
+          "下後不解"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 2,
+        "title": "在上湧之",
+        "path": [
+          "卷上",
+          "在上湧之"
+        ]
+      },
+      {
+        "ordinal": 30,
+        "level": 2,
+        "title": "在下泄之",
+        "path": [
+          "卷上",
+          "在下泄之"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 2,
+        "title": "合病",
+        "path": [
+          "卷上",
+          "合病"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 2,
+        "title": "兩感",
+        "path": [
+          "卷上",
+          "兩感"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 2,
+        "title": "痓病",
+        "path": [
+          "卷上",
+          "痓病"
+        ]
+      },
+      {
+        "ordinal": 38,
+        "level": 2,
+        "title": "頭疼",
+        "path": [
+          "卷上",
+          "頭疼"
+        ]
+      },
+      {
+        "ordinal": 40,
+        "level": 2,
+        "title": "身疼",
+        "path": [
+          "卷上",
+          "身疼"
+        ]
+      },
+      {
+        "ordinal": 42,
+        "level": 2,
+        "title": "腹脹滿痛",
+        "path": [
+          "卷上",
+          "腹脹滿痛"
+        ]
+      },
+      {
+        "ordinal": 44,
+        "level": 2,
+        "title": "往來寒熱",
+        "path": [
+          "卷上",
+          "往來寒熱"
+        ]
+      },
+      {
+        "ordinal": 46,
+        "level": 2,
+        "title": "潮熱",
+        "path": [
+          "卷上",
+          "潮熱"
+        ]
+      },
+      {
+        "ordinal": 48,
+        "level": 2,
+        "title": "自汗",
+        "path": [
+          "卷上",
+          "自汗"
+        ]
+      },
+      {
+        "ordinal": 51,
+        "level": 2,
+        "title": "自利並誤下",
+        "path": [
+          "卷上",
+          "自利並誤下"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 2,
+        "title": "小便不利",
+        "path": [
+          "卷上",
+          "小便不利"
+        ]
+      },
+      {
+        "ordinal": 55,
+        "level": 2,
+        "title": "嘔吐",
+        "path": [
+          "卷上",
+          "嘔吐"
+        ]
+      },
+      {
+        "ordinal": 57,
+        "level": 2,
+        "title": "吐瀉",
+        "path": [
+          "卷上",
+          "吐瀉"
+        ]
+      },
+      {
+        "ordinal": 59,
+        "level": 2,
+        "title": "喘嗽",
+        "path": [
+          "卷上",
+          "喘嗽"
+        ]
+      },
+      {
+        "ordinal": 61,
+        "level": 2,
+        "title": "渴",
+        "path": [
+          "卷上",
+          "渴"
+        ]
+      },
+      {
+        "ordinal": 63,
+        "level": 2,
+        "title": "煩躁",
+        "path": [
+          "卷上",
+          "煩躁"
+        ]
+      },
+      {
+        "ordinal": 65,
+        "level": 2,
+        "title": "懊憹虛煩不得眠",
+        "path": [
+          "卷上",
+          "懊憹虛煩不得眠"
+        ]
+      },
+      {
+        "ordinal": 67,
+        "level": 2,
+        "title": "留飲",
+        "path": [
+          "卷上",
+          "留飲"
+        ]
+      },
+      {
+        "ordinal": 69,
+        "level": 2,
+        "title": "痞",
+        "path": [
+          "卷上",
+          "痞"
+        ]
+      },
+      {
+        "ordinal": 71,
+        "level": 2,
+        "title": "結胸",
+        "path": [
+          "卷上",
+          "結胸"
+        ]
+      },
+      {
+        "ordinal": 73,
+        "level": 2,
+        "title": "血證",
+        "path": [
+          "卷上",
+          "血證"
+        ]
+      },
+      {
+        "ordinal": 75,
+        "level": 2,
+        "title": "譫語",
+        "path": [
+          "卷上",
+          "譫語"
+        ]
+      },
+      {
+        "ordinal": 77,
+        "level": 2,
+        "title": "發黃",
+        "path": [
+          "卷上",
+          "發黃"
+        ]
+      },
+      {
+        "ordinal": 79,
+        "level": 2,
+        "title": "發斑",
+        "path": [
+          "卷上",
+          "發斑"
+        ]
+      },
+      {
+        "ordinal": 81,
+        "level": 2,
+        "title": "發狂",
+        "path": [
+          "卷上",
+          "發狂"
+        ]
+      },
+      {
+        "ordinal": 83,
+        "level": 2,
+        "title": "發戰",
+        "path": [
+          "卷上",
+          "發戰"
+        ]
+      },
+      {
+        "ordinal": 85,
+        "level": 2,
+        "title": "發厥",
+        "path": [
+          "卷上",
+          "發厥"
+        ]
+      },
+      {
+        "ordinal": 87,
+        "level": 2,
+        "title": "循衣摸床",
+        "path": [
+          "卷上",
+          "循衣摸床"
+        ]
+      },
+      {
+        "ordinal": 89,
+        "level": 2,
+        "title": "勞復食復",
+        "path": [
+          "卷上",
+          "勞復食復"
+        ]
+      },
+      {
+        "ordinal": 91,
+        "level": 1,
+        "title": "卷下",
+        "path": [
+          "卷下"
+        ]
+      },
+      {
+        "ordinal": 92,
+        "level": 2,
+        "title": "方",
+        "path": [
+          "卷下",
+          "方"
+        ]
+      },
+      {
+        "ordinal": 292,
+        "level": 2,
+        "title": "傷寒用藥加減賦",
+        "path": [
+          "卷下",
+          "傷寒用藥加減賦"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 48,
+      "paragraph_blocks": 251,
+      "nonempty_paragraph_blocks": 251,
+      "represented_paragraph_blocks": 251
+    }
+  }
+]

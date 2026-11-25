@@ -66,7 +66,6 @@ button::after {
 }
 
 /* 内容页字号统一增强，首页视觉保持原样。 */
-page .case-page .category-tab,
 page .detail-page .detail-tab,
 page .classic-page .category-tab,
 page .classic-page .dynasty-label {

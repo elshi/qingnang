@@ -1,0 +1,178 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E9%9B%86%E9%A9%97%E8%83%8C%E7%96%BD%E6%96%B9/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "原序",
+        "path": [
+          "原序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "背疽方總論",
+        "path": [
+          "背疽方總論"
+        ]
+      },
+      {
+        "ordinal": 6,
+        "level": 2,
+        "title": "背疽其源有五",
+        "path": [
+          "背疽方總論",
+          "背疽其源有五"
+        ]
+      },
+      {
+        "ordinal": 8,
+        "level": 2,
+        "title": "察疽發有內外之別",
+        "path": [
+          "背疽方總論",
+          "察疽發有內外之別"
+        ]
+      },
+      {
+        "ordinal": 11,
+        "level": 2,
+        "title": "審內證用藥",
+        "path": [
+          "背疽方總論",
+          "審內證用藥"
+        ]
+      },
+      {
+        "ordinal": 13,
+        "level": 2,
+        "title": "服補藥捷徑",
+        "path": [
+          "背疽方總論",
+          "服補藥捷徑"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 2,
+        "title": "疽發所在有不可治者",
+        "path": [
+          "背疽方總論",
+          "疽發所在有不可治者"
+        ]
+      },
+      {
+        "ordinal": 17,
+        "level": 2,
+        "title": "戒忌",
+        "path": [
+          "背疽方總論",
+          "戒忌"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 1,
+        "title": "麥飯石膏論",
+        "path": [
+          "麥飯石膏論"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 1,
+        "title": "治疽癰用藥大綱",
+        "path": [
+          "治疽癰用藥大綱"
+        ]
+      },
+      {
+        "ordinal": 55,
+        "level": 1,
+        "title": "論服嘉禾散",
+        "path": [
+          "論服嘉禾散"
+        ]
+      },
+      {
+        "ordinal": 62,
+        "level": 1,
+        "title": "論服不換金正氣散",
+        "path": [
+          "論服不換金正氣散"
+        ]
+      },
+      {
+        "ordinal": 78,
+        "level": 1,
+        "title": "論渴疾本原",
+        "path": [
+          "論渴疾本原"
+        ]
+      },
+      {
+        "ordinal": 80,
+        "level": 1,
+        "title": "癰口將收論",
+        "path": [
+          "癰口將收論"
+        ]
+      },
+      {
+        "ordinal": 82,
+        "level": 1,
+        "title": "癰久瘡口不合論",
+        "path": [
+          "癰久瘡口不合論"
+        ]
+      },
+      {
+        "ordinal": 119,
+        "level": 1,
+        "title": "癰癤不可用膏藥貼合論",
+        "path": [
+          "癰癤不可用膏藥貼合論"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "ea29ad1eb51791065849e457",
+        "title": "戒忌",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "麥飯石膏（案：此方原缺，今從《蘇沈良方》補入）"
+        ]
+      },
+      {
+        "chapter_key": "ad60bfa061c8b09e7c479ccf",
+        "title": "麦饭石膏论",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "神異膏 治一切瘡疥（按：此方原缺，今從危亦林《得效方》補入）"
+        ]
+      },
+      {
+        "chapter_key": "b2f4a87dc76cafcbd2006724",
+        "title": "治疽痈用药大纲",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "大止疼痛. 如未破，即點破有膿（此方原缺，今從《惠濟寶書》補入）。",
+          "刃。使服藥後，疼痛減，其效如神（此方原缺，今從《和劑局方》補入）。",
+          "一作疽）初結，頭痛寒熱，氣急方（此方原缺，今從《聖濟總錄》補入）。"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 16,
+      "paragraph_blocks": 116,
+      "nonempty_paragraph_blocks": 116,
+      "represented_paragraph_blocks": 116
+    }
+  }
+]

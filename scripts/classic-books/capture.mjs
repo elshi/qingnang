@@ -1,6 +1,6 @@
 import path from 'node:path';
 import {load} from 'cheerio';
-import {catalog,yizongParts} from './catalog.mjs';
+import {catalog,yizongParts} from './active-catalog.mjs';
 import {DATA,snapshot,writeJson} from './common.mjs';
 
 const refresh=process.argv.includes('--refresh');
@@ -32,7 +32,7 @@ for(const book of catalog){
       captured.push({...part,...result.metadata,metadata,heading_count:headers.length,first_headings:headers.slice(0,4),last_headings:headers.slice(-4),edition_links:main.children('header').find('a[href]').map((_,e)=>({label:doc(e).text(),url:new URL(doc(e).attr('href'),part.url).href})).get(),revision_url:doc('footer a').filter((_,e)=>doc(e).text().includes('編輯記錄')).attr('href')||null});
     }
     report.books.push({key:book.key,name:book.name,parts:captured});
-    console.log(`${report.books.length}/50 ${book.name}: ${captured.map(x=>x.heading_count).reduce((a,b)=>a+b,0)} headings`);
+    console.log(`${report.books.length}/${catalog.length} ${book.name}: ${captured.map(x=>x.heading_count).reduce((a,b)=>a+b,0)} headings`);
   } catch(e) {report.books.push({key:book.key,name:book.name,error:e.message});console.log(`ERROR ${book.name}: ${e.message}`);}
   await writeJson(path.join(DATA,'capture-report.json'),report);
 }

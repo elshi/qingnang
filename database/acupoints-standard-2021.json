@@ -1,0 +1,3432 @@
+{
+  "sources": [
+    {
+      "name": "GB/T 12346—2021",
+      "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+      "source_sha256": "777643c116fb3cd543a6a632a3ad36c4bfbedd8880aced0c6979a877694d7692"
+    },
+    {
+      "name": "GB/T 40997—2021",
+      "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+      "source_sha256": "aa7368f760ef347031e356860000a086d68e51996575cb2dad977691f1b54bf9"
+    }
+  ],
+  "meridian_points": [
+    {
+      "section": "5.1.1",
+      "name": "中府",
+      "pinyin": "Zhōngfǔ",
+      "code": "LU1",
+      "channel": "手太阴肺经",
+      "order": 1
+    },
+    {
+      "section": "5.1.2",
+      "name": "云门",
+      "pinyin": "Yúnmén",
+      "code": "LU2",
+      "channel": "手太阴肺经",
+      "order": 2
+    },
+    {
+      "section": "5.1.3",
+      "name": "天府",
+      "pinyin": "Tiānfǔ",
+      "code": "LU3",
+      "channel": "手太阴肺经",
+      "order": 3
+    },
+    {
+      "section": "5.1.4",
+      "name": "侠白",
+      "pinyin": "Xiábái",
+      "code": "LU4",
+      "channel": "手太阴肺经",
+      "order": 4
+    },
+    {
+      "section": "5.1.5",
+      "name": "尺泽",
+      "pinyin": "Chǐzé",
+      "code": "LU5",
+      "channel": "手太阴肺经",
+      "order": 5
+    },
+    {
+      "section": "5.1.6",
+      "name": "孔最",
+      "pinyin": "Kǒngzuì",
+      "code": "LU6",
+      "channel": "手太阴肺经",
+      "order": 6
+    },
+    {
+      "section": "5.1.7",
+      "name": "列缺",
+      "pinyin": "Lièquē",
+      "code": "LU7",
+      "channel": "手太阴肺经",
+      "order": 7
+    },
+    {
+      "section": "5.1.8",
+      "name": "经渠",
+      "pinyin": "Jīngqú",
+      "code": "LU8",
+      "channel": "手太阴肺经",
+      "order": 8
+    },
+    {
+      "section": "5.1.9",
+      "name": "太渊",
+      "pinyin": "Tàiyuān",
+      "code": "LU9",
+      "channel": "手太阴肺经",
+      "order": 9
+    },
+    {
+      "section": "5.1.10",
+      "name": "鱼际",
+      "pinyin": "Yújì",
+      "code": "LU10",
+      "channel": "手太阴肺经",
+      "order": 10
+    },
+    {
+      "section": "5.1.11",
+      "name": "少商",
+      "pinyin": "Shàoshāng",
+      "code": "LU11",
+      "channel": "手太阴肺经",
+      "order": 11
+    },
+    {
+      "section": "5.2.1",
+      "name": "商阳",
+      "pinyin": "Shāngyáng",
+      "code": "LI1",
+      "channel": "手阳明大肠经",
+      "order": 1
+    },
+    {
+      "section": "5.2.2",
+      "name": "二间",
+      "pinyin": "Èrjiān",
+      "code": "LI2",
+      "channel": "手阳明大肠经",
+      "order": 2
+    },
+    {
+      "section": "5.2.3",
+      "name": "三间",
+      "pinyin": "Sānjiān",
+      "code": "LI3",
+      "channel": "手阳明大肠经",
+      "order": 3
+    },
+    {
+      "section": "5.2.4",
+      "name": "合谷",
+      "pinyin": "Hégǔ",
+      "code": "LI4",
+      "channel": "手阳明大肠经",
+      "order": 4
+    },
+    {
+      "section": "5.2.5",
+      "name": "阳溪",
+      "pinyin": "Yángxī",
+      "code": "LI5",
+      "channel": "手阳明大肠经",
+      "order": 5
+    },
+    {
+      "section": "5.2.6",
+      "name": "偏历",
+      "pinyin": "Piānlì",
+      "code": "LI6",
+      "channel": "手阳明大肠经",
+      "order": 6
+    },
+    {
+      "section": "5.2.7",
+      "name": "温溜",
+      "pinyin": "Wēnliū",
+      "code": "LI7",
+      "channel": "手阳明大肠经",
+      "order": 7
+    },
+    {
+      "section": "5.2.8",
+      "name": "下廉",
+      "pinyin": "Xiàlián",
+      "code": "LI8",
+      "channel": "手阳明大肠经",
+      "order": 8
+    },
+    {
+      "section": "5.2.9",
+      "name": "上廉",
+      "pinyin": "Shànglián",
+      "code": "LI9",
+      "channel": "手阳明大肠经",
+      "order": 9
+    },
+    {
+      "section": "5.2.10",
+      "name": "手三里",
+      "pinyin": "Shǒusānlǐ",
+      "code": "LI10",
+      "channel": "手阳明大肠经",
+      "order": 10
+    },
+    {
+      "section": "5.2.11",
+      "name": "曲池",
+      "pinyin": "Qūchí",
+      "code": "LI11",
+      "channel": "手阳明大肠经",
+      "order": 11
+    },
+    {
+      "section": "5.2.12",
+      "name": "肘髎",
+      "pinyin": "Zhǒuliáo",
+      "code": "LI12",
+      "channel": "手阳明大肠经",
+      "order": 12
+    },
+    {
+      "section": "5.2.13",
+      "name": "手五里",
+      "pinyin": "Shǒuwǔlǐ",
+      "code": "LI13",
+      "channel": "手阳明大肠经",
+      "order": 13
+    },
+    {
+      "section": "5.2.14",
+      "name": "臂臑",
+      "pinyin": "Bìnào",
+      "code": "LI14",
+      "channel": "手阳明大肠经",
+      "order": 14,
+      "locate": "上臂外侧，曲池至肩髃连线与三角肌前缘相接的位置。"
+    },
+    {
+      "section": "5.2.15",
+      "name": "肩髃",
+      "pinyin": "Jiānyú",
+      "code": "LI15",
+      "channel": "手阳明大肠经",
+      "order": 15
+    },
+    {
+      "section": "5.2.16",
+      "name": "巨骨",
+      "pinyin": "Jùgǔ",
+      "code": "LI16",
+      "channel": "手阳明大肠经",
+      "order": 16
+    },
+    {
+      "section": "5.2.17",
+      "name": "天鼎",
+      "pinyin": "Tiāndǐng",
+      "code": "LI17",
+      "channel": "手阳明大肠经",
+      "order": 17
+    },
+    {
+      "section": "5.2.18",
+      "name": "扶突",
+      "pinyin": "Fútū",
+      "code": "LI18",
+      "channel": "手阳明大肠经",
+      "order": 18
+    },
+    {
+      "section": "5.2.19",
+      "name": "口禾髎",
+      "pinyin": "Kǒuhéliáo",
+      "code": "LI19",
+      "channel": "手阳明大肠经",
+      "order": 19
+    },
+    {
+      "section": "5.2.20",
+      "name": "迎香",
+      "pinyin": "Yíngxiāng",
+      "code": "LI20",
+      "channel": "手阳明大肠经",
+      "order": 20
+    },
+    {
+      "section": "5.3.1",
+      "name": "承泣",
+      "pinyin": "Chéngqì",
+      "code": "ST1",
+      "channel": "足阳明胃经",
+      "order": 1
+    },
+    {
+      "section": "5.3.2",
+      "name": "四白",
+      "pinyin": "Sìbái",
+      "code": "ST2",
+      "channel": "足阳明胃经",
+      "order": 2
+    },
+    {
+      "section": "5.3.3",
+      "name": "巨髎",
+      "pinyin": "Jùliáo",
+      "code": "ST3",
+      "channel": "足阳明胃经",
+      "order": 3
+    },
+    {
+      "section": "5.3.4",
+      "name": "地仓",
+      "pinyin": "Dìcāng",
+      "code": "ST4",
+      "channel": "足阳明胃经",
+      "order": 4
+    },
+    {
+      "section": "5.3.5",
+      "name": "大迎",
+      "pinyin": "Dàyíng",
+      "code": "ST5",
+      "channel": "足阳明胃经",
+      "order": 5
+    },
+    {
+      "section": "5.3.6",
+      "name": "颊车",
+      "pinyin": "Jiáchē",
+      "code": "ST6",
+      "channel": "足阳明胃经",
+      "order": 6
+    },
+    {
+      "section": "5.3.7",
+      "name": "下关",
+      "pinyin": "Xiàguān",
+      "code": "ST7",
+      "channel": "足阳明胃经",
+      "order": 7
+    },
+    {
+      "section": "5.3.8",
+      "name": "头维",
+      "pinyin": "Tóuwéi",
+      "code": "ST8",
+      "channel": "足阳明胃经",
+      "order": 8
+    },
+    {
+      "section": "5.3.9",
+      "name": "人迎",
+      "pinyin": "Rényíng",
+      "code": "ST9",
+      "channel": "足阳明胃经",
+      "order": 9
+    },
+    {
+      "section": "5.3.10",
+      "name": "水突",
+      "pinyin": "Shuǐtū",
+      "code": "ST10",
+      "channel": "足阳明胃经",
+      "order": 10
+    },
+    {
+      "section": "5.3.11",
+      "name": "气舍",
+      "pinyin": "Qìshè",
+      "code": "ST11",
+      "channel": "足阳明胃经",
+      "order": 11
+    },
+    {
+      "section": "5.3.12",
+      "name": "缺盆",
+      "pinyin": "Quēpén",
+      "code": "ST12",
+      "channel": "足阳明胃经",
+      "order": 12
+    },
+    {
+      "section": "5.3.13",
+      "name": "气户",
+      "pinyin": "Qìhù",
+      "code": "ST13",
+      "channel": "足阳明胃经",
+      "order": 13
+    },
+    {
+      "section": "5.3.14",
+      "name": "库房",
+      "pinyin": "Kùfáng",
+      "code": "ST14",
+      "channel": "足阳明胃经",
+      "order": 14
+    },
+    {
+      "section": "5.3.15",
+      "name": "屋翳",
+      "pinyin": "Wūyì",
+      "code": "ST15",
+      "channel": "足阳明胃经",
+      "order": 15
+    },
+    {
+      "section": "5.3.16",
+      "name": "膺窗",
+      "pinyin": "Yīngchuāng",
+      "code": "ST16",
+      "channel": "足阳明胃经",
+      "order": 16
+    },
+    {
+      "section": "5.3.17",
+      "name": "乳中",
+      "pinyin": "Rǔzhōng",
+      "code": "ST17",
+      "channel": "足阳明胃经",
+      "order": 17
+    },
+    {
+      "section": "5.3.18",
+      "name": "乳根",
+      "pinyin": "Rǔgēn",
+      "code": "ST18",
+      "channel": "足阳明胃经",
+      "order": 18
+    },
+    {
+      "section": "5.3.19",
+      "name": "不容",
+      "pinyin": "Bùróng",
+      "code": "ST19",
+      "channel": "足阳明胃经",
+      "order": 19
+    },
+    {
+      "section": "5.3.20",
+      "name": "承满",
+      "pinyin": "Chéngmǎn",
+      "code": "ST20",
+      "channel": "足阳明胃经",
+      "order": 20
+    },
+    {
+      "section": "5.3.21",
+      "name": "梁门",
+      "pinyin": "Liángmén",
+      "code": "ST21",
+      "channel": "足阳明胃经",
+      "order": 21
+    },
+    {
+      "section": "5.3.22",
+      "name": "关门",
+      "pinyin": "Guānmén",
+      "code": "ST22",
+      "channel": "足阳明胃经",
+      "order": 22
+    },
+    {
+      "section": "5.3.23",
+      "name": "太乙",
+      "pinyin": "Tàiyǐ",
+      "code": "ST23",
+      "channel": "足阳明胃经",
+      "order": 23
+    },
+    {
+      "section": "5.3.24",
+      "name": "滑肉门",
+      "pinyin": "Huáròumén",
+      "code": "ST24",
+      "channel": "足阳明胃经",
+      "order": 24
+    },
+    {
+      "section": "5.3.25",
+      "name": "天枢",
+      "pinyin": "Tiānshū",
+      "code": "ST25",
+      "channel": "足阳明胃经",
+      "order": 25
+    },
+    {
+      "section": "5.3.26",
+      "name": "外陵",
+      "pinyin": "Wàilíng",
+      "code": "ST26",
+      "channel": "足阳明胃经",
+      "order": 26
+    },
+    {
+      "section": "5.3.27",
+      "name": "大巨",
+      "pinyin": "Dàjù",
+      "code": "ST27",
+      "channel": "足阳明胃经",
+      "order": 27
+    },
+    {
+      "section": "5.3.28",
+      "name": "水道",
+      "pinyin": "Shuǐdào",
+      "code": "ST28",
+      "channel": "足阳明胃经",
+      "order": 28
+    },
+    {
+      "section": "5.3.29",
+      "name": "归来",
+      "pinyin": "Guīlái",
+      "code": "ST29",
+      "channel": "足阳明胃经",
+      "order": 29
+    },
+    {
+      "section": "5.3.30",
+      "name": "气冲",
+      "pinyin": "Qìchōng",
+      "code": "ST30",
+      "channel": "足阳明胃经",
+      "order": 30
+    },
+    {
+      "section": "5.3.31",
+      "name": "髀关",
+      "pinyin": "Bìguān",
+      "code": "ST31",
+      "channel": "足阳明胃经",
+      "order": 31
+    },
+    {
+      "section": "5.3.32",
+      "name": "伏兔",
+      "pinyin": "Fútù",
+      "code": "ST32",
+      "channel": "足阳明胃经",
+      "order": 32
+    },
+    {
+      "section": "5.3.33",
+      "name": "阴市",
+      "pinyin": "Yīnshì",
+      "code": "ST33",
+      "channel": "足阳明胃经",
+      "order": 33
+    },
+    {
+      "section": "5.3.34",
+      "name": "梁丘",
+      "pinyin": "Liángqiū",
+      "code": "ST34",
+      "channel": "足阳明胃经",
+      "order": 34
+    },
+    {
+      "section": "5.3.35",
+      "name": "犊鼻",
+      "pinyin": "Dúbí",
+      "code": "ST35",
+      "channel": "足阳明胃经",
+      "order": 35
+    },
+    {
+      "section": "5.3.36",
+      "name": "足三里",
+      "pinyin": "Zúsānlǐ",
+      "code": "ST36",
+      "channel": "足阳明胃经",
+      "order": 36
+    },
+    {
+      "section": "5.3.37",
+      "name": "上巨虚",
+      "pinyin": "Shàngjùxū",
+      "code": "ST37",
+      "channel": "足阳明胃经",
+      "order": 37
+    },
+    {
+      "section": "5.3.38",
+      "name": "条口",
+      "pinyin": "Tiáokǒu",
+      "code": "ST38",
+      "channel": "足阳明胃经",
+      "order": 38
+    },
+    {
+      "section": "5.3.39",
+      "name": "下巨虚",
+      "pinyin": "Xiàjùxū",
+      "code": "ST39",
+      "channel": "足阳明胃经",
+      "order": 39
+    },
+    {
+      "section": "5.3.40",
+      "name": "丰隆",
+      "pinyin": "Fēnglóng",
+      "code": "ST40",
+      "channel": "足阳明胃经",
+      "order": 40
+    },
+    {
+      "section": "5.3.41",
+      "name": "解溪",
+      "pinyin": "Jiěxī",
+      "code": "ST41",
+      "channel": "足阳明胃经",
+      "order": 41
+    },
+    {
+      "section": "5.3.42",
+      "name": "冲阳",
+      "pinyin": "Chōngyáng",
+      "code": "ST42",
+      "channel": "足阳明胃经",
+      "order": 42
+    },
+    {
+      "section": "5.3.43",
+      "name": "陷谷",
+      "pinyin": "Xiàngǔ",
+      "code": "ST43",
+      "channel": "足阳明胃经",
+      "order": 43
+    },
+    {
+      "section": "5.3.44",
+      "name": "内庭",
+      "pinyin": "Nèitíng",
+      "code": "ST44",
+      "channel": "足阳明胃经",
+      "order": 44
+    },
+    {
+      "section": "5.3.45",
+      "name": "厉兑",
+      "pinyin": "Lìduì",
+      "code": "ST45",
+      "channel": "足阳明胃经",
+      "order": 45
+    },
+    {
+      "section": "5.4.1",
+      "name": "隐白",
+      "pinyin": "Yǐnbái",
+      "code": "SP1",
+      "channel": "足太阴脾经",
+      "order": 1
+    },
+    {
+      "section": "5.4.2",
+      "name": "大都",
+      "pinyin": "Dàdū",
+      "code": "SP2",
+      "channel": "足太阴脾经",
+      "order": 2
+    },
+    {
+      "section": "5.4.3",
+      "name": "太白",
+      "pinyin": "Tàibái",
+      "code": "SP3",
+      "channel": "足太阴脾经",
+      "order": 3
+    },
+    {
+      "section": "5.4.4",
+      "name": "公孙",
+      "pinyin": "Gōngsūn",
+      "code": "SP4",
+      "channel": "足太阴脾经",
+      "order": 4
+    },
+    {
+      "section": "5.4.5",
+      "name": "商丘",
+      "pinyin": "Shāngqiū",
+      "code": "SP5",
+      "channel": "足太阴脾经",
+      "order": 5
+    },
+    {
+      "section": "5.4.6",
+      "name": "三阴交",
+      "pinyin": "Sānyīnjiāo",
+      "code": "SP6",
+      "channel": "足太阴脾经",
+      "order": 6
+    },
+    {
+      "section": "5.4.7",
+      "name": "漏谷",
+      "pinyin": "Lòugǔ",
+      "code": "SP7",
+      "channel": "足太阴脾经",
+      "order": 7
+    },
+    {
+      "section": "5.4.8",
+      "name": "地机",
+      "pinyin": "Dìjī",
+      "code": "SP8",
+      "channel": "足太阴脾经",
+      "order": 8
+    },
+    {
+      "section": "5.4.9",
+      "name": "阴陵泉",
+      "pinyin": "Yīnlíngquán",
+      "code": "SP9",
+      "channel": "足太阴脾经",
+      "order": 9
+    },
+    {
+      "section": "5.4.10",
+      "name": "血海",
+      "pinyin": "Xuèhǎi",
+      "code": "SP10",
+      "channel": "足太阴脾经",
+      "order": 10
+    },
+    {
+      "section": "5.4.11",
+      "name": "箕门",
+      "pinyin": "Jīmén",
+      "code": "SP11",
+      "channel": "足太阴脾经",
+      "order": 11
+    },
+    {
+      "section": "5.4.12",
+      "name": "冲门",
+      "pinyin": "Chōngmén",
+      "code": "SP12",
+      "channel": "足太阴脾经",
+      "order": 12
+    },
+    {
+      "section": "5.4.13",
+      "name": "府舍",
+      "pinyin": "Fǔshè",
+      "code": "SP13",
+      "channel": "足太阴脾经",
+      "order": 13
+    },
+    {
+      "section": "5.4.14",
+      "name": "腹结",
+      "pinyin": "Fùjié",
+      "code": "SP14",
+      "channel": "足太阴脾经",
+      "order": 14
+    },
+    {
+      "section": "5.4.15",
+      "name": "大横",
+      "pinyin": "Dàhéng",
+      "code": "SP15",
+      "channel": "足太阴脾经",
+      "order": 15
+    },
+    {
+      "section": "5.4.16",
+      "name": "腹哀",
+      "pinyin": "Fù’āi",
+      "code": "SP16",
+      "channel": "足太阴脾经",
+      "order": 16
+    },
+    {
+      "section": "5.4.17",
+      "name": "食窦",
+      "pinyin": "Shídòu",
+      "code": "SP17",
+      "channel": "足太阴脾经",
+      "order": 17
+    },
+    {
+      "section": "5.4.18",
+      "name": "天溪",
+      "pinyin": "Tiānxī",
+      "code": "SP18",
+      "channel": "足太阴脾经",
+      "order": 18
+    },
+    {
+      "section": "5.4.19",
+      "name": "胸乡",
+      "pinyin": "Xiōngxiāng",
+      "code": "SP19",
+      "channel": "足太阴脾经",
+      "order": 19
+    },
+    {
+      "section": "5.4.20",
+      "name": "周荣",
+      "pinyin": "Zhōuróng",
+      "code": "SP20",
+      "channel": "足太阴脾经",
+      "order": 20
+    },
+    {
+      "section": "5.4.21",
+      "name": "大包",
+      "pinyin": "Dàbāo",
+      "code": "SP21",
+      "channel": "足太阴脾经",
+      "order": 21
+    },
+    {
+      "section": "5.5.1",
+      "name": "极泉",
+      "pinyin": "Jíquán",
+      "code": "HT1",
+      "channel": "手少阴心经",
+      "order": 1
+    },
+    {
+      "section": "5.5.2",
+      "name": "青灵",
+      "pinyin": "Qīnglíng",
+      "code": "HT2",
+      "channel": "手少阴心经",
+      "order": 2
+    },
+    {
+      "section": "5.5.3",
+      "name": "少海",
+      "pinyin": "Shàohǎi",
+      "code": "HT3",
+      "channel": "手少阴心经",
+      "order": 3
+    },
+    {
+      "section": "5.5.4",
+      "name": "灵道",
+      "pinyin": "Língdào",
+      "code": "HT4",
+      "channel": "手少阴心经",
+      "order": 4
+    },
+    {
+      "section": "5.5.5",
+      "name": "通里",
+      "pinyin": "Tōnglǐ",
+      "code": "HT5",
+      "channel": "手少阴心经",
+      "order": 5
+    },
+    {
+      "section": "5.5.6",
+      "name": "阴郄",
+      "pinyin": "Yīnxì",
+      "code": "HT6",
+      "channel": "手少阴心经",
+      "order": 6
+    },
+    {
+      "section": "5.5.7",
+      "name": "神门",
+      "pinyin": "Shénmén",
+      "code": "HT7",
+      "channel": "手少阴心经",
+      "order": 7
+    },
+    {
+      "section": "5.5.8",
+      "name": "少府",
+      "pinyin": "Shàofǔ",
+      "code": "HT8",
+      "channel": "手少阴心经",
+      "order": 8
+    },
+    {
+      "section": "5.5.9",
+      "name": "少冲",
+      "pinyin": "Shàochōng",
+      "code": "HT9",
+      "channel": "手少阴心经",
+      "order": 9
+    },
+    {
+      "section": "5.6.1",
+      "name": "少泽",
+      "pinyin": "Shàozé",
+      "code": "SI1",
+      "channel": "手太阳小肠经",
+      "order": 1
+    },
+    {
+      "section": "5.6.2",
+      "name": "前谷",
+      "pinyin": "Qiángǔ",
+      "code": "SI2",
+      "channel": "手太阳小肠经",
+      "order": 2
+    },
+    {
+      "section": "5.6.3",
+      "name": "后溪",
+      "pinyin": "Hòuxī",
+      "code": "SI3",
+      "channel": "手太阳小肠经",
+      "order": 3
+    },
+    {
+      "section": "5.6.4",
+      "name": "腕骨",
+      "pinyin": "Wàngǔ",
+      "code": "SI4",
+      "channel": "手太阳小肠经",
+      "order": 4
+    },
+    {
+      "section": "5.6.5",
+      "name": "阳谷",
+      "pinyin": "Yánggǔ",
+      "code": "SI5",
+      "channel": "手太阳小肠经",
+      "order": 5
+    },
+    {
+      "section": "5.6.6",
+      "name": "养老",
+      "pinyin": "Yǎnglǎo",
+      "code": "SI6",
+      "channel": "手太阳小肠经",
+      "order": 6
+    },
+    {
+      "section": "5.6.7",
+      "name": "支正",
+      "pinyin": "Zhīzhèng",
+      "code": "SI7",
+      "channel": "手太阳小肠经",
+      "order": 7
+    },
+    {
+      "section": "5.6.8",
+      "name": "小海",
+      "pinyin": "Xiǎohǎi",
+      "code": "SI8",
+      "channel": "手太阳小肠经",
+      "order": 8
+    },
+    {
+      "section": "5.6.9",
+      "name": "肩贞",
+      "pinyin": "Jiānzhēn",
+      "code": "SI9",
+      "channel": "手太阳小肠经",
+      "order": 9
+    },
+    {
+      "section": "5.6.10",
+      "name": "臑俞",
+      "pinyin": "Nàoshū",
+      "code": "SI10",
+      "channel": "手太阳小肠经",
+      "order": 10
+    },
+    {
+      "section": "5.6.11",
+      "name": "天宗",
+      "pinyin": "Tiānzōng",
+      "code": "SI11",
+      "channel": "手太阳小肠经",
+      "order": 11
+    },
+    {
+      "section": "5.6.12",
+      "name": "秉风",
+      "pinyin": "Bǐngfēng",
+      "code": "SI12",
+      "channel": "手太阳小肠经",
+      "order": 12
+    },
+    {
+      "section": "5.6.13",
+      "name": "曲垣",
+      "pinyin": "Qūyuán",
+      "code": "SI13",
+      "channel": "手太阳小肠经",
+      "order": 13
+    },
+    {
+      "section": "5.6.14",
+      "name": "肩外俞",
+      "pinyin": "Jiānwàishū",
+      "code": "SI14",
+      "channel": "手太阳小肠经",
+      "order": 14
+    },
+    {
+      "section": "5.6.15",
+      "name": "肩中俞",
+      "pinyin": "Jiānzhōngshū",
+      "code": "SI15",
+      "channel": "手太阳小肠经",
+      "order": 15
+    },
+    {
+      "section": "5.6.16",
+      "name": "天窗",
+      "pinyin": "Tiānchuāng",
+      "code": "SI16",
+      "channel": "手太阳小肠经",
+      "order": 16
+    },
+    {
+      "section": "5.6.17",
+      "name": "天容",
+      "pinyin": "Tiānróng",
+      "code": "SI17",
+      "channel": "手太阳小肠经",
+      "order": 17
+    },
+    {
+      "section": "5.6.18",
+      "name": "颧髎",
+      "pinyin": "Quánliáo",
+      "code": "SI18",
+      "channel": "手太阳小肠经",
+      "order": 18
+    },
+    {
+      "section": "5.6.19",
+      "name": "听宫",
+      "pinyin": "Tīnggōng",
+      "code": "SI19",
+      "channel": "手太阳小肠经",
+      "order": 19
+    },
+    {
+      "section": "5.7.1",
+      "name": "睛明",
+      "pinyin": "Jīngmíng",
+      "code": "BL1",
+      "channel": "足太阳膀胱经",
+      "order": 1
+    },
+    {
+      "section": "5.7.2",
+      "name": "攒竹",
+      "pinyin": "Cuánzhú",
+      "code": "BL2",
+      "channel": "足太阳膀胱经",
+      "order": 2
+    },
+    {
+      "section": "5.7.3",
+      "name": "眉冲",
+      "pinyin": "Méichōng",
+      "code": "BL3",
+      "channel": "足太阳膀胱经",
+      "order": 3
+    },
+    {
+      "section": "5.7.4",
+      "name": "曲差",
+      "pinyin": "Qūchā",
+      "code": "BL4",
+      "channel": "足太阳膀胱经",
+      "order": 4
+    },
+    {
+      "section": "5.7.5",
+      "name": "五处",
+      "pinyin": "Wǔchù",
+      "code": "BL5",
+      "channel": "足太阳膀胱经",
+      "order": 5
+    },
+    {
+      "section": "5.7.6",
+      "name": "承光",
+      "pinyin": "Chéngguāng",
+      "code": "BL6",
+      "channel": "足太阳膀胱经",
+      "order": 6
+    },
+    {
+      "section": "5.7.7",
+      "name": "通天",
+      "pinyin": "Tōngtiān",
+      "code": "BL7",
+      "channel": "足太阳膀胱经",
+      "order": 7
+    },
+    {
+      "section": "5.7.8",
+      "name": "络却",
+      "pinyin": "Luòquè",
+      "code": "BL8",
+      "channel": "足太阳膀胱经",
+      "order": 8
+    },
+    {
+      "section": "5.7.9",
+      "name": "玉枕",
+      "pinyin": "Yùzhěn",
+      "code": "BL9",
+      "channel": "足太阳膀胱经",
+      "order": 9
+    },
+    {
+      "section": "5.7.10",
+      "name": "天柱",
+      "pinyin": "Tiānzhù",
+      "code": "BL10",
+      "channel": "足太阳膀胱经",
+      "order": 10
+    },
+    {
+      "section": "5.7.11",
+      "name": "大杼",
+      "pinyin": "Dàzhù",
+      "code": "BL11",
+      "channel": "足太阳膀胱经",
+      "order": 11
+    },
+    {
+      "section": "5.7.12",
+      "name": "风门",
+      "pinyin": "Fēngmén",
+      "code": "BL12",
+      "channel": "足太阳膀胱经",
+      "order": 12
+    },
+    {
+      "section": "5.7.13",
+      "name": "肺俞",
+      "pinyin": "Fèishū",
+      "code": "BL13",
+      "channel": "足太阳膀胱经",
+      "order": 13
+    },
+    {
+      "section": "5.7.14",
+      "name": "厥阴俞",
+      "pinyin": "Juéyīnshū",
+      "code": "BL14",
+      "channel": "足太阳膀胱经",
+      "order": 14
+    },
+    {
+      "section": "5.7.15",
+      "name": "心俞",
+      "pinyin": "Xīnshū",
+      "code": "BL15",
+      "channel": "足太阳膀胱经",
+      "order": 15
+    },
+    {
+      "section": "5.7.16",
+      "name": "督俞",
+      "pinyin": "Dūshū",
+      "code": "BL16",
+      "channel": "足太阳膀胱经",
+      "order": 16
+    },
+    {
+      "section": "5.7.17",
+      "name": "膈俞",
+      "pinyin": "Géshū",
+      "code": "BL17",
+      "channel": "足太阳膀胱经",
+      "order": 17
+    },
+    {
+      "section": "5.7.18",
+      "name": "肝俞",
+      "pinyin": "Gānshū",
+      "code": "BL18",
+      "channel": "足太阳膀胱经",
+      "order": 18
+    },
+    {
+      "section": "5.7.19",
+      "name": "胆俞",
+      "pinyin": "Dǎnshū",
+      "code": "BL19",
+      "channel": "足太阳膀胱经",
+      "order": 19
+    },
+    {
+      "section": "5.7.20",
+      "name": "脾俞",
+      "pinyin": "Píshū",
+      "code": "BL20",
+      "channel": "足太阳膀胱经",
+      "order": 20
+    },
+    {
+      "section": "5.7.21",
+      "name": "胃俞",
+      "pinyin": "Wèishū",
+      "code": "BL21",
+      "channel": "足太阳膀胱经",
+      "order": 21
+    },
+    {
+      "section": "5.7.22",
+      "name": "三焦俞",
+      "pinyin": "Sānjiāoshū",
+      "code": "BL22",
+      "channel": "足太阳膀胱经",
+      "order": 22
+    },
+    {
+      "section": "5.7.23",
+      "name": "肾俞",
+      "pinyin": "Shènshū",
+      "code": "BL23",
+      "channel": "足太阳膀胱经",
+      "order": 23
+    },
+    {
+      "section": "5.7.24",
+      "name": "气海俞",
+      "pinyin": "Qìhǎishū",
+      "code": "BL24",
+      "channel": "足太阳膀胱经",
+      "order": 24
+    },
+    {
+      "section": "5.7.25",
+      "name": "大肠俞",
+      "pinyin": "Dàchángshū",
+      "code": "BL25",
+      "channel": "足太阳膀胱经",
+      "order": 25
+    },
+    {
+      "section": "5.7.26",
+      "name": "关元俞",
+      "pinyin": "Guānyuánshū",
+      "code": "BL26",
+      "channel": "足太阳膀胱经",
+      "order": 26
+    },
+    {
+      "section": "5.7.27",
+      "name": "小肠俞",
+      "pinyin": "Xiǎochángshū",
+      "code": "BL27",
+      "channel": "足太阳膀胱经",
+      "order": 27
+    },
+    {
+      "section": "5.7.28",
+      "name": "膀胱俞",
+      "pinyin": "Pángguāngshū",
+      "code": "BL28",
+      "channel": "足太阳膀胱经",
+      "order": 28
+    },
+    {
+      "section": "5.7.29",
+      "name": "中膂俞",
+      "pinyin": "Zhōnglǚshū",
+      "code": "BL29",
+      "channel": "足太阳膀胱经",
+      "order": 29
+    },
+    {
+      "section": "5.7.30",
+      "name": "白环俞",
+      "pinyin": "Báihuánshū",
+      "code": "BL30",
+      "channel": "足太阳膀胱经",
+      "order": 30
+    },
+    {
+      "section": "5.7.31",
+      "name": "上髎",
+      "pinyin": "Shàngliáo",
+      "code": "BL31",
+      "channel": "足太阳膀胱经",
+      "order": 31
+    },
+    {
+      "section": "5.7.32",
+      "name": "次髎",
+      "pinyin": "Cìliáo",
+      "code": "BL32",
+      "channel": "足太阳膀胱经",
+      "order": 32
+    },
+    {
+      "section": "5.7.33",
+      "name": "中髎",
+      "pinyin": "Zhōngliáo",
+      "code": "BL33",
+      "channel": "足太阳膀胱经",
+      "order": 33
+    },
+    {
+      "section": "5.7.34",
+      "name": "下髎",
+      "pinyin": "Xiàliáo",
+      "code": "BL34",
+      "channel": "足太阳膀胱经",
+      "order": 34
+    },
+    {
+      "section": "5.7.35",
+      "name": "会阳",
+      "pinyin": "Huìyáng",
+      "code": "BL35",
+      "channel": "足太阳膀胱经",
+      "order": 35
+    },
+    {
+      "section": "5.7.36",
+      "name": "承扶",
+      "pinyin": "Chéngfú",
+      "code": "BL36",
+      "channel": "足太阳膀胱经",
+      "order": 36
+    },
+    {
+      "section": "5.7.37",
+      "name": "殷门",
+      "pinyin": "Yīnmén",
+      "code": "BL37",
+      "channel": "足太阳膀胱经",
+      "order": 37
+    },
+    {
+      "section": "5.7.38",
+      "name": "浮郄",
+      "pinyin": "Fúxì",
+      "code": "BL38",
+      "channel": "足太阳膀胱经",
+      "order": 38
+    },
+    {
+      "section": "5.7.39",
+      "name": "委阳",
+      "pinyin": "Wěiyáng",
+      "code": "BL39",
+      "channel": "足太阳膀胱经",
+      "order": 39
+    },
+    {
+      "section": "5.7.40",
+      "name": "委中",
+      "pinyin": "Wěizhōng",
+      "code": "BL40",
+      "channel": "足太阳膀胱经",
+      "order": 40
+    },
+    {
+      "section": "5.7.41",
+      "name": "附分",
+      "pinyin": "Fùfēn",
+      "code": "BL41",
+      "channel": "足太阳膀胱经",
+      "order": 41
+    },
+    {
+      "section": "5.7.42",
+      "name": "魄户",
+      "pinyin": "Pòhù",
+      "code": "BL42",
+      "channel": "足太阳膀胱经",
+      "order": 42
+    },
+    {
+      "section": "5.7.43",
+      "name": "膏肓",
+      "pinyin": "Gāohuāng",
+      "code": "BL43",
+      "channel": "足太阳膀胱经",
+      "order": 43
+    },
+    {
+      "section": "5.7.44",
+      "name": "神堂",
+      "pinyin": "Shéntáng",
+      "code": "BL44",
+      "channel": "足太阳膀胱经",
+      "order": 44
+    },
+    {
+      "section": "5.7.45",
+      "name": "譩譆",
+      "pinyin": "Yìxǐ",
+      "code": "BL45",
+      "channel": "足太阳膀胱经",
+      "order": 45
+    },
+    {
+      "section": "5.7.46",
+      "name": "膈关",
+      "pinyin": "Géguān",
+      "code": "BL46",
+      "channel": "足太阳膀胱经",
+      "order": 46
+    },
+    {
+      "section": "5.7.47",
+      "name": "魂门",
+      "pinyin": "Húnmén",
+      "code": "BL47",
+      "channel": "足太阳膀胱经",
+      "order": 47
+    },
+    {
+      "section": "5.7.48",
+      "name": "阳纲",
+      "pinyin": "Yánggāng",
+      "code": "BL48",
+      "channel": "足太阳膀胱经",
+      "order": 48
+    },
+    {
+      "section": "5.7.49",
+      "name": "意舍",
+      "pinyin": "Yìshè",
+      "code": "BL49",
+      "channel": "足太阳膀胱经",
+      "order": 49
+    },
+    {
+      "section": "5.7.50",
+      "name": "胃仓",
+      "pinyin": "Wèicāng",
+      "code": "BL50",
+      "channel": "足太阳膀胱经",
+      "order": 50
+    },
+    {
+      "section": "5.7.51",
+      "name": "肓门",
+      "pinyin": "Huāngmén",
+      "code": "BL51",
+      "channel": "足太阳膀胱经",
+      "order": 51
+    },
+    {
+      "section": "5.7.52",
+      "name": "志室",
+      "pinyin": "Zhìshì",
+      "code": "BL52",
+      "channel": "足太阳膀胱经",
+      "order": 52
+    },
+    {
+      "section": "5.7.53",
+      "name": "胞肓",
+      "pinyin": "Bāohuāng",
+      "code": "BL53",
+      "channel": "足太阳膀胱经",
+      "order": 53
+    },
+    {
+      "section": "5.7.54",
+      "name": "秩边",
+      "pinyin": "Zhìbiān",
+      "code": "BL54",
+      "channel": "足太阳膀胱经",
+      "order": 54
+    },
+    {
+      "section": "5.7.55",
+      "name": "合阳",
+      "pinyin": "Héyáng",
+      "code": "BL55",
+      "channel": "足太阳膀胱经",
+      "order": 55
+    },
+    {
+      "section": "5.7.56",
+      "name": "承筋",
+      "pinyin": "Chéngjīn",
+      "code": "BL56",
+      "channel": "足太阳膀胱经",
+      "order": 56
+    },
+    {
+      "section": "5.7.57",
+      "name": "承山",
+      "pinyin": "Chéngshān",
+      "code": "BL57",
+      "channel": "足太阳膀胱经",
+      "order": 57
+    },
+    {
+      "section": "5.7.58",
+      "name": "飞扬",
+      "pinyin": "Fēiyáng",
+      "code": "BL58",
+      "channel": "足太阳膀胱经",
+      "order": 58
+    },
+    {
+      "section": "5.7.59",
+      "name": "跗阳",
+      "pinyin": "Fūyáng",
+      "code": "BL59",
+      "channel": "足太阳膀胱经",
+      "order": 59
+    },
+    {
+      "section": "5.7.60",
+      "name": "昆仑",
+      "pinyin": "Kūnlún",
+      "code": "BL60",
+      "channel": "足太阳膀胱经",
+      "order": 60
+    },
+    {
+      "section": "5.7.61",
+      "name": "仆参",
+      "pinyin": "Púcān",
+      "code": "BL61",
+      "channel": "足太阳膀胱经",
+      "order": 61
+    },
+    {
+      "section": "5.7.62",
+      "name": "申脉",
+      "pinyin": "Shēnmài",
+      "code": "BL62",
+      "channel": "足太阳膀胱经",
+      "order": 62
+    },
+    {
+      "section": "5.7.63",
+      "name": "金门",
+      "pinyin": "Jīnmén",
+      "code": "BL63",
+      "channel": "足太阳膀胱经",
+      "order": 63
+    },
+    {
+      "section": "5.7.64",
+      "name": "京骨",
+      "pinyin": "Jīnggǔ",
+      "code": "BL64",
+      "channel": "足太阳膀胱经",
+      "order": 64
+    },
+    {
+      "section": "5.7.65",
+      "name": "束骨",
+      "pinyin": "Shùgǔ",
+      "code": "BL65",
+      "channel": "足太阳膀胱经",
+      "order": 65
+    },
+    {
+      "section": "5.7.66",
+      "name": "足通谷",
+      "pinyin": "Zútōnggǔ",
+      "code": "BL66",
+      "channel": "足太阳膀胱经",
+      "order": 66
+    },
+    {
+      "section": "5.7.67",
+      "name": "至阴",
+      "pinyin": "Zhìyīn",
+      "code": "BL67",
+      "channel": "足太阳膀胱经",
+      "order": 67
+    },
+    {
+      "section": "5.8.1",
+      "name": "涌泉",
+      "pinyin": "Yǒngquán",
+      "code": "KI1",
+      "channel": "足少阴肾经",
+      "order": 1
+    },
+    {
+      "section": "5.8.2",
+      "name": "然谷",
+      "pinyin": "Rángǔ",
+      "code": "KI2",
+      "channel": "足少阴肾经",
+      "order": 2
+    },
+    {
+      "section": "5.8.3",
+      "name": "太溪",
+      "pinyin": "Tàixī",
+      "code": "KI3",
+      "channel": "足少阴肾经",
+      "order": 3
+    },
+    {
+      "section": "5.8.4",
+      "name": "大钟",
+      "pinyin": "Dàzhōng",
+      "code": "KI4",
+      "channel": "足少阴肾经",
+      "order": 4
+    },
+    {
+      "section": "5.8.5",
+      "name": "水泉",
+      "pinyin": "Shuǐquán",
+      "code": "KI5",
+      "channel": "足少阴肾经",
+      "order": 5
+    },
+    {
+      "section": "5.8.6",
+      "name": "照海",
+      "pinyin": "Zhàohǎi",
+      "code": "KI6",
+      "channel": "足少阴肾经",
+      "order": 6
+    },
+    {
+      "section": "5.8.7",
+      "name": "复溜",
+      "pinyin": "Fùliū",
+      "code": "KI7",
+      "channel": "足少阴肾经",
+      "order": 7
+    },
+    {
+      "section": "5.8.8",
+      "name": "交信",
+      "pinyin": "Jiāoxìn",
+      "code": "KI8",
+      "channel": "足少阴肾经",
+      "order": 8
+    },
+    {
+      "section": "5.8.9",
+      "name": "筑宾",
+      "pinyin": "Zhùbīn",
+      "code": "KI9",
+      "channel": "足少阴肾经",
+      "order": 9
+    },
+    {
+      "section": "5.8.10",
+      "name": "阴谷",
+      "pinyin": "Yīngǔ",
+      "code": "KI10",
+      "channel": "足少阴肾经",
+      "order": 10
+    },
+    {
+      "section": "5.8.11",
+      "name": "横骨",
+      "pinyin": "Hénggǔ",
+      "code": "KI11",
+      "channel": "足少阴肾经",
+      "order": 11
+    },
+    {
+      "section": "5.8.12",
+      "name": "大赫",
+      "pinyin": "Dàhè",
+      "code": "KI12",
+      "channel": "足少阴肾经",
+      "order": 12
+    },
+    {
+      "section": "5.8.13",
+      "name": "气穴",
+      "pinyin": "Qìxué",
+      "code": "KI13",
+      "channel": "足少阴肾经",
+      "order": 13
+    },
+    {
+      "section": "5.8.14",
+      "name": "四满",
+      "pinyin": "Sìmǎn",
+      "code": "KI14",
+      "channel": "足少阴肾经",
+      "order": 14
+    },
+    {
+      "section": "5.8.15",
+      "name": "中注",
+      "pinyin": "Zhōngzhù",
+      "code": "KI15",
+      "channel": "足少阴肾经",
+      "order": 15
+    },
+    {
+      "section": "5.8.16",
+      "name": "肓俞",
+      "pinyin": "Huāngshū",
+      "code": "KI16",
+      "channel": "足少阴肾经",
+      "order": 16
+    },
+    {
+      "section": "5.8.17",
+      "name": "商曲",
+      "pinyin": "Shāngqū",
+      "code": "KI17",
+      "channel": "足少阴肾经",
+      "order": 17
+    },
+    {
+      "section": "5.8.18",
+      "name": "石关",
+      "pinyin": "Shíguān",
+      "code": "KI18",
+      "channel": "足少阴肾经",
+      "order": 18
+    },
+    {
+      "section": "5.8.19",
+      "name": "阴都",
+      "pinyin": "Yīndū",
+      "code": "KI19",
+      "channel": "足少阴肾经",
+      "order": 19
+    },
+    {
+      "section": "5.8.20",
+      "name": "腹通谷",
+      "pinyin": "Fùtōnggǔ",
+      "code": "KI20",
+      "channel": "足少阴肾经",
+      "order": 20
+    },
+    {
+      "section": "5.8.21",
+      "name": "幽门",
+      "pinyin": "Yōumén",
+      "code": "KI21",
+      "channel": "足少阴肾经",
+      "order": 21
+    },
+    {
+      "section": "5.8.22",
+      "name": "步廊",
+      "pinyin": "Bùláng",
+      "code": "KI22",
+      "channel": "足少阴肾经",
+      "order": 22
+    },
+    {
+      "section": "5.8.23",
+      "name": "神封",
+      "pinyin": "Shénfēng",
+      "code": "KI23",
+      "channel": "足少阴肾经",
+      "order": 23
+    },
+    {
+      "section": "5.8.24",
+      "name": "灵墟",
+      "pinyin": "Língxū",
+      "code": "KI24",
+      "channel": "足少阴肾经",
+      "order": 24
+    },
+    {
+      "section": "5.8.25",
+      "name": "神藏",
+      "pinyin": "Shéncáng",
+      "code": "KI25",
+      "channel": "足少阴肾经",
+      "order": 25
+    },
+    {
+      "section": "5.8.26",
+      "name": "彧中",
+      "pinyin": "Yùzhōng",
+      "code": "KI26",
+      "channel": "足少阴肾经",
+      "order": 26
+    },
+    {
+      "section": "5.8.27",
+      "name": "俞府",
+      "pinyin": "Shūfǔ",
+      "code": "KI27",
+      "channel": "足少阴肾经",
+      "order": 27
+    },
+    {
+      "section": "5.9.1",
+      "name": "天池",
+      "pinyin": "Tiānchí",
+      "code": "PC1",
+      "channel": "手厥阴心包经",
+      "order": 1
+    },
+    {
+      "section": "5.9.2",
+      "name": "天泉",
+      "pinyin": "Tiānquán",
+      "code": "PC2",
+      "channel": "手厥阴心包经",
+      "order": 2
+    },
+    {
+      "section": "5.9.3",
+      "name": "曲泽",
+      "pinyin": "Qūzé",
+      "code": "PC3",
+      "channel": "手厥阴心包经",
+      "order": 3
+    },
+    {
+      "section": "5.9.4",
+      "name": "郄门",
+      "pinyin": "Xìmén",
+      "code": "PC4",
+      "channel": "手厥阴心包经",
+      "order": 4
+    },
+    {
+      "section": "5.9.5",
+      "name": "间使",
+      "pinyin": "Jiānshǐ",
+      "code": "PC5",
+      "channel": "手厥阴心包经",
+      "order": 5
+    },
+    {
+      "section": "5.9.6",
+      "name": "内关",
+      "pinyin": "Nèiguān",
+      "code": "PC6",
+      "channel": "手厥阴心包经",
+      "order": 6
+    },
+    {
+      "section": "5.9.7",
+      "name": "大陵",
+      "pinyin": "Dàlíng",
+      "code": "PC7",
+      "channel": "手厥阴心包经",
+      "order": 7
+    },
+    {
+      "section": "5.9.8",
+      "name": "劳宫",
+      "pinyin": "Láogōng",
+      "code": "PC8",
+      "channel": "手厥阴心包经",
+      "order": 8
+    },
+    {
+      "section": "5.9.9",
+      "name": "中冲",
+      "pinyin": "Zhōngchōng",
+      "code": "PC9",
+      "channel": "手厥阴心包经",
+      "order": 9
+    },
+    {
+      "section": "5.10.1",
+      "name": "关冲",
+      "pinyin": "Guānchōng",
+      "code": "TE1",
+      "channel": "手少阳三焦经",
+      "order": 1
+    },
+    {
+      "section": "5.10.2",
+      "name": "液门",
+      "pinyin": "Yèmén",
+      "code": "TE2",
+      "channel": "手少阳三焦经",
+      "order": 2
+    },
+    {
+      "section": "5.10.3",
+      "name": "中渚",
+      "pinyin": "Zhōngzhǔ",
+      "code": "TE3",
+      "channel": "手少阳三焦经",
+      "order": 3
+    },
+    {
+      "section": "5.10.4",
+      "name": "阳池",
+      "pinyin": "Yángchí",
+      "code": "TE4",
+      "channel": "手少阳三焦经",
+      "order": 4
+    },
+    {
+      "section": "5.10.5",
+      "name": "外关",
+      "pinyin": "Wàiguān",
+      "code": "TE5",
+      "channel": "手少阳三焦经",
+      "order": 5
+    },
+    {
+      "section": "5.10.6",
+      "name": "支沟",
+      "pinyin": "Zhīgōu",
+      "code": "TE6",
+      "channel": "手少阳三焦经",
+      "order": 6
+    },
+    {
+      "section": "5.10.7",
+      "name": "会宗",
+      "pinyin": "Huìzōng",
+      "code": "TE7",
+      "channel": "手少阳三焦经",
+      "order": 7
+    },
+    {
+      "section": "5.10.8",
+      "name": "三阳络",
+      "pinyin": "Sānyángluò",
+      "code": "TE8",
+      "channel": "手少阳三焦经",
+      "order": 8
+    },
+    {
+      "section": "5.10.9",
+      "name": "四渎",
+      "pinyin": "Sìdú",
+      "code": "TE9",
+      "channel": "手少阳三焦经",
+      "order": 9
+    },
+    {
+      "section": "5.10.10",
+      "name": "天井",
+      "pinyin": "Tiānjǐng",
+      "code": "TE10",
+      "channel": "手少阳三焦经",
+      "order": 10
+    },
+    {
+      "section": "5.10.11",
+      "name": "清泠渊",
+      "pinyin": "Qīnglíngyuān",
+      "code": "TE11",
+      "channel": "手少阳三焦经",
+      "order": 11
+    },
+    {
+      "section": "5.10.12",
+      "name": "消泺",
+      "pinyin": "Xiāoluò",
+      "code": "TE12",
+      "channel": "手少阳三焦经",
+      "order": 12
+    },
+    {
+      "section": "5.10.13",
+      "name": "臑会",
+      "pinyin": "Nàohuì",
+      "code": "TE13",
+      "channel": "手少阳三焦经",
+      "order": 13,
+      "locate": "上臂后面，尺骨鹰嘴尖至肩峰角连线与三角肌后缘的交点。"
+    },
+    {
+      "section": "5.10.14",
+      "name": "肩髎",
+      "pinyin": "Jiānliáo",
+      "code": "TE14",
+      "channel": "手少阳三焦经",
+      "order": 14
+    },
+    {
+      "section": "5.10.15",
+      "name": "天髎",
+      "pinyin": "Tiānliáo",
+      "code": "TE15",
+      "channel": "手少阳三焦经",
+      "order": 15
+    },
+    {
+      "section": "5.10.16",
+      "name": "天牖",
+      "pinyin": "Tiānyǒu",
+      "code": "TE16",
+      "channel": "手少阳三焦经",
+      "order": 16
+    },
+    {
+      "section": "5.10.17",
+      "name": "翳风",
+      "pinyin": "Yìfēng",
+      "code": "TE17",
+      "channel": "手少阳三焦经",
+      "order": 17
+    },
+    {
+      "section": "5.10.18",
+      "name": "瘈脉",
+      "pinyin": "Chìmài",
+      "code": "TE18",
+      "channel": "手少阳三焦经",
+      "order": 18
+    },
+    {
+      "section": "5.10.19",
+      "name": "颅息",
+      "pinyin": "Lúxī",
+      "code": "TE19",
+      "channel": "手少阳三焦经",
+      "order": 19
+    },
+    {
+      "section": "5.10.20",
+      "name": "角孙",
+      "pinyin": "Jiǎosūn",
+      "code": "TE20",
+      "channel": "手少阳三焦经",
+      "order": 20
+    },
+    {
+      "section": "5.10.21",
+      "name": "耳门",
+      "pinyin": "Ěrmén",
+      "code": "TE21",
+      "channel": "手少阳三焦经",
+      "order": 21
+    },
+    {
+      "section": "5.10.22",
+      "name": "耳和髎",
+      "pinyin": "Ěrhéliáo",
+      "code": "TE22",
+      "channel": "手少阳三焦经",
+      "order": 22
+    },
+    {
+      "section": "5.10.23",
+      "name": "丝竹空",
+      "pinyin": "Sīzhúkōng",
+      "code": "TE23",
+      "channel": "手少阳三焦经",
+      "order": 23
+    },
+    {
+      "section": "5.11.1",
+      "name": "瞳子髎",
+      "pinyin": "Tóngzǐliáo",
+      "code": "GB1",
+      "channel": "足少阳胆经",
+      "order": 1
+    },
+    {
+      "section": "5.11.2",
+      "name": "听会",
+      "pinyin": "Tīnghuì",
+      "code": "GB2",
+      "channel": "足少阳胆经",
+      "order": 2
+    },
+    {
+      "section": "5.11.3",
+      "name": "上关",
+      "pinyin": "Shàngguān",
+      "code": "GB3",
+      "channel": "足少阳胆经",
+      "order": 3
+    },
+    {
+      "section": "5.11.4",
+      "name": "颔厌",
+      "pinyin": "Hànyàn",
+      "code": "GB4",
+      "channel": "足少阳胆经",
+      "order": 4
+    },
+    {
+      "section": "5.11.5",
+      "name": "悬颅",
+      "pinyin": "Xuánlú",
+      "code": "GB5",
+      "channel": "足少阳胆经",
+      "order": 5
+    },
+    {
+      "section": "5.11.6",
+      "name": "悬厘",
+      "pinyin": "Xuánlí",
+      "code": "GB6",
+      "channel": "足少阳胆经",
+      "order": 6
+    },
+    {
+      "section": "5.11.7",
+      "name": "曲鬓",
+      "pinyin": "Qūbìn",
+      "code": "GB7",
+      "channel": "足少阳胆经",
+      "order": 7
+    },
+    {
+      "section": "5.11.8",
+      "name": "率谷",
+      "pinyin": "Shuàigǔ",
+      "code": "GB8",
+      "channel": "足少阳胆经",
+      "order": 8
+    },
+    {
+      "section": "5.11.9",
+      "name": "天冲",
+      "pinyin": "Tiānchōng",
+      "code": "GB9",
+      "channel": "足少阳胆经",
+      "order": 9
+    },
+    {
+      "section": "5.11.10",
+      "name": "浮白",
+      "pinyin": "Fúbái",
+      "code": "GB10",
+      "channel": "足少阳胆经",
+      "order": 10
+    },
+    {
+      "section": "5.11.11",
+      "name": "头窍阴",
+      "pinyin": "Tóuqiàoyīn",
+      "code": "GB11",
+      "channel": "足少阳胆经",
+      "order": 11
+    },
+    {
+      "section": "5.11.12",
+      "name": "完骨",
+      "pinyin": "Wángǔ",
+      "code": "GB12",
+      "channel": "足少阳胆经",
+      "order": 12
+    },
+    {
+      "section": "5.11.13",
+      "name": "本神",
+      "pinyin": "Běnshén",
+      "code": "GB13",
+      "channel": "足少阳胆经",
+      "order": 13
+    },
+    {
+      "section": "5.11.14",
+      "name": "阳白",
+      "pinyin": "Yángbái",
+      "code": "GB14",
+      "channel": "足少阳胆经",
+      "order": 14
+    },
+    {
+      "section": "5.11.15",
+      "name": "头临泣",
+      "pinyin": "Tóulínqì",
+      "code": "GB15",
+      "channel": "足少阳胆经",
+      "order": 15
+    },
+    {
+      "section": "5.11.16",
+      "name": "目窗",
+      "pinyin": "Mùchuāng",
+      "code": "GB16",
+      "channel": "足少阳胆经",
+      "order": 16
+    },
+    {
+      "section": "5.11.17",
+      "name": "正营",
+      "pinyin": "Zhèngyíng",
+      "code": "GB17",
+      "channel": "足少阳胆经",
+      "order": 17
+    },
+    {
+      "section": "5.11.18",
+      "name": "承灵",
+      "pinyin": "Chénglíng",
+      "code": "GB18",
+      "channel": "足少阳胆经",
+      "order": 18
+    },
+    {
+      "section": "5.11.19",
+      "name": "脑空",
+      "pinyin": "Nǎokōng",
+      "code": "GB19",
+      "channel": "足少阳胆经",
+      "order": 19
+    },
+    {
+      "section": "5.11.20",
+      "name": "风池",
+      "pinyin": "Fēngchí",
+      "code": "GB20",
+      "channel": "足少阳胆经",
+      "order": 20
+    },
+    {
+      "section": "5.11.21",
+      "name": "肩井",
+      "pinyin": "Jiānjǐng",
+      "code": "GB21",
+      "channel": "足少阳胆经",
+      "order": 21
+    },
+    {
+      "section": "5.11.22",
+      "name": "渊腋",
+      "pinyin": "Yuānyè",
+      "code": "GB22",
+      "channel": "足少阳胆经",
+      "order": 22,
+      "locate": "胸廓侧面，沿腋中线到第四肋间隙的位置。"
+    },
+    {
+      "section": "5.11.23",
+      "name": "辄筋",
+      "pinyin": "Zhéjīn",
+      "code": "GB23",
+      "channel": "足少阳胆经",
+      "order": 23
+    },
+    {
+      "section": "5.11.24",
+      "name": "日月",
+      "pinyin": "Rìyuè",
+      "code": "GB24",
+      "channel": "足少阳胆经",
+      "order": 24
+    },
+    {
+      "section": "5.11.25",
+      "name": "京门",
+      "pinyin": "Jīngmén",
+      "code": "GB25",
+      "channel": "足少阳胆经",
+      "order": 25
+    },
+    {
+      "section": "5.11.26",
+      "name": "带脉",
+      "pinyin": "Dàimài",
+      "code": "GB26",
+      "channel": "足少阳胆经",
+      "order": 26
+    },
+    {
+      "section": "5.11.27",
+      "name": "五枢",
+      "pinyin": "Wǔshū",
+      "code": "GB27",
+      "channel": "足少阳胆经",
+      "order": 27
+    },
+    {
+      "section": "5.11.28",
+      "name": "维道",
+      "pinyin": "Wéidào",
+      "code": "GB28",
+      "channel": "足少阳胆经",
+      "order": 28
+    },
+    {
+      "section": "5.11.29",
+      "name": "居髎",
+      "pinyin": "Jūliáo",
+      "code": "GB29",
+      "channel": "足少阳胆经",
+      "order": 29
+    },
+    {
+      "section": "5.11.30",
+      "name": "环跳",
+      "pinyin": "Huántiào",
+      "code": "GB30",
+      "channel": "足少阳胆经",
+      "order": 30
+    },
+    {
+      "section": "5.11.31",
+      "name": "风市",
+      "pinyin": "Fēngshì",
+      "code": "GB31",
+      "channel": "足少阳胆经",
+      "order": 31,
+      "locate": "大腿外侧，腘横纹往上 9 寸，在髂胫束的后缘。"
+    },
+    {
+      "section": "5.11.32",
+      "name": "中渎",
+      "pinyin": "Zhōngdú",
+      "code": "GB32",
+      "channel": "足少阳胆经",
+      "order": 32
+    },
+    {
+      "section": "5.11.33",
+      "name": "膝阳关",
+      "pinyin": "Xīyángguān",
+      "code": "GB33",
+      "channel": "足少阳胆经",
+      "order": 33
+    },
+    {
+      "section": "5.11.34",
+      "name": "阳陵泉",
+      "pinyin": "Yánglíngquán",
+      "code": "GB34",
+      "channel": "足少阳胆经",
+      "order": 34
+    },
+    {
+      "section": "5.11.35",
+      "name": "阳交",
+      "pinyin": "Yángjiāo",
+      "code": "GB35",
+      "channel": "足少阳胆经",
+      "order": 35
+    },
+    {
+      "section": "5.11.36",
+      "name": "外丘",
+      "pinyin": "Wàiqiū",
+      "code": "GB36",
+      "channel": "足少阳胆经",
+      "order": 36
+    },
+    {
+      "section": "5.11.37",
+      "name": "光明",
+      "pinyin": "Guāngmíng",
+      "code": "GB37",
+      "channel": "足少阳胆经",
+      "order": 37
+    },
+    {
+      "section": "5.11.38",
+      "name": "阳辅",
+      "pinyin": "Yángfǔ",
+      "code": "GB38",
+      "channel": "足少阳胆经",
+      "order": 38
+    },
+    {
+      "section": "5.11.39",
+      "name": "悬钟",
+      "pinyin": "Xuánzhōng",
+      "code": "GB39",
+      "channel": "足少阳胆经",
+      "order": 39
+    },
+    {
+      "section": "5.11.40",
+      "name": "丘墟",
+      "pinyin": "Qiūxū",
+      "code": "GB40",
+      "channel": "足少阳胆经",
+      "order": 40
+    },
+    {
+      "section": "5.11.41",
+      "name": "足临泣",
+      "pinyin": "Zúlínqì",
+      "code": "GB41",
+      "channel": "足少阳胆经",
+      "order": 41
+    },
+    {
+      "section": "5.11.42",
+      "name": "地五会",
+      "pinyin": "Dìwǔhuì",
+      "code": "GB42",
+      "channel": "足少阳胆经",
+      "order": 42
+    },
+    {
+      "section": "5.11.43",
+      "name": "侠溪",
+      "pinyin": "Xiáxī",
+      "code": "GB43",
+      "channel": "足少阳胆经",
+      "order": 43
+    },
+    {
+      "section": "5.11.44",
+      "name": "足窍阴",
+      "pinyin": "Zúqiàoyīn",
+      "code": "GB44",
+      "channel": "足少阳胆经",
+      "order": 44
+    },
+    {
+      "section": "5.12.1",
+      "name": "大敦",
+      "pinyin": "Dàdūn",
+      "code": "LR1",
+      "channel": "足厥阴肝经",
+      "order": 1
+    },
+    {
+      "section": "5.12.2",
+      "name": "行间",
+      "pinyin": "Xíngjiān",
+      "code": "LR2",
+      "channel": "足厥阴肝经",
+      "order": 2
+    },
+    {
+      "section": "5.12.3",
+      "name": "太冲",
+      "pinyin": "Tàichōng",
+      "code": "LR3",
+      "channel": "足厥阴肝经",
+      "order": 3
+    },
+    {
+      "section": "5.12.4",
+      "name": "中封",
+      "pinyin": "Zhōngfēng",
+      "code": "LR4",
+      "channel": "足厥阴肝经",
+      "order": 4
+    },
+    {
+      "section": "5.12.5",
+      "name": "蠡沟",
+      "pinyin": "Lígōu",
+      "code": "LR5",
+      "channel": "足厥阴肝经",
+      "order": 5
+    },
+    {
+      "section": "5.12.6",
+      "name": "中都",
+      "pinyin": "Zhōngdū",
+      "code": "LR6",
+      "channel": "足厥阴肝经",
+      "order": 6
+    },
+    {
+      "section": "5.12.7",
+      "name": "膝关",
+      "pinyin": "Xīguān",
+      "code": "LR7",
+      "channel": "足厥阴肝经",
+      "order": 7
+    },
+    {
+      "section": "5.12.8",
+      "name": "曲泉",
+      "pinyin": "Qūquán",
+      "code": "LR8",
+      "channel": "足厥阴肝经",
+      "order": 8
+    },
+    {
+      "section": "5.12.9",
+      "name": "阴包",
+      "pinyin": "Yīnbāo",
+      "code": "LR9",
+      "channel": "足厥阴肝经",
+      "order": 9
+    },
+    {
+      "section": "5.12.10",
+      "name": "足五里",
+      "pinyin": "Zúwǔlǐ",
+      "code": "LR10",
+      "channel": "足厥阴肝经",
+      "order": 10
+    },
+    {
+      "section": "5.12.11",
+      "name": "阴廉",
+      "pinyin": "Yīnlián",
+      "code": "LR11",
+      "channel": "足厥阴肝经",
+      "order": 11
+    },
+    {
+      "section": "5.12.12",
+      "name": "急脉",
+      "pinyin": "Jímài",
+      "code": "LR12",
+      "channel": "足厥阴肝经",
+      "order": 12
+    },
+    {
+      "section": "5.12.13",
+      "name": "章门",
+      "pinyin": "Zhāngmén",
+      "code": "LR13",
+      "channel": "足厥阴肝经",
+      "order": 13
+    },
+    {
+      "section": "5.12.14",
+      "name": "期门",
+      "pinyin": "Qīmén",
+      "code": "LR14",
+      "channel": "足厥阴肝经",
+      "order": 14
+    },
+    {
+      "section": "5.13.1",
+      "name": "长强",
+      "pinyin": "Chángqiáng",
+      "code": "GV1",
+      "channel": "督脉",
+      "order": 1
+    },
+    {
+      "section": "5.13.2",
+      "name": "腰俞",
+      "pinyin": "Yāoshū",
+      "code": "GV2",
+      "channel": "督脉",
+      "order": 2
+    },
+    {
+      "section": "5.13.3",
+      "name": "腰阳关",
+      "pinyin": "Yāoyángguān",
+      "code": "GV3",
+      "channel": "督脉",
+      "order": 3
+    },
+    {
+      "section": "5.13.4",
+      "name": "命门",
+      "pinyin": "Mìngmén",
+      "code": "GV4",
+      "channel": "督脉",
+      "order": 4
+    },
+    {
+      "section": "5.13.5",
+      "name": "悬枢",
+      "pinyin": "Xuánshū",
+      "code": "GV5",
+      "channel": "督脉",
+      "order": 5
+    },
+    {
+      "section": "5.13.6",
+      "name": "脊中",
+      "pinyin": "Jǐzhōng",
+      "code": "GV6",
+      "channel": "督脉",
+      "order": 6
+    },
+    {
+      "section": "5.13.7",
+      "name": "中枢",
+      "pinyin": "Zhōngshū",
+      "code": "GV7",
+      "channel": "督脉",
+      "order": 7
+    },
+    {
+      "section": "5.13.8",
+      "name": "筋缩",
+      "pinyin": "Jīnsuō",
+      "code": "GV8",
+      "channel": "督脉",
+      "order": 8
+    },
+    {
+      "section": "5.13.9",
+      "name": "至阳",
+      "pinyin": "Zhìyáng",
+      "code": "GV9",
+      "channel": "督脉",
+      "order": 9
+    },
+    {
+      "section": "5.13.10",
+      "name": "灵台",
+      "pinyin": "Língtái",
+      "code": "GV10",
+      "channel": "督脉",
+      "order": 10
+    },
+    {
+      "section": "5.13.11",
+      "name": "神道",
+      "pinyin": "Shéndào",
+      "code": "GV11",
+      "channel": "督脉",
+      "order": 11
+    },
+    {
+      "section": "5.13.12",
+      "name": "身柱",
+      "pinyin": "Shēnzhù",
+      "code": "GV12",
+      "channel": "督脉",
+      "order": 12
+    },
+    {
+      "section": "5.13.13",
+      "name": "陶道",
+      "pinyin": "Táodào",
+      "code": "GV13",
+      "channel": "督脉",
+      "order": 13
+    },
+    {
+      "section": "5.13.14",
+      "name": "大椎",
+      "pinyin": "Dàzhuī",
+      "code": "GV14",
+      "channel": "督脉",
+      "order": 14
+    },
+    {
+      "section": "5.13.15",
+      "name": "哑门",
+      "pinyin": "Yǎmén",
+      "code": "GV15",
+      "channel": "督脉",
+      "order": 15
+    },
+    {
+      "section": "5.13.16",
+      "name": "风府",
+      "pinyin": "Fēngfǔ",
+      "code": "GV16",
+      "channel": "督脉",
+      "order": 16
+    },
+    {
+      "section": "5.13.17",
+      "name": "脑户",
+      "pinyin": "Nǎohù",
+      "code": "GV17",
+      "channel": "督脉",
+      "order": 17
+    },
+    {
+      "section": "5.13.18",
+      "name": "强间",
+      "pinyin": "Qiángjiān",
+      "code": "GV18",
+      "channel": "督脉",
+      "order": 18
+    },
+    {
+      "section": "5.13.19",
+      "name": "后顶",
+      "pinyin": "Hòudǐng",
+      "code": "GV19",
+      "channel": "督脉",
+      "order": 19
+    },
+    {
+      "section": "5.13.20",
+      "name": "百会",
+      "pinyin": "Bǎihuì",
+      "code": "GV20",
+      "channel": "督脉",
+      "order": 20
+    },
+    {
+      "section": "5.13.21",
+      "name": "前顶",
+      "pinyin": "Qiándǐng",
+      "code": "GV21",
+      "channel": "督脉",
+      "order": 21
+    },
+    {
+      "section": "5.13.22",
+      "name": "囟会",
+      "pinyin": "Xìnhuì",
+      "code": "GV22",
+      "channel": "督脉",
+      "order": 22
+    },
+    {
+      "section": "5.13.23",
+      "name": "上星",
+      "pinyin": "Shàngxīng",
+      "code": "GV23",
+      "channel": "督脉",
+      "order": 23
+    },
+    {
+      "section": "5.13.24",
+      "name": "神庭",
+      "pinyin": "Shéntíng",
+      "code": "GV24",
+      "channel": "督脉",
+      "order": 24
+    },
+    {
+      "section": "5.13.25",
+      "name": "印堂",
+      "pinyin": "Yìntáng",
+      "code": "GV24+",
+      "channel": "督脉",
+      "order": 25,
+      "locate": "两眉内侧端之间的凹处，对应左右攒竹连线的中点。"
+    },
+    {
+      "section": "5.13.26",
+      "name": "素髎",
+      "pinyin": "Sùliáo",
+      "code": "GV25",
+      "channel": "督脉",
+      "order": 26
+    },
+    {
+      "section": "5.13.27",
+      "name": "水沟",
+      "pinyin": "Shuǐgōu",
+      "code": "GV26",
+      "channel": "督脉",
+      "order": 27
+    },
+    {
+      "section": "5.13.28",
+      "name": "兑端",
+      "pinyin": "Duìduān",
+      "code": "GV27",
+      "channel": "督脉",
+      "order": 28
+    },
+    {
+      "section": "5.13.29",
+      "name": "龈交",
+      "pinyin": "Yínjiāo",
+      "code": "GV28",
+      "channel": "督脉",
+      "order": 29
+    },
+    {
+      "section": "5.14.1",
+      "name": "会阴",
+      "pinyin": "Huìyīn",
+      "code": "CV1",
+      "channel": "任脉",
+      "order": 1
+    },
+    {
+      "section": "5.14.2",
+      "name": "曲骨",
+      "pinyin": "Qūgǔ",
+      "code": "CV2",
+      "channel": "任脉",
+      "order": 2
+    },
+    {
+      "section": "5.14.3",
+      "name": "中极",
+      "pinyin": "Zhōngjí",
+      "code": "CV3",
+      "channel": "任脉",
+      "order": 3
+    },
+    {
+      "section": "5.14.4",
+      "name": "关元",
+      "pinyin": "Guānyuán",
+      "code": "CV4",
+      "channel": "任脉",
+      "order": 4
+    },
+    {
+      "section": "5.14.5",
+      "name": "石门",
+      "pinyin": "Shímén",
+      "code": "CV5",
+      "channel": "任脉",
+      "order": 5
+    },
+    {
+      "section": "5.14.6",
+      "name": "气海",
+      "pinyin": "Qìhǎi",
+      "code": "CV6",
+      "channel": "任脉",
+      "order": 6
+    },
+    {
+      "section": "5.14.7",
+      "name": "阴交",
+      "pinyin": "Yīnjiāo",
+      "code": "CV7",
+      "channel": "任脉",
+      "order": 7
+    },
+    {
+      "section": "5.14.8",
+      "name": "神阙",
+      "pinyin": "Shénquè",
+      "code": "CV8",
+      "channel": "任脉",
+      "order": 8
+    },
+    {
+      "section": "5.14.9",
+      "name": "水分",
+      "pinyin": "Shuǐfēn",
+      "code": "CV9",
+      "channel": "任脉",
+      "order": 9
+    },
+    {
+      "section": "5.14.10",
+      "name": "下脘",
+      "pinyin": "Xiàwǎn",
+      "code": "CV10",
+      "channel": "任脉",
+      "order": 10
+    },
+    {
+      "section": "5.14.11",
+      "name": "建里",
+      "pinyin": "Jiànlǐ",
+      "code": "CV11",
+      "channel": "任脉",
+      "order": 11
+    },
+    {
+      "section": "5.14.12",
+      "name": "中脘",
+      "pinyin": "Zhōngwǎn",
+      "code": "CV12",
+      "channel": "任脉",
+      "order": 12
+    },
+    {
+      "section": "5.14.13",
+      "name": "上脘",
+      "pinyin": "Shàngwǎn",
+      "code": "CV13",
+      "channel": "任脉",
+      "order": 13
+    },
+    {
+      "section": "5.14.14",
+      "name": "巨阙",
+      "pinyin": "Jùquè",
+      "code": "CV14",
+      "channel": "任脉",
+      "order": 14
+    },
+    {
+      "section": "5.14.15",
+      "name": "鸠尾",
+      "pinyin": "Jiūwěi",
+      "code": "CV15",
+      "channel": "任脉",
+      "order": 15
+    },
+    {
+      "section": "5.14.16",
+      "name": "中庭",
+      "pinyin": "Zhōngtíng",
+      "code": "CV16",
+      "channel": "任脉",
+      "order": 16
+    },
+    {
+      "section": "5.14.17",
+      "name": "膻中",
+      "pinyin": "Dànzhōng",
+      "code": "CV17",
+      "channel": "任脉",
+      "order": 17
+    },
+    {
+      "section": "5.14.18",
+      "name": "玉堂",
+      "pinyin": "Yùtáng",
+      "code": "CV18",
+      "channel": "任脉",
+      "order": 18
+    },
+    {
+      "section": "5.14.19",
+      "name": "紫宫",
+      "pinyin": "Zǐgōng",
+      "code": "CV19",
+      "channel": "任脉",
+      "order": 19
+    },
+    {
+      "section": "5.14.20",
+      "name": "华盖",
+      "pinyin": "Huágài",
+      "code": "CV20",
+      "channel": "任脉",
+      "order": 20
+    },
+    {
+      "section": "5.14.21",
+      "name": "璇玑",
+      "pinyin": "Xuánjī",
+      "code": "CV21",
+      "channel": "任脉",
+      "order": 21
+    },
+    {
+      "section": "5.14.22",
+      "name": "天突",
+      "pinyin": "Tiāntū",
+      "code": "CV22",
+      "channel": "任脉",
+      "order": 22
+    },
+    {
+      "section": "5.14.23",
+      "name": "廉泉",
+      "pinyin": "Liánquán",
+      "code": "CV23",
+      "channel": "任脉",
+      "order": 23
+    },
+    {
+      "section": "5.14.24",
+      "name": "承浆",
+      "pinyin": "Chéngjiāng",
+      "code": "CV24",
+      "channel": "任脉",
+      "order": 24
+    }
+  ],
+  "extra_points": [
+    {
+      "name": "四神聪",
+      "pinyin": "Sìshéncōng",
+      "codes": [
+        "EX-HN1"
+      ],
+      "section": "7.1.1",
+      "position": "头颈部穴位",
+      "order": 1
+    },
+    {
+      "name": "当阳",
+      "pinyin": "Dāngyáng",
+      "codes": [
+        "EX-HN2"
+      ],
+      "section": "7.1.2",
+      "position": "头颈部穴位",
+      "order": 2
+    },
+    {
+      "name": "鱼腰",
+      "pinyin": "Yúyāo",
+      "codes": [
+        "EX-HN4"
+      ],
+      "section": "7.1.3",
+      "position": "头颈部穴位",
+      "order": 3
+    },
+    {
+      "name": "太阳",
+      "pinyin": "Tàiyáng",
+      "codes": [
+        "EX-HN5"
+      ],
+      "section": "7.1.4",
+      "position": "头颈部穴位",
+      "order": 4
+    },
+    {
+      "name": "耳尖",
+      "pinyin": "Ěrjiān",
+      "codes": [
+        "EX-HN6"
+      ],
+      "section": "7.1.5",
+      "position": "头颈部穴位",
+      "order": 5
+    },
+    {
+      "name": "球后",
+      "pinyin": "Qiúhòu",
+      "codes": [
+        "EX-HN7"
+      ],
+      "section": "7.1.6",
+      "position": "头颈部穴位",
+      "order": 6
+    },
+    {
+      "name": "上迎香",
+      "pinyin": "Shàngyíngxiāng",
+      "codes": [
+        "EX-HN8"
+      ],
+      "section": "7.1.7",
+      "position": "头颈部穴位",
+      "order": 7
+    },
+    {
+      "name": "内迎香",
+      "pinyin": "Nèiyíngxiāng",
+      "codes": [
+        "EX-HN9"
+      ],
+      "section": "7.1.8",
+      "position": "头颈部穴位",
+      "order": 8
+    },
+    {
+      "name": "聚泉",
+      "pinyin": "Jùquán",
+      "codes": [
+        "EX-HN10"
+      ],
+      "section": "7.1.9",
+      "position": "头颈部穴位",
+      "order": 9
+    },
+    {
+      "name": "海泉",
+      "pinyin": "Hǎiquán",
+      "codes": [
+        "EX-HN11"
+      ],
+      "section": "7.1.10",
+      "position": "头颈部穴位",
+      "order": 10
+    },
+    {
+      "name": "金津玉液",
+      "pinyin": "JīnjīnYùyè",
+      "codes": [
+        "EX-HN12",
+        "EX-HN13"
+      ],
+      "section": "7.1.11",
+      "position": "头颈部穴位",
+      "order": 11
+    },
+    {
+      "name": "翳明",
+      "pinyin": "Yìmíng",
+      "codes": [
+        "EX-HN14"
+      ],
+      "section": "7.1.12",
+      "position": "头颈部穴位",
+      "order": 12
+    },
+    {
+      "name": "安眠",
+      "pinyin": "Ānmián",
+      "codes": [],
+      "section": "7.1.13",
+      "position": "头颈部穴位",
+      "order": 13,
+      "abbreviation": "am",
+      "locate": "后颈的翳风（TE17）与风池（GB20）之间，取两穴连线的中点。"
+    },
+    {
+      "name": "牵正",
+      "pinyin": "Qiānzhèng",
+      "codes": [],
+      "section": "7.1.14",
+      "position": "头颈部穴位",
+      "order": 14,
+      "abbreviation": "qz",
+      "locate": "在面颊上与耳垂中点同一水平，距耳垂前方约 0.5～1 寸。"
+    },
+    {
+      "name": "新设",
+      "pinyin": "Xīnshè",
+      "codes": [],
+      "section": "7.1.15",
+      "position": "头颈部穴位",
+      "order": 15,
+      "abbreviation": "xs",
+      "locate": "后颈斜方肌外缘，对应第四颈椎横突的外端。"
+    },
+    {
+      "name": "颈百劳",
+      "pinyin": "Jìngbǎiláo",
+      "codes": [
+        "EX-HN15"
+      ],
+      "section": "7.1.16",
+      "position": "头颈部穴位",
+      "order": 16
+    },
+    {
+      "name": "血压点",
+      "pinyin": "Xuèyādiǎn",
+      "codes": [],
+      "section": "7.1.17",
+      "position": "头颈部穴位",
+      "order": 17,
+      "abbreviation": "xyd",
+      "locate": "在后颈部，从第六与第七颈椎棘突之间向侧方量 2 寸。"
+    },
+    {
+      "name": "提托",
+      "pinyin": "Títuō",
+      "codes": [],
+      "section": "7.2.1",
+      "position": "胸腹部穴位",
+      "order": 1,
+      "abbreviation": "tt",
+      "locate": "位于脐中下方 3 寸的水平线上，距下腹前正中线 4 寸。"
+    },
+    {
+      "name": "子宫",
+      "pinyin": "Zǐgōng",
+      "codes": [
+        "EX-CA1"
+      ],
+      "section": "7.2.2",
+      "position": "胸腹部穴位",
+      "order": 2
+    },
+    {
+      "name": "定喘",
+      "pinyin": "Dìngchuǎn",
+      "codes": [
+        "EX-B1"
+      ],
+      "section": "7.3.1",
+      "position": "腰背部穴位",
+      "order": 1
+    },
+    {
+      "name": "夹脊",
+      "pinyin": "Jiájǐ",
+      "codes": [
+        "EX-B2"
+      ],
+      "section": "7.3.2",
+      "position": "腰背部穴位",
+      "order": 2
+    },
+    {
+      "name": "胃脘下俞",
+      "pinyin": "Wèiwǎnxiàshū",
+      "codes": [
+        "EX-B3"
+      ],
+      "section": "7.3.3",
+      "position": "腰背部穴位",
+      "order": 3
+    },
+    {
+      "name": "接脊",
+      "pinyin": "Jiējǐ",
+      "codes": [],
+      "section": "7.3.4",
+      "position": "腰背部穴位",
+      "order": 4,
+      "abbreviation": "jj",
+      "locate": "背部正中，第十二胸椎棘突下方的凹处。"
+    },
+    {
+      "name": "痞根",
+      "pinyin": "Pǐgēn",
+      "codes": [
+        "EX-B4"
+      ],
+      "section": "7.3.5",
+      "position": "腰背部穴位",
+      "order": 5,
+      "locate": "后腰部，与第一腰椎棘突下方同高，从后正中线向旁侧量 3.5 寸。"
+    },
+    {
+      "name": "腰宜",
+      "pinyin": "Yāoyí",
+      "codes": [
+        "EX-B6"
+      ],
+      "section": "7.3.6",
+      "position": "腰背部穴位",
+      "order": 6
+    },
+    {
+      "name": "腰眼",
+      "pinyin": "Yāoyǎn",
+      "codes": [
+        "EX-B7"
+      ],
+      "section": "7.3.7",
+      "position": "腰背部穴位",
+      "order": 7
+    },
+    {
+      "name": "十七椎",
+      "pinyin": "Shíqīzhuī",
+      "codes": [
+        "EX-B8"
+      ],
+      "section": "7.3.8",
+      "position": "腰背部穴位",
+      "order": 8
+    },
+    {
+      "name": "肩前",
+      "pinyin": "Jiānqián",
+      "codes": [],
+      "section": "7.4.1",
+      "position": "上肢部穴位",
+      "order": 1,
+      "abbreviation": "jq",
+      "locate": "肩的前侧，在腋前皱襞末端正上方 1.5 寸。"
+    },
+    {
+      "name": "肘尖",
+      "pinyin": "Zhǒujiān",
+      "codes": [
+        "EX-UE1"
+      ],
+      "section": "7.5.1",
+      "position": "上肢部穴位",
+      "order": 1
+    },
+    {
+      "name": "二白",
+      "pinyin": "Èrbái",
+      "codes": [
+        "EX-UE2"
+      ],
+      "section": "7.5.2",
+      "position": "上肢部穴位",
+      "order": 2
+    },
+    {
+      "name": "中泉",
+      "pinyin": "Zhōngquán",
+      "codes": [
+        "EX-UE3"
+      ],
+      "section": "7.5.3",
+      "position": "上肢部穴位",
+      "order": 3
+    },
+    {
+      "name": "中魁",
+      "pinyin": "Zhōngkuí",
+      "codes": [
+        "EX-UE4"
+      ],
+      "section": "7.5.4",
+      "position": "上肢部穴位",
+      "order": 4
+    },
+    {
+      "name": "大骨空",
+      "pinyin": "Dàgǔkōng",
+      "codes": [
+        "EX-UE5"
+      ],
+      "section": "7.5.5",
+      "position": "上肢部穴位",
+      "order": 5,
+      "locate": "拇指背面，掌骨和近节指骨相接的关节中央。"
+    },
+    {
+      "name": "小骨空",
+      "pinyin": "Xiǎogǔkōng",
+      "codes": [
+        "EX-UE6"
+      ],
+      "section": "7.5.6",
+      "position": "上肢部穴位",
+      "order": 6
+    },
+    {
+      "name": "腰痛点",
+      "pinyin": "Yāotòngdiǎn",
+      "codes": [
+        "EX-UE7"
+      ],
+      "section": "7.5.7",
+      "position": "上肢部穴位",
+      "order": 7
+    },
+    {
+      "name": "外劳宫",
+      "pinyin": "Wàiláogōng",
+      "codes": [
+        "EX-UE8"
+      ],
+      "section": "7.5.8",
+      "position": "上肢部穴位",
+      "order": 8
+    },
+    {
+      "name": "八邪",
+      "pinyin": "Bāxié",
+      "codes": [
+        "EX-UE9"
+      ],
+      "section": "7.5.9",
+      "position": "上肢部穴位",
+      "order": 9
+    },
+    {
+      "name": "四缝",
+      "pinyin": "Sìfèng",
+      "codes": [
+        "EX-UE10"
+      ],
+      "section": "7.5.10",
+      "position": "上肢部穴位",
+      "order": 10
+    },
+    {
+      "name": "十宣",
+      "pinyin": "Shíxuān",
+      "codes": [
+        "EX-UE11"
+      ],
+      "section": "7.5.11",
+      "position": "上肢部穴位",
+      "order": 11
+    },
+    {
+      "name": "髋骨",
+      "pinyin": "Kuāngǔ",
+      "codes": [
+        "EX-LE1"
+      ],
+      "section": "7.6.1",
+      "position": "下肢部穴位",
+      "order": 1
+    },
+    {
+      "name": "鹤顶",
+      "pinyin": "Hèdǐng",
+      "codes": [
+        "EX-LE2"
+      ],
+      "section": "7.6.2",
+      "position": "下肢部穴位",
+      "order": 2
+    },
+    {
+      "name": "百虫窝",
+      "pinyin": "Bǎichóngwō",
+      "codes": [
+        "EX-LE3"
+      ],
+      "section": "7.6.3",
+      "position": "下肢部穴位",
+      "order": 3
+    },
+    {
+      "name": "内膝眼",
+      "pinyin": "Nèixīyǎn",
+      "codes": [
+        "EX-LE4"
+      ],
+      "section": "7.6.4",
+      "position": "下肢部穴位",
+      "order": 4
+    },
+    {
+      "name": "胆囊",
+      "pinyin": "Dǎnnáng",
+      "codes": [
+        "EX-LE6"
+      ],
+      "section": "7.6.5",
+      "position": "下肢部穴位",
+      "order": 5
+    },
+    {
+      "name": "阑尾",
+      "pinyin": "Lánwěi",
+      "codes": [
+        "EX-LE7"
+      ],
+      "section": "7.6.6",
+      "position": "下肢部穴位",
+      "order": 6
+    },
+    {
+      "name": "内踝尖",
+      "pinyin": "Nèihuáijiān",
+      "codes": [
+        "EX-LE8"
+      ],
+      "section": "7.6.7",
+      "position": "下肢部穴位",
+      "order": 7
+    },
+    {
+      "name": "外踝尖",
+      "pinyin": "Wàihuáijiān",
+      "codes": [
+        "EX-LE9"
+      ],
+      "section": "7.6.8",
+      "position": "下肢部穴位",
+      "order": 8
+    },
+    {
+      "name": "八风",
+      "pinyin": "Bāfēng",
+      "codes": [
+        "EX-LE10"
+      ],
+      "section": "7.6.9",
+      "position": "下肢部穴位",
+      "order": 9
+    },
+    {
+      "name": "里内庭",
+      "pinyin": "Lǐnèitíng",
+      "codes": [],
+      "section": "7.6.10",
+      "position": "下肢部穴位",
+      "order": 10,
+      "abbreviation": "lnt",
+      "locate": "足底第二、第三跖趾关节前的凹处，与足背的内庭（ST44）相对。"
+    },
+    {
+      "name": "独阴",
+      "pinyin": "Dúyīn",
+      "codes": [
+        "EX-LE11"
+      ],
+      "section": "7.6.11",
+      "position": "下肢部穴位",
+      "order": 11
+    },
+    {
+      "name": "气端",
+      "pinyin": "Qìduān",
+      "codes": [
+        "EX-LE12"
+      ],
+      "section": "7.6.12",
+      "position": "下肢部穴位",
+      "order": 12
+    }
+  ]
+}

@@ -1,12 +1,12 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {gunzipSync,gzipSync} from 'node:zlib';
-import {catalog} from './catalog.mjs';
+import {catalog} from './active-catalog.mjs';
 import {DATA,readJson,writeJson,sha256} from './common.mjs';
 import {parseSource} from './extract.mjs';
 
 const captured=await readJson(path.join(DATA,'capture-report.json'));
-if(captured.books.length!==50||captured.books.some(b=>b.error))throw new Error('Capture must contain all 50 source records');
+if(captured.books.length!==catalog.length||captured.books.some(b=>b.error))throw new Error('Capture must contain every catalogue source record');
 const sources=[],books=[],quality=[];
 for(const book of catalog){
   const capture=captured.books.find(x=>x.key===book.key),chapters=[],partReports=[],originalEvents=[];
@@ -41,7 +41,7 @@ for(const book of catalog){
   const item={key:book.key,name:book.name,chapter_count:chapters.length,characters:chapters.reduce((n,c)=>n+[...c.content].length,0),max_content_bytes:Math.max(0,...bytes),chapters_exceeding_mysql_text:bytes.filter(n=>n>65535).length,issues,warnings,source_declared_quality:capture.parts.map(p=>({url:p.url,quality:p.metadata['品質']||null})),manual_review:'pending',structural_status:issues.length?'failed':'passed'};
   books.push({...record,category:book.category,chapter_file:`chapters/${book.key}.json`,chapter_count:chapters.length,dataset_sha256:sha256(JSON.stringify(data)),original_file:`original/${book.key}.json.gz`});
   sources.push({key:book.key,name:book.name,selection:book.sourceSection?{section:book.sourceSection}:null,edition_policy:'选用固定快照的中医笈成电子整理本；源站所列参校底本不视为同一刻本。',license:{original:'public-domain ancient work (economic rights expired)',digital_edits:'CC0-1.0 per source declaration; individual exceptions require review',url:captured.license.url,sha256:captured.license.sha256},parts:capture.parts});
-  quality.push(item);console.log(`${books.length}/50 ${book.name}: ${chapters.length} chapters; issues=${issues.join(',')||'none'}`);
+  quality.push(item);console.log(`${books.length}/${catalog.length} ${book.name}: ${chapters.length} chapters; issues=${issues.join(',')||'none'}`);
 }
 await writeJson(path.join(DATA,'books.json'),{schema_version:1,books});
 await writeJson(path.join(DATA,'sources.json'),{schema_version:1,license_snapshot:captured.license,sources});

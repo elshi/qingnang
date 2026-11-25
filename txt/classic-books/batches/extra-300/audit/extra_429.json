@@ -1,0 +1,855 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "劉序",
+        "path": [
+          "劉序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "凡例",
+        "path": [
+          "凡例"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 1,
+        "title": "正面圖",
+        "path": [
+          "正面圖"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 1,
+        "title": "背面圖",
+        "path": [
+          "背面圖"
+        ]
+      },
+      {
+        "ordinal": 14,
+        "level": 1,
+        "title": "指節圖",
+        "path": [
+          "指節圖"
+        ]
+      },
+      {
+        "ordinal": 17,
+        "level": 1,
+        "title": "灸盞圖",
+        "path": [
+          "灸盞圖"
+        ]
+      },
+      {
+        "ordinal": 20,
+        "level": 1,
+        "title": "灸藥神方",
+        "path": [
+          "灸藥神方"
+        ]
+      },
+      {
+        "ordinal": 24,
+        "level": 1,
+        "title": "人神在曰不宜灸單",
+        "path": [
+          "人神在曰不宜灸單"
+        ]
+      },
+      {
+        "ordinal": 26,
+        "level": 1,
+        "title": "十二時人神所在不宜針灸歌",
+        "path": [
+          "十二時人神所在不宜針灸歌"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 1,
+        "title": "十二支曰人神所在不宜針灸歌",
+        "path": [
+          "十二支曰人神所在不宜針灸歌"
+        ]
+      },
+      {
+        "ordinal": 30,
+        "level": 1,
+        "title": "十干曰人神所在不宜針灸歌",
+        "path": [
+          "十干曰人神所在不宜針灸歌"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 1,
+        "title": "尻神圖",
+        "path": [
+          "尻神圖"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 1,
+        "title": "九宮尻神歌",
+        "path": [
+          "九宮尻神歌"
+        ]
+      },
+      {
+        "ordinal": 38,
+        "level": 1,
+        "title": "應灸七十症",
+        "path": [
+          "應灸七十症"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "中風",
+        "path": [
+          "應灸七十症",
+          "中風"
+        ]
+      },
+      {
+        "ordinal": 47,
+        "level": 2,
+        "title": "屍厥",
+        "path": [
+          "應灸七十症",
+          "屍厥"
+        ]
+      },
+      {
+        "ordinal": 52,
+        "level": 2,
+        "title": "偏風",
+        "path": [
+          "應灸七十症",
+          "偏風"
+        ]
+      },
+      {
+        "ordinal": 61,
+        "level": 2,
+        "title": "眩暈",
+        "path": [
+          "應灸七十症",
+          "眩暈"
+        ]
+      },
+      {
+        "ordinal": 65,
+        "level": 2,
+        "title": "痿症",
+        "path": [
+          "應灸七十症",
+          "痿症"
+        ]
+      },
+      {
+        "ordinal": 69,
+        "level": 2,
+        "title": "痹症",
+        "path": [
+          "應灸七十症",
+          "痹症"
+        ]
+      },
+      {
+        "ordinal": 76,
+        "level": 2,
+        "title": "勞傷",
+        "path": [
+          "應灸七十症",
+          "勞傷"
+        ]
+      },
+      {
+        "ordinal": 86,
+        "level": 2,
+        "title": "咳嗽",
+        "path": [
+          "應灸七十症",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 95,
+        "level": 2,
+        "title": "喘症",
+        "path": [
+          "應灸七十症",
+          "喘症"
+        ]
+      },
+      {
+        "ordinal": 102,
+        "level": 2,
+        "title": "血症",
+        "path": [
+          "應灸七十症",
+          "血症"
+        ]
+      },
+      {
+        "ordinal": 107,
+        "level": 2,
+        "title": "汗症",
+        "path": [
+          "應灸七十症",
+          "汗症"
+        ]
+      },
+      {
+        "ordinal": 111,
+        "level": 2,
+        "title": "肺痿",
+        "path": [
+          "應灸七十症",
+          "肺痿"
+        ]
+      },
+      {
+        "ordinal": 114,
+        "level": 2,
+        "title": "肺癰",
+        "path": [
+          "應灸七十症",
+          "肺癰"
+        ]
+      },
+      {
+        "ordinal": 117,
+        "level": 2,
+        "title": "驚悸怔忡",
+        "path": [
+          "應灸七十症",
+          "驚悸怔忡"
+        ]
+      },
+      {
+        "ordinal": 120,
+        "level": 2,
+        "title": "健忘",
+        "path": [
+          "應灸七十症",
+          "健忘"
+        ]
+      },
+      {
+        "ordinal": 123,
+        "level": 2,
+        "title": "陽痿",
+        "path": [
+          "應灸七十症",
+          "陽痿"
+        ]
+      },
+      {
+        "ordinal": 126,
+        "level": 2,
+        "title": "陰痿",
+        "path": [
+          "應灸七十症",
+          "陰痿"
+        ]
+      },
+      {
+        "ordinal": 130,
+        "level": 2,
+        "title": "臌脹",
+        "path": [
+          "應灸七十症",
+          "臌脹"
+        ]
+      },
+      {
+        "ordinal": 140,
+        "level": 2,
+        "title": "腫滿",
+        "path": [
+          "應灸七十症",
+          "腫滿"
+        ]
+      },
+      {
+        "ordinal": 143,
+        "level": 2,
+        "title": "癥瘕",
+        "path": [
+          "應灸七十症",
+          "癥瘕"
+        ]
+      },
+      {
+        "ordinal": 146,
+        "level": 2,
+        "title": "痃癖",
+        "path": [
+          "應灸七十症",
+          "痃癖"
+        ]
+      },
+      {
+        "ordinal": 150,
+        "level": 2,
+        "title": "疝氣",
+        "path": [
+          "應灸七十症",
+          "疝氣"
+        ]
+      },
+      {
+        "ordinal": 156,
+        "level": 2,
+        "title": "伏梁",
+        "path": [
+          "應灸七十症",
+          "伏梁"
+        ]
+      },
+      {
+        "ordinal": 160,
+        "level": 2,
+        "title": "奔豚",
+        "path": [
+          "應灸七十症",
+          "奔豚"
+        ]
+      },
+      {
+        "ordinal": 164,
+        "level": 2,
+        "title": "腳氣",
+        "path": [
+          "應灸七十症",
+          "腳氣"
+        ]
+      },
+      {
+        "ordinal": 168,
+        "level": 2,
+        "title": "腹鳴",
+        "path": [
+          "應灸七十症",
+          "腹鳴"
+        ]
+      },
+      {
+        "ordinal": 173,
+        "level": 2,
+        "title": "噎膈",
+        "path": [
+          "應灸七十症",
+          "噎膈"
+        ]
+      },
+      {
+        "ordinal": 177,
+        "level": 2,
+        "title": "反胃",
+        "path": [
+          "應灸七十症",
+          "反胃"
+        ]
+      },
+      {
+        "ordinal": 185,
+        "level": 2,
+        "title": "霍亂",
+        "path": [
+          "應灸七十症",
+          "霍亂"
+        ]
+      },
+      {
+        "ordinal": 188,
+        "level": 2,
+        "title": "頭痛",
+        "path": [
+          "應灸七十症",
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 195,
+        "level": 2,
+        "title": "心腹痛",
+        "path": [
+          "應灸七十症",
+          "心腹痛"
+        ]
+      },
+      {
+        "ordinal": 204,
+        "level": 2,
+        "title": "背痛",
+        "path": [
+          "應灸七十症",
+          "背痛"
+        ]
+      },
+      {
+        "ordinal": 207,
+        "level": 2,
+        "title": "脅痛",
+        "path": [
+          "應灸七十症",
+          "脅痛"
+        ]
+      },
+      {
+        "ordinal": 210,
+        "level": 2,
+        "title": "腰痛",
+        "path": [
+          "應灸七十症",
+          "腰痛"
+        ]
+      },
+      {
+        "ordinal": 217,
+        "level": 2,
+        "title": "耳聾耳鳴",
+        "path": [
+          "應灸七十症",
+          "耳聾耳鳴"
+        ]
+      },
+      {
+        "ordinal": 221,
+        "level": 2,
+        "title": "目疾",
+        "path": [
+          "應灸七十症",
+          "目疾"
+        ]
+      },
+      {
+        "ordinal": 228,
+        "level": 2,
+        "title": "咽喉",
+        "path": [
+          "應灸七十症",
+          "咽喉"
+        ]
+      },
+      {
+        "ordinal": 232,
+        "level": 2,
+        "title": "齒痛",
+        "path": [
+          "應灸七十症",
+          "齒痛"
+        ]
+      },
+      {
+        "ordinal": 237,
+        "level": 2,
+        "title": "鼻血",
+        "path": [
+          "應灸七十症",
+          "鼻血"
+        ]
+      },
+      {
+        "ordinal": 240,
+        "level": 2,
+        "title": "腦漏",
+        "path": [
+          "應灸七十症",
+          "腦漏"
+        ]
+      },
+      {
+        "ordinal": 243,
+        "level": 2,
+        "title": "脫頦",
+        "path": [
+          "應灸七十症",
+          "脫頦"
+        ]
+      },
+      {
+        "ordinal": 246,
+        "level": 2,
+        "title": "遺精",
+        "path": [
+          "應灸七十症",
+          "遺精"
+        ]
+      },
+      {
+        "ordinal": 252,
+        "level": 2,
+        "title": "濁症",
+        "path": [
+          "應灸七十症",
+          "濁症"
+        ]
+      },
+      {
+        "ordinal": 256,
+        "level": 2,
+        "title": "淋痛",
+        "path": [
+          "應灸七十症",
+          "淋痛"
+        ]
+      },
+      {
+        "ordinal": 261,
+        "level": 2,
+        "title": "溺血",
+        "path": [
+          "應灸七十症",
+          "溺血"
+        ]
+      },
+      {
+        "ordinal": 264,
+        "level": 2,
+        "title": "遺溺",
+        "path": [
+          "應灸七十症",
+          "遺溺"
+        ]
+      },
+      {
+        "ordinal": 269,
+        "level": 2,
+        "title": "便血",
+        "path": [
+          "應灸七十症",
+          "便血"
+        ]
+      },
+      {
+        "ordinal": 273,
+        "level": 2,
+        "title": "脫肛",
+        "path": [
+          "應灸七十症",
+          "脫肛"
+        ]
+      },
+      {
+        "ordinal": 277,
+        "level": 2,
+        "title": "痔瘡",
+        "path": [
+          "應灸七十症",
+          "痔瘡"
+        ]
+      },
+      {
+        "ordinal": 280,
+        "level": 2,
+        "title": "泄瀉",
+        "path": [
+          "應灸七十症",
+          "泄瀉"
+        ]
+      },
+      {
+        "ordinal": 284,
+        "level": 2,
+        "title": "痢疾",
+        "path": [
+          "應灸七十症",
+          "痢疾"
+        ]
+      },
+      {
+        "ordinal": 290,
+        "level": 2,
+        "title": "傷寒",
+        "path": [
+          "應灸七十症",
+          "傷寒"
+        ]
+      },
+      {
+        "ordinal": 295,
+        "level": 2,
+        "title": "熱病",
+        "path": [
+          "應灸七十症",
+          "熱病"
+        ]
+      },
+      {
+        "ordinal": 299,
+        "level": 2,
+        "title": "瘧疾",
+        "path": [
+          "應灸七十症",
+          "瘧疾"
+        ]
+      },
+      {
+        "ordinal": 304,
+        "level": 2,
+        "title": "黃疸",
+        "path": [
+          "應灸七十症",
+          "黃疸"
+        ]
+      },
+      {
+        "ordinal": 310,
+        "level": 2,
+        "title": "癲病",
+        "path": [
+          "應灸七十症",
+          "癲病"
+        ]
+      },
+      {
+        "ordinal": 313,
+        "level": 2,
+        "title": "癇症",
+        "path": [
+          "應灸七十症",
+          "癇症"
+        ]
+      },
+      {
+        "ordinal": 317,
+        "level": 2,
+        "title": "癩病",
+        "path": [
+          "應灸七十症",
+          "癩病"
+        ]
+      },
+      {
+        "ordinal": 320,
+        "level": 2,
+        "title": "疹病",
+        "path": [
+          "應灸七十症",
+          "疹病"
+        ]
+      },
+      {
+        "ordinal": 325,
+        "level": 2,
+        "title": "痰疾",
+        "path": [
+          "應灸七十症",
+          "痰疾"
+        ]
+      },
+      {
+        "ordinal": 328,
+        "level": 2,
+        "title": "飲食",
+        "path": [
+          "應灸七十症",
+          "飲食"
+        ]
+      },
+      {
+        "ordinal": 335,
+        "level": 2,
+        "title": "調經",
+        "path": [
+          "應灸七十症",
+          "調經"
+        ]
+      },
+      {
+        "ordinal": 340,
+        "level": 2,
+        "title": "血崩",
+        "path": [
+          "應灸七十症",
+          "血崩"
+        ]
+      },
+      {
+        "ordinal": 344,
+        "level": 2,
+        "title": "帶下",
+        "path": [
+          "應灸七十症",
+          "帶下"
+        ]
+      },
+      {
+        "ordinal": 347,
+        "level": 2,
+        "title": "種子",
+        "path": [
+          "應灸七十症",
+          "種子"
+        ]
+      },
+      {
+        "ordinal": 350,
+        "level": 2,
+        "title": "胎漏",
+        "path": [
+          "應灸七十症",
+          "胎漏"
+        ]
+      },
+      {
+        "ordinal": 353,
+        "level": 2,
+        "title": "產後",
+        "path": [
+          "應灸七十症",
+          "產後"
+        ]
+      },
+      {
+        "ordinal": 357,
+        "level": 2,
+        "title": "胞衣不下",
+        "path": [
+          "應灸七十症",
+          "胞衣不下"
+        ]
+      },
+      {
+        "ordinal": 360,
+        "level": 2,
+        "title": "驚風",
+        "path": [
+          "應灸七十症",
+          "驚風"
+        ]
+      },
+      {
+        "ordinal": 366,
+        "level": 2,
+        "title": "疳勞",
+        "path": [
+          "應灸七十症",
+          "疳勞"
+        ]
+      },
+      {
+        "ordinal": 370,
+        "level": 1,
+        "title": "太乙神針",
+        "path": [
+          "太乙神針"
+        ]
+      },
+      {
+        "ordinal": 371,
+        "level": 2,
+        "title": "藥方",
+        "path": [
+          "太乙神針",
+          "藥方"
+        ]
+      },
+      {
+        "ordinal": 374,
+        "level": 2,
+        "title": "用針法",
+        "path": [
+          "太乙神針",
+          "用針法"
+        ]
+      },
+      {
+        "ordinal": 378,
+        "level": 2,
+        "title": "穴道取寸法",
+        "path": [
+          "太乙神針",
+          "穴道取寸法"
+        ]
+      },
+      {
+        "ordinal": 380,
+        "level": 2,
+        "title": "正面穴道證治",
+        "path": [
+          "太乙神針",
+          "正面穴道證治"
+        ]
+      },
+      {
+        "ordinal": 403,
+        "level": 2,
+        "title": "背面穴道證治",
+        "path": [
+          "太乙神針",
+          "背面穴道證治"
+        ]
+      },
+      {
+        "ordinal": 416,
+        "level": 2,
+        "title": "太乙神針正面背面穴道詩",
+        "path": [
+          "太乙神針",
+          "太乙神針正面背面穴道詩"
+        ]
+      },
+      {
+        "ordinal": 419,
+        "level": 1,
+        "title": "附雷火針法",
+        "path": [
+          "附雷火針法"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 11,
+        "label": "正面圖",
+        "source": "urn:270:05667.jpg"
+      },
+      {
+        "ordinal": 13,
+        "label": "背面圖",
+        "source": "urn:270:05668.jpg"
+      },
+      {
+        "ordinal": 15,
+        "label": "指節圖",
+        "source": "urn:270:05669.jpg"
+      },
+      {
+        "ordinal": 18,
+        "label": "仰式圖　俯式圖",
+        "source": "urn:270:05670.jpg"
+      },
+      {
+        "ordinal": 33,
+        "label": "尻神圖",
+        "source": "urn:270:05671.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 92,
+      "paragraph_blocks": 338,
+      "nonempty_paragraph_blocks": 338,
+      "represented_paragraph_blocks": 338
+    }
+  }
+]

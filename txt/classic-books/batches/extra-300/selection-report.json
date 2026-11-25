@@ -1,0 +1,2540 @@
+{
+  "generated_at": "2026-11-23T15:30:37.113Z",
+  "target": "300 additional works excluding core 50; existing database books are reused/skipped",
+  "selected_ids": [
+    8,
+    9,
+    12,
+    14,
+    15,
+    18,
+    19,
+    28,
+    30,
+    38,
+    39,
+    42,
+    43,
+    45,
+    49,
+    51,
+    54,
+    55,
+    56,
+    57,
+    58,
+    61,
+    62,
+    63,
+    64,
+    68,
+    73,
+    74,
+    75,
+    79,
+    86,
+    90,
+    92,
+    94,
+    95,
+    96,
+    100,
+    110,
+    115,
+    118,
+    125,
+    126,
+    127,
+    130,
+    138,
+    140,
+    143,
+    144,
+    145,
+    146,
+    153,
+    158,
+    160,
+    163,
+    166,
+    175,
+    176,
+    177,
+    179,
+    181,
+    183,
+    185,
+    189,
+    191,
+    193,
+    194,
+    200,
+    201,
+    202,
+    203,
+    222,
+    224,
+    228,
+    229,
+    232,
+    233,
+    234,
+    235,
+    240,
+    241,
+    242,
+    243,
+    244,
+    245,
+    247,
+    248,
+    249,
+    251,
+    252,
+    253,
+    254,
+    256,
+    260,
+    264,
+    266,
+    267,
+    269,
+    271,
+    272,
+    274,
+    275,
+    278,
+    279,
+    282,
+    285,
+    298,
+    299,
+    301,
+    304,
+    305,
+    310,
+    312,
+    379,
+    386,
+    395,
+    400,
+    403,
+    406,
+    411,
+    413,
+    419,
+    423,
+    429,
+    432,
+    436,
+    444,
+    445,
+    446,
+    448,
+    450,
+    452,
+    454,
+    455,
+    457,
+    459,
+    460,
+    462,
+    464,
+    471,
+    472,
+    476,
+    478,
+    479,
+    480,
+    485,
+    486,
+    487,
+    489,
+    492,
+    495,
+    546,
+    548,
+    554,
+    567,
+    573,
+    580,
+    582,
+    583,
+    584,
+    586,
+    588,
+    589,
+    590,
+    591,
+    593,
+    603,
+    604,
+    606,
+    607,
+    608,
+    610,
+    612,
+    614,
+    616,
+    617,
+    625,
+    629,
+    632,
+    640,
+    641,
+    643,
+    644,
+    646,
+    649,
+    650,
+    668,
+    671,
+    672,
+    673,
+    680,
+    687,
+    690,
+    696,
+    705,
+    714,
+    724,
+    726,
+    727,
+    739,
+    740,
+    742,
+    747,
+    750,
+    752,
+    753,
+    754,
+    757,
+    761,
+    763,
+    770,
+    771,
+    773,
+    777,
+    778,
+    791,
+    800,
+    813,
+    814,
+    816,
+    820,
+    822,
+    823,
+    824,
+    825,
+    830,
+    832,
+    833,
+    842,
+    843,
+    845,
+    850,
+    856,
+    858,
+    859,
+    860,
+    864,
+    867,
+    877,
+    883,
+    892,
+    894,
+    897,
+    900,
+    901,
+    903,
+    909,
+    912,
+    916,
+    917,
+    931,
+    938,
+    940,
+    942,
+    948,
+    949,
+    956,
+    958,
+    960,
+    961,
+    977,
+    988,
+    998,
+    999,
+    1004,
+    1005,
+    1007,
+    1011,
+    1016,
+    1020,
+    1021,
+    1024,
+    1028,
+    1059,
+    1071,
+    1075,
+    1077,
+    1095,
+    1098,
+    1100,
+    1107,
+    1193,
+    1197,
+    1198,
+    1201,
+    1204,
+    1205,
+    1206,
+    1208,
+    1211,
+    1213,
+    1218,
+    1219,
+    1225,
+    1227,
+    1229,
+    1231,
+    1232,
+    1233,
+    1235,
+    1236
+  ],
+  "deferred": [
+    {
+      "id": 6,
+      "title": "素問經注節解",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "素問要旨論",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "素問入式運氣論奧",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "黃帝內經太素",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "后序为周贞亮甲子年作，且正文夹有平按，所选整理本含近现代校注层，暂不纳入本批。"
+    },
+    {
+      "id": 46,
+      "title": "內經藥瀹",
+      "reasons": [
+        "source_era_corrected_to_republican_period"
+      ],
+      "review_note": "来源误标清代、公元1675年；中央研究院《當代黃帝內經研究論著書目》著录1935年成都义生堂刻本。原序癸亥为1923年。已列批次勘误。"
+    },
+    {
+      "id": 47,
+      "title": "醫經讀",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 67,
+      "title": "難經疏證",
+      "reasons": [
+        "outside_chinese_author_scope"
+      ]
+    },
+    {
+      "id": 70,
+      "title": "黃帝八十一難經纂圖句解",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 77,
+      "title": "醫會元要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 87,
+      "title": "脈確",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 93,
+      "title": "脈訣考證",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 98,
+      "title": "脈理求真",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 105,
+      "title": "醫學脈燈",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 107,
+      "title": "脈學類編",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "脈訣闡微",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "丹溪脈訣指掌",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 128,
+      "title": "臨症驗舌法",
+      "reasons": [
+        "edition_missing",
+        "publication_after_1911"
+      ]
+    },
+    {
+      "id": 136,
+      "title": "吳普本草",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 137,
+      "title": "本草經集註",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 139,
+      "title": "海藥本草",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 141,
+      "title": "名醫別錄",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 142,
+      "title": "食療本草",
+      "reasons": [
+        "modern_annotation_in_edition"
+      ]
+    },
+    {
+      "id": 148,
+      "title": "紹興本草",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 150,
+      "title": "珍珠囊補遺藥性賦",
+      "reasons": [
+        "deferred_after_source_review"
+      ]
+    },
+    {
+      "id": 154,
+      "title": "滇南本草",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 155,
+      "title": "本草品彙精要",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 157,
+      "title": "救荒本草",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 161,
+      "title": "本草徵要",
+      "reasons": [
+        "edition_missing",
+        "explicitly_incomplete",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 162,
+      "title": "本草易讀",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 164,
+      "title": "藥鑑",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 165,
+      "title": "本草正",
+      "reasons": [
+        "deferred_after_source_review"
+      ]
+    },
+    {
+      "id": 167,
+      "title": "本草彙言",
+      "reasons": [
+        "conversion_invariant"
+      ]
+    },
+    {
+      "id": 168,
+      "title": "食物本草",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 171,
+      "title": "食物本草會纂",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 188,
+      "title": "本草述鉤元",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 192,
+      "title": "本草問答",
+      "reasons": [
+        "modern_annotation_in_edition"
+      ]
+    },
+    {
+      "id": 195,
+      "title": "本草害利",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 196,
+      "title": "本草分經",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 197,
+      "title": "藥性切用",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 204,
+      "title": "本草便讀",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 223,
+      "title": "瀕湖炮炙法",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 225,
+      "title": "炮炙全書",
+      "reasons": [
+        "outside_chinese_author_scope"
+      ]
+    },
+    {
+      "id": 231,
+      "title": "小品方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 238,
+      "title": "聖濟總錄",
+      "reasons": [
+        "conversion_invariant",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 239,
+      "title": "聖濟總錄纂要",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 259,
+      "title": "急救仙方",
+      "reasons": [
+        "authorship_or_era_missing",
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 261,
+      "title": "衛生易簡方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 268,
+      "title": "祖劑",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 277,
+      "title": "種福堂公選良方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 288,
+      "title": "醫方絜度",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 291,
+      "title": "歷驗再壽編",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 297,
+      "title": "救生集",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 311,
+      "title": "長沙方歌括",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 316,
+      "title": "退思集類方歌註",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 318,
+      "title": "成方便讀",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 331,
+      "title": "串雅內外編",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 334,
+      "title": "驗方新編",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 340,
+      "title": "奇效簡便良方",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 341,
+      "title": "惠直堂經驗方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 342,
+      "title": "絳囊撮要",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 344,
+      "title": "外治壽世方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 345,
+      "title": "文堂集驗方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 346,
+      "title": "回生集",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 355,
+      "title": "溫隱居海上仙方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 367,
+      "title": "種杏仙方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 380,
+      "title": "凌門傳授銅人指穴",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 381,
+      "title": "針灸神書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 387,
+      "title": "楊敬齋針灸全書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 388,
+      "title": "經絡彙編",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 389,
+      "title": "經絡全書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 390,
+      "title": "針灸易學",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 392,
+      "title": "針灸聚英",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 397,
+      "title": "針經指南",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 398,
+      "title": "黃帝明堂灸經",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 399,
+      "title": "針經節要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 401,
+      "title": "針灸素難要旨",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 404,
+      "title": "靈樞經脈翼",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 405,
+      "title": "經絡考",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 412,
+      "title": "針灸逢源",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 418,
+      "title": "經脈圖考",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 427,
+      "title": "子午流注針經",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 428,
+      "title": "灸膏肓腧穴法",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 431,
+      "title": "宋本備急灸法",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 438,
+      "title": "銅人腧穴針灸圖經",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 447,
+      "title": "傷寒微旨論",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 482,
+      "title": "傷寒捷訣",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "1936年裘庆元辑本的编辑层暂未厘清。"
+    },
+    {
+      "id": 493,
+      "title": "傷寒論辯證廣註",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 497,
+      "title": "傷寒總病論",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 499,
+      "title": "傷寒瘟疫條辨",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 503,
+      "title": "傷寒說意",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 504,
+      "title": "感症寶筏",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 510,
+      "title": "傷寒百證歌",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 511,
+      "title": "仲景傷寒補亡論",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 513,
+      "title": "傷寒論類方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 516,
+      "title": "傷寒醫訣串解",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 527,
+      "title": "傷寒類書活人總括",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 531,
+      "title": "金匱玉函經",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 532,
+      "title": "高註金匱要略",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 534,
+      "title": "金匱玉函經二註",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 535,
+      "title": "金匱要略方論本義",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 538,
+      "title": "金匱要略廣註",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 539,
+      "title": "金匱懸解",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 540,
+      "title": "金匱要略心典",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 541,
+      "title": "金匱要略淺註",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 543,
+      "title": "金匱要略論註",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 552,
+      "title": "增訂葉評傷暑全書",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 553,
+      "title": "重訂廣溫熱論",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "所选为2006年版重订本，重订者何廉臣，暂不纳入先秦至清范围。"
+    },
+    {
+      "id": 575,
+      "title": "吳又可溫疫論歌括",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 581,
+      "title": "溫證指歸",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 598,
+      "title": "暑症發原",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 599,
+      "title": "治痢捷要新書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 600,
+      "title": "秋瘧指南",
+      "reasons": [
+        "edition_missing",
+        "not_identified_as_ancient",
+        "publication_after_1911",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 620,
+      "title": "辨症玉函",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 621,
+      "title": "醫學妙諦",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 626,
+      "title": "醫效秘傳",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 627,
+      "title": "病機沙篆",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 628,
+      "title": "濟陽綱目",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 634,
+      "title": "醫學答問",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 642,
+      "title": "風勞臌膈四大證治",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 645,
+      "title": "增訂十藥神書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 651,
+      "title": "三消論",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 653,
+      "title": "治瘧機要",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 661,
+      "title": "痎瘧論疏",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 665,
+      "title": "張氏婦科",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 677,
+      "title": "濟生集",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 678,
+      "title": "內府秘傳經驗女科",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 679,
+      "title": "女科指要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 682,
+      "title": "女科精要",
+      "reasons": [
+        "edition_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 684,
+      "title": "女科秘要",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing"
+      ]
+    },
+    {
+      "id": 686,
+      "title": "女科秘旨",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 688,
+      "title": "女科折衷纂要",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 691,
+      "title": "女科指掌",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 693,
+      "title": "女科經綸",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 700,
+      "title": "婦科百辨",
+      "reasons": [
+        "edition_missing",
+        "not_identified_as_ancient",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 706,
+      "title": "萬氏女科",
+      "reasons": [
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 715,
+      "title": "盤珠集胎產症治",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 717,
+      "title": "產鑑",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 720,
+      "title": "胎產指南",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 722,
+      "title": "胎產秘書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 723,
+      "title": "達生編",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 741,
+      "title": "孕育玄機",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 744,
+      "title": "產育寶慶方",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 756,
+      "title": "幼幼新書",
+      "reasons": [
+        "conversion_invariant"
+      ]
+    },
+    {
+      "id": 760,
+      "title": "幼科類萃",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 762,
+      "title": "幼科指南",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 764,
+      "title": "幼科折衷",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "底本栏直接说明内容不全，替换。"
+    },
+    {
+      "id": 769,
+      "title": "慈幼新書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 772,
+      "title": "幼科切要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 774,
+      "title": "慈幼便覽",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 775,
+      "title": "陳氏幼科秘訣",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 779,
+      "title": "小兒諸證補遺",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 782,
+      "title": "誠求集",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 783,
+      "title": "幼科彙訣直解",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 787,
+      "title": "幼幼集",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 790,
+      "title": "育嬰家秘",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 794,
+      "title": "麻科活人全書",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 807,
+      "title": "痘科輯要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 812,
+      "title": "片玉痘疹",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 815,
+      "title": "幼科推拿秘書",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "底本仅列1957年排印，现代编辑边界未确认，替换。"
+    },
+    {
+      "id": 818,
+      "title": "仁端錄",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 821,
+      "title": "外科十法",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 826,
+      "title": "秘傳外科方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 836,
+      "title": "外科選要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 840,
+      "title": "青囊秘訣",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 841,
+      "title": "萬氏秘傳外科心法",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 861,
+      "title": "劉涓子鬼遺方",
+      "reasons": [
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 873,
+      "title": "秘傳劉伯溫家藏接骨金瘡禁方",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 875,
+      "title": "金瘡秘傳禁方",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 880,
+      "title": "少林真傳傷科秘方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 882,
+      "title": "跌損妙方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 885,
+      "title": "傷科補要",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 886,
+      "title": "救傷秘旨",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 888,
+      "title": "跌打損傷回生集",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 890,
+      "title": "正體類要",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 893,
+      "title": "明目至寶",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 895,
+      "title": "眼科秘訣",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 899,
+      "title": "眼科闡微",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 904,
+      "title": "銀海指南",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 905,
+      "title": "異授眼科",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 910,
+      "title": "重樓玉鑰續編",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 911,
+      "title": "喉科秘訣",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 913,
+      "title": "尤氏喉症指南",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 914,
+      "title": "尤氏喉科秘書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 915,
+      "title": "焦氏喉科枕秘",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 919,
+      "title": "白喉全生集",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 920,
+      "title": "喉科集腋",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 921,
+      "title": "咽喉脈證通論",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 923,
+      "title": "白喉捷要合編",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 924,
+      "title": "白喉辨證",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 928,
+      "title": "喉科心法",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 929,
+      "title": "咳論經旨",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 930,
+      "title": "喉科家訓",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 937,
+      "title": "養老奉親書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 944,
+      "title": "奉時旨要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 950,
+      "title": "攝生集覽",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 951,
+      "title": "攝生要義",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 952,
+      "title": "壽親養老書",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 965,
+      "title": "攝養枕中方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 966,
+      "title": "福壽丹書",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 979,
+      "title": "隨息居飲食譜",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 980,
+      "title": "飲食須知",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 981,
+      "title": "調疾飲食辨",
+      "reasons": [
+        "edition_missing",
+        "conversion_invariant"
+      ]
+    },
+    {
+      "id": 983,
+      "title": "急救廣生集",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 984,
+      "title": "理瀹駢文",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 994,
+      "title": "奇症彙",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 995,
+      "title": "未刻本葉氏醫案",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1003,
+      "title": "馬培之醫案",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1008,
+      "title": "三家醫案合刻",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "所选近现代整理本编辑层暂未厘清。"
+    },
+    {
+      "id": 1013,
+      "title": "曹仁伯醫案論",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1022,
+      "title": "邵氏醫案",
+      "reasons": [
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1030,
+      "title": "陳莘田外科方案",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1031,
+      "title": "瘍科指南醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1032,
+      "title": "愛月廬醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1037,
+      "title": "顧氏醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1042,
+      "title": "旌孝堂醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1048,
+      "title": "李冠仙醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1054,
+      "title": "徐養恬方案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1055,
+      "title": "慎五堂治驗錄",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1061,
+      "title": "繆松心醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1066,
+      "title": "王孟英醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 1067,
+      "title": "葉氏醫案存真",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1072,
+      "title": "王氏醫案續編",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1078,
+      "title": "辨證奇聞",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "和辨证录的版本、作品边界仍待确认。"
+    },
+    {
+      "id": 1079,
+      "title": "靜香樓醫案",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1085,
+      "title": "推篷寤語",
+      "reasons": [
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 1086,
+      "title": "舊德堂醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1089,
+      "title": "曹滄洲醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1090,
+      "title": "醉花窗醫案",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1091,
+      "title": "一瓢醫案",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1096,
+      "title": "柳洲醫話",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1108,
+      "title": "醫原",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1109,
+      "title": "質疑錄",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1110,
+      "title": "吳醫彙講",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1111,
+      "title": "侶山堂類辯",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1114,
+      "title": "歸硯錄",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1115,
+      "title": "醫經溯洄集",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1117,
+      "title": "醫說",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1118,
+      "title": "續醫說",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1119,
+      "title": "推求師意",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1122,
+      "title": "醫旨緒餘",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1123,
+      "title": "褚氏遺書",
+      "reasons": [
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1126,
+      "title": "心醫集",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1128,
+      "title": "先醒齋醫學廣筆記",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1130,
+      "title": "醫門棒喝",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1139,
+      "title": "鬱岡齋醫學筆塵",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1142,
+      "title": "醫貫砭",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1143,
+      "title": "西溪書屋夜話錄",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1177,
+      "title": "讀醫隨筆",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1178,
+      "title": "知醫必辨",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1179,
+      "title": "慎疾芻言",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1181,
+      "title": "醫學讀書記",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1183,
+      "title": "重慶堂隨筆",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1185,
+      "title": "一得集",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1187,
+      "title": "蠢子醫",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1199,
+      "title": "醫學舉要",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1209,
+      "title": "脈症治方",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1210,
+      "title": "症因脈治",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1217,
+      "title": "丹溪心法附餘",
+      "reasons": [
+        "no_transcribed_paragraphs",
+        "no_body",
+        "parse_error"
+      ]
+    },
+    {
+      "id": 1222,
+      "title": "平治會萃",
+      "reasons": [
+        "deferred_after_source_review"
+      ],
+      "review_note": "与金匮钩玄疑为同一作品的异名或异本，暂不另计。"
+    },
+    {
+      "id": 1237,
+      "title": "古今醫鑑",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1239,
+      "title": "萬病回春",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1240,
+      "title": "明醫雜著",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1241,
+      "title": "醫學發明",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1242,
+      "title": "丹溪手鏡",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1243,
+      "title": "張氏醫通",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1245,
+      "title": "丹臺玉案",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1246,
+      "title": "醫學實在易",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1247,
+      "title": "古今醫徹",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1252,
+      "title": "醫經小學",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1253,
+      "title": "衛生寶鑑",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1254,
+      "title": "明醫指掌",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1255,
+      "title": "軒岐救正論",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1256,
+      "title": "三因極一病證方論",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1257,
+      "title": "簡明醫彀",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1258,
+      "title": "石室秘錄",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1259,
+      "title": "醫述",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1261,
+      "title": "醫學真傳",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1262,
+      "title": "類證治裁",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1264,
+      "title": "蘭室秘藏",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1269,
+      "title": "雜病源流犀燭",
+      "reasons": [
+        "conversion_invariant"
+      ]
+    },
+    {
+      "id": 1271,
+      "title": "醫宗己任編",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1272,
+      "title": "秘傳證治要訣及類方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1273,
+      "title": "醫學摘粹",
+      "reasons": [
+        "edition_missing",
+        "possible_modern_prose"
+      ]
+    },
+    {
+      "id": 1274,
+      "title": "馮氏錦囊秘錄",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1276,
+      "title": "醫學入門",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1278,
+      "title": "醫學綱目",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1279,
+      "title": "羅氏會約醫鏡",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1280,
+      "title": "顧松園醫鏡",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1281,
+      "title": "辨證錄",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1283,
+      "title": "蒼生司命",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1285,
+      "title": "醫法圓通",
+      "reasons": [
+        "edition_missing",
+        "authorship_or_era_missing",
+        "not_identified_as_ancient"
+      ]
+    },
+    {
+      "id": 1288,
+      "title": "醫宗必讀",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1289,
+      "title": "雲林神彀",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1291,
+      "title": "蘭臺軌範",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1292,
+      "title": "赤水玄珠",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1300,
+      "title": "醫心方",
+      "reasons": [
+        "outside_chinese_author_scope"
+      ]
+    },
+    {
+      "id": 1328,
+      "title": "東垣試效方",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    },
+    {
+      "id": 1336,
+      "title": "醫學啟源",
+      "reasons": [
+        "edition_missing"
+      ]
+    },
+    {
+      "id": 1343,
+      "title": "洗冤集錄",
+      "reasons": [
+        "not_selected_in_this_batch"
+      ]
+    }
+  ]
+}

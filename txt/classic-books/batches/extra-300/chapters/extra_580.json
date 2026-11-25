@@ -1,0 +1,2229 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_580",
+    "name": "南病别鉴",
+    "summary": "《南病别鉴》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“第一论湿病大概”、“第二论化热入营”、“第三论邪留三焦”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "宋兆淇",
+    "jp": "NBBJ",
+    "aliases": [
+      "南病別鑑"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "5010db5c3c433383a1e28a41",
+      "title": "序一",
+      "volume": null,
+      "content": "考工记谓材美工巧然而不良则不时不得地气也于是以橘窬淮产为枳鸜鹆不窬济貉不窬汶明乃地弗良之意一再曰地气然也鸟虖不行地气不能成良工不察地气又曷为良医哉九窍之变犹是也九藏之动犹是然而齐与楚言语不通嗜欲不同焉燕与越言语不通嗜欲一没焉不同者地也即气了也言语嗜欲其气之常疾病则其气之变也用治齐者治楚吾知其必难巳用治燕者治越吾知其必增剧无他常者不能同而变者反能同未之有也伤寒者北方之病也而南人有病辄曰伤寒何也仲景之书遍天下人习诵之而忘其地气之不同也不几用治齐者治楚治燕者治越乎已乎剧乎 国朝康熙间吴中名医辈妯香岩叶氏一瓢薛氏为最著叶有温证论治薛有湿热条辨皆发明南人之病不宜概用伤寒法厥后公望薛氏有伤寒辨证歌名虽袭北治实偏南不外叶薛宗旨宋君佑甫为公望外孙治病之暇取叶书详注之复合二薛所著菡三为一题曰南病别鉴将授诸梓问序于余余不知医惟寻厥题名证以考工佑甫其能察地气者乎佑甫为医其良者乎\n光绪九年岁次癸未五有元和顾文彬撰",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "序一"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "3aaa8a9b50fe634815b47a687540504f29d49e86497b52194a9e7d49d9e257b1",
+      "content_sha256": "a13b0a402a6df417548cbaf64d95ec2db9e0fca72597964e7df6fa9b2260ebc9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 400,
+        "simplified_codepoints": 400
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "569e933952d8ce266b2bbee4",
+      "title": "序二",
+      "volume": null,
+      "content": "康熙朝吾吴叶香岩先生医名重当代同时有一瓢征君继起有松心孝人号称鼎足惟先生最为正宗足资后学模楷所传世著作几种皆及门采转医按乃最著名者也此温证论治一编较舌鉴舌辨更加明晰今得佑甫世棣逐条诠疏忧觉精详佑甫为薛公望先生外孙好学深思治病往往出人意表而一转乎正岂非渊源有自耶兹将付手民属书缘起\n时光绪巳卯四月南宫后生徐康",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "序二"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "7eaf74e16dd307568d59a44ab45affea72362e3ea63c862a9141e24e99ae58a8",
+      "content_sha256": "5b0f52cebe088fac8279692a38840a632ce03ef42c6b0c78214feb5113abc136",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        5,
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 153,
+        "simplified_codepoints": 153
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "9e9e65f21581bda7adeca3c5",
+      "title": "序三",
+      "volume": null,
+      "content": "医书自零素金匮后代有名肾著作几于汗先充栋求其能上继岐黄真传而有益于后学者渺不可得推原其故盖由食古不化致古人著作之精心晦而难明或更妄求异说自作聪明或各立门户好为奇僻于南北地气之分性质强弱之异概置勿论无怪医道竟成绝学也近有叶香岩先生湿证论治薛一瓢先生湿热条辨薛公望先生伤寒古风议论精醇根只深厚五行尽其变五土异其宜实上继零素金匮之一脉而大有功于后世者也惜香岩一瓢两先生之书难虽会稽章虚谷注释而未得其详医家深以为憾兹宋君佑甫于治病之暇朝夕披觉详加注释俾前人之著述如掌真后学之津梁也犹忆余十年前得不寐疾辗思索床褥午夜彷徨遍访时医尽皆束手后得佑甫诊治应手而愈至今年逾六十日高三丈犹作酣眠始知佑甫于此道中不知几费揣摩斯能致此妙技古人所谓三折肱者真无愧焉余故乐得而为之序\n光绪己卯春仲既望□山毕长庆撰",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "序三"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "486d7c65e30f1fa6f21994a0f2a9bab8cef71accbe4880f1d7098d5dea2d0afe",
+      "content_sha256": "cf3180463788e51b37287826f80f7748d9ad3aafc79d3758e70ed0e087b2509b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 342,
+        "simplified_codepoints": 342
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "8122c2aae475cf7eecb953ea",
+      "title": "序四",
+      "volume": null,
+      "content": "天下至难为者莫如医天下至易为者亦莫如医必欲穷经义索病源对症施药务求中肯此固难为者也苟其不读古人书不问病人因妄曰冯脉知病任意书方偶然中病愚夫愚妇奉以为奇事即暗被他伤医家病家茫然不知此又易为者也然以难为者也易为者较岂独不可同日而语殆有为善造孽之分欤内经征四失论曰诊病不问其始忧患饮食之失节起居之过度或伤于毒不先言此卒持寸口何病能中妄言作名为粗所穷此之谓也此之谓也此固不在医林可置之勿论夫司命者望闻问切之外忧须分别土地人情如北方地寒人强伤寒最多故仲景立麻黄桂枝汤等原有伤寒论可稽而江以南地卑湿多人情柔弱患伤寒者不过百中一二患湿热者十之八九若以治伤寒者治湿热岂非大相径庭耶余自幼喜读医书素零内经仲景伤寒金匮玉函等书而外诵至叶香岩先生温证论治薛一瓢先生湿热条辨及处祖薛公望公伤寒古风三十一首每朝夕服诵而不忍去知其于江南人病最为合法惜香岩先生论口授门人随笔记录层次未楚虽后人稍为分排而不有注释余因之或参经旨或集陈言或从素见增在句读之下非敢云注以畅其说耳稿既成忽有人告予曰会稽章君名虚谷者曾有注释予即购而阅或参以已见而标之其湿热条辨章君亦详注矣而外祖公望公伤寒古风已了如指掌不敢谬加一词因袭三家名言付之剞劂为案头课徒之余事名之曰南病别鉴谓与北方病迥异也是为序\n光绪戊寅孟春上浣平江宋兆淇佑甫氏序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "序四"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "39377d647582d58a93c75aaf769a89c4e3e827c1d04dcbb04eae86759789043e",
+      "content_sha256": "6d3964bd13f518a981491a0e9b86fdfbda7c2e632a972d86ecd22e391dd78a61",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        11,
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 540,
+        "simplified_codepoints": 540
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "ada4f15dcf079f39f5a9c78f",
+      "title": "序五",
+      "volume": null,
+      "content": "扫叶庄一瓢耕牧且读之所也维时残月在窗明星未稀惊乌出树荒鸡与飞虫相乱杂香无聚少焉晓影渐分则小乌闹春间春间关啁啾尽巧极靡寂淡山林喧若朝市不知何处老鹤横空而来长唳一声群乌寂然四顾山光直落檐际清静耳根始为我有于是盥漱初毕伸纸磨墨将数月以来所历病机与诸子弟或阐发前人或摅已意随所有得随笔数行录竟读之如噉虀羹寸寸各具酸咸要不与珍错同登樽俎亦未敢方乎横空老鹤一声长唳薛雪书于扫叶山庄",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "序五"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "fca1f601a306b03ef4e8ef86033d3f9d34f510309b1541b6ad2f0a3fac14ff2c",
+      "content_sha256": "d43f6b8f6a146380792514d140541477b7a9596e4eb0131c59ebeb80debdefd0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        14
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "0e78408a9e14aa0e2f8e72e4",
+      "title": "序六",
+      "volume": null,
+      "content": "薛氏湿热论乃家藏秘书先君素精医理于是书忧深宝之盖其辨晰受病之原委多由阳明太阴两经表里相传其凶之也确其言之也详其治之也各得其宜可为后世法莫能出其范围者我吴处江以南地气卑湿患是病者最多而治之者或称为湿温伤寒未能辨析岂知如论所云湿热之病不独与伤寒不同且与湿病大异哉俊不敢独秘亟寿枣梨以公同志俾审病者不致歧误焉道光九年九月元和李清俊跋",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 15,
+      "source_path": [
+        "序六"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "b2b5ce65379fd7a8054744e6f2b81cdde2accc29fbd40548a6e5267fb8d0ba61",
+      "content_sha256": "989abb1f6c724ce66624de415f04bb633829613f395016e069913828ebd91268",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        16
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 163,
+        "simplified_codepoints": 163
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "eb12ec4b88af8d03d5ea8205",
+      "title": "第一论湿病大概",
+      "volume": "卷上",
+      "content": "温邪上受首先犯肺`风从寒化属阴故先受于足经风从热化属阳故先受于经` 逆传心胞`心肺最近邪盛伤营即传心胞` 肺主气属卫心主血属营辨营卫气血虽与伤寒同若论治法则与伤寒大异伤寒由太阳而传入他经当先辛温发汗温邪由肺入胃当先辛平解表` 盖伤寒之邪留恋在表然后化热入里温邪则化热最速未传心胞邪尚在肺肺合皮毛而主气故在表初用辛凉散解挟风加薄荷牛蒡之属挟湿加卢根滑石之流或透风于热外或渗湿于热下不与热相抟势必孤矣不尔`初当辛平解散若过凉遏邪邪反内走用温发汗劫津化火` 风挟温热而燥生清窍必干谓水主之气不能上荣两阳`风与热也` 相劫也`有阳虚气不化液而燥治宜甘湿有积饮液不上升而燥治宜甘辛有阴液枯涸而干燥治宜酸甘此风热劫烁其津液治宜甘寒` 湿与温合蒸郁而蒙痹于上清窍为之壅塞浊邪害清也`渗湿透热佐以芳香` 其病有类伤寒验之之法伤寒多有变症湿病虽久总在一经为辨",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "卷上",
+        "第一論濕病大概"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "fc529d59b375a6d9d72453ba210221b9c777fba73b3037c34c37d18b9588c023",
+      "content_sha256": "8b87816560cd49890846832a04c90f54bc04f2ff118e4bcda5562692b17f52c6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 370,
+        "simplified_codepoints": 370
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "4b1fdcd017179f836ecc74ca",
+      "title": "第二论化热入营",
+      "volume": "卷上",
+      "content": "前言辛凉散内甘淡驱湿若病仍不解是渐欲入营也`由气入营` 营分受热则血液受劫心神不安夜甚无寐或斑点隐隐即撤去气药`如从风热陷入者用犀角竹叶之属如从湿热陷入者用犀角花露之品` 参入凉血清热方中若加烦燥大便不通金汁亦或加入老年及平素有寒者以人中黄代之急速透斑为要若斑为要若斑出絷不解者胃津亡也主以甘寒重则玉女煎轻则梨皮蔗浆之类或其人肾水素虚病虽未及下焦每多先自彷徨`惊疑恐惧之貌盖肾水虚则生恐也` 此必验之于舌如甘寒之中加入咸寒滋养如生地元参龟版阿胶之类质绛而中心干厚焦燥者生地阿胶龟版咖元明粉大黄以上之` 务在先安未受邪之地恐其陷入耳若其邪始终在气分流连者可冀其转汗透邪治宜益胃`此法极难详盖汗由胃中水谷所化气旺邪与汗相并而出如仲景服桂枝汤后啜稀粥者是也若胃虚发战邪不能出反从内入也要在辨邪之浅深若邪已内人欲行此法反见助邪为害矣如风寒温热之邪初在表者可行若暑疫等邪受即在膜原而当胃口断无益胃助邪虽虚人必先开达误用即为害不浅也` 今邪与汗并热达腠开邪开邪从汗出解后胃气空虚当卢冷一书夜待气还自温暖如常矣盖战汗而解邪退正虚阳从汗泄故渐卢冷未必即成脱症此时宜安舒静卧以养阳气来复旁人切勿惊惶频频呼唤扰其元气但诊其脉若虚软和缓虽倦卧不语汗出卢冷却非脱症若脉急疾躁扰不卧卢冷汗出便为气脱之症矣`此正不胜邪内经言险阳交交者死也` 更有邪盛正虚不能一战而解停一二日再战汗而解者不可不知",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "卷上",
+        "第二論化熱入營"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "9296731e7deecda616791e54d59da1ad2028d7250079f931f6d3189fa48dbac7",
+      "content_sha256": "2cd1e88d6b783b9c26d5d81975f14fd6e53983a543d832ecc36af9665d6e9091",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 583,
+        "simplified_codepoints": 583
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "8db8f421780e165954eb756b",
+      "title": "第三论邪留三焦",
+      "volume": "卷上",
+      "content": "气病有不传血分者邪留三焦犹之伤寒中少阳病也彼则和解表里之半此则分消上下之势随症变法如近时杏朴芩等类或如温胆汤之走泄因其仍在气分犹有战汗之门户转疟之机括也`不入营而传 心胞即传于三焦盖三焦主升降出入表里之气全赖三焦以出入法当转其气机虽温邪不可用凉药遏之故只宜辛平甘苦顺其升降转其气机开透汗化疟之门户` 大凡看法卫之后方言气`卫行脉外` 营之后方言血`营行脉中` 在卫`必恶寒` 汗之可也`宜辛平表散` 到气`不恶寒而恶热小便色黄` 才宜清气`方可辛凉亦不可太凉反使邪不外达而内闭` 乍入营分`脉数舌绛` 犹或透热仍转气分而解`开达即所以转气分` 如犀角元参羚羊等物是也至入于血`舌深绛烦扰不寐或夜有呓语` 则恐耗血动血直须凉血散血如生地丹皮阿胶赤芍等物是也若不循缓急之法卢则动手便错反致慌张矣且吾吴湿邪害人最多如面色白者须要顾其阳气湿胜则阳微也如法应清凉用到十分之六七即不可过凉盖恐湿热一去阳亦衰微也`阳虚者本多痰湿受寒湿非姜附术芩不能去受湿热亦必黏滞难解须通阳明化湿过凉则湿闭而阳更困矣` 面色苍者须要顾其津液清凉到十分之六七往往有热减身寒者不可便云虚寒而投补剂`阴虚者内火易动湿从火化易伤阴液阴伤则阳少依附但当和胃不可偏阴偏阳` 恐炉烟虽熄炉火犹存须细察精详主可少少与之慎不可漫然而进也又有酒客里湿素盛外入里与之相抟在阳旺之躯胃湿恒多`如身黄如橘子色而鲜明者此阳黄胃湿豕茵陈蒿汤` 在阴盛之体脾湿亦不少`色如薰黄而沉晦者此阴黄办湿用栀子柏皮汤或附子理中汤` 然其化热则一热病救阴犹易通阳最难救阴不在补血在养津与化汗`津液虚则汗无由化养津则汗自出` 通阳一在温而在利小便`膀胱者州都之官津液藏焉气化则自能出矣` 较之杂症有不同也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "卷上",
+        "第三論邪留三焦"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "08427a0ce6fa48d27f0a6873072e998d8ad7112e7f5eab87f5fa06fa5255a68c",
+      "content_sha256": "5ea20a92d1302a41a77119801c2ed5a73de489e939538cd7192f7f8a8a79b7ff",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 714,
+        "simplified_codepoints": 714
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "484c55cc4b746f94d0195739",
+      "title": "第四论里结阳明",
+      "volume": "卷上",
+      "content": "三焦不从外解必致里结里结于在阳明办与肠也`无形之邪必依有形这物百抟结如痰滞湿是` 亦须用下法不可以气血之分谓其不可下也`不下势必蒸烁伤阴` 惟伤寒热邪在里劫烁津液下之宜猛此多湿邪内抟下之宜轻`如小陷胸汤黄连泻心汤` 伤寒大便溏为邪已尽不可再下湿温病大便溏为邪未尽必大便硬乃为无湿始不可再攻也再入之体脘在腹上其位居中按之痛或自痛或痞胀当用苦泄以其入腹近也必验之于舌`全舌苔之色` 或黄或浊`湿与温合蒸` 或与小陷胸汤或泻心汤随症治之若白不燥`全是寒有痰湿` 或黄白相兼或灰白不渴`皆阳不化邪阴浊凝阻` 慎不可乱投苦泄其中`即胃中` 有外邪未解里先结者`宜先通气滞杏蔻橘桔之类` 或邪郁未伸素属中冷者`当加姜` 虽有脘中痞痛宜从开泄宣通气滞以达归于肺如近世这杏蔻橘桔等轻苦微辛具流动之品可耳又有舌上白苔黏腻口吐浊厚涎沫者其口必甜此为脾瘅乃湿热气聚与谷气相传土有余也盈满则上泛当用佩兰叶芳香辛散以逐以`更当看其舌本红赤为热当清凉泄浊色淡不红脾虚不能摄液而上泛当健脾降浊` 若舌上苔如碱者胃中宿滞挟浊秽郁伏当急急开泄否则闭结中焦不能从膜原达泄矣",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "卷上",
+        "第四論里結陽明"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "850d97c012db48845ae9e659099e3addbb7bb8491125419e1d6a4ed9f01be9fb",
+      "content_sha256": "7fa05d8d490dd8ed7c01d52e5e84a3122c925784d44314562172c4da83f5e11b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 468,
+        "simplified_codepoints": 468
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "09d0e62cee8edd315edd938a",
+      "title": "第五论白舌",
+      "volume": "卷上",
+      "content": "舌苔白厚而干燥者此胃燥气伤也`白厚本是浊邪热烁津伤浊结不化当先养津化浊` 滋润药中加甘草今甘守津还之意`其人必素属中虚故可用甘草` 舌白而薄者外感内寒也当疏散之若薄白而干者肺液伤也加麦冬花露卢根汁等轻清之品为上者上之也`肺位最高轻清乃得若重浊与肺无益而反伤及胃` 若苔白而质绛者湿遏热伏当先泄透热防其即干也此可勿忧再从里而透于外则变润矣`泄湿用辛开苦降湿泄自然热透热透自然舌干再用苦辛甘凉从里透外则胃气化而津液升舌即润汗作而邪热随解` 初病即舌干`津液素亏` 神不昏者`幸而未入心胞` 急宜养正微加透邪之药若神已昏此内匮不可救药矣",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "卷上",
+        "第五論白舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "fc9ae0f88f8aa7ebf449b877f052801ea7809adb670ce407277d5275ba7a4df6",
+      "content_sha256": "4913ed44261bc7db63bbdcd8d7f2f23b9f938c0b08ac946d098b856908e97e8f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        27
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 265,
+        "simplified_codepoints": 265
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "9e3818f13a41becc06cad13f",
+      "title": "第六论黄舌",
+      "volume": "卷上",
+      "content": "前云舌黄或浊当作陷胸泻心须要有地之黄`如草生地上必有根脚无根即为浮垢刮之即去` 若光滑者乃无形湿热已有中虚之象大忌前法`若妄行攻泻必致表邪入里为结胸痞气腹胀等症` 其脐以上为大腹或满痛或胀`不因药误病出自然` 此邪已入里表症必无或存十之一二亦须验之于舌或黄甚或如沉香色或如灰黄色或老黄色或中有断纹皆当下之如小承气汤加槟榔青皮枳实元明纷生首乌等皆可若未现此等舌不宜用此等药恐其中有湿聚太阴为满或寒湿错杂为痛或气壅为胀`皆有虚实寒热总以利气和气为主` 又当以别法治之矣",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 28,
+      "source_path": [
+        "卷上",
+        "第六論黃舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "b7efa59bef254744173d2e227fbff7af0a124c1d9dcf17a8880707c15200c1d6",
+      "content_sha256": "3a974ea14683b2f36b5d010b59887015bd68592afb45209310a95e8d72486bbf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 232,
+        "simplified_codepoints": 232
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "6393b1f425f0ab60ad1ff35b",
+      "title": "第七论薄黄舌",
+      "volume": "卷上",
+      "content": "黄苔不甚厚而滑者热未伤津犹可清热透表`辛开透发从汗而解` 若虽薄黄苔不甚厚而津受伤也`当以养津为主` 苦重之药当禁宜甘寒轻剂以养之",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "卷上",
+        "第七論薄黃舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "0ab70f107c063ca4445860723b13bfa75b575dad0826e4a165068c13a04c5829",
+      "content_sha256": "32e21302799d38defbc9799c40394085d543da469700c350efa361848ad8763e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 65,
+        "simplified_codepoints": 65
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "74598ded8ee8c950e9fec76c",
+      "title": "第八论绛舌",
+      "volume": "卷上",
+      "content": "热邪传营舌色必绛`指舌本言` 绛深红色也初传舌色中兼黄白色`指舌苔言` 此气分之邪未尽也泄卫透营两和可也`仍从表解` 纯绛鲜泽者`言无舌苔胃无浊结邪已离卫入营` 胞络受邪也宜犀牛鲜生地连翘郁金石菖蒲等清泄之延这数日或其人平素心虚有痰`必有舌苔但心血虚者舌质多不鲜明或淡晦无神邪陷多危而难治于此可卜吉凶` 外热一陷里络即闭非菖蒲郁金等所以开须用牛黄丸至宝丹之类以开其闭`若邪火盛而舌质赤宜牛黄丸虚而色淡晦者宜至宝丹以牛黄丸太寒故也` 恐其昏厥为痉也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "卷上",
+        "第八論絳舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "915a6416d4b9f1f19ce4013e6d2c9bdd58586711dcfcc774e47dd8ef88cea856",
+      "content_sha256": "aea0c7c63437983906781d25a70d7abd42d791f7e379c4d9d6dac35d3c338371",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 223,
+        "simplified_codepoints": 223
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "5552556af0aa589bf5a099ce",
+      "title": "第九论燥绛舌",
+      "volume": "卷上",
+      "content": "舌绛而干燥者火邪劫营凉血清血为要`胃无浊邪则无厚苔邪热入营则舌质色绛虽薄苔必黄又加干燥则火邪劫营` 色绛而舌心干者`舌全绛心干` 乃心胃火燔劫夺津液即黄连石膏亦可加入其有舌心独绛而干者`四连有苔或黄或白独绛而干只在舌心` 亦胃热而心营受灼也当于清胃中加入清心之品否则延及于尖为津干火盛之候矣舌尖独绛而干`热止在心` 此心火炎和导示散泻其腑若烦热舌心干四边色红中心或黄或白者`舌四边红而不绛中兼黄白而渴故知其热不在血分` 此非血分也乃上焦气热烁津`热在气分者必渴热在血分者但口干而不渴多饮能消水为渴不能多多饮但欲略润为干如血分无热而口干者是阳气虚不能生化津液宜辛润如姜附之类` 急用凉膈散散其无形之热再看传变可也慎勿用血药反致滋腻留邪至若舌绛望之若干手扪之原有津液此津亏湿热薰蒸将成浊痰蒙闭心胞也`胃以通绛为用浊降则清升而化津液热邪入营郁蒸胃中浊气成痰反以蒙闭心胞即成错厥当急疏其胃降浊以清营热` 舌色绛而上有黏腻似苔非苔者中挟秽浊之气急加芳香以逐之舌绛而抵齿难伸出者痰阻舌根有内风也`内风上炽当开降中中辛凉咸润以熄内内脾肾之脉皆连舌本亦有脾肾气败舌短不能伸出者其形貌面色必形枯瘁多为死证不独风痰为患也` 舌绛光亮国阴亡也急用甘凉濡润之品舌z绛有碎点黄白者将生疳也大红点者热毒乘心也用黄连金汁有虽绛不鲜干枯而痿者此肾阴涸也急以阿胶鸡子地黄天冬等救之缓则恐涸而无救也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "卷上",
+        "第九論燥絳舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "f18435979bc129cf29d6424817615e59744acf1d647080582ad337fb005949fd",
+      "content_sha256": "bfbb1b7389555ed11e3869d6dc411f8009d37415becc06722049f60e951ec192",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 581,
+        "simplified_codepoints": 581
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "e3fb54f38341453e15b26239",
+      "title": "第一论紫舌",
+      "volume": "卷上",
+      "content": "热传营血其人素有于伤宿血在胸中舌色必紫而暗扪之潮湿`不干故为于血` 当加散血之品如琥珀丹参桃仁丹皮等否则于血与热相抟阻遏正气遂变发狂之症若紫而肿大者乃酒毒冲心`急加黄连` 紫而干晦者肝肾色泛也难治`肾色黑肝色青黑相合而成紫晦故曰难治`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 36,
+      "source_path": [
+        "卷上",
+        "第一論紫舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "10877aed84db5677f100c04bc09167e1935d4725f35b1e81647d7355ca90d232",
+      "content_sha256": "ba19fe74a782e2fae25437927d0b1d21bd78b7f6c70fbcac932e51cc281b0822",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "14944af18c5ba8097007fdd8",
+      "title": "第十一论淡红舌",
+      "volume": "卷上",
+      "content": "舌淡红无色`心脾气血素虚` 或干而色不劳者乃胃津伤而气无化液也当用炙甘草汤`养血养气以通经脉则邪自可去` 不可用寒凉药",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 38,
+      "source_path": [
+        "卷上",
+        "第十一論淡紅舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "25b6477b8177a643d503ecee5bb56f2a56339b8f211f2fc1d10f447f11b745f3",
+      "content_sha256": "155a30207c60919bd98eb20ffe95e2cc7832246c587040725ef115b439c3aa6e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        39
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "dbca2a499aa965d792d456a7",
+      "title": "第十二论芒刺舌",
+      "volume": "卷上",
+      "content": "凡舌不拘何色生芒刺者`苔必焦黄或黑或无苔而绛若苔白或淡黄胃无大热必无芒刺或两边有小赤瘰是营热郁结当开泄气分是焦热极者宜凉膈散散之` 皆上焦热极也当用青布拭泠薄荷水揩之即去者轻旋生者险",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 40,
+      "source_path": [
+        "卷上",
+        "第十二論芒刺舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "5a796e8a178957387bb980d3ebf5e69a4f9e7b7480a7a72b0fa7630032ccc738",
+      "content_sha256": "14110ada514bb893d7ecf9223ba5e6c4972e5da915eb892b71402ef024099ab1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        41
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 91,
+        "simplified_codepoints": 91
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "98ae7ab6fb8d9be81d45838b",
+      "title": "第十三论血迹肿大舌",
+      "volume": "卷上",
+      "content": "舌苔不燥自觉闷极者`脾阳弱浊壅不行` 脾湿盛也`虽有热邪当先辛开泄湿而后清热切不可先用寒凉遏闭` 或有伤痕血迹者当问曾经搔挖否不可以有血而便为枯症仍从湿治可也再有神情清爽舌肿大不能出口者`或兼唇肿` 此脾湿胃热郁极化风而毒延于口用大黄摩入当用剂内舌胀自清`神清邪在脾胃神昏即在脾胃神昏即在心脾两脏`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 42,
+      "source_path": [
+        "卷上",
+        "第十三論血跡腫大舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "b5f48cbb2cff5325a4954a50936d8b584fbd6fa4a713b73e083bbd72d5c8994a",
+      "content_sha256": "33fd76fca4624596355c5fbeba98e251020d244483077416fc2798699f8519fb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        43
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 149,
+        "simplified_codepoints": 149
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "ef8ffb18035d59f9d662575d",
+      "title": "第十四论如烟煤舌",
+      "volume": "卷上",
+      "content": "舌无苔有如烟煤隐隐者慎不可忽视若口渴烦热而燥者平时胃燥也不可攻之宜甘寒益胃`此阴虚而燥` 若不渴肢寒而舌润者乃挟阴症宜甘温扶中`此阳虚不可用苦寒只甘温不可用苦湿` 此何以故外露而里无也`外露热象里无热也`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "卷上",
+        "第十四論如煙煤舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "829209a52dcd95f1a952400b41c81ecc7870c8817da7cf627e45460190657672",
+      "content_sha256": "e83e96e76dcb37330660a75c271438f6a5f13cbc2a1241723ee99be3cfaa32c5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        45
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 102,
+        "simplified_codepoints": 102
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "c24ec38fe82df01396ab60b2",
+      "title": "第十五论黑舌",
+      "volume": "卷上",
+      "content": "舌黑而滑者水来克水阴症也当温之`附桂之类` 若见短缩此肾气竭也为难治若加人参五味子或救万一舌黑而干者`黑燥无苔胃无浊邪` 津枯火炽急急泻南补北`黄连阿胶汤` 若黑燥而中心厚者`胃中有垢浊与邪热相结` 土燥水竭急以咸苦下之`元明粉大黄`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 46,
+      "source_path": [
+        "卷上",
+        "第十五論黑舌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "d18e3f3edbd42eda21f192d2ca5e094737c1566ecf2da40eeedd05146f50cd89",
+      "content_sha256": "94d053ff0e934a517a5d7b841b87dda7ebd41920115ca11e6b6948e9b8a75278",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "c20c73b64f2a23775262e5ed",
+      "title": "第十六论粉白滑舌并斑疹",
+      "volume": "卷上",
+      "content": "舌白如粉而滑`浊邪甚盛` 四边色紫绛者`热邪亦重热为湿遏` 温疫病初人膜原`外通肌肉内近胃府即三焦之门户而实一身之半表半里也` 未归胃腑急急透解`吴又可达原饮加减` 莫待传入而为险恶之症且见此舌者病必见凶须要小心凡斑疹初见须用只捻照`热闭营中多成斑疹斑从肌肉而出属胃疹从血络而出属经其或斑疹并见此阳明经府皆热` 看胸背两肋点大而在皮卢之上者为斑可云头隐隐或琐碎小粒者为疹又宜见而不宜多见按方书谓斑色红者为胃热紫者热极黑者胃烂然当看外症所合方可断之春夏之间湿病俱发斑疹为甚如淡红色四肢清口不湛渴脉不洪数`虚斑也` 此非虚斑即属阴或胸前微见数点面赤足冷或下利清谷阴斑也` 此阴盛格阳于上`内真寒外假热逼其无根之火上浮必面赤戴阳` 当温之`如白通汤之类热药冷服不然拒格不受而吐矣` 若斑色紫而点小者心胞热也`点小即是从血络而出之疹热在恼胞` 点大而紫胃中热也`从肌肉而为斑热在胃` 斑黑而光亮者`光亮元气犹充故可救` 热毒极炽虽属不治然其人气血充者依法治之或可救之若黑而晦者必死`黑晦元气败` 黑而隐隐四旁赤色者`四旁赤色气血尚活` 乃火郁内伏大用清凉发透间有转红而可救者又有夹斑带疹皆是邪之不一各随其部而泄`或经或府` 然斑属血者恒多疹属气者不少`热在胃本属气分见斑则邪属血矣疹从血络而出本属血分然邪由气而闭其血方或疹也故治斑疹必当两清气血况欲透发必通其血中之气如赤芍郁金归须之类以佐犀角元参等如清气分则用知母石膏以芩连佐桂枝枝亦可通营清热也` 斑疹皆是邪气外露之象发之时宜神情清爽方为外解里和如斑疹出而昏者此正不胜邪而内陷`虽用扶正开泄如人参至宝丹之类总归死者十之八九` 或胃津内涸之候矣`昏而声音洪厉力气尚强舌干黑无苔用大剂滋养鸡子黄生地黄阿胶之类或可救之苔黑中心燥者救阴中加咸苦下之亦可救之`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "卷上",
+        "第十六論粉白滑舌並斑疹"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "55b9ea1303081140e23390a6c20e28264d909b6058111dae8eb990c57ed359cc",
+      "content_sha256": "15244dcc15dae5592a85da2ffee233ed748eb01b0748c1fd3ea0a0ef7fd555bd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        49
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 747,
+        "simplified_codepoints": 747
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "5d36a3133422a2381201b9f8",
+      "title": "第十七论白㾦",
+      "volume": "卷上",
+      "content": "白㾦小粒如水晶色者此湿热伤肺邪虽出而气液枯也必得甘药补之`此言病久宜然` 若未至久延气液尚在未伤乃为湿郁卫分汗出不彻之故当理气分之邪`辛温疏表如苏梗藿梗使气伸汗出邪达而愈` 枯白如骨者`枯白如暴露人兽死骨色` 多凶气液竭也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 50,
+      "source_path": [
+        "卷上",
+        "第十七論白㾦"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "0b8cd52b604f0582f6d4c3e9aa65f54c1ee56460ba1a67864ea79fe202a39790",
+      "content_sha256": "2248e8a0b5887023c39668f53276a2288d2059b2f038fff00eaee5150785dc3b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "4d985f9955378919b61d7f84",
+      "title": "第十八论齿血",
+      "volume": "卷上",
+      "content": "温病看舌亦须验齿齿为肾之余`肾主骨齿为骨这余故齿浮龈不肿为肾火水亏也` 龈为胃之络`胃脉络于上龈大肠脉络于下龈皆属阳明故牙龈肿痛为阳明风火或湿遏火伏` 热邪不燥胃津必耗肾液且二经之血走于此处病深动血`邪热入胃必连大肠血循经络而行遂动血上溢` 结瓣于上阳血色紫紫如干漆`阳明这血` 阴血色黄黄如酱瓣`少阴之血` 阳血若见安胃为主`鲜地霍斛石膏知母之类` 阴血若见救肾为要`生地阿胶之类` 然豆瓣色者多阴惟病尚不逆者犹可治否则难治矣此何故阴下竭阳上厥也`水不胜火`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "卷上",
+        "第十八論齒血"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "09c97c6a1d14dafff95f7a0acf8c542ef2a82e5cd753aa40b208bf9e1f775927",
+      "content_sha256": "63f1fa7d5ed6181399af95841280ae5a20819eb5402e2811f84fab9bb107c4c5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        53
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "5e3f9033558cc0fcb977d442",
+      "title": "第十九论齿燥具枯",
+      "volume": "卷上",
+      "content": "齿若光燥如石者胃热甚也证见无汗恶寒卫偏胜也`卫阳内郁表气不通故无汗为卫偏胜` 辛凉泄卫透汗为要`泄卫发汗内热即从表散凡恶寒而汗出者为表阳虚腠理不固虽有内热亦非实火` 如枯骨色者肾液枯也`齿燥有光胃液虽干肾气未竭如枯骨色肾液大败` 为难治如上增截润当作燥观上水不上承句可知` 为不上承而心火炎急宜清心救水`黄连阿胶汤` 俟枯处转润乃妥若咬牙啮齿者湿热化风痉病也但咬牙者胃热气走其络也咬牙而脉症皆衰者办虚无谷以内荣也`胃中空内风乘虚而入其络` 此何以故虚则喜实耳舌本不缩而硬牙关咬定难开者此非风痰阻络即欲作痉症用酸物擦之即开酸走肝木来泄土也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "卷上",
+        "第十九論齒燥具枯"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "9c9f0478914422c4af8af8ab472ff749954f316bde99231a6297c23d31a5230b",
+      "content_sha256": "f69b0b3db6c567e167ea72cdd3ce73650924d10ea4c5ffee6c0769bf9bdd5b23",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        55
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 268,
+        "simplified_codepoints": 268
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "3c5a15e82a84267375f54872",
+      "title": "第二十论齿垢",
+      "volume": "卷上",
+      "content": "若齿垢如灰糕样者胃气无权津亡而湿浊用事多死`齿垢由肾热蒸烁胃中浊气所结甚色如灰糕则枯败而津气俱亡肾胃竭惟有湿浊用事故知必死` 初病齿缝流清血痛者为胃火冲激`出于牙龈属阳明故痛` 不痛者为龙火内燔`龙火谓肾火宜壮水主` 齿焦无垢者死`齿焦肾水告涸无垢胃液亦竭故死` 齿焦有垢者肾热胃劫也`有垢者火盛而气液未竭用调胃承气微下胃热` 当微下之或玉女煎清胃救肾可也`肾水亏者用之`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 56,
+      "source_path": [
+        "卷上",
+        "第二十論齒垢"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "99720128b5fdc6c2d6b103dc75d490880f37d23d5b5b200e52f8dbf69cc36318",
+      "content_sha256": "6d70c117d0b81c04c00dfad07656efc4675d4c522a20235f6bff9c7ef878fa76",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 186,
+        "simplified_codepoints": 186
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "3a28f4ae9a12dc67d1d7e3a4",
+      "title": "第二十一论妇人温病",
+      "volume": "卷上",
+      "content": "妇病与男同但多胎前产后及经水适断大凡胎前病古人皆经四物加减用之谓恐邪来害妊也`然邪犹在表分当从开达外解倘执用四物反引邪入里轻病变重故必审其邪之浅深而治为至要也` 如热极者有用井底泥及蓝布浸冷覆盖腹上等`须见邪热逼胎有胎跃不已之象急清内热可用此治否则致热内走反伤其胎` 皆是护胎之意然亦须看其邪之可解而用之如血腻之药不零又当审察`不零当作不宜断无试之不零而后更之清热 解邪勿使伤胎即为保护若助气和气之药犹可酌用若滋腻补血本元未伤而用之恐反遏其邪` 不可固执仍宜步步保护胎元恐正损邪陷也至于产后方书谓慎用苦寒恐伤已亡之阴也然亦要辨其邪以从占解者稍从证用之亦无妨也`上者如宣肺之类中者如疏中和中之类` 不过勿犯下焦`谓肝脾肾初治不善邪陷入脏即死` 且属虚体当如虚怯人病邪而治`此法最妥` 况产后当血气沸腾之际最多空隙邪必乘虚内陷虚处受邪为难治也`产后大伤下元若禀质阳虚者偶伤寒邪饮食泻痢不止脾肾气脱往往二三日即死其阴虚者肝风易炽热邪乘之即成痉者有之故最为难治阳虚者养阴为先` 如经水适断邪将陷于血室少阳`卫脉为血室肝主之少阳为肝之表其脉起于气街气街又阳明胃经之穴故云隶属阳明也` 伤寒言之详悉不必多赘但数动`当作变动或竟作温邪亦可` 与正伤寒不同仲景立小柴原汤提出所陷热邪`从少阳提出` 参枣以扶胃气`必胃无邪及中虚之人方或用之否则肋邪为害` 因冲脉隶属阳明也此惟虚者为合治若热邪陷入与血相结者当宗陶氏`陶节庵有伤寒全生集` 小柴胡汤去参枣加生地桃仁查肉丹皮或犀角等`此因邪血结` 若本经血结自甚必少腹满痛轻者刺期门穴`在左肋` 重者小柴胡汤去甘草加延胡归尾桃仁尾桃仁挟寒加肉桂心气滞加香附陈皮枳壳等`此血结为主` 然热陷血室之症多有讝语如狂之象与阳明胃热相似此等病机最须辨别血结者身体必重非若阳明之轻便者何也险主重浊络脉被阻身之侧旁所痹连及胸背皆为阻窒故云邪通络正合其病往往延久上逆心胞胸中痹痛即陶氏所谓血结胸也王海藏出一桂枝红花汤加海蛤桃仁原欲表里上下一时尽解之此方大有巧妙也血室者营血停止之所经脉留会之处即冲脉是也冲脉者奇经八脉之一脉也起于肾下出于气街并阳明经夹脐上行至胸中而散为十二经之海王水曰冲为血海言诸经之血朝会于此男子则运行生精女子则上为乳汁下为月事用力寒之邪子人则随经而入男子由阳明而传以冲之脉与少阴之络起于肾女子感邪太阳随经便得而入冲之经并足阳明男子阳明内热方得而入也冲脉得热血心妄行在男子则下血讝语在妇人则月水适来盖言男子不独谓妇人也针经曰妇人热人血室有须治而愈有不须治而愈假今妇人中风发热恶寒经水适来得之七八日热除而脉迟身凉和胁下满如结胸状讝语者此为热入血室刺期门穴随其实而泻之假今妇人中风七八日续得寒热发作有时经水适断者此谓热入血室其血必结故如疟状发作有时小柴胡汤主之二者须治而愈者也若发热书则明了夜则讝语如见鬼状此热入血室无犯胃气及上二焦心自愈是不须治而愈者也讝语为病邪之甚者何不须治而愈耶且胸胁满如结胸讝语是邪气留结胸胁而不去者必刺期门随其实而泻之寒热如疟发作有时者是血结而不行也须小柴胡汤散之二者既有留邪必须治之可也若发热经水适来书日明了暮则讝语此经水既来以里无留邪但不妄犯热随血散必自愈经曰血自下下者愈故无犯胃气及上二焦必自愈所谓妄犯者恐以讝语为阳明内实攻之犯其胃气也此无胸胁之邪恐刺期门犯其中焦也也此无血结恐与小柴胡汤犯其上焦也小柴胡汤解散则动卫出上焦动卫气是犯上焦也刺期门则动营气营出中焦动营气是犯中焦也脉以曰无犯胃气及上二焦岂但言药不言针耶邪入血室仲景分浅深而立两法其邪深者如结胸状若讝语刺期门穴随其实而泻之是从肝而泻其邪亦即陶氏所谓之血结胸也其邪浅者往来寒热如疟状而无讝语用小柴胡汤是从胆治也盖往来寒热是少阳之证故以小柴原汤提少阳之邪则血室之热亦可随之而出以肝胆为表里故深则从肝浅则从胆以导泄血室之邪也其言小柴胡汤惟虚者合治何也盖伤寒之邪由经而入血室其胃无邪故可用参枣若温热之邪先已犯胃后入血室故当去参枣惟胃无邪及中虚之人方可用之须知伤寒之用小柴胡汤者正防少阳经邪乘虚入胃故用参枣先助胃以御之`如上言法宜益胃` 共与温热之邪来路不同故治法有异也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 58,
+      "source_path": [
+        "卷上",
+        "第二十一論婦人溫病"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "36dc4505555771b62843aac98c4a2f91eff8287b0037dd11d59d319a412dba58",
+      "content_sha256": "5a1be5061214c1aafdd12d99be914287ef87d29ab042be5ca6e2e44f05c5c3e6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        59
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1689,
+        "simplified_codepoints": 1689
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "f6817619a779ed2c197b1e91",
+      "title": "湿热论",
+      "volume": "卷中",
+      "content": "湿热症始恶寒后但热不寒汗出胸痞舌白或黄口渴不引饮此条乃气虚则病入太阴病在二经之表者多兼少阳三焦病在二经之里者每兼厥阴风木以少阳厥阴同司相火阳明太阴湿郁生热甚则少火皆成状火而表里上下充斥肆逆故最易耳袭干呕发痉发厥而提纲中不言及者因以上诸症皆湿热兼见之变局而非湿热病必见之正局也始恶寒者阳为湿遏而恶寒终非若寒伤于表之恶寒后但热不寒则郁而成热反恶热矣热甚阳明则汗出湿蔽清阳则胸痞湿邪内盛则舌白湿热交蒸则苔黄则液不升而口渴湿则饮内留而不引饮然所云表者乃太阴阳明之表而非太阳之表太阴之表四肢也阳明之有肌肉也胸中也故胸痞为湿热必有之证四肢倦怠肌肉烦疼亦必并见其所以不干太阳者以太阳为寒水之腑主一身之表风寒必自表入故属太阳湿热不尽从表入故不必由太阳况风寒伤营卫营卫乃太阳所司表湿伤肌肉为阳明所主寒湿之属太阳者以太阳为寒水同气相求也湿热之属阳明者阳明为中土火化从阳也湿热之邪从表伤者十之一二由口鼻入者十之八九阳明为水谷之海太阴太阴乃湿土之脏故多由阳明太阴受病膜原者外通肌肉近胃腑即三焦之门户而实一身之半表半里也邪由上受直趋中道故病亦多归膜原要知湿热之病不独与伤寒不同且与温病大异温病乃太阳少阴同病而提纲中反不言及脉者以湿热之症脉无定体或洪或缓或伏或细各随症见不拘一格故难以一定之脉拘定后人眼目也\n湿热之病阳明必兼太阴者人徒知脏腑相连湿土同气而不特此也当与温病之必兼少阴此例少险不藏木火内燔风邪外袭表里相煸故为温病太阴内伤湿饮停聚客邪再至内外相引故病湿热此皆先有内伤再感客邪非由腑及脏之谓若湿热之症不挟内伤中气实者其病必微或先因于湿再因饥劳役而病者亦属内伤挟湿标本同病然劳倦伤脾为不足湿饮停积为有余所以内伤外感孰多孰少孰实孰虚又在治病者之临症时权衡矣\n湿热症恶寒无汗身重头痛湿在表分宜藿香薷羌活苍术薄荷牛蒡子等味头不痛者去羌活\n身重恶寒湿遏卫阳之表症头痛必挟风邪故加羌活不独胜湿用以祛风此条乃阴湿伤表之候\n湿热症汗出恶寒发热身重关节疼痛湿在肌肉不为汗解宜滑石豆黄卷芩皮苍术皮藿香叶鲜荷叶通草桔梗等味不恶寒者去苍术皮\n此条外候与上条颇同惟出汗独异更加关节疼痛乃湿邪初犯阳明之表故略见恶寒及至发热恶寒当自罢矣用药通阳明之表而即清胃脘之热者不欲湿邪之郁热上蒸而欲湿邪之淡渗下走耳此条乃阳湿伤表之候湿热症三四日即口噤四肢牵引拘急甚则角弓反张湿热侵入经络脉隧中宜鲜地龙秦艽威零仙滑石巷耳子丝瓜藤酒炒川连等味\n此条乃湿邪挟风邪者为木气风动则木张乘入阳明之络则口噤走窜太阴之经则拘挛故用药不独胜湿重用熄风一则风药能胜湿一则风药能疏肝也选用地龙诸藤者欲其宣通络脉耳或问仲景治痉原有桂枝汤加括蒌根及葛根汤二方后人屏而不用岂宜于古者不宜于今即今之痉者与厥相连仲景不言及厥岂金匮有遗文耶余曰非也药因病源既异治法自殊故同一发痉而伤寒与湿热之病因不同伤寒之痉自外来症属太阳治以散以外邪为主湿热之痉自内出波及太阳治以熄内风为主盖三焦与肝胆同司相火中焦湿热不解则热甚于里而少火悉成壮火火动则风生而筋挛脉急风煸则火炽而炽乱神迷身中之气随风火上炎而有升无降常度尽失由是而形若尸厥正内经所谓血之与气并走于上则为暴厥者是也外窜经脉则成痉内并胆中则为厥内外充斥痉厥并见正气犹存一线则气复返而生胃津不克支持则厥不回而死矣所以痉之与厥往往相连伤寒之痉自处来者安有是哉 暑月痉症与霍乱同出一源风自火生火随风转乘入阳明则呕贼及太阴则泻名霍乱窜入筋中则挛邪势愈甚不免逼乱无厥者痉则风火闭郁郁则邪势愈甚不免逼乱神明故多厥霍乱则风火外泄泄则邪势外解不致循经内走故少厥此痉与霍乱之分别也然痉症邪滞三焦三焦乃火化风得火而愈煽则逼入胆中而暴厥霍乱邪走脾胃脾胃乃湿化邪因湿而停留则淫及诸筋而拘挛火郁则厥火窜则挛又痉与霍乱之遗祸也\n痉之挛急乃湿热生风霍乱之转筋乃风来胜湿痉则由经及脏而厥霍乱则由脏则由脏及经而挛总由湿热与风淆乱清浊升降失常之故夫湿多热少则风入土中而霍乱热多湿少则风乘三焦而痉厥厥而不反者死胃液干枯火邪盘踞也转筋入腹者死津液内涸风邪独劲也然则胃中之津液关系顾不巨哉厥症用辛泄胸中无形之邪也干霍乱用探吐泄胃中有形之邪也然泄邪而胃液不上升者热邪益炽探吐胃液不四布者内邪益攻终成成候不可不知\n湿热症壮热口渴舌黄或焦红发痉神昏讝语或笑邪灼心胞营血已耗宜犀角连翘羚羊生地元参银花露钩藤鲜菖蒲至宝丹等味\n上条言痉此条言厥湿邪暑邪本伤阳气及至热极逼人营阴则津液液耗而阴亦病心胞受灼神炽昏乱用药以清热救阴泄邪平肝为务湿热症发痉神昏笑妄脉洪数有力开泄不效者湿热蕴结胸膈宜凉膈散若大便数日不通者热邪闭结肠胃宜仿承气微下之例\n此条系阳明实热或上结或下结清热泄邪只能散络中流走之热而不除膈中蕴结之邪胡阳明为出路也\n湿热症热烦渴舌焦红或缩癍疹胸痞自利神昏痉厥热邪充斥表里三焦宜大剂犀角羚羊角生地元参银花露紫草方诸水金针鲜菖蒲等味此条乃痉厥症之最重者上为胸痞下挟热痢癍疹痉厥阴阳舌困独以清阳明之救阳明之液为急务者恐胃液不存其人必自焚而死也\n湿热症寒絷如疟湿热阻遏膜原宜柴原厚朴槟榔草果藿香六一散苍术半夏石菖蒲等味疟由暑热内伏秋凉外束而成若夏月腠理大开毛窍疏通安得成疟而寒热有定期如疟之发作者以膜原为阳明之半表半里湿热阻遏则营卫气争症难虽不得与疟同治故放吴又可达原饮之例盖一由外凉束表一由内湿阻遏也\n湿热症数日后脘中微闷知饥不食湿邪蒙绕上焦宜藿香叶薄荷叶鲜稻叶鲜荷叶枇杷叶佩兰叶卢尖冬瓜仁等味\n此湿热巳解余邪蒙闭清阳胃气不输宜用极轻清之品以宣上焦阳气若投味重之剂是与病情不相值矣\n湿热初起亦有脘闷懊憹汗出口渴眼欲闭时讝语浊邪蒙蔽清阳属在上焦者宜用枳壳桔梗淡豆豉生山栀涌泄法若投投轻清剂又与病情不相当矣说须与第九第十两条参看同一邪在上焦而第九条属虚此说属实且同一实症而第十条邪在中焦此说邪在上焦临症者当慎之\n湿热症初起发热汗出胸痞口渴舌白湿伏中焦宜藿香蔻仁杏仁枳壳桔梗郁金苍术厚朴草果半夏石菖蒲六一散佩兰叶等味浊邪上干则胸痞胃液不升则口渴病在中焦气分故多开中焦气分之药此条多有挟食者宜加瓜蒌查肉菔子舌根现黄色即是挟食症\n湿热症数日后自利溺赤口渴湿流下焦宜滑石猪茯芩泽泻萆薢通草等味下焦属阴所司阴道虚故自利化源滞则溺赤脾不转津则口渴然必不引饮太阴湿故也湿滞下焦故独以分利为治\n此条药味独用分利症兼口渴胸痞须佐入桔梗杏仁豆卷开泄中上源清则流自洁矣不可不知以上三条皆湿重热轻之候\n湿热之邪不自表而入故无表里可分而未尝无三焦可辨犹之河间治消渴以三焦分者是也夫热为天之气湿为地之气热得湿而热愈炽湿得热而湿愈横湿热两分其病轻而缓湿热交合其病重而速湿多热少则蒙上流下当三焦分治若湿热俱多则下闭上壅而三焦俱病矣犹之伤寒门二阳合病三阳合病是也太阴湿化三焦火化有湿无热止能蒙闭清阳或阻于上或阻于中或阻于下湿热一合则身中少火悉化壮火而三焦相火有不皆起而为暴者哉所以上下充斥内外煎熬最为酷烈兼之木火同气表里分司再引肝内痉厥立至胃中津液几何其能供此交征乎至其所以必属阳明者以阳明为水谷之海鼻食气口食味悉归阳明邪从口鼻而入则阴明为必由之道路也其始也邪入阳明早已先伤其胃液其继也邪盛三焦更欲取资于胃液司命者可不为阳明顾虑哉\n可问木火同气热甚生风以致痉厥理固然矣然有湿热之症表里极热不痉不厥者何也余曰风木为火热引动原因木气素旺肝阴先亏内外相引两阳相煽因而劲张若肝肾素优并无里热者火热者火安能招引肝风哉试观小儿一经壮热便成瘛从以纯阳之体阴气未足故肝风易动也湿热症舌遍体白口渴湿滞阳明宜用辛如厚朴半夏草果干菖薄等味\n此湿邪极盛邪尚未蕴结故重用辛以开之使上焦得通津液得下也\n湿热症舌根白舌尖红湿渐化热余湿犹滞宜用辛泄佐以清热宜蔻仁半夏干菖蒲豆卷六一散连翘录豆壳等味\n此湿热参半之证而燥湿之中即佐清热者赤所以存阳明之液也上二条凭验舌以投剂极为临症时要诀盖舌为心之外候浊邪上薰心肺舌肺因而转移\n湿热症初起即胸闷不知人瞀乱大叫痛湿热阻闭中上二焦宜草果槟榔鲜菖蒲六一散芫荽各重用或加角末地浆水煎服\n此条湿热俱重之候而去湿药多清热药少者以病邪初起即闭正未有伤故以辛通散邪为急务不欲以寒凉凝滞病机也\n湿热症四五日口大渴胸闷欲绝干呕不止脉细数舌光如镜胃液胃液受劫胆火上冲宜西瓜白汁金汁鲜生地汁甘蔗汁痞闷再磨郁金木香乌药香附等味此营阴素亏木火素旺者今木乘阳明而耗其津液然幸无饮邪故一清阳明之热一散少阳之邪不用 煎者取其气之全耳\n湿热症呕吐清水或痰多黏腻湿热内留水火上逆宜湿胆汤加瓜蒌碧玉散等味\n此素有痰饮而阳明少阳同病故一以涤饮一以降逆与上条呕同而治异正当合参\n湿热症呕恶不止书夜不瘥欲死者肺胃不和胃热移肺肺不受邪也宜用川连三四分苏叶二三分两味煎汤呷下即止\n肺胃不和最易致呕盖胃热移肺肺不受邪不定还归于胃呕恶不止若以治肝胆之呕治之误矣故必用川连以清湿热苏叶以通肺胃则投之立愈以肺胃之气非苏叶不能通也数轻者以轻剂能治上焦之疾故耳\n湿热症咳嗽书夜不宁甚至喘而不得眠者暑邪入于肺络宜葶苈子六一散枇杷叶等味\n人知暑伤肺气则气虚不知暑滞肺络者则肺实葶苈引滑石直泻邪则病自除矣\n湿热症十余日后大势已退惟口渴汗出骨节疼隐痛不已余邪留滞经络宜元米汤泡于术隔一宿去术煎饮之病后湿邪未尽阴液已伤故口渴身疼此时救则助湿治湿则劫阴宗仲景麻沸汤之法取气不取味走阳不走阴佐以元米汤养阴逐湿两擅其长也\n湿热症数日后汗出热不除或痉忽头痛不止者营液大耗厥阳风火上升宜羚羊角蔓荆子钩藤元参生地女贞等味湿热伤营肝火化风上逆血不营筋而痉作上升巅顶则头痛热气已退木气独张故痉而不厥投剂以熄风为标养险为本湿热症胸痞发热肌肉微痛始终无汗者暑邪伏于腠理内闭宜六一散一两薄荷叶四五分泡汤调下即汗解\n湿热发汗昔肾有禁此不微汗之病必不愈盖既有不可汗这大戒复有得汗始解之治法临症者当知所变矣\n湿热症按法数日后忽吐下一时并至者中气亏损升降悖逆宜生谷芽莲心扁豆米仁半夏甘草伏芩等味甚极者用理中汤之意升降悖逆法当和中犹之霍乱之用六和汤也若太阴惫甚 中气不支非理中不可湿热症十余日后左关弦娄腹时痛时圊血肛门热痛血液内燥热邪传入厥阴之阴宜仿白头翁汤法\n热入厥阴而下痢即不圊血亦当宗仲景治热法若更逼入营阴安得不用白头翁凉血而散邪乎设热入阳明而下痢即不圊血又宜师仲景治下痢讝语用小承气之法矣\n湿热症十余日后尺脉数下痢或咽痛口渴心烦下元不足热邪直犯少阴之阴宜仿猪肤汤凉润法\n同一下痢症有厥少之分则药有寒凉之异然少阴有便脓血之候不可不细审也\n湿热症身冷脉细汗胸痞口渴舌白湿中少阴之阴之阳宜人参白术附子茯芩益智等味肥胖气虚之人夏月多有是病\n湿邪伤阳理合扶阳逐湿口渴为少阴症焉得妄用寒凉耶暑月病初起但恶寒面黄口不渴神倦四肢懒脉沉弱腹痛下痢湿困太阴之阳宜仿缩脾饮冷香冷香饮子甚则大顺散来复丹等法\n暑月为阴气外泄阴液内耗之时故热邪伤阴阳明灼烁宜清滋太阴告困湿浊迷漫宜温宜散古法最详医者鉴诸\n湿热症按法治之诸症皆退惟目瞑则惊悸梦惕余邪内留胆气不舒宜酒浸郁李仁姜汁炒枣仁猪胆皮等味滑可去著郁李仁性最滑脱古人治惊后肝系滞而不下始终目不瞑者用之以下肝系而去滞此湿热之邪留于胆中胆为清静之府藏而不泻是以病去而内留之邪不去寐则阳气行阴胆热内扰肝魂不宁故用郁李仁以泄邪必用酒浸者酒入于胃先走于胆也枣仁之酸入肝安神而制以姜汁者安神而又兼散邪也用药至此乃谓善于驱遗者也\n湿热症曾开泄下夺者恶候皆平独神思不清倦语不思食溺数唇齿干胃气不输肺气不元神大亏宜人参麦冬生谷芽川石斛木瓜生甘草鲜莲子等味\n开泄下夺恶候皆平正亦大伤故见症多气虚这象理合清补元气若用泥滞阴药去生便远\n湿热症四五日忽大汗出手足冷脉细如丝或绝口渴茎痛而起坐自如神清语亮乃汗出过多卫冲外之阳暂亡湿热之邪仍结一时表里不通脉故伏非真阳外脱也宜五芩散去术加滑石酒淬川连生地耆皮等味\n此条脉症全似亡阳之候独于举动神气中得其情噫此医之所以贵识见也\n湿热症发痉神昏独足冷阴缩下体外受客寒仍宜从湿热治只用辛温之品煎汤薰洗\n阴缩为厥阴之外合之足冷全似虚寒矣乃谛观本症无一属虚姑知寒客下体一时营气不达不但症非虚寒并非上热下寒之可拟也仍从湿热治之又何疑耶\n湿热症初起壮热口渴脘闷懊憹眼讝语浊邪蒙闭上焦宜涌泄用枳壳桔梗淡豆豉生山栀无汗加葛根\n若病退后皖中微闷知饥不食是余邪蒙绕上焦法宜轻散此则浊邪蒙闭\n上焦故懊憹脘闷欲闭者肺气不舒也时讝语者邪逼心胞也若投轻剂病必平除云高者越之用栀鼓汤涌泄之剂引胃脘之阳而开心胸之表邪从吐散一了百当何快如之湿热症经水适来壮热口渴讝语神昏胸腹痛或舌无胎脉滑数邪陷营分宜大剂犀角紫草茜根贯仲连翘银花露鲜石菖蒲等味热入血室不独妇女男子亦有之不但凉血并须解毒然必重剂乃可奏功湿热症上下失血或汗血毒邪深入营分走窜欲泄宜大剂犀角生地丹皮赤芍连翘紫草茜根银花等味\n热逼而至上下失血汗血势极危而犹不即坏者以毒从血出生机在是大进凉血解毒之剂以救阴而泄邪邪解而血自止矣血止后须进参耆善后乃得\n湿热症七八日口不渴声不出与饮食亦不却默默不语神炽昏迷进辛香凉泄芳香逐秽俱不效者邪入厥阴主客浑交宜仿吴又可三甲散醉地鳖虫醋炒鳖甲土炒穿山甲生天虫柴原桃仁泥等味\n暑湿虽伤阳气然病久不解必及于阴阴阳两困气钝血滞而暑湿不得外泄遂深入厥阴络脉凝瘀使一阳不能萌动生气有降无升无主阻遏零气不通所以神炽不清而昏迷默默也用入厥阴之药破滞通瘀斯络脉通而邪得解矣\n湿热症口渴胎黄起刺脉弦缓囊缩舌硬讝语昏不知人两手搐搦津枯邪滞宜鲜生地卢根生首乌鲜稻根等味若脉有力大便不解者大黄加入亦可胃津劫夺热邪内扰宜润下以泄徒用清滋无当病情故仿承气之例以甘凉易苦寒正恐胃气受伤胃津不复故也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "卷中",
+        "濕熱論"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "6a0b7985047e84e4ff2f81b241c591a3575d45b7f5c60f402b498be3e5b5cf76",
+      "content_sha256": "eb8ae7e9b964d6bdc28f2052c1727f9a89b8b06e0f998cc17fd85b182718f38d",
+      "paragraph_count": 57,
+      "paragraph_ordinals": [
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 5469,
+        "simplified_codepoints": 5469
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "c1753bd6c695f84f6033d640",
+      "title": "辨表分寒热第一",
+      "volume": "卷下",
+      "content": "书夜头疼浑不了`先提清表分` 身热脉浮邪在表病症看来似一般表寒表热须分晓`点出眉目` 或有汗无汗汗多少且莫管只就脉浮中分出两此绵`是最著眼处` 表寒浮紧或兼弦表热浮数兮或兼滑表长与弦缓寒者身疼惯怕寒`以上旁证之` 频求衣被遮温暖热者虽然也畏风无风便欲开帷幔寒不渴兮热或渴寒舌白苔热黄泽寒者口和热口苦寒减食兮热能食表寒散以辛温味表热辛凉非一例表寒切勿先消食惟恐引邪入里去表热切忌用辛温变成燥热为难治`以治法为收束`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 120,
+      "source_path": [
+        "卷下",
+        "辨表分寒熱第一"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "1c8d2509ff7008b76509ae407bbb2b3768b987be2ce61b5fe302b6540917e8df",
+      "content_sha256": "b50f26f17bc0d12f96230735ab07de910fa3b14eda37f27e094484bbb38976da",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        121
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 206,
+        "simplified_codepoints": 206
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "443ee69ed3d53d218859d0e5",
+      "title": "辨表分虚寒虚热第二",
+      "volume": "卷下",
+      "content": "头痛`表也` 脉浮`或兼大兼弦或兼数兼弦` 按无力`虚也` 表分虚同寒热别表若虚寒必恶寒若进辛温汗难出`若用辛凉必致汗多而近于亡阳矣此下言服辛温之后变象` 气扰翻教身体麻或大热兮或微热胸前微满且欲呕口淡或渴或不渴表如虚热口亦淡必兼微渴思润泽服过辛凉身反痛`此下是服辛凉后变象` 舌形定现微苔色不论大汗与无汗但查热势加猖獗两症皆须补益来寒加姜桂`宜用桂枝汤加耆术甚则加人参干炮姜之类如血虚无汗加当归红花和其阴血` 热芩柴`宜柴芩归芍耆术之类甚则加人参`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 122,
+      "source_path": [
+        "卷下",
+        "辨表分虛寒虛熱第二"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "ac43c4c94778361d5b6f485b2e49c058d39e43a08cebd76d6147a772962b0229",
+      "content_sha256": "0bfa1c7f6f6218719d1d81111b928a7b45eb53e760e7f7bf0565cb3ee0d796c4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        123
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 225,
+        "simplified_codepoints": 225
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "28087ff1133b508fce44d4fe",
+      "title": "辨里寒第三",
+      "volume": "卷下",
+      "content": "里寒脉沉紧或兼缓与迟恶寒骨节痛`五字是表证` 表症似而非胸腹满痛且欲呕或吐或利俱有诸或热或不热手足指冷厥喉有冷涎苔白滑或如猪腰或茶褐此宜桂枝汤去芍加干姜里寒温补是良方甚则加桂附可以复其阳",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 124,
+      "source_path": [
+        "卷下",
+        "辨裡寒第三"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "8f47039438bbaf96098379cbb99d654bfe3662a89e3d6c0e7cbc85f0bcae521e",
+      "content_sha256": "66517980eee8198596debd3c37f68e0eafb7a79dd97554dd2a624d7fed4c9b07",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        125
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 93,
+        "simplified_codepoints": 93
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "0ce3407412e893d97e46a068",
+      "title": "辨里热第四",
+      "volume": "卷下",
+      "content": "里热脉沉`主脑` 数或缓滑以长无论其神昏与清无认其身热与凉唇焦齿黑讝语现舌短苔黑或起芒裂破出血反不渴饮冷小溲长或利清水或便鞭声音洪厉力气强狂发登高弃衣走否且循衣而模床面目或或不赤其色垢`即不赤亦面垢` 浊如薰黄此宜芩连石膏类甚则芒硝与大黄",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 126,
+      "source_path": [
+        "卷下",
+        "辨裡熱第四"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "8c1fa77c9a0f828e6e7de49f7a0f2a7fc49650dca18066d03987d33d8ea51ffd",
+      "content_sha256": "6e09fbd894ea24bb833a16102ccf6e60a49291262082578b7dc8fec14e49a850",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        127
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "c24b15515caad497c20ce5cd",
+      "title": "辨里虚寒第五",
+      "volume": "卷下",
+      "content": "里若虚寒者脉必沉而缓`主脑` 微细按无神救之惟愁晚手足常四逆面色青黑黯渴而不欲饮但觉口中淡惟喜极热汤稍解胸中满或呕或吐或下利或不便心下悸心烦喜躁不思食踡卧恍惚每独语舌带淡墨色或如猪腰或糙米或白苔而润或无苔而燥短缩不能伸望之萎且稿理中四逆急温之否则神昏汗脱了",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 128,
+      "source_path": [
+        "卷下",
+        "辨裡虛寒第五"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "87fa3786422cc4595ce2fc2181cb62718ecaeae6d1571ba0570bb5b2fe276924",
+      "content_sha256": "7042f217dd849b8b37af9b1938aba18f25452e172ef5f670adc482c57e8a84a3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "1221500fe82b1ca2ed2b067a",
+      "title": "辨里虚热第六",
+      "volume": "卷下",
+      "content": "欲知里虚热脉沉而数按无力`主脑` 身热退不净口渴神恍惚与汤测饮之不与亦不讨有思食来食到便先饱舌上略觉燥得汤燥即好或有微苔或无苔或淡红色`淡红色香岩行生用炙甘草汤谓津伤而气无化液也不可用寒凉药` 如桃腮此为里分少津液泻心导赤佐生脉",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "卷下",
+        "辨裡虛熱第六"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "07690f052c7140cb67fd14e05c79c744ba19262c11b27797c4794130fd12bbac",
+      "content_sha256": "a99973f9c1f34090d1a925e918b8ffd327d045537ebe9acb94eb681351c2a06a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        131
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "bdf6b16f04e4fd3b58306cda",
+      "title": "辨假虚寒第七`实热内伏也`",
+      "volume": "卷下",
+      "content": "脉沉细兮或缓长出则迟兮入则疾`主脑` 或伏筋骨按有力`沉实也本宜下` 口中不渴舌燥短`邪入营往往不渴四逆谓热深厥亦深` 不但身凉且四逆神昏讝语口目动状若惊风作痉厥或利清水`热泻` 可不便解下或如烂桃色人事不知歌且哭身轻偏自能起立`大证据` 或吐蛔虫口舌苦辣小便行时长且赤此是虚寒假证现应须解毒和凉膈",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 132,
+      "source_path": [
+        "卷下",
+        "辨假虛寒第七`實熱內伏也`"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "abff24913dfe1461685f18f9494dcb87a2d4e2b12fb7372be070ab4495bc58af",
+      "content_sha256": "160e5ccbd7390423ff2247806993322009fefe30ff79989e37e5c1f24fe47d87",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        133
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 149,
+        "simplified_codepoints": 149
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "40b88d14ff3004267cf4b06b",
+      "title": "辨假实热第八`虚阳上浮也`",
+      "volume": "卷下",
+      "content": "脉浮而大或洪数无奈按之全不见`主脑` 任他热劳如燎原`浮大洪数却是热象按之不见全是虚证然邪盛之脉亦有按之不见教师不可不慎也` 真底实板已先现苔白或黑短不燥或如猪腰或米糙而目俱赤为戴阳谵语发狂手足躁或有汗兮或无汗从卧只求并中蹈舌肿唇齿出血渴饮汤水常不绝内是真寒外假理中八味合生脉煎成冷饮代茶汤庶几虚火归源得误服芩连增躁渴`变成死证` 庸医到此休饶舌",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 134,
+      "source_path": [
+        "卷下",
+        "辨假實熱第八`虛陽上浮也`"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "2cdccdf0f4cf11a7a026ce30793aeaa3133a156847edb31a181fdaf58d7dad42",
+      "content_sha256": "78a0b7394b72271273cfb58decedf0b0024a9acf95d9a1d1d8d72e2a34a01c10",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        135
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 173,
+        "simplified_codepoints": 173
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "aabba5ed890d496302168c5d",
+      "title": "辨渴第九",
+      "volume": "卷下",
+      "content": "渴症须分寒与热热者脉数而口舌`主脑` 身热汗出喜冷饮或兼汤下百杯可`大证据` 此宜花粉与川连加味参同伴白虎虚寒而渴者脉必细兼迟即教洪且大终是数而虚`主脑` 渴喜极热汤稍温便嫌冷有时思得水`大证据` 仍复不能饮此宜生脉中姜附辛以润又有汗下之后亡津液生津之品始为得不宜凉药不宜温`生津为主` 何况诸多辛与热`此非口渴乃口干浊属实热干为亏当生津如酸甘化阴之类`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 136,
+      "source_path": [
+        "卷下",
+        "辨渴第九"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "76aa89a20785fe88ae2b0e79f27f440d8bc54dd7171568d9b410d92cd9e0124f",
+      "content_sha256": "502e48ece26c267f03fb7e0dac17c9065fad85851e43f678f3d2f96779990ee2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        137
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 177,
+        "simplified_codepoints": 177
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "95a27515d2e6983c1d21381e",
+      "title": "辨舌第十",
+      "volume": "卷下",
+      "content": "胃气现于舌上有淡白苔俗医漫消食必致光无胎调理到思食苔白渐生来君不见病有`厚苔` 厚苔满舌者忽然退去光而燥乃为胃气绝之症从此参详便分晓又有大红舌无苔者君火色浮于外盛极将衰欲化灰`无病之人亦常有之宜用附子` 引火归源才得退`舌色纯红必肾气素虚之人无他症而忽现此舌者附子引火归源固合又若敖氏伤寒金镱载纯红为将瘟舌乃热蓄于内而病将发也不问何经宜用透顶清神散搐鼻法亦不可不知` 又有舌黑如淡墨更不须问燥与湿总归肾水克心火阴盛阳衰须早识除非黑起芒刺燥而制阳热结何消说",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 138,
+      "source_path": [
+        "卷下",
+        "辨舌第十"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "f2bbe1180301b942b0987d6e1848202f17fb1b45349da9bd60e7c69245672584",
+      "content_sha256": "7d82d8ef78d5e29785f2754721352a714e622ca6124d5aacb41e64f9e71570ec",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        139
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 227,
+        "simplified_codepoints": 227
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "feb82104612a4916ecb28b86",
+      "title": "辨虚寒舌燥第十一",
+      "volume": "卷下",
+      "content": "舌燥有多般或淡黄或淡白或起微刺或灰色更有望之如燥扪之泽`望之燥扪之泽温证论言舌绛望之似燥手扪之原有津液此津亏湿热薰蒸将成浊痰蒙闭心胞也` 其色或紫而或黑必兼吐利而厥逆神昏谵语词謇涩`舌燥而语言不清因燥而不清可治舌黑而语言不清所谓口虽欲言舌不得前死证也` 脉形微细定如丝或虽洪大终无力`虚寒定案` 急用生脉以养津附姜芩草和耆术`俗医为五味味厚多则用十余粒少则七八粒此不通之论必须钱余方效`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 140,
+      "source_path": [
+        "卷下",
+        "辨虛寒舌燥第十一"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "b0ce1a0b8edc17fb37cf5d867b99ad84f8552c7b21fa803931f507f63f9da913",
+      "content_sha256": "955fc09dd768b83460ec58a1c264c22f5b679e65143b59bda8d89683c5a5ced6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        141
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 193,
+        "simplified_codepoints": 193
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "eb187d54b17c7b11b630cc2d",
+      "title": "辨实热舌燥第十二",
+      "volume": "卷下",
+      "content": "实热舌燥先有地或黄或黑起芒刺`温证论凡舌不拘何色生芒刺者皆是上焦热极也常用青布拭冷薄荷水揩之即去者轻旋生者险` 即使苔轻偏破裂必兼身热焦唇齿渴喜饮冷面目赤并无吐利与厥逆讝语便闭诸症现洪数滑长脉可验白虎承气随变换`随症变换也`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 142,
+      "source_path": [
+        "卷下",
+        "辨實熱舌燥第十二"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "664c37a6232f477d0a331ce28ca825e395eb2e833af6b5d2ca8200364f35cb41",
+      "content_sha256": "155958123d4547e97e91fc518b30706f0cca8536f4f74b536454b4a449e65247",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        143
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "0d52c386d2cd9594aa613adf",
+      "title": "辨寒头痛第十三",
+      "volume": "卷下",
+      "content": "寒头痛脉浮而紧`主脑` 或弦或沉更兼迟恶风与寒四肢冷`大证据` 头喜热物包里之`更有刘河间论头痛属热者亦恶寒喜热缘热为寒闭则其痛甚热气流通则痛止也然上后必复作而益甚为验脉亦必有异` 理中参人桂天麻附子细辛重者加少佐羌防法亦佳",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 144,
+      "source_path": [
+        "卷下",
+        "辨寒頭痛第十三"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "ff3b4be5da3eb7ddd3cdac944432bdf7bcfc2850ad07b099adbb6d74b7b1f2b6",
+      "content_sha256": "5be49d7cb93a15371625c714cfeee224e6e29fb24b0fd51314736690210ad019",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        145
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "ee0f4c83827a5aaec1dd455a",
+      "title": "辨热头痛第十四",
+      "volume": "卷下",
+      "content": "热头痛脉浮而数或滑而长亦有诸口苦舌干渴欲饮痛连风府与风池恶热其常恶风暂此为风热症已显羌防柴葛连翘芩甚则石膏用之验",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 146,
+      "source_path": [
+        "卷下",
+        "辨熱頭痛第十四"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "5cb23c9471f80194ea3384ecb3012cd1a90a7ba65b25b5f16bc82547c48715d8",
+      "content_sha256": "15a948bc24f778962bef6392be0efa94191f4330788e76b7152200d571979039",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        147
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 56,
+        "simplified_codepoints": 56
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "95b8805ddc4b6b2842913884",
+      "title": "辨虚头痛第十五",
+      "volume": "卷下",
+      "content": "虚头痛脉弦而大弦则为寒大则虚`主脑` 痛极不堪喜得按日夜呼叫语声嘶`大证据` 其痛或专在额上遍头皆痛亦有之急宜参芩者术加附子此症失治危即死",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 148,
+      "source_path": [
+        "卷下",
+        "辨虛頭痛第十五"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "2353ae3e2be6fa8a4305a949051c7773419a9228e9c6a0da946118b906e11be7",
+      "content_sha256": "373225f7e03bae58370dca9fb4799e7e5ea807b29ddc63df10d0e3b87cfe7ce3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        149
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 69,
+        "simplified_codepoints": 69
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "e069f1108276197a1cad9c55",
+      "title": "辨风寒骨痛第十六",
+      "volume": "卷下",
+      "content": "风寒骨痛脉弦紧`主脑` 或迟而缓亦有淮身热恶寒手足冷`大证据` 舌上白苔口不渴拘挛偏体酸难忍甚则上呕下利并桂枝汤内手天麻有湿去芍加附稳",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 150,
+      "source_path": [
+        "卷下",
+        "辨風寒骨痛第十六"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "bafb0c0822686d1fa22df2f30bdcd45e02b32e7abae95109fc79e3e29e5e440e",
+      "content_sha256": "4fea04581cef279aff3fd8c8cd2ab2831134e869723426e50f41bff6539c0796",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        151
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "bfddab0f14971068d0cd1ebd",
+      "title": "辨虚骨痛第十七",
+      "volume": "卷下",
+      "content": "脉弦而大数无力`主脑` 或发热兮或不热恶同兮拘急口淡兮神思恍惚大证据` 痛在骨节兮服发散药而痛愈剧此神气伤也合用桂枝与耆术大凡人身诸骨节其数三百有六十是神气之所游行而出入君不见仲景新加汤重用参姜以复阳`桂枝汤加参姜`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 152,
+      "source_path": [
+        "卷下",
+        "辨虛骨痛第十七"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "4d869f6edebf8f59f5ce92afd5f901be559def4a19a79e72f5a4c9270b894c6e",
+      "content_sha256": "5f2fae6ec14cc007c6a9b63de42791ed5f31ca379b7f67e059010c08530b03f2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        153
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "a25b9cac872a3376c07bc16c",
+      "title": "辨虚寒腹满第十八",
+      "volume": "卷下",
+      "content": "脏寒生满`出内经` 病脉迟缓兮或沉紧可虚大兮按无力腹满时减又甚不欲食兮食即呕或泄泻恶寒兮而渴喜热饮姜桂香砂温散之不应再加参术耆",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 154,
+      "source_path": [
+        "卷下",
+        "辨虛寒腹滿第十八"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "bca9b205992bb03935eda8974ebcb2c4692074c4b2bddd3150c9807bfdb0285e",
+      "content_sha256": "5c4a1090362c7e8b6bba9d1d5c28ea48f5963341e96aff48cc7bbe49f7890e91",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        155
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "0af96b2852097be1d90ed7ac",
+      "title": "辨实热腹满第十九",
+      "volume": "卷下",
+      "content": "脉沉而实`主脑` 兮或滑与长兼腹满`证据` 不减兮减亦不足言`二句出金匮` 大便虽解而不畅兮或得解而少宽满腹硬痛不可按兮无吐晕等虚症之相参此宜枳朴以消之甚则加大黄参其间",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 156,
+      "source_path": [
+        "卷下",
+        "辨實熱腹滿第十九"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "e78b3b71bfe485918de5ebdc1e94d92f72383acfdc6826211678e2853478e640",
+      "content_sha256": "a36853d24cfba1e5a7055b0b1cd6b28834db2d91e0b7954f3c36ab31d5f037a9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        157
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "a30c9768f829e06a5a33a1a8",
+      "title": "辨虚寒不大便第二十",
+      "volume": "卷下",
+      "content": "大便不通群呼热不知寒凝亦敛结腹不满兮不渴`颖案` 白滑胎兮弦紧脉`定案` 上属虚寒无浪攻照常饮食`切不可饥` 且从容迟之一二十日后温补足时气自通",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 158,
+      "source_path": [
+        "卷下",
+        "辨虛寒不大便第二十"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "f62786e4c2708e37b2c99c5ef7cdbfc8e06f4a81f70eaa5bba2b6663a9e3d558",
+      "content_sha256": "092d23a43aa908b1764579ff8cb3734625c5b2aa3014c33cb41f323c3542705b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        159
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "fd2d04b557157ac65575f583",
+      "title": "辨实热不大便第二十一",
+      "volume": "卷下",
+      "content": "脉数有力长滑甚烦渴腹满按之硬或潮热兮食即胀时有浊气从后并此为胃热宜下之`凡服下药燥粪已来又得溏泄此已解也如服下药但利清水一二次又无燥屎痞满如故此未解也再当下之如服下药二三次仍不通者此肠胃枯涩也当下取之取之而不通者死` 一有虚症须纲审`大约实症一下即愈一有虚症便须细审即必当下者亦中用凉隔以微利之解毒以和之陶氏黄龙汤以补而下之` `陶节庵黄龙汤即大承气汤加参归草桔姜枣`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 160,
+      "source_path": [
+        "卷下",
+        "辨實熱不大便第二十一"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "978cc902e5b93ad26d83ca25ab4f4d23d2e798f5f5262db21f43ef9c3e209201",
+      "content_sha256": "4e413849ba1700e9142d5ccd5ce5e12636ab19e52cbeaea147ba76ab2c56e327",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        161
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "8d2ac805640fc74dda927985",
+      "title": "辨小便不通第二十二",
+      "volume": "卷下",
+      "content": "小便不通分虚实虚则三焦失其职屡经利水不相合此宜金匮肾气丸治其三焦决渎官象牙生煎服亦安实者人素强或好食热物肺热不能通水道以致膀胱成热结宜用猪芩泽泻栀滑石用后仍不效须向膀胱寻外窍经说毫毛是其应`经曰三焦膀胱才腠理毫毛其应是三焦主腠理膀胱主毫毛膀胱有出窍而无入窍济泌别汁而渗入膀胱者也毫毛是其外窍譬如水注塞其上窍则水不能出矣如人不虚利小水而仍不通者宜发其汗外窍通而内窍亦通此所谓开鬼门也` 改从发汗最为妙又有动其胞中血虚寒实热随症别虚寒便温补热则而养血因症施方不可执",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 162,
+      "source_path": [
+        "卷下",
+        "辨小便不通第二十二"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "3cad431294a6038a98d962a2229508293e4246cf874041f70db7b954ca0825fd",
+      "content_sha256": "24d740a2b22a6cbdc668c207e2a49c50813038447940f1c24edcf796bf5f4c98",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "bb0a1547c786ea33f18a87ff",
+      "title": "辨呕第二十三",
+      "volume": "卷下",
+      "content": "其人受暴寒`审问` 或食生冷物吐酸`证据` 并干呕平胃正气合脉滑`主脑` 胃有余饮冷不喜热`证据` 服温热药呕愈甚黄连竹茹佐姜汁`温热症肺胃不和每有呕吐用黄连四分苏叶五分泡汤吃即止` 兼虚参以参加入脉或虚大数`主脑` 无力呕吐清涎`虚寒呕证据` 及冷沫胃虚不能容谷食闻食即哎`胃阳竭矣` 食反出人参理中最为良丁得附子加亦得脉滑有力`主脑` 症不虚胸满按之痛`证据` 愈剧全、合用朴实与二陈此谓中焦之呕`东垣语` 从乎积",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "卷下",
+        "辨嘔第二十三"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "6ce5d2c7a68fc77a8be91cc90136ce6649e3d69feb98216f97051fedf0d1847d",
+      "content_sha256": "698f25d98f2656504185ab9d054cc870db30f61b5319c5c0c2353879aba1fd30",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        165
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 209,
+        "simplified_codepoints": 209
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "538946138a6137c08eb2b46f",
+      "title": "辨吐蛔第二十四",
+      "volume": "卷下",
+      "content": "热厥吐蛔蛔必多`凡属吐蛔无论热与寒切忌凉药`人情清楚脉形和随生随吐无烦燥泻其湿热勿蹉跎厥阴伤寒属风木吐虫兼吐水清缘手足厥冷`主脑` 烦躁甚乌梅丸义君须读",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 166,
+      "source_path": [
+        "卷下",
+        "辨吐蛔第二十四"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "b6d81476a70e1bdb7adac308e1c5821493bd68633bd17e94452e1515b450a9cf",
+      "content_sha256": "16e44935d1f75d87e0b8230e0118f27d3bd684d7df7fabf52bb821f8fe8cdc6a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 76,
+        "simplified_codepoints": 76
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "55a96acc23cfe08eee82addf",
+      "title": "辨汗第二十五",
+      "volume": "卷下",
+      "content": "虚汗须分阴与阳最虚`凡服发汗药不可太过过则反致阳虚如服一剂无汗再作汤与之后无汗此营卫乏绝法当义阴转正而再汗之三治无汗者死` 自汗补其卫`其人素虚或劳伤或大病后腠理虚阳不能卫外而为固则自汗宜用参者五味芩术甚则加桂附如干姜半夏陈皮开达之工皆不可用` 盗汗归之阴气虚参甘归地从其类`人卧则血归于肝阴虚而不能为守则盗汗宜参芩耆术五味归芍生熟地之类` 惟有阴明邪并来热气薰蒸毛窍开汗出溱溱常不止但宜凉解得和谐`汗有心家血液之汗太阳津液之汗俱不可出惟阳明水谷阳明水谷之汗虽出无害故阳症伤寒热气薰蒸毛窍开发溱溱而自出亦犹滚汤盛于器中热气上蒸而外湿也若汗不出热气不得泄必郁而发黄即宜用清凉以解其热而汗自水必用止汗之药` 更有伤寒病久无汗出大剂参耆柴桂合顿然出汗退其热景岳书中亦曾说",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "卷下",
+        "辨汗第二十五"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "d7362419a8d0ba5c41e7012ad8eba38f9c1961560078926c4d08678be83ad005",
+      "content_sha256": "04b546ecb37740dc5bb403a1a2e1bc77446737307bb75a782637cffa2caf9e7c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        169
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 332,
+        "simplified_codepoints": 332
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "ab38702cbb57910b11a7a8c4",
+      "title": "辨讝语第二十六",
+      "volume": "卷下",
+      "content": "讝语是多言皆因胃液干就中讝语有实象讝字从严侃侃然旋转风轮难自主才呼四便张三郑声气短神萧索`郑声者声如郑卫之音不能正也孔子曰恶郑声之乱雅乐经曰虚则郑声盖因汗下过多表里虚竭以致阳脱阴胜其人正气衰而本音失精神夺而语句重手足并冷神昏舌短音响模糊与谵语迥不相同此症十无一治不得巳姑与独参汤或白通汤` 郑重频烦不厌复一样逢人讲话多不曾说南又道北设使讝语郑大半属无稽是则名为妄虚实皆有之若夫似睡非睡间隐隐约约如交谈此为独语未全乱各从脉症细详参",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 170,
+      "source_path": [
+        "卷下",
+        "辨讝語第二十六"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "1bf0806844436ed3ba5bdf5b799b14488bc71d8306eee95a73e6c66b5c80ee9d",
+      "content_sha256": "b176b399556e441ce194af3e45c06b9be39681f307064bca703f3da037d57783",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        171
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 214,
+        "simplified_codepoints": 214
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "7290598875d86b732f52e512",
+      "title": "辨面目赤第二十七",
+      "volume": "卷下",
+      "content": "面目赤有三须从脉症参阳气郁于表辛凉可散焉里热薰于上白虎及黄连无根火外浮盯是内真寒八味生脉煎冷饮假对假兮古所传",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 172,
+      "source_path": [
+        "卷下",
+        "辨面目赤第二十七"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "8f60180cd4460eb524d9bb1337ac443cd6dce8cfeca7f50da9f89319efe4a2de",
+      "content_sha256": "02bc880a7d0e85cc84a893848cf1a7ec99aa26148872930008aee37a4ce51b71",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        173
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 54,
+        "simplified_codepoints": 54
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "0bae7b95f31189f93c10b5dd",
+      "title": "辨下利第二十八",
+      "volume": "卷下",
+      "content": "下清谷者为虚寒下清水者为实热惟在脓血稀溏和汁沫此三件中细详别假如作呕不食兮腹痛喜按心恍惚而烦兮或动悸与头眩燥而不欲饮兮头眩耳鸣而口淡后重逼迫兮既解而仍不减脉弦数而虚大兮皆虚寒之外现苟脉症之反是兮即实热之证验",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 174,
+      "source_path": [
+        "卷下",
+        "辨下利第二十八"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "f60263bc01c5f90d1bf9b49f339744c62dcdcbb3b39890d7f237597c8944863c",
+      "content_sha256": "abe7270fd21ed621b5fcae0fc395006cb227b591a7a7c81c5fe5f0c7bc7ff061",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        175
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 103,
+        "simplified_codepoints": 103
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "8e24c3aa1ccc3673ad3d8279",
+      "title": "辨厥第二十九",
+      "volume": "卷下",
+      "content": "手足冷时为四逆厥才其冷过肘膝仲景伤寒俱禁汗无论阳厥与阴厥阳厥是传经病自三阳迸入阴热极必兼胜化行还有始热终寒因药误也能转入阴寒路执定传经亦是错阴厥是直中喻氏中寒论当诵寒邪斩关直入来急救直阴休梦梦还怕热邪深入血顿然厥冷身无热君不见吞痧样子忌热汤不比中寒一例说总之脉症要详参茎草拈来生杀间阴厥谵渴阴吐涎阴者身轻阴者踡复看其人唇爪甲青紫为热青黑寒又有痰厥食厥和尸厥病久阴阳二气虚亦厥各等各样在淮绳步步须求脉症合",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 176,
+      "source_path": [
+        "卷下",
+        "辨厥第二十九"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "a6fb02972272b4e714636e07714ccef404f46e5fa9efe570dd1ee962fc19a93d",
+      "content_sha256": "71ecfe03367c84ccb14f18a346974dda03c8b4eaacfa2e30f163d2c9109d9ab2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        177
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 201,
+        "simplified_codepoints": 201
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "3e20a49f71623b016974f1d9",
+      "title": "辨腹痛第三十",
+      "volume": "卷下",
+      "content": "腹痛是虚喜揉按虚者必寒病涉阴脉迟缓兮或虚大诸多虚象察其因理中桂附可施行热者面黄泽加以长滑脉宜用黄连苦清热少佐姜萸亦相得`治脾寒泄泻腹痛仿仲景温下之法先去其滞而后调补勿畏虚以养病` 更有欲呕不呕腹痛多寒热其如错杂何黄连汤内干姜桂好共参甘两下和食痛应消食`凡治伤寒须按其腹痛与不痛硬与不硬若腹中痛与硬者此燥屎也脐下硬而痛者此燥屎与蓄血也脐下筑筑然痛上冲于心者此奔豚气也腹中气响下趋者欲作泻也燥也燥屎者小便不利而脐下如疙瘩状蓄血者小便利而脐下如怀孕状` 难在虚寒兼仿积学士温脾法可宗`许学士有温脾汤见本事方` `许叔微温脾汤干姜肉桂心熟附子炙甘草枳实厚朴大黄` 化为煎法尤慰贴`有虚寒之人患腹痛服温补药而相安时止时作痛仍不解甚则清水或白沫此虚中有实或先有宿食在肠不曾去或病中肠胃虚不能运化所食之物停于肠中即一二块宿粪亦能作楚宜用温补药煎好去渣人大黄一钱不甚虚者可加一钱五分滚四五沸服之宿食自下正气不伤而病随愈此屡试屡验之妙法也` 虫痛面黄吐涎沫食酸即安甜即剧虚实寒热要分晓杀虫方中求配合气痛因郁恼心运脘与两病久人必虚滋补兼疏郁痛不可近者按之濡软为蓄血不比硬满为热结重则桃仁承气汤轻者宣通微下夺别有吞痧现湿热薰蒸邪变幻急刺委中出血良磨服玉枢丹亦善最怕是三阴寒症认为痧不饮温汤饮冷茶乱进丹丸并放刮临危空自悔前差",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 178,
+      "source_path": [
+        "卷下",
+        "辨腹痛第三十"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "3a8971556692f5de3ee8da19d76d5fd4d11242082120478e5720f05e8056859e",
+      "content_sha256": "558cd2f265c081cf4b7045d88294e558a69001dbada1b3b717eb984442828761",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        179
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 550,
+        "simplified_codepoints": 550
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "10d96307de1c7ee33ef0eacd",
+      "title": "辨脉脱第三十一",
+      "volume": "卷下",
+      "content": "六脉俱脱者大命垂危矣`神昏脉脱者死神清脉脱者亦者` 通脉四逆急服之`仲景四逆汤中姜附草三阴厥逆太阳沉或益葱姜参芍桔通阴复脉力能任` 还怕脉因暴出死但得脉来微续生更需附子四五枚人参小半周时服尽休间断随进米粥始回春参力偶不继前功必尽弃平时无学力到此滋疑惧每见虚寒之极服温补躁乱不宁`换阳也` 呕且吐此为药力尚未全切莫心疑换别路大约三阴病症露危剧急则六日三日缓则行期十二日幸而君火未全衰反见舌干等症出更须姜附助其阳渐得阴回舌生液`景岳六味回阴饮又增地归姜附草人参诸虚则甚阴阳脱此剂扶危力可任四味回阳用理中以术易附力加雄元虚虚脱垂危顷温服徐徐定有功` 若见舌干投凉剂坏`切戒切戒` 乃百年人寿事起手果然认行真断不朝三与暮四君不见景岳全书用法精十补一清巧相济又不见嘉言寓意重叮宁阴症转阴必自愈济困扶颠道在斯一有游移去更有虚寒服药来温补不安凉适意两寒相得从其类正气败坏决不治至于实热失汗下脉伏似脱君休怕大承十枣用即安神气分明现真假须知实热治可缓凉泻一投拨便转不比虚寒救济难仁术全冯思与辨",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 180,
+      "source_path": [
+        "卷下",
+        "辨脈脫第三十一"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "0a810b90d10f35dfdb47c5e3558d52c9559295fb5ea1596a5cd811e68c95476f",
+      "content_sha256": "9d38a1842d41a223a303ba185998663a6189a6031c92b17414689e01d5b571c0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        181
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 437,
+        "simplified_codepoints": 437
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "b5eb3c207a49c1516a68d898",
+      "title": "司天在泉歌",
+      "volume": "卷下",
+      "content": "子午少阴君火天阴明燥金应在泉丑未太阴太阴治寅审少阴厥聊卯酉劫与子午倒辰戍巳亥亦皆然每岁天泉四间气上下分统各半年卯酉与子午倒 辰戍与丑未倒 巳亥与寅申倒\n子午年`少阴君火司天阳明燥金在泉` 丑未年`太阴湿土司天太阴寒水在泉` 寅申年`少阴相火司天厥阴风木在泉` 卯酉年`阳明燥金司天少阴君火在泉` 辰戍年`太阳寒水司天太阴土在泉` 巳亥`厥阴风木司天少阴相火在泉`",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 182,
+      "source_path": [
+        "卷下",
+        "司天在泉歌"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "ce610f7dd1810aec6f0ba36a17677396a4d35c84910819c3456e19237daba23f",
+      "content_sha256": "ae11e7eeaf06f78ab0b3ef7d7d91dd6e1bf20e70435098299420d6c7e91b0bba",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        183,
+        184
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "f13225896d2d9c307cd85288",
+      "title": "看病须必先炽病",
+      "volume": "续集",
+      "content": "凡看伤寒至要看各经中死证脉亲须一一理会过免致临病疑惑但见死证便以脉参之如果有疑切莫下药虽至亲央浼亦莫乱治倘有挫失咎将归已\n凡看伤寒初学后生须要治其病之可晓者缺其不可晓者胸中证不明白有一毫疑惑不可强治故君子不强其所不能若不能若不量力私亲故或见利而动轻易玩弄新人命如草芥非君子之用心也谨而敬慎母怠母忽初得伤寒一二日头痛恶寒皆除便觉胸中连脐注闷疼痛脉沉有力坐卧不安上气喘促不候他证便可下药若头项强痛恶寒发热每日如此不以日数多少尚在太阳经止宜发汗要随在其所见之表时而治之不拘于日数也若烦渴欲饮水由内水消竭欲得外水自救耳大渴欲饮一升止与一半常今不足不可过饮若恣饮过量则为水结之证射于肺为喘为欬留为噎为哕溢于脾为肿蓄于下焦为癃皆饮水之过也\n病若经十余日以上以有下证者止宜大柴胡汤恐承气太峻盖伤寒过经则正气多伤故也\n病七八日未得汗大便闭发黄生斑谵语而渴越脾桃仁汤主之\n病八九日已汗下脉尚洪数两目如火五心烦热狂叶欲走三黄石膏汤主之病五六日但头汗出身无汗际劲而还小便自利渴饮水浆此于血证也看上中下分虚实而治之犀角地黄汤治上桃仁承气汤治中抵当汤当丸治下病六七日别无刑克证假忽然冒昧不知人事六脉俱静或至无脉此欲汗忽攻之如久旱将雨六合阴晦雨后蔗物皆苏换阳这吉候也\n夫今人治伤寒一二日间不问属虚属实便用桂枝之类以类以汗之三五日后不问在表在里便用承气汤之类一之多致内外俱虚诸变蜂起大抵病人虚实表里不同所以邪之传变有异岂可以日数为淮为盖有即传者有传一二经而止者有始终只在一经者不必拘始太阳终厥阴也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 186,
+      "source_path": [
+        "續集",
+        "看病須必先熾病"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "cf5dcf8ef341bc677ffd8b8e4561b09b3ecec4c9248e027c479f07516cfeec99",
+      "content_sha256": "3bf08b6fa603bc34249744bf27a6afa0d2364353099223033e68887cd0462687",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        187,
+        188,
+        189,
+        190,
+        191,
+        192
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 633,
+        "simplified_codepoints": 633
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "b2c31419ab28984397d94db3",
+      "title": "阴证",
+      "volume": "续集",
+      "content": "初病无热便四肢厥冷或胸腹中满或呕吐腹满痛下利脉细无力此自阴证受寒即真阴证非从阴经传来便宜温之不宜少缓经云发热恶寒者发于阳也无热恶者发于阴也治宜四逆汤凡腹痛悉是阴证只有微甚不同治难一概腹痛不大便桂枝芍药汤腹痛甚桂枝大黄汤若自利腹痛小便清白便当温理中四逆看微甚用轻者五积散重者四逆汤无脉者通脉四逆汤使阴退而阳复也\n阴毒病手足指甲皆青脉沉细而急者四逆汤无脉者通脉四逆汤阴毒甘草沁脐中葱熨气海关元著艾可二三百壮仍用温和补气之药通内外以复阳气若俱不效死证也\n凡看伤寒惟阴证最难识自然阴证人皆可晓及至反常则不能晓矣如身不发热手足厥冷好静默不渴泄痢腹痛脉沉细人共知为阴证能至于发热面赤烦躁不安揭去衣被饮冷脉大人皆不识认作阳证误投寒药而死者多矣必须凭脉下药至为切当不问浮沉大小但指下无力按至筋骨全然无力必有伏阴不可与凉剂急与五积散一服通解表时之寒随手而愈若内有沉寒之甚须用姜附以温之秘之勿汇脉虽洪大按无力者重按全无便是阴证凡治伤寒服药不效斑烂皮肤手足皮俱脱身如涂朱眼如火燥渴欲死脉洪大而有力不知人宜三黄石膏汤主之\n凡看伤寒须问病人有何疼痛处所苦所欲欲饮食大便并服过何药问有吐蛔者虽有大热忌下凉药犯之必死盖胃中有寒则蛔上入膈大凶之兆急用炮姜理中汤加乌梅二个煎服蛔安却以小柴胡汤退热盖蛔性闻酸则静见苦则安故也\n凡看伤寒有口沃白沫或唾多或流冷涎俱是有寒吴茱萸汤理中真武汤之类看轻重用切忌凉药杂病亦然或用甘草温补无气四君子汤加附子片血虚用仲景八味丸",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 193,
+      "source_path": [
+        "續集",
+        "陰證"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "c55f90df94cba1d1c8a25d05e8b99791316266bf2073c0b4159b8609d6e6b4cf",
+      "content_sha256": "2a32a436fc8a0292cf7e1169402afbd9dd8d074c51fb58fe184c9201226fb209",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        194,
+        195,
+        196,
+        197,
+        198
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 612,
+        "simplified_codepoints": 612
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "b105afe8ee59e759ff9d4a1e",
+      "title": "伤暑",
+      "volume": "续集",
+      "content": "伤寒与伤寒俱有热若作伤寒治则大误盖寒伤营热伤气伤寒则外恶寒而脉浮紧伤暑则不恶寒而脉虚此为异耳经云脉盛身热得之伤寒脉虚身热得之伤暑治宜小柴胡汤柴汤柴胡宜酌用渴加知母石膏或人参白虎汤天久淫雨湿今大行苍术白虎汤若元气素弱而伤之重者清暑益气汤治之",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 199,
+      "source_path": [
+        "續集",
+        "傷暑"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "c2693373e672fc970ed4518d5256d719fadb984fcd4d2979fbaff707249057dc",
+      "content_sha256": "a36cabd406b9ffa68e4a38eabc778e3e08a910c71a0510335c7ff4a58aefc5ef",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        200
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "3a6072ae319a5657d8b80555",
+      "title": "急下急温",
+      "volume": "续集",
+      "content": "凡言急下急温病势已迫将有变也非若他病尚可少缓如少阴属肾水主口燥咽干而渴乃热邪内炽肾水将绝故当急下以救将绝之水如腹胀不大便土胜水也亦当急下阳明属土汗多热盛急下以存津液腹满痛为土实急当下之热病目不明热不巳者死目睛不明肾水巳竭不能照物则已危矣急须下之少阴急温有二证内寒已甚阳和之气欲绝急宜温之无疑也\n少阴病自利纯青色心下必痛口燥咽干急下之大承气汤\n少阴病六七日腹胀不大便急下之大承气汤\n阳明病发热汗多胃汁干急下之大承气汤 汗出不解腹满痛急下之大承气汤\n少阴病脉沉微急温之四逆汤\n少阴病膈上有寒饮干呕不可吐急温之四逆汤",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 201,
+      "source_path": [
+        "續集",
+        "急下急溫"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "191e59266c162eec0a6624442fe33b936602447b9bd573c019724967132f2015",
+      "content_sha256": "901cb9c27ba7b9060ca3e047df582696d9ba409e978795bf1ce81457a8e802c7",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        202,
+        203,
+        204,
+        205,
+        206,
+        207
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 255,
+        "simplified_codepoints": 255
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "b91ffd13963d15005fc55b6b",
+      "title": "生死脉候",
+      "volume": "续集",
+      "content": "阳证发热不退见阴脉者死若得汗热退见阴脉者瘥阴阳诸证脉平吉伤寒下利厥逆烦躁不得卧者死\n伤寒咳逆上气脉散者死形损故也\n唇物反青四肢热习习汗出肝先绝也\n阳反独留体如烟薰摇头直视心先绝也\n环口黧黑汗发黄脾先绝也\n脉浮而滑身汗如油喘而不休水浆不入肌肤不仁乍静乍喘汗出发润肺先绝也\n溲便遗失肾先绝也\n脉三部紧盛大汗出不解者死\n阴阳俱虚热不止者也\n身热气粗见阳脉而躁者死\n汗出微热不解未可言死若脉如转索即死\n谵语微热脉浮大手足温欲汗出但汗暴出者死\n热病七八日脉不软不散者当音哑不言三四日汗不出者死\n温病三四日以下不得汗脉不疾者生脉细小难得者死\n温病下痢腹中痛甚者死不治\n温病汗不至足者死\n温病二三日身体热腹满头痛饮食如故脉直而疾者死四五日头痛腹满而吐脉来细僵者死八九日头不痛目不赤色不变而反下利脉来□□按之不弹手或时大心下坚者死不坚硬者生\n热病七八日其脉微细小溲不利加暴口燥舌焦干黑者死",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 208,
+      "source_path": [
+        "續集",
+        "生死脈候"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "9f885b39eff2e77fcd1e5a47346372a7c4f5bad52d7c9e5c34fa3a0de5fbaba0",
+      "content_sha256": "c26b7f01d673b7c4203f29adee7fc9d54d7f96ff85d52d74110567a81f10bb47",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 386,
+        "simplified_codepoints": 386
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "b806f742eb6ca9ad30c25d15",
+      "title": "厥分寒热辨",
+      "volume": "续集",
+      "content": "或曰人之手足乃胃土之末凡脾胃有热手足必热脾胃有寒手足必冷理之常也惟伤寒有厥深热亦深厥微热之论何耶曰胃寒手足冷胃热手足热固巳若夫极则变不可以常道拘也盖亢则害承乃制火气亢极反见化水如金银等烈火烁烊与水无异阴阳反复病之逆从未可以常理论也凡经言厥逆厥冷手足寒冷等语皆变交耳不可以论轻重若言四肢则有异亦未可纯为寒证若厥冷直至臂胫以土则为真寒无疑急用姜附等药温之少缓则难疗谓其上过手肘下过足膝非内有真寒达于四肢而何然更当凭脉并所见之证参之庶乎其无误也凡看伤寒不可以厥逆便断为寒必须以兼证参之方知端的如手厥逆兼以复满泄利清白小便亦清口不渴恶寒战栗面如刀刮皆寒证也若腹满后重泄利稠黏小便亦涩渴而好饮皆热证也宜详审之",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 227,
+      "source_path": [
+        "續集",
+        "厥分寒熱辨"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "f32fa9455ea5bf2d5aa70aec929f00657c046e27cffd2f4ca8ba49942b85cdf6",
+      "content_sha256": "527414c69a26769531c9438760e4956d13c00fc6a09c36291888233db32314a6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        228
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 299,
+        "simplified_codepoints": 299
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "6272cebc66b5e609f637faa3",
+      "title": "结胸解",
+      "volume": "续集",
+      "content": "结胸之证尝见世俗不问曾下与否但见心胸满闷便呼结胸而与桔梗汤治之盖本朱奉议之说也有频频与之反成真结胸者殊不知结胸乃下早而成未经下者非结胸也乃表邪传至胸中未入于腑证虽满闷尚为在表正属少阳部分只宜小柴胡加枳壳以治如未效则本方对小陷胸汤一服豁然其效如神但秘之不与俗人言耳若因下之而成者方用陷胸汤凡丸分浅深而治之不宜太峻盖上焦乃清道至高之分若过卜则伤元气陷胸汤丸宜从缓而治这尝读仲景伤寒论结胸条之病发于阳而反下之热入因作结胸病发于阴而反下之因作痞所以成结胸者以下早故也成氏注释曰发热恶寒者发于阳也无热恶寒者发于阴也再三熟玩不能不致疑其间盖无热恶寒者寒邪直中阴经真阴证也非阳经传至阴经之病若误下之不死即巳危矣岂可以泻心汤热相参之药治之而愈乎岂反轻如结胸乎详此恐言当卫阴阳也风属阳阳邪伤卫头痛发热微盗汗出反恶寒者当服桂枝汤止汗散邪医者不达而不之卫气重伤胸中结硬经又云结胸脉浮大者不可下下之即死结胸证悉具而烦躁者亦死盖卫出上焦清道受伤不重也故也用陷汤峻利之药下之寒者阴阴邪伤营当以麻黄发表误下之而成痞满者宜泻以理痞盖营出中焦黄连能泻心下之痞邪陷于膈不犯清道则元气不伤故轻于结胸耳若阴经自中之寒以泻心理之而可愈吾不信也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 229,
+      "source_path": [
+        "續集",
+        "結胸解"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "d9ccdcedf5a9b2e9b0db78d7dc6c271fb2a49f24f743e1832dd58c40374c004d",
+      "content_sha256": "36ca044aad47542703623ad87f531536fd3180fa94bf766a3a51dc683e8e3443",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        230
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 500,
+        "simplified_codepoints": 500
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "36da85f271742fb837d4632e",
+      "title": "伤寒合病并病论",
+      "volume": "续集",
+      "content": "赵嗣真曰吾尝疑合病并病之难明也久矣因始释之合病者二阳经或三阳经同受病受病病之不传者也并病者一阳先病又过一经病之传者也且如太阳阳明并病一证若并而未尽是传未过尚有表证仲景所谓太阳未罢面色赤阳气费怫郁在表不得越烦躁短气是也又当汗之麻黄汤桂枝各半汤若并之已尽是传过仲景所谓太阳证罢潮热手足汗出大便硬而有谵语者是也法当下之以承气汤是知传则入腑不传则不人腑所以仲景论太阳阳明合病止出三证如前论太阳明明并病则病则言其有传变如此三阳互相合病皆自下利仲景太阳阳明合病主以黄芩汤少阳阳明合病主以承气汤至于太阳少阳并病其证头痛强痛眩冒如结胸心下痞便当刺大椎肺输肝输不可汗下太阳阳明并病已见上论但三阳合病仲景无北景强恶寒语句虽别有口燥渴心烦背微恶寒者乃属太阳证而非三阳合病也三阳若与三阴合病即是两感所以三阴无合病例也",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 231,
+      "source_path": [
+        "續集",
+        "傷寒合病並病論"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "7870f85bbd15ae68869b525c07612af786f135c434086c50647aa62c9023c0ab",
+      "content_sha256": "b9fa7bd27f30606473609b70365a154680545768d7b0fe8ff6e6c1375b78e8a1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        232
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 346,
+        "simplified_codepoints": 346
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "f6acf5083038a666569a5a4d",
+      "title": "伤寒别名",
+      "volume": "续集",
+      "content": "语无伦者曰谵语实则谵语也外语大便秘小便赤\n声重曰郑声虚则郑声外语大小便利而手足冷也\n下泄曰转矢气\n大便坚小便利曰脾约\n大便如常曰清便自调`或云自可`\n水谷不化曰下利清谷\n伤寒十三日曰过经\n阴病发躁曰阴躁属少阴\n手足逆冷曰厥`在阴厥阳厥二证`\n手足指头微冷曰清`属二阴`\n肌肤冷或下利而发躁无时暂安曰脏厥\n两手无脉曰双伏一手无脉曰单伏\n男子病新瘥而妇人与之交阴肿小腹绞痛者曰阳易女子病新瘥而男子与\n之交里急腰胯连腹内痛者曰阴易\n冬应寒而反温人暴感之而病者曰冬温\n非时暴寒伏于少阴之经咽痛下利曰肾伤寒\n伤寒病二月至夏方发曰晚发\n发汗后身犹灼热自汗曰风温\n中暑曰中暍\n感不时之气而病老幼皆相似者谓之天行`即瘟疫也`\n妄发湿温汗者曰重暍`重暍者不治`\n汗后不为汗衰谓之阴阳交死证也 热烦身躁太阴寸口脉两冲尚躁盛是阴阳交死得汗脉静者生\n病瘥后发热曰遗热\n伤寒瘥后劳曰劳复\n伤寒瘥 后食肉再病曰食复\n自乱无神气曰无精\n吐利并作曰霍乱\n鼻出血曰衄\n热病脉躁盛不得汗者曰阳极死证\n阴独盛而阳暴绝曰阴毒\n阳独盛而阴暴绝曰阳毒\n咳逆曰哕\n干呕曰啘\n阳明与少阴合病下利脉长大而弦者曰负死证也\n大便坚硬曰鞕溏曰鸭澹\n协欲饮水水入即吐曰水逆\n心振寒而动曰悸`即怔忡之别名也`\n心中若有所失曰懊憹\n强发少阴汗则动血或出口鼻或出耳目谓之下厥上竭不治\n身振摇而动曰肉瞤\n脐下有动气曰奔豚\n病在上吐之曰涌病在下泄之曰利\n血曰营\n气曰卫\n汗孔曰元府`即腠理也`\n手足搐搦曰瘛疭\n二阳俱病曰合病\n先二阳俱病曰两感`又曰双传`\n四肢病曰未疾\n厥而下利当不能食反能食者曰除中不治\n目中不明了曰目中不了了`一曰病瘥`\n皮肤顽而不知有无者曰不仁\n伤寒阳病下之早即为结胸按之即心下即心下痛为小结胸不按自痛连腹坚硬曰大结胸若饮水过多停结在胸肋间无大热而头微汗出者曰水结胸烦躁多而有结胸证曰热实结胸无热而有结胸证曰寒实结胸伤寒阴病下之早按之不痛胸中气结曰痞气伤过伤寒证似结胸饮食如常时时下利而舌上白胎者曰脏结不治伤寒后上唇有疮虫食其喉或食其脏早惑\n伤寒后下唇有疮曰食其肛 食其阴曰狐\n发热汗不止曰漏风`亦亡阳之别名也` 大下之后损阴伤血亦谓之亡阳太阳病桂枝症而投麻黄汗出多遂漏不止曰亡阳发狂证有因火劫惊狂谓之火邪其人亦曰亡阳大抵阴病不当有汗若反有汗者亦亡阳也\n伤寒发汗吐下温针后及小柴胡汤证罢病不解曰坏证看犯何逆以法治之柴胡证仍有则不为逆`凡逆有四种或变为温疟或变为风温或为温毒或为温疫也`\n热病不知痛所在不能自收口干渴甚阴头有寒者热在骨髓死不治\n热病在肾今人渴口干舌焦黄赤书夜欲饮不止腹大而胀尚不歇目无精光死不治",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+      "source_ordinal": 233,
+      "source_path": [
+        "續集",
+        "傷寒別名"
+      ],
+      "source_sha256": "0aa5c8c423c6e7e95bf79e30d948bfef400d0250e31ac6c9886875d37d42f0f3",
+      "original_sha256": "ac37fcbe6f668ed22df2aff4a89e0e2ca78210743a07f5c30fe2484f31e4fc69",
+      "content_sha256": "efec6ab7055e66501e02590a7bfa496b00fbc53b1c0ee32c5183c0ecb9ddf0a9",
+      "paragraph_count": 58,
+      "paragraph_ordinals": [
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1081,
+        "simplified_codepoints": 1081
+      },
+      "order": 69
+    }
+  ]
+}

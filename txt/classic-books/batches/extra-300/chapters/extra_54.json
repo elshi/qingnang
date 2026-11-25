@@ -1,0 +1,3840 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_54",
+    "name": "内经难字音义",
+    "summary": "《内经难字音义》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“弁言”、“九针十二原第一”、“本输第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "陆懋修",
+    "jp": "NJNZYY",
+    "aliases": [
+      "內經難字音義"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "17cf54ffe61b62e79a28ecda",
+      "title": "弁言",
+      "volume": null,
+      "content": "陆丈九芝，窥钻医学，愍俗医不明古训诘屈难读，束阁不观，甚者又窜易篇弟，损改旧文，使轩岐古书瘢颣遍体，二千年来，几至坠𢇍。因钻成《内经难字音义》一卷，爬梳理董于形声通假之故，塙有会心。如《素问·四气调神大论》：肾气独沈。据《周礼》壶涿氏先郑注，谓「独」、「浊」古通。「平人气象论」：前曲后居。据《汉书·郅都传》注，谓「居」与「倨」同。「刺腰痛论」：至头𠘧𠘧然。据《说文》，言𠘧读若殊。「痿论」：主闰宗筋。据徐楚金《系传》：闰之言撋，谓闰当作烦撋解。凡此诸条皆极审谛，非王冰旧释所能及。然则先生殆医经之陆元郎乎。\n光绪十年仓龙甲申相月，世愚侄长洲王颂蔚",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "弁言"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d9d6e42333673eaa891359cb7d22273590dc3bd3e46962f4825b44328c458b3b",
+      "content_sha256": "411c20ecd16aa4c750aeec9b4672cfc25aa2f6fd09af2413d8c92a1f2dbffebd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 274,
+        "simplified_codepoints": 274
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "5f21be52f620ecb69b316a49",
+      "title": "九针十二原第一",
+      "volume": "《灵枢》",
+      "content": "针：职深切。本作「针」，亦作「箴」。《史记·扁鹊传》：厉针砥石。《索隐》：针音针。《一切经音义》引《声类》：针今作「针」。《山海经·东山经》：高氏之山，其下多箴石。注：可以为砥针，治痈肿者。\n其空：空，苦动切。与「孔」通。《史记·五帝纪》：舜穿井为匿空旁出。《索隐》：音孔。《正义》：言舜潜匿穿孔，旁从他井而出也。《后汉书·章帝纪》：方空谷。注：空，孔也。《内经》空字多有作孔字解者，举此例之。\n宛陈：宛，纡勿切。与「菀」、「苑」、「郁」通。《甲乙经》作「苑」。《素问·针解论》亦作「苑」。《礼·内则》：兔为宛脾。注：宛，或作郁。《史记·仓公传》：寒湿气宛。《集解》：音郁。陈，《汉书·食货志》陈陈相因。注：陈谓久旧也。《素问·奇病论》：治之以兰，治陈气也。注：陈谓久也。\n补写：写，悉姐切。与「泻」通。《周礼》：稻人以浍写水。\n内之：内，奴对切。古入字通作内。《说文》：内，入也。自外而入也。《礼·月令》：无不务内。《吕氏春秋·季秋纪》：作务人。《左·襄九年传》：以出内火。《汉书·五行志》引作「以出入火」。本经「小针解」：徐内而疾出，疾内而徐出。\n蚊虻：蚊，亦作「𧓹」。虻，武庚切。亦作「蝱」。《说文》：𧓹，啮人飞虫。\n腧：伤遇切。本作「俞」，亦作「输」。《素问·咳论》：治脏者治其俞。注引《灵枢》：脉之所注为俞。本经作「腧」。《素问·奇病论》：治之以胆募俞。注：胸腹曰募，背脊曰俞。按：五脏各有井、荥、俞、经、合五穴，谓之五俞。六腑各有井、荥、俞、原、经、合六穴，谓之六俞。\n镵：锄衔切。《史记·扁鹊传》：镵石挢引。《索隐》：镵谓石针也。\n鍉：都奚切。《玉篇》：锋也。\n铍：敷羁切。《说文》：铍，大针也。《广雅·释器》：镵谓之铍。《三国志》注「华佗别传」：令弟子数人，以铍刀决脉。\n牦：莫袍切。《说文》：牦，牦牛尾也。《一切经音义》引「三仓」：牦，毛也。\n喙：许秽切。《说文》：喙，口也。《一切经音义》引《通俗文》：兽口曰喙。又，《方言》：喙，息也。《国语·晋语》：献子伤曰，余病喙。注：喙，短气貌。义别。\n痹：必至切。本作「痹」。《一切经音义》引《苍颉训诂》：痹，手足不仁也。《汉书·艺文志》：痹十二病方三十卷。注：痹，风淫之病。\n溜：力救切。《一切经音义》引《苍颉篇》：溜谓水下垂也。《素问·阴阳别论》：阴阳相过曰溜。\n荥：户扃切。《说文》：荥，绝小水也。按：五脏各有井、荥、腧、经、合五穴。\n四末：《左·昭元年传》：风淫末疾。注：末，四肢也。《礼·乐记》：奋末广贲之音作。注：奋末，动使四支也。\n肓：乎光切。《说文》：肓，心下鬲上也。《左·成十年传》：居肓之上。注：肓，鬲也。\n脖胦：脖，蒲没切。胦，于良切。《甲乙经》：气海穴一名脖胦，在脐下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 5,
+      "source_path": [
+        "《靈樞》",
+        "九針十二原第一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "5f8b749aa0b5e5806fe4ff521461533a766fad6f49828fddc5a69b74bffa043a",
+      "content_sha256": "94d56bf6016e9c0472857c3bdcf4c5a46a757965174bdbb52bed911596ca6a14",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1128,
+        "simplified_codepoints": 1128
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "53aa8f50ba299e5531c69fbc",
+      "title": "本输第二",
+      "volume": "《灵枢》",
+      "content": "输：伤遇切。与「腧」通。《史记·扁鹊传》：五脏之输。《正义》：十二经皆以输为原。\n廉：力监切。《说文》：廉，仄也。《九章算术》：边谓之廉。《仪礼·乡饮酒礼》：设席于堂廉东上。注：侧旁曰廉。\n踝：胡瓦切。《说文》：踝，足踝也。《急就篇》：𬧅踝跟踵相近聚。注：踝，足之内外踝也。《释名》：踝，确也。居足两旁，硗确然也。《大藏音义》引《声类》：踝，足外附骨也。内外为四踝。\n辅骨：《素问·骨空论》：骸下为辅。又，《说文》：输，人颊车也。《广雅·释亲》：辅谓之颊。义别。\n腘：古获切。《广雅·释亲》：腘，曲脚也。《荀子·富国篇》：诎要桡腘。注：腘，曲脚中。《素问·骨空论》：辅上为腘。「至真要大论」：腘如结。注：腘为膝后曲脚之中也。\n侠溪：侠，胡类切。与「挟」通。《汉书·孙叔通传》：殿下郎中侠陛。注：侠与「挟」同。《释名》：挟，夹也，夹在旁也。《内经》挟字多作「侠」，举此例之。溪，苦奚切。《素问·气穴论》：肉之小会为溪。《甲乙经》：侠溪穴在足指次指二歧骨间。\n跗：甫无切。亦作「趺」。《仪礼·士丧礼》：乃屦綦结于跗连絇。注：跗，足上也。疏：谓足背也。《文选》束皙「补亡诗」：白华绛跗。注：跗与「趺」同。\n胻：户庚切。亦作「䯒」。《说文》：胻，胫耑也。《广雅·释亲》：胻，胫也。《史记·龟䇲传》：壮士斩其胻。《集解》：胻，脚胫也。\n所将：《广雅·释诂》：将，行也。本篇「将两脏」，义同。\n腨：市兖切。亦作「𬧅」、「膊」。《说文》：腨，腓肠也。《大藏音义》引《文字集略》：腨，胫之腹也。《素问·至真要大论》：腨如别。注：腨，䯒后软活处也。按：即今俗所谓腿肚者是。\n闭癃：癃，立中切。亦作「𤸇」。《素问·宣明五气篇》：膀胱不利为𤸇。又，《说文》：癃，罢病也。义别。\n呿：近倨切。亦作「㰦」。《玉篇》：张口貌。《庄子·秋水篇》：公孙龙口呿而不合。《释文》引司马注：呿，开也。《一切经音义》引《通俗文》：张口运气谓之欠㰦。本经「经脉篇」：虚则欠㰦。\n欠：去剑切。《说文》：欠，张口气悟也。《释名》：欠，嵚也。开张其口作声，唇嵚嵚然也。\n痿：于为切。《说文》：痿，痹也。《吕氏春秋·孟春纪》：多阴则蹷，多阳则痿。注：痿躄，不能行也。《汉书·哀帝纪》「赞」：即位痿痹。注引如湻曰：病两足不能相过曰痿。「韩王信传」：如痿人之不忘起。注：痿，风痹病也。《素问·痿论》：大经空虚，发为肌痹，传为脉痹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "《靈樞》",
+        "本輸第二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "3f02aa9d333d33e28a942ca943182fbad62a1d70ffe24baf24dbad075c8240a6",
+      "content_sha256": "a4683de692d2c4928910747088ddd53434840b1ee959d25813cd9fcce07700b9",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 988,
+        "simplified_codepoints": 988
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "7cc650616124a198869db93b",
+      "title": "小针解第三",
+      "volume": "《灵枢》",
+      "content": "著：直略切。附也。《汉书·贾谊传》：如黑子之著面。\n佖：毗必切。《汉书·杨雄传》「羽猎赋」：骈衍佖路。注：佖，满也。\n怳：许访切。亦作「恍」。《楚辞》宋玉「登徒子好色赋」：怳若有望而不来。注：怳，失意貌。\n濇：所力切。亦作「涩」。《说文》：濇，不滑也。《素问·至真要大论》：短而濇。注：来往不利是谓濇也。\n渗：所禁切。《说文》：渗，下漉也。《汉书·司马相如传》「封禅文」：滋液渗漉。注：渗漉，谓润泽下究。「杨雄传·河东赋」：泽渗漓而下降。注：渗漓，流貌。又，《素问·至真要大论》：淡味渗泄为阳。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 39,
+      "source_path": [
+        "《靈樞》",
+        "小針解第三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "97aedd73cc2fd95842bd896545fabe1d4d1eadfb959dd5896151a26cbacf4bbd",
+      "content_sha256": "1d95af31b04455d855cf78b275535208c2049539d11030aa4536b0497732a825",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        40,
+        41,
+        42,
+        43,
+        44
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 250,
+        "simplified_codepoints": 250
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "2b78351dd1b50f91e9db4688",
+      "title": "邪气脏腑病形第四",
+      "volume": "《灵枢》",
+      "content": "凑：仓奏切。亦作「腠」。《史记·扁鹊传》：君有疾在腠理。《正义》：腠，音凑。谓皮肤。《文心雕龙·养气篇》：凑理无滞。《素问·举痛论》：寒则腠理闭。注：凑，谓津液渗泄之所。\n淖：奴教切。《尔雅·释言》《释文》引《字林》：淖，濡甚也。《广雅·释诂》：淖，湿也。\n若：犹及也。《汉书·高帝纪》：若一郡降者，封万户。注：若者，豫及之辞。《后汉书·陈忠传》：若它郡县。注：若，及也。《内经》若字多有作「及」字解者，举此例之。\n煄：之陇切。《甲乙经》作「熏」。\n洒淅：洒，所买切。亦作「洒」。《素问·调经论》：洒淅起于毫毛。注：洒淅，寒貌。「风论」：腠理开则洒然寒。注：洒然，寒貌。本经「经脉篇」：洒洒振寒。《伤寒论》：洒淅恶寒。\n贲而起：贲，符分切。《谷梁·僖十年传》：覆酒于地而地贲。注：贲，沸起也。《甲乙经》：贲作「大」。\n瘈疭：瘈，尺制切。亦作「瘛」。疭，子用切。《急就篇》：痈疽瘛疭痿痹痮。注：瘈疭，小儿之疾，即今痫病也。《汉书·艺文志》：瘈疭方三十卷。按：瘈之言掣，疭之言纵。即今俗所谓抽掣搐搦之证。\n喉吤：吤，居拜切。《集韵》：声也。《甲乙经》作，「喉吤吤」。\n哕：于月切。《说文》：哕，气牾也。《一切经音义》引《通俗文》：气逆曰哕。按：哕与干呕、咳逆、噫噎并异，即今俗所谓打呃者是。\n消瘅：瘅，都寒切。《尔雅·释诂》：瘅，劳也。《史记·仓公传》：风瘅客脬。《索隐》：瘅，病也。《素问·脉要精微论》：瘅成为消中。注：瘅，谓湿热也。又。得案切。亦作「疸」。《汉书·严助传》：南方暑湿，近夏瘅热。注：瘅，黄病。《山海经·西山经》：翼望之山有兽，名曰讙，服之已瘅。注：黄瘅病也。义微别。\n维：脉名。按：《难经》奇经八脉有阳维、阴维，阳维维于阳，阴维维于阴。\n颠：与「癫」、「瘨」通。《甲乙经》作「癫」。《广雅·释诂》：瘨，狂也。《急就篇》：疝瘕颠疾狂失响。注：颠疾性理颠倒失常也。本经有「癫狂篇」，《素问·腹中论》：石药发瘨，芳草发狂。注：多喜曰瘨，多怒曰狂。\n息肉：亦作「瘜」、「𦞜」。《一切经音义》引「三苍」：瘜，恶肉也。《方言》：䑄𦞜也。注：谓息肉也。\n瘘：卢候切。《说文》：瘘，颈肿也。《山海经·中山经》：合水多𤠾鱼，食之不痈，可以已瘘。注：瘘，痈属也。中多有虫。《素问·生气通天论》：陷脉为瘘。\n息贲：贲，博昆切。《难经·五十六难》：肺之积名曰息贲。\n酸：素官切。与「酸」通。《广雅·释诂》：酸，痛也。《金匮方论》：虚劳四肢酸疼，小建中汤主之。《素问·刺热论》：先腰痛䯒酸。\n瘕：古牙切。《说文》：瘕，女病也。《素问·大奇论》：三阳急为瘕。注：血凝为瘕。\n衂：女六切。本作「衄」。《说文》：衄，鼻出血也。\n㿉疝：㿉，杜回切。亦作。「𬯎」、「颓」、「㿗」。《甲乙经》作「㿗」。《集韵》引《苍颉篇》：㿗，阴病。《释名》：阴肿曰㿉，气下𬯎也。《素问·阴阳别论》：三阳为病，发寒热，其传为颓疝。「至真要大论」：阳明之胜，外发㿗疝。\n后沃沫：后，大便也。详下「不得前后」条。沃，乌酷切。《文选》张衡「西京赋」：地沃丰薛。注：沃，肥也。沫，莫拨切。《庄子·至乐篇》：干余骨之沫为斯弥。《释文》引李注：沫，口中汁也。按：后沃沫，谓大便下肥汁也。《素问·五常政大论》：赤沃下。「至真要大论」：少阴之胜，传为赤沃。少阳之胜，下沃赤白。注：沃，沫也。\n瘚：居月切。《甲乙经》作。「厥」。《说文》：瘚，屰气也。\n蛕蝎：蛕，胡恢切。亦作「蚘」。《说文》：蛕，腹中长虫。蝎，胡葛切。《说文》：蝎，蝤蛴也。《尔雅·释虫》：蝎蛣𧌑。注：木中蠹虫。\n不得前后：《太元元数》云：九窍一六为前，五五为后。《史记·仓公传》：令人不得前后溲。《索隐》：前溲谓小便，后溲谓大便也。\n嗌：伊昔切。《说文》：嗌，咽也。《谷梁·昭十九年传》：嗌不容粒。注：嗌，喉也。《素问·至真要大论》：嗌塞而咳。注：嗌谓喉之下，接连胸中肺两叶之间者也。\n阴痿：《史记·五宗世家》：胶西王端阴痿。《正义》：不能御妇人。\n腄腄：腄，竹垂切。《甲乙经》作「垂」。\n不月：《素问·阴阳别论》：二阳之病发心脾，女子不月。按：不月，谓月事不来也。\n痔：直里切。《说文》：痔，后病也。《素问·生气通天论》：肠澼为痔。《释名》：痔，食也。虫食之也。\n痏：荣美切。《文选》张衡，「西京赋」：所恶成疮痏。薛注：疮痏，谓瘢痕也。《素问·缪刺篇》：去端如韭叶各一痏。注：痏，疮也。\n腧申：《甲乙经》作「揄伸」。揄，余招切。详下《素问》「揄臂」条。伸，《广雅·释诂》：申，伸也。伸展也。\n䐜：昌真切。《说文》：䐜，起也。《玉篇》：引《埤苍》：䐜，引起也。\n控睪：控，苦贡切。睪，古劳切。与「皋」通。《素问·至真要大论》：民病少腹控睪，引腰脊上冲心痛。注：控，引也。睪，阴丸也。\n澹澹：澹，徒鉴切。《说文》：澹，水摇也。《素问·刺热论》：其逆则项痛员员澹澹然。注：澹澹，为似欲不定也。\n灸：居祐切。《说文》：灸，灼也。《素问·异法方宜论》：其治宜灸焫。注：火艾烧灼谓之灸焫。《史记·仓公传》：形弊者，不当关灸镵石。\n针染于巷：染，如检切。《汉书·司马相如传》：「子虚赋」：割鲜染输。注引李奇曰：染，擩也。师古曰：擩，揾也。《大藏音义》引《考声》：染，著也。《六书故》：揾，指按也。则染有按、著二义。巷，亦作「衒」。《说文》：巷，里中道也。《大藏音义》引《韵英》：巷，小街也。按：《素问·气府论》：气街动脉各一注。气街，穴名也。此言中气穴，则巷字当与「街」字义近。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 45,
+      "source_path": [
+        "《靈樞》",
+        "邪氣臟腑病形第四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "8f04d546b2808763c99a99d8f90eaf8a800f71d040ccffc73874d019c6f04b79",
+      "content_sha256": "fd89bc903199ce00953b25ac5ded63bd0e5964d426f64f29ee9c5fee03afeab7",
+      "paragraph_count": 35,
+      "paragraph_ordinals": [
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2239,
+        "simplified_codepoints": 2239
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "34795c18b5d6144d7a5ac53d",
+      "title": "根结第五",
+      "volume": "《灵枢》",
+      "content": "钳耳：钳，巨淹切。《甲乙经》作「钳大者，耳也」。\n膲：即消切。《淮南子·天文训》：月死而赢蛖膲。注：膲，肉不满。读若「物醮炒」之「醮」也。又，《广韵》：人之三焦。义别。\n繇：余招切。《史记·苏秦传》：莫不尽繇。《索隐》：繇，摇动也。《素问·气交变大论》：筋骨繇复。注：繇，摇也。\n膻：徒旱切。《说文》：膻，气海也。在两乳中间。\n代：脉形也。《伤寒论》：脉来动而中止，不能自还，因而复动者名曰代。\n慓：抚招切。《说文》：慓，急也。《广雅·释诂》同。\n膏梁：梁与「粱」通。《素问·通评虚实论》：肥贵人则高梁之疾也。注：梁，粱米也。\n充郭：郭，古博切。《释名》：郭，廓也。《方言》：张小使大谓之廓。《素问·汤液醪醴论》：津液充郭。本经「胀论」：排脏腑而郭胸胁。《甲乙经》郭作「廓」。\n㒤辟：㒤，尺涉切。按：当与『聂」、「摄」通。辟，房益切。《素问·调经论》：聂辟气不足。注：聂谓聂皱，辟谓辟叠也。《甲乙经》作「㒤辟」。林校据《太素》作「摄辟」。\n薄著：薄，旁谷切。《广雅·释言》：薄，附也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 81,
+      "source_path": [
+        "《靈樞》",
+        "根結第五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "136a0fc76b96e285c15ee407bb0dabbf8be5fc4abd234f9b1e9c5a5744226a72",
+      "content_sha256": "98de61976a38b0d15886c322154602af72eb2934022bd41dcbc84abc8320fbcc",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 442,
+        "simplified_codepoints": 442
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "58171b704c5dbdced6ee4367",
+      "title": "寿夭刚柔第六",
+      "volume": "《灵枢》",
+      "content": "䐃：渠陨切。《玉篇》：腹中䐃脂也。\n怫忾：怫，符弗切。《说文》：怫，郁也。《汉书·邹阳传》：太后怫郁。注：怫郁，蕴积也。忾，苦爱反。《广雅·释诂》：忾，满也。\n不仁：《素问·风论》：卫气有所凝而不行，故其肉有不仁也。注：不仁谓𤸷而不知寒热痛痒。「痹论」：皮肤不营故为不仁。注：不仁者，皮顽不知有无也。\n焠：士内切。《史记·天官书》：火与水合为焠。《荀子·解蔽篇》：有子恶卧而焠掌。注：焠，灼也。《素问·调经论》：焠针药熨。注：焠针，火针也。\n熨：纡物切。本作「叞」。《史记·扁鹊传》：案扤毒熨。《索隐》：谓毒病之处以药物熨贴也。\n㕮咀：㕮，方矩切。咀，慈吕切。《广韵》：㕮，咀嚼也。《本草纲目》注：李杲曰，㕮咀，古制也。古无刀，以口啮细，令如麻豆，煎之。\n马矢煴：矢，亦作「屎」。煴，于云切。《说文》：煴，郁烟也。《汉书·苏武传》：置煴火。注：煴，聚火无焱者也。按：此谓烧马矢郁烟，置盛酒器于中也。\n晬：子对切。《类篇》：晬，时者。周时也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 92,
+      "source_path": [
+        "《靈樞》",
+        "壽夭剛柔第六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "47a58c5c4228150c1a43421eb9f863201ecd8bcd2ea71388def09391ec623995",
+      "content_sha256": "3ec9937f05bcd0f67a6a4893c6c14b4b84d49c2ffa3da4fa85e51f00ff345b56",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 420,
+        "simplified_codepoints": 420
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "068e632fbfda353de95afd43",
+      "title": "官针第七",
+      "volume": "《灵枢》",
+      "content": "支为大脓：支，亦作「榰」、「搘」。《尔雅·释言》：榰，柱也。《释文》作「搘拄」。《国语·周语》：天之所支不可废也。注：支，拄也。《甲乙经》作「反为大脓」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "《靈樞》",
+        "官針第七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "9c520b075fc0f4f72d7c20ba19de44c2f3077cb52ba6157fea2a44f54b43075f",
+      "content_sha256": "9ccdef5e686e8dfa4bf96dce1a1cfa2c924be09de8b4e3fc390ffc829cfab4cf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        102
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "0ace65f5a8f5e9482d58bdf8",
+      "title": "本神第八",
+      "volume": "《灵枢》",
+      "content": "淫泆：泆，夷质切。《说文》：泆，水与荡泆也。《书·多士》：诞淫厥泆。\n悗：母本切。《庄子·大宗师篇》：悗乎忘其言也。《释文》引李注：悗，废忘也。又，与「懑」通。《说文》：懑，烦也。《甲乙经》作「闷」。\n挛：吕员切。《说文》：挛，系也。《素问·皮部论》：寒多则筋挛。注：挛，急也。\n泾溲不利：《素问·调经论》：形有余则腹胀泾溲不利。注：泾，大便。溲，小便也。林校据杨上善云：泾作「经」，妇人月经也。\n喘喝：喘，昌兖切。《说文》：喘，疾息也。喝，于犗切。《玉篇》：嘶声。《后汉书·张酺传》：声音流喝。注引《广苍》：喝，声之幽也。本经「经脉篇」：喝喝而喘。《金匮方论》：蚀于上部则声喝。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 103,
+      "source_path": [
+        "《靈樞》",
+        "本神第八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a1f9b523e6a19131fb6b450b6b8415fd6151f55103d96e14a2c8e29f37b3bafd",
+      "content_sha256": "79a6aa7798f8c09bae43432c248db74b6db0621cf9378d4c764c7ed82eca5581",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        104,
+        105,
+        106,
+        107,
+        108
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 290,
+        "simplified_codepoints": 290
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "e8e850d74d003b03e0f437db",
+      "title": "终始第九",
+      "volume": "《灵枢》",
+      "content": "将以甘药：《诗·周颂》：我将我享。笺：将，犹奉也。\n膊：补各切。本作「髆」。《仪礼·少牢》「馈食礼」：不升肩臂臑膊骼。\n为齐：《易·系辞》：齐大小者存乎卦。注：齐，犹言变也。\n缪刺：缪，靡幼切。《素问·缪刺论》：故络病者，其痛与经脉缪处，故命曰缪刺。按：谓左刺右，右刺左也。\n反折：折，食列切。《广韵》：断而犹连也。《礼·月令》：视折审断。蔡邕《章句》：骨曰折。\n舌卷：卷，巨员切。《庄子·徐无鬼篇》：有卷娄者。《释文》：卷娄，犹拘挛也。\n噫：乌介切。《说文》：噫，饱食息也。《文选》司马相如「长门赋」：心凭噫而不舒兮。注引《字林》：噫，饱出息也。\n燋：即消切。与「焦」通。《汉书·霍光传》：燋头烂额为上客。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "《靈樞》",
+        "終始第九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "af16356d88a93ed8ed9e5cac08e9cde7eb31b78a839f217548270fd6155bc86e",
+      "content_sha256": "cd58bdf9367a9ba36547e413a92e8e1d2d79bd78dd276ed7c1315ffe306f1794",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 304,
+        "simplified_codepoints": 304
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "4fd32a21b7f0013fd98fd9d1",
+      "title": "经脉第十",
+      "volume": "《灵枢》",
+      "content": "臑：那到切。《广韵》：臂节。《仪礼·少牢》「馈食礼」：肩臂臑。注：臑，肱骨。\n膨膨：膨，薄庚切。亦作「彭」。《玉篇》：膨，朜胀貌。《甲乙经》：心膨膨痛，尺泽主之。胸中膨膨然，邱墟主之。《脉经》：肺实胸中满，膨膨与肩相引。\n瞀：莫候切。《楚辞》屈原「九章」：中闷瞀之忳忳。注：瞀，乱也。《庄子·徐无鬼篇》：予适有瞀病。《释文》引李注：瞀，风眩貌。\n髃：过俱切。又，五口切。亦作「腢」。《说文》：髃，肩前也。《六书故》引《字林》：髃，肩前两乳间骨也。《急就篇》：胂腴胸肋喉咽髃。注：髃，肩前也。\n鼽：巨鸠切。《说文》：鼽，病寒鼻窒也。《礼·月令》：民多鼽嚏。《一切经音义》引《通俗文》：鼽鼻曰齆。\n⿰安真：乌葛切。《说文》：⿰安真，鼻茎也。《孟子》：疾首蹙⿰安真。\n客主人：穴名。《甲乙经》：上关穴一名客主人，在耳前上廉起骨端。\n颅：落胡切。亦作「卢」。《说文》：𩑒颅，首骨也。《广雅·释亲》：𩑒颅谓之髑髅。《汉书·武五子传》「赞」：头卢相属于道。注：卢，额骨也。\n髀：并弭切。《说文》：髀，股也。《春秋·元命苞》：髀之为言跂也。阴二，故人两髀。《汉书·贾谊传》：至于髋髀之所。注：髀，股骨也。\n膑：毗忍切。亦作「髌」。《说文》：膑，膝耑也。《文选》潘岳「西征赋」：狙潜鈆以脱膑。注引敦璞《三苍解诂》：膑，膝盖也。\n骭：古案切。《说文》：骭，骹也。《尔雅·释训》：骭疡为微。注：骭，脚胫。《淮南子·俶真训》：易骭之一毛。注：自膝以下胫以上也。\n㖞：苦緺切。亦作「呙」。《说文》：㖞，戾不正也。《一切经音义》引《通俗文》：斜戾曰㖞。\n胗：章忍切。籀文作「疹」。《说文》：胗，唇疡也。《广雅·释诂》：胗，肿也。宋玉「风赋」：中唇为胗。《一切经音义》引「三苍」：胗，肿也。\n得后与气：按：得后，谓得有屎也。与「不得前后」句义同。气，谓失气。《广韵》：䊧失气，即此今俗作屁。\n溏：徒郎切。《广雅》言溏淖也。《一切经音义》引《通俗文》：和溏曰淖。\n肩解：解，古隘切。《汉书·贾谊传》：所排击割剥，皆众理解也。注：解，支节也。《素问·气穴论》：内解写于中者十脉。注：解，谓骨解之中经络也。\n胛：古狎切。《后汉书·张宗传》：中予贯胛。注：胛，背上两膊间。\n⿰出真：职悦切。《广韵》：面秀骨。《急就篇》：头⿰各真⿰安真⿰出真眉目耳。注：⿰出真，两颊之权也。《素问·至真要大论》：齿痛⿰出真肿。又，与「准」通。《玉篇》：汉高隆⿰出真龙颜史汉皆作准。注：鼻也。义微别。\n颔：胡感切。《方言》：颔，颐领也。南楚谓之颔。《释名》：颐或曰颔车。颔，含也。口含物之车也。\n髆：补各切。亦作「膊」。《说文》：膊，肩甲也。《汉书·武帝纪》：立皇子髆为昌邑王。注：许慎以为肩髆字。\n踹：市兖切。《玉篇》：足跟也。《淮南子·人间训》：追者至踹足而怒。注：踹足，跃足也。\n䪿：足晋切。亦作「囟」、「顖」。《说文》：囟，头会脑盖也。《玉篇》：顶门也。《孔子家语·本命解》：三年顖合，然后能口。\n尻：苦刀切。《广雅·释亲》：尻，臀也。《一切经音义》引「三苍」：尻，髋也。《礼·内则》：兔去尻。\n邪走：邪与「斜」通。《甲乙经》作「斜趋」。\n䀮䀮：䀮，呼光切。《玉篇》：目不明。《脉经》：肾实目视䀮䀮，瞻虚目黄，失睛䀮䀮。\n肠澼：澼，普击切。亦作「辟」。《素问·太阴阳明论》：贼风虚邪入五脏久为肠澼。「阴阳别论」：阴阳虚，肠辟死。注：辟，阴也。林校据全元起本作「澼」。\n憺憺：憺，徒滥切。《汉书·李广传》：威棱憺乎邻国。注引李奇曰：憺，犹动也。\n锐眦：眦，在诣切。《说文》：眦，目厓也。《列子·汤问篇》：拭眦扬眉而望之。《释文》：目际也。本经「癫狂篇」：目眦外决于面者为锐眦，在内近鼻者为内眦。\n髀厌：厌，于叶切。与「压」通。《说文》：厌，笮也。按：笮义同窄，谓狡窄处也。《素问·气穴论》：两髀厌分中二穴。注：谓环跳穴也。本经「肠胃篇」：会厌。《素问·气穴论》：两骸厌。《甲乙经》：颔厌穴。又，瘖门穴，一名舌厌。义并同。\n马刁侠瘿：本经「痈疽篇」：其痈坚而不溃者，为马刁侠瘿。《甲乙经》作「马刀」。《金匮方论》：痹侠背行，若肠鸣、马刀侠瘿者，皆为劳得之。《甲乙经》：胸满马刀臂不得举，渊腋主之。马刀肿瘘，章门、支沟主之。侠与「挟」通。瘿，于郢切。《说文》：瘿，项瘤也。《博物志》：山居之人多瘿肿疾。《释名》：瘿，婴也。在项婴喉下也。\n颃：胡郎切。亦作「肮」、「亢」。《史记·陈余传》：乃仰绝肮。《索隐》引苏林云：肮，颈大脉也。《汉书·娄敬传》：不搤其亢。注引张晏曰：亢，喉咙也。\n狐疝：《素问·四时刺逆从论》：厥阴滑则病狐疝风。林校据杨上善云：狐，夜不得尿，日出方得。人之所病与狐同，故曰狐疝。《金匮方论》：阴狐疝气者，偏有大小，时时上下。\n卒然：卒，仓没切。《广韵》：急也，遽也。《孟子》：卒然问曰。《史记·仓公传》：其卒然合。\n肬：羽求切。亦作「疣」。《说文》：肬，赘也。《释名》：肬，邱也。出皮上聚高，如地之有邱也。《荀子·宥坐篇》：曾未如肬赘。注：肬赘，结肉。\n痂疥：痂，古牙切。疥，古拜切。《急就篇》：痂疕疥疠痴聋盲。注：痂，创上甲也。疥，小虫攻啮皮肤，漼错如鳞介也。\n龋：驱雨切。亦作「𤘐」。《释名》：龋，齿朽也。虫啮之齿缺朽也。《说文》：龋，齿蠹也。《史记·仓公传》：齐中大夫病龋齿。《淮南子·说山训》：斩木愈龋。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 118,
+      "source_path": [
+        "《靈樞》",
+        "經脈第十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "eb17968e4fedbf2e2134d581841a5dda6286d24de58cb1f2c45e62202ca22861",
+      "content_sha256": "2364a6416d0b06b30347be4f2ed61b5999157bf31fbff6c81a0f1e87b751645a",
+      "paragraph_count": 36,
+      "paragraph_ordinals": [
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2189,
+        "simplified_codepoints": 2189
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "f4e42e365b63835ef2133397",
+      "title": "经别第十一",
+      "volume": "《灵枢》",
+      "content": "肛：古双切。《史记·仓公传》：肛门重十二两。即广肠之门。\n顀：直追切。《甲乙经》作「椎」。《素问·刺热论》：三椎下间主胸中热。注：脊节之谓椎。又，《说文》：顀，出额也。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 155,
+      "source_path": [
+        "《靈樞》",
+        "經別第十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a3757b9eafc0041c680a9c1446cc50138195ea122026a12678890a872609d5d1",
+      "content_sha256": "ff168454dbd2b6baa3f71419fd55694cf96fdb6ea7f360112a4616d4de50abee",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        156,
+        157
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "d44819703f1af885df6db2e0",
+      "title": "经水第十二",
+      "volume": "《灵枢》",
+      "content": "壮数：《魏志·华佗传》：若当炙不过一两处，每处七八壮。按：艾炙一灼谓之壮。其数以壮人为则，羸者减之。《素问·骨空论》：炙法以年为壮数。\n渑：余陵切。亦作「绳」。《春秋释例》：渑水出齐国临淄县北，入时水。《水经注》引《左传》作「绳」。\n漯：他合切。亦作「湿」。《说文》：湿水出东郡东武阳入海。《书·禹贡》作「漯」。\n痟：相邀切。与「消」通。《周礼》「疾医」：春时有痟首疾。注：痟，酸削也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 158,
+      "source_path": [
+        "《靈樞》",
+        "經水第十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "6047205f2e647f6a1d4484a944cc2ff155123d480cd6e9b02f35bf5c041c17af",
+      "content_sha256": "4e0507f7130ab1e73865b7bdeba24b7ccf8cdd73d91f54f25727023392da44b0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        159,
+        160,
+        161,
+        162
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 193,
+        "simplified_codepoints": 193
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "ac8316a48eea414c064911e7",
+      "title": "经筋第十三",
+      "volume": "《灵枢》",
+      "content": "頄：巨鸠切。《广韵》：颊间骨也。《易·夬卦》：壮于頄。注：頄，面权也。\n䏚：弭沼切。《素问·骨空论》：䏚络季胁，引少腹而痛。注：䏚谓侠胁两旁空软处也。\n蹻：其虐切。脉名。本经「脉度篇」：蹻脉有阴阳。按：《难经》：奇经八脉有阳蹻、阴蹻。\n以马膏膏其急者：上膏如字。下膏，古到切。用以润物也。《礼·内则》：脂膏以膏之。《左·襄十九年传》：如百谷之仰膏雨，焉若尝膏之。\n结于齐：齐与「脐」通。《甲乙经》作「脐」。《释名》：齐，剂也。肠端之所限剂也。\n癎：户间切。《一切经音义》引《说文》：癎，风病也。又，引《声类》：小儿瘨曰癎。《后汉书·王符传》：「潜夫论」：哺乳多则生癎病。\n痉：巨郢切。《说文》：痉，强急也。《玉篇》：风强病也。\n目瞑：瞑，莫经切。《说文》：瞑，翕目也。《广韵》：合目瞑瞑。《后汉书·马援传》：甘心瞑目。\n贯贲：贲，博昆切。《素问·脉要精微论》：内以候鬲。注：肝主贲。贲，鬲也。《难经·四十四难》：胃为贲门。\n噼：普击切。按：字书无「噼」字。《庄子·田子方篇》：口辟焉而不能言。《释文》引司马注：辟卷不开也。义相近。《甲乙经》作「僻」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 163,
+      "source_path": [
+        "《靈樞》",
+        "經筋第十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "5bd1a9fa9052fb40a3e1204c5bea60e3496569b7e5d54abf9b3147bbd9f04982",
+      "content_sha256": "c4c23abfe50e0b265052ff905ddbe0e38acdf56288fee11462c89ccfa92911d3",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 475,
+        "simplified_codepoints": 475
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "a80bc477bbd100d4f4160bf1",
+      "title": "骨度第十四",
+      "volume": "《灵枢》",
+      "content": "𩩲𩨗：𩩲，胡葛切。𩨗，羽俱切。《广雅·释亲》：𩩲𩨗，缺盆⿱弋肉也。《玉篇》、《广韵》俱训肩骨。按：据此经文「缺盆以下至𩩲𩨗长九寸」，则当在胸前。《甲乙经》：鸠尾穴一名𩩲𩨗，在臆前蔽骨下五分是也。\n骶：都计切。《广雅·释亲》：背谓之骶。《玉篇》：臀也。《素问·刺热论》：荣在骶也。注：脊窍之谓骶。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 174,
+      "source_path": [
+        "《靈樞》",
+        "骨度第十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "dce44272247a67188849f4740cb915246ad632c4bcfc0e52427a7cac583f541b",
+      "content_sha256": "9d538d57a08ab75aa656796c652aae2f6fd827e23d79de4c25350c3b8e7c3acb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        175,
+        176
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 147,
+        "simplified_codepoints": 147
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "ba5b3b5267163d7aff031cb6",
+      "title": "营气第十六",
+      "volume": "《灵枢》",
+      "content": "经隧：经与「径」通。《广雅·释言》：经，径也。隧，徐醉切。与「遂」通。《素问·调经论》：五脏之道皆出于经隧。注：隧，潜道也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 177,
+      "source_path": [
+        "《靈樞》",
+        "營氣第十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "43314c8d35a1dcd7b92e10d3eb8a370673c939637937dfda6d53cf7de66dd879",
+      "content_sha256": "333a160ac98e26ff76458f65069f8a3480da29bc45ea241503e29aed2c445ee6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        178
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 62,
+        "simplified_codepoints": 62
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "51d3045980f8da62e5d48334",
+      "title": "营卫生会第十八",
+      "volume": "《灵枢》",
+      "content": "阳陇：陇与「隆」通。《素问·生气通天论》：日中而阳气隆。注：隆犹盛也。高也。《史记·礼志》：是为大隆。《索隐》：隆者，盛也，高也。\n夜瞑：瞑，莫贤切。与「眠」通。\n泌：鄙密切。《史记·司马相如传》「上林赋」：偪侧泌瀄。《索隐》引司马彪曰：泌瀄，相楔也。又，引郭璞：泌音笔。按：此经文「泌糟粕」、下文「济泌别汁」，泌义当与「滗」通。《一切经音义》引《通俗文》：去汁曰滗。\n济：济与「挤」通。《国语·晋语》：二帝用师以相济也。注：济，读若挤。《甲乙经》「济泌」作「渗泄」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 179,
+      "source_path": [
+        "《靈樞》",
+        "營衛生會第十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "b862ed89336eb448c29747b35ede898d725abf7a795a63b6c582492335841988",
+      "content_sha256": "33cf8c2f19c9d5629908b90201cf6e8a085dc91c9cade40f37c36dd39a18b80b",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        180,
+        181,
+        182,
+        183
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 234,
+        "simplified_codepoints": 234
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "96bf689e54ac4fdb9a80f7dd",
+      "title": "四时气第十九",
+      "volume": "《灵枢》",
+      "content": "㽷：释类切。《集韵》：肿病。《甲乙经》作「水」。\n筩：徒红切。《广雅·释诂》：筩，长也。\n疠风：疠，力制切。亦作「癞」。《说文》：疠，恶疾也。《山海经·西山经》：英山有鸟，名曰肥遗，食之已疠。注：疠，疫病也。或曰恶创。《素问·风论》：风之伤人也，或为疠风。疠者，有荣气热胕。其气不清，故使其鼻柱坏而色败，皮肤疡溃。\n熏：许云切。亦作「熏」。《列子·汤问篇》：熏则烟上。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 184,
+      "source_path": [
+        "《靈樞》",
+        "四時氣第十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "f8c8e8a553dae7f17b93b5b393efb671de915e049b51250cbb0571948ed216c1",
+      "content_sha256": "680fba9ac91d09d2e0176c476ebee4b598308f24296fdf609ed79fe6e0d72380",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        185,
+        186,
+        187,
+        188
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "e28b4b71dbe0538dd7967bb4",
+      "title": "五邪第二十",
+      "volume": "《灵枢》",
+      "content": "行善掣：掣，昌列切。亦作「𤸪」。《尔雅·释训》：掣，曳也。《释文》本或作「𤸪」。《甲乙经》掣作「瘈」。《素问·气交变大论》：行善瘈，脚下痛。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 189,
+      "source_path": [
+        "《靈樞》",
+        "五邪第二十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e80077b3e5c14a6206dae1b46ca8ac8b102ce80cb18f0de90ae1905642276d59",
+      "content_sha256": "e71e68799b04823a124d2a7567402b29d7c8795ffd132b2ed128ab1d771921fc",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        190
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "f51c7b35cd8014dd08594f67",
+      "title": "寒热病第二十一",
+      "volume": "《灵枢》",
+      "content": "腊：思责切。亦作「昔」、「焟」。《说文》：昔，干肉也。《释名》：腊言干昔也。《广雅·释诂》：焟，干也。《易·噬嗑卦》：噬腊肉。\n鞕：五争切。亦作「硬」。《玉篇》：坚也。《一切经音义》引《通俗文》：物坚硬谓之硗确。又，引《字略》：强物坚曰硬。\n瞋：昌真切。《说文》：瞋，张目也。《广雅·释诂》：瞋，张也。《庄子·秋水篇》：瞋目而不见邱山。又，与「嗔」通。怒也。义别。\n腓：符非切。《说文》：腓，胫腨也。《易·艮卦》：艮其腓。疏：腓肠也。本文「腓者，腨也。」互详前「腨」字条。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 191,
+      "source_path": [
+        "《靈樞》",
+        "寒熱病第二十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "c6d5cfc504edf7dd17c9122a1fedca8bcda91bb756124249affc8fa86a775d5c",
+      "content_sha256": "7f414bffb34241b9f4c4fd5b9c55b563f98aa77e5e6470a35f48ec966b0e0309",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        192,
+        193,
+        194,
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 236,
+        "simplified_codepoints": 236
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "4c52eff464bf00129f0ec5b6",
+      "title": "癫狂第二十二",
+      "volume": "《灵枢》",
+      "content": "悸：其季切。亦作「痵」。《说文》：悸，心动也。\n顑：玉陷切。《广韵》：长面也。本篇「狂耳妄闻，治之取两顑」。《甲乙经》「顑」字皆作「颔」。《史氏音释》作「口感切。饥黄起行。」失之。\n漯漯：漯，他合切。《文选》木华「海赋」：𣽴𣸣沦而滀漯。注：滀漯，攒聚也。\n唏：许即切。叹声。《史记·十二诸候年表》：纣为象箸，而箕子唏。《索隐》：唏，叹声也。\n清：《庄子·人间世篇》：爨无欲清之人。《释文》：清凉也。《素问·五脏生成论》：腰痛足清。注：清亦冷也。「五常政大论」：其候清切。注：大凉也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "《靈樞》",
+        "癲狂第二十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "184dba12fe0e96a37259352555e68a1635bb4d809f6070ec519039e231e01657",
+      "content_sha256": "1480ae74c3619a8ec94e6c6733bf41e686174559e4fbc82e994c9832c47cd70f",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        197,
+        198,
+        199,
+        200,
+        201
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 241,
+        "simplified_codepoints": 241
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "ad03df2f0930ec9d5036f9bd",
+      "title": "热病第二十三",
+      "volume": "《灵枢》",
+      "content": "痱：符非切。《说文》：痱，风病也。《汉书·贾谊传》：又类辟且病痱灌夫。传：即阳病痱。又，《一切经音义》引《字略》：痱癗，小种也。义别。\n苛轸鼻：《甲乙经》作「苛鼻干」。《脉经》作「苛菌为轸鼻」。其义未详。\n颞颥：颞，而涉切。颥，人朱切。《玉篇》：在耳前曰颞。颞颥，耳前动也。《甲乙经》：脑空穴一名颞颥。耳聋两颞颥痛，中渚主之。《脉经》作「摄颥」。\n𤸪：尺制切。亦作「掣」。《说文》：引纵曰𤸪。\n胳：古落切。《说文》：胳，腋下也。《广雅·释亲》：胳谓之腋。《一切经音义》引《埤苍》：胳，肘后也。《甲乙经》《脉经》俱作「络」。\n噤𬹼：噤，渠饮切。《说文》：噤，口闭也。《一切经音义》引《通俗文》：口不闭曰噤。《楚辞》刘向「九叹」：口噤闭而不言。注：闭口为噤。𬹼，胡介切。《说文》：𬹼，齿相切也。《一切经音义》引「三苍」：𬹼𬹼，鸣齿也。《释名》：疥，𬹼也。痒搔之齿噤𬹼也。《玉篇》：噤𬹼，切齿怒也。\n怚：将预切。《说文》：怚，骄也。《甲乙经》作「阻」。按：《方言》：金怚，剧也。即「险阻」之假借字。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 202,
+      "source_path": [
+        "《靈樞》",
+        "熱病第二十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "b3d47943b5b086b402e11129b914547598437c7d0e1696305c1263189bfa1bd0",
+      "content_sha256": "64be7c83e60f04782db2882eced5adfaeb9dd49cd400f12310b2920541d5a3f2",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 446,
+        "simplified_codepoints": 446
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "2f884ff88afd73f4e37f1165",
+      "title": "厥病第二十四",
+      "volume": "《灵枢》",
+      "content": "手足清至节：清，凉也。详前「清」字条。一本作「青」。按：「青」、「清」古字相通。《释名》：清，青也。《吕氏春秋·季冬纪》：使青荓进视。《水经注》引作「清洴」。此篇上文有「手足寒至节」句，可互证。俗解谓手足色青，失之。\n憹：奴皓切。与「㛴」通。《说文》：㛴，有所恨也。\n㤣：抚庚切。亦作「恲」。《玉篇》：满也。\n耵聍：耵，都挺切。聍，乃挺切。《一切经音义》引《埤苍》：耵聍，耳中垢也。甲乙经作「摘抵」。\n淫泺：泺，匹各切。《素问·骨空论》：淫泺胫酸，不能久立。注：淫泺，谓似酸痛而无力也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 210,
+      "source_path": [
+        "《靈樞》",
+        "厥病第二十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "c86aaa3b457b24c6e892f6535bfdb736cabd5831cc466f5caf76bd1bb3eedcde",
+      "content_sha256": "6f05ba112f2f55f75e825bb2d020a8f51101a0828300f2835c608b5146ec3f80",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        211,
+        212,
+        213,
+        214,
+        215
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 243,
+        "simplified_codepoints": 243
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "0f778cc6a26c14688fd6264c",
+      "title": "杂病第二十六",
+      "volume": "《灵枢》",
+      "content": "𣹬𣹬：𣹬，胡谷切。亦作「瀫」。《广韵》：水声。《甲乙经》作「〾𤓕〾𤓕」。\n衃：芳杯切。《说文》：衃，凝血也。《素问·五脏生成篇》：赤如衃血者死。注：衃，谓败恶凝聚之血色，赤黑也。\n嚏：都计切。《一切经音义》引《苍颉篇》嚏，喷鼻也。《诗·邶风》：愿言则嚏。笺：汝思我心如是，我则嚏也。今俗人嚏，云人道我，此古之遗语也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 216,
+      "source_path": [
+        "《靈樞》",
+        "雜病第二十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "025e283c618c2d7bb163351fb1b3b6545a336889eaa12b4028b1da55addcabee",
+      "content_sha256": "e778584c98eb7fc0d343107c6d4911d42d573fc623a11ec1f80e5ae5462bccd9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        217,
+        218,
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 158,
+        "simplified_codepoints": 158
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "f11a37e48581756709d484e8",
+      "title": "周痹第二十七",
+      "volume": "《灵枢》",
+      "content": "慉：许竹切。与「畜」、「蓄」通。《说文》：慉，起也。《后汉书·马融传》「广成颂」：疏越蕴慉。注：蕴慉，犹积聚。《甲乙经》作「蓄」。《素问·生气通天论》：阳畜积。又，《诗·邶风》：不我能慉。传：慉，养也。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "《靈樞》",
+        "周痹第二十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "954814ff976803e125f9a684c345151e63a94e8139939e9b77716ef348269631",
+      "content_sha256": "75d49d3d520e37c83d0333ab37eefc75d9c525463eae999cebc5ad9cc7ef300d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        221
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 104,
+        "simplified_codepoints": 104
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "4b3b11376419cb16b4a2deeb",
+      "title": "口问第二十八",
+      "volume": "《灵枢》",
+      "content": "谷气：谷与「谷」通。《甲乙经》作「谷」。《书·尧典》：昧谷。《周礼·缝人》注引作「柳谷」。《诗·邶风》：习习谷风。疏引孙炎《尔雅注》：谷之言谷。谷，生也。谷风者，生长之风。《汉书·王莽传》：其夕谷风迅疾。注：谷风谓谷风。《素问·阴阳应象大论》：谷气通于肝。本经「决气篇」：五谷与胃为大海也。《甲乙经》并作「谷」。\n亸：丁可切。《广韵》：垂下貌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 222,
+      "source_path": [
+        "《靈樞》",
+        "口問第二十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "90d6b0bd6a4d569de32b79ef5f28c2abcc9dd24b502d4361b5132cf6b3d848b5",
+      "content_sha256": "42fd1b73391a60873ccb2edc8ae8256136f17525cd8b02e091c40da10037d30e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 172,
+        "simplified_codepoints": 172
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "a1b24de9532629358089faa5",
+      "title": "师传第二十九",
+      "volume": "《灵枢》",
+      "content": "沧沧：《说文》：沧，寒也。《列子·汤问篇》：日初出，沧沧凉凉。《逸周书·周祝篇》：天地之间有沧热。注并同。\n䯏：古活切。《说文》：䯏，骨端也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "《靈樞》",
+        "師傳第二十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "33a79dfa227bb3b4175a2d5601374148fcb64c7709c55a0525130777689b3c32",
+      "content_sha256": "a78aee1a39b8c7b3e539ff5537d4ee996e6e3bb56a349b81e1fca1879fe50935",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        226,
+        227
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 71,
+        "simplified_codepoints": 71
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "afff307943b1fd8dd62dc4b6",
+      "title": "肠胃第三十一",
+      "volume": "《灵枢》",
+      "content": "会厌：本经「忧恚无言篇」：会厌者，音声之户也。《难经·四十四难》：会厌为吸门。\n上下辟：《文选》张协「七命」：万辟千灌。注：辟，谓曡之。又，引《典论》云：魏太子丕作百辟宝剑，长四尺。《素问·调经论》：聂辟气不足。注：辟，谓辟曡也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 228,
+      "source_path": [
+        "《靈樞》",
+        "腸胃第三十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "4583ad8a55b6ee49d5fdb671ad304e0596022429be69bc83fba6d3f44e5c34c3",
+      "content_sha256": "f38b35bf25affad1c8f8a1fd44d99fff3988bafaeeceafcd4b974d8a76ffa5a9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        229,
+        230
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "75ea4accddc4d662b8463d61",
+      "title": "五乱第三十四",
+      "volume": "《灵枢》",
+      "content": "嘿：莫北切。本作「默」。《左·昭十五年传》注：释文静嘿。本或作「默」。《晏子春秋·内篇》：谏上，近臣嘿，远臣瘖。《太平御览》引作「默」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 231,
+      "source_path": [
+        "《靈樞》",
+        "五亂第三十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "fb592c9f3369e372cf1e1e2812cff35a6d7e9b1df22db777e1ecb92eecc399ef",
+      "content_sha256": "6ae63b5a7c02ce280fc6da0d42cd0dc141e97304cc23507247085e844f95f981",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        232
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "8b4ea1285357e4b509d843f3",
+      "title": "胀论第三十五",
+      "volume": "《灵枢》",
+      "content": "𦙳：章忍切。亦作「胗」。《素问·奇病论》无损不足，益有余，以成艾胗。注：谓久病。《甲乙经》作「诊」。又，唇疡曰胗。见前。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 233,
+      "source_path": [
+        "《靈樞》",
+        "脹論第三十五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "52147d6dee3615a07f4fb867dca4b4ea0dcd80c3f5458f7feeeca6483f78f772",
+      "content_sha256": "b81fc8aba6da217c1cfeb055a435231611dddd7c7cc7b72fd254c30d839766ad",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        234
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "e018657418770d8c713702ff",
+      "title": "五阅五使第三十七",
+      "volume": "《灵枢》",
+      "content": "致：直利切。《说文》徐铉曰：致，密也。《大藏音义》引《古今正字》，致者，精微密致也。\n埤：符支切。《说文》：埤，增也。《广雅·释诂》：埤，益也。《诗·邶风》：政事一埤益我。传：厚也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 235,
+      "source_path": [
+        "《靈樞》",
+        "五閱五使第三十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "04ade928f5df9b617637470688abf4b4f4d8f0d8ce4425d88a0f5024a913dfdc",
+      "content_sha256": "4e1ae6c12ea3d25877aa47ad13dcfa4caf84fe32814b9cdbb919bccc096a114a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        236,
+        237
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 91,
+        "simplified_codepoints": 91
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "e418a922ab76c25ab3194634",
+      "title": "逆顺肥瘦第三十八",
+      "volume": "《灵枢》",
+      "content": "法式捡押：捡，居奄切。与「检」通。《汉书·黄霸传》：郡事皆以义法令捡式。注：捡，局也。押，胡甲切。与「柙」通。《扬子法言》：蠢迪检押。注：检押，犹隐括也。《后汉书·仲长统传》昌言法诫篇：是妇女之检柙。注：检柙，犹规矩也。\n临临：临与「隆」通。《易·序卦》传：临者，大也。《诗·大雅》：与尔临冲。《释文》引韩诗作「隆冲」。《荀子·强国篇》：乃有临虑。《汉书·地理志》作「隆虑」。本经「通天篇」：太阴之人，其状临临然长大。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 238,
+      "source_path": [
+        "《靈樞》",
+        "逆順肥瘦第三十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e59241f67428a0112712b3ba06dc9339464c6085b4d560c3dcb51a96d7302c6d",
+      "content_sha256": "4741b090c8281c0ea9f7db7c600a4214efa5349754858348c05405394cc6882d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        239,
+        240
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 209,
+        "simplified_codepoints": 209
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "9879e00d33e4678cd88120e4",
+      "title": "病传第四十二",
+      "volume": "《灵枢》",
+      "content": "乔：与「蹻」通。《素问·异法方宜论》：其治宜导引按蹻。注：蹻，谓捷举手足。\n焫：如劣切。与「爇」通。《甲乙经》作「爇」。《一切经音义》引《通俗文》：然火曰焫。《礼·郊特》：牲焫萧。《释文》：焫同「爇」。《素问·异法方宜论》：其治宜灸焫。注：火艾烧灼谓之灸焫。\n日昳：昳，徒结切。《周礼·司市》：日昃而市。注：日昃，昳中也。《初学记》引《纂要》：在未日昳。《素问·标本病传论》：冬日昳。注：日昳，谓午后八刻，未正时也。\n早晡下晡：晡，博孤切。与「餔」通。《玉篇》：申时也。《淮南子·天文训》：日至于悲谷，是谓餔时。《素问·标本病传论》：夏下晡。注：下晡，谓日下，于晡时申之后五刻也。夏晏晡注：晏晡谓，申后九刻向昏之时也。《甲乙经》「早晡」作「晏晡」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 241,
+      "source_path": [
+        "《靈樞》",
+        "病傳第四十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "5cac0837dd1736bd5fb0a9faf273c49f2711c15486c87b74cf7aea2f00d79d7a",
+      "content_sha256": "fead92bd56bc6f2a2184d211c26ec6994c7a1e973f79f21e5b68815e0bc3a8a7",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        242,
+        243,
+        244,
+        245
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 324,
+        "simplified_codepoints": 324
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "6307b60b31c626d3af557afb",
+      "title": "淫邪发梦第四十三",
+      "volume": "《灵枢》",
+      "content": "刳：苦胡切。《说文》：刳，判也。《易·系辞》传：刳木为舟。\n窌：居效切。与「窖」通。《广雅·释诂》：窌，藏也。《考工记·匠人》：囷窌仓城。注：穿地曰窌。《文选》马融「长笛赋」：庨窌巧老。注：深空之貌。\n䐈：除力切。《广韵》：肥肠。《考工记·弓人》：相胶。注：䐈，黏也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 246,
+      "source_path": [
+        "《靈樞》",
+        "淫邪發夢第四十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "4bbee56008fdb563d4df15e614402fb37cd25155d69d1ccd2fbde679ed5f0a30",
+      "content_sha256": "fa91abc921585741c2e3fefeef3ce5b0778eb187bdaabf9fe7c57bd8633bed16",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        247,
+        248,
+        249
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 134,
+        "simplified_codepoints": 134
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "6156ac3c48dadda7750db27b",
+      "title": "五变第四十六",
+      "volume": "《灵枢》",
+      "content": "漉：卢谷切。《说文系传》：漉水下儿。司马相如「封禅文」：滋液渗漉。\n杌：五忽切。《玉篇》：树无枝也。又，《书·秦誓》：杌陧。注：杌陧，不安也。义别。\n臗：苦官切。亦作「髋」。《广雅·释亲》：髋尻，臀也。《说文》：髋，髀上也。《释名》：髋，缓也。其腋皮厚而缓也。\n稸：丑六切。与「蓄」通。《说文》：蓄，积也。《汉书·货殖传》：稸足功用。注：稸与「蓄」同。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 250,
+      "source_path": [
+        "《靈樞》",
+        "五變第四十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d48d312dfeede6b20a27b85b12796d3d38b097b9fd0f01155455b5fd48565d35",
+      "content_sha256": "7d7172a91e95981df559edb72898bbd89a4bf2fe5d28423000df6ff4ace67dc7",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        251,
+        252,
+        253,
+        254
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 176,
+        "simplified_codepoints": 176
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "6e308d32218f34e7716c4da8",
+      "title": "本脏第四十七",
+      "volume": "《灵枢》",
+      "content": "骹：口交切。《说文》：骹，胫也。\n么：亡果切。《广雅·释诂》：么，小也，微也。《文选》班彪「王命论」：又况么么不及数子。注引《通俗文》：不长曰幺，细小曰么。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 255,
+      "source_path": [
+        "《靈樞》",
+        "本臟第四十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "5ee3a490e0684c9a953b281f736dbb87a5c1ae721d88375fa187f4247b0ed0b4",
+      "content_sha256": "36258793ce2c469ed2fa46fff915e223e0bd974a1fa53f9565bab474823f342a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        256,
+        257
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "26508f24c0eb283eca0a3a46",
+      "title": "禁服第四十八",
+      "volume": "《灵枢》",
+      "content": "歃：山洽切。《左·隐七年传》：歃如忘。疏：歃，谓口含血也。\n出縻：縻与「靡」、「麋」、「糜」并通。《易·中孚卦》：吾与尔靡之。《释文》引《埤苍》作「縻」。散也。《甲乙经》作「麋」。本经「百病始生篇」：多热则溏出麋。《甲乙经》又作「糜」。按：出縻，为大便不实之义。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 258,
+      "source_path": [
+        "《靈樞》",
+        "禁服第四十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d1b6e12f426678a06253189b71d0e1522f8b65769fe0d71b41c0d2c1f6685e71",
+      "content_sha256": "367a8bb6833fc91de3299ef3f5a232def61ce1ec86647da2af1ed6d2c10fa59c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        259,
+        260
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "afc0fbdce4b791bb06e6472c",
+      "title": "五色第四十九",
+      "volume": "《灵枢》",
+      "content": "面王：《甲乙经》：素窌穴一名面王，在鼻柱上端。\n膀胱子处：《甲乙经》作「膀胱字子处」。膀，步光切。胱，古黄切。亦作「旁光」。《释名》：胞一曰膀胱，言其体短而横广也。《史记·扁鹊传》：别下于三焦膀胱。《正义》：膀胱者，津液之府也。《淮南子·说林训》：旁光不升俎。注：旁光，胞也。\n胝：都计切。与「骶」通。又，丁尼切。胼胝，皮厚也。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 261,
+      "source_path": [
+        "《靈樞》",
+        "五色第四十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "78935fbf05f3272c109313b08d70d8dd279db5050d1ee34e5477259eb8628146",
+      "content_sha256": "a8f64584f882e6e9f359003f0395566601435fc311f1316846ffbbe34c82f08d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        262,
+        263,
+        264
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "5dc745ba5325331882243a63",
+      "title": "论勇第五十",
+      "volume": "《灵枢》",
+      "content": "横：户孟切。本作「撗」。《大藏音义》引《考声》：撗，不顺理也。干禄《字书》：撗通「横」，正。《说文》：从木。《汉书·田蚡传》：蚡日益横。注：横，恣也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 265,
+      "source_path": [
+        "《靈樞》",
+        "論勇第五十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d5c11c0afbf850b91d27ee661b15cc5a5073282a55de6fa55910fe8e5fa5a7ee",
+      "content_sha256": "233645897ec25209e42d00e365ac6dcc883e805b931913a6d606052ff2efcdae",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        266
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "80f3da447ceb206ae720fbe2",
+      "title": "天年第五十四",
+      "volume": "《灵枢》",
+      "content": "楯：食尹切。《说文》：楯，阑栏也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 267,
+      "source_path": [
+        "《靈樞》",
+        "天年第五十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "08a888fab412b14740cf834420e8e0278fe7933befe33f41211794d177d274ec",
+      "content_sha256": "0867bc9e4c590c92d5a4ede81902c35a5d42c27dfd97ec08941c2a7f78414aae",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        268
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 17,
+        "simplified_codepoints": 17
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "a8a82b4ce7b55d6099f914c3",
+      "title": "逆顺第五十五",
+      "volume": "《灵枢》",
+      "content": "逢逢：逢，薄红切。与「蓬」通。《孟子》：逄蒙。《汉书·艺文志》作「逢门」。《庄子·山木篇》作「蓬蒙」。《诗·大雅》：龟鼓逢逢。《太平御览》作「蓬蓬」。《墨子·耕柱篇》：逢逢白云。\n熇熇：熇，火酷切。《诗·大雅》：多将熇熇。传：熇熇，炽盛也。《素问·刺疟篇》：先寒后热，熇熇暍暍然。注：熇熇，甚热状。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 269,
+      "source_path": [
+        "《靈樞》",
+        "逆順第五十五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a52cba72184d99019113f1fe3b33d6d5e28cbe658d8cc6e4e7055e5d7c011c8b",
+      "content_sha256": "f2faa0ab39747dcd4d8df1cdf8f974b60fe0c169a860c5efdc93d623e3275649",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        270,
+        271
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 149,
+        "simplified_codepoints": 149
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "c2a7c3c095fab882e004347d",
+      "title": "五味第五十六",
+      "volume": "《灵枢》",
+      "content": "薤：胡介切。亦作「䪥」。《说文》：䪥，菜也。叶似韭。《礼·内则》：膏用䪥。《释文》：俗本多作薤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 272,
+      "source_path": [
+        "《靈樞》",
+        "五味第五十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "2644b1ad75a2bf4e40dc2a3c35c02136830e15c96a1ac69d04f83bcd004ba785",
+      "content_sha256": "099002ff6112cdba3f519b5b1a99d322b3c82cdd6723b5e635f6707a7044e348",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        273
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "f146f41922c2673454628beb",
+      "title": "水胀第五十七",
+      "volume": "《灵枢》",
+      "content": "肠覃：覃，慈荏切。与「蕈」通。《玉篇》：地菌也。《诗·周南》：葛覃序。《释文》：覃亦作「蕈」。\n窠：苦条切。《说文》：窠，空也。穴中曰窠，树上曰巢。《广雅·释宫》：窠，巢也。\n瘇：时冗切。与「肿」、「尰」通。《汉书·贾谊传》：天下之执方病大瘇。注引如湻：肿足曰瘇。《诗·小雅》：既微且尰。《说文》引作「瘇」。\n𪔣𪔣：𪔣，枯公切。《甲乙经》作「壳壳」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 274,
+      "source_path": [
+        "《靈樞》",
+        "水脹第五十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "baae2cc203c8b70c10baa1bee73670696454de73ef178e591ae0fb81b27c3ca6",
+      "content_sha256": "e8756d65868e61748a8b520b24822fe313c44c5c4352355f7e5bf3f104ee77ea",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        275,
+        276,
+        277,
+        278
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 175,
+        "simplified_codepoints": 175
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "42933bdfee2d47dff4e21294",
+      "title": "贼风第五十八",
+      "volume": "《灵枢》",
+      "content": "祝：职救切。亦作「咒」。《书·无逸》，厥口诅祝。《诗·大雅》：侯作侯祝。传：作祝，诅也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 279,
+      "source_path": [
+        "《靈樞》",
+        "賊風第五十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "7207a92ed3f3ad9e6248f40ac01f965eb8c12d1f80f6ee5fb4ad6ec4aa7821dc",
+      "content_sha256": "846031792c59ec2ff6f7767972e5199c12f5da48d2d4bfbd912b91c23105bd59",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        280
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 44,
+        "simplified_codepoints": 44
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "0f0166d9b83d7fd0854bc285",
+      "title": "卫气失常第五十九",
+      "volume": "《灵枢》",
+      "content": "苑：纡勿切。与「郁」、「宛」、「菀」通。《诗·小雅》：我心苑结。《释文》：音郁。《淮南子·本经训》：百节莫苑。注：苑，病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 281,
+      "source_path": [
+        "《靈樞》",
+        "衛氣失常第五十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a1fc19e7791a40743d1c2da16ccb9bb4a76e8cb50c931a643d193d27883144ff",
+      "content_sha256": "350bcd341f04d6c1a432294fe7478b0bc51ce713c6c09abfbe286927134f4f5e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        282
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 62,
+        "simplified_codepoints": 62
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "581843915288c41cb35b4475",
+      "title": "玉版第六十",
+      "volume": "《灵枢》",
+      "content": "嘶：先稽切。《一切经音义》引《埤苍》：嘶，声散也。《汉书·王莽传》：大声而嘶。注：嘶，声破也。\n骏：《尔雅·释诂》：骏，大也，长也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 283,
+      "source_path": [
+        "《靈樞》",
+        "玉版第六十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "86ac65d11123c632681b31cb00d88f3a5a1809f482a491b16967a7f061f5e053",
+      "content_sha256": "adf9b99cec810e9c04e8783edd9f4136f87093836d9e81e5ed111f2b3ad8037d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        284,
+        285
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 66,
+        "simplified_codepoints": 66
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "b60bf97118133bd063d2e35b",
+      "title": "五味论第六十三",
+      "volume": "《灵枢》",
+      "content": "绻：去阮切。与「卷」通。《释名》：卷，绻也。相约束缱绻以为限也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 286,
+      "source_path": [
+        "《靈樞》",
+        "五味論第六十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "aafd5c5bd261fca77da79b58aeef13399ffa67f848050013fcd049e267640f72",
+      "content_sha256": "270d876a53e1a1ca2d22791e95f0ffa5e582fe19546e5fcf6e15a2e59cd08dd4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        287
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 32,
+        "simplified_codepoints": 32
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "c2ecf317fd07f5982fcb3790",
+      "title": "阴阳二十五人第六十四",
+      "volume": "《灵枢》",
+      "content": "能春夏不能秋冬：能，奴代切。与「耐」通。《甲乙经》作「奈」。《汉书·食货志》：能风与旱。「龟错传」：其性能寒，其性能暑。「赵充国传」：汉马不能冬。注：皆云能。读曰耐。\n𮡧：《甲乙经》作「钛」。音太。字书无「钛」字。《韵略》：釱，大计切。《汉书·食货志》：𮡧左趾。注：𮡧，足钳也。《史记》作「釱」。\n判：《素问·五常政大论》：少角与判商同。注：判，半也。\n䏖：以忍切。《类篇》：当脊肉。\n质：《广雅·释诂》：质，正也。《小尔雅》、《广言》同。\n桎：之日切。《说文》：桎，械也。《一切经音义》引《苍颉篇》：偏著曰桎。\n髯：汝监切。亦作「⿱須丹」。《说文》：⿱須丹，颊须也。《释名》：在颊耳旁曰髯。\n吻：武粉切。《说文》：吻，口边也。《广雅·释亲》：咡，谓之吻。《文选》陆机「文赋」：始踯躅于燥吻。注引《苍颉篇》：吻，唇两边也。\n画：胡麦切。《说文》：画，界也。\n瘃：陟玉切。《说文》：瘃，中寒肿核。《汉书·赵充国传》：手足皲瘃。注引文颖曰：瘃，寒创也。\n髭：即移切。本作「頾」。《说文》：頾，口上毛也。《释名》：口上曰頾。頾，姿也。为姿容之美也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 288,
+      "source_path": [
+        "《靈樞》",
+        "陰陽二十五人第六十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "4e226507774ea9db0ef3a4cda00a2fb8c1807487f1ed8b674b72c81156ec002f",
+      "content_sha256": "3972228396d43414478ea19ab48a5eda00286a035d32b858494b6a91dc522ec1",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 471,
+        "simplified_codepoints": 471
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "d3a13ab72a7b2463e9abf17d",
+      "title": "百病始生第六十六",
+      "volume": "《灵枢》",
+      "content": "募原：募，慕各切。与「膜」通。《素问·奇病论》：胆募俞。注：胸腹曰募。「举痛论」：膜原之下。注：膜谓鬲间之膜，原谓鬲肓之原。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 300,
+      "source_path": [
+        "《靈樞》",
+        "百病始生第六十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "414b223c35c6ae44fa86f82b097a77aa4f268c51c051c6d2af9b7e23f24516e8",
+      "content_sha256": "e4677bb857ec3d05d394b53d2c04f40d212db8c7ac7532ff399eb693cbd9e65f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        301
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 62,
+        "simplified_codepoints": 62
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "85225adf655e66eb6751b547",
+      "title": "忧恚无言第六十九",
+      "volume": "《灵枢》",
+      "content": "恚：于避切。《说文》：恚，恨也。《史记·绛侯世家》：冒絮提文帝。《索隐》：恚者，嗔也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 302,
+      "source_path": [
+        "《靈樞》",
+        "憂恚無言第六十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "de5b0dccb620cd48e5d049b04c6d8e13f42bacb301d25d7ad65255af55fe2791",
+      "content_sha256": "8882e76127d75189c339d3c3a4fdc297313ad6f5399ee18d98955f224ce5b64d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        303
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 43,
+        "simplified_codepoints": 43
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "52c2e4ee5735cae0adc8ac06",
+      "title": "寒热第七十",
+      "volume": "《灵枢》",
+      "content": "瘰疬：瘰，郎果切。疬，郎击切。《广韵》：病筋结也。巢氏《病源候论》：风邪毒气客于肌肉，结为瘰疬。\n鼠瘘：鼠，舒吕切。亦作「癙」。《尔雅·释诂》：癙，病也。《淮南子·说山训》：狸头愈鼠。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 304,
+      "source_path": [
+        "《靈樞》",
+        "寒熱第七十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "cabb46f82585eaf913cae2bd28556dc4abc57d6c48220ff832d2b96336e64a2b",
+      "content_sha256": "f3a1d7e80c153acd3706aeb1f910668cc2587b6fc64d0a992c83a46de69a2b11",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        305,
+        306
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "47a2b1b35b93649a36e359f1",
+      "title": "邪客第七十一",
+      "volume": "《灵枢》",
+      "content": "秫：食聿切。《说文》：秫，稷之黏者也。《急就篇》：稻黍秫稷粟麻秔。注：秫，似粟而黏，亦可为酒。按：即今糯稻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 307,
+      "source_path": [
+        "《靈樞》",
+        "邪客第七十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "62ba7ba7ca65561354551f91b796aa70ebaa603a32f5df935415eb7b38ffd0c5",
+      "content_sha256": "f5901c12e9da0bd5bbdd1405bc467e0a52df7072528742d60f04f0e2f2b92208",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        308
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 54,
+        "simplified_codepoints": 54
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "ea54cd6fb13eaae1a4c57f93",
+      "title": "通天第七十二",
+      "volume": "《灵枢》",
+      "content": "下齐湛湛：《左·襄二十二年传》：以受齐盟。注：齐，同也。湛，都含切。《说文》作「媅」，乐也。《诗·小雅》：和乐且湛。传：乐之久也。按：此言太阴之人，下同于湛乐者流也。《甲乙经》齐作「济」。\n𬤊谛：谛，亦作「𧫚」。《说文》：𬤊，理也。谛𬤊审也。《广雅·释诂》：𬤊，是也。𧫚，𬤊也。关尹子「九药篇」：谛毫末者，不见天地之大。\n谭：徒含切。《玉篇》：大也。\n黮黮：黮，徒感切。《文选》左思「魏都赋」：榱题黮𪒡。注引《声类》：黮，深黑色也。束皙「补亡诗」：黮黮重云。注：黮黮，云色不明貌。\n䁢䁢：䁢，似宣切。《玉篇》：好貌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 309,
+      "source_path": [
+        "《靈樞》",
+        "通天第七十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "09a05e4dc57b49872f1ce9a6e9e3116251e941c4fe9593595bb9484fc2a7fb17",
+      "content_sha256": "134482726a9714d7d8b3ae614517e43cebb52211c9119c18ddb152b7cb7fd778",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        310,
+        311,
+        312,
+        313,
+        314
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 258,
+        "simplified_codepoints": 258
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "095e8419e7d3fd0ac0e197cd",
+      "title": "论疾诊尺第七十四",
+      "volume": "《灵枢》",
+      "content": "解㑊：解，胡懈切。与「懈」通。㑊，羊益切。《素问·平人气象论》：尺脉缓涩谓之解㑊。「玉机真脏论」：冬脉太过，则令人解㑊。「刺疟论」：足少阳之疟，令人解㑊。「刺要论」：刺骨无伤髓，髓伤则销铄胻酸，体解㑊然不去矣。注：解㑊，谓强不强，弱不弱，热不热，寒不寒。解解㑊㑊然，不可名之也。\n办：当与「瓣」通。薄苋切。《说文》：瓣，瓜中实也。\n痎：古谐切。《说文》：痎，二日一发疟也。《素问·疟论》：疟皆生于风。注：痎，犹老也。亦瘦也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 315,
+      "source_path": [
+        "《靈樞》",
+        "論疾診尺第七十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "1bcf8f74cb2772d389da3888b5573528eb227f136d24031739c1fb9dae6a5a87",
+      "content_sha256": "5bb62a307622e3a022529f206e7803538b3c00658767eec2c477e2de6db15fde",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        316,
+        317,
+        318
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 212,
+        "simplified_codepoints": 212
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "c336a4ba314446252ccb3a0b",
+      "title": "刺节真邪第七十五",
+      "volume": "《灵枢》",
+      "content": "𩜺：一结切。与「噎」通。《说文》：噎，饭窒也。《汉书·贾山传》：祝𩜺在前。注：𩜺，古「噎」字。谓食不下也。\n口说书卷：卷，居倦切。亦作「弮」。与「券」通。《说文》：券，契也。按：此谓口说而书之于卷也。《史记·高祖纪》：常析券弃负。《索隐》：古用简札，书故可析。\n脆道：《甲乙经》作「越道」。\n剽：匹妙切。《说文》：剽，砭刺也。\n渐洳：渐，子廉切。洳，人恕切。亦作「洳」。《广雅·释诂》：渐，湿也。《说文》：洳，渐湿也。《汉书·东方朔传》：涂者渐洳径也。注：渐洳，浸湿也。\n痒：余两切。与「痒」通。《玉篇》：痛，痒也。《抱朴子·塞难篇》：人不能自知其体老少痛痒之何故。\n疼：徒冬切。《广雅·释诂》：疼，痛也。《释名》：疼痹，痹气疼疼然烦也。《一切经音义》：疼下里间。音腾。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 319,
+      "source_path": [
+        "《靈樞》",
+        "刺節真邪第七十五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "72248f15148213898737af8ddce43913ab0cfa90389d2ede1a11bbd8e2cf3a38",
+      "content_sha256": "3b9f13172e6b7b8df6bd962881e82a638b8154ee9a09931efd3ee6fd4600a5a5",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 335,
+        "simplified_codepoints": 335
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "578707cf774de6b78acf9318",
+      "title": "卫气行第七十六",
+      "volume": "《灵枢》",
+      "content": "𤽉𤽉：𤽉，普巴切。分明之貌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 327,
+      "source_path": [
+        "《靈樞》",
+        "衛氣行第七十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "085261d094a525e635bb29901b254c020b533e1927abdc53d4a2099861f4b636",
+      "content_sha256": "085261d094a525e635bb29901b254c020b533e1927abdc53d4a2099861f4b636",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        328
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 14,
+        "simplified_codepoints": 14
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "7dd87c7fc177ea9b7cfa89a7",
+      "title": "九宫八风第七十七",
+      "volume": "《灵枢》",
+      "content": "叶蛰：叶，胡颊切。《玉篇》：古文「协」字。《书·尧典》：协和万邦。传：协，合也。蛰，直立切。《说文》：蛰，藏也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 329,
+      "source_path": [
+        "《靈樞》",
+        "九宮八風第七十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "3f5025e1ce7f7c562928260a55b9c78cb2f03ece4af685426f0964405761b257",
+      "content_sha256": "ff13a0fca3cad293b9daedf8657e31bf40f0f99f017986b1baf1aa1a3f08c22e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        330
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 56,
+        "simplified_codepoints": 56
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "55bcca12bdce562ce18abc50",
+      "title": "九针第七十八",
+      "volume": "《灵枢》",
+      "content": "寤：五故切。与「悟」通。《文选》张衡「东京赋」：盍亦览东京之事以自寤乎。薛注：自寤，自觉悟也。《尔雅》序：别为音图，用祛未寤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 331,
+      "source_path": [
+        "《靈樞》",
+        "九針第七十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "4631500f90e5a92e09d025c3314f98efbd06f544ad5bcfce82c13eb1a22b070e",
+      "content_sha256": "1ab049545f9964a298d1e8c50e010dbd04894b8b35cd6ba69afd0c9c4cd35fa3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        332
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "16d4284d8da974897d9efa4f",
+      "title": "岁露论第七十九",
+      "volume": "《灵枢》",
+      "content": "郄：去约切。与「郤」、「却」通。《素问·四时刺逆从论》：气血内却。注：却，闭也。\n⿰血戔：字书无⿰血戔字，当与「残」通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 333,
+      "source_path": [
+        "《靈樞》",
+        "歲露論第七十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "8a1aad8dca74c31e561f96dc0a76c4f1330b4680bc2c7f83b7fb282506f0a36a",
+      "content_sha256": "a4afafed13fb5087dc6234ca32a2e3596322987c82b8872d1fad46f7fa41daa6",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        334,
+        335
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "0195d93a321d72cce824b05d",
+      "title": "大惑论第八十",
+      "volume": "《灵枢》",
+      "content": "撷：胡结切。亦作「襭」。《说文》：以衣衽扱物谓之襭。或从手，扱收也。《尔雅·释器》：襭衽谓之襭。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 336,
+      "source_path": [
+        "《靈樞》",
+        "大惑論第八十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "490036253cb2287a14e129c0503e58822ef25b866392b458904b8049845d0413",
+      "content_sha256": "bf6d6fae6a28bf7021d1e382d40d211dcb57e1e1d443ad9fdeb619c696635df9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        337
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "8c7ff6670d4ba0dc4b7c5e86",
+      "title": "痈疽第八十一",
+      "volume": "《灵枢》",
+      "content": "癕：与「痈」通。《史记·穰侯传》：如以千钧之弩决溃癕也。\n草萓：萓，鱼羁切。《玉篇》：萓，莮草。《甲乙经》作「草蓂」。\n血泣：泣，色力切。与「歰」、「涩」、「濇」通。《素问·六节脏象论》：多食咸，则脉凝泣而变色。又，凝于脉者为泣。注：谓血利不行。「调经论」：寒则泣不能流。注：泣，谓如雪在水中凝住而不行去也。\n𦸈𧁾：𦸈，古活切。𧁾，落侯切。《玉篇》：𦸈𧁾，土瓜也。《广韵》：同䒷蒌，果臝也。《玉篇》：䒷蒌，齐人谓之瓜蒌。\n䔖𧄍草：䔖，力膺切。与「菱」、「蔆」通。《说文》：蔆，芰也。《汉书·司马相如传》「子虚赋」：外发夫容䔖华。《史记》作「蔆」。《文选》作「菱」。𧄍，渠遥切，与「翘」通。《玉篇》：连翘草也。《尔雅·释草》：连异翘。《释文》：翘字亦作𧄍。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 338,
+      "source_path": [
+        "《靈樞》",
+        "癰疽第八十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a45cdd7cee7026f4142418cf95fb2e795ed80f30d47c3256e08a86475f0cef8a",
+      "content_sha256": "32691e987b5bcba2fa92b32ebfb2a85ec0aca10de1e81ba032b362bb35149b9a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        339,
+        340,
+        341,
+        342,
+        343
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 327,
+        "simplified_codepoints": 327
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "063a04a533c4e6d0ad2f646c",
+      "title": "上古天真论第一",
+      "volume": "《素问》",
+      "content": "徇齐：徇，辞闰切。齐，侧皆切。《史记·五帝纪》索隐：徇齐，皆德也。《孔子家语》及《大戴礼》并作「睿齐」。《史记》旧本亦有作「濬齐」，盖古字假借徇为濬。濬，深也。王注：徇，疾也。与《史记集解》同失之。\n迺：奴亥切。古文「乃」字。《尔雅·释诂》：迺，乃也。\n耗：呼到切。亦作「秏」。《文选》曹植「七启」：耗精神于虚廓。注引《苍颉篇》：耗，消也。\n惔：惔，徒滥切。与「憺」通。本经「阴阳应象论」、「移精变气论」皆作憺。\n解堕：解，古隘切。与「懈」通。《释名》：懈，解也，骨节解缓也。堕与「惰」通。《大戴礼·盛德篇》：小者偷堕。注：堕，解堕也。《礼·月令》：季秋行春令，则民解惰。\n寿敝：敝，王注：尽也。《汉书·枚乘传》：敝无穷之乐。注：敝，尽也。《灵枢·五十营篇》：故五十营备，得天地之寿矣。\n嗔：昌真切。《说文》：嗔，盛气也。《广韵》：怒也。与「瞋」通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 345,
+      "source_path": [
+        "《素問》",
+        "上古天真論第一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "8ff54027e4eab761ff09a41866f68f090216230735cb841c286cf482518d0ef6",
+      "content_sha256": "69ba17edfa2dbee7f7b303132139839b20f1e8e06ca6172ee7579afb7e98a499",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 375,
+        "simplified_codepoints": 375
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "ba2977d924f95c086778bfe0",
+      "title": "四气调神大论第二",
+      "volume": "《素问》",
+      "content": "亟夺：亟，去吏切。王注：数也。《礼·少仪》：亟见日朝夕。《左·成十年传》：吾先君之亟战也有故。\n名木：按此当作大木解。《礼·礼器》：因名山升中于天。注：名，犹大也。《国策·秦策》：王不如因而赂一名都。注：名，大也。王注谓：名木珍果，失之。\n菀藁：菀，与「苑」、「宛」、「郁」通。本经「生气通天论」：大怒则行气绝，而血菀于上。藁，苦浩切。《说文》：藁，木枯也。《易》「说卦」传：离为枯上槁。\n焦满：按：此谓肺气焦枯，烦满也。本经「痿论」：肺热叶焦。「痹论」：肺痹者，烦满喘而呕。王注：焦，谓上焦也。林校：据全元起本作「进满」，皆失之。\n独沉：《甲乙经》作「浊沉」。林校：据《太素》作：沉浊。按：独、浊古字相通。《周礼》壶涿氏郑司农注：独，读为浊。沉，直深切。《周礼》：酒正三日沉齐。《释名》：沉齐，浊滓沉下，汁清在上也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 353,
+      "source_path": [
+        "《素問》",
+        "四氣調神大論第二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "fb0765cae7529c8ca157613f335a9cfed5d3f682b6c102064b9d84f39360466d",
+      "content_sha256": "dbeebf9ad561bebf3a46358304f00b02bbc6fb383fa621f184563ee71b0f5190",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        354,
+        355,
+        356,
+        357,
+        358
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 359,
+        "simplified_codepoints": 359
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "f40e92463a7541c03a6fa364",
+      "title": "生气通天论第三",
+      "volume": "《素问》",
+      "content": "喘喝：二字已见《灵枢·本神篇》：喝，嘶声，声之幽也。王注谓：大呵出声则近呼喝之义，非暑病所有。\n緛：而兖切。王注：缩也。《太元》：耎，云阳气能刚、能柔、能作、能休，见难而缩。范注：耎而自缩，故谓之耎。耎，与緛通。《广雅·释诂》：緛，缩也。\n则张：张，知亮切。《广雅·释诂》：张，大也。\n辟积：辟，当读若「襞积」之襞。《灵枢·根结篇》：㒤辟。「肠胃篇」：上下辟。意同。\n痤疿：痤，昨禾切。《说文》：痤，小肿也。《广雅·释诂》：痤，痈也。《淮南子·说林训》：溃小疱而发痤疽。注：痤疽，痈也。《管子·法法篇》：痤睢子矿石也。注：痤，痈也。疿，方味切。《玉篇》：热生小疮。王注以为风瘾，失之。\n高梁：与「膏粱」通。《灵枢·根结篇》：膏梁。义同。\n足生大丁：丁，本作「疔」。《集韵》：疔，当经切。音丁。病创也。按：足生大丁，谓高梁厚味足以致疔毒之大。王注谓：丁生于足。林校谓：饶生大丁。皆失之。\n皶：侧加切。亦作皻。王注：皶，刺长于皮中，形如米，或如针。俗曰粉刺。又《类篇》：鼻上疱也。义别。\n俞气：俞，伤遇切。与「腧」、「输」通。详《灵枢》「腧」字条。\n魄汗：王氏无训。按《灵枢·本神篇》：并精而出入者，谓之魄。本经「宣明五气论」：肺藏魄。「六节脏象论」：肺者，气之本，魄之处也。其华在毛，其充在皮。汗出于皮毛故曰魄汗。\n沮㢮：沮，慈吕切。㢮，本作弛。言坏废也。《诗·小雅》：何日斯沮。传：沮，坏也。《谷梁·襄二十四年传》：弛候。注：弛，废也。本经「五脏生成篇」：多食辛，则筋急而爪枯。可以互证。王注训沮为润，训弛为缓，失之。\n乃央：《广雅·释诂》：央，尽也。《梦辞》屈原「离骚」：时亦犹其未央。注：央，尽也。王注央为久，失之。林校谓：央，乃殃也。古文通用亦强解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 359,
+      "source_path": [
+        "《素問》",
+        "生氣通天論第三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "22f571be6ffba71b5388410d57fc8380b75bc8e6e324a23db2982f8ee7584b31",
+      "content_sha256": "b818d4a470cac9bc42553c394b8046fa92a827aa27ad78536ea9d12afcf26399",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366,
+        367,
+        368,
+        369,
+        370,
+        371
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 728,
+        "simplified_codepoints": 728
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "2266d90232b284af23560bcb",
+      "title": "阴阳应象大论第五",
+      "volume": "《素问》",
+      "content": "病之形能：王氏音义于上文「能冬」云：奴代切。下「形能」同。按：此当读本音，谓病之所能也。本经「阳明脉解篇」云：皆非其素所能也。病反能者，何也？可以互证。\n𤙲：时制切。《甲乙经》作「掣」。《集韵》本作「觢」，或作「挈」。《玉篇》作「𤙲」。《易·暌卦》：其牛掣。郑本作「𤙲」。《说文》引作「觢」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 372,
+      "source_path": [
+        "《素問》",
+        "陰陽應象大論第五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e0109d9511ade7929e523833b887e5133af641a76f8db1b253cb9e688dccc322",
+      "content_sha256": "859ea744694b253b7650406aa4698e98c627da7c0e2a3e41ea30ca3dc9d8f572",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        373,
+        374
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 146,
+        "simplified_codepoints": 146
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "9aa632daa902c238b9bd5fad",
+      "title": "阴阳离合论第六",
+      "volume": "《素问》",
+      "content": "𩅞𩅞：《篇海》有此字，音中。明·熊宗立本亦音中。林校云：别本𩅞𩅞作「冲冲。」王氏：𩅞字无音，注：言气之往来也。盖即《易·咸卦》憧憧往来为训。憧、冲古字相通，则亦以𩅞为冲矣。按：《集韵》：憧，有冒容、诸容二切。诸容切，音钟，与中字音近。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 375,
+      "source_path": [
+        "《素問》",
+        "陰陽離合論第六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "2b5d06a1c19a05184cf3d7d36b26c5722edc98925d82efe6d7b28d64af5f378c",
+      "content_sha256": "bfd9aea7fdc83831c17edb8f36627b5671f129b6307bf34b9493b9426b3d97e5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        376
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "e07bcfdcfb97d512073409ab",
+      "title": "阴阳别论第七",
+      "volume": "《素问》",
+      "content": "㾓：乌悬切。王注：㾓，酸痛也。《文选》谢灵运「登临海峤与从弟惠连诗」注引《说文》曰：㾓，疲也。《列子·杨朱篇》：心㾓体烦，内热生病矣。殷敬顺《释文》：音一错反。\n索泽：索，苏各切。王注：皮肤润泽之气皆散尽也。《礼·檀弓》吾离群而索居。注：索，犹散也。《说苑·权谋篇》：索也者，尽也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 377,
+      "source_path": [
+        "《素問》",
+        "陰陽別論第七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "45b000991289dd6e1cc40100023013d32f478c568d7a3519288475922f5a9ea9",
+      "content_sha256": "8515bedb90888f335dff08aef24e9cd869fb5a58ce3297cd9bdc97f4c7359689",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        378,
+        379
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "cd29eace52f63466b5c803a6",
+      "title": "灵兰秘典论第八",
+      "volume": "《素问》",
+      "content": "牦：里之切。亦作厘。《汉书·律历志》：不失毫牦。注引孟康曰：十豪曰牦。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 380,
+      "source_path": [
+        "《素問》",
+        "靈蘭秘典論第八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "5ee70621c68f71fec01686232141e0393b1490a4ac36025df419256a6f502cd4",
+      "content_sha256": "3d4266d25b6dec345c86f30a94ecffe0ba5ebacc5b02fff36631c8644678b0f7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        381
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 35,
+        "simplified_codepoints": 35
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "5d28029814f3866c21785bd7",
+      "title": "六节脏象论第九",
+      "volume": "《素问》",
+      "content": "罢极：罢，符羁切。《史记·平原君传》：臣不幸有罢癃之疾。索隐：罢癃为背疾，言腰曲而背隆高极。《吕氏春秋·仲夏纪》：耳溪极。注：极，病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 382,
+      "source_path": [
+        "《素問》",
+        "六節臟象論第九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "919fe52b15dd9e3a0c71494aabc6e6ae0513d1280c14c88a9b605bcb34c1b29c",
+      "content_sha256": "d507bb436cb2f1c68f1d073aab14a3a3951c0c333d284ac8bec7b8872d36c979",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        383
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "83df4aef1957fdf916251eff",
+      "title": "五脏生成篇第十",
+      "volume": "《素问》",
+      "content": "胝䐢：胝，丁尼切。䐢，侧救切。《汉书·贡禹传》：手足胼胝。注：胝，茧也。䐢与「皱」通。《集韵》：䐢，皱也。\n草兹：王注：兹，滋也。言如草初生之青色也。《说文》：兹，草木多益也。《尔雅·释器》：蓐谓之兹。\n炲：徒哀切。亦作「炱」。王注谓：炲，煤也。《一切经音义》引《通俗文》：积烟以为炱煤。\n绀：古暗切。《说文》绀，帛深青扬赤色。《释名》：绀，含也。青而含赤色也。王注：薄，青色。失之。\n朝夕：与「潮汐」通。《文选》郭璞「江赋」：或夕或朝。注引《抱朴子》曰：麋氏云朝者，据朝来也；言夕者，据夕至也。\n鬲：古核切。亦作「膈」。《玉篇》：胸膈也。《释名》：膈，隔也。隔塞上下，使气与隔不相乱也。《甲乙经》作「膈」。\n胠：去鱼切。王注：胁上也。《说文》：胠，腋下也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 384,
+      "source_path": [
+        "《素問》",
+        "五臟生成篇第十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "742fafbf5403096b2d74923e70d754f53838a5c01337b0f3359477b48b490c9e",
+      "content_sha256": "1d7231289551f21c0f878be3daada7d109f8ff89aa4c2e1f23541ceb307156b6",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 329,
+        "simplified_codepoints": 329
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "057eb9a45857f539a694b441",
+      "title": "异方法宜论第十二",
+      "volume": "《素问》",
+      "content": "食胕：王注：言其所食不芬香。林校据全元起云：食鱼也。按：胕，符遇切。与「腑」通。又冯无切。肤肿也。俱与本文义不合。全、王二注均失之。当依《甲乙经》作「臊」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 392,
+      "source_path": [
+        "《素問》",
+        "異方法宜論第十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "2451bd7ae2a973166df54465dae3beee8d8ebe5b7ca7adc859bcfc96a2381ebf",
+      "content_sha256": "d40496f47365fa1d1fdb28b964f37e0d94026e7f5793f0846ba8068968a96441",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        393
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "02f80aa8c41fa0d3b36e8b8d",
+      "title": "移精变气论第十三",
+      "volume": "《素问》",
+      "content": "僦货季：人名。王注：谓岐伯祖世之师。僦，即就切。《广雅·释言》：僦，赁也。僦与贷义相类。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 394,
+      "source_path": [
+        "《素問》",
+        "移精變氣論第十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "85895cbe1bde93d948e8c9f0e501a324e00b215df4e95d8f938020c84439777b",
+      "content_sha256": "f96cc2d21f40f10bfb51d3bbdae5633fd3ea9e7757c64486d39690a5d53d9894",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        395
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 44,
+        "simplified_codepoints": 44
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "04d6fc5817759ce5f9576cf4",
+      "title": "汤液醪醴论第十四",
+      "volume": "《素问》",
+      "content": "莝：粗卧切。《说文》莝，斩刍也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 396,
+      "source_path": [
+        "《素問》",
+        "湯液醪醴論第十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "eaf2895ca2403d4994dc2c49bf54cb714f855231f3ce3a278617b07321bb094e",
+      "content_sha256": "67cd8a57dad1cfc706890227b60e6c8d646674e55a6b4ad3345a96b06bc32c1e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        397
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 16,
+        "simplified_codepoints": 16
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "71919f3a6158f2991c9746c6",
+      "title": "诊要经终论第十六",
+      "volume": "《素问》",
+      "content": "憿著：林校云：别本「憿」作「憿」。又作「撽」。按：憿，古尧切。《说文》：幸也。憿，古了切。《玉篇》：胫行縢也。撽，古历切。与「系」通。合之本文之义，𢅎字稍近。又《广雅·释诂》：缴，缠也。《汉书·司马相如传》：苛察缴绕。注：犹缠绕也。当亦通。\n目睘：睘，渠营切。王注：睘，谓直视如惊貌。《说文》：睘，目惊视也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 398,
+      "source_path": [
+        "《素問》",
+        "診要經終論第十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "3c16683d8b6db4e3c0a8085ec8a863aa5ab286fb1a182f4687cd73184469a93f",
+      "content_sha256": "f39cf831409f09948e69a8c3dffbac2a75c8f7ca8564ea661a22dad5410380e7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        399,
+        400
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 154,
+        "simplified_codepoints": 154
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "3ac2a0b5222fadf5d56925c3",
+      "title": "脉要精微论第十七",
+      "volume": "《素问》",
+      "content": "眴仆：眴，许县、黄练二切。《文选》扬雄「剧秦」美新臣尝有颠眴病。注：眴与「眩」古字通。又舒闰切。与「瞬」。「瞚」通。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 401,
+      "source_path": [
+        "《素問》",
+        "脈要精微論第十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "24e20116b445f05336104058e06bc77f9c1add1971e512c81c940cd338f39805",
+      "content_sha256": "e10ba1217f2243b93cc1ed228f47451f66a83a1eba159f0c21831c8ec329cf5b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        402
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 61,
+        "simplified_codepoints": 61
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "d6d728cf97071e4e6cab83a4",
+      "title": "平人气象论第十八",
+      "volume": "《素问》",
+      "content": "姙：汝鸩切。亦作「妊」。《说文》：妊，孕也。《广雅·释诂》：妊，㑗也。「释言」：妊娠也。《后汉书·章帝纪》：今诸怀𡜟者，赐胎养。谷注引《说文》亦作𡜟。\n前曲后居：曲，《甲乙经》作「钩」。居，居御切。与「倨」通。《考工纪》：冶氏已倨则不入，已句则不决。注：已倨，谓微直而邪多也。《礼·乐纪》：倨中矩，句中钩。《汉书·酷吏郅都传》「丞相条」：侯至贵居也。注：居与「倨」同。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 403,
+      "source_path": [
+        "《素問》",
+        "平人氣象論第十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "5e84e9d2f7266549f3b4d558d5097e23ffee3a08590679480661c4b60144d03c",
+      "content_sha256": "348698fead699e293fd8d175f73ad5757a3b269773378d2903aabb02bc70db19",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        404,
+        405
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "a9e7b8a4d011d46e74396830",
+      "title": "玉机真脏论第十九",
+      "volume": "《素问》",
+      "content": "目匡：匡与「眶」通。《史记·淮南王安传》：涕满匡而横流。本经「刺禁篇」：刺匡上陷骨中脉。注：匡，目匡也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 406,
+      "source_path": [
+        "《素問》",
+        "玉機真臟論第十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "8e469c8c3d3ca326d8928527d5a33a4483d4dfe34bff58632fc0c9b5fef722b4",
+      "content_sha256": "aa121a643eabd9808006916a8c8401e2e59adf0870d65a329e4affa451083bfd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        407
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 52,
+        "simplified_codepoints": 52
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "bb36cd74d2585e596561d353",
+      "title": "三部九候论第二十",
+      "volume": "《素问》",
+      "content": "参伍不调：《易·系辞》：参伍变。疏：参，三也。伍，五也。「说卦」传：参天两地而倚数。虞注：参，三也。《周礼·小司徒》：五人为伍。《说文》：伍，相参五也。本文盖谓或三或五，其数不调。王氏以参校类伍为训，失之。\n蠕蠕：蠕，而充切。亦作「蝡」。《说文》：蠕，动也。《史记·匈奴传》：跂年行喙息蠕动之类。索隐引「三苍」：蠕，蠕动貌。音软。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 408,
+      "source_path": [
+        "《素問》",
+        "三部九候論第二十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "dcbd55a3aaca222b915a5b31a01fbaff9de1c68efafa663efd7f94d8a11fff4e",
+      "content_sha256": "9d418fd10b4a0b582f7f321096eb71c770b770d27a0b68a2457cb17352ad74f8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        409,
+        410
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "46db2b5ee911e6a3980d1a77",
+      "title": "脏气法时论第二十二",
+      "volume": "《素问》",
+      "content": "焠㶼：㶼，乌开切。《广雅·释诂》：㶼，爇也。《玉篇》：炫也，热也。\n郄：绮戟切。与「却」、「隙」通。《玉篇》：穿穴也。《史记·张释之传》：虽锢南山，犹有郄。《汉书》作「隙」。《庄子·知北游》：若白驹之过却。《释文》本亦作「隙」，孔也。又《灵枢·岁露篇》：腠理，郄。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 411,
+      "source_path": [
+        "《素問》",
+        "臟氣法時論第二十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "f764a10c1c0396a86f1126ef8a24f67adffa8dcac752c8dea2817a44db719999",
+      "content_sha256": "d276195857e12879af71fb1c8ac39f8280be182a8445677cf6ae0106fa3af340",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        412,
+        413
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 135,
+        "simplified_codepoints": 135
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "c721622387887839c29d38cc",
+      "title": "保命全形论第二十五",
+      "volume": "《素问》",
+      "content": "黔首：黔，巨淹切。《说文》：黔，黎也。秦谓民为黔首，谓黑色也。\n瞚：舒闰切。亦作「瞬」。与「眴」通。《说文》：瞚，开阖目动摇也。《庄子·庚桑楚篇》：终日视而目不瞚。《释文》：瞚，动也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 414,
+      "source_path": [
+        "《素問》",
+        "保命全形論第二十五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "1df6ed3de9fd73b1b8cf36fd4701fb97fb100dc5cacfb8e611d66500b95b9de2",
+      "content_sha256": "c57633bd7704a7f5fb146c16d62fecb2e7c631072a9513a121c7708fe81b7e9f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        415,
+        416
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "7cee52bf2f438b646d615e51",
+      "title": "离合真邪论第二十七",
+      "volume": "《素问》",
+      "content": "抓：侧绞切。《广雅·释诂》：抓，搔也。《庄子·徐无鬼篇》：有一狙焉，委蛇攫𢮞见巧乎王。𢮞，即抓字。《文选·枚乘谏吴王书》：手可擢而抓。注引《庄子》曰：橡樟所生，可抓而绝。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 417,
+      "source_path": [
+        "《素問》",
+        "離合真邪論第二十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e93460697b0958bcf71a768da3748866fd3cacf435fa6fa6e0a3457269f0710c",
+      "content_sha256": "7c9d502de4a87a3a323feaf874049f9a8973929fd09641525f9a9ea103cd3787",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        418
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 85,
+        "simplified_codepoints": 85
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "35b35e8e23e7145335be4e0c",
+      "title": "通评虚实论第二十八",
+      "volume": "《素问》",
+      "content": "缨脉各二：王注：足阳明脉也。近缨之脉，故曰缨脉。缨谓冠带也，以有左右，故曰各二。按：《说文》：瘿，颈瘤也。《灵枢·寒热病篇》：颈侧之动脉人迎，足阳明也。在婴筋之前。此缨字当与「瘿」、「婴」义通。\n跖跛：跖，之石切。亦作「趾」。《说文》：跖，足下也。跛，布火切。《说文》跛，行不正也。《礼·问丧》：跛者不踊。《释文》：跛，足废也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 419,
+      "source_path": [
+        "《素問》",
+        "通評虛實論第二十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "8460cf1517139069f724b864c9c815a119f617be995f30346d87f1001314096b",
+      "content_sha256": "70c7ce70b5e82d5955ef06e57d43c0ea321104305fcb35b1ec28846a9aaa39ad",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        420,
+        421
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 164,
+        "simplified_codepoints": 164
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "306f5691e7603513db2a75b0",
+      "title": "阳明脉解篇第三十",
+      "volume": "《素问》",
+      "content": "惋：乌贯切。《广韵》：惊叹也。\n骂詈：詈，力智切。《说文》：骂也。《释名》：骂，迫也。以恶言被迫人也。詈，历也。恶言相弥历也。亦言离也，以次卦离之也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 422,
+      "source_path": [
+        "《素問》",
+        "陽明脈解篇第三十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "c2140bc5344a884eda57b8309e5bdc3e780f7b88df5181ba2730021abbf63fde",
+      "content_sha256": "7542298bd8b7751bd4cbfae6c539dbd260c193c67d24d3e262977aa5f0b619e8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        423,
+        424
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "8cd367c6f32df64c26677aa1",
+      "title": "热论第三十一",
+      "volume": "《素问》",
+      "content": "谵言：谵，之廉切。《甲乙经》作「讝」。王注：谓妄谬而不次也。《一切经音义》引《埤苍》：谵，多言也。本经「厥论」林校据全元起云：谵言者，气虚独言也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 425,
+      "source_path": [
+        "《素問》",
+        "熱論第三十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a0ecb72a1e14a62bdb62e789a15aa958e2d2dca7a7ba796661ee7ff92cb4af2c",
+      "content_sha256": "d76a9c7051869680895d828e52b7b4861dcaa6e4ec08ebec7031e12ca205b53d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        426
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 73,
+        "simplified_codepoints": 73
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "36dafe7e6fc06751ab15e6c6",
+      "title": "评热病篇第三十三",
+      "volume": "《素问》",
+      "content": "痝然：痝，莫江切。与「厖」通。《尔雅·释诂》：厖，大也。本经「风论」：面痝然浮肿。\n可刺不：不，甫鸠、方九二切。《说文》：否，不也。《书·尧典》：否德。疏：否，古今「不」字。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 427,
+      "source_path": [
+        "《素問》",
+        "評熱病篇第三十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "b0e31593a704e23b319def30febf4e6467eaf46d14786732ce84318585c8a503",
+      "content_sha256": "20e63d0cd9c6e59f924e110ba5873ce6720fb41ae97dda4d0872afe4cf3ebb75",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        428,
+        429
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "df9ed162d50a45e17298674e",
+      "title": "刺疟篇第三十六",
+      "volume": "《素问》",
+      "content": "暍暍：暍，于歇切。亦作「𤸎」、「㷎」。王注：暍暍，热盛也。《说文》：暍，伤暑也。《广雅·释诂》：暍，暖也。《淮南子·人间训》：武王荫暍人于樾下。注：武王哀暍人之热，故荫之于樾下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 430,
+      "source_path": [
+        "《素問》",
+        "刺瘧篇第三十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "21c202f0db02af1675b512d42c2ad09784c682b1bc846727d2cbbc36c6683bae",
+      "content_sha256": "21cad4d6d034f1a912f88fc07d52e6aa2a47d58fe179fdcf991ff5ae8473a15e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        431
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "b0c8deb54b8ecb347948448c",
+      "title": "气厥论第三十七",
+      "volume": "《素问》",
+      "content": "柔痓：痓，充子切。《说文》无此字。《广雅·释诂》：痓，恶也。王注：痓，强而不举。按本经「厥论」：痓治主病者。林校据全元起本，痓作痉。《说文》：痉，强急也。痓但训「恶」，无强意，当定为「痉」字之讹。\n虙瘕：虙，房六切。古「伏」字。伏羲氏。《汉书·五行志》：作虙义。\n食亦：《甲乙经》亦作「㑊」。王注：食亦者，谓食入移易而过，不生肌肤也。亦，易也。\n蔑：莫结切。《说文》：蔑，污血也。王注同。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 432,
+      "source_path": [
+        "《素問》",
+        "氣厥論第三十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "f6e53a8295a85ba57077a113b109bc3cff4b28e778568465006b789ba48a4964",
+      "content_sha256": "8d676eaad35ee067665a1e7294ea46b5f4a6998e0832f8bfebd0646760a4325c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        433,
+        434,
+        435,
+        436
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 194,
+        "simplified_codepoints": 194
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "d3b864808ce5e08422af72c0",
+      "title": "举痛论第三十九",
+      "volume": "《素问》",
+      "content": "炅：古迥切。王注：热也。又《说文》：炅，见也。《广韵》：光也。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 437,
+      "source_path": [
+        "《素問》",
+        "舉痛論第三十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "2e0dd090f1c78d1970ad4b9c7078556598b24f5af145fc17011caf0b722e004f",
+      "content_sha256": "0ada96435b6ae0fe1ee76f12b6ab3ccf913a27f89a741a4fb04a58e2d1547e51",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        438
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 34,
+        "simplified_codepoints": 34
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "f4d9b7a402bb0e83b26805fc",
+      "title": "腹中论第四十",
+      "volume": "《素问》",
+      "content": "乌鲗鱼骨：鲗，昨则切。亦作「⿰魚𧶒」。《甲乙经》作「贼」。《说文》：鲗，乌鲗鱼也。《一切经音义》引《埤苍》：鰞鲗鱼，腹中有骨，出南郡。背有一骨，阔二寸许。有鬈甚长，口中有墨，瞋则潠人。《古今注》：乌鲗一名河伯。《度事小史·临海纪》：乌鲗以其怀板含墨，故号小史鱼也。《尔雅翼》：鰞鲗，状如革囊，背上独一骨，形如樗蒲子而长，名海螵蛸。王注引古《本草经》：乌鲗鱼骨，主治女子血闭。\n藘茹：藘，力居切。《甲乙经》作「闾」。王注引古《本草经》：藘茹，主散恶血。《太平御览》引范子计然曰：闾茹，出武都。黄色者善。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 439,
+      "source_path": [
+        "《素問》",
+        "腹中論第四十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "0825aa24470b1ee37a0d6e136e4c1df1a24e2063b0c6228782f4aa74c6bdb934",
+      "content_sha256": "f6dcd6c5e4bf9e9cc9cf02e0feaec9d13b2b9cb7e20b1e4456567ac8f4665bd3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        440,
+        441
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 250,
+        "simplified_codepoints": 250
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "4d07288575db92975339b50a",
+      "title": "刺腰痛篇第四十一",
+      "volume": "《素问》",
+      "content": "锤：驰伪切。《广雅·释器》：权谓之锤。《汉书·律历志》：五权之制。注：锤者，称之权也。\n𠘧𠘧：𠘧，市朱切。《说文》：𠘧，鸟之短羽。飞𠘧𠘧也，象形。读若「殊」。《伤寒论》：太阳病，项背强𠘧𠘧。\n胂：失人切。《说文》：胂，夹脊肉也。《广雅·释亲》：胂谓之脢。《急就篇》：胂腴胸胁喉咽髃。注：胂，夹脊肉也。王注：两髁胂，谓两髁骨下坚起肉也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 442,
+      "source_path": [
+        "《素問》",
+        "刺腰痛篇第四十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "768e91bf8a1102aef0821862c523b78780410185de045d05c415bbaa50b13e6d",
+      "content_sha256": "5b0ed56064c55bcfb4fc5c1e04324bdcf08bd617c460e2c8ece11dbc9360de2d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        443,
+        444,
+        445
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "eb2f698c8bfbcd8db38756e5",
+      "title": "风论第四十二",
+      "volume": "《素问》",
+      "content": "怢栗：怢，他骨切。《文选》王褒「四子讲德论」：凡人视之怢焉。注引《广苍》：怢，忽忘也。栗，力质切。《广雅·释言》：栗，战也。《诗·秦风》：惴惴其栗。传：栗，惧也。王注：怢栗，卒振寒貌。《甲乙经》作「解㑊」。林校据全元起本作「失味」。\n皏：普辛切。《广雅·释器》：皏，白也。王注：皏，谓薄白色也。\n吓：呼格切。与「赫」通。《诗·大雅》反予来赫。笺：口拒人谓之赫。《释文》：赫，亦作「吓」。《庄子·秋水篇》鸱得腐鼠，鹓雏过之，仰而视之曰吓。《释文》引司马注：吓，怒其声，恐其夺己也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 446,
+      "source_path": [
+        "《素問》",
+        "風論第四十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d65c2ce9b1ec155527434742dc5e58ff56916aeebf961d05ea361b017b7c7e5c",
+      "content_sha256": "5462fcf4a4ba90cecb5cad3a724da4c31eb819fce3c78642ed6db89df0631440",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        447,
+        448,
+        449
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 239,
+        "simplified_codepoints": 239
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "425d9a582723ef1aaaa693f2",
+      "title": "痿论第四十四",
+      "volume": "《素问》",
+      "content": "有渐于湿：渐，子廉切。《广雅·释诂》：渐，渍也。《荀子·大略篇》：兰茞、藁本，渐于蜜醴。注：渐，浸也。《汉书·董仲舒传》：赞然考其师友，渊原所渐。注：渐，浸润也。《庄子·胠箧篇》：知诈渐毒。《释文》引崔注：渐毒，犹深害也。按以上数解，与本文均合。\n闰宗筋：《说文系传》曰：闰之言撋也。儒均反。若今俗缝衣，一长一短者，则蹙其长以就短，谓之撋。《集韵》：撋，而宣切。《考工记》：鲍人。注：亲手烦撋之。《诗·葛覃》笺：烦撋之。《释文》引《字略》：烦撋，犹捼挲。按：闰字王氏无注。《系传》云云与本文义合，特取证之。他本讹作「润」，或曰闰与「润」同，亦非。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 450,
+      "source_path": [
+        "《素問》",
+        "痿論第四十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "4278b90cf73d3d41432c0cfdd4fa7407298a719ecf4b533b4ccfd47c8d9c2053",
+      "content_sha256": "9cf960fe1064194cbd6483b04913526b2dd9de5079061a9df4ac6450062874a5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        451,
+        452
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 273,
+        "simplified_codepoints": 273
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "dc0ae6c847f02ab4671ce66b",
+      "title": "病能论第四十六",
+      "volume": "《素问》",
+      "content": "生铁洛：洛，《甲乙经》作「落」。按：「洛」、「落」古字相通。《春秋·闵元年》：公及齐侯盟于落姑。《左》作「落」。《公羊》、《谷梁》皆作「洛」。王注：铁洛，主之下气。\n麋衔：麋，武悲切。《说文》：麋，鹿属。又与「蘪」通。《尔雅·释草》：蘪芜。注：蘪，香草。又，蘪从水生。疏：草从水生曰蘪。王注：麋衔主治风湿筋痿，本草一名薇衔，一名鹿衔。《水经注》：魏兴，锡义山多生薇衔草，有风不偃，无风独摇。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 453,
+      "source_path": [
+        "《素問》",
+        "病能論第四十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "54862bd6096613bb95f997c0243447e13ca11a3424b31e20916f21ca45733fef",
+      "content_sha256": "f65246e831fe390c96ce3e69bac9fda99cb44a0babd605a5dbebf6defb9a4938",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        454,
+        455
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 195,
+        "simplified_codepoints": 195
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "65c42e146a7ecc6dfe05dc32",
+      "title": "大奇论第四十八",
+      "volume": "《素问》",
+      "content": "雍：本文肺雍、肝雍、肾雍三「雍」字，《甲乙经》皆作「痈」。按：雍亦作「雝」。「雍」、「痈」古字通用。孟子于卫主痈疽。《史记》作「雍渠」。《韩非子》作「雍鉏」。《说苑》作「雍睢」。又与「壅」通。《释名》：痈，壅也。气壅否结，裹而溃也。\n菀熟：王注：菀，积也。熟，热也。本经「疏五过论」注同。《脉经》作「菀热」。《甲乙经》作「寒热」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 456,
+      "source_path": [
+        "《素問》",
+        "大奇論第四十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "a9be1f5310ab1445b3557a4c9b1225a42cc58e458676c04a270c3707dac0c734",
+      "content_sha256": "359febb4f53868a4d992f3123dee827229c54fce8d2bda1b2ee9a911fa4742ae",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        457,
+        458
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "963830126cc3aabef05ec2bb",
+      "title": "脉解篇第四十九",
+      "volume": "《素问》",
+      "content": "脽：视佳切。《说文》：脽，尻也。《广雅·释亲》：臀谓之脽。《汉书·东方朔传》：连脽尻。注：脽，臀也。\n瘖俳：瘖，于金切。《说文》：瘖，不能言也。俳，蒲皆切。王注：废也。又，《说文》：俳，戏也。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 459,
+      "source_path": [
+        "《素問》",
+        "脈解篇第四十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "16ce349204814c0afbf9726d64f14078b8b1fc86f14954b59c93b493011cc3d4",
+      "content_sha256": "de213221ff28108a511a31044559eae1c51eddcce967780a9b74219a01e01a46",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        460,
+        461
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "454f70b547cb0ae14b4f5530",
+      "title": "刺要论第五十",
+      "volume": "《素问》",
+      "content": "溯溯：溯，桑故切。本经「皮部论」：溯然起毫毛。注：溯然，恶寒也。《甲乙经》作「淅」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 462,
+      "source_path": [
+        "《素問》",
+        "刺要論第五十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d6c03b314f7d76dd3af6d654384b0e7f9214c33ff780b1d60c0a728592fda2dd",
+      "content_sha256": "e25effb80ac2fbf63e887e904b5f4ad1010bb1b61ab779d3bce619cb044b23c1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        463
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 42,
+        "simplified_codepoints": 42
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "320d30a5ed7386875c295927",
+      "title": "刺禁论第五十二",
+      "volume": "《素问》",
+      "content": "鼠仆：仆，蒲木切。王注：内结为肿，如伏鼠之形也。《诗·大雅》：景命有仆。传：仆，附也。《文选》司马相如「子虚赋」：仆乐齐王。注引《广雅》曰：仆，谓附著于人。《甲乙经》作「⿺鼠僕」，音卜。《字书》无「⿺鼠僕」字。《广雅·释兽》：⿺鼠僕𪔿，鼠属。林校据别本：仆一作「鼷」。「气府论」注：气街在脐下横骨两端，鼠鼷上一寸也。则是穴名，非病名矣。失之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 464,
+      "source_path": [
+        "《素問》",
+        "刺禁論第五十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "2a43ad6347dc4489a999096b1558f5edb12a02c5e0422943692fd43f5eba1db9",
+      "content_sha256": "620662fdfe7cdc867ade4a794442e492635804655f787513c8f5b34dfca9f203",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        465
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 171,
+        "simplified_codepoints": 171
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "0f46adb38c12d05d210aaedb",
+      "title": "长刺节论第五十五",
+      "volume": "《素问》",
+      "content": "皮𩩻：王注：皮𩩻，谓脐下五寸横约文。《字书》无「𩩻」字。王氏释音作「皮䯏」，古活切。《说文》：䯏，骨耑也。林校据全元起本作「皮髓」。\n髂髎：髂，枯驾切。《文选》扬雄「解嘲」：折胁折髂。注引《埤苍》：髂，腰骨也。髎，落萧切。《玉篇》：髋也。《史记·货殖传》：马蹄躈千。集解：躈，马八髎也。《索隐》引《埤苍》：尻骨，谓八髎。王注髂为腰骨，髎为居髎，腰侧穴也。《甲乙经》髎字皆作「窌」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 466,
+      "source_path": [
+        "《素問》",
+        "長刺節論第五十五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d2c577a76e6eef72c67c956b8206af44592e76672e2ffb0991671fc6704e5df2",
+      "content_sha256": "4a61c48943028b85f139adc3b189bfa410e40725ed50a3ef8b02cee01827ae17",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        467,
+        468
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 190,
+        "simplified_codepoints": 190
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "73453b7edbe1bc44454d23dd",
+      "title": "皮部论第五十六",
+      "volume": "《素问》",
+      "content": "害蜚：蜚，府尾、扶沸二切。王注：蜚，生化也。害，杀气也。杀气行则生化弭，故曰害蜚。\n廪：力念切。王注：廪，积也，聚也。《国语·周语》：廪于籍东南钟而藏之。《管子·山国轨篇》：泰春民之且所用者，君已廪之矣。注：廪，藏也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 469,
+      "source_path": [
+        "《素問》",
+        "皮部論第五十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "32eaa15a7af2c591ee9b9b45c7b87eea05a1c4e451fa788a0b81d8709bbbd249",
+      "content_sha256": "4aa0d0bb31b4c8641f6c466623deb63d37d319094cfe18dc3b6425292b956f87",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        470,
+        471
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 109,
+        "simplified_codepoints": 109
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "8702febfd2748ef24e0342bf",
+      "title": "气穴论第五十八",
+      "volume": "《素问》",
+      "content": "中𦛗：𦛗，两举切。亦作「吕」。《甲乙经》作「膂」。《说文》：吕，篆文作「膂」，脊骨也。《国语·周语》：氏曰有吕。注：吕之为言膂也。《急就篇》：尻髋脊膂腰背吕。注：膂，夹脊内肉也。吕，脊背也。王注：五脏腧穴皆在𦛗之两傍一寸五分。\n两骸厌：王注：骸厌，谓膝外侠膝之骨厌中也。《说文》：骸，胫骨也。本经「骨空论」膝解为骸关侠膝之骨，为连骸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 472,
+      "source_path": [
+        "《素問》",
+        "氣穴論第五十八"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e4a6012fca7f43df9fd35b677ea1dce61293c7c3f3051f014b91cbd5483155af",
+      "content_sha256": "1329b5a4ca1ffd61d0a3492c3ad1f0cfaa467233ac02cba773a6de725e85d37c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        473,
+        474
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "ea388e99e90032497658f1d3",
+      "title": "气府论第五十九",
+      "volume": "《素问》",
+      "content": "伏菟：穴名。菟，汤故切。《灵枢》作「伏兔」。《甲乙经》：伏兔穴在膝上。菟与「兔」通。《史记·六国表》：安王十九年，魏败赵兔台。《索隐》：兔字亦作「菟」。《汉书·邹阳传》：上覆飞鸟，下不见伏菟。《楚辞》屈原「天问」：顾菟在腹并从草。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 475,
+      "source_path": [
+        "《素問》",
+        "氣府論第五十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "2124be40b96484164ea807527144b055ea0ffa0c4df33a3a7c5125103d6719f6",
+      "content_sha256": "47775f43dc9434e20f472a583f67d41a5f59c5fdfa970f4c9f2866575384ec87",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        476
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "9f6d889dbee814a0c20b3433",
+      "title": "骨空论第六十",
+      "volume": "《素问》",
+      "content": "譩譆：譩，于其切。譆，许其切。与「噫嘻」通。穴名。王注：以手压之，令病人呼譩譆之声，则指下动矣。《玉篇》：譩，不平之声也。嘻，悲恨之声也。《说文》：譆，痛也。《系传》：痛而呼之言也。《文选》曹植「七启」：俯而应之曰譆。注：愁恨之声也。\n揄臂：揄，余招切。王注：揄，读为「摇」，谓摇动也。《庄子·渔父篇》：被发揄袂。《释文》：音遥。《礼·玉藻》：夫人揄狄。疏：揄，读如「摇」。狄，读如「翟」。谓书摇翟之雉于衣也。\n篡间：《甲乙经》作「纂间」。王注：谓在前阴后阴之两间也。\n蹇膝：蹇，居偃切。《说文》：蹇，㝿也。《释名》：蹇跛，蹇病不能作事也。《方言》：𡯴，蹇也。注：跛者行𧿒踔也。《广雅·释诂》：㝿𡯴，蹇也。《史记·晋世家》：郤克偻而鲁使蹇。《庄子·达生篇》：聋盲跛蹇皆训跛。王注：蹇，难也。失之。\n楗：其偃切。《广雅》：关，楗也。本篇辅骨上横骨下为楗。\n机：本篇侠髋为机。《释名》：尻又谓之机要，脾股动摇如枢机也。《说文》：主发谓之机。\n拇指：拇，莫厚切。《说文》：拇，将指也。《易·咸卦》：咸其拇。注：拇，足大指也。《国语·楚语》：至于手拇。毛脉注：拇，大指也。《庄子·骈拇篇》：骈拇枝指出乎性哉。《释文》引司马注：骈拇，足拇指连第二指也。\n龂：语斤切，与「龈」通。《说文》：龂，齿本也。《玉篇》：齿根肉也。\n橛骨：其月切。与「𩪗」通。王注：尾穷谓之橛骨。《广雅·释亲》：臎髁，𩪜也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 477,
+      "source_path": [
+        "《素問》",
+        "骨空論第六十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "1a8620b1787840984c4d3ae707d20602451097ec874ff5d08178e77c9b49811c",
+      "content_sha256": "6abf077d56dc19762524b8fba16680418be56b95f578a838326dd6aad720474a",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 593,
+        "simplified_codepoints": 593
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "7a063031750d7fcaba810846",
+      "title": "调经论第六十二",
+      "volume": "《素问》",
+      "content": "深斥：斥，昌石切。王注：斥，推也。《广雅·释诂》：斥，推也。《一切经音义》引「三苍」同。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 487,
+      "source_path": [
+        "《素問》",
+        "調經論第六十二"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "7208fc7dff21f6e480614fcdd34f13032fbb491ad27974ff3fa7fe27a241d486",
+      "content_sha256": "06c685f163fe63c40ccad3b49ba553f166af3264da3651c4517092befc922564",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        488
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 44,
+        "simplified_codepoints": 44
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "691aba60f2ab520af1bfc414",
+      "title": "缪刺论第六十三",
+      "volume": "《素问》",
+      "content": "贲上：贲，博昆切。《难经·四十四难》：胃为贲门。林校引杨元操云：贲，鬲也。王注：谓气贲。失之。\n鬄：他计切。亦作「𩮜」、「剔」、『鬀」、「剃」。《甲乙经》作「剔」。《说文》：鬀，𩮜发也。《广雅·释诂》：剃，剔也。《仪礼·士丧礼》：四鬄。注：鬄，解也。今文鬄为「剔」。《汉书·司马迁传》：其次鬄毛发。《后汉书·冯鲂传》：皆自鬄剔。注引《声类》：剔，亦「鬄」字。谓剃去发也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 489,
+      "source_path": [
+        "《素問》",
+        "繆刺論第六十三"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "f4445eb2506968b7436278597994fc4b282e1747d3debbc10795cbd25118c514",
+      "content_sha256": "0a90f22ee7a9154c9a5302b146e3d554d6fda40aa6be373404dbfa45382d5d9f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        490,
+        491
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 185,
+        "simplified_codepoints": 185
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "861e8a36de5613c61713532e",
+      "title": "四时刺逆从论第六十四",
+      "volume": "《素问》",
+      "content": "隐轸：《甲乙经》作「𤻘疹」。𤻘，于谨切。亦作「瘾」。疹，章忍切。与「胗」通。亦作「𤺋」。《玉篇》：𤻘疹，皮外小起也。《释名》：胗，展也。痒搔之捷展起也。《伤寒论》：风气相搏，必成瘾𤺋。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 492,
+      "source_path": [
+        "《素問》",
+        "四時刺逆從論第六十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e9fe740fac3f5f010ca82d659ab9a86a2d711678152766ddeedf4cbca956507f",
+      "content_sha256": "c67fd58d9a3d3835deeef8c6e77d7c2a030a322daf931cbf923a88f97d42becb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        493
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "e98db1d0d5910d23ac18208f",
+      "title": "天元大论第六十六",
+      "volume": "《素问》",
+      "content": "鬼臾区：《史记·孝武帝纪》：黄帝得宝鼎宛朐，问于鬼臾区。《索隐》：黄帝佐也。《封禅书》：鬼臾区，号大鸿。死葬雍，故鸿冢是也。《汉书·艺文志》：阴阳家鬼容区，三篇图一卷，古今人表鬼臾区。注：即鬼容区也。《亢仓子》作「鬼容邱」。《晋书·律历志》作「车区」。\n廖廓：廖，落萧切。亦作「寥」。《说文》作「廫」，空虚也。《新附》作「寥」。《广雅·释诂》：寥，深也。《庄子·大宗师篇》：乃八于寥天一。《释文》亦作「廖」。\n迫迮：迮，侧伯切。《后汉书·窦融传》：嚣势排迮。注：排迮，谓蹙迫也。「陈忠传」：共相压迮。注：迮，迫也。《文选》陆机「叹逝赋」：涂薄莫而意迮。注引《声类》：迮，迫也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 494,
+      "source_path": [
+        "《素問》",
+        "天元大論第六十六"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "7441d5e0bb4c40c2c2f9094998a48ba5a2b284a7808cb0a971e1ca3ccb952791",
+      "content_sha256": "5ac031281a09ad823e76530f992e33e24b87879f90dbd68f9059c8f0d6e23631",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        495,
+        496,
+        497
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 288,
+        "simplified_codepoints": 288
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "3e1ed56950f047f9ba5cfac3",
+      "title": "五运行大论第六十七",
+      "volume": "《素问》",
+      "content": "黅：居吟切。《玉篇》：黄色也。《广雅·释器》：黅，黄也。本经「五常政大论」：敦阜之纪，其色黅元苍。\n冯乎：冯，扶冰切。亦作「凭」。《小尔雅·释言》：凭，依也。《文选》张衡「西京赋」有凭虚公子者。薛注：凭，依托也。\n摧拉：卢合切。《说文》：拉，摧也。摧，折也。《文选》左思「吴都赋」：拉捭摧藏。注：拉，顿折也。\n眚：所景切。《易·讼卦》：旡眚。《释文》引「子夏传」云：妖祥曰眚。《左·庄二十五年传》：非日月之眚。注：眚，犹灾也。月侵日为眚。\n倮：郎果切。亦作「𧝹」、「臝」。《说文》：𧝹，袒也。《礼·月令》：中央土，其虫倮。《周礼·大司徒》：其动物宜臝物。《大戴礼·天圆篇》：唯人为倮匈而后生也。注：倮匈，谓无毛羽无鳞介也。\n谧：弥毕切。《说文》：谧，静语也。《尔雅·释诂》：谧，静也。本经「气交变大论」：其化清谧。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 498,
+      "source_path": [
+        "《素問》",
+        "五運行大論第六十七"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "0c784cc4f12d8ebb5d22e12b2b43ed3b88a0b6e8c5a6fcffadc2cd8de738d8d6",
+      "content_sha256": "57173ba0494997fd0007b9e43af5282671d0972767438925c45f186fcbb5496b",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        499,
+        500,
+        501,
+        502,
+        503,
+        504
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 357,
+        "simplified_codepoints": 357
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "3df701a19d49198f6b84871d",
+      "title": "气交变大论第六十九",
+      "volume": "《素问》",
+      "content": "鹜溏：鹜，莫卜切。《说文》：鹜，舒凫也。王注：鸭也。本经「至真要大论」：下为鹜溏。注：言如鸭之后也。《金匮方论》：大肠有寒者多鹜溏。肺水者，其身肿，时时鸭溏。\n瞤：如均切。《说文》：瞤，目动也。《西京杂记》：陆贾曰：目瞤得酒食。《伤寒论》：则厥逆筋惕肉瞤。\n璺：亡连切。《广雅·释诂》：璺，裂也。《方言》：器破而未离谓之璺。本经「六元正纪大论」：为璺启。注：璺，微裂也。\n霖霪：霪，余针切。与「淫」通。《玉篇》：霪，久雨也。《淮南子·修务训》：沐浴霪雨栉风。《礼·月令》：淫雨早降。《左·隐九年传》：凡雨自三日以往为霖雨。《尔雅·释天》：淫谓之霖。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 505,
+      "source_path": [
+        "《素問》",
+        "氣交變大論第六十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "f04229cac3e90aab81dc4c51649d4537bb65f9ab50d8bcbe01f9a55da87326f2",
+      "content_sha256": "afab3de73780b3f8a54c5ad4ec7b46e0ed1bb9d85bff574bac2badec7b8f1dd9",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        506,
+        507,
+        508,
+        509
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 274,
+        "simplified_codepoints": 274
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "8ed5935d6e4bf71520c17bc0",
+      "title": "五常政大论第七十",
+      "volume": "《素问》",
+      "content": "其病否：否，符鄙切。与「痞」、「脴」通。《说文》：痞，痛也。《释名》：脴，否也。气否结也。\n壳：苦角切。亦作「𣪗」。《文选》张协「七命」：剖椰子之壳。注：凡物内盛者皆谓之壳。\n飋：所栉切。与「瑟」通。《玉篇》：飋，秋风也。《文选》王延寿「鲁灵光殿赋」：飋萧条而清冷。注：飋，萧条清凉之貌。\n蛆：七余切。 《说文》作「䏣」、「蝇」，乳肉中虫也。\n霒：于金切。《说文》：霒，云覆日也。《玉篇》：霒，今作「阴」。《大戴礼·官人篇》：生民有霒阳。\n粃：卑覆切。亦作「粊」、「秕」。《说文》：粊，恶米也。秕不成粟也。《家语·相鲁篇》：是用粃糠。\n閟：兵媚切。与「闭」通。王注：閟，大便干涩不利也。《诗·鄘风》：我思不閟。传：閟，闭也。\n狢：下各切。亦作「貉」。「穆天子传」：白狐元狢。《文选》谢惠连「雪赋」：狐狢之兼衣。注引《论语》「狐貉之厚以居」作「狢」。\n⿰東攴：王注：古「陈」字。《集韵》作「⿰東攴」。\n疰：之戌切。与「住」通。《广雅·释诂》：疰，病也。《释名》：疰病一人死一人复得气相灌注也。《说文》：「上」部。《系传》曰：又若医家之言病疰，故有鬼疰，言鬼气转相染箸注也。\n雰：府文切。与「氛」通。《文选》张衡「西京赋」：消雰埃于中宸。薛注：雰，埃尘秽也。本经「六元正纪大论」：寒雰结为霜雪。注：寒雰，白气也。状如雾而不流。\n脘：古满切。《说文》：脘，胃府也。本经「通评虚实论」：胃之募也。注引《中诰》：中脘，胃募也。按《甲乙经》有上脘、中脘、下脘三穴，俱在脐上。\n皮𤸷：𤸷，五还切。《广雅·释言》：𤸷，痹也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 510,
+      "source_path": [
+        "《素問》",
+        "五常政大論第七十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "d3aa3c8f8020d2eaadb8230b20a207ae851c32d1bce5183dfa4d45faf77ca55f",
+      "content_sha256": "9457ed1eb703ce8569c03f39cf3995b0695c3cb6844429be58450df8f8d4fe18",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 654,
+        "simplified_codepoints": 654
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "a2dd52a159449b82e675e6c9",
+      "title": "六元正纪大论第七十一",
+      "volume": "《素问》",
+      "content": "霿雾：霿，莫红切。亦作「雺」。《说文》：天气下地不应曰霿，地气发天不应曰雾。《尔雅》：「霿」作「雺」。《易稽览图》：雺者，霿也。\n退辟：辟，毗义切。与「避」通。经传多作「辟」。\n胪胀：胪，力居切。《艺文类聚》引韦昭《辩释名》云：腹前肥者曰胪。《急救篇》：寒气泄注腹胪胀。注：腹前曰胪。又，甫无切。与「肤」通。《说文》：胪，皮也。义微别。\n雷殷：殷，于谨切，亦作「磤」。《广雅·释诂》：磤，声也。《一切经音义》引《通俗文》：雷声曰磤。《诗·召南》：殷其靁。传：殷靁，声也。《史记·封禅书》：其声殷云。《集解》引瓒曰：声也。又曰：神来时，天为之殷殷雷鸣。《汉书·司马相如传》「上林赋」：殷天动地。注引郭璞曰：殷犹震也。何晏「景福殿赋」：声訇磤其若震。注引「毛苌传」曰：磤，雷声也。\n卤：郎古切。西方咸地也。东方谓之斥，西方谓之卤。《易·说卦》：其于地也为刚卤。《释文》：卤，土也。《春秋说题辞》：广延曰大卤。\n翳：于计切。《方言》：翳，掩也。《广雅·释诂》：翳，障也。《楚辞》王逸「九叹」：举霓旌之墆翳兮。注：墆翳，隐蔽貌。又作「瞖」，目病也。义别。\n焰：以谵切。亦作「爓」、「燄」。王注：焰，阳焰也。\n皴揭：皴，七伦切。《王篇》：皴，𭽬也。《一切经音义》引《埤苍》：皴，皮皴𭽬也。树皮甲错粗厚亦曰皴。揭，居竭切。《说文》：揭，高举也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 524,
+      "source_path": [
+        "《素問》",
+        "六元正紀大論第七十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e96ecaa4444ded0e961962eef04a1570be3db0cc97e9e5a164d95fd5ad3a72d6",
+      "content_sha256": "8ad733e958781383076c5b98adf42485286d77122dab152a46e1e3b4fec83aae",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 566,
+        "simplified_codepoints": 566
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "efa94ce4c7b4c70d58dae2be",
+      "title": "至真要大论第七十四",
+      "volume": "《素问》",
+      "content": "目昧：昧，莫佩切。亦作「眛」。《说文》：目不明也。《左·僖二十四年传》：目不别五色之章为眛。\n熛：甫遥切。《说文》：熛，火飞也。《春秋文耀钩》：赤帝其名赤熛怒。《一切经音义》引「三苍」：迸火曰熛。\n膹：房吻切。王注：膹，谓膹满。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 533,
+      "source_path": [
+        "《素問》",
+        "至真要大論第七十四"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "e337a16d7fbe724af5a1b64bc977bd1e3c22fc12a181e9d537f7fd7ae37bd1bd",
+      "content_sha256": "a74b1abe64569a7f67cac6448c97c3bba5759df9543bf51a3f7e3e468acdb7fe",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        534,
+        535,
+        536
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 111
+    },
+    {
+      "chapter_key": "97e03a2b53bc5748123e4893",
+      "title": "至教论第七十五",
+      "volume": "《素问》",
+      "content": "礔礰：礔，普系切。礰，郎系切。与「辟历」通。亦作「劈历」、「霹雳」。《说文》：震，劈历振物也。《释名》：辟历，辟析也。所历者皆破析也。《尔雅·释天》：疾雷为霆霓。注：雷之急击者为霹雳。《一切经音义》引《苍颉篇》：霆礔礰也。张衡「四京赋」：礔礰激而增响。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 537,
+      "source_path": [
+        "《素問》",
+        "至教論第七十五"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "878e4b0245e88d566d00c84983b612301166d845bcc5a018280a11a1c4d30205",
+      "content_sha256": "98904ab969fae16de246dda509ee7549f8591015f36230b3c24edd8cb2a8c1b7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        538
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 112
+    },
+    {
+      "chapter_key": "d74f1ca35276fd1a8a0a709a",
+      "title": "阴阳类论第七十九",
+      "volume": "《素问》",
+      "content": "溓水：溓，良冉切。王氏无注。林校据全元起云：溓水者，七月也。杨上善云：溓水静也，七月水时也。《说文》：溓，薄冰也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 539,
+      "source_path": [
+        "《素問》",
+        "陰陽類論第七十九"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "7cad4ad3c119da7a13208249143f1cf6517324a9cfb3ecbda0b8e932fca562b5",
+      "content_sha256": "18ddad1594d20fcc4dafe5999302ffc41210aa914538eeea3136e5f0b55c541e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        540
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 57,
+        "simplified_codepoints": 57
+      },
+      "order": 113
+    },
+    {
+      "chapter_key": "46a7bef275a08929a96819ff",
+      "title": "方盛衰论第八十",
+      "volume": "《素问》",
+      "content": "菌香：菌，渠殒切。王注：菌，香草。林校据全元起云：菌香是桂。《楚辞》屈原「离骚」：杂申椒与菌桂兮。注：椒、菌、桂，皆香木。《文选》左思「蜀都赋」：菌桂临崖。刘注引《神农本草经》曰：菌桂出交趾，圆如竹，为众药通使。按：即今肉桂也。又，或作「蕈」。《说文》：地蕈也。义别。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 541,
+      "source_path": [
+        "《素問》",
+        "方盛衰論第八十"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "82eabf2489ee2ab501030b47bfb46ac5f198f528afb55f4fc8cf5e088500e158",
+      "content_sha256": "a529376719c31af5b28cfcb7a8fa093de98f93bfcc13edbf5fa4af03b9fc4ca5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        542
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 134,
+        "simplified_codepoints": 134
+      },
+      "order": 114
+    },
+    {
+      "chapter_key": "1a25e1b0942f5b5256a01a82",
+      "title": "解精微论第八十一",
+      "volume": "《素问》",
+      "content": "有毚愚仆漏之问：毚，士咸切。《说文》：毚，狡兔也。《广雅·释诂》：毚，狯也。王注：毚，狡也。愚不智见也。仆，顿也。漏，脱漏也。按：此四字文义不类。林校据全元起本「仆」作「朴」，则此「毚」字当与「儳」通。《礼·表记》：儳焉如不终日。注：儳焉，可轻贱之貌也。《一切经音义》：儳速。注：儳，仓陷反。非次而言也。《礼记》：长者不及无儳言是也。二义皆可通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 543,
+      "source_path": [
+        "《素問》",
+        "解精微論第八十一"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "05a09e012ed44cf1858524dce232e6dab2ff3077c6776572753d475e5629b719",
+      "content_sha256": "7f8340e9818a61868973542ad60757f9d782b613f06a7b748e081f7f33ff2b7d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        544
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 173,
+        "simplified_codepoints": 173
+      },
+      "order": 115
+    },
+    {
+      "chapter_key": "4b1e40152b4c16c0246e30f5",
+      "title": "附：《灵枢略》道藏本",
+      "volume": "《素问》",
+      "content": "爪肉：《灵》、《素》二书中屡言分肉。按：「分」与「爪」形相近，当是传写之误。\n漽：杜溪切。《灵枢》作「淅」。\n䪻：皮变切。《灵枢》上下两句皆作「颃」。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 545,
+      "source_path": [
+        "《素問》",
+        "附：《靈樞略》道藏本"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "77b0b9dec3632d188dcd453480d3e984ed1b689a344ae6d4069bfbb598b047cd",
+      "content_sha256": "876cb42495c7a6fa6aac16e51084ac848886cbd36aa89131f90bd8fd69030e6a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        546,
+        547,
+        548
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 116
+    },
+    {
+      "chapter_key": "de21b59ef7bad9ac699b0a9f",
+      "title": "附：《素问·遗篇》道藏本",
+      "volume": "《素问》",
+      "content": "天内：星名。别本内皆作「芮」。按：《诗·大雅》：芮鞠之即。笺：芮之言内也。芮与「内」本通。\n地皛：星名。别本皛皆作「晶」。按：皛，胡了切。《说文》：皛，显也。《文选》潘岳「关中诗」：虚皛楠德。注引「苍颉」：皛，明也。亦与「晶」义相近。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+      "source_ordinal": 549,
+      "source_path": [
+        "《素問》",
+        "附：《素問·遺篇》道藏本"
+      ],
+      "source_sha256": "7635ce25fb9c11cd366d993ae76d692960f09541fdac17ede9be5a92fc246583",
+      "original_sha256": "796befa043dd5742779ebd0f70c9995db8aa456b288d437587d0996d8ed97efe",
+      "content_sha256": "e66f6914bec7df4b2beedcb622085972a17e0a24887cc2ce8513839abbf70251",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        550,
+        551
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 117
+    }
+  ]
+}

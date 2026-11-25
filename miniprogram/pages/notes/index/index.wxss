@@ -1,5 +1,7 @@
 @import "../../../styles/personal.wxss";
 @import "../../../styles/personal-catalog.wxss";
+@import "../../../styles/category-tabs.wxss";
+
 .note-excerpt { margin-top:10rpx; color:#675e53; font-size:26rpx; line-height:1.55; overflow:hidden; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
 .note-footer { display:flex; justify-content:space-between; gap:20rpx; margin-top:16rpx; color:#a27942; font-size:21rpx; line-height:1.5; }
 .note-footer text:first-child { flex:1; overflow:hidden; white-space:nowrap; text-overflow:ellipsis; }

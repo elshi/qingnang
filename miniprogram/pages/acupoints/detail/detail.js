@@ -1,5 +1,6 @@
 const { contentShare } = require('../../../utils/content-share');
 const { getAcupointDetail } = require('../../../utils/acupoints-api');
+const { createLocationDiagram } = require('../../../utils/acupoint-location');
 
 const sectionDefinitions = [
   { key: 'alias', title: '别名' },
@@ -15,7 +16,10 @@ const sectionDefinitions = [
 
 Page({
   onShareAppMessage() { return contentShare('acupoint', this.data.item); },
-  data: { item: null, sections: [], meta: [], loading: true, error: '', disclaimer: getApp().getDisclaimer() },
+  data: {
+    item: null, sections: [], meta: [], locationDiagram: null, locationImage: '',
+    loading: true, error: '', disclaimer: getApp().getDisclaimer()
+  },
   onLoad(options = {}) {
     this.acupointId = String(options.id === undefined ? '' : options.id);
     this.requestId = 0;
@@ -29,12 +33,14 @@ Page({
       return;
     }
     const requestId = ++this.requestId;
-    this.setData({ loading: true, error: '', item: null, sections: [], meta: [] });
+    this.setData({ loading: true, error: '', item: null, sections: [], meta: [], locationDiagram: null, locationImage: '' });
     try {
       const item = await getAcupointDetail(this.acupointId);
       if (requestId !== this.requestId || this.unloaded) return;
+      const locationDiagram = createLocationDiagram(item);
+      const locationImage = typeof item.location_image === 'string' ? item.location_image : '';
       const sections = sectionDefinitions
-        .filter((section) => String(item[section.key] || '').trim())
+        .filter((section) => String(item[section.key] || '').trim() || (section.key === 'locate' && (locationDiagram || locationImage)))
         .map((section) => ({ ...section, content: item[section.key] }));
       const meta = [
         item.meridian || item.pulse,
@@ -44,11 +50,18 @@ Page({
         item.five ? `五行 ${item.five}` : '',
         item.abbreviation ? `简称 ${item.abbreviation}` : ''
       ].filter((value) => String(value || '').trim()).map((value, index) => ({ key: index, value }));
-      this.setData({ item, sections, meta, loading: false });
+      this.setData({ item, sections, meta, locationDiagram, locationImage, loading: false });
     } catch (error) {
       if (requestId !== this.requestId || this.unloaded) return;
       this.setData({ loading: false, error: error.message || '穴位详情加载失败，请稍后重试' });
     }
+  },
+  previewLocationImage() {
+    const url = this.data.locationImage;
+    if (url) wx.previewImage({ current: url, urls: [url] });
+  },
+  onLocationImageError(event) {
+    if (event.currentTarget.dataset.url === this.data.locationImage) this.setData({ locationImage: '' });
   },
   retry() { this.loadDetail(); }
 });

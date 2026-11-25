@@ -1,0 +1,440 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%A7%98%E6%96%B9%E9%9B%86%E9%A9%97/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "小引",
+        "path": [
+          "小引"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "例言（計十條）",
+        "path": [
+          "例言（計十條）"
+        ]
+      },
+      {
+        "ordinal": 19,
+        "level": 1,
+        "title": "卷之上",
+        "path": [
+          "卷之上"
+        ]
+      },
+      {
+        "ordinal": 20,
+        "level": 2,
+        "title": "諸症歌訣（計八十八首）",
+        "path": [
+          "卷之上",
+          "諸症歌訣（計八十八首）"
+        ]
+      },
+      {
+        "ordinal": 197,
+        "level": 1,
+        "title": "卷之上",
+        "path": [
+          "卷之上"
+        ]
+      },
+      {
+        "ordinal": 198,
+        "level": 2,
+        "title": "諸藥食喜",
+        "path": [
+          "卷之上",
+          "諸藥食喜"
+        ]
+      },
+      {
+        "ordinal": 223,
+        "level": 1,
+        "title": "諸蟲獸傷",
+        "path": [
+          "諸蟲獸傷"
+        ]
+      },
+      {
+        "ordinal": 245,
+        "level": 2,
+        "title": "暴死諸症",
+        "path": [
+          "諸蟲獸傷",
+          "暴死諸症"
+        ]
+      },
+      {
+        "ordinal": 265,
+        "level": 2,
+        "title": "危篤諸症",
+        "path": [
+          "諸蟲獸傷",
+          "危篤諸症"
+        ]
+      },
+      {
+        "ordinal": 275,
+        "level": 2,
+        "title": "瘟疫諸症",
+        "path": [
+          "諸蟲獸傷",
+          "瘟疫諸症"
+        ]
+      },
+      {
+        "ordinal": 279,
+        "level": 2,
+        "title": "中風諸症",
+        "path": [
+          "諸蟲獸傷",
+          "中風諸症"
+        ]
+      },
+      {
+        "ordinal": 292,
+        "level": 2,
+        "title": "傷寒諸症",
+        "path": [
+          "諸蟲獸傷",
+          "傷寒諸症"
+        ]
+      },
+      {
+        "ordinal": 305,
+        "level": 2,
+        "title": "傷風諸症",
+        "path": [
+          "諸蟲獸傷",
+          "傷風諸症"
+        ]
+      },
+      {
+        "ordinal": 313,
+        "level": 2,
+        "title": "瘧疾諸症",
+        "path": [
+          "諸蟲獸傷",
+          "瘧疾諸症"
+        ]
+      },
+      {
+        "ordinal": 321,
+        "level": 2,
+        "title": "吐瀉諸症",
+        "path": [
+          "諸蟲獸傷",
+          "吐瀉諸症"
+        ]
+      },
+      {
+        "ordinal": 329,
+        "level": 2,
+        "title": "痢疾諸症",
+        "path": [
+          "諸蟲獸傷",
+          "痢疾諸症"
+        ]
+      },
+      {
+        "ordinal": 337,
+        "level": 2,
+        "title": "痰嗽諸症",
+        "path": [
+          "諸蟲獸傷",
+          "痰嗽諸症"
+        ]
+      },
+      {
+        "ordinal": 349,
+        "level": 2,
+        "title": "勞損諸症",
+        "path": [
+          "諸蟲獸傷",
+          "勞損諸症"
+        ]
+      },
+      {
+        "ordinal": 358,
+        "level": 2,
+        "title": "見血諸症",
+        "path": [
+          "諸蟲獸傷",
+          "見血諸症"
+        ]
+      },
+      {
+        "ordinal": 368,
+        "level": 2,
+        "title": "腫脹諸症",
+        "path": [
+          "諸蟲獸傷",
+          "腫脹諸症"
+        ]
+      },
+      {
+        "ordinal": 373,
+        "level": 2,
+        "title": "黃疸諸症",
+        "path": [
+          "諸蟲獸傷",
+          "黃疸諸症"
+        ]
+      },
+      {
+        "ordinal": 381,
+        "level": 2,
+        "title": "痞積諸症",
+        "path": [
+          "諸蟲獸傷",
+          "痞積諸症"
+        ]
+      },
+      {
+        "ordinal": 389,
+        "level": 2,
+        "title": "痿痹諸症（附：請風）",
+        "path": [
+          "諸蟲獸傷",
+          "痿痹諸症（附：請風）"
+        ]
+      },
+      {
+        "ordinal": 400,
+        "level": 2,
+        "title": "折傷諸症",
+        "path": [
+          "諸蟲獸傷",
+          "折傷諸症"
+        ]
+      },
+      {
+        "ordinal": 414,
+        "level": 2,
+        "title": "余方補遺",
+        "path": [
+          "諸蟲獸傷",
+          "余方補遺"
+        ]
+      },
+      {
+        "ordinal": 506,
+        "level": 1,
+        "title": "卷之下",
+        "path": [
+          "卷之下"
+        ]
+      },
+      {
+        "ordinal": 507,
+        "level": 2,
+        "title": "頭疾諸症",
+        "path": [
+          "卷之下",
+          "頭疾諸症"
+        ]
+      },
+      {
+        "ordinal": 521,
+        "level": 2,
+        "title": "耳疾諸症",
+        "path": [
+          "卷之下",
+          "耳疾諸症"
+        ]
+      },
+      {
+        "ordinal": 530,
+        "level": 2,
+        "title": "目疾諸症",
+        "path": [
+          "卷之下",
+          "目疾諸症"
+        ]
+      },
+      {
+        "ordinal": 542,
+        "level": 2,
+        "title": "鼻疾諸症",
+        "path": [
+          "卷之下",
+          "鼻疾諸症"
+        ]
+      },
+      {
+        "ordinal": 547,
+        "level": 2,
+        "title": "口舌諸症",
+        "path": [
+          "卷之下",
+          "口舌諸症"
+        ]
+      },
+      {
+        "ordinal": 558,
+        "level": 2,
+        "title": "齒牙諸症",
+        "path": [
+          "卷之下",
+          "齒牙諸症"
+        ]
+      },
+      {
+        "ordinal": 569,
+        "level": 2,
+        "title": "咽喉諸症",
+        "path": [
+          "卷之下",
+          "咽喉諸症"
+        ]
+      },
+      {
+        "ordinal": 577,
+        "level": 2,
+        "title": "心腹諸症",
+        "path": [
+          "卷之下",
+          "心腹諸症"
+        ]
+      },
+      {
+        "ordinal": 587,
+        "level": 2,
+        "title": "脾胃諸症",
+        "path": [
+          "卷之下",
+          "脾胃諸症"
+        ]
+      },
+      {
+        "ordinal": 597,
+        "level": 2,
+        "title": "腰脅諸症（附：諸閃腿痛）",
+        "path": [
+          "卷之下",
+          "腰脅諸症（附：諸閃腿痛）"
+        ]
+      },
+      {
+        "ordinal": 606,
+        "level": 2,
+        "title": "大小便症",
+        "path": [
+          "卷之下",
+          "大小便症"
+        ]
+      },
+      {
+        "ordinal": 629,
+        "level": 2,
+        "title": "疝氣諸症（附：囊癰囊癢）",
+        "path": [
+          "卷之下",
+          "疝氣諸症（附：囊癰囊癢）"
+        ]
+      },
+      {
+        "ordinal": 638,
+        "level": 2,
+        "title": "腳氣諸症",
+        "path": [
+          "卷之下",
+          "腳氣諸症"
+        ]
+      },
+      {
+        "ordinal": 647,
+        "level": 2,
+        "title": "婦女諸症",
+        "path": [
+          "卷之下",
+          "婦女諸症"
+        ]
+      },
+      {
+        "ordinal": 701,
+        "level": 2,
+        "title": "嬰兒諸症",
+        "path": [
+          "卷之下",
+          "嬰兒諸症"
+        ]
+      },
+      {
+        "ordinal": 747,
+        "level": 2,
+        "title": "瘡黴諸症",
+        "path": [
+          "卷之下",
+          "瘡黴諸症"
+        ]
+      },
+      {
+        "ordinal": 798,
+        "level": 2,
+        "title": "余方補遺",
+        "path": [
+          "卷之下",
+          "余方補遺"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "1ba4ee0d86db0d33d0d6b725",
+        "title": "序",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "人度世為念，考技精而聞見確，其與宣公□集之意有合也歟。宣公之學，盡之於奏議",
+          "，自被延齡之讒，鬱郁無所伸，至退而□錄方書，以抒其救聾起瞶之意。茲就醒庵"
+        ]
+      },
+      {
+        "chapter_key": "d81d166744b5b7fce3612d5f",
+        "title": "小引",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "指攻補為失時。嗟乎！珠王夜投，按劍而□，亦何為而不秘哉！王子醒庵，病□切心"
+        ]
+      },
+      {
+        "chapter_key": "4d61b0f0fd4a75e1b69f5ae1",
+        "title": "瘟疫诸症",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "赤茯苓、當歸各五錢；立秋以後，減柴胡□分（不用當歸、赤苓），加乾葛（炮）、"
+        ]
+      },
+      {
+        "chapter_key": "95996852aafa681fb4ffe9a4",
+        "title": "余方补遗",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "火藥炮□沖眼目瞎 登時臥地，令人以熱小便澆之"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 44,
+      "paragraph_blocks": 823,
+      "nonempty_paragraph_blocks": 823,
+      "represented_paragraph_blocks": 823
+    }
+  }
+]

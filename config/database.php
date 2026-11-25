@@ -15,6 +15,7 @@ return [
     'meridians_connection' => env('MERIDIANS_DB_CONNECTION', $defaultConnection),
     'acupoints_table' => env('ACUPOINTS_TABLE', 'qingnang.t_acupoints'),
     'acupoints_connection' => env('ACUPOINTS_DB_CONNECTION', $defaultConnection),
+    'acupoint_image_base_url' => env('ACUPOINT_IMAGE_BASE_URL'),
     'books_table' => env('BOOKS_TABLE', 'qingnang.t_books'),
     'book_chapters_table' => env('BOOK_CHAPTERS_TABLE', 'qingnang.t_book_chapters'),
     'book_chapter_book_id_field' => env('BOOK_CHAPTER_BOOK_ID_FIELD', 'book_id'),

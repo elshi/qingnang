@@ -1,0 +1,3656 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_310",
+    "name": "时方歌括",
+    "summary": "《时方歌括》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“小引”、“四君子汤”、“六君子汤”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "陈念祖",
+    "jp": "SFGK",
+    "aliases": [
+      "時方歌括"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "2bd1610f2ad592be2815df44",
+      "title": "小引",
+      "volume": null,
+      "content": "经方尚矣。唐宋以后。始有通行之时方。约其法于十剂。所谓宣通补泄轻重滑涩燥湿是也。昔贤加入寒热。共成十有二剂。虽曰平浅。而亦本之经方。轻可散实。仿于麻黄葛根诸汤。宣可决壅。仿于栀豉瓜蒂二方。通可行滞。仿于五苓十枣之属。泻可去闭。仿于陷胸承气抵当之属。胆导蜜煎。滑可去著之剂也。赤石脂桃花汤。涩可固脱之剂也。附子汤理中丸。补可扶弱之剂也。禹余粮代赭石。重可镇怯之剂也。黄连阿胶汤。湿可润燥之剂也。麻黄连轺赤小豆汤。燥可去湿之剂也。白虎黄连泻心等汤。寒可胜热之剂也。白通四逆诸汤。热可制寒之剂也。余向者汇集经方而韵注之。名为真方歌括。限于赀而未梓。缮本虽多。而刀圭家每秘而弗传。大为恨事。辛酉岁。到直供职。适夏间大雨。捧檄勘灾。以劳构疾。脉脱而厥。诸医无一得病情者。迨夜半阳气稍回。神识稍清。自定方剂而愈。时温虐流行。因余之病。而知误于药者。堪悯焉。盖医者。生人之术也。一有所误。即为杀人。余滥竽人后。诸多有志而未逮。而可以行其不忍人之心。不必待诸异时者。医之为道也向著真方歌括。非内经。即仲景。恐人重视而畏避之。每值公余。检阅时方。不下三千首。除杂沓肤浅之外。择其切当精纯。人人共知者。不可多得。仅收一百八首而韵之。分为十二剂。以便查阅。又采集罗东逸柯韵伯诸论。及余二十年读书临症独得之妙。一一详于歌后。颜曰时方歌括。为中人以下立法。徐可引以语上之道也。至于张景岳新方八阵。汇药治病。不足言方。缘一时盛行。余友林雨苍俯以从时。韵既成帙。共商注解。业经梓行。亦不遽弃。别其名曰俗方歌括。此三种者。浅深高下。明者自知之。\n嘉庆辛酉孟秋修园陈念祖题于保阳差次",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "小引"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "12ae3475393fa2b0fd4c49592c0adc02a8097bfb440766156a8dfef520447b36",
+      "content_sha256": "ad497a9b57317a510071084664e8359a308bf94c7b32cff7903d428623b0c5eb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 674,
+        "simplified_codepoints": 674
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "c9ebc793517f949b4c3e4fcc",
+      "title": "凡例",
+      "volume": null,
+      "content": "一是书前曾托名叶天士。今特收回。\n一是书论证治法。悉遵古训。绝无臆说浮谈。以时法列于前。仲师法列于后。由浅入深之意也。\n一坊刻万病回春嵩厓尊生古今医统东医宝鉴等书。所列病症。不可谓不详。而临时查对。绝少符合。即有合处。亦不应验。盖以逐末而忘其本也。试观内经难经伤寒论金匮要略。每症只寥寥数语。何所不包。可知立言贵得其要也。此书如怔忡头痛历节诸症。非遗之也。怔忡求之虚痨。头痛有邪求之伤寒。无邪求之眩晕。虚痨历节。寻其属风属湿属虚而治之。所以寓活法也。学医始基。在于入门。入门正。则始终皆正。入门错。则始终皆错。此书阐明圣法。为入门之准。不在详备。若得其秘诀。未尝不详备也。有症见于此。而治详于彼者。有论此症。而彼症合而并论者。有论彼症。绝未明言此症。而即为此症之金针者。实无他诀。唯其熟而已。熟则生巧。自有左右逢原之妙。\n论中所列诸方第三卷第四卷俱载弗遗。唯伤寒论金匮要略方非熟读原文。不能领会。此书偶有阙而未载者。欲人于原文中寻其妙义。阙之即所以引之也。阅者鉴子之苦心焉。\n一方后附论。或采前言。或录一得。视诸书较见简括。阅者自知。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "凡例"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "072f9b2e81a87c36275cca6600e4c564fc2372db1b8fa57216ede472a516a574",
+      "content_sha256": "89bdce5ba05c96f181c736a5c59fed544214f0aab86cb01ba30e0d140717ac47",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 467,
+        "simplified_codepoints": 467
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "232efce9b5274554e1577060",
+      "title": "四君子汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治面色痿白。言语轻微。四肢无力。脉来虚弱者。若内热或饮食难化作酸。乃属虚火。须加干姜。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 12,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "四君子湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "aefb5e2432512bd3a394ded9e236357b9e9e76258903b3d6a0d0981834c9d957",
+      "content_sha256": "42142718f310a7d724c58c15edffe290616ae3574e82ebfaa9871c0ad23fdbf7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 43,
+        "simplified_codepoints": 43
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "442d2cddf3bd421796cf42c7",
+      "title": "六君子汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治脾胃虚弱。痞满痰多。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "六君子湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "11b1eb0f987f083b7f66cd679b734ea1e898e2c6b78f4caaedb03174a66b8f13",
+      "content_sha256": "96a647dc5bb124fb6b13f02284ee87b75759ac10b412055fbde9e6ceedca8111",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 11,
+        "simplified_codepoints": 11
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "68ce4cec05b74328fc0860ae",
+      "title": "香砂六君子汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治气虚肿满。痰饮结聚脾胃不和。变生诸症者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "香砂六君子湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "72bebc589f10cf35755f712bb6b52061992ece3e0cca1427aa3759b3bf497f9e",
+      "content_sha256": "1f3f15222e993cd645dafe06ef1e4c81e1f7cc06e8d2eaf09be94f6296926c3e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        17
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 21,
+        "simplified_codepoints": 21
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "a78af96f90112c273eace93c",
+      "title": "五味异功散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "健脾进食。为病后调补之良方。\n苓术参甘四味同。（人参茯苓白术各二钱。炙甘草一钱。加姜枣煎。名四君子汤。）方名君子取谦冲。增来陈夏痰涎涤。（前方加陈皮一钱顺气。半夏二钱除痰。名六君子汤。）再入香砂痞满通。（六君子汤加木香砂仁各八分。以行气消胀。名为香砂六君子汤。）水谷精微阴以化。（饮食增则津液旺。充血生精。以复其真阴之不足。）阳和布护气斯充。（食入于阴。气长于阳。昼夜循环。周于内外。）若删半夏六君内。钱氏书中有异功。（六君子汤内。去半夏。名五味异功散。）\n陈修园曰。胃气为生人之本。参术苓草。从容和缓。补中宫土气。达于上下四旁。而五脏六腑。皆以受气。故一切虚证。皆以此方为主。若加陈皮。则有行滞进食之效。再加半夏。即有除痰宽胀之功。再加木香砂仁。则行气之药。多于补守。凡肿满痰饮结聚等证。无不速除。此犹人所易知也。而为数方之主。则功在人参。人皆曰人参补气补阳。温药藉之以尽其力量。而余则曰。人参补阴养液。燥药得之则臻于和平。故理中汤中姜术二味。气胜于味。以扶阳。参草二味。味胜于气。以和阴。此汤以干姜易茯苓。去其辛而取其淡。亦阴阳兼调之和剂也。凡医家病家。俱重人参。全未识人参之性。皆不读神农本草经之过也。今录本草经原文而释之。或数百年之误。于兹而一正也乎。\n按神农本草经云。人参气味甘。微寒无毒。主补五脏。安精神。定魂魄。止惊悸。除邪气。明目开心益智。久服轻身延年。原文只此三十七字。其提纲云。主补五脏。以五脏属阴也。精神不安。魂魄不定。惊悸不止。目不明。心智不足。皆阴虚为亢阳所扰也。今五脏得甘寒之助。则有安之定之止之明之开之益之之效矣。曰邪气者。非指外邪而言。乃阴虚而壮火食气。火气即邪气也。今五脏得寒甘之助。则邪气除矣。余细按经文。无一字言及温补回阳之性。\n仲景于汗吐下阴伤之证用之。以救津液。而一切回阳方中。绝不加此阴柔之品。反缓姜附之功。故四逆汤通脉四逆汤。为回阳第一方。皆不用人参。而四逆加人参汤。以其利止亡血而加之也。茯苓四逆汤用之者。以其烦燥在汗下之后也。今人辄云。以人参回阳。此说倡之宋元以后。而大盛于薛立斋张景岳李士材辈。而李时珍本草纲目。浮泛杂沓。愈乱经旨。学者必于此等书焚去。方可与言医道。。仲景一百一十三方中。用人参者。只有一十八方。新加汤。小柴胡汤。柴胡桂枝汤。桂枝人参汤。半夏泻心汤。四逆加人参汤。茯苓四逆汤。生姜泻心汤。黄连汤。旋覆代赭石汤。干姜黄连黄芩人参汤。厚朴生姜半夏人参汤。白虎加人参汤。竹叶石膏汤。炙甘草汤。皆因汗吐下之后。亡其津液。取其甘寒以救阴也。抑或辛刚剂中。取其养阴以配阳。即理中汤。吴萸汤。附子汤三方之法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "五味異功散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "30440f21b39e543aad93ce15a8218e94a66187f03ad7820a774a4b8c0b4c7e95",
+      "content_sha256": "033fc7a6db5f815661a9be94b692da5a62098b4f6165f9769d45f94b888d615e",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1082,
+        "simplified_codepoints": 1082
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "11e0ed2c1af6424ea2b97e27",
+      "title": "香砂六君子汤论",
+      "volume": "卷上 / 补可扶弱",
+      "content": "柯韵伯曰。经云。壮气行则愈。怯者著而为病。盖人在气交之中。因气而生。而生气总以胃气为本。食入于阴。长气于阳。昼夜循环。周于内外。一息不运。便有积聚。或胀满不食。或生痰留饮。因而肌肉消瘦。喘咳呕哕。诸证蜂起。而神机化绝矣。四君子。气分之总方也。人参致冲和之气。白术培中宫。茯苓清治节。甘草调五脏。诸气既治。病从何来。然拨乱反正。又不能无为而治。必举夫行气之品以辅之。则补品不至泥而不行。故加陈皮以利肺金之逆气。半夏以疏脾土之湿气。而痰饮可除也。加木香以行三焦之滞气。砂仁以通脾肾之元气。而膹郁可开也。四君得四辅。而补力倍宣。四辅有四君。而元气大振。相须而益彰者乎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "香砂六君子湯論"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "a90ae8ae26643f6efea7b431bab9b27d2624a552cd3dc55822f1a38f8f7b3661",
+      "content_sha256": "934c20f9d9dc64c41c99d2c347641d9ee949bbfbfbfdf699f2ca7378e21cd2b4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 281,
+        "simplified_codepoints": 281
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "815274a4ccc0b52c368eaa27",
+      "title": "补中益气汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治阴虚内热。头痛口渴。表热自汗。不任风寒脉洪大。心烦不安。四肢困倦。懒于言语。无气以动。动则气高而喘。\n补中参草术归陈。耆得升柴用更神。（黄耆蜜炙钱半。人参甘草炙白术各一钱。陈皮归身各五分。升麻柴胡各三分。加姜枣煎。）劳倦内伤功独擅。阳虚外感亦堪珍。\n柯韵伯曰。仲景有建中理中二法。风木内干于中气。用建中汤。寒水内凌于中气。用理中汤。至若劳倦形气衰少。阴虚而生内热。（阴者。太阴也。）表症颇同外感。惟东垣知其为劳倦伤脾。谷气不盛。阳气下陷于阴而发热。故制补中之剂。得发表之品。而中自安。益气之剂。赖清气之品。而气益倍。此用药相须之妙也是方也。用以补脾。使地道卑而上行。亦可以补心肺。损其肺者益其气。损其心者调其荣卫也。亦可以补肝木。郁则达之也。惟不宜于肾。阴虚于下者。不宜升。阳虚于下者。更不宜升也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "補中益氣湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b54693f9aba438a365ac5735c31ad8a064e0fc16f75573dfaf98d594d2f00441",
+      "content_sha256": "06fbb4b8a4e220b243768ceb94ef1e8c06938bc6c9e5e2bb9bb4d95561dabd4c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        27,
+        28,
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 350,
+        "simplified_codepoints": 350
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "0d8cf76e06a3c4504c726d73",
+      "title": "当归补血汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "血虚身热有奇方。古有当归补血汤。五倍黄耆归一分。（分。去声。黄耆一两。当归二钱五分。水煎服。）真阴濡布主之阳。\n陈修园曰。凡轻清之药。皆属气分。味甘之药。皆能补中。黄耆质轻而味微甘。故略能补益。神农本草经。以为主治大风。可知其性矣。此方主以当归之益血。倍用黄耆之轻清走表者为导。俾血虚发热。郁于皮毛而不解者。仍从微汗泄之。故症象白虎。不再剂而热即如失也。元人未读本经。此方因善悟暗合。其效无比。究之天之仁爱斯民特出此方。而假手于元人。非元人识力所可到也。吴鹤皋以阳生阴长为解。亦是庸见。故特详之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "當歸補血湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "495d91f9d7e36b9519c6d2c7fdf1d8a389299820cc057c610ede84e02d23e132",
+      "content_sha256": "3a177824725a5f212960034fb7318cd261ae1775b90a22261a950294a3b36e94",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        31,
+        32
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 248,
+        "simplified_codepoints": 248
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "51a67644ef4330648dfdd45c",
+      "title": "保元汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治气血虚弱之总方也。小儿惊。痘家虚甚。最宜。\n补养诸汤首保元。参耆桂草四般存。（黄耆三钱。人参一钱。甘草一钱。肉桂春夏二分。秋冬六七分。水煎服。）大人虚损儿科痘。一气（肾气为先天真元之气。胃气为后天水谷之气。）持纲语不烦。\n柯韵伯曰。保元者保守其元气之谓也。气。一而已。主肾。为先天真元之气。主胃。为后天水谷之气者。此指发生而言也。又水谷之精气。行于经隧。为营气。水谷之悍气。行于脉外。为卫气。大气之积于胸中而司呼吸者。为宗气。是分后天运用之元气而为三也。又外应皮毛。协营卫而主一身之表者。为太阳膀胱之气。内通五脏。司治节而主一身之里者。为太阴肺金之气。通行内外。应腠理而主一身之半表半里者。为少阳三焦之气。是以先天运行之元气而为三也。此方用黄耆和表。人参固里。甘草和中。三气治。而元气足矣。昔李东垣以此三味。能泻火补金培土。为除烦热之圣药。镇小儿惊。效如桴鼓。魏桂岩得之。以治痘家阳虚顶陷。血虚浆清。皮薄发痒。难灌难敛者。始终用之。以为血脱须补气。阳生则阴长。有起死回生之功。故名之为保元也。又少佐肉桂。分四时之气而增损之。谓桂能治血。以推动其毒。扶阳益气。以充达周身。血在内。引之出表。则气从内托。血外散。引之归根。则气从外护。参耆非桂引导。不能独树其功。桂不得甘草和平血气。亦不能绪其条理。要非浅见寡闻者。能窥其万一也。四君中。不用白术。避其燥。不用茯苓。恐其渗也。用桂而不用四物者。恶芎之辛散。归之湿润。芍之苦寒。地黄之泥滞故耳。如宜燥。则加苓术。宜润。加归。除烦。加芍。散表。加芎。斯又当理会矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 33,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "保元湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "adb2aa5bd47b02ca6424138dba97a963d90e649df97851bc22796d41a7b08ed3",
+      "content_sha256": "438bc4471b6b9378622967f15a2a8c3f2bd28261ef2a5d70ebc5acf694bf5d1a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        34,
+        35,
+        36
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 653,
+        "simplified_codepoints": 653
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "1943612c4ac5aa7ac76b4e4d",
+      "title": "独参汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治元气虚而不支。脉微欲绝。及妇人血崩。产后血晕。\n功建三才得令名。（参者。参也。其功与天地人并立为三。故名参。）脉微血脱可回生。人参煎取稠黏汁。专任方知气力宏。（柯韵伯曰。世之用参者。或以些少姑试之。或加他味以监制之。其权不重力不专。人何赖以生。）\n陈修园曰。阴虚不能维阳。致阳气欲脱者。用此方。救阴以留其阳。若阳气暴脱。四肢厥冷。宜用四逆汤辈。若用此汤。反速其危。故古人多用于大汗大下之后。及吐血血崩产后血晕诸证。今人以人参大补阳气。皆惑于元人邪说。及李时珍纲目等书。不知人参生于上党山谷辽东幽冀诸州。背阳向阴。其味甘中带苦。其质柔润多液。置于日中。一晒便变色而易蛀。其为阴药无疑。读神农本经者自知。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 37,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "獨參湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "5741bc21a185acb29126830a4ba42d907a0f2a1511af51fc082ca3497a3acf05",
+      "content_sha256": "32fb0bae8a48373bf9b28e627a2ea0607608b8d4e305c73c28778ab5a16cbbf4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        38,
+        39,
+        40
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 301,
+        "simplified_codepoints": 301
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "bf359bdc3f4e30b060976d85",
+      "title": "四物汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治一切血症热血燥诸症。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 41,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "四物湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "c8ef2007ebf73a6bd3550ff5538c10c96315d3eafdbbccefa73b4966e9cb9c93",
+      "content_sha256": "d7889d37696ed62b045892cebba58c5f4ab453d1f418d219216eada3ab57b06b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        42
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 11,
+        "simplified_codepoints": 11
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "dbc67f1cd1b6ff49880575b4",
+      "title": "八珍汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "气血双补。\n四物归地芍川芎。血症诸方括此中。（当归酒洗熟地各三钱。白芍二钱。川芎一钱半。）若与四君诸品合。（参术苓草。）双疗气血八珍崇。（四君补气。四物补血。）\n陈修园曰。四物汤。皆钝滞之品。不能治血之源头。即八珍汤气血双补。亦板实不灵。必善得加减之法者。方效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 43,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "八珍湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "56c6b9e8b87004da53d6b07ef939ca5dd5f11710a5345387ef748585c42e90ad",
+      "content_sha256": "7dd7556ed48d61581f2a641734158a76693018481d30bced876b2d7778f3e3b1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        44,
+        45,
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "a09075d7fdcafc5dcf60ff11",
+      "title": "十全大补汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "气血双补。十补不一泻法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "十全大補湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "eaf3ef2793da3beba2e94e90962ba10273db9435813d4c494ae263994b32fc42",
+      "content_sha256": "31476462bc01cac7e3174b8f79c019a8055052368a8d102d0c40d810ab426bbe",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        48
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 12,
+        "simplified_codepoints": 12
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "d8bfc45bfe7d302c614e2d2b",
+      "title": "人参养荣汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治脾肺俱虚。发热恶寒。肢\n体瘦倦。食少作泻等症。若气血两虚。变见诸症。勿论其病。勿论其脉。但用此汤。诸症悉退。\n桂耆加入八珍煎。大补功宏号十全。（八珍加黄耆肉桂。名十全大补汤。）再益志陈五味子。去芎辛窜养荣专。（十全大补汤。去川芎。加陈皮五味子远志。名人参养荣汤。方用白芍一钱五分。人参白术陈皮炙耆茯苓当归桂心炙草各一钱熟地七分半。远志五分。五味子十四粒。姜枣水煎。）\n陈修园曰。十全大补汤。为气血双补之剂。柯韵伯病其补气而不用行气之品。则气虚之甚者。无气以受其补。补血而仍用行血之药于其间。则血虚之甚者。更无血以流行。正非过贬语。而人参养荣汤之妙。从仲景小建中汤黄耆建中汤套出。何以知之以其用生芍药为君知之也。芍药苦平破滞。本泻药。非补药也。若与甘草同用。则为滋阴之品。若与生姜大枣肉桂同用。则为和荣卫之品。若与附子干姜同用。则能急收阳气。归根于阴。又为补肾之品。虽非补药。昔贤往往取为补药之主。其旨微矣。此方以芍药为君。建中汤诸品俱在。恶饴糖之过甜动呕。故以熟地当归白术人参诸种甘润之品代饴糖。以补至阴。然饴糖制造。主以麦蘖。麦为心谷。心者化血而奉生身也。故又代以远志之入心。麦造为蘖。能疏远而畅气也。故又代以陈皮之行气。建中汤中。原有胸满去枣加茯苓之例。故用茯苓。细思其用意无非从建中套来。故气血两虚变见诸症者。皆可服也。其以养荣名汤奈何。心主营而苦缓。必得五味子之酸以收之。使营行脉中而流于四脏。非若十全八珍之泛泛无归也。。按神农本经云。芍药气味平苦无毒。主治邪气腹痛。除血痹。\n破坚积寒热。止痛利小便益气。原文只此二十九字。后人妄改圣经。而曰微酸。是没其苦泄攻坚之性。而加以酸敛和阴之名。则芍药之真面目掩矣。不知古人用法。或取其苦以泄甘。或取其苦以制辛。或取其攻利以行补药之滞。皆善用芍药以为补。非以芍药之补而用之也。但芍药之性。略同大黄。凡泄泻必务去之。此圣法也。本经不明。宋元以后。无不误认为酸敛之药。不得不急正之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 49,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "人參養榮湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "3c5910a73a3d0db21c03027b80fdb724ea0d6edfba3498baa7e91349a0c1afd6",
+      "content_sha256": "eb0d7425573a50bd0d4483f072d2365abcc360286090a82d931686ba0a63d3e1",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 815,
+        "simplified_codepoints": 815
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "c68bacce72cc421e27f7f7f5",
+      "title": "天王补心丹",
+      "volume": "卷上 / 补可扶弱",
+      "content": "主治心血不足。神志不宁。津液枯竭。健忘怔忡。大便不利。口舌生疮等症。\n天王遗下补心丹。为悯山僧请课难。归地二冬酸柏远。三参苓桔味为丸。（道藏偈云。昔志公和尚日夜讲经。邓天王悯其劳。锡以此方。酸枣仁当归各一两。生地黄四两。柏子仁麦门冬天门冬各一两。远志五钱。五味子一两。白茯苓人参丹参元参桔梗各五钱。炼蜜丸。每两分作十丸。\n金箔为衣。每服一丸。灯心枣汤化下。食远临卧服。或作小丸亦可。各书略异。）\n陈修园曰。小篆。心字篆文。只是一倒火耳。火不欲炎上。故以生地黄补水。使水上交于心。以元参丹参二冬泻火。使火下交于肾。又佐参茯以和心气。当归以生心血。二仁以安心神。远志以宣其滞。五味以收其散。更假桔梗之浮为向导。心得所养。而何有健忘怔忡津液干枯舌疮秘结之苦哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 55,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "天王補心丹"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "cb2602b62e8e921453a5840d3a4cac30e2fcce083ced8c4dcf96037065aa2519",
+      "content_sha256": "e2e6cb88d63497bd967f8f3f89342ed1cdc05a624e01e6fa8cbde8c3392114f3",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        56,
+        57,
+        58,
+        59
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 327,
+        "simplified_codepoints": 327
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "fa08453bb20c10b4868039bf",
+      "title": "六味地黄丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "主治肾精不足。虚火上炎。腰膝痿软。骨节酸痛。足跟痛。小便淋秘或不禁。遗精梦泄。水泛为痰。自汗盗汗。失血消渴。头目眩晕。耳聋齿摇。尺脉虚大者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 60,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "六味地黃丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "687e267f6088ad9928a6088c4d4628a9715a94ab33f7b375c2e797ad1de90b8d",
+      "content_sha256": "a60a669d30198c1a97c49ca55ba8ab935fb7c902af4094598f04242fdcbed2e0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        61
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "3108c42c10c5d302a9016405",
+      "title": "桂附地黄丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治命门火衰。不能生土。以致脾胃虚寒。饮食少思。大便不实。或下元衰惫。脐腹疼痛。夜多漩溺等症。\n六味滋阴益肾肝。茱薯丹泽地苓丸。（山茱肉薯蓣又名山药各四两。丹皮泽泻白茯苓各三两。\n熟地黄八两。炼蜜丸。每服二钱。淡盐汤送下。）再加桂附扶真火。（前方加肉桂一两。附子一大枚炮。名八味地黄丸。原名肾气丸。此丸于水中补火。）八味功同九转丹。（柯韵伯曰。水体本静。而川流不息者。气之动。火之用也。命门有火。则肾有生气。故不名温肾。而名肾气也。）\n陈修园曰。六味丸补肾水。八味丸补肾气。而其妙则在于利水。凡肾中之真水不足。真火衰微者。其溺必多。二方非补肾正药。不可因薛立斋之臆说而信之。近效白术附子汤。极佳。其方列于热剂。宜细玩之。。肾气丸。金匮要略凡五见。一见于第五篇。云治脚气上入小腹不仁。再见于第六篇。云治虚劳腰痛小便不利。三见于第十二篇。云夫气短有微饮当从小便去之肾气丸主之。四见于第十三篇。云治男子消渴小便反多饮一斗小便亦一斗。五见于第廿二篇。云治妇人转胞不得溺。但利小便则愈。观此五条。皆泻少腹膀胱之疾为多。不可以通治火衰之症。且此方金匮不入于五水之门。今人谓治水通用之剂。更为可怪。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 62,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "桂附地黃丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "963b5a462e48598480db46fc6a2a22a41580cc9a5a0235b6c53875d1d3ba7426",
+      "content_sha256": "36ae585db9a8ab97761c4202349454d7bd8102f73d36ccd0a5d9f82ca1707d09",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        63,
+        64,
+        65,
+        66
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 491,
+        "simplified_codepoints": 491
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "d3cbcd6cdf3e8aa1901a999a",
+      "title": "还少丹",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治脾肾俱虚。饭食无味。面少精采。腰膝无力。梦遗或少年阳痿等症。\n杨氏传来还少丹。茱蓣苓地杜牛餐。苁蓉楮实茴巴枸。远志菖蒲味枣丸。（山茱肉山药茯苓熟地黄杜仲牛膝肉苁蓉楮实子小茴香巴戟天去骨枸杞远志去骨石菖蒲五味子。各二两。红枣一百粒。姜煮去皮核。炼蜜丸如梧子大。每服三钱。淡盐汤下。一日两服。此丸功同八味丸。火未大虚者。更觉相宜。）\n陈修园曰。此交通心肾之方也。姜附椒桂。热药也。热药如夏日可畏。此方诸品。固肾补脾。温药也。温药如冬日可爱。故时医每奉为枕秘。然真火大衰者。断非此方可以幸效。且柔缓之品。反有减食增呕致泄之虞也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 67,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "還少丹"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d9d85f453296b329cff48b485ca942def604b6b50fc47493c63d68230249db1d",
+      "content_sha256": "59d01e68f049f0deb5dc56a265f82f850fe6d7b84becd313af66ff5045a0d9ea",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        68,
+        69,
+        70
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 262,
+        "simplified_codepoints": 262
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "21633ef8a0129d68363da3f8",
+      "title": "龟鹿二仙胶",
+      "volume": "卷上 / 补可扶弱",
+      "content": "大补精髓。益气养神。\n人有三奇精气神。求之任督守吾真。二仙胶取龟和鹿。枸杞人参共四珍。（鹿角血者十斤。龟板十斤。枸杞二十两。人参十五两。用铅镡如法熬膏。初服酒化一钱五分。渐加至三钱。空心服下。）\n李士材曰。人有三奇。精气神。生生之本也。精伤无以生气。气伤无以生神。精不足者。补之以味。鹿得天地之阳气最全。善通督脉。足于精者。故能多淫而寿。龟得天地之阴气最厚。善通任脉。足于气者。故能伏息而寿。二物气血之属。又得造化之微。异类有情。竹破竹补之法也。人参清食气之壮火。\n所以补气中之怯。枸杞滋不足之真阴。所以补神中之火。是方也。一阴一阳。无偏胜之忧。入气入血。有和平之美。由是精生而气旺。气旺而神昌。庶几龟鹿之年矣。故曰二仙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 71,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "龜鹿二仙膠"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "75d4bf378ab4d39e8df560736750954d5c0674bd40fbac26bb600ae929f3cafd",
+      "content_sha256": "00a45a110212e62724522748488c5f5725c91daabe3bb248934c22d15a8537bc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 311,
+        "simplified_codepoints": 311
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "241cf71db3302eb241e6310f",
+      "title": "圣愈汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治一切失血。或血虚烦渴燥热睡卧不宁。五心烦热作渴等症。即四物汤加人参黄耆。\n柯韵伯曰。此方取参耆配四物。以治阴虚血脱等症。盖阴阳互为其根。阴虚则阳无所附。所以烦热燥渴。而阳亦亡。气血相为表里。血脱则气无所归。所以睡卧不宁。而气亦脱。然阴虚无骤补之法。计在存阳。血脱有生血之机。必先补气。此阳生阴长血随气行之理也。故曰。阴虚则无气。无气则死矣。前辈治阴虚。用八珍十全。卒不获效者。因甘草之甘。不达下焦。白术之燥。不利肾阴。茯苓渗泄。碍乎生升。肉桂辛热。动其虚火。此六味皆醇厚和平而滋润。服之则气血疏通。内外调和。合于圣度矣。\n陈修园曰。此方为一切失血之良药。及血后烦热。睡卧不宁。五心烦热作渴。可以兼治。其止血。妙在川芎一味。其退热。\n妙在黄耆一味。其熟睡止渴。妙在人参一味。柯韵伯以参耆为气分阳药。取配四物等语。亦未免为俗说所囿也。经云。中焦受气取汁变化而赤。是谓血。血之流行。半随冲任而行于经络。半散于脉外而充于肌腠皮毛。凡一切失血之症。其血不能中行于经络。外散于肌腠皮毛。故从窍道涌出不止。妙得川芎之温行。又有当归以濡之。俾血仍行于经络。得川芎之辛散。又有黄耆以鼓之。俾血仍散于肌腠皮毛。源流俱清。而血焉有不止者乎。至于血后燥热。得黄耆以微汗之。则表气和而热退。即当归补血汤意也。睡卧不宁。血后阴虚所致。五脏属阴。唯人参能兼补之。五脏之阴长。则五心之烦热自除。烦热既除。则津液自生。燥渴自已。诸症可以渐退矣。自宋元以后。无一人能读本草经。此方疑有神助。非制方人识力所到也。柯韵伯卓卓不凡。但未读本草经。未免阙憾。。五脏有血。六腑无血。观剖诸兽。腹心下夹脊包络中多血。\n肝内多血。心脾肺肾中各有血。六腑无血。近时以吐血多者为吐胃血。皆耳食昔医之误。凡五脏血。吐出一丝即死。若吐血衄血下血及妇人血崩。皆是行于经络与散于肌腠之血。溢于上为吐衄。渗于下为崩下也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "聖愈湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b26f265de75fe2ab6ddbe6011555df02100c48073536dad5146a9ad67dbd4cb8",
+      "content_sha256": "fa980f06c4d7b7c4f005ef28bb04b37bb7c7a8cfd496f0ff7b63ff000d8bf821",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        77,
+        78,
+        79,
+        80,
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 779,
+        "simplified_codepoints": 779
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "21f032f00b79de1100abd2ef",
+      "title": "十味地黄丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治上热下寒。服凉药更甚等症。\n即桂附地黄丸倍用桂附。加芍药元参各四两。\n陈修园曰。此孙真人千金翼方也。芍药能敛木中之火气。以归其根。元参能启水中之精气。以交于上。故加此二味于八味丸中。一以速附子之下行。一以防肉桂之上僣。凡口舌等疮。面红目赤。齿牙浮动。服凉药而更甚者。此为秘法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "十味地黃丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "28d5cbf70c0a38fa6fe243d283ebf1ff93d24238a199f5ce0544150610cf75b6",
+      "content_sha256": "bc981483b9638070a56c48fdba5c57b94aa0c2aff82784df6aa469286ef4186f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        83,
+        84,
+        85
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "c25409cc78c48da2445122e3",
+      "title": "正元丹",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治命门火衰。不能生土。吐利厥冷。有时阴火上冲。则头面赤热。眩晕恶心。浊气逆满。则胸胁刺痛。脐肚胀急。\n即四君子汤加山药黄耆。（人参三两。用川附子一两五钱煮汁收入。去附子。。黄耆一两五钱。用川芎一两酒煮收入。去川芎。。山药一两。用干姜三钱煎汁收入。去干姜。。白术二两。用陈皮五钱煮汁收入。去陈皮。。茯苓二两。用肉桂六钱酒煮汁收入。去肉桂。。甘草一两五钱。用乌药一两煮汁收入。去乌药。。上五味。除茯苓用文武火缓缓焙干。勿炒伤药性为末。每服三钱。水一盏。姜三片红枣一枚。煎数沸。入益一捻和滓调服。服后饮热酒一杯。以助药力。。按炼蜜为丸。每服三钱。更妙。\n陈修园曰。此方出虞天益制药秘旨。颇有意义。张石顽医通之注解亦精。石顽云。方本千金方一十三味。却取附子等辛燥之性。逐味分制。四君耆薯之中。其力虽稍逊原方一筹。然雄烈之味。既去真滓。无形生化有形。允为温补少火之驯剂。而无食气之虞。真千金之功臣也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 86,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "正元丹"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d173e1b82bd324f675663c1bef33ab8a699e0afdb16e5274612dc034c4fc1be4",
+      "content_sha256": "dfcb86d033effdd3fc1c402fb37c344cc2d23d4ff0d6769566db56378bc39024",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        87,
+        88,
+        89
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 395,
+        "simplified_codepoints": 395
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "86e1dbc0077cb1c7020f9f9f",
+      "title": "归脾汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治思虑伤脾。不能摄血。致血妄行。或健忘怔忡。惊怪盗汗。嗜卧少食。或大便不调。心脾疼痛。疟痢郁结。或因病用药失宜。克伐伤脾。以致变症者。最宜之。\n归脾汤内术耆神。（白术黄耆炙茯神各二钱。）参志香甘与枣仁。（人参酸枣仁炒研各二钱。远志木香各五分。甘草炙一钱。）龙眼当归十味外。（龙眼肉五枚。当归二钱。）若加熟地失其真。（本方只十味。薛氏加山栀丹皮各一钱。名为加味归脾汤。治脾虚发热颇效。近医加熟地黄。名黑归脾汤。则支离甚矣。）\n陈修园曰。此方汇集补药。虽无深义。然亦纯而不杂。浙江江苏市医。加入熟地黄一味。名为黑归脾汤。则不通极矣。内经阴阳二字。所包甚广。而第就脏腑而言。言阳盛阳衰者。指阳明而言。言阴盛阴衰者。指大阴而言。太阴者脾也。神农本经。补阴与补中二字互用。盖以阴者中之守也。阴虚即是中虚。中虚即是阴虚。后人错认其旨。谓参耆白术为气药。补阳。归地芍药为血药。补阴。谓姜桂附子为热药。补阳。谓知柏生地为寒药。补阴。满腔都是李士材薛立斋张景岳之庸论。则终身为误人之庸医矣。\n今即以此方言之。方中诸品。甘温补脾。即是补阴之剂。而命方不为补而为归者。归还其所固有也。妙在远志入心以治其源。即内经痿论所谓心主身之血脉。生成篇所谓诸血者皆属于心之旨也。木香入脾以治其流。本草经名为五香。五为土数。香又入脾。藉其盛气。以嘘血归脾之义也。方虽平钝。颇得金匮要略。调以甘药。令饮食增进。渐能充血生精。以复真阴之不足。若加入熟地黄。则甘缓剂中。杂以壅滞之品。恐缓者过缓。壅者增壅。脾气日困。不能输精入肾。欲补肾反以戕肾矣。又有逍遥散加入熟地黄。名为黑逍遥散。更为无知妄作。吾知数年后。必将以四君子汤六君子汤生脉散等方。加入此味。名为黑四君子黑六君子黑生脉散矣。堪发一叹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 90,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "歸脾湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "8ea2be60a55318fd358e48203874eb83535a4e02b4351c8170bcd90adb87dba9",
+      "content_sha256": "0cdced7ff3877ce22b820adb4df36a5d4f71bb852bd0ee1bc079121f79e2bba6",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        91,
+        92,
+        93,
+        94
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 727,
+        "simplified_codepoints": 727
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "a277ff444716599d4237a2f4",
+      "title": "大补阴丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "降阴火。补肾水。\n大补阴丸绝妙方。向盲问道诋他凉。地黄知柏滋兼降。龟板沉潜制亢阳。（黄柏知母各四两。俱用盐酒炒。熟地黄酒润。龟板酥炙黄。各六两为末。用猪脊髓蒸熟。和炼蜜为丸桐子大。每服五六十丸。空心。姜汤盐汤黄酒随意送下。）\n陈修园曰。知柏寒能除热。苦能降火。苦者必燥。故用猪脊髓以润之。熟地以滋之。此治阴虚发热之恒法也。然除热只用凉药。犹非探源之治方中以龟板为主。是介以潜阳法。丹溪此方。较六味地黄丸之力更优。李士材薛立斋张景岳辈。以苦寒而置之。犹未参透造化阴阳之妙也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 95,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "大補陰丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "91c31daf00e124557f684d4bc7e3491fad9ec0616b2123f82238c9e1f1327c59",
+      "content_sha256": "881d64b476882aa35de47c4eedf8c64b5e4a6fe2a8c9fc8e6eaa165cedcd80d7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        96,
+        97,
+        98
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 236,
+        "simplified_codepoints": 236
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "ce87b8239b000276a7875304",
+      "title": "虎潜丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治痿神方。\n即前方加味。（黄柏知母熟地各三两。龟板四两。白芍当归牛膝各二两。虎胫骨琐阳陈皮各一两五钱。干姜五钱。酒煮羯羊肉为丸。如桐子大。每服五六十丸。姜汤盐汤或黄酒送下。）\n加味虎潜丸（治诸虚不足。腰腿疼痛。行步无力。壮元气。滋肾水。）即前方再加味。（照虎潜丸方再加人参黄耆杜仲菟丝子茯苓破故纸山药枸杞。去羊肉干姜。以猪脊髓蒸熟。同炼蜜为丸。如桐子大。服法照前。）\n陈修园曰。观此二方。可知苦寒之功用神妙。非薛立斋张景岳辈所可管窥。喻嘉言寓意草。谓苦寒培生气。诚见道之言也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 99,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "虎潛丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b68194c1722b81de679e6c9575460ea96b468942667adef1438eea3b0c8f7ffd",
+      "content_sha256": "2e4d1df1bf7b03640fff44279cbff9f3a4eb32ddc7ad49db1a238bfa38e2ac6d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        100,
+        101,
+        102,
+        103
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 238,
+        "simplified_codepoints": 238
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "ca43b081963c0061b156711a",
+      "title": "全鹿丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "能补诸虚百损五劳七伤。功效不能尽述。人制一料服之。可以延年一纪。其法须四人共制一鹿。分而服之。逾年又共制之。四人共制四年。则每人得一全鹿。若一人独制一料。恐久留变坏。药力不全矣。法用中鹿一只。宰好。将肚杂洗净。同鹿肉加酒煮熟。将肉横切。焙干为末。取皮同杂。仍入原汤煮膏。和药末肉未加炼蜜为丸。其骨须酥炙为末。同入之。（人参白术茯苓炙草当归川芎生地熟黄耆天冬麦冬枸杞杜仲牛膝山药芡实菟丝子五味子琐阳肉苁蓉破故纸巴戟肉葫芦巴川续断覆盆子楮实子秋石陈皮。各一斤。川椒小茴香沉香青盐各半斤。法须精制诸药为未。候鹿胶成就。和捣为丸。梧桐子大。焙干。用生绢作小袋五十条。每条约乘一斤。悬直透风处。用尽一袋。又取一袋。阴湿天须用火烘一二次为妙。每服八九十丸。空心临卧姜汤盐汤送下。冬月酒下。）陈修园曰。此方冠冕堂皇。富贵之家。无不喜好。修园不韵不注。明者自知然亦有不得不言者。肥厚痰多之人。内蕴湿热者。体此丸。即犯膏粱无厌发痈疽之戒也。惟用瘦过于劳苦。及自奉淡薄之人。或高年瘦弱。用此早晚两服以代点心。不无补益耳。。重可镇法",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 104,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "全鹿丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "2403ea6b270afeb783c241cde9e2f25885c011985867882b4080fb030215099c",
+      "content_sha256": "c609b114f5ef8ced4f2f49d98fa7e40558e0d006866391f646bc17fc0017bb36",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        105
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 455,
+        "simplified_codepoints": 455
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "f19206d7268f91340feab61d",
+      "title": "磁砂丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治神水宽大渐散。昏如雾露中行。渐睹空中有黑花。睹物成二体。及内障神水淡绿色澹白色。又治耳鸣及耳聋。柯韵伯云。治聋癫狂痫如神。\n磁砂丸最媾阴阳。神曲能俾谷气昌（磁石二两。朱砂一两。神曲三两生。更以一两水和作饼煮。浮入前药。炼蜜为丸。）内障黑花聋并治。若医癫痫有奇长。\n王又原曰。经曰。五脏六腑之精。皆上注于目。则目之能视者。气也。目之所以能视者。精也肾惟藏精。故神水发于肾。心为离照。故神光发于心。光发阳而外。映有阴精以为守。则不散而常明。水发阴而凝结。有阳气以为布。则洞悉而不穷。惟心肾有亏。致神水干涸。神光短少。昏眊内障诸症。所由作也。千金以磁石直入肾经。收散失之神。性能引铁。吸肺金之气。归藏肾水。朱砂体阳而性阴。能纳浮游之火而安神明。水能鉴。火能烛。水火相济。而光华不四射与。然目受脏腑之精。精俾于谷。神曲能消化五谷。则精易成矣。盖神水散大。缓则不收。赖镇堕之品。疾收而吸引之。故为急救之剂也。其治耳鸣耳聋等症。亦以镇堕之功能。制虚阳之上奔耳。柯韵伯曰。此丸治癫痫之圣剂。盖狂痴是心肾脾三脏之病。心藏神。脾藏意与智。肾藏精与志。心者。神明之主也。经云。主不明。则十有二官危。使道闭塞而不通。形乃大伤。即此谓也。然主何以不明也。心法离而属火真水藏其中。若天一之真水不足。地二之虚火要行。所谓天气者蔽塞。地气者冒明。日月不明。邪害空窍。故目多妄见。而作此奇疾也。非金石之重剂以镇之。狂必不止。朱砂禀南方之赤色。入通于心。能降无根之火。而安神明。磁石禀北方之黑色。入通于肾。吸肺金之气以生精坠炎土之火以定志。二石体重而主降。性寒而滋阴。志同道合。奏功可立俟矣。神曲推陈致新。上交心神。下达肾志。以生意智。且食入于阴。长气于阳。夺其食则已。此内经治狂法也。食消。则意智明而精神治。是用神曲之旨乎。炼蜜和丸。又甘以缓之矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 106,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "磁砂丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "978b02f503a621db530388e3edf5a061a368d722632e703dc46f46f3f3abf886",
+      "content_sha256": "3f8e10881d1343d3e866a997ace99234417cbd46ca85919909b6352a6660a01c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        107,
+        108,
+        109
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 759,
+        "simplified_codepoints": 759
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "e92ba38a965cfbb55a17f1a3",
+      "title": "苏子降气汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "（治痰嗽气喘）\n降气汤中苏半归。橘前沉朴草姜依。风寒咳嗽痰涎喘。暴病无妨任指挥。（苏子橘皮半夏当归前胡厚朴各一钱。沉香炙甘草各五分。加姜煎。一方无沉香。加肉桂。。苏子前胡橘皮半夏降气。\n气行则痰行也。风寒郁于皮毛。则肺气逆而为喘。数药妙能解表。气。以血为家。喘则流荡而忘返。\n故用当归以补血。喘则气急。故用甘草以缓其急。然出气者肺也。纳气者肾也。故用沉香之纳气入肾或肉桂之引火归元。为引导。）\n陈修园曰。仲景云。喘家作桂枝汤。加厚朴杏子佳。苏子降气汤。即从此汤套出。时医皆谓切于时用。然有若似圣人。惟曾子以为不可耳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 110,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "蘇子降氣湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b548ccec5ccfe67da38b2a9bb5b13f65367a950a6c8f3510692fb19c70ad00a5",
+      "content_sha256": "c3c5320c06744ac40f3a39c1ada9e7080d13bf1b192ef7dec266e6fb4dfbec47",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 258,
+        "simplified_codepoints": 258
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "352ab0a5611e1a0528551bbb",
+      "title": "朱砂安神丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治心神昏乱。惊悸怔忡。寤寐不安。\n安神丸剂亦寻常。归草朱连生地黄。（朱砂另研黄连各半两。生地黄三钱。当归甘草各二钱为末。酒炮蒸饼。丸如麻子。朱砂为衣。每服三十丸。临卧时津液下。）昏乱怔忡时不寐。操存（孟子云操则存。）须令守其乡。\n陈修园曰。东垣之方。多杂乱无纪。惟此方用朱砂之重以镇怯。黄连之苦以清热。当归之辛以嘘血。更取甘草之甘。以制黄连之大过。地黄之润。以助当归所不及。方意颇纯。亦堪节取。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 116,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "硃砂安神丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "fba091fa484cc67b79037f9a620f73c80ec5b0d61a8692d6f587653d5769228d",
+      "content_sha256": "dac698072b986b6ae632b374b95de7e6a9db1182ff060f9c2db33a9c888e3108",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        117,
+        118,
+        119
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 197,
+        "simplified_codepoints": 197
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "e83b85a8e84a37ae540ffd7b",
+      "title": "四磨汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治七情感伤。上气喘急。妨闷不食。\n四磨汤治七情侵。参领槟乌及黑沉。（人参天台乌药槟榔黑沉香四味等分。各磨。浓水取十分煎二五沸。空心服。或下养正丹妙。）磨汁微煎调逆气。虚中实症此方寻。\n王又原曰。七情所感。皆能为病。然愈于壮者之行。而成于弱者之著。愚者不察。一遇上气喘急。满闷不食。谓是实者宜泻。辄投破耗等药。得药非不暂快。初投之而应。投之久而不应矣。夫呼出为阳吸入为阴。肺阳气旺。则清肃下行。归于肾阴。是气有所收摄。不复散而上逆。若正气既衰。邪气必盛。纵欲削坚破滞。邪气必不伏。方用人参。泻壮火以扶正气。沉香纳之于肾。而后以槟榔乌药。从而导之。所谓实必顾虚。泻必先补也。四品气味俱厚。磨则取其味之全。煎则取其气之达。气味齐到。效如桴鼓矣。其下养正丹者。暖肾药也。本方补肺气。养正丹温肾气。镇摄归根喘急遄已矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 120,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "四磨湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "c5c0bfda45f8d316b7b4b1fbaf9bb393fb863f42906573df0c373ca1139c62ed",
+      "content_sha256": "47d800cb6afd0b7450fd089bef5a1470911cf8d95f854b2ed0679a4bd4155651",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        121,
+        122,
+        123
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 354,
+        "simplified_codepoints": 354
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "4ed779e258130e49f2966179",
+      "title": "黑锡丹",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治脾元久冷。上实下虚。胸中痰饮。或上攻头目。及奔豚上气。两脚膨胀。并阴阳气不升降。五种水气脚气上攻。或卒暴中风。痰潮上膈等症。\n镇纳浮阳黑锡丹。硫黄入锡结成团。葫芦故纸茴沉木。桂附金铃肉蔻丸。（黑锡硫黄各三两同炒结砂研至无声为度。胡芦巴沉香熟附子肉桂各半两。茴香破故纸肉豆蔻金铃子去核木香各一两。研末酒煮。曲糊为丸梧子大。阴干。以布袋擦令光莹。每服四十丸。姜汤下。）\n陈修园曰。此方一派辛温之中。杂以金铃子之苦寒为导。妙不可言。\n喻嘉言曰。凡遇阴火逆冲。真阳暴脱。气喘痰鸣之急证。舍此丹别无方法。即痘疹各种坏症。服之无不回生。予每用小囊。佩带随身。恐遇急症不及取药。且欲吾身元气温养其药。借手效灵。厥功历历可纪。\n徐灵胎曰。镇纳元气。为治喘必备之药。当蓄在平时。非一时所能骤合也。既备此丹。如灵砂丹养正丹之类。可不再备。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 124,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "黑錫丹"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "a66c21bc40aff0dd55cfc60321cf5ced204de99af23175d4c8d34f4259d923b4",
+      "content_sha256": "468dabbbdf70a042b84e9216d0d6049ca227faaae29052eb8a6ea9dfd3e9e676",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 360,
+        "simplified_codepoints": 360
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "656911a8f1a48f020e8009aa",
+      "title": "全真一气汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "滋阴降火之神方。\n即生脉散。（方见寒剂）加熟地五七钱或一两。白术三钱。牛膝附子各二钱。水煎服。\n陈修园曰。此冯氏锦囊得意之方。无症不用。俱云神效。其实大言欺人。修园不信也。方以熟地滋肾水之干。麦冬五味润肺金之燥。人参白术补中宫土气。俾上能散津于肺。下能输精于肾。附子性温以补火。牛膝引火气下行。不为食气之壮火而为生气之少火。从桂附地黄丸套来。与景岳镇阴煎同意。然驳杂浅陋。不可以治大病。惟痘科之逆症相宜。以诸药皆多液之品。添浆最速也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "全真一氣湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d48ea870a131572bb5eb1f50e552b3c325b60cad0d6a67fa7fe1162212db9b92",
+      "content_sha256": "28a137f43d0931e82beea57586f38b1a1482c4bcb8f983061d2083a307c828bc",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        131,
+        132,
+        133
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 217,
+        "simplified_codepoints": 217
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "8e68ee76eecf441e69d612f1",
+      "title": "二加龙骨汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治虚劳不足。男子失精。女子梦交吐血。下利清谷。浮热汗出。夜不成寐等症。\n即桂枝加龙骨牡蛎汤。（方见真方歌括虚劳门。）去桂枝。加白薇一钱五分。附子一钱。（白芍生姜各三钱。炙甘草一钱五分。细枣三枚。龙骨三钱。生牡蛎四钱。白薇一钱五分。附子一钱。水煎服。）\n陈修园曰。此方探造化阴阳之妙。用之得法。效如桴鼓。庸医疑生姜之过散。龙骨牡蛎之过敛。置而不用。以致归脾汤人参养荣汤等。后来居上。询可浩叹。宣圣云。民可使由之不可使知之。此方所以然之妙。修园亦不说也。予友林雨苍有神农本草经三注。采集予之注解。颇多逐味杂对。后再读此方。便觉有味。。轻可去实（即发汗解肌之发也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 134,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "二加龍骨湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "0885abc1959671e24df6b8bf26bb634a12c5febe8ddc1eab6ca60e27411fe223",
+      "content_sha256": "ff3ec405b26bcd03cfc7bcbf81a42735f86e77f4f198857b0478c20623163dff",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        135,
+        136,
+        137
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 280,
+        "simplified_codepoints": 280
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "4a4b048ec42bb808c43fb2c9",
+      "title": "九味羌活汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "一名冲和汤。四时感冒发散之通剂。\n冲和汤内用防风。羌芷辛苍草与芎。汗本于阴芩地妙。三阳解表一方通。（羌活防风苍术各钱半。白芷川芎黄芩生地甘草各二钱。细辛九分。加生姜葱白煎。）\n陈修园曰。羌活散太阳之寒。为拨乱反正之药。能除头痛项强。及一身尽痛无汗者。以此为主。防风驱太阳之风。能除头痛项强。恶风自汗者。以此为主。又恐风寒不解。传入他经。以白芷断阳明之路。黄芩断少阳之路。苍术断大阴之路。（多汗者。易白术。）川芎断厥阴之路。细辛断少阴之路。又以甘草协和诸药。使和衷共济也。佐以生地者。汗化于液。补阴即托邪之法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 138,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "九味羌活湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "5cbf1f3d6bfd3daf20f40ee6d78781b0f921b9687d02124812bda5f98ffaf887",
+      "content_sha256": "b39fe4746f1333febdc451001e84bc4b2bb9fe230cc06594da219edae383840c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        139,
+        140,
+        141
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 255,
+        "simplified_codepoints": 255
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "7ffb81c741b33ef61a27afdb",
+      "title": "人参败毒散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治伤寒瘟疫。风湿风眩。拘蜷风痰。头痛目眩。四肢痛。增寒壮热。项强睛疼。老人小儿皆可服。\n人参败毒草芩芎。羌独柴前枳桔同。瘟疫伤寒噤口痢。托邪扶正有奇功。（人参茯苓枳壳桔梗柴胡前胡羌活独活川芎各一钱。甘草五分。加生姜煎。。烦热口干。加黄芩。）\n汪讱庵曰。羌活理太阳游风。独活理少阴伏风。兼能去湿除痛。川芎柴胡。和血升清。\n枳壳前胡。行痰降气。甘桔参茯。清肺强胃。主之以人参者。扶正气以匡邪也。加陈仓米三钱。名仓廪汤。治噤口痢。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 142,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "人參敗毒散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "66a76451a7579428321ea402c379e6a96a87e2546ea59d488451ea14e4273aa8",
+      "content_sha256": "835dce7838f9a4756ddd112c9168096a966ff8fa030e0fbe2f534a02e58dd3dc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        143,
+        144,
+        145,
+        146
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 212,
+        "simplified_codepoints": 212
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "b07bb79c774e68ace3db8a9e",
+      "title": "香苏饮",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治四时感冒。发表轻剂。\n香苏饮内草陈皮。（紫苏叶二钱。香附炒陈皮各一钱五分。炙草一钱。加姜葱。水煎服。微覆以汗。）汗顾阴阳用颇奇。（紫苏血中气药。香附气中血药。甘草兼调气血。陈皮宣邪气之郁。从皮毛而散。视时方颇高一格。）艽芥芎防蔓子入。（再加秦艽荆芥川芎蔓荆子各一钱。医学心悟。名加味香苏饮。）解肌活套亦须知。\n陈修园曰。仲景麻桂诸汤。从无他方可代。后人易以九味羌活汤。人参败毒散。及此汤。看似平稳。其实辛烈失法。服之得汗。有二虑。一虑辛散过汗。重为亡阳。轻则为汗漏也。一虑辛散逼汗。动脏气而为鼻衄。伤津液而为热不退渴不止也。服之不得汗。亦有二虑。一虑辛散煽动内火。助邪气入里而为狂热。不得寐。一虑辛散拔动肾根。致邪气入阴而为脉细。但欲寐也若用仲景之法则无是虑。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 147,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "香蘇飲"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "daeb08a6e968a4c7e102f5a350176dbe8ab8d77b8abf11a806878b84c24a8b50",
+      "content_sha256": "b8267ceae2d1b1c20b55598187e673e7999094180755179b82c702baa3fad2f8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        148,
+        149,
+        150
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 331,
+        "simplified_codepoints": 331
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "c842953fa83c66702fb83975",
+      "title": "升麻葛根汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治阳明表热下利。兼治痘疹初发。\n钱氏升麻葛根汤。芍药甘草合成方。（升麻三钱。葛根芍药各二钱。炙草一钱。）阳明发热兼头痛。（及目痛鼻干不得卧等症。）下利生斑疹痘良。\n新订症同太阳。而目痛鼻干不眠称阳明者。是阳明自病。而非太阳转属也。此方仿仲景葛根汤。恶姜桂之辛热。大枣之甘壅而去之。以升麻代麻黄。便是阳明表剂。与太阳表剂迥别。葛根甘凉。生津去实。挟升麻。可以托散本经自病之肌热。并可以升提与太阳合病之自利也。然阳明下利。即是胃实谵语之兆。故以芍药之苦甘。合用以养津液。津液不干。则胃不实矣。至于疹痘。自里达表内外皆热之症。初起亦须凉解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 151,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "升麻葛根湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "0e4cd8bb8828f9c5b636209fa58afa6b928b0328dfd5e47685e44bf29568b9e9",
+      "content_sha256": "53ba655e11da014cc3f6500ea3da68c61b38811763eefe6e3e4483ffb5be8459",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        152,
+        153,
+        154
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 267,
+        "simplified_codepoints": 267
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "cbb184d8e844605238db0178",
+      "title": "小续命汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "六经中风之通剂。\n小续命汤（子金）桂附芎。麻黄参芍杏防风。黄芩防己兼甘草。风中诸经以此通。（通治六经中风。㖞邪不遂。语言謇滞。及刚柔二痉。亦治厥阴风泻。防风一钱一分。桂枝麻黄人参酒芍杏仁川芎黄芩防己甘草各八分。附子四分。姜枣煎服。）\n陈修园曰。天地之噫气为风。和风则生长万物。疾风则摧折万物。风之伤人者。皆带严寒肃杀之气。故此方桂芍姜草。即伤寒论之桂枝汤。麻杏甘草。即伤寒论之麻黄汤。二方合用。立法周到。然风动则火升。故用黄芩以降火。风胜则液伤。故用人参以生液。血行风自灭。故用芎芍以行血。防风驱周身之风。为拨乱返正之要药。附子补肾命之根。为胜邪固本之灵丹。防己纹如车辐。有升转循环之用。以通大经小络。药品虽多。而丝丝入扣。孙真人询仲景下之一人也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 155,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "小續命湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "ff6da3ecadadca7338ac0bd3b074fb0f4b48556810b7277642e274e06959d7c5",
+      "content_sha256": "61183b5d2d818dcbf36fee2ed2cf7fc32e21bcef5d3cc93afba0069114c57de6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        156,
+        157,
+        158
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 324,
+        "simplified_codepoints": 324
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "25899e204292f971be858494",
+      "title": "地黄饮子",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治舌喑不能言。足废不能行。此谓少阴气厥不至。急当温之。名曰痱症。\n地黄饮子少阴方。桂附蓉苓并地黄。麦味远蒲萸戟斛。薄荷加入煮须详。（肉桂附子肉苁蓉茯苓熟地黄麦冬五味子远志菖蒲山茱萸巴戟天石斛各五分。薄荷叶七片。水一杯二分。煎八分温服。）\n陈修园曰。命火为水中之火。昔人名为龙火。其火一升。故舌强不语。以肾脉荣于舌本也。火一升而不返。故猝倒不省人事。以丹田之气。欲化作冷风而去也。方用桂附苁蓉巴戟以导之。龙升则水从之。故痰涎如涌。以痰之本则为水也。方用熟地茯苓山药石斛以安之。火迸于心。则神识昏迷。方用远志菖蒲以开之。风动则火发。方用麦冬五味子以清敛之。肾主通身之骨。肾病则骨不胜任。故足废不能行。方用十二味以补之。然诸药皆质重性沉。以镇逆上之火。而火由风发。风则无形而行疾。故用轻清之薄荷为引导。又微煎数沸不令诸药尽出重浊之味。俾轻清走于阳分。以散风。重浊走于阴分。以镇逆。刘河间制方之妙。汪讱庵辈从未悟及。无怪时医之愦愦也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 159,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "地黃飲子"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "99b5e2bcdf41a2f3a4d302e3686e9eccd7b81cf4f634d69cddf45dfc3ed58044",
+      "content_sha256": "98aef019cbf9ad376ae0d27b5cadf9b0515bcca34917750a7995174de7bdad1b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        160,
+        161,
+        162
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 413,
+        "simplified_codepoints": 413
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "02559cf59ad41cdc0b493162",
+      "title": "资寿解语汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治中风脾缓。舌强不语。半身不遂。与地黄饮子同意。但彼重在肾。此重在脾。\n资寿特名解语汤。专需竹沥佐些姜。羌防桂附羚羊角。酸枣麻甘十味详。（羌活五分。防风附子羚羊角酸枣仁天麻各一钱。肉桂八分。甘草炙五分。水二杯煎八分。入竹沥五钱。生姜汁二钱。调服。。喻嘉言治肾气不萦于舌本。加枸杞首乌天冬菊花石蒲元参。）\n陈修园曰。此与前方相仿。但表药较多。外证重者相宜。方中羚羊角一味。甚妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 163,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "資壽解語湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "bdd99b84ff3347bb547de339bd734bd0ff7bbe4bf73924ffefc1349681d798a9",
+      "content_sha256": "5af4d4ebacde38dffa9e850d15a50550c9d39af76e1b1607afbe0689c8497098",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        164,
+        165,
+        166
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 188,
+        "simplified_codepoints": 188
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "f142f931ea31010c5ab905f2",
+      "title": "藿香正气散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治外受四时不正之气。内停饮食。头痛寒热。或霍乱吐泻。或作疟疾。\n藿香正气芷陈苏。甘桔陈苓术朴俱。夏曲腹皮加姜枣。感伤（外感内伤。）岚障并能驱。（藿香白芷大腹皮紫苏茯苓各三两。陈皮白术厚朴半夏曲桔梗各二两。甘草一两。每服五钱。加姜枣煎。）\n陈修园曰。四时不正之气。由口鼻而入。与邪伤经络者不同。故不用大汗以解表。只用芳香利气之品。俾其从口鼻入者。仍从口鼻出也。苏芷陈腹朴梗。皆以气胜。韩昌黎所谓气胜则大小毕浮。作医等于作文也。茯半术草。皆甘平之品。培其中气。孟子所谓正己而物正。医道通于治道也。若邪伤经络。宜审六经用方。不可以此混用杀人。。按夏月吐泻。多是伏阴在内。理中汤为的方。时医因此汤有治霍乱吐泻之例。竟以为夏月吐泻通剂。实可痛恨。嘉庆丁巳岁。医生郑培斋患此症。自服藿香正气散不效。延孝廉陈倬为商之。再进一服。少顷元气脱散。大喘大汗而死。是向以误人者。今以自误。设使地下有知。当亦悔不读书之过也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 167,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "藿香正氣散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "3b906ce1b75c47c93ad21b4ba0bf5ffcb1b595e25a5f984d1a0dc10156f05232",
+      "content_sha256": "6aed22657d025ea34521202bbb7060dd571fa6469aa36ed54c62e76b7e73b6ce",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        168,
+        169,
+        170
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 400,
+        "simplified_codepoints": 400
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "a42233e4a6adacc3cde970ba",
+      "title": "香薷饮",
+      "volume": "卷上 / 补可扶弱",
+      "content": "三物香薷豆朴先。（香薷辛温香散。能入脾肺。发越阳气。以散蒸热。厚朴除湿散满。扁豆清暑和脾。名三物香薷饮。）若云热盛益黄连。（名黄连香薷饮。活人。治中暑热盛。口渴心烦。）草苓五物（前方加茯苓甘草。名香薷五物饮。）还十物。瓜橘参耆白术全。（前方加木瓜橘皮人参黄耆白术。名十味香薷饮。）\n叶仲坚曰。饮与汤。稍有别。服有定数者名汤。时时不拘者名饮。饮因渴而设。用之于温暑。则最宜者也。然胃恶燥。脾恶湿。多饮伤脾。反致下利。治之之法。心下有水气者发汗。腹中有水气者利小便。然与其有水患而治之。曷若先选其能汗能利者用之。香薷芳草辛温。能发越阳气。有彻上彻下之功。故治暑者君之。以解表利小便。佐厚朴以除湿。扁豆以和中。合而用之为饮。\n饮入于胃。热去而湿不留。内外之暑悉除矣。若心烦口渴者。去扁豆。加黄连。名黄连香薷饮。加茯苓甘草。名五物。加木瓜参耆橘术。名十味随证加减。尽香薷之用也。然劳倦内伤。必用清暑益气。内热大渴。必用人参白虎。若用香薷。是重虚其表。而反济其内热矣。香薷乃夏月解表之药。如冬月之麻黄。气虚者尤不可服今人不知暑伤元气。概用以代茶。是开门揖盗也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 171,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "香薷飲"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "9f85260ff9155ef7458fccfaa639ace78efd1f0cbff785aa419b4ac9d55e353a",
+      "content_sha256": "287254038a15bad510f1c21248c6554b55d8a8209d55d2e0c99588223a5a52b1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        172,
+        173,
+        174
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 475,
+        "simplified_codepoints": 475
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "d339bfa5b01581eb90a48036",
+      "title": "五积散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治感冒寒邪。头疼身痛。项背拘急。恶寒呕吐。肚腹疼痛。及寒湿客于经络。腰脚骨髓酸痛。及豆疮寒胜等症。。去麻黄酒煮。治痢后鹤膝风甚效。\n局方五积散神奇。归芍参芎用更奇。橘芷夏苓姜桂草。麻苍枳朴与陈皮。（当归麻黄苍术陈皮各一钱。厚朴干姜芍药枳壳各八分。半夏白芷各七分。桔梗炙草茯苓肉桂人参各五分。川芎四分。水二钟。姜三片。葱白三茎。煎八分温服。）\n陈修园曰。表里俱寒。外而头项强痛。内而肚腹亦痛。较桂枝症更甚者。服此汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 175,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "五積散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "da11dfd28cc55b466a2e0fce80dceb0db3cf0827de88e551ae9ebccc6a038199",
+      "content_sha256": "8938f3c0a27034361d2790b44e5edcc815f26c508130da7ff7bc31ec82f1c9fd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        176,
+        177,
+        178
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 207,
+        "simplified_codepoints": 207
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "c8cb978b2a57a21f70eb288d",
+      "title": "小柴胡去参加青皮汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治疟病初起。\n即小柴胡汤（方见真方歌括上卷少阳编。）去人参。加青皮二钱。\n陈修园曰。疟症初起。忌用人参。时医之伎俩也。然相沿既久。亦姑听之。第初起无汗者。宜加麻黄二钱。多汗者。宜加白芍桂枝各二钱。寒多者。宜加桂枝干姜各二钱。热多者。宜加贝母知母各二钱。口渴者。去半夏。加栝蒌根二钱五分。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 179,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "小柴胡去參加青皮湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "c8b5059349298c49774807d9129ce0bf8c6b9f7efd74bb228c2630c61d89ced9",
+      "content_sha256": "40ccf5c8f3562fe749444ac87b8b99c0ca23979e01690380601bcd27ce5cc701",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        180,
+        181,
+        182
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 143,
+        "simplified_codepoints": 143
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "b92119a9b3068d329d59a422",
+      "title": "小柴胡加常山汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "凡疟症三发之后。皆可服。天明时一服。疟未发前一时一服。神效。\n即柴胡汤加常山三钱。生用不炒。（如服后欲吐者。即以手指探吐。痰吐尽则愈。）\n陈修园曰。常山一味。时医谓为堵截之品。误信李士材薛立斋之说。不敢用之。而不知是从阴透阳。逐邪外出之妙品。仲景用其苗。（名蜀漆。）后世用其根。实先民之矩矱。即云涌吐。而正取其吐。去积疟。则疟止。。宣可决壅（以君召臣曰宣。宣者涌吐之剂也。又郁而不散为壅。必宣以散之。如生姜橘皮之属是也。又纳药鼻中以取嚏亦是。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 183,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "小柴胡加常山湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "48978a11fc4bbff10b9fdff60676a889fff7708ad9fdcbea4c8889dfe08e7f28",
+      "content_sha256": "954b9040f7badb042ac7ef7e1b9d6528129701ff5902e825d203bc3c12f9c736",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        184,
+        185,
+        186
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 222,
+        "simplified_codepoints": 222
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "46fa12d53633b355a5356e5b",
+      "title": "稀涎汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治风痰不下喉中如牵锯。或中湿肿满。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 187,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "稀涎湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "9b7662998330c71b92c7b6fbe4acfa8bb7fa8dc846b18b3f35c81610bd84b5f0",
+      "content_sha256": "f30ce4c65df8eb01c0957b62400977b20e0f88c5d6e08b5e4cf170bddf7c3ec3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        188
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 17,
+        "simplified_codepoints": 17
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "448a831d4937154a9d806377",
+      "title": "通关散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "稀涎皂半草矾班。（皂角一个。大半夏十四粒。炙甘草一钱。白矾二钱为末。每服一钱。用生姜少许。冲温水灌之。得吐痰涎即醒。此夺门之兵也风初中时宜用之。）直中痰潮此斩关。更有通关辛皂末。（细辛皂角为未。吹鼻中。名通关散。）吹来得嚏保还生。（卒中者。用此吹鼻。有嚏者可治。无嚏者为肺气已绝。）\n陈修园曰。顽痰上塞咽喉。危在顷刻当以此攻之然痰为有形也痰厥宜涌吐以出其痰。气。无形也气厥。宜取嚏以宣其气。二者皆所以开其闭也。若脱症昏倒。不省人事。亦用此法以开之。是速其死也。慎之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 189,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "通關散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "552118cbc799051972bf27863649e91572ec22f6fb354b62c115f8c73a8cc655",
+      "content_sha256": "c3294d63af5afb98715bf1f655e45ffa26f55a81c7cc186375998f441f91c4f4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        190,
+        191
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 233,
+        "simplified_codepoints": 233
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "7e8ddc0d50fed443a3452bb1",
+      "title": "越鞠丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治脏腑一切痰食气血诸郁。为痛为呕为胀为利者。\n六郁宜施越鞠丸。芎苍曲附并栀餐。食停气血湿痰火。得此调和顷刻安。（吴鹤皋曰。香附开气郁。抚芎调血郁。苍术燥湿郁。栀子清火郁。神曲消食郁各等分。麦芽煎汤泛丸。又湿郁加茯苓白芷。火郁加青黛。痰郁加星夏栝蒌海石。血郁加桃仁红花。气郁加木香槟榔。食郁加麦芽山楂。挟寒加吴茱萸。）\n季楚重曰。经云。太阴不收。肺气焦满。又云。诸气膹郁。皆属于肺。然肺气之布。必由胃气之输。胃气之运。必本三焦之化。甚至为痛为呕为胀为利。莫非胃气不宣。三焦失职所致。方中君以香附快气。调肺之拂郁。臣以苍术开发。强胃而资生。神曲佐化水谷。栀子清郁导火。于以达肺腾胃。而清三焦。尤妙抚芎之辛。直入肝胆。以助妙用。则少阳之生气上朝。而营卫和。太阴之收气下肃。而精气化。此丹溪因五郁之法而变通者也。然五郁之中。金木为尤甚。前人用逍遥散。调肝之郁。兼清火滋阴。泻白散。清肺之郁。兼润燥降逆。要以木郁上冲即为火。金郁敛涩即为燥也。如阴虚不知滋水。气虚不知化液。是又不善用越鞠矣。\n陈修园曰。诸病起于郁者难医。时医每以郁金统治之。是徇名之误也。此药本经不载。唐本有之。唐本云。气味苦寒无毒主血积。下气生肌。止血破恶血血淋尿血金疮。原文只此二十四字。大抵破血下气及外敷之品。无一字言及解郁。录此以为误用者戒。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 192,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "越鞠丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "7703ce9d51f9a6f25cab0f7a7698f877b3dc46e11a628a574ea14b4beb63f495",
+      "content_sha256": "b6e433399558be059dd3acdae9beca43671ab8d7d5e76fe7e628bbe6ce9ff645",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        193,
+        194,
+        195,
+        196
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 553,
+        "simplified_codepoints": 553
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "b1844383aa1aef0c7f09690e",
+      "title": "逍遥散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治肝家血虚火旺。头痛目眩。颊赤口苦。倦怠烦渴。抑郁不乐。两胁作痛。寒热小腹重坠。妇人经水不调。脉弦大而虚。\n逍遥散用芍当归。术草柴苓慎勿违。（柴胡当归白芍白术茯苓各一钱。甘草炙五分。加煨姜薄荷煎。）散郁除蒸功最捷。（医贯曰方中柴胡薄荷二味最妙。盖木喜风摇。寒即摧萎。温即发生。木郁则火郁。火郁则土郁。土郁则金郁。金郁则水郁。五行相因。自然之理也。余以一方治木郁。而诸郁皆解。逍遥散是也。）丹栀加入有元机。（如丹皮栀子。名八味逍遥散。治肝伤血少经枯）赵羽皇曰。此治肝郁之病。而肝之所以郁者。其说有二。一为土虚。不能升木也。一为血少。不能养肝也。盖肝为木气。全赖土以滋培。水以灌溉。若中土虚。则木不升而郁。阴血少。则肝不滋而枯。方用白术茯苓者。助土德以升木也。当归芍药者。益荣血以养肝也。薄荷解热。甘草和平。独柴胡一味。\n一以为厥阴之报使。一以升发诸阳。经云。\n木郁则达之。遂其曲直之性。故名之曰逍遥。\n。通可行滞（火气郁滞。宜从小便利之。通为轻。泄为重也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 197,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "逍遙散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "87b40d28324429fe06e666a5897edcb2f198e2e79a731e5389d19973b42d2cb6",
+      "content_sha256": "a9df1f6bee9c7a63eb6912d7e91e22705702ecf25ccd1fb76721c27ec089850a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        198,
+        199,
+        200,
+        201,
+        202
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 428,
+        "simplified_codepoints": 428
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "1768faa27580cde845e04241",
+      "title": "导赤散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治心热口糜舌疮。小便黄赤。茎中痛热急不通。\n导赤原来地与通。草梢竹叶四般攻。口糜茎痛兼淋沥。泻火功归补水中。（等分煎。生地凉心血。竹叶清心气。木通泻心火而入小肠。草梢达肾茎而止痛。）\n季楚重曰。泻心汤用黄连。所以治实邪。实邪责木之有余。泻子以清母也。导赤散用地黄。所以治虚邪。虚邪责水之不足。壮水以制火也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 203,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "導赤散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "9239fdef1e70a07fbe2993782dc65381dc736be9984ce8f4e232adf7a5395487",
+      "content_sha256": "eb3010fa3e2af4ffbd3d1c3515e3810158b1be8a6ef3e2edc709ec5f13519674",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        204,
+        205,
+        206
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 153,
+        "simplified_codepoints": 153
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "01f284eb0d60f2ff22dd6f19",
+      "title": "五淋散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治膀胱有热。水道不通。淋涩不出。或尿如豆汁。或成砂石。或为膏汁或热怫便血。\n五淋散用草栀仁。归芍茯苓亦共珍。（赤茯苓三钱。芍药山栀仁各二钱。当归细甘草各一钱四分。加灯心水煎服。）气化原由阴以育。调行水道妙通神。\n柯韵伯曰。经云。膀胱者。州都之官。津液藏焉。又申其旨曰。气化则能出。何也。盖膀胱有上口而无下口。能纳而不出惟气为水母。必太阳之气化。而膀胱之溺始出。是水道固藉无形之气化。不专责有形之州都矣。夫五脏之水火。皆生于气。气平则为少火。少火生气。而气即为水。水精四布。下输膀胱。源清则流洁矣。气有余则为壮火。壮火食气。则化源无藉。为癃闭淋涩。膏淋豆汁。砂石脓血。而水道为之不利矣。总由化源之不清。非决渎之失职。若以八正舟车禹功浚川等剂治之。五脏之阴虚。太阳之气化绝矣。故急用栀苓治心肺。以通上焦之气。而五志火清。归芍滋肝肾。以安下焦之气。而五脏阴复。甘草调中焦之气。而阴阳分清。则太阳之气自化。而膀胱之水洁矣。此治本之计。法之尽善者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 207,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "五淋散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b4989c5af9a728f2c1bb95e5e8b515f39c1f4038d654602a3a5b7d84146db929",
+      "content_sha256": "231afc38568e3cb9ede0286e458e461c56ee76f456b3e2d42d3b66bae620c6e5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        208,
+        209,
+        210
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 420,
+        "simplified_codepoints": 420
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "574a1c6d1b5aed45d3f47e65",
+      "title": "通关丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "又名滋肾丸。治下焦湿热。小便点滴不通。以致腹闷欲吐。\n溺癃不渴下焦疏。（病在下焦。故不渴。宜清下焦之热。疏通水道。）知柏同行肉桂扶。（黄柏知母俱酒炒各二两。肉桂二钱。炼蜜丸如桐子大。每服五十丸。空心白汤下。名通关丸。）丸号通关能利水。又名滋肾补阴虚。（原方为肺痿声嘶喉痹咳血烦躁而设东垣借用以治癃闭喘胀。）\n陈修园曰。溺窍一名气门。以溺由气化而出也。气者阳也。阳得阴则化。若热结下焦。上无口渴之症。以此丸清下焦之热。则小便如涌矣。此证若口渴。宜济生肾气丸。金匮瞿麦丸主之。然又有巧法焉譬之滴水之器。闭其上窍。则下窍不通。去其上窍之闭。则水自流矣。用补中益气汤或吐法。甚妙。又于利水药中。入麻黄之猛。能通阳气于至阴之地。配杏仁之降。俾肺气下达州都。此从高原以导之。其应如响。虚人以人参麻黄各一两水煎服。亦妙。夏月以苏叶防风杏仁各三钱水煎温服。覆取微似汗亦妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 211,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "通關丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "bb1a4fc85d3eb2303fc6f6104b7cc9f853c1b43aad0355492daf90464c0c6fcb",
+      "content_sha256": "bfbc56fbaa7f4ffd0f3f529e2d9f0fbd757031e82134a2e31c918574ea58e6b6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        212,
+        213,
+        214
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 378,
+        "simplified_codepoints": 378
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "5c8147a417687cb0e6182c8b",
+      "title": "六一散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "一名天水散。治夏时中暑。热伤元气。内外俱热。无气以动。烦渴欲饮。肠胃枯涸者。又能催生。下乳积聚水蓄。里急后重。暴注下迫者宜之。加朱砂三钱。名益元散。\n六一散中滑石甘。热邪表里可兼探。（滑石六两甘草一两为末。灯心汤下。亦有用新汲水下者。）益元（散。）再入朱砂研。（加朱砂三钱。名益元散。）泻北元机在补南。\n柯韵伯曰。元气虚而不支者死。邪气盛而无制者亦死。今热伤元气。无气以动。斯时用参耆以补气。则邪愈甚。用苓连以清热。则气更伤。惟善攻热者。不使丧人元气。善补虚者。不使助人邪气。必得气味纯粹之品以主之。滑石禀土冲和之气。能上清水源。下通水道。荡涤六腑之邪热。从小便而泄矣甘草禀草中冲和之性。调和内外。止渴生津。用以为佐保元气。而泻虚火。则五脏自和矣。然心为五脏主。暑热扰中。神明不安。必得朱砂以镇之。则神气可以遽复。凉水以滋之。则邪热可以急除。此补心之阳。寒亦通行也。至于热利初起。里急后重者宜之。以滑可去著也。催生下乳积聚蓄水等症。同乎此义。故兼治之。是方也。益气而不助邪。逐邪而不伤气。不负益元之名矣。宜与白虎生脉三方。鼎足可也。\n。泄可去闭（邪盛则闭塞不通。必以泄剂。从大便逐之。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 215,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "六一散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "2aea7c0e50068c890739a83a1d9f57436a735486b584381f26c8c7686c1ae066",
+      "content_sha256": "af4db84565171505929c0f13cb5a1d2ace1d63d5af4c291c48dce1d6fcdea1af",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        216,
+        217,
+        218,
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 493,
+        "simplified_codepoints": 493
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "20f9204f084dfa7804a9f858",
+      "title": "备急丸",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治寒气冷食稽留胃中。心腹满痛。大便不通者。\n姜豆大黄备急丸。（干姜大黄各二两。巴豆一两。去皮研如脂。和蜜丸如豆大。密藏勿泄气候用。每服三四丸。滚水或酒下。）专攻闭痛及停寒。兼疗中恶人昏倒。阴结垂危得此安。\n柯韵伯曰。大便不通。当分阳结阴结。阳结有承气更衣之剂。阴结又制备急。白散之方。金匮用此治中恶。当知寒邪卒中者宜之。若用于温暑热邪。速其死矣。是方允为阴结者立。干姜散中焦寒邪。巴豆逐肠胃冷积。大黄通地道。又能解巴豆毒。是有制之师也。然白散治寒结在胸。故用桔梗佐巴豆。用吐下两解法。此则治寒结肠胃。故用大黄佐干姜巴豆。以直攻其寒。世徒知有温补之法。而不知有温下之法。所以但讲虚寒。而不议及寒实也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "備急丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "3bb57900f88dd64f8f9b3074021f33141666139b7cb1287ccd75cad1cac67ed9",
+      "content_sha256": "1c82b39c91bb4f9cd13cee50b0a612e0ac20ee23239a8910687e0a7e22569f88",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        221,
+        222,
+        223
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 299,
+        "simplified_codepoints": 299
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "fc639e816353398a122aa783",
+      "title": "三一承气汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "即大承气汤（方见真方歌括上卷阳明编。）加甘草二钱。\n陈修园曰。仲景三承气汤。尽美尽善。无可加减。刘河间于此方加甘草一味。便逾仲景矩矱。然意在调胃。于外科杂症等颇亦相宜。视陶节庵六一顺气汤。更高一格。\n又按张宪公云。承者。以卑承尊而无专成之义。天尊地卑。一形气也。形统于气。故地统于天。形以承气。故地以承天。胃。土也。坤之类也。气。阳也。干之属也。胃为十二经之长。化糟粕。运精微。转味出入。而成传化之府。岂专以块然之形。亦惟承此干行不息之气耳。汤名承气。确有取义。非取顺气之义也。宪公此解。超出前人。故余既录于真方歌括后。而又重录之。愈读愈觉其有味也。惜其所著伤寒类疏。未刊行世。宪公讳孝培。古吴人也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 224,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "三一承氣湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "bcd31a10c35930dcbfdcdc0ac305de7452aaaace5dfdc69ba05ddb90ee4677e4",
+      "content_sha256": "f4b03b9554e92cec73ae86222972fe999dd8fd272cd9eea0e9a79c5e6e0dcb35",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        225,
+        226,
+        227
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 300,
+        "simplified_codepoints": 300
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "4cd29a420efeedffcd069784",
+      "title": "温脾汤",
+      "volume": "卷上 / 补可扶弱",
+      "content": "主治锢冷在肠胃间泄泻腹痛。宜先取去。然后调治。不可畏虚以养病也。\n温脾桂附与干姜。朴草同行佐大黄。泄泻流连知痼冷。温通并用效非常。（附子干姜甘草桂心厚朴各二钱。大黄四分。水二杯。煎六分服。）\n喻嘉言曰。许叔微制此方。深合仲景以温药下之之法。方中大黄一味不用。则温药必不能下。而久留之邪。非攻不去。多用恐温药不能制。而洞泄或至转剧。裁酌用之。真足法矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 228,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "溫脾湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "bc376cf4dec7e681320bfff72e5ecc265a3946c71a484404bf0d2dadc4b8e54a",
+      "content_sha256": "c5850bd063dbd7aecf0ad2013669f0f022ac266c20606ab90c162441d4b7e6d0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        229,
+        230,
+        231
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 175,
+        "simplified_codepoints": 175
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "9621fbdd490dc4bc512fb9da",
+      "title": "防风通圣散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "风热壅盛。表里三焦皆实。。发表攻里并用法。\n防风通圣（散。河间。）大黄硝。荆芥麻黄栀芍翘。甘桔芎归膏滑石。薄荷芩术力偏饶。（大黄酒蒸芒硝防风荆芥麻黄栀子白芍连翘川芎当归薄荷白术各五分。桔梗黄芩石膏各一钱。甘草二钱。滑石三钱。加姜葱煎。）\n吴鹤皋曰。防风麻黄。解表药也。风热之在皮肤者得之由汗而泄。荆芥薄荷。清上药也。风热之在巅顶者。得之由鼻而泄。大黄芒硝。通利药也。风热之在肠胃者。得之由后而泄。滑石栀子。水道药也。风热之在决渎者。得之由溺而泄。风淫于鬲。肺胃受邪。石膏桔梗。清肺胃也。而连翘黄芩。又所以祛诸经之游火。风之为患。肝木主之。川芎归芍。和肝血也。而甘草白术。所以和胃气而健脾。刘守真氏长于治火。此方之旨。详且悉哉。亦治失下发斑。三焦火实。全方除硝黄名曰双解散。解表有防风麻黄薄荷荆芥川芎。解里。有石膏滑石黄芩栀子连翘。复有当归芍药以和血。桔梗白术甘草以调气。营卫皆和。表里俱畅。故曰双解。本方名曰通圣。极言其用功之妙耳。\n河间制此解利四时。冬寒春温。夏热秋燥。正令伤寒。凡邪在三阳表里不解者。以两许为剂。加葱姜淡豉煎服之。候汗下兼行。表里即解。形气强者。两半为剂。形气弱者。五钱为剂。若初服因汗少不解。则为表实。倍加麻黄以汗之。因便硬不解。则为里实。倍加硝黄以下之。连进二服。必令汗出下利而解也。今人不知其妙。以河间过用寒凉。仲景伤寒初无下法。弃而不用。真可惜也不知其法神捷。莫不应手取效。从无寒中痞结之变。即有一二不鲜者。非法之未善。则必已传阳明故也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 232,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "防風通聖散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "cdb350ea2fc4cfd91223ed45f086087c83cd89cf92adc93f29717fe1113a0e62",
+      "content_sha256": "399629b6d3db2ccd971bea07561e9aa09572e7ceb505aff313233f2db1fcab1c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        233,
+        234,
+        235,
+        236
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 633,
+        "simplified_codepoints": 633
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "51cfc2b7aa744df986dd19f4",
+      "title": "凉膈散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "泻三焦六经诸火。\n凉膈硝黄栀子翘。黄芩甘草薄荷饶。再加竹叶调蜂蜜。（叶生竹上。故治上焦。）膈上如焚一服消。（连翘一钱五分。大黄酒浸芒硝甘草各一钱。栀子黄芩薄荷各五分。水一杯半。加竹叶七片。主蜜一匙。煎五分服。）\n汪讱庵曰。连翘薄荷竹叶。以升散于上。栀芩硝黄。以荡涤于下。使上升下行。而膈自清矣。加甘草生蜜者。病在膈。甘以缓之也。张洁古减硝黄加桔梗。使诸药缓缓而下。留连膈上。颇妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 237,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "涼膈散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "6068433456cb1d3bdcb4d70554043b04c39931c76542e781882e3681175c0154",
+      "content_sha256": "78f049f00805c332a95eb69008a275c09a6289c97525916daf9992cacd9388ea",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        238,
+        239,
+        240
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 190,
+        "simplified_codepoints": 190
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "d3edb00088cc8941d76457f2",
+      "title": "失笑散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "治产后心腹绞痛欲死。或血迷心窍。不省人事。或胞衣不下。。并治心痛血滞作痛。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 241,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "失笑散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "3f5cb2816ac8872d1bcd15c4654bca31f06c244dfd63f2967e5312a7d3431ff0",
+      "content_sha256": "7fe308e3ebd3356d37223003e7002a4d1f0b4bf1de6f6547ddf087a2526d7e0a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        242
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 37,
+        "simplified_codepoints": 37
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "15f6303e8d3a15f026a99bd3",
+      "title": "独圣散",
+      "volume": "卷上 / 补可扶弱",
+      "content": "失笑（散）。蒲黄及五灵。（蒲黄五灵脂等分。生研。每服三钱。酒煎服。名失笑散。）晕平痛止积无停。山楂二两便糖入。独圣功同更守经。（山楂二两。水煎。用童便砂糖调服。名独圣散。）\n吴于宣曰。五灵脂甘温走肝。生用则生血。蒲黄辛平入肝。生用则破血。佐酒煎以行其力。庶可直抉厥阴之滞。而有推陈致新之功甘不伤脾。辛能散瘀。则瘀痛恶寒发热昏晕胸膈满闷等症悉除。直可一笑置之矣。至于独圣散独用山楂一味。不惟消食健脾。功能破瘀止儿枕痛。更益以砂糖之甘。温中而兼逐恶。童便之咸。入胞而不凉下。相得而相须。功力甚伟。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 243,
+      "source_path": [
+        "卷上",
+        "補可扶弱",
+        "獨聖散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b3bf3f37825d7fa30b2950a89f6334cdac4cce32d52cdbf46e309f1b608a5c08",
+      "content_sha256": "3d933da6765e06f39dac063609a11ccda07b51f3e2ea9696ebd09cff42385a73",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        244,
+        245
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 246,
+        "simplified_codepoints": 246
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "18c2b33a746681c742353883",
+      "title": "滑可去著",
+      "volume": "卷下",
+      "content": "滑者。润泽之谓也。从大便降之。视泄剂较轻些。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 247,
+      "source_path": [
+        "卷下",
+        "滑可去著"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "40c2d5a7a554023d54fe95d8d64adb5c87fa04c2654377bd8c6f5ea05afb6bcc",
+      "content_sha256": "26804c7e42f984ead9988831d5dee52b6c35f1d05260aa38d1b6f3bffdeae372",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        248
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 22,
+        "simplified_codepoints": 22
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "6a7e5471f1f7397fe8919671",
+      "title": "芍药汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "治滞下赤白便脓血。后重。\n初痢多宗芍药汤。芩连槟草桂归香。（芍药三钱。黄芩黄连当归各八分。肉桂三分。甘草槟榔木香各五分。水煎服。痢不减。加大黄。）须知。（调气。兼。行血。后重便脓自尔康。痢不减加黄去滞。症分赤白药须详。赤加芎地槐之类。白益姜砂茯与苍。）\n陈修园曰。此方原无深义。不过以行血则便脓自愈。调气则后重自除立法。方中当归白芍以调血。木香槟榔以调气。芩连燥湿而清热。甘草调中而和药又用肉桂之温。是反佐法。芩连必有所制之而不偏也。或加大黄之勇。是通滞法。实痛必大下之而后已也。余又有加减之法。肉桂色赤入血分。赤痢取之为反佐。而地榆、川芎、槐花之类。亦可加入也。干姜辛热入气分。白痢取之为反佐。而苍术砂仁茯苓之类。亦可加入也。方无深义。罗东逸方论。求深而反浅。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 249,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "芍藥湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "4ed8813524ab0c1f97f6e89361feb02d646d79535834f4d4993ab434d4786a93",
+      "content_sha256": "7729b75c512e22004c1c712a8d40da7b7f7219a1e14a0b328fa5733e0c5dd446",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        250,
+        251,
+        252
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 331,
+        "simplified_codepoints": 331
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "fb01908fc4ed57ab8e7c345d",
+      "title": "脾约丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治脏腑不和。津液偏渗于膀胱。以致小便多。大便秘结者。\n燥热便难脾约丸。芍麻枳朴杏黄餐。（白芍、火麻仁、杏仁、去皮尖、枳实、厚朴、姜炒各五两五钱蒸大黄十两。炼蜜丸如桐子大。白汤送下二十丸大便利即止。）润而甘缓存津液。溺数肠干得此安。\n陈修园曰物之多脂者。可以润燥。故以麻仁为君。杏仁为臣。破结者必以苦故以大黄之苦寒。芍药之苦平为佐。行滞者必顺气故以枳实顺气而除痞。厚朴顺气以泄满为佐。以蜜为丸者。取其缓行而不骤也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 253,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "脾約丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "ffa8b5d8bcc80b39e91f4fd15c5f24490bf4951f072130130b48cd3bd77ea965",
+      "content_sha256": "d3dc4c2dea82c0c69af7c167d5af281d39aa6d454b90eac863913436223badc6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        254,
+        255,
+        256
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 206,
+        "simplified_codepoints": 206
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "4b00f1a293058f3eb13ee7e9",
+      "title": "更衣丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "更衣丸用荟砂研。滴酒为丸服二钱。（朱砂五钱。研如飞面芦荟七钱研细。滴酒和丸。每服一钱。好酒送下。）阴病津枯肠秘结。交通水火妙通玄。\n柯韵伯曰。胃为后天之本。不及固病。太过亦病。然太过复有阳盛阴虚之别焉。两阳合明而胃家实。仲景制三承气下之。水火不交而津液亡。前贤又制更衣丸以润之古人入厕必更衣。故为此丸立名用药之义。以重坠下达而奏功。朱砂色赤为火。体重象金。味甘归土。性寒类水。为丹祖永母。能输坎以填离。生水以济火。是肾家之心药也。配以芦荟黑色通肾。苦味入心。滋润之质。可转濡胃燥。大寒之性。能下开胃关。此阴中之阴。询为肾家主剂矣。合以为丸。有水火既济之理。水土合和之义。两者相须。得效甚宏。奏功甚捷。真匪夷所思矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 257,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "更衣丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "ab99ae4906f6119deebe4a14452912f0eafd8b9b4d04deb722143627c3d74d16",
+      "content_sha256": "b93b229fb30c7ba7618ff4d4b10d259e02eac1ad939b92bdad2477692750a5f8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        258,
+        259
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 307,
+        "simplified_codepoints": 307
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "abdaa84d36e56e797b72735a",
+      "title": "礞石滚痰丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治实热老痰之峻剂。虚寒者不宜用。\n隐君遗下滚痰方。礞石黄连及大黄。少佐沉香为引导。顽痰怪症力能匡。（青礞石三两。用焰硝一两。同入瓦罐。盐泥固济。煅至石色如金为度。水飞过。大黄酒蒸。黄芩酒洗。各八两。沉香一两。为末水丸。姜汤下。量虚实服。服过咽即便仰卧。令药徐徐而下。半日不可饮食行动。待药气自胃口渐下二肠然后动作饮食。服后喉间稠黏壅塞。乃药病相拒故也。少顷药力到自愈）\n柯韵伯曰脾为生痰之原。肺为贮痰之器此无稽之谈也。夫脾为胃行其津液。以灌四旁。而水津又上输于肺。焉能凝结而为痰。惟肾为胃关。关门不利。故水聚而泛为痰也。则当曰肾为生痰之原。经云。受谷者浊。受气者清。清阳走五脏。浊阴归六腑。肺为手太阴。独受诸气之清。而不受有形之浊。则何可贮瘦。惟胃为水谷之海。万物所归。稍失转输之职。则湿热凝结为痰。依附胃中而不降。当日胃为贮痰之器。斯义也。惟王隐公知之。故治老痰之方。不涉脾肺。而。责。之。胃。肾。二黄礞石。禀中央之黄色。入通中宫者也。黄芩能清理胃中无形之气。大黄能荡涤胃中有形之质。然痰之为质。虽滑而黏。善栖泊于肠胃曲折之处而为巢穴。不肯顺流而下。仍得绿涯而升。故称老痰。二黄以滋润之品。只能直行而泄。欲使委曲而导之。非其所长也。故选金石以佐之。礞石之燥。可以除其湿之本。而其性之悍。可以迅扫其曲折依伏之处。使浊秽不得脏滞而少留。此滚痰之所由名乎。又虑夫关门不开。仍得为老痰之巢臼。沉香为扎方之色。能纳气归肾。又能疏通肠胃之滞。肾气流通。则水垢不留。而痰不再作。且使礞石不黏著于肠。二黄不伤及于胃。一举而三善备。所以功效若神也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 260,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "礞石滾痰丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d983c1e8132acb4e369f87610b1f923b9a2577a5d53ba56bde22f954335fee84",
+      "content_sha256": "f07f34e1c3faa199a91342971d887f7271eea37d9536d21cd9c6422cbdc3e8b7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        261,
+        262,
+        263
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 666,
+        "simplified_codepoints": 666
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "157f8ba964c9c6dc171190ff",
+      "title": "指迷茯苓丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治中脘留伏痰饮。臂痛难举。手足不得转移。\n指迷最切茯苓丸。风化芒硝分外看。枳半合成四味药。停痰伏饮胜灵丹。（半夏制二两。茯苓二两。风化硝二钱半。枳壳五钱。四味研末。姜汁糊丸。桐子大。每服三十丸。姜汤下。）柯韵伯曰。痰饮之本。皆水也。水入于胃。游溢精气。上输于脾。此自阳入阴也。脾气散精。上归于肺。此地气上升也。通调水道。下输膀胱。是天气下降也。水精四布。五经并行。是水入于经。而血乃成也。若阴阳不和。清浊相干。胃气乱于中。脾气难于升。肺气滞于降。而痰饮随作矣。痰与饮同源。而有阴阳之别。阳盛阴虚。则水气凝而为痰。阴盛阳虚。则水气溢而为饮。除痰者。降气清火是治其标。补阴利水是治其本也。涤饮者。降气燥湿是治其标。温肾利水是治其本也。此方欲兼两者而合治之。半夏燥湿。茯苓渗湿。风硝软坚。枳壳利气。别于二陈之甘缓。远于礞石之峻悍。殆攻中之平剂欤。\n。涩可固脱",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 264,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "指迷茯苓丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "55eb4ccdcd210c142274e1f68d2b243b5b36ef9266d375df7b6cfa49fce4a2c0",
+      "content_sha256": "9b74e64e66fe47be6aebc9b66487d683c0b9b093d9d831f8d47ac12c177cfe2e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        265,
+        266,
+        267
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 376,
+        "simplified_codepoints": 376
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "94fa1e90c6aa9db6dab02933",
+      "title": "当归六黄汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "火炎汗出六黄汤。（醒而汗出曰自汗。寐而汗出曰盗汗。）二地芩连柏与当。（生地黄熟地黄黄柏黄芩黄连当归各等分。黄耆加倍。）倍用黄耆偏走表。苦坚妙用敛浮阳。\n陈修园曰。阴虚火扰之汗。得当归熟地生地之滋阴。又得黄芩黄连之泻火。治汗之本也。然此方之妙。则在于苦寒。寒则胜热。而苦复能坚之。又恐过于苦寒。伤其中气。中者。阴之守也。阴愈虚则火愈动。火愈动则汗愈出。尤妙在大苦大寒坠中倍加黄耆。俾黄耆领苦寒之性。尽达于表。以坚汗孔。不使留中而为害。此旨甚微。注家向多误解。特表而出之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 268,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "當歸六黃湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "1e6f696f07bcd978ef21223f771adcf0e7af6e3b51a810479d215cfb4495eb06",
+      "content_sha256": "068931c32ad9cd4ea04af0b86e106e94ff9f5e697e420549fc9cc7ed4403e799",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        269,
+        270
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 234,
+        "simplified_codepoints": 234
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "ea2fa9543319321ef68385ec",
+      "title": "耆附汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "卫阳不固汗汪洋。须用黄耆附子汤。（黄耆一两。熟附子五钱。水煎服。）附暖丹田元气主。得耆固脱守其乡。（行于皮毛者。卫外之气也。卫气根于元气。黄耆虽专走卫。有附子挟之同行。则能回大汗欲脱之气。守于其乡。而汗自止矣。）\n陈修园曰。神农本草经云。黄耆气味甘微温无毒。主痈疽久败疮。排脓止痛。大疯癞疾。五痔鼠瘘。补虚小儿百病。本经只此三十三字。皆取其质轻味淡。偏走皮毛。故治大风痈疽。及一切外症脓血过多用之。补养皮肉之虚而已。又云主小儿百疾者。以轻薄之品。大人不足倚赖。惟小儿经脉未盛。气血皆微。不宜峻补。得此微补之品。百病可以概治也。细味经旨。安能大补元气以止汗。如六黄汤之大寒以除热。热除则汗止。耆附汤之大热以回阳。阳回则汗止。玉屏风之解肌以驱风。风除则汗止。三方不重在黄耆。却得黄耆之轻快。径走皮肤。奏效更速。数百年来。无一人谈及。甚矣医道之难也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 271,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "耆附湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "a465109f3c52d5d9022c3f1fff021a1e3dbab1a24db62b236435cee10489f8d7",
+      "content_sha256": "d2abbf10a0ea79e2892794b91b798fbd1d3014350f9f004c07639a0a9d715578",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        272,
+        273
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 372,
+        "simplified_codepoints": 372
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "20de5b2c15822fe65fef7146",
+      "title": "玉屏风散",
+      "volume": "卷下 / 滑可去著",
+      "content": "玉屏风散主诸风。止汗先求漐漐通。（风伤卫则汗自出。黄耆得防风。其功愈大。以二药同行走表。令漐漐微似汗。其风邪从微汗而解。则卫无邪扰。汗不再出矣。）发在耆防（黄耆防风。时医误认为止汗之品。害人无算。）收在术。（表风得黄耆防风而解。则外无所扰矣。脏气得白术而安。则内有所据矣。）热除（风属阳邪阳则为热。）湿去（太阳为湿土。湿热交蒸则为自汗发热之症。）主中宫。（白术补中宫上气。故能止汗除热。防风黄耆白术各等分为末。酒调服。）\n陈修园曰。以黄耆为固表药。千古贻误。前贤用之不应。所以有汗能止。无汗能发。骑墙之说。及庸辈有炙用能止。生用能发之分也。神农本经俱在。奈何舍而不读也。余于本条小注甚详。细心体认。如拨云见日。明者自知。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 274,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "玉屏風散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b9f111348652649dc8741f80945b2f891cbd551c4b4398c6a236ba6e52465ec2",
+      "content_sha256": "3f8a9eb386a7c31774134a1221fd2ee2c5a77dfd91d3536f718da81c8d72b376",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        275,
+        276
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 310,
+        "simplified_codepoints": 310
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "ea8bfcc4025caeb5f139b9e1",
+      "title": "威喜丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治元阳虚惫。精滑白浊。遗尿。及妇人血海久冷。淫带梦泄等症。\n和剂传来威喜丸。梦遗带浊服之安。茯苓煮晒和黄蜡。专治阳虚血海寒。（白茯苓去皮四两。切块。用猪苓二钱五分。同于瓷器内煮二十余沸。去猪苓取出晒干为末。黄蜡四两熔化。搅和茯苓末为丸。如弹子大。每空心细嚼。满口生津。徐徐咽服。以小便清利为效。忌米醋。尤忌气怒动情。）\n王普三曰。抱朴子云茯苓千万岁其上生小木。状似莲花。名威喜芝。今以名方者。须择云茯苓之年深质结者制以猪苓。导之下出前阴。蜡淡归阳。不能入阴。须用黄蜡。性味缓涩。有续绝补髓之功。专调斫丧之阳。分理溃乱之精。故治元阳虚惫。而为遗浊带下者。若治肺虚痰火久嗽。茯苓不必结。而猪苓亦可不用矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 277,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "威喜丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "01ef8d4bfa0e849a802b9b59f64382b52c852645037ce403bdbc236eaac87313",
+      "content_sha256": "c0f183179f012d3c2374f7b07d15437342731e258b06764d43ca63e2ea625c2d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        278,
+        279,
+        280
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 300,
+        "simplified_codepoints": 300
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "e60a01023e135fa492d7b0f1",
+      "title": "济生乌梅丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治大便下血如神。\n下血淋漓治颇难。济生遗下乌梅丸。僵蚕炒研乌梅捣。醋下几回病即安。（僵蚕一两炒。乌梅肉一两半。共为末。醋糊丸桐子大。每服四五十丸。空心醋汤下。）\n陈修园曰简",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 281,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "濟生烏梅丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "0b5e37e5f07bc138d070d744c1a9e87bc5297d4f8653565a6ca4483ddea831dc",
+      "content_sha256": "769388b6d8f443ecee963a777a5d353b6b1eb0351be3a876520d8f950acf4e26",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        282,
+        283,
+        284
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "ce3e4f264c842d1f639797bb",
+      "title": "斗门秘传方",
+      "volume": "卷下 / 滑可去著",
+      "content": "治毒痢。腑脏撮痛。脓血赤白。或下血片。日夜无度。及噤口恶痢。他药不能治者。立见神效。（又歌。斗门治痢有神方。豆芍榆甘粟壳姜。脏腑撮疼脓血片。垂危噤口并无妨。）斗门（治痢）有奇方黑豆干姜芍药良。甘草地榆罂粟壳。血脓噤口并堪尝。（干姜四钱。黑豆一两五钱。炒去皮。罂粟壳八钱。蜜炙。地榆甘草各六钱。白芍三钱。分三四帖。水一钟半。煎八分服。）\n陈修园曰甘草黑豆。能解诸毒。毒解则撮痛除。赤白已。毒气不冲于胃口。而噤口之病亦宁。又用地榆以燥在下之湿。芍药以泄在下之热。是正佐法。干姜之大辛大温。以开在上之拒格。是反佐法。又用罂粟壳以止剧痛。制以白蜜之滑。以变其涩。是。巧。佐。法。鸦片是罂粟之膏脂入土者制造而成。名为阿芙蓉。今人吃其烟。多受其害。若以一二厘入药。止心腹之痛如神。所以取效倍于他药也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 285,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "斗門秘傳方"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "6d38070d77f1cc3daca6d017342ca93d94cd2ff38a3734e31fd1c3fa6423ce1b",
+      "content_sha256": "db3a72db9f8f29d6fbc8b4b1675b60363528fa1ec5d94ba7ee40169c13e2c972",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        286,
+        287
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 344,
+        "simplified_codepoints": 344
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "cb577aced2b06d0e87cddf50",
+      "title": "圣济附子丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治洞泄。寒中。注下。水谷。或痢赤白。食已即出。食物不消。\n附子丸中连与姜。乌梅炒研佐之良。寒中泻痢皆神验。互用温凉请细详。（附子炮乌梅肉炒。各一两。黄连炒二两。干姜炒一两为末。炼蜜丸桐子大。米饮下。三十丸。）\n按原注云春伤于风。邪气流连。至夏发为餐泄。至长夏发为洞泄。。阴生于午。至未为甚。长夏之时。脾土当旺。脾为阴中之至阴。故阴气盛。阴气既盛。则生内寒而洞泄矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 288,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "聖濟附子丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "2efd1d4d1178b22ecd0ed4bbe8083b59a2932ad283601826bfdfe668b843fac5",
+      "content_sha256": "6550c2d96540494e53290ac72afb1f3a860689e470b78595a8ea3b773d4626a9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        289,
+        290,
+        291
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 182,
+        "simplified_codepoints": 182
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "2b30310ec3c635e0bec6f61b",
+      "title": "四神丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治脾肾双虚。子后作泻。不思食。不化食。肾水受时于子。弱土。不能禁制故子后每泻。\n四神故纸与吴萸。肉蔻除油五味须。大枣须同姜煮烂。（破故纸四两酒浸炒。吴萸一两盐水炒。肉豆蔻二两面裹煨。五味子三两炒。大枣四十九枚。生姜四两同煎。枣烂去姜。捣枣肉为丸。临睡盐汤下。若早服。不能敌一夜之阴寒也。）五更肾泻火衰扶。\n柯韵伯曰。泻利为腹疾。而腹为三阴之都会。一脏不调。便能泻利。故三阴下利。仲景各为立方以主之。大阴有理中四逆。厥阴有乌梅丸白头翁汤。少阴有桃花真武猪苓猪肤四逆汤散白通通脉等剂。可谓曲尽病情。诸法备美。然只为一脏立法。若三脏相关。久留不痊。如子后作泻一症。犹未之及也。夫鸡鸣至平旦。天之阴。阴中之阳也。因阳气当至而不至。虚邪得以留而不去。故作泻于黎明。其由有四。一为脾虚不能制水。一为肾虚不能行水。故二神丸。君补骨脂之辛燥者。入肾以制水。佐肉豆蔻之辛温者。入脾以暖土。丸以枣肉。又辛甘发散为阳也。一为命门火衰不能生土。一为少阳气虚无以发陈。故五味子散。君五味子之酸温。以收坎宫耗散之火。少火生气以培土也。佐吴茱萸之辛温。以顺肝木欲散之势。为水气开滋生之路。以奉春生也。此四者。病因虽异。而见症则同。皆水亢为害。二神丸是承制之剂。五味散是化生之剂也。二方理不同。而用则同。故可互用以助效。亦可合用以建功。合为四神丸。是制生之剂也。制生则化。久泄自瘳矣。称曰四神。比理中八味二丸较速欤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 292,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "四神丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "0cb119d65b831f71f187b20aa05b33349f2847be00668e190d3d0e0d61ec99d3",
+      "content_sha256": "b23879b54195e9d3f8e0acef14172eac2b9537b63b3a4537094387e3bb94b15e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        293,
+        294,
+        295
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 592,
+        "simplified_codepoints": 592
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "118a431d5e1a516f9adb1833",
+      "title": "金锁固精丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "金锁固精芡实研。莲须龙牡蒺藜连。又将莲粉为糊合。梦泄多遗久服蠲。（芡实蒸。莲蕊须沙苑蒺藜。炒各二两。龙骨酥炙。牡蛎盐水煮一日夜。煅粉各三两。莲子粉为糊丸。盐汤或酒下。）\n陈修园曰。此方汇集药品。毫无意义。即市中摇铃辈店上买药辈。亦能制造。张景岳新方。亦多类此。若辈喜为平稳而说之。修园不阿好也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 296,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "金鎖固精丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d05653fce413f25b700da3901c2f7e3cf34017d59d42ee5191a59e04a2b0f0e5",
+      "content_sha256": "48f10b50e332bce158523890a32674bf02965cf0a64bc2072feb6113f53e8fad",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        297,
+        298
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 147,
+        "simplified_codepoints": 147
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "f36a246f328156deec21e5b1",
+      "title": "封髓丹",
+      "volume": "卷下 / 滑可去著",
+      "content": "治梦遗失。及与鬼交。\n妄梦遗精封髓丹。砂仁黄柏草和丸。（砂仁一两。黄柏二两。炙甘草七钱。蜜丸每服三钱。淡盐汤送下。一本用肉苁蓉五钱。切片洗淡。酒浸一宿次日煎三四沸食。前送下。）大封大固春长在。巧夺先天造化立。\n陈修园曰。此方。庸医每疑其偏寒少补而不敢用。而不知大封大固之妙。实夺造化之权。视金锁固精。奚啻天渊之隔。宝鉴合三才汤料。名为三才封髓丸。则。板。实。不。灵。矣。赵羽皇方论最妙。宜熟读之。赵羽皇曰。经云。肾者主水。受五脏六腑之精而藏之。又曰。肾者主蛰封藏之本。精之处也。盖肾为悭脏。多虚少实。因肝木为子偏喜疏泄母气。厥阴之火一动。精即随之外溢。况肝又藏魂。神魂不摄。宜其夜卧思交。精泄之症出矣。封髓丹为固精之要药。方用黄柏为君。以其味性苦寒。苦能坚肾。肾职得坚。则阴水不虞其泛溢。寒。能。清。肃。秋令一至。则龙火不至于奋阳。水火交摄。精有不安其位者乎。佐以甘草。以甘能缓急。泻诸火与肝火之内烦。且能使水土合为一家。以妙封藏之固。若缩砂者。以其味辛性温。善能入肾。肾之所恶在燥。而润之者惟辛。缩砂通三焦。达津液能纳五脏六腑之精。而归于肾。肾家之气纳。肾中之髓自藏矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 299,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "封髓丹"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b98c9b9f56416cb49ef3c1cc13a12c19c23f2a8b355ac737de0976cfe88ff1b3",
+      "content_sha256": "67f83794bb9bc672868c5bdfd2e809a7f8a7125d29be01ba17a3bf97ad279eb2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        300,
+        301,
+        302
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 486,
+        "simplified_codepoints": 486
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "6ba6bb3e46a1bac7410d1b85",
+      "title": "真人养脏汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "真人养脏（汤罗谦甫）木香诃。粟壳当归肉蔻科。术芍桂参甘草共。脱肛久痢即安和。（诃子面裹煨。一两二钱。罂粟壳去蒂蜜炙三两六钱。肉豆蔻面裹煨。五钱。当归白术炒。白芍酒炒。人参各六钱。木香二两四钱。桂八钱。生甘草一两八钱。每服四钱。脏寒甚。加附子。宜方无当归。一方有干姜。）\n肛脱由于虚寒。参术甘草以补其虚。官桂豆蔻以温其寒。木香调气。当归和血。芍药以止痛。诃子粟壳以止脱。\n陈修园曰。此汇药治病。市医得意之方。修园独以为否。然用木香之多。则。涩。而。不。郁。亦是见解超处。\n。湿可润燥",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 303,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "真人養臟湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "9002b7da9411283e1d78f9f351dd908ffe71f583bc0d43cbfc219c82d3725333",
+      "content_sha256": "6f0c84c84f3ceab2fe45640c0f805a6cfb1ae7808c76758fdf9267e743646817",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        304,
+        305,
+        306,
+        307
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 240,
+        "simplified_codepoints": 240
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "24a0bf52441c5647a27e250e",
+      "title": "清燥救肺汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "主治诸气膹郁。诸痿喘呕。\n救肺汤中参草麻。石膏胶杏麦枇杷。经霜收下干桑叶。解郁滋干效可夸。（经霜桑叶三钱石膏煅二钱五分。甘草黑脂麻。各一钱。人参杏仁去皮尖。各七分。真阿胶八分。枇杷叶去毛。蜜炙一片。麦冬一钱二分。水煎热服。痰多加贝母。血枯加生地。热甚加犀角。羚羊角。）\n陈修园曰。喻嘉言制此方。自注云诸气膹郁之属于肺者。属于肺之燥也。诸痿喘呕之属于上者。亦属于肺之燥也。古人以辛香之品解郁。固非燥症所宜。即用芩连泻火之品。而苦先入心。反从火化。又非所宜也。喻氏宗缪仲醇甘凉滋润之法。制出此方。名曰清燥。实以滋水。即易所谓润万物者。莫润乎水是也。名曰救肺。实以补胃。以胃土为肺金之母也。最妙是人参一味。仲景于咳嗽症去之者。以其不宜于风寒水饮之咳嗽也。昔医不读本草经。疑仲景之法而试用之。用之增剧。遂有肺热还伤肺之说。以人参为肺热之禁药。不知人参为肺寒之禁药。为肺热肺燥之良药也。扁鹊云。损其肺者益其气。舍人参之甘寒何以泻壮火。而益气哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 308,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "清燥救肺湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d6d3f7a6d0e4c013435211bb6396907c3b77382e8dacb1f8e40626a798582102",
+      "content_sha256": "1a05f7075490d636369f5287e8d504631cb1f81e30942b5339d222b00c976b4e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        309,
+        310,
+        311
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 417,
+        "simplified_codepoints": 417
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "8ccbc332fc2977514f1b4733",
+      "title": "琼玉膏",
+      "volume": "卷下 / 滑可去著",
+      "content": "琼玉膏中生地黄。参苓白蜜炼膏尝。肺枯干咳虚劳症。金水相滋效倍彰。（鲜生地四斤。取汁一斤。同白蜜二斤熬沸。用绢滤过。将茯苓十二两。人参三两。各研末。入前汁和匀。以瓷瓶用纸十数层。加箬叶封瓶口。入沙锅内。以长流水淹瓶颈桑柴火煮三昼夜。取出绢纸扎口。以蜡封固悬井中一日。取起仍煮半日。汤调服。）\n陈修园曰。人参甘寒柔润。补助肺气。然肺本恶寒。凡咳嗽多属形寒饮冷。得寒润滋补之药。必增其咳。昔医误认为温寒之性。故有肺热还伤肺之说。不知肺合皮毛。凡咳嗽从风寒外伤而起。宜用干姜五味细辛之类加减。忌用人参之寒。然肺为脏腑之华盖。脏腑之火。不得水制。上刑肺金。致肺燥干咳。有声无痰与寒饮作嗽者不同。正宜用人参之润而滋燥。人参之寒以制热。琼玉膏所以神效无比也。昔医凡清燥之方。必用人参。可知其长于养津液也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 312,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "瓊玉膏"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "3f05daaa32e5424e641f302f541f52bdb898490f7a765805d4d1e20542b4a5fd",
+      "content_sha256": "a52904ee492b3780626fcb574efe7a7278405432ce0409ac317797740f7061b2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        313,
+        314
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 345,
+        "simplified_codepoints": 345
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "d8aaa6c94aa756ca85904d88",
+      "title": "生脉散",
+      "volume": "卷下 / 滑可去著",
+      "content": "（治热伤元气。气短倦怠。口干出汗。）\n生脉冬味与参施。暑热刑金脉不支。若认脉虚通共剂。操刀之咎属伊谁。（人参五分。麦冬八分。五味子九分。水煎服。）\n陈修园曰。脉。资始于肾。资生于胃而会于肺。仲景于手足冷脉微欲绝症。取通脉四逆汤。以扶少阴之真阳。于心下悸脉结代。取复脉汤。以滋阳明之津液。皆救危之方也。孙真人制生脉散。为暑热伤肺。肺伤则脉渐虚散为足虑。宜于未伤之前。取人参麦冬之甘润。五味子之酸敛。无病之时。预服以保之。除暑月之外。不可以此为例也。今人惑于生脉之名。凡脉绝之证。每投立死。亦孙真人命名不正之贻祸也。一本作参麦散。较妥。。燥可去湿",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 315,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "生脈散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "38a8a3cd00e05111b6826a7a0c8ec0595831bd538d8e548d863c11457e9cf67f",
+      "content_sha256": "92ffa3db13474ebe9d32e40d1704b515b795be8393dba65427982d7f27f0870d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        316,
+        317,
+        318
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 271,
+        "simplified_codepoints": 271
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "162fb71e32406f2c62aead8b",
+      "title": "神木汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "主治三时外感。寒邪内伤生冷而发热。及脾泄肠风。\n术防甘草湿家尝。（苍术三钱。防风二钱。甘草一钱。加葱白生姜同煎。据云无汗用苍术。以代麻黄汤。有汗用白术。以代桂枝汤。）神术名汤得意方。自说法超麻桂上。可知全未梦南阳。（仲景居南阳。王海藏以此方代麻黄汤桂枝汤。可知南阳之法。未尝梦见也。）陈修园曰。仲景麻桂及葛根柴胡等汤。步步是法。而大旨在养津液三字。王海藏此方。燥烈伤阴。先涸汗源。多致留邪发热。正与仲景法相反。据云用代麻桂诸汤。平稳可法。其实贻祸匪轻也。须知此方与三阳之症无涉。惟大阴之风湿可用。内经谓春伤于风。邪气流连而洞泄。至夏而餐泄肠澼者。宜此燥剂。否则不可沾唇。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 319,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "神木湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "5aebf8448696c40b1bbe4827e8fab01659022f75151a0deb53a6e09c6c40d268",
+      "content_sha256": "5e37fbf5bd5c4a10715edc33268f8ca7341b51fe6edbe43b926efcc6e53cde5f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        320,
+        321
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 285,
+        "simplified_codepoints": 285
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "227a823362c3878d71f02da8",
+      "title": "平胃散",
+      "volume": "卷下 / 滑可去著",
+      "content": "治湿淫于内。脾胃不能克制有积饮痞隔中满者。\n平胃散用朴陈皮。苍术合甘四味宜。（苍术泔浸二钱。厚朴姜汁炒陈皮甘草炙各一钱。姜枣煎。）除湿宽胸驱瘴疠。调和胃气此方施。\n柯韵伯曰。内经以土运太过曰敦阜。其病腹满。不及曰卑监。其病留满痞塞。张仲景制三承气汤。调胃土之敦阜。李东垣制平胃散。平胃土之卑监也。培其卑而使之乎。非削卑之谓也。苍术苦温运脾。长于发汗。迅于除湿。故以为君。厚朴色赤苦温。能助少火以生气。故以为臣。湿因于气滞。故以行气之陈皮为佐。脾得补而健运。故以补脾之甘草为使。名曰平胃。实所以调脾欤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 322,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "平胃散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "99dba97ab52c6804f86e44b44e6b0f8d433b830749cbff993d0ebb38dc34ed1d",
+      "content_sha256": "fa365cf82ca47db7fed40847ae0eda3e63864cc556bf86e7240dd58b39c926bd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        323,
+        324,
+        325
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 250,
+        "simplified_codepoints": 250
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "cb091f73a50d62699a9f1aac",
+      "title": "五皮散",
+      "volume": "卷下 / 滑可去著",
+      "content": "五皮饮用五般皮。陈茯姜桑大腹奇。（陈皮茯苓皮姜皮桑白皮大腹皮。）或用五加易桑白。脾虚肤胀此方宜。（脾不能为胃行其津液。故水肿。半身以上宜汗。半身以下宜利小便。此方于泻水之中。仍寓调补之意。皆用皮者。水溢皮肤。以皮行皮也。）\n陈修园曰。此方出华元化中藏经。颇有意义。宜审其寒热虚实。而加寒温补泻之品。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 326,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "五皮散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "92632a03eb69f58fd3bdb0698549808c57d0fecfb9ee288d0dfe98b3a27971c7",
+      "content_sha256": "e4990536357fb9ea7afd7ef08b23538e483abfff5a795af2930e462394a547cb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        327,
+        328
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 149,
+        "simplified_codepoints": 149
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "dfec895607bb3a2a13847a09",
+      "title": "二陈汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "治肥盛之人。湿痰为患。痰喘胀满。\n二陈汤用夏和陈。益以茯苓甘草臣。（半夏二钱。陈皮一钱。茯苓三钱炙。甘草八分。加姜煎。）利气调中兼去湿。诸凡痰饮此为珍。\n陈修园曰。此方为祛痰之通剂也。痰之本。水也。茯苓制水以治其本。痰之动。湿也。茯苓渗湿以镇其动。方中只此一味。是治痰正药。其余半夏降逆。陈皮顺气。甘草调中。皆取之以为茯苓之佐使耳。故仲景书。凡痰多者俱加茯苓。呕者。俱加半夏。古圣不易之法也。今人不穷古训。以半夏为祛痰之专品。仿稀涎散之法。制以明矾。致降逆之品。反为涌吐。堪发一叹。以此方为三阳解表之剂。服之留邪生热。至死不悟。余于真方桂枝汤下已详言之。兹不复赘。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 329,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "二陳湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "f03f0abb80a820e44d432f2a017a6ee2e8e9545e740467baaf89ff0fc0d88ffc",
+      "content_sha256": "7e8e061956207bf1a23f8b60df3cf7690dab4b8051f122a942ba5d36f58a5009",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        330,
+        331,
+        332
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 282,
+        "simplified_codepoints": 282
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "1c64a02a40451599fdae61be",
+      "title": "萆薢分清饮",
+      "volume": "卷下 / 滑可去著",
+      "content": "萆薢分清主石蒲。草梢乌药智仁俱。（乌药益智仁石菖蒲萆薢各等分。甘草梢减半。）煎成又入盐些少。（加盐少许。）淋浊流连数服驱。（遗精。白浊。）\n汪讱庵曰。萆薢能泄厥阴阳明湿热。去浊分清。乌药疏逆气而止便数。益智固脾肾而开郁结。石菖蒲开九窍而通心。甘草梢达肾茎而止痛。使湿热去而心肾通。气化行而淋浊止矣。此以疏泄为禁止者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 333,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "萆薢分清飲"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "fb0fd7801655bd8b8ba8e32959a6d2c2943ba72c4fe35c4c7e47235cc68d6980",
+      "content_sha256": "fe41916eb3d228f2b5ec2dc99561f699f56de64da9528b979f384d1913f5547b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        334,
+        335
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 159,
+        "simplified_codepoints": 159
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "8e77f8a5edb9c33532658fdd",
+      "title": "肾著汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "治寒湿腰痛。如带五千钱。此带豚为病。名曰肾著。\n腰痛如带五千钱。肾著汤方岂偶然。甘草茯苓姜与术。长沙老法谱新编。（甘草二钱。白术干姜茯苓各四钱。水煎服。即金匮甘草干姜茯苓白术汤。但分两多少不同。）\n陈修园曰。带脉为病。腰溶溶如坐水中。此寒湿之邪。不在肾之中脏。而在肾之外腑。故其治。不在温肾而散寒。而在燠土以胜水。若用桂附。则反伤肾之阴矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 336,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "腎著湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "fb2af4add0e9bee1342aaf514c52cd92d552dd81d0c2569c778227c065a0f4ed",
+      "content_sha256": "4f61f05aa61379bbad341e67f4d5538013227afc2a7f163d26b9605ae47b5f9a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        337,
+        338,
+        339
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "42048bac0f9a76ff7952dd1b",
+      "title": "一味白术酒",
+      "volume": "卷下 / 滑可去著",
+      "content": "治伤湿身尽痛。\n即白术一两。酒煎服。不能饮者以水代之。按神农本草经云。白术气味甘温无毒。主风寒湿痹死肌痉疽。止汗除热消食。作煎饵。久服轻身延年不饥。原文只此三十四字。\n陈修园曰。白术主治风寒湿三者。今而成痹。而除湿之功。则更大焉。死肌者。湿邪侵肌肉而麻木不仁也。痉者。湿流关节而筋劲急也。疸者。湿乘脾土肌肉发黄也。湿久郁而为热。湿热交蒸。故自汗而热发也。脾受湿则失其健运之常。故食不能消也。白术性能燥湿。所以主之。作煎饵三字。先圣另提。大费苦心以白术之功在燥。而所以妙处。在于多脂。多脂则燥中有润。张隐庵解云。土有湿气。始能灌溉四旁。如地得雨露。始能发生万物。今以生术削去皮。急火炙令热。名为煎饵。遵法修治。则味甘而质润。土气和平。故久服有轻身延年不饥之效。后人用土炒燥。大失经旨。叶天士临症指南。竟用水漂炒黑。是徒用白术之名也。不得不附辩于此。\n。寒能胜热",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 340,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "一味白朮酒"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "4353d354a77ba9d143b40378f5a885d54c7ed8f4bf93dbed64417489cf2208bc",
+      "content_sha256": "a4a3401bd1d424df36cee7a0f84c93cc3cc84dc6a2e7c823b53ecedaad7e65fa",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        341,
+        342,
+        343,
+        344
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 379,
+        "simplified_codepoints": 379
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "9dedafba937478d38011f77a",
+      "title": "泻白散",
+      "volume": "卷下 / 滑可去著",
+      "content": "泻白甘桑地骨皮。再加粳米四般宜。（桑白皮地骨皮各一钱。甘草五分。粳米百粒。。汪云桑皮泻肺火。地骨退虚热。甘草补土生金。粳米和中清肺。李时珍曰。此泻肺诸方之准纯也。）\n秋伤燥令成痰嗽。火气乘金此法奇。\n季楚重曰。火热伤气。救肺之治有三。伤寒邪热侮肺。用白虎汤除烦。此治其标。内症虚火烁金。用生脉散益阴。此治其本。若夫正气不伤。郁火又甚。则泻白散之清肺调中。标本兼治。又补二方之不及也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 345,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "瀉白散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "efad52c9bc147e21302c293ac0568b2ed311344b7e45d49ae0cf4a928b5fa0dc",
+      "content_sha256": "f164573a002aa8c45ed36833ad351430aa860ed8bafbc81b2e4fd31410b99d88",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        346,
+        347,
+        348
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 191,
+        "simplified_codepoints": 191
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "64b6be5c7f42fbc5c6a3dd33",
+      "title": "甘露饮",
+      "volume": "卷下 / 滑可去著",
+      "content": "治胃中湿热。包黄溺赤。口疮吐血衄血。\n甘露二冬二地均。（天冬。麦冬。生地。熟地。）枇杷芩枳（黄芩。枳壳。枇杷叶。）斛茵伦。（石斛。茵陈。）合和甘草平虚热。（等分煎温服。）口烂龈糜吐衄珍。\n陈修园曰。足阳明胃为燥土。喜润而恶燥。喜降而恶升。故以二冬二地石斛甘草之润以补之。枇杷枳壳之降以顺之。若用连柏之苦。则增其燥。若用耆术之补。则虑其升。即有湿热。用一味黄芩以折之。一味茵陈以渗之。足矣。盖以阳明之治。最重在养津液二字。此方二地二冬等药。即猪苓汤用阿胶以育阴意也。茵陈汤芩之折热而去湿。即猪苓汤中之用滑泽以除垢意也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 349,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "甘露飲"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "61161d02eed32b34d9888b7c4480dff443838ae266389e6147cff56aae03eb77",
+      "content_sha256": "47f775e65c8724cb16ec7279e636520902d77e4bf3b203194e2419cb509ac5c8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        350,
+        351,
+        352
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 258,
+        "simplified_codepoints": 258
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "031ffeb66fd12a46ffcf1fab",
+      "title": "左金丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治肝藏实火。左胁下痛。或吐酸水。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 353,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "左金丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "2cafdb4e8418835f094e50972ab8b284aa57bc49c4e421013d9ec06404f1430c",
+      "content_sha256": "6187a2b74ba8c650fc5d6485299654738964dad7f4d6f206d09c3911f4180e97",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        354
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 16,
+        "simplified_codepoints": 16
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "f3151059830b7db7778aca7a",
+      "title": "香连丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治赤下痢。\n茱连六一左金丸。肝郁胁疼吞吐酸。（黄连六两。吴茱萸一两盐汤泡。名茱连丸。）更有痢门通用剂。香连丸子服之安。（黄连二十两以吴茱萸十两水拌浸一宿同炒。去吴茱萸。木香四两八钱五分二味共研末。醋糊丸桐子大。每服二三钱。空心米汤下。。薛立斋治虚痢。以四君子汤四物汤补中益气汤。随宜送下。）\n陈修园曰。肝实作痛。惟肺金能平之。故用黄连泻心火。不使克金。且心为肝子。实则泻其子也吴茱萸入肝。苦辛大热。苦能引热下行。同气相求之义也。辛能开郁散结。通则不痛之义也。何以谓之左金。木从左而制从金也。至于香连丸。取黄连之苦以除湿。寒以除热。且藉其苦以坚大便之滑。况又得木香之行气止痛。温脾和胃。以为佐乎。故久痢之偏热者。可以统治也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 355,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "香連丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "5c17d2f9892dca196dbf158e617023974300f0d2abb231a3ff84b6314bc7e494",
+      "content_sha256": "5dd54e7701104b353a36d905536933dee4afffaebc5c928d856d67151434885a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        356,
+        357,
+        358
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 311,
+        "simplified_codepoints": 311
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "60bfda50dd9cb6abd9b2c9ea",
+      "title": "温胆汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "治热呕吐苦。虚烦惊悸不眠。痰气上逆。\n温胆汤方本二陈。竹茹枳实合和匀。（二陈。加竹茹枳实。）不眠惊悸虚烦呕。日暖风和木气伸。\n陈修园曰。二陈汤为安胃祛痰之剂。加竹茹以清隔上之虚热。枳实以除三焦之痰壅。热除痰清。而胆自宁和。即温也。温之者。实凉之也。若胆家真寒而怯。宜用龙牡桂枝汤加附子之类。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 359,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "溫膽湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "c469d588a460e70e607157bb947eed7b05dabfea50ecb11f1da97f7b0bf20ef6",
+      "content_sha256": "ba9ce75bb0eaa95ff531f3bec1e2f0e1af9c6d2dd2b619f764fdef8d9368e374",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        360,
+        361,
+        362
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "0b875b25c3b1bbe74b5437e6",
+      "title": "金铃子散",
+      "volume": "卷下 / 滑可去著",
+      "content": "治心腹痛。及胁痛等症。。脉洪数。及服热药而增病者如神。\n金铃子散妙如神。须辨诸疼作止频。（火痛或作或止。）胡索金铃调酒下。（延胡索金铃子各等分。研末。以清酒调服三钱。）制方原是远温辛。\n陈修园曰。金铃子。引心包相火下行。从小肠膀胱而出。延胡索和一身上下诸痛。配合得法。所以效神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 363,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "金鈴子散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "b35d9de6553cd324b6bb3fa0427c25c8dc3d2ffeb0cde6d1047d4816e06e1cda",
+      "content_sha256": "50db52d572da6cfe0acb9c11ce2389b37d8e7741effdc9c6214f612e74a5848d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        364,
+        365,
+        366
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "6629515d1a00c1fab67db63c",
+      "title": "丹参饮",
+      "volume": "卷下 / 滑可去著",
+      "content": "治心痛胃脘诸痛多效。\n妇人更效。\n心腹诸疼有妙方。丹参十分作提纲。檀砂一分聊为佐。入咽咸知效验彰。（丹参一两。檀香砂仁各一钱。水一杯半。煎七分服。）\n陈修园曰。稳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 367,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "丹參飲"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "aacf9206452909e353397cfe2094207316249b9d26aa7aaa5681e77050c3cac0",
+      "content_sha256": "7d8ed4716b1846a37e43986b97eb3d0af1f723c9128c86e26cc60f1fa9aea1f4",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        368,
+        369,
+        370,
+        371
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 82,
+        "simplified_codepoints": 82
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "84924892e32a82701fc1aaa9",
+      "title": "白合汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "治心口痛。服诸热药不效者。。亦属气痛。\n久痛原来郁气凝。若投辛热痛频增。重需白合轻清品。乌药同煎亦准纯。（白合一两。乌药三钱。水二杯。煎七分服。）\n陈修园曰。此方余从海坛得来。用之多验。。以上三方。皆治心胃诸痛。服热药而不效（者宜）之。古人治痛。俱用通法。然通之之法。各有不同。调气以和血。调血以和气。通也。上逆者使之下行。中结者使之旁达。亦通也虚者助之使通。寒者温之使通。无非通之之法也。若必以下泄为通。则妄矣。此说本之高士宗医学正传。士宗名世拭。浙江人也。著有灵枢直解。素问直解等书行世。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 372,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "白合湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "f96523309108d029dc586da874d133cfff44bfcf6535eafa8f8d9f2f56508496",
+      "content_sha256": "c8112c936896fe13c7b8cf0fdfdfb0c973945fcad51983450a6ebcd8b6ded37d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        373,
+        374,
+        375
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 246,
+        "simplified_codepoints": 246
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "703b7859331ab63995dff0d4",
+      "title": "滋肾丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治肺痿声嘶。喉痹咳血烦躁。\n即通关丸（见通剂）\n罗东逸曰。此丸为肾家水竭火炎而设。夫水竭则肾涸。肾涸则下泉不钟。而阳盛于上。斯喉痹痰结烦躁之症作。火炎则金伤。金伤则上源不泽。无以蒸呴布沤。斯声嘶咳血焦痿之症生。此时以六味补水。水不能遽生也。以生脉保金。金不免犹燥也。惟急用黄柏之苦以坚肾。则能伏龙家之沸火。是谓浚其源而安其流。继用知母之清以凉肺。则能全破伤之燥金。是谓沛之两而腾之露。然恐水火之不相入而相射也。故益以肉桂之反佐为用。兼以导龙归海。于是坎盈窞而流渐长矣。此滋肾之旨也。柯韵伯曰。水为肾之体。火为肾之用。人知肾中有水。始能制火。不知肾中有火。始能致水耳。盖天一生水者。阳气也。即火也。气为水母。阳为阴根。必火有所归。斯水有所主。故反佐以桂之甘温。引知柏入肾而奏其效。此相须之殷。亦承制之理也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 376,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "滋腎丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d334d27904b38c9da41010932d7fb0b96c26605f9d2ee377b4d85dd559b4d4c2",
+      "content_sha256": "228f2283c0aea2fd99b55ad879c8e85b5f1e165abf5f68580b60ebd25af37ee2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        377,
+        378,
+        379
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 352,
+        "simplified_codepoints": 352
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "4df07097aaa5518dd16e250f",
+      "title": "地骨皮散",
+      "volume": "卷下 / 滑可去著",
+      "content": "治阴虚火旺。骨蒸发热。日静夜剧者。妇人热入血室。胎前发热者。\n即四物汤。加地骨皮牡丹皮各三钱。（四物汤见补剂）柯韵伯曰。阴虚者。阳必凑之。故热。仲景曰。阴弱则发热。阳气下陷入阴中。必发热。然当分三阴而治之。阳邪陷入太阴脾部。当补中益气以升举之。清阳复位。而火自熄也。若陷入少阴肾部。当六味地黄丸以对待之。壮永之主而火自平也。陷入厥阴肝部。当地骨皮饮以凉补之。血有所藏。而火自安也。四物汤为肝家滋阴调血之剂。加地骨皮。清志中之火以安肾。补其母也。加牡丹皮。清神中之火以凉心。泻其子也。二皮凉而不润。但清肝火。不伤脾胃。与四物加知柏之湿润而苦寒者。不同矣。故逍遥散。治肝火之郁于本脏者也。木郁达之。顺其性也。地骨皮饮。治阳邪之陷于肝脏也。客者除之。勿纵寇以遗患也。二者皆肝家得力之剂。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 380,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "地骨皮散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "5aabf8d7750600761898784a5609f86d86bd631152447a76752f2101bc79dce6",
+      "content_sha256": "958efe32fb7245a7dfbd709dcc322d6a22d3b7ff855589d83adeb32426c15441",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        381,
+        382
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 340,
+        "simplified_codepoints": 340
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "e7c5717237dbaad3278713af",
+      "title": "清暑益气汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "长夏湿热蒸炎。四肢困倦。精神减少。身热气高烦心。便黄口渴。而自汗脉虚者。此方主之。清暑益气草参耆。麦味青陈曲柏奇。二木葛根升泽泻。暑伤元气此为宜。（人参黄耆甘草炙当归麦冬五味青皮陈皮神曲黄柏葛根苍术白术升麻泽泻。姜枣煎。）\n参吴鹤皋方考。暑令行于夏。至长夏则兼湿令矣。此方兼而治之。炎暑则表气易泄。兼湿则中气不固。黄耆轻清散表气。又能领人参五味之苦酸。同达于表以实表。神曲消磨伤中气。又能佐白术甘草之甘温。消补互用以调中。酷暑横流。肺金受病。人参五味麦冬。所以补肺敛肺清肺。经所谓扶其所不胜也。火盛则水衰。故以黄柏泽泻滋其化源。津液亡则口渴。故以当归干葛生其胃液。清气不升。升麻可升。浊气不降。二皮可降。苍术之用。为兼长夏湿也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 383,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "清暑益氣湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "4e1260242c6cd0c194183fc4848445764a3137f505bf3f004cffb19de5f44591",
+      "content_sha256": "5a87b326d3425c3a30ac8f8c93d739e60ef0dac83b010c863c0837e88db1f328",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        384,
+        385
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 314,
+        "simplified_codepoints": 314
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "2e2d22d3a204eff5509d583b",
+      "title": "龙胆泻肝汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "治胁痛口苦。耳聋耳肿。筋痿阴湿热痒阴肿。血浊溲血。\n龙胆泻肝通泽柴。车前生地草归偕。栀芩一派清凉品。湿热肝邪力可排。（胆草三分。栀子黄芩泽泻柴胡各一钱。车前子木通各五分。当归三分。甘草生地各三分。）\n龙胆柴胡。泻肝胆之火。佐以黄芩栀子木通车前泽泻。俾湿火从小便而出也。然泻之过甚。恐伤肝血。故又以生地当归补之。肝苦急。急食甘以缓之。故以甘草缓其急。且欲以大甘之味。济其大苦。不令过于泄下也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 386,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "龍膽瀉肝湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "c421771a54945bae6d22c5245b0444386791a155f3fe403638f06df4a4f615a7",
+      "content_sha256": "4df844487c1914e7a7d17bb2bdd886d24dd81f61a1112a17f060d543e9d4c2b0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        387,
+        388,
+        389
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 195,
+        "simplified_codepoints": 195
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "0d9ed003ff41c73d672ba5e4",
+      "title": "当归芦荟丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治肝经实火。头晕目眩。耳聋耳鸣。惊悸搐搦。躁扰狂越。大便秘结。小便涩滞。或胸胁作痛。阴囊肿胀。凡属肝经实火。皆宜服之。\n当归芦荟黛栀将。木麝二香及四黄。龙胆其成十一味。诸凡肝火尽能攘。（当归胆草酒洗栀子黄连黄柏黄芩各一两。大黄青黛水飞芦荟各五钱。木香二钱五分。麝香五分炒。神曲糊丸。姜汤下每服二十丸。）\n陈修园曰。五脏各有火。而肝火最横。肝火一动。每挟诸经之火。相持为害。故以青黛芦荟龙胆。入本经而直折之。又以黄芩泻肺火。黄连泻心火。黄柏泻肾火。栀子泻三焦火。分诸经而泻之。而最横之肝火。失其党援。而乃平。然火旺则血虚。故以当归之补血者为君。火旺则胃实。故以大黄之通滞者为臣。气有余便是火。故以麝香之主持正气。神曲之化导积气。木香之通行滞气者为佐。气降。火亦降。自然之势也。况又得芩连栀柏。分泻各经。青黛芦荟龙胆。直折本经。内外应合以为之使乎。立法最奇。向来为庸解所掩。兹特阐之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 390,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "當歸蘆薈丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "360ca3119b22b663c244ff59d22f641045d8620f7a01578b1bdcdedde445ee84",
+      "content_sha256": "fad94bbc8b059c5970db9b9ba9cd37ad186e6e44a731fba811be6855f354927d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        391,
+        392,
+        393
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 390,
+        "simplified_codepoints": 390
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "55231f566dfa57aa8519cfa1",
+      "title": "犀角地黄汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "主治吐衄便血。妇人血崩赤淋。\n犀角地黄芍药丹。（生地两半。白芍一两。丹皮犀角各二钱半。每服五钱。）血升胃热火邪干。斑黄阳毒皆堪治。或益柴芩总伐肝。\n柯韵伯曰。气为阳。血为阴。阳密乃固。阳盛则伤阴矣。阴平阳秘。阴虚者。阳必凑之矣。故气有余即是火。火入血室。血不营经。即随逆气而妄行。上升者出于口鼻。下陷者出于二便。虽有在经在腑之分。要皆心肝受热所致也。心为营血之主。心火旺则血不宁。故用犀角生地酸咸甘寒之味。以清君火。肝为藏血之室。肝火旺则血不守。故用丹皮芍药辛苦微寒之品。以平相火。此方虽曰清火。而实滋阴之剂。盖血失则阴虚。阴虚则无气。故阴不足者。当补之以味。勿得反伤其气也。若用芩连胆草栀柏以泻其气。则阳之剧者。苦从火化。阳已衰者。气从苦发。燎原而飞越矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 394,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "犀角地黃湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "70b1c87d63114fe16d36b2b3e97fb8215da9e4595bc88ab7d8a1b16f1e17cff5",
+      "content_sha256": "cceefbb64d0f1392fcd454c9600c4b29ab0db305eb827a57150aafc92f916f1c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        395,
+        396,
+        397
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 329,
+        "simplified_codepoints": 329
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "091c6b983462364216d7e9bd",
+      "title": "四生丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "治阳盛阴虚。血热妄行。或吐或衄者。\n四生丸用叶三般。艾柏鲜荷生地斑。（生侧柏叶。生艾叶。生荷叶。生地黄各等分。）共捣成团入水化。血随火降一时还。（捣为丸如鸡子大。每服一丸。滚汤化下。）\n柯韵伯曰心肾不交。则五脏齐损。阴虚而阳无所附。则火炎上焦。阳盛则阳络伤。故血上溢于口鼻也。凡草木之性。生者凉。而熟之则温。熟者补。而生者泻。四味皆清寒之品。尽取其生者。而捣烂为丸。所以全其水气。不经火煮。更以远于火令矣。生地多膏。清心肾而通血脉之源。柏叶西指。清肺经而调营卫之气。艾叶芳香。入脾胃而和生血之司。荷叶法震入肝家。而和藏血之室。五脏安堵。则水火不相射。阴平阳秘。而血归经矣。是方也。可暂用以遏妄行之血。如多用。则伤营。盖血得寒。则瘀血不散。而新血不生也。设但知清火凉血。而不用归脾养营等剂。以善其后。鲜有不绵连岁月而毙者。非立方之不善。妄用者之过耳。\n。热可制寒",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 398,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "四生丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "eb481d44eb37a5cef98a3e26871ca2e9e8fb770a12ef9eb0d60d2cf046f6f5b2",
+      "content_sha256": "63700e52a06a44271efe9ff6c6e9a4aeb059102771f51e2abbb12ed3ed628c08",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        399,
+        400,
+        401,
+        402
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 380,
+        "simplified_codepoints": 380
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "5366ed007f16d95a97f14343",
+      "title": "回阳急救汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "回阳急救（节庵）。用六君。桂附干姜五味群。（附子炮干姜肉桂人参各五分。白术茯苓各一钱。半夏陈皮各七分。甘草三分。五味九粒。姜水煎。）加麝三厘或胆汁。三阴寒厥见奇勋。（姜桂附子。祛其阴寒。六君子汤。补助其阳气。五味人参。以生其脉。加麝香者。以通其窍。加胆汁者。热因寒用也。）\n陈修园曰。此市医得意方也。修园不释。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 403,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "回陽急救湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "01fe9d08f0975e71b0f7a91531a0418c5bdbd710c969a959be7e7f8bb15ce424",
+      "content_sha256": "cb825d2b98e14582893a3d762274e195fbd9c38821c57fba7851b980afd61e78",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        404,
+        405
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 155,
+        "simplified_codepoints": 155
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "0d561c871397bc6baa90d2f2",
+      "title": "益元汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "益元艾附与干姜。麦味知连参草将。（附子炮艾叶干姜麦冬五味知母黄连人参炙甘草。。艾叶辛热。能回阳。）葱白童便为引导。内寒外热是慈航。\n此阴盛格阳之症。面赤口渴欲卧于泥水之中。为外热内寒。此汤姜附艾叶加知连等药。与白通加人尿猪胆汁同意。乃热因寒药为引用也。内热曰烦。为有根之火。外热不宁曰躁。为无根之火。故但躁不烦。及先躁后烦者。皆不治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 406,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "益元湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "d0220ccdde2424f6baa2f8fa56879acd66c4830b870563404db4cea46795a464",
+      "content_sha256": "1be55fee80e28d5b4f3057ea9a2d7f4918e84e0fe497622c8351f346922da6ce",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        407,
+        408
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "d89fd89debb52bae66069fae",
+      "title": "济生肾气丸",
+      "volume": "卷下 / 滑可去著",
+      "content": "肾气丸名别济生。车前牛膝合之成。（熟地四两茯苓三两。山药山茱丹皮泽泻肉桂车前子牛膝各一两。附子五钱。蜜丸。空心米汤送下。）肤膨腹肿痰如壅。气化缊𬘡水自行。\n张景岳曰。地黄山药丹皮。以养阴中之真水。山茱桂附。以化阴中之阳气。茯苓泽泻车前牛膝。以利阴中之滞。能使气化于精。即所以治肺也。补火生土。即所以治脾也。壮水利窍。即所以治肾也。水肿。乃肺脾肾三脏之病。此方所以治其本。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 409,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "濟生腎氣丸"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "10266278537fd8160bde4590ed674dea2d465af705bc98ca05ecfa58eaf20c99",
+      "content_sha256": "1c7a08fe09b39411c5a509892d90ca3c3cc88e90f9313ccf7d5a21c35c32ebd4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        410,
+        411
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 185,
+        "simplified_codepoints": 185
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "3936b4a3acb888bc212475f2",
+      "title": "三生引",
+      "volume": "卷下 / 滑可去著",
+      "content": "治卒中昏不知人。口眼㖞斜。半身不遂。并痰厥阴厥。\n三生饮用附乌星。香入些微是引经。（生南星一两。生川乌生附子各去皮各五钱。木香二钱。）参汁对调宗薛氏。（每服一两。加参一两。）风痰卒倒效神灵。\n柯韵伯曰。风为阳邪。风中无寒。不甚伤人。惟风中挟寒。害始剧矣。寒轻而在表者。宜发汗以逐邪。寒重而入里者。非温中补虚。终不可救。此取三物之大辛大热者。且不炮不制。更佐以木香。乘其至刚至锐之气而用之。非以治风。实以治寒也。然邪之所凑。其气必虚。但知勇于攻邪。若正气虚而不支。能无倒戈之患乎。必用人参两许。以驾驭其邪。此立斋先生真知确见。立于不败之地。而获万全之效者也。若在庸手。必谓补住邪气而不敢用。此谨熟阴阳。毋与众论。岐伯所以叮咛致告耳。观其每服五钱。必四服而邪气始出。今之畏事者。用乌附数分。必制热而后敢用。更以芩连滥制之焉。能挽回如此危症哉。古今人不相及如此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 412,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "三生引"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "006edf56db019e783a9ce88db7657592c94e5bef8a603dc1ad37768e7fcc1672",
+      "content_sha256": "b5a632564c06bd6f569329569a83e1598273e8ca674441fa878e8f31040ababe",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        413,
+        414,
+        415
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 378,
+        "simplified_codepoints": 378
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "6984446ae0e4c69a8220ef03",
+      "title": "耆附汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "见涩剂。\n阴盛阳虚汗自流。肾阳脱汗附参求。（人参一两。熟附子五钱。水煎服。名参附汤。）脾阳遏郁术和附。（白术一两。熟附子五钱。名术附汤。）若是卫阳耆附投。（黄耆一两。熟附子五钱。名耆附汤。）\n喻嘉言曰。卫外之阳。不固而自汗。则用耆附。脾中之阳。遏郁而自汗。则用术附。肾中之阳。浮游而自汗。则用参附。凡属阳虚自汗。不能舍三方为治。三方之用大矣。然耆附可以治虚风。术附可以治寒湿。参附可以壮元神。三者亦交相为用。若用所当用。功效若神。诚足贵也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 418,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "耆附湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "9f9f3df5d59a08f6e42b5c62b8a759045e505ab2d851a6561c0363b81365553e",
+      "content_sha256": "52aff7a93cd75db88eb417524b64be00b535ac7d5f8a0603e402ba66f1e0dbb0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        419,
+        420,
+        421
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 220,
+        "simplified_codepoints": 220
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "f02797e30704329bfd8803ca",
+      "title": "近效白术汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "即术附汤减半。加炙甘草一钱五分。生姜三片。红枣二枚。水煎服。治风虚头重眩。苦极不知食味。暖肌补中。益精气。喻嘉言曰。此方治肾气空虚之人。外风入肾。恰似鸟洞之中。阴风惨惨。昼夜不息。风挟肾中浊阴之气。致逆上攻。其头间重眩之苦。至极难耐。兼以胃气亦虚。不知食味。故方中全不用风门药。但用附子暖其水藏。白术甘草暖其土藏。水土一暖。则浊阴之气。尽趋于下。而头苦重眩。及不知食味之证除矣。试观冬月井中水暖。土中气暖。其浊阴之气。其不能出于地。岂更能加于天乎。制方之义。可谓精矣。此所以用之而获近效也。\n陈修园曰。喻嘉言之解甚超。但于益精气三字而略之。犹未识制方之神妙也。盖精者。天一所生之水也。一。即阳也。阳。即气也。气。即火也。气为水母。阳为阴根。川流不息。水之行。即火之用也。故方中君以附子。脾肾中有火以致水。水自不穷。俗医以熟地枸杞之类。滋润为补。譬之无源之水。久停则污秽不堪矣。况本方中又有白术甘草。暖其土藏。脾纳谷多。则津液旺。充血生精。以复其真阴之不足。难经所谓损其肾者益其精。内经所谓精不足者补之以味。此方深得圣经之旨矣。故分而言之。经云。两神相搏。合而成形。尝先身生。是谓精。附子补肾中之神。所以益精。经又云。上焦开发。宣五谷味。熏肤充身泽毛。若雾露之溉。是谓气。白术甘草。入脾而宣布其气。所以益气。合而言之。精由气化。气由精生。非一。亦非两也。悟得此方之妙。便知六味丸退热则有余。补水则不足。六味丸化气行水则有余。补火致水则不足。他若张景岳自制大补元煎等汤。竟云补血补精。以熟地黄为主。少则二三钱。多则一二两。无知妄作。误人匪少。何陈远公之石室秘箓辨症奇闻。冯楚瞻之锦囊。专宗此说。众盲为一盲所引。是可慨也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 422,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "近效白朮湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "a4bae4e01c68f16632e52edc1d329aa000ac41ac99c194491c47ad803049b09a",
+      "content_sha256": "918bbc5a74a585e22b6fc3449ac8c5b36508e40783391b04971d83c1c733ecce",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        423,
+        424
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 708,
+        "simplified_codepoints": 708
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "a3ca66c627a605e1ea55c170",
+      "title": "附子理中汤",
+      "volume": "卷下 / 滑可去著",
+      "content": "即理中汤（见真方歌括太阴篇。）加附子炮二钱。\n陈修园曰。理中汤。以参草补阴。姜术补阳。和平之药。以中焦为主。上交于阳。下交于阴。为吐泻等症而立法。原无加附子之法。若加附子。则偏重下焦。不可名为理中矣。然脾肾俱寒。吐后而大泻不止。须用附子回其真阳。而门户始固。必重加此一味而后效。但既加附子。而仍名理中。命名不切。此所以为时方也。又有再加肉桂。名桂附理中汤。则立方不能无弊矣。盖以吐泻阴阳两脱。若用肉桂。宣太阳之腑气。动少阴之脏气。恐致大汗。为亡阳之坏症也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 425,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "附子理中湯"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "70d07ff8505d4b140393c84fa9b55041a39bccff6f3f49cedb1dfee8659dfc26",
+      "content_sha256": "cbdd4c251588f41ec9c3eb3ca13d74a5e6670610f83a46d0e1e93d0e2f1e594c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        426,
+        427
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 228,
+        "simplified_codepoints": 228
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "c10d70a42bcba9728db0e50f",
+      "title": "鸡鸣散",
+      "volume": "卷下 / 滑可去著",
+      "content": "治脚气第一品药。不问男女皆可服。如感风湿流注。脚痛不可忍。筋脉浮肿者。并宜服之。其效如神。\n鸡鸣散是绝奇方。苏叶茱萸桔梗姜。瓜橘槟榔煎冷服。浮肿脚气效彰彰。（槟榔七枚。橘红木瓜各一两。吴茱萸苏叶各三钱。桔梗生姜各半两。水二大碗。漫火煎至一碗半。取渣。再入水两碗。煎取一小碗。两汁相和。安置床头。次日五更分三五次冷服之。冬月略温亦可。服药至天明。当下黑粪水。即是肾家所感寒湿之毒气也。至早饭时。必痛住肿消。只宜迟吃饭。使药为作效。此方并无所忌。）\n陈修园曰。寒湿之气。著于下焦而不去。故用生姜吴茱萸以驱寒。橘红槟榔以除湿。然驱寒除湿之药颇多。而数品皆以气胜。加以紫苏为血中之气药。辛香扑鼻。更助其气。气盛则行速。取著者行之之义也。又佐以木瓜之酸桔梗之苦经云。酸苦涌泄为阴。俾寒湿之气。得大气之药。从微汗而解之。解之而不能尽者。更从大便以泄之。战则必胜之意也。其服于鸡鸣时奈何。一取其空腹。则药力专行。一取其阳盛。则阳药得气也。其必冷服奈何。以湿为阴邪。冷汁亦为阴属。以阴从阴。混为一家。先诱之而后攻之也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+      "source_ordinal": 428,
+      "source_path": [
+        "卷下",
+        "滑可去著",
+        "雞鳴散"
+      ],
+      "source_sha256": "eb79edfe2ec39738e81932b8068a803216d5e318dadeb1f9a29d3ffae3f37611",
+      "original_sha256": "74325c6e17393b3b0245143c87be70386b36048fa32557bd341dd7399df0b69b",
+      "content_sha256": "d32eabbbde24f8948b0b4f6c6b64257590e7555ad9e4e9860ebb971d597a8e79",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        429,
+        430,
+        431
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 451,
+        "simplified_codepoints": 451
+      },
+      "order": 111
+    }
+  ]
+}

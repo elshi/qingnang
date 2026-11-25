@@ -1,0 +1,506 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E4%BE%86%E8%98%87%E9%9B%86/index.html",
+    "toc": [
+      {
+        "ordinal": 2,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 3,
+        "level": 2,
+        "title": "傷寒總論",
+        "path": [
+          "卷一",
+          "傷寒總論"
+        ]
+      },
+      {
+        "ordinal": 18,
+        "level": 2,
+        "title": "太陽脈證",
+        "path": [
+          "卷一",
+          "太陽脈證"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 2,
+        "title": "桂枝湯證上",
+        "path": [
+          "卷一",
+          "桂枝湯證上"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 2,
+        "title": "桂枝湯證下",
+        "path": [
+          "卷一",
+          "桂枝湯證下"
+        ]
+      },
+      {
+        "ordinal": 104,
+        "level": 1,
+        "title": "傷寒來蘇集卷二",
+        "path": [
+          "傷寒來蘇集卷二"
+        ]
+      },
+      {
+        "ordinal": 105,
+        "level": 2,
+        "title": "麻黃湯證上",
+        "path": [
+          "傷寒來蘇集卷二",
+          "麻黃湯證上"
+        ]
+      },
+      {
+        "ordinal": 123,
+        "level": 2,
+        "title": "麻黃湯證下",
+        "path": [
+          "傷寒來蘇集卷二",
+          "麻黃湯證下"
+        ]
+      },
+      {
+        "ordinal": 138,
+        "level": 2,
+        "title": "葛根湯證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "葛根湯證"
+        ]
+      },
+      {
+        "ordinal": 145,
+        "level": 2,
+        "title": "大青龍湯證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "大青龍湯證"
+        ]
+      },
+      {
+        "ordinal": 151,
+        "level": 2,
+        "title": "小青龍湯",
+        "path": [
+          "傷寒來蘇集卷二",
+          "小青龍湯"
+        ]
+      },
+      {
+        "ordinal": 154,
+        "level": 2,
+        "title": "五苓散證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "五苓散證"
+        ]
+      },
+      {
+        "ordinal": 167,
+        "level": 2,
+        "title": "十棗湯證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "十棗湯證"
+        ]
+      },
+      {
+        "ordinal": 181,
+        "level": 2,
+        "title": "瀉心湯證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "瀉心湯證"
+        ]
+      },
+      {
+        "ordinal": 197,
+        "level": 2,
+        "title": "抵當湯證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "抵當湯證"
+        ]
+      },
+      {
+        "ordinal": 206,
+        "level": 2,
+        "title": "火逆諸證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "火逆諸證"
+        ]
+      },
+      {
+        "ordinal": 217,
+        "level": 2,
+        "title": "痙濕暑證",
+        "path": [
+          "傷寒來蘇集卷二",
+          "痙濕暑證"
+        ]
+      },
+      {
+        "ordinal": 238,
+        "level": 1,
+        "title": "傷寒來蘇集卷三",
+        "path": [
+          "傷寒來蘇集卷三"
+        ]
+      },
+      {
+        "ordinal": 239,
+        "level": 2,
+        "title": "陽明脈證上",
+        "path": [
+          "傷寒來蘇集卷三",
+          "陽明脈證上"
+        ]
+      },
+      {
+        "ordinal": 275,
+        "level": 2,
+        "title": "陽明脈證下",
+        "path": [
+          "傷寒來蘇集卷三",
+          "陽明脈證下"
+        ]
+      },
+      {
+        "ordinal": 288,
+        "level": 2,
+        "title": "梔子豉湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "梔子豉湯證"
+        ]
+      },
+      {
+        "ordinal": 309,
+        "level": 2,
+        "title": "瓜蒂散證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "瓜蒂散證"
+        ]
+      },
+      {
+        "ordinal": 316,
+        "level": 2,
+        "title": "白虎湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "白虎湯證"
+        ]
+      },
+      {
+        "ordinal": 328,
+        "level": 2,
+        "title": "茵陳湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "茵陳湯證"
+        ]
+      },
+      {
+        "ordinal": 333,
+        "level": 2,
+        "title": "承氣湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "承氣湯證"
+        ]
+      },
+      {
+        "ordinal": 369,
+        "level": 2,
+        "title": "少陽脈證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "少陽脈證"
+        ]
+      },
+      {
+        "ordinal": 377,
+        "level": 2,
+        "title": "柴胡湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "柴胡湯證"
+        ]
+      },
+      {
+        "ordinal": 406,
+        "level": 2,
+        "title": "建中湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "建中湯證"
+        ]
+      },
+      {
+        "ordinal": 411,
+        "level": 2,
+        "title": "黃連湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "黃連湯證"
+        ]
+      },
+      {
+        "ordinal": 414,
+        "level": 2,
+        "title": "黃芩湯證",
+        "path": [
+          "傷寒來蘇集卷三",
+          "黃芩湯證"
+        ]
+      },
+      {
+        "ordinal": 418,
+        "level": 1,
+        "title": "傷寒來蘇集卷四",
+        "path": [
+          "傷寒來蘇集卷四"
+        ]
+      },
+      {
+        "ordinal": 419,
+        "level": 2,
+        "title": "太陰脈證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "太陰脈證"
+        ]
+      },
+      {
+        "ordinal": 429,
+        "level": 2,
+        "title": "三白散證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "三白散證"
+        ]
+      },
+      {
+        "ordinal": 434,
+        "level": 2,
+        "title": "少陰脈證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "少陰脈證"
+        ]
+      },
+      {
+        "ordinal": 452,
+        "level": 2,
+        "title": "麻黃附子證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "麻黃附子證"
+        ]
+      },
+      {
+        "ordinal": 460,
+        "level": 2,
+        "title": "附子湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "附子湯證"
+        ]
+      },
+      {
+        "ordinal": 463,
+        "level": 2,
+        "title": "真武湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "真武湯證"
+        ]
+      },
+      {
+        "ordinal": 468,
+        "level": 2,
+        "title": "桃花湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "桃花湯證"
+        ]
+      },
+      {
+        "ordinal": 472,
+        "level": 2,
+        "title": "四逆湯證上",
+        "path": [
+          "傷寒來蘇集卷四",
+          "四逆湯證上"
+        ]
+      },
+      {
+        "ordinal": 489,
+        "level": 2,
+        "title": "四逆湯證下",
+        "path": [
+          "傷寒來蘇集卷四",
+          "四逆湯證下"
+        ]
+      },
+      {
+        "ordinal": 511,
+        "level": 2,
+        "title": "白通湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "白通湯證"
+        ]
+      },
+      {
+        "ordinal": 516,
+        "level": 2,
+        "title": "黃連阿膠湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "黃連阿膠湯證"
+        ]
+      },
+      {
+        "ordinal": 519,
+        "level": 2,
+        "title": "豬苓湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "豬苓湯證"
+        ]
+      },
+      {
+        "ordinal": 524,
+        "level": 2,
+        "title": "豬膚湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "豬膚湯證"
+        ]
+      },
+      {
+        "ordinal": 532,
+        "level": 2,
+        "title": "四逆散證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "四逆散證"
+        ]
+      },
+      {
+        "ordinal": 535,
+        "level": 2,
+        "title": "厥陰脈證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "厥陰脈證"
+        ]
+      },
+      {
+        "ordinal": 543,
+        "level": 2,
+        "title": "烏梅丸證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "烏梅丸證"
+        ]
+      },
+      {
+        "ordinal": 547,
+        "level": 2,
+        "title": "白頭翁證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "白頭翁證"
+        ]
+      },
+      {
+        "ordinal": 558,
+        "level": 2,
+        "title": "熱厥利證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "熱厥利證"
+        ]
+      },
+      {
+        "ordinal": 570,
+        "level": 2,
+        "title": "復脈湯證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "復脈湯證"
+        ]
+      },
+      {
+        "ordinal": 579,
+        "level": 2,
+        "title": "陰陽易證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "陰陽易證"
+        ]
+      },
+      {
+        "ordinal": 582,
+        "level": 2,
+        "title": "諸寒熱證",
+        "path": [
+          "傷寒來蘇集卷四",
+          "諸寒熱證"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "c6461c45a3dcc1114d79d2c6",
+        "title": "柴胡汤证",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "此下多有闕文，故文理不連屬也。"
+        ]
+      },
+      {
+        "chapter_key": "a5193cefffe3bb8b226e743c",
+        "title": "四逆散证",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "必有闕文，今以洩利下重四字，移至四逆下，則本"
+        ]
+      },
+      {
+        "chapter_key": "c477815e441878aa2c9390fd",
+        "title": "厥阴脉证",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "變端必有更甚他經者，不得一焉，不能無闕文之憾。"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 52,
+      "paragraph_blocks": 535,
+      "nonempty_paragraph_blocks": 535,
+      "represented_paragraph_blocks": 535
+    }
+  }
+]

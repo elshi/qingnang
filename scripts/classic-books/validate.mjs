@@ -4,11 +4,12 @@ import {gunzipSync} from 'node:zlib';
 import {DATA,readJson,writeJson,sha256,inside} from './common.mjs';
 import {assertDataset} from './import-core.mjs';
 import {normalize,simplify} from './extract.mjs';
+import {catalog} from './active-catalog.mjs';
 
 const manifest=await readJson(path.join(DATA,'books.json'));
 const sources=await readJson(path.join(DATA,'sources.json'));
 const quality=await readJson(path.join(DATA,'quality-report.json'));
-if(manifest.books.length!==50||new Set(manifest.books.map(b=>b.key)).size!==50)throw new Error('Expected exactly 50 unique books');
+if(manifest.books.length!==catalog.length||new Set(manifest.books.map(b=>b.key)).size!==catalog.length||catalog.some(c=>!manifest.books.some(b=>b.key===c.key)))throw new Error('Manifest does not match the batch catalogue');
 const results=[],rawChecked=new Set();
 for(const b of manifest.books){
   const errors=[],dataset=await readJson(inside(DATA,b.chapter_file));

@@ -1,0 +1,141 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%9C%89%E5%A3%BD%E5%A0%82%E6%96%B9%E6%A1%88%E9%81%B8%E5%AD%98/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "卷上",
+        "path": [
+          "卷上"
+        ]
+      },
+      {
+        "ordinal": 2,
+        "level": 2,
+        "title": "春溫",
+        "path": [
+          "卷上",
+          "春溫"
+        ]
+      },
+      {
+        "ordinal": 95,
+        "level": 2,
+        "title": "時癘濕溫",
+        "path": [
+          "卷上",
+          "時癘濕溫"
+        ]
+      },
+      {
+        "ordinal": 128,
+        "level": 2,
+        "title": "暑",
+        "path": [
+          "卷上",
+          "暑"
+        ]
+      },
+      {
+        "ordinal": 290,
+        "level": 2,
+        "title": "燥病",
+        "path": [
+          "卷上",
+          "燥病"
+        ]
+      },
+      {
+        "ordinal": 303,
+        "level": 2,
+        "title": "寒病",
+        "path": [
+          "卷上",
+          "寒病"
+        ]
+      },
+      {
+        "ordinal": 319,
+        "level": 2,
+        "title": "冬溫",
+        "path": [
+          "卷上",
+          "冬溫"
+        ]
+      },
+      {
+        "ordinal": 367,
+        "level": 2,
+        "title": "瘧疾",
+        "path": [
+          "卷上",
+          "瘧疾"
+        ]
+      },
+      {
+        "ordinal": 607,
+        "level": 1,
+        "title": "卷下",
+        "path": [
+          "卷下"
+        ]
+      },
+      {
+        "ordinal": 608,
+        "level": 2,
+        "title": "女科",
+        "path": [
+          "卷下",
+          "女科"
+        ]
+      },
+      {
+        "ordinal": 968,
+        "level": 2,
+        "title": "幼科",
+        "path": [
+          "卷下",
+          "幼科"
+        ]
+      },
+      {
+        "ordinal": 986,
+        "level": 2,
+        "title": "痘科",
+        "path": [
+          "卷下",
+          "痘科"
+        ]
+      },
+      {
+        "ordinal": 1125,
+        "level": 2,
+        "title": "痧疹",
+        "path": [
+          "卷下",
+          "痧疹"
+        ]
+      },
+      {
+        "ordinal": 1135,
+        "level": 2,
+        "title": "外科",
+        "path": [
+          "卷下",
+          "外科"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 14,
+      "paragraph_blocks": 1187,
+      "nonempty_paragraph_blocks": 1187,
+      "represented_paragraph_blocks": 1187
+    }
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E5%AF%B6%E8%A6%81/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "自序",
+        "path": [
+          "自序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "刻《千金寶要》序",
+        "path": [
+          "刻《千金寶要》序"
+        ]
+      },
+      {
+        "ordinal": 8,
+        "level": 1,
+        "title": "重刻《千金寶要》序",
+        "path": [
+          "重刻《千金寶要》序"
+        ]
+      },
+      {
+        "ordinal": 11,
+        "level": 1,
+        "title": "卷之一",
+        "path": [
+          "卷之一"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 2,
+        "title": "婦人第一",
+        "path": [
+          "卷之一",
+          "婦人第一"
+        ]
+      },
+      {
+        "ordinal": 46,
+        "level": 2,
+        "title": "小兒第二",
+        "path": [
+          "卷之一",
+          "小兒第二"
+        ]
+      },
+      {
+        "ordinal": 180,
+        "level": 2,
+        "title": "中毒第三",
+        "path": [
+          "卷之一",
+          "中毒第三"
+        ]
+      },
+      {
+        "ordinal": 246,
+        "level": 2,
+        "title": "飲食中毒第四",
+        "path": [
+          "卷之一",
+          "飲食中毒第四"
+        ]
+      },
+      {
+        "ordinal": 286,
+        "level": 1,
+        "title": "卷之二",
+        "path": [
+          "卷之二"
+        ]
+      },
+      {
+        "ordinal": 287,
+        "level": 2,
+        "title": "解百藥毒第五",
+        "path": [
+          "卷之二",
+          "解百藥毒第五"
+        ]
+      },
+      {
+        "ordinal": 323,
+        "level": 2,
+        "title": "蛇蠍毒等第六",
+        "path": [
+          "卷之二",
+          "蛇蠍毒等第六"
+        ]
+      },
+      {
+        "ordinal": 388,
+        "level": 2,
+        "title": "喉痹金瘡第七",
+        "path": [
+          "卷之二",
+          "喉痹金瘡第七"
+        ]
+      },
+      {
+        "ordinal": 441,
+        "level": 2,
+        "title": "瘡疽癰腫第八",
+        "path": [
+          "卷之二",
+          "瘡疽癰腫第八"
+        ]
+      },
+      {
+        "ordinal": 546,
+        "level": 1,
+        "title": "卷之三",
+        "path": [
+          "卷之三"
+        ]
+      },
+      {
+        "ordinal": 547,
+        "level": 2,
+        "title": "霍亂吐瀉第九",
+        "path": [
+          "卷之三",
+          "霍亂吐瀉第九"
+        ]
+      },
+      {
+        "ordinal": 584,
+        "level": 2,
+        "title": "虎犬馬傷第十",
+        "path": [
+          "卷之三",
+          "虎犬馬傷第十"
+        ]
+      },
+      {
+        "ordinal": 606,
+        "level": 2,
+        "title": "舌耳心目等大小便第十一",
+        "path": [
+          "卷之三",
+          "舌耳心目等大小便第十一"
+        ]
+      },
+      {
+        "ordinal": 702,
+        "level": 2,
+        "title": "中風大風水氣第十二",
+        "path": [
+          "卷之三",
+          "中風大風水氣第十二"
+        ]
+      },
+      {
+        "ordinal": 772,
+        "level": 1,
+        "title": "卷之四",
+        "path": [
+          "卷之四"
+        ]
+      },
+      {
+        "ordinal": 773,
+        "level": 2,
+        "title": "瘧痢症等第十三",
+        "path": [
+          "卷之四",
+          "瘧痢症等第十三"
+        ]
+      },
+      {
+        "ordinal": 803,
+        "level": 2,
+        "title": "頭風吐逆第十四",
+        "path": [
+          "卷之四",
+          "頭風吐逆第十四"
+        ]
+      },
+      {
+        "ordinal": 842,
+        "level": 1,
+        "title": "卷之五",
+        "path": [
+          "卷之五"
+        ]
+      },
+      {
+        "ordinal": 843,
+        "level": 2,
+        "title": "疫瘴渴淋第十五",
+        "path": [
+          "卷之五",
+          "疫瘴渴淋第十五"
+        ]
+      },
+      {
+        "ordinal": 911,
+        "level": 2,
+        "title": "頭面手足瘰癧瘡漏第十六",
+        "path": [
+          "卷之五",
+          "頭面手足瘰癧瘡漏第十六"
+        ]
+      },
+      {
+        "ordinal": 1024,
+        "level": 2,
+        "title": "痔第十七",
+        "path": [
+          "卷之五",
+          "痔第十七"
+        ]
+      },
+      {
+        "ordinal": 1044,
+        "level": 1,
+        "title": "卷之六",
+        "path": [
+          "卷之六"
+        ]
+      },
+      {
+        "ordinal": 1175,
+        "level": 2,
+        "title": "耆婆萬病丸",
+        "path": [
+          "卷之六",
+          "耆婆萬病丸"
+        ]
+      },
+      {
+        "ordinal": 1180,
+        "level": 2,
+        "title": "仙人玉壺丸",
+        "path": [
+          "卷之六",
+          "仙人玉壺丸"
+        ]
+      },
+      {
+        "ordinal": 1185,
+        "level": 2,
+        "title": "千金須知",
+        "path": [
+          "卷之六",
+          "千金須知"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "ff6d3433afa88b698b431668",
+        "title": "舌耳心目等大小便第十一",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "又方：桃葉火熨，卷之□塞耳立出。"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 29,
+      "paragraph_blocks": 1205,
+      "nonempty_paragraph_blocks": 1205,
+      "represented_paragraph_blocks": 1205
+    }
+  }
+]

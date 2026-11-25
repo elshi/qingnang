@@ -12,6 +12,7 @@
   "dependencies": {
     "cheerio": "1.2.0",
     "mysql2": "3.24.6",
-    "opencc-js": "1.4.2"
+    "opencc-js": "1.4.2",
+    "pinyin-pro": "3.29.5"
   }
 }

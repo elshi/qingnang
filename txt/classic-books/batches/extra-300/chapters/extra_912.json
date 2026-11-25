@@ -1,0 +1,1406 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_912",
+    "name": "白喉条辨",
+    "summary": "《白喉条辨》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“辨病源第一”、“辨经络第二”、“辨色第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "陈葆善",
+    "jp": "BHTB",
+    "aliases": [
+      "白喉條辨"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "ce183f9606a9e3cf2f68be3c",
+      "title": "序",
+      "volume": null,
+      "content": "六气感人。以燥证为难明。燥气发病。以白喉为最险。险而难则病不择医。医不识病。遘辄遭夭。死亡接踵。而生人之祸亟矣。其病则在于医不读书。与读而未会其通。素问阴阳应象大论生气通天论均脱秋伤于燥一节。而秋燥之病变始隐。国朝嘉言喻氏。自南沈氏。始各以其独得之见。著为方论。吴氏鞠通融会其说。节以入书。于是燥证始略有门径可循。然于白喉犹未之及。吾友陈栗庵院医之良也。癸巳春阖门患白喉者四人。长女最剧。时就余与何君志石参议方剂。书中所定三炁降龙丹等皆新制验方也。嗣以爱子不起。尽发院中藏书。穷究旨要。始悟白喉一证。悉属燥火。因作订正论一卷乞鉴定。余谓医以切实适用为要。不必惑于近人体例之说。可仍仿吴氏例。改为条辨。删削未果。会学堂开办医报。随期课书。栗庵羸而善病。因嘱女夫其高弟胡鑫就原稿诠次成书。随报刊行。虽条仅十五。而纲举目张。犁然各当。不仅为白喉家正法眼藏。而一切喉科病变方法悉寓焉。三折肱。九折臂。不綦信欤。自来论秋燥者。无虑十数家。似以吴氏为较长。然于义例则亦尚未周。其言曰。燥气为病。轻则为燥。重则为寒。化气为湿。复气为火。则实不根之言。窒而鲜通。夫天有六气。而火分君相。故经但言寒暑燥湿风五气。应时布令。则为平气。本不为病。其病者胜气也。如燥气盛行则扰动四气。何言之。行于所生则气感而为湿。行其所生则气泄而为寒。行其所胜则气化而为风。行所不胜则气伏而为火。推之六气。皆同斯例。盖金胜则木受制而风证起。如内经所称岁金太过。肝木受邪。两胁满且痛引少腹。及阳明司天。肝气上从。掉振鼓栗。筋痿不能久立。丈夫癫疝等证。皆燥而化风也。即吴氏亦有燥金司令。头疼身寒热。胸胁痛。甚则疝瘕痛者。桂枝柴胡各半汤加味主之之文。乃于化气。独不知有风。是仅知六气之当补燥气。不及悟燥气之尚能化风。顾指失臂。六气终于不全。一间未达。则亦九仞之井类也。昔宋孙兆校正内经。正谬讹者六千余字。增注义者二千余条。而秋伤于湿。不复悟有脱简。将贯穿错综会通。仍待之其人欤。呜呼。斯道沉薶埋。垂四千年矣。秋燥之论。至本朝而始有定说。白喉之源。至吾院而始有专书。何其幸也。栗庵开悟迈其曹。医院初创。首先毕业。书成远近仿治。多所全活。因乐为弁其简端。遂纵论燥证传变。微特箴砭吴氏。使成全璧。且亦用以广吾同院之意。使知燥气明则六淫可推。六淫清则百病可治。仅秋燥白喉云乎哉。举一反三。贵会其通。是在世之善读是编者。\n时光绪二十四年岁次著雍阉茂律中仲吕东瓯陈虬志三书于天津紫竹林。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "序"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "9940bbca6eedefa184c6bc83559397d4de36c46e33a4f6b0ef1fed273f402caa",
+      "content_sha256": "89988098dd577ba5271374e6b8df1dfc232e1d64b7943a51b2f738558ee3f32e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1014,
+        "simplified_codepoints": 1014
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "852d4a255c990628a920116c",
+      "title": "自序",
+      "volume": null,
+      "content": "白喉险症也。灵素以来。未详著录。国朝道光间湖南陈氏雨春始著白喉咙证论。（见白喉捷要常叙）其乡人浏阳张善吾绍修本其意作白喉捷要。大旨言足三阴受病。传之于肺。已失白喉本来面目。而用药又不出风火喉痹之范围。与手太阴燥火了无关涉。郑氏梅涧所著重楼玉钥。言此症或遇燥气流行而发。用药以清肺养阴为主。颇为中的。然语焉不详。得失参半。似未能洞彻源流者。（如既言或遇燥气流行而发又言此症在少阴一经热邪伏其间盗肺金之母气云云用药既以养阴清肺为主又言只宜紫正散夫紫正散之荆芥防风荆皮细辛与养阴清肺汤之冬地白芍丹皮奚啻冰炭何郑氏竟相提并论也）光绪戊子京师是症大发。有耐修子者。以戚串中多遭其厄。悉心讲求。托之神道。采二家之言。著白喉治法忌表抉微。选择颇为简要。然此君非素业岐黄之术者。于受病之源流经络。用药之色味气性。茫无真知灼见。故语多不根。尤不足以津逮后学。癸巳春余及二女一子于数日间次第传染。（壬辰秋冬之交天久不雨燥气盛行冬至后大霜雪寻常湖溆冰厚寸许瓯郡地气极暖不见此气候者已六七十年至立春后雨水骤至是症辄大发闻郡城医者多以辛温表散从事小儿遭厄者甚伙）长女以张氏法治之。几至不起。幸以大辛凉合甘咸寒法日进三大剂获效。（张氏所列无治之症十一条已居其八）次女少子遂悉用养阴法。次女愈而少子夭。此中疑团。几不可破。甲午秋季少女（时才周岁）患伏暑病。身热痉厥。痰嗽而喘。投以清热化痰。通络息风剂。痉厥愈而诸症不减。至日晡时痰喘愈甚。与白喉病将绝时形象。宛然无异。急用前方加入西洋参石膏大辛凉法与之。痰喘顿止。而身热亦愈。始恍然于白喉病之标本传变。从前医治之或得或失。一一了如指掌。且深悉张氏郑氏耐修氏三先生之书。虽各有心得。实未能穷极源流也。于是潜心探索。汇集众长。证以经谊。参以阅历。迟之数年。作白喉订正论一卷。呈政于蛰庐主讲。主讲曰。是论虽详。然头绪繁多。篇幅长冗。恐阅者未易贯彻。盍仿吴鞠通氏著温病例为白喉条辨。庶几纲举目张。作者既易于发明。阅者复易于寻绎。余曰。善。退而作条辨一十五条。稿既脱。因为叙其大旨。虽当仁不让。于张氏郑氏耐修氏三先生之言。间多指摘。然非三先生开先河之功。余亦安能遽集其成也。后有作者。倘能阐发微旨。匡兹不逮。岂特余与三先生之幸。抑天下生灵有厚望焉。\n光绪二十三年岁丁酉夏月",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "自序"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "6cc26d28d110845fa5dde238d8eb4cf0cdb2694dcc73999835959910e529d119",
+      "content_sha256": "18952ec702d9ac70d05dccd43f64075d806edf15019d191ccb234d73e0671066",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        5,
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 941,
+        "simplified_codepoints": 941
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "074eaaf83f6946486a5b6401",
+      "title": "辨病源第一",
+      "volume": null,
+      "content": "阳明燥令司天之年。或秋冬之交。天久不雨。燥气盛行。邪客于肺。伏而化火。至初春雨水骤至。春寒外加。（夏至后发者更重）少阳相火。不能遂其条达之机。遂挟少阴君火。循经络而上与所伏之燥火。互相冲激。猝乘咽喉清窍而出。或发白块。或白点。名曰白喉。互相传染。大人易治。小儿难治。\n时疫喉症。不外外感六淫为病。六淫者即经所谓风寒燥湿暑火六气是也。历考古人喉科方论。言风火者固多。言寒湿者亦颇不乏。独未有专言燥气为病者。盖内经脱秋伤于燥一条。后人遂有燥气不为病之说。至沈自南喻嘉言始各有所得。各出方论。沈氏以化气为湿为主。故立方偏于苦辛微温。喻氏以复气为火为主。故立方偏于辛凉甘寒。赖吴鞠通氏有燥气为病。轻则为燥。重则为寒。化气为湿。复气为火数语。而燥气发病之理始著。后之治燥气者。亦有门径可入。（欲治白喉者非先读沈喻吴三先生之书恐终无从下手）此症之发。必于燥气盛行之年。且见症经脉传变治法。无一不与燥火二字吻合。故知病属燥气无疑。（详观后辨自明）唯间多挟少阳相火少阴君火而发。不得不兼治耳。郑氏梅涧虽言此症或遇燥气流行而发。而支离庞杂。尚非真能探及源头者。至张氏漫言火热。（喉症属火热者比比皆是）耐修氏言肺之灼。由于胃之热。胃之热。实由于肠之寒。模糊影响。全无确见。更不足辨矣。大人小儿治法本同。何分难易。实以小儿在五六龄以内者。未识人事。看验服药。处处不能如法。故治之较难也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "辨病源第一"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "875838dffdba45be2a922a740d6820781bc68055106e3ad231eee7f4ace858eb",
+      "content_sha256": "bb79999ad56822a8069c270d2d22e1080670c3112458dbc1175bd3f481a21860",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 582,
+        "simplified_codepoints": 582
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "cc508d5083bf180bdd1fcb57",
+      "title": "辨经络第二",
+      "volume": null,
+      "content": "素问阴阳别论篇曰。一阴一阳结谓之喉痹。一阴指少阴。一阳指少阳。少阳主相火。少阴主君火。故凡一切风火喉痹。莫不揭重二经主治。而白喉则独以手太阴为本。以二经为标。盖二经为病。主风火。而太阴为病。主燥气。其有传及他经者。皆非白喉本有之症。或因循不治。与治不得法。火毒漫延。累及他经也。知其所在。以法治之。\n张氏绍修曰。此症当作足三阴受病传至于肺。且引十二经脉足太阴之脉上膈挟咽连舌本散舌下。足少阴之脉循喉咙挟舌本。足厥阴之脉循喉咙之上入颃颡下络舌本为证。不知十二经之脉。除足太阳外。其余十一经。皆内循喉咙。不独足三阴也。且既言足三阴受病。必有足三阴见症。今内经伤寒具在。可复按也。足厥阴为肝。素问刺热篇曰。肝热病者。小便先黄。腹痛多卧。身热。热争则狂言及惊。胁满疼。手足躁。不得安卧。而伤寒论厥阴篇提纲。亦言厥阴之为病。消渴气上撞心。心中疼热。饥而不欲食。食则吐蛔。今白喉初起。有是候乎。足少阴为肾。刺热篇曰。肾热病者。先腰痛胻酸。苦渴数饮。身热。热争则项痛而强。胻寒且酸。足下热。不欲言。其逆则头痛员员澹澹然。而伤寒论足少阴篇提纲。亦言少阴之为病。脉微细。但欲寐。今白喉初起。又有是候乎。足太阴为脾。刺热篇曰。脾热病者。先头重。颊痛烦心。颜青欲呕。身热。热争则腰痛不可用俯仰。腹满泄。两颔痛。而伤寒论足太阴篇提纲。亦言足太阴之为病。腹满而吐。食不下。自利益甚。时腹自痛。今白喉初起。又有是症乎。既无是症。其不得妄指为足三阴明矣。唯刺热篇肺热病一条。所列之候。与白喉初起。一一吻合。（详下症治第一条）而一阴一阳结为喉痹。亦为古来治喉家所自祖。圣训昭然。不知征引。反凭虚悬揣。以毫无关涉之足三阴当之。或泛言肺肾。或言胃热肠寒。愈去愈远。甚矣著书之难也。此症于初起时认明三经脉候。有无兼症。对病用药。未有不应手奏效者。即已误治。传及他经。亦须细心察验。确知何经见症。治以何经之药。未必不可斡旋也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "辨經絡第二"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "522a272d1daa9404c3690eea20f7772bc84eae5b442e3f71bb98f3fb3ae40dc2",
+      "content_sha256": "a98cdf592fcff0f574303fda7202e77fb9718dcaf1d520e7b65a65122013e8e1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        11,
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 793,
+        "simplified_codepoints": 793
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "253382cc1f197b4b6aefaf60",
+      "title": "辨色第三",
+      "volume": null,
+      "content": "时疫喉病。喉间必红肿。甚则紫。而此症则独发白。或点或片或块。色如鸡脂。或发热后数日始见。或顷刻满喉。病势虽有轻重之不同。其为手太阴燥火则一。服药后转为微黄色者。病将已也。其间有红肿者。以挟少阳相火少阴君火也。紫则火势剧而成毒矣。\n张绍修曰。此症热症多。寒症少。（善按果系时疫白喉必无寒症）有以色白为寒者。不知此症初发于肺。肺属金。其色白。为五脏六腑之华盖。处至高之位。毒气自下熏蒸而上。（二语未确）肺病日深。故本色日著云云。恰与内经肺热病者。色白而毛败。又肺风之状。色皏然白数语相发明。鄙意更有进者。肺色既白。而所伤之病又为燥。燥气属金。金为西方白虎。其色亦白。故他经热喉病不发白。而此独发白也。其间有红紫者。则挟君相二火矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "辨色第三"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "8e8f4e3391b311d9c33532c5e3aba1da1bf802883530888a5c1a3a70f63e34ec",
+      "content_sha256": "6245ce9d609b5a70e9ebdf162da09f18c2fc4b32ba366cae7af99a73b1d5de9a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        14,
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 313,
+        "simplified_codepoints": 313
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "5deb8dfb98c2f2dbf77003bc",
+      "title": "辨脉第四",
+      "volume": null,
+      "content": "白喉病初起。余脉如平。但右寸微数而涩或沉数者。手太阴伏邪本病也。其浮数或紧者。挟有外感时邪也。左寸关动数者。少阳相火少阴君火并病也。洪滑者。火郁而成痰也。延之日久。或经误治。两手脉滑数甚。按之搏指者。火势剧也。洪大无力。按之芤或散大者。阴涸已极也。\n张绍修曰。凡病此者两关及左尺脉多沉数而躁。其意专指足三阴受病而言。以余所验。颇觉不然。唯不肿不红。咽干无痰。手太阴燥火自病者。右寸必微数而涩。红肿且痛。初起即痰涎多。挟有少阳少阴风火者。左寸关必动数。其他病脉。皆误治后始见。初起时未必尽具也。\n凡治内伤病。必先脉而后症。至六淫必脉症参合。方有把握。甚有舍脉从症者。（如伏脉与绝脉实难区别参之于症便易分晓）若专恃察脉。最易致误。此实阅历以来。屡试屡验。非欺人也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "辨脈第四"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "ae3071a90eac63cb3fd7105451d4eab8c781a672bdff8767332268750b8f7fac",
+      "content_sha256": "6584bf01bf9a0a73a4cb6d31db061171fa498517b5d524f124064b749ca147f1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        17,
+        18,
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 330,
+        "simplified_codepoints": 330
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "a7989d608b5a1834ca8aaed8",
+      "title": "辨手太阴本病症治第五",
+      "volume": null,
+      "content": "白喉病初起。头痛身寒热。右寸脉微数而涩。咽燥无痰。喉间发白。或咳或不咳。或痛或不痛。但介介如梗状。饮食如常。此手太阴肺经燥气本病。加减喻氏清燥救肺汤主之。右寸脉浮恶风寒甚者。挟有外感时邪也。前方略加辛凉药。如春则薄荷。夏则荷叶扁豆花之类。或已误治。咽燥舌干。甚或绛者。郑氏养阴清肺汤亦可用。\n素问刺热篇曰。肺热病者。先淅然厥起毫毛。恶风寒。舌上苔黄。身热。热争则喘咳。痛走胸膺背。不得太息。头痛不堪。此症自始至终。与经旨一一吻合。故决为肺经本病。主以加减喻氏清燥救肺汤。以此方实燥气化火之祖。方中西洋参色白味苦性凉。有清无补。（他参如高丽东洋潞党及吉林参之类断不可用恐其太补肺气痰喘立至也）石膏色白气辛味甘性寒。二味为清手太阴经燥火专门之药。复以麦冬则清中有滋矣。臣以桑杏甘草。则辛寒而合苦甘矣。与内经燥淫于内。治以辛寒。佐以苦甘语恰合。（此症往往遇外感时邪而发有桑杏便无引邪入里之弊且性味清降较薄荷荷叶等味尤为易用）至枇叶花露金汁不过佐使之药。借以清热解毒。且疏通经隧。不致留邪入络。遗患将来也。平素痰多。或服药胃中觉寒。可加入蒌贝橘枳等味者。以药在对病。既有是症。即可用是药。古人方中往往大开大阖。寒热温凉并用。如仲师之大青龙麻杏甘石等汤是也。（曩谓仲师二汤恰是治燥气之祖方盖化气为湿麻桂可以散之复气为火甘石可以清之极为合拍如白喉病发于秋冬之交重感外寒者似可先用麻杏甘石一二剂唯不可用青龙耳）其仍用郑氏养阴清肺汤者。以既经误治。肺阴受伤。并及营血。非冬地丹芍实难奏效。然鄙意须加入西洋参石膏本经药。方为至善。\n此症轻者饮食如常。初无痛苦。稍延至旬日。而转为痰喘身热者。若初起时妄用张氏方之粉葛马勃僵蚕等味。或以水麝等药吹喉。未有不转轻为重者。余大小女恰犯此弊。本春三月余友蔡拔萃逸仲曾患此。以婚期在迩。（约三五日之内）颇著急。余曰无患也。以此方略加减与之。日再服。二日内全痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "辨手太陰本病症治第五"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "35edf9b22da6ba12e5b2c2d4835de75ff781f16b1667438826f8d17ec9cbdc2e",
+      "content_sha256": "611d82e446daed3066aa4fd2faf5513ff46a084b4a961f227bb9f9552efbd31c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        21,
+        22,
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 790,
+        "simplified_codepoints": 790
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "1225dc0305e1698b0ea1f908",
+      "title": "加减喻氏清燥救肺汤",
+      "volume": "辨手太阴本病症治第五",
+      "content": "西洋参（宜入煎） 生石膏（杵碎布包） 大麦冬（去心开用） 生粉草（切片） 苦杏仁（去皮尖杵） 冬桑叶（生用） 枇杷叶（刷去毛生用露更佳） 金银花露（分冲） 金汁（宜取真者分冲）\n上共九味。不务定分两者。以病有轻重。宜临时斟酌也。如法用清水煎二沸。去渣冲入花露金汁。分二次温服。日再剂。甚则三。如平素痰湿重。或服药数剂后。觉胃中微有寒意。勿怪。当守服。唯量加入娄贝枳橘半夏旋覆等味。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "辨手太陰本病症治第五",
+        "加減喻氏清燥救肺湯"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "c3ec5352a571e9203ed8dd0845e8ed2a90047917238b8a68116a402e4efc5543",
+      "content_sha256": "488474d3f618332aaa0d333762fe95f160d8d069d01556fe65847d24ce7e61f7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        25,
+        26
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 190,
+        "simplified_codepoints": 190
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "4dbd178062cdf9579cb42767",
+      "title": "郑梅涧先生养阴清肺汤",
+      "volume": "辨手太阴本病症治第五",
+      "content": "麦冬（一钱二分） 湖丹皮（八分） 生甘草（五分） 贝母（八分） 大生地（二钱） 生白芍（八分）\n原注体虚加熟地或生熟并用。热甚加连轺。去白芍。燥甚加天冬茯苓。（按此味未妥）如有内热及发热者。亦不必表药。照前方治之。其热自退。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 27,
+      "source_path": [
+        "辨手太陰本病症治第五",
+        "鄭梅澗先生養陰清肺湯"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "8f94559cbc339a53a9e0bbadb6e9f35e39e764f91dd3b6668d1fb848c5908858",
+      "content_sha256": "343af9498f0abf25655ed7e9dd6242f596f04ffa20d052d92448932d6abedd65",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        28,
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "76b8822e554f9bcafb5be566",
+      "title": "辨手少阳标病第六",
+      "volume": null,
+      "content": "白喉病症如前。喉间红肿而痛。甚则颈项亦肿。初起辄多痰涎。此太阴燥火挟有少阳相火也。白虎青龙汤主之。间用青黄散。不时吹入喉间。以消肿去涎。若轻者可用张氏神功辟邪散去葛根青果马勃僵蚕。此太阴燥火挟少阳相火为病也。发白虽为肺经伏火。亦往往挟少阳风热而发。经言一阳之脉。本主手少阳三焦而言。独本篇少气善咳之条。王注谓通主胆及三焦。是三焦与胆同司相火。其病故每相牵涉。唯胆火之动。中必挟风。胆者寄位于肝。火炽而风未尝不动也。此条正属风火交煽。循经络而上与外感时邪相搏。不得骤发。郁于喉间而成红肿。甚则连颈项亦肿。火热上逼。其势有升而无降。则痰涎遂从上行。此皆少阳标病。故治法须参苦泄。唯处处护防燥火。不致治标而碍本。方为合度。白虎青龙汤以石膏为君。仍重本病。佐以本通板蓝。直降少阳。银花连翘。善解上焦之结热。蝉蜕桑叶。兼清风热而下行。贝母降气逆能消痰。冬地保肺液而润燥。牛蒡泄少阳蕴酿之热。青芩达三焦越上之邪。故二味皆在不忌。此为少阳太阴通治法也。势既陡发。痰肿则消肿豁痰吹喉之法。亦不可缓。唯不得辄加苦燥。若轻者风热既浅。标病自轻。即加减神功辟邪散。亦足中病。虽无石膏凉入本经。而冬地甘寒。已得润燥。唯葛根温升阳明。青果酸敛厥阴。寻常温热。已在所忌。况燥气膹郁乎。马勃僵蚕皆能助燥。故并去之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "辨手少陽標病第六"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "5436341704507ea8b14dc21d2a9146f1f24cf747b1c205182aab59aa2d9f886b",
+      "content_sha256": "ffd0525965ab7099c1c2e5e1a504b4840dca14c494d7ff105e6a22bff6a6f02e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 542,
+        "simplified_codepoints": 542
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "fe3d6151a2ccf490b19b767b",
+      "title": "白虎青龙汤",
+      "volume": "辨手少阳标病第六",
+      "content": "生石膏 木通 贝母（去心杵） 桑叶（生用） 连翘 牛蒡子（生用杵） 板蓝根 银花 蝉蜕（去足翅） 麦冬（去心） 生地 鼠尾青芩\n上药十二味。清水煎。二服。日再剂。或三。太阴本病盛。少阳标症轻者。去黄芩牛蒡子。加西洋参。倍石膏地冬。标症独盛者。以黄芩易龙胆草。痰涎壅盛者。仍用牛蒡子。或冲入鲜莱菔汁牛黄。减冬地加杏仁旋覆蒌皮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "辨手少陽標病第六",
+        "白虎青龍湯"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "4ccb6114f2f1ee3cf1274b101c0e6a09c2ced4178064472a7b68d535a41a4137",
+      "content_sha256": "d45bae4c4474561319d1cc781658b58a198e582c6e9e7b4977027c804c8e37e3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        33,
+        34
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 162,
+        "simplified_codepoints": 162
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "0942283ac1afa0e487966991",
+      "title": "吹喉青黄散",
+      "volume": "辨手少阳标病第六",
+      "content": "飞青黛 西牛黄 老式大坭冰（少许新式者切不可用） 西瓜霜 西月石 濂珠\n上药研极细。用竹管吹入。若咽燥者用上白蜜调敷。或鲜嫩侧柏叶捣汁调亦可。燥甚者不得用吹喉法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 35,
+      "source_path": [
+        "辨手少陽標病第六",
+        "吹喉青黃散"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "0798580474771062894a13285ea89f906c0e63b8b58af5b902903fe6f7d35626",
+      "content_sha256": "130388e54ae20cebd1cc2a587f8e0e55f049748b68c511d8202d8a34345e989f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        36,
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 81,
+        "simplified_codepoints": 81
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "bb1f03578c5d4e7063717ff1",
+      "title": "加减张氏神功辟邪散",
+      "volume": "辨手少阳标病第六",
+      "content": "生地 贝母 麦冬（去心用） 鼠尾青芩 连翘甲 木通 银花 蝉蜕（去翅足） 牛蒡子（生用杵）\n上药九味。水五杯煎取三杯。分二次温服。日再剂。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 38,
+      "source_path": [
+        "辨手少陽標病第六",
+        "加減張氏神功辟邪散"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "e03131ce14ea4876c9556d0121e9306ef606e7d67ce89f784d22e8922d1258c0",
+      "content_sha256": "187340473fcbb6fc04fc3527dffecef2a0741134e0f81b816ab01f8a9ddacd5e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        39,
+        40
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 69,
+        "simplified_codepoints": 69
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "66c1deef1a0cfed619fa7918",
+      "title": "辨手少阴标病第七",
+      "volume": null,
+      "content": "白喉病症如前。初起心烦。舌根微硬尖绛者。此太阴燥火。挟有少阴君火也。朱白双清散主之。轻者张氏神功辟邪散去葛根僵蚕黄芩马勃蝉蜕青果。加紫地丁竹叶生栀仁灯心草。\n此太阴燥火挟少阴君火为病也。心肺同居上焦。去喉咙最近。肺金不肃。燥气不行。首先犯心。心为火脏。切近肺位。君火一沸。肺先受之。故寻常温热。最易传变。况当燥火互相冲激耶。心烦者内热自盛也。少阴之脉循喉咙络舌本。燥火炽而心营灼。故舌根微硬。甚则尖绛。朱白双清散重泻少阴独胜之热。与上条少阳标病对峙。盖此二证。实白喉中最多之候。亟宜留意。上条以少阳立论。故黄芩龙胆。治法不忌苦泄。此条参重少阴。故黄柏木通。专藉苦降。连翘栀子。清包络之内蕴。桑叶杏仁。宣肺金之结热。元参泻心火以清营。地丁解蕴酿之热毒。二味尤为少阴清热凉血之要药。唯处处不没燥火本病。故二方皆以石膏为君。而不出冬地。若轻者火势既微。即润燥清热。已中窍要。无事重用苦寒以助燥。即神功辟邪散加减用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 41,
+      "source_path": [
+        "辨手少陰標病第七"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "9a3d59f70f64c6afa7c4e6601722007b2f4af3718b499b8c244c9ac4c219529a",
+      "content_sha256": "97360a3e3ca4501bca4f0b888e81f54f3aaeb51ed2bc39dab5ba1ca9e1d0dfd0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        42,
+        43
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 405,
+        "simplified_codepoints": 405
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "9c7cefd44390c9acf0457b08",
+      "title": "朱白双清散",
+      "volume": "辨手少阴标病第七",
+      "content": "生石膏 黄柏 麦冬（去心用） 生栀子 生地 紫花地丁 连翘甲 木通 杏仁（去皮尖杵） 润元参 桑叶\n上药十一味。水五杯。煎取三杯。分二次温服。日再剂或三。若燥甚阴涸。急宜保液。加西洋参犀角。倍冬地元参。火势剧喉肿且紫者。急加凉血解火毒之药。如紫草丹皮金汁。痰涎壅盛者。加牛黄。或间用青黄散。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "辨手少陰標病第七",
+        "朱白雙清散"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "04fa899fee87b50ab43af22bceaf6ad16f2c08b44f4ef94b182b031b46794806",
+      "content_sha256": "4dc2e835b3bb67c8a6dff774c27ab399e03af28ac714baf2cc1f54aa135c786c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        45,
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "8908700bf1163a231c87bfe0",
+      "title": "加减神功辟邪散",
+      "volume": "辨手少阴标病第七",
+      "content": "生地 连翘甲 牛蒡子（生用杵） 麦冬（去心用） 淡竹叶 木通 贝母 生栀仁 紫花地丁 金银花 灯心草\n上药十味。水五杯。煎取三杯。沥去渣。分二次温服。日再剂。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "辨手少陰標病第七",
+        "加減神功辟邪散"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "95957e6907987cd89d502a422878fe0b8ba2f5a801d3942a2157f1e0ff071dcd",
+      "content_sha256": "f3fe211565dd01a04b4b2211130f3181cc34ad62483b72e574e5f0f3c2e0cf82",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        48,
+        49
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 79,
+        "simplified_codepoints": 79
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "e5173716f999d3a0a8c1db3b",
+      "title": "辨三经标本并病第八",
+      "volume": null,
+      "content": "白喉病以上三经悉见者。随证轻重。参用三经药治之。若火毒盛极。喉间紫胀。甚则项背俱肿。危在顷刻者。急宜于红肿处用刀针刺破。出恶血以杀其势。或用吹喉法。三经指太阴少阳少阴而言也。标本发病。各有轻重。随证治之。法无不愈。然有三经并病。太阴少阳少阴之候俱见者。亦各视其势之轻重。按法施治。若少阳标证独甚。即重用少阳之药。少阴标证独甚。即重用少阴之药。参观前后。心法自明。若火势太盛。有非药石所及者。急用刀针。夫白喉本忌刀针。前人往往垂诚。今言可刺。盖亦有至理在焉。若不红不肿不痛。咽干无痰。全系太阴燥火者。肺阴必已受伤。其间全赖一点阴血。为自保之地。今又刺破。不败何待。若挟少阳少阴标症实火太盛。郁于喉间而成红紫。甚则肿及项背。其来势之急。顷刻毙命。岂可不急刺出恶血以泄其气。然亦指异常重症而论。不得已而用之。非常法也。至于发白处仍不可犯。医者慎之。曩尝闻耐修氏言其戚汪姓之女及婢。相继患此。鉴于甲医之失。不敢服药。令老妪挖去白磈。出涎血斗许而愈。一月后汪自继病。亦用其法而病不减。自言几不解其何理。遂委之于体质之强弱。命数之否泰。此语窃尝疑之。后闻医友薛云如曾言其妻于丙申秋患此。用刀针刺破红肿处寻愈。及本年林友之女亦病此。喉间红肿非常。肩背胸项等处俱红肿。鼻中出血。余言此症必须用刀针。仅服药无效。其家守邑医之言。不敢破。后至数日。吐恶血数碗而毙。始恍然于汪姓女婢之症及薛友之妻。均系少阳少阴之标病。风火之势急。故得破而愈。汪君专系太阴燥火本病。破之非徒无益。必又速祸。此中源流甚微。安可不悉心考究。穷极其只细。徒以命数杳缈之谈以卸责。恐未尽格物穷理之功矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 50,
+      "source_path": [
+        "辨三經標本並病第八"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "dce918aa4b1f165b95c061b8b944d1054c819b8a8a38ff7f7ebcd2f9712bdd4f",
+      "content_sha256": "ab4a0f2295c8412a2d74ee17d9854d1d1883e48f99556f83a975cc5782450380",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 677,
+        "simplified_codepoints": 677
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "64ca0a750cbcc2e4c7cc982c",
+      "title": "辨救误上第九",
+      "volume": null,
+      "content": "手太阴本病。症如前。初起咽燥无痰。七八日后忽痰声漉漉。甚则喘促心烦。此必误治或迁延日久。肺火炽盛。引水自救。吸聚五液而为痰。急用三炁降龙丹主之。忌一切苦燥化痰药。如牛黄胆星娄贝等味。尤不可用冰麝吹喉药以助燥。初起即多痰涎。挟有风火者。不在此例。\n此为白喉极重之候。人但知痰声漉漉。乞灵于胆星牛黄。喘促不宁。取效于娄贝葶苈。一试不验。且重用之。卒至痰喘愈甚。束手无策。遂委之于病不可为。不知此证纯系太阴燥火炽盛。肺液涸极。势若燎原。吸聚周身阴液以自救。于是龙雷之火。随肾水而上逆。遂驱一切阴浊。壅于喉咙之间。悉化为痰。此痰实系阴火冲激而成。故非大清凉合甘咸寒大剂。不能下降。三炁降龙丹导龙归海之药也。龟板牡蛎真珠母得至静之精。介以潜阳。故名三炁。冬地西洋参专保肺汁。阿胶白芍兼导龙雷。石膏直清燥火。坠一切之热痰。犀角通利喉咙。载诸药以下行。旋覆竹茹用以代水。使重而不滞。尤能疏通经隧。盖此症为白喉。或经误治。或迁延日久必有之病。不明治法。最足误事。余长女曾病此。咽干音哑。喘促心烦。痰声漉漉如潮。大便泄。张氏所列不治之候。已居其八。竟以此方日服三剂获效。一剂而大便止。喘促稍安。再剂而痰声如失。世医不知本源。每逢痰喘。悉以牛黄胆星为主。不知二味为足厥阴少阳消痰火专门之药。与此症风马无关。且苦能助燥。并在所忌。其他娄贝葶苈辛燥。更不可问矣。若初起即多痰涎。挟有少阳少阴风火标病。则消痰降火门法自在。阴药不可乱投。此中窍会。亟宜领取。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "辨救誤上第九"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "548f846eb48f90ea755c0b156b0c655774471d857c50c6773efdb99747e3c627",
+      "content_sha256": "40640433a80319392db94aebd8f4f9a06f21cb5a449ddbcd8bdc30765c2ebf51",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        53,
+        54
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 615,
+        "simplified_codepoints": 615
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "e5230f1b9b3edda492f4afe6",
+      "title": "三炁降龙丹",
+      "volume": "辨救误上第九",
+      "content": "西洋参 生石膏 海浮石 牡蛎（生用） 阿胶（或用燕窝） 白芍 生地黄 败龟板 珍珠母 麦冬（去心） 犀角\n上药十一味。以旋覆花荆竹茹先煎代水。服时冲入荆竹沥鲜莱菔汁。如痰涎壅盛。药不得下。加入白苏子另煎冲入。待药得下。即宜撤去。甚则微滴生姜汁数点为引。小儿数龄以内。用药虽当酌量。然亦不可过轻。轻则不得沉降之性。转足以助痰矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 55,
+      "source_path": [
+        "辨救誤上第九",
+        "三炁降龍丹"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "f9a8a38ab96f18cf011ef2f5ffdfa62cee4f3316edc36b81c4b6dc024c305297",
+      "content_sha256": "cba234dbf6b8805118bcfcc89d91da036191751d4ac2108bd6dfdbb1fc2d52cb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        56,
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 163,
+        "simplified_codepoints": 163
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "0de9a0941eaf610b75b15d87",
+      "title": "辨救误下第十",
+      "volume": null,
+      "content": "白喉病或经误治。始终在手太阴者。治以上法。其或累及他经。当细审病证。循经用药。不可遽辞坏病。模糊施治。误人性命。\n白喉为肺金燥火本病。肺为华盖。为百脉之宗。肺气病最易传染各经脉。而白喉亦然。若始终在手太阴本病。治以上法。其有累及他经。当细别源流。循经用药。兹将十二经传变病候。用药关键。略表途径于下。假如三经本症未罢。热邪陷入厥阴。四肢掣动或痉厥者。急宜通络息风。于三经本方加羚羊角牛黄鲜地龙丝瓜络忍冬藤。其陷入足少阴。但欲寐。腰疼身热数饮者。宜于滋阴中寓泄少阴邪火。于手太阴本方加黄柏元参穞豆皮龟板。或合大补阴丸。泻南补北法。其陷入足阳明胃腑。便秘腹疼拒按者。此系实火内结。宜本方合宣白承气。或竟用吴氏增液承气法。其陷入足阳明胃经。大渴大汗者。本方倍石膏西洋参加知母粳米。如人参白虎法。其陷入足太阴脾经。头重颊痛。颜青欲呕。热争。不可用俯仰。腹满泄。宜本方加石斛生草扁豆子石莲肉。或初起过服硝黄。大便溏泄不止。脾气受伤下陷者。宜先服健脾药。如四君子汤加查肉炒扁豆内金之类。甚则甘附片亦可暂用。泄止再治本病。其风火炽盛。肝脾相贼。肾水不摄者。须前方重加生牡蛎。如吴氏一甲煎法。不可见泄即指为脾寒。漫用温涩也。此皆白喉救误之法。不过略示途径。其细密处仍宜临时变化。斟酌妥善。庶无负司命之责。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 58,
+      "source_path": [
+        "辨救誤下第十"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "9d888d2a633be504d5c2deb7a5e44870a69aa933a07c26e2104346aa8a261b01",
+      "content_sha256": "f1a08363412cca57806728f1d670baaef10db97c142468d0dadf09ec505b4f68",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        59,
+        60
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 544,
+        "simplified_codepoints": 544
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "1becc4cf12b6dd97b907cd30",
+      "title": "辨善后第十一",
+      "volume": null,
+      "content": "白喉病或已误或未误。以法治之。当无不愈。愈后饮食起居如常者。不必服补养药。如肺阴未复。可用补土生金法。张氏养正汤去花粉加制甘草沙参主之。数月后喉间仍介介如梗者。前方加归身黄耆。甚则用东垣甘温法。\n白喉为燥火烁金。善后自宜清润甘淡。以补土生金。张氏养正汤最为合度。去花粉不可令复凉也。或过服寒凉以后。营血往往受伤。每有终年累月。喉间仍介介不已。此必重用归耆。藉甘温以和调营血。盖当时一味寒凉。必有余热。滞入营卫隧道。郁久不达。势必复蒸。先贤陆九芝所谓过服冬地。易发骨蒸劳热。真有得之言也。\n善患白喉。愈后数月喉间常觉介介。后因中寒。服大甘温药始痊。主讲自京都归。言北方此病甚多。愈后服温养。始能复原。些言适符合。长女同时患此。于初起医治不得法。未能疏通经隧。致余毒流入骨髓。次年仍发青腿牙疳颇重。医治月余始痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "辨善後第十一"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "3f37ff0a171a659d0a228b3e1949fc374f6ed69635e86f2ccfe04e423be325d5",
+      "content_sha256": "c02ef54e6c00e06bea31d30fd27025e2d2b66c6b5e7351ef3ce3f4969ad55b54",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        62,
+        63,
+        64
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 354,
+        "simplified_codepoints": 354
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "2840b25db751ce6bea559f4c",
+      "title": "张氏养正汤",
+      "volume": "辨善后第十一",
+      "content": "生玉竹 淮山药 白茯苓 熟地黄 生地黄 生白芍 制首乌 女贞子 北沙参 制甘草 麦门冬（去心）\n上药十一味。水五杯。煎取三杯。分二次温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 65,
+      "source_path": [
+        "辨善後第十一",
+        "張氏養正湯"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "e7376abfae037ad79148e90b57f1d944f44ff54a7099c3e9f76d92df3190c9f1",
+      "content_sha256": "88d8a9433d2e765b6c8ad0df9274131b9c3040e1d7e89d026945034ea0727f56",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        66,
+        67
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 69,
+        "simplified_codepoints": 69
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "28c0e4c9e33583da6f27c329",
+      "title": "辨外治第十二",
+      "volume": null,
+      "content": "白喉病手太阴本症未罢。始终不得用吹喉法。初起即红肿痰涎。挟有风火标症者。间用吹喉。盖风火来势自急。且易为痰。不参外治。恐难速效。\n大凡时疫喉症。多因风火挟痰。冲激于喉咙一线之地。猝不得出。遂致顷刻肿闭。其内脏腑初无大病。此时服药不及。唯有用辛散药吹喉。以吐痰涎。故外治之法。为喉科要诀。独此症咽干无痰。不痛不肿。纯系太阴燥火烁金。肺汁内涸。滋之不暇。岂可复用辛散以吹喉。善见有起初无痰。用吹喉药后。反觉痰声漉漉。实因燥火重。得辛香以张其焰也。若挟少阳少阴风火标症。红肿异常。痰涎壅盛。则吹喉之法。亦可间用。轻者以青黄散。重者以张氏雄黄解毒丸。或白填鸭散。其用雄黄解毒丸者。实以万分危急之际。不得已权宜而用。非常法也。然其间实有至理。巴豆大辛大热。虽为白喉所最忌。而斩关夺隘。峻利无比。下咽后未有不直达肛门。与寻常辛烈之品。不能驱痰下坠。反足助火上焰者。迥乎不同。此症若至痰气壅闭。药不得入。多因误治后。火势燎原所致。此时若仅用张氏之瓜霜散。耐修子之凤衣散。与外治之异功散。非但无益。恐适以增病。唯暂借此药开通径路。随以大清凉或甘咸寒大剂。频频灌服。即可救效。断不至停留上焦。以助火势也。此所谓出奇制胜。非胸有成竹者不能用。亦且不敢用也。白填鸭散未曾试验。大概非手太阴本症所宜。痰涎壅盛者。亦可备用。较锡类散尚优。余长女曾以锡类散吹喉。即时音哑。盖珠黄人指甲壁钱冰片象牙等味。既燥而又涩。皆在大忌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 68,
+      "source_path": [
+        "辨外治第十二"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "76d2e26731a2c4b9ff4516b25cf79a12eec3be8533fcd39895695ec8ea9b7d65",
+      "content_sha256": "01f8c2b61aa0208bf30b7f8a14aeda3f68442ddf80b143827814f26af6323bc2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        69,
+        70
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 598,
+        "simplified_codepoints": 598
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "54d00bbbbc75bce2be7539e5",
+      "title": "张氏雄黄解毒丸",
+      "volume": "辨外治第十二",
+      "content": "透明雄黄（研细水飞净） 郁金 巴豆霜\n上药研细。用米醋煎浓汁。面和为丸如绿豆大。每用四分。茶汤泡软。杵熔送下。小儿减半。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 71,
+      "source_path": [
+        "辨外治第十二",
+        "張氏雄黃解毒丸"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "c170b7cd4e99a287a54be8891e9b467c6f66e6e3658fb6155f500e788a55ac42",
+      "content_sha256": "777a2a420b6e76cff59244f351e936d867c322d09fa775d2ec785a65bf8adac9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        72,
+        73
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "45affc2413b20284dbdfa0ca",
+      "title": "白填鸭散",
+      "volume": "辨外治第十二",
+      "content": "（见白喉忌表抉微）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 74,
+      "source_path": [
+        "辨外治第十二",
+        "白填鴨散"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "3c3f6cdb218fe04bf0ccbeda9ed80862dce13d47478f848adac7859a449a3cf0",
+      "content_sha256": "db99750ad6fcab7249a8da63ba892b0d3538beb08f23ef43f44207ea4cf43ca4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 9,
+        "simplified_codepoints": 9
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "2a55299b470c609351b46922",
+      "title": "辨禁忌第十三",
+      "volume": null,
+      "content": "白喉禁忌。诸家言之甚详。兹条列于下。其尤须发明斟酌者。略参如左。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "辨禁忌第十三"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "c67b5e10cbc2cfaf0176140576a104b85e183e29265f8c91a9adf703415109d2",
+      "content_sha256": "7421d02551bc88135fedbdd1b95c7a99c8add40768dd7348d65b5787833440e4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        77
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 32,
+        "simplified_codepoints": 32
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "0ce1a31dceb7ac58254c458f",
+      "title": "忌升提并吐",
+      "volume": "辨禁忌第十三",
+      "content": "白喉为手太阴燥气化火。治宜滋阴清热。即挟有少阳少阴木火标症。亦宜仿吴氏温热法。清中夹疏。慎不可用升柴粉葛等温升之味。以助其焰。此理吴氏辨之甚详。可熟玩也。张善吾除瘟化毒神功辟邪诸散。皆首用葛根。恰犯所忌。吐法为六淫要诀。唯此症大忌。恐一经涌吐。其势即上窜也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 78,
+      "source_path": [
+        "辨禁忌第十三",
+        "忌升提並吐"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "40b7d8faaf7946d24fd2aac0daef4a8fd55def81ecc15ae09c60a602799ab158",
+      "content_sha256": "f41d1cf7893c1ebad3f0dc1320fbb49e08842655a90680dff6845e702cd9849f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        79
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "97cfa9938b531d45dbe12193",
+      "title": "忌温散发汗",
+      "volume": "辨禁忌第十三",
+      "content": "麻桂羌防为寒湿家发汗之祖药。治温热者已严加禁忌。况白喉纯系燥火。岂可复投发汗。致伤津液。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 80,
+      "source_path": [
+        "辨禁忌第十三",
+        "忌溫散發汗"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "71b3541437e2c1cc6f6c78bcf4acbe096e264e6ac924e39febebb2ad7f18afb8",
+      "content_sha256": "2bf1bc1224808a0672b01e134f98da99fa147c7bf8a8e41a03d01303f5498661",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 44,
+        "simplified_codepoints": 44
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "151539af4c2f3dd8d9d0675a",
+      "title": "忌大下亡津",
+      "volume": "辨禁忌第十三",
+      "content": "喉症如火毒蕴结于肠胃之间。腹痛便闭者。均可用下法。唯白喉切宜谨慎用之。盖燥火烁金。肺汁内涸。治当以养阴清燥为主。井非一二剂所能了事。若大下之后。胃气告匮。阴药安能任受。不独重伤津液也。其必不得已者。可仿吴氏宣白承气法。不可直用仲景之三承气也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "辨禁忌第十三",
+        "忌大下亡津"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "4527bc06a2a48228965971244a008f0cc0a1fc15b839e2c8c1e92bf81ea4b30d",
+      "content_sha256": "dd6cc6dc342dfd3712fbd47996134c8d43415b4f5528834e66fc376de79e2de6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        83
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "d41a2e49c8d8789127ec9c6c",
+      "title": "忌刀针",
+      "volume": "辨禁忌第十三",
+      "content": "喉科用刀针者。多由风火郁结于血分。红肿痛闭。危在顷刻。必须刺取恶血。以泄其气。使火气自衰。今白喉来势既缓。自可按法施治。何必漫用刀针。致伤阴血。\n唯太阴本症较轻。少阳少阴风火标症较重。红肿异常。甚则紫。项背俱肿者。可间用刺法。其发白处。仍不可犯。此理于上三经同病条略加阐发。可参玩也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 84,
+      "source_path": [
+        "辨禁忌第十三",
+        "忌刀針"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "b4f502945e31a9381a84a5cfbd6337fb8e3e8d1b771037574176956d80df6ba7",
+      "content_sha256": "249a68e6759effb902638a8e4e5e0afc52b6a1774fcc3806e6a2ae0b5618e806",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        85,
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 142,
+        "simplified_codepoints": 142
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "e561a0078b32ff6f16368d92",
+      "title": "忌病重药轻",
+      "volume": "辨禁忌第十三",
+      "content": "此症轻者。须日服二剂。重者三四剂不等。慎不可一二剂后。见病不退。漫施杂药。癸巳春善及二女一子于数日间次第传染。每人服药三四剂。家庭遍列药碗。司煎者日以二人替换。二旬后始获痊可。唯夭一小子。及今思之。亦由初起医治不得法。然是时非得同院诸友反复调护。恐更不可问矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "辨禁忌第十三",
+        "忌病重藥輕"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "599d0fb46528e1e3e94bd7ceb52023d44fb7381e8a97217518b39af10f289be3",
+      "content_sha256": "c9c6b7655eb105c809a771a727dfa970c02f5cffcadd8ec4996a1cc0dec70186",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        88
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 130,
+        "simplified_codepoints": 130
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "39e271962bf2dad06998d658",
+      "title": "忌苦重助燥",
+      "volume": "辨禁忌第十三",
+      "content": "白喉病手太阴本症未罢。始终不得用苦燥药。若挟风火标病。必须参用苦泄。此理上论辨之颇详。兹不复赘。耐修子谓黄芩一味凉入细窍。此谬论也。黄芩若此。则连柏胆草犀角石膏等味。更何如耶。不知芩连胆柏性寒而味苦。苦禀火化。适足以助燥。湿热症用之者。以苦能燥湿。寒能清热也。若白喉燥火本病。应以柔润滋养之药为主。佐以泄火清热。苦味中除黄柏外。（黄柏虽苦却有津液试嚼之滋黏满口）均在禁忌。唯标症实火太盛。苦泄法自亦不禁。识者察之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 89,
+      "source_path": [
+        "辨禁忌第十三",
+        "忌苦重助燥"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "8a976363d4dc3d3baf2ccbb46b5af54a4588ba171e4b8b861e7a6e4c7884f963",
+      "content_sha256": "056f4cd08f25941bf69dd84862d7747f31953e6b8485808bcf1faa9c0edabc6b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 207,
+        "simplified_codepoints": 207
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "275e3f164db987534a44328f",
+      "title": "辨张氏无治之症第十四",
+      "volume": null,
+      "content": "白喉本无坏病。不识本源。适足碍事。若经误治者。症必危险。亦当悉心讲求。设法救补。慎不可泥张氏之言。委诸无治。所列之症十一条。详辨于下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "辨張氏無治之症第十四"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "2a9bba4b08c77488ea237e6c357af913dc7298e614beb859185194513470809f",
+      "content_sha256": "ef5cd2b7e4ec8ac7e1c70eb18eebe20077b356bb4d218659bd750f58effe83a9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        92
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "96dc10f50889669d28161c58",
+      "title": "一、白块自落",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此候极多。最不足怪。尝见有悬丁之旁。虚悬白片。色若鸡脂。遇大咳辄自落。其症后亦无恙。余二小女亦然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 93,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "一、白塊自落"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "76343a6ae4683e1805fd196b63bc3730d66cfba289ae2608235d1b544d2bb14a",
+      "content_sha256": "50c0bd0660f549539042bfbf2efefddc85dc8de55aaa217ef66b8a7e9fd8561a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        94
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 49,
+        "simplified_codepoints": 49
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "1e95706bf75496b5911a2c40",
+      "title": "二、七日满白不退",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此候亦属寻常。余喉间白点数处。自正月初旬至月杪始退。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 95,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "二、七日滿白不退"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "e837f53feb499f08a7eff1fca90fab91bb79cf11ab45a0d43691ecd01ec637d1",
+      "content_sha256": "10b5115319b9c39ec5642b2242d9ee7edd0e0a9082839023cc48531f5ad96c0d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 26,
+        "simplified_codepoints": 26
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "c28d7aedd7b43ba0998a2807",
+      "title": "三、咽干无涎",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此真手太阴燥火本病。宜重用西洋参石膏冬地。甚则用官燕阿胶真珠母牡蛎。切不可用水麝吹喉药。断无不效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "三、咽乾無涎"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "7a8fa615bee0dc127a37a2d2d0b92bea83c318cbb107d548e053f238896c80c4",
+      "content_sha256": "faa4fa17978cf3681ec04229aeff16c3b3479ce6f672ba124acec4b45caf3de2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        98
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 49,
+        "simplified_codepoints": 49
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "b60331c92bb7ba4c20678edb",
+      "title": "四、服药大便不通",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此候大概非实热郁结肠胃。即肺阴枯涸已极。宜用宣白承气加入滋养药。否则用吴鞠通增液承气汤。惟不可用峻利之品。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 99,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "四、服藥大便不通"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "ee845341be03ad795ad1d5230c5b4f22ea72f390694a593ef478d65399ef9fee",
+      "content_sha256": "0f94a7ede164684f559243bcfb35c25deb71105c0ffb62c43752ca04942d0434",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 53,
+        "simplified_codepoints": 53
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "3e9c3ecdfaed2e58c967f260",
+      "title": "五、未服药大便泄",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此候有因脾热所致。如内经所谓热争腹满泄是也。可用以上救误法。或因肝风大煽。必须重用一甲煎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "五、未服藥大便泄"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "85f294fae0129a44817ca56535b1abe81c8247b5d13463c32c6cad45b40ec8a3",
+      "content_sha256": "1af8f86081db47eca0cd95dfcd89cb1465fbb33b0fbe9980d8304be47c325f4c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        102
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "5f8627b835c1b84821c2a7b4",
+      "title": "六、两目直视",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此实危脱之候。多不可救。然间有因痰气壅结。气不得下者。可用鲜莱菔汁。或竟用张氏消毒丸。以图万一。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 103,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "六、兩目直視"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "7271e4f666f48001645b0be7deccba9c56e740223606c83ecd39a734aa85ddae",
+      "content_sha256": "c42d245eae1747cd9e7338adec74582da4688f48c413da60123eb5a2cf05fdd7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        104
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "44936ca566b4fbf58f6b621a",
+      "title": "七、痰壅气喘",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此为白喉危脱时必有之候。可见此症必须揭重手太阴主治。如系痰火壅滞。可用大辛凉加牛黄等味。或因误治。以致肺火太盛。聚液为痰。即牛黄亦觉苦燥。必须用甘咸寒大剂。不可见痰而漫用辛燥也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "七、痰壅氣喘"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "84e5df3982e94f1920c911bd558a6091ea02f4f02da359ad1f688cfcfe87b9a2",
+      "content_sha256": "8a8791225685514e03f862929d81606b278d2494c10688dc592a5081f33f047f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        106
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "4fe762588cc34b315979762b",
+      "title": "八、大便溏泄不止",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此症多因火毒蔓延。或过用大下所致。然亦有多获效。以上数症。余大女曾患此。连服大剂三炁降龙丹加一甲煎三剂获效。不可见此候即指为不治也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 107,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "八、大便溏泄不止"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "783b6bfaeaa5e4e7cfbf8d9f797b3d2b5901c8761dc5af65a8fa0384c1248a6d",
+      "content_sha256": "2b44b851ff1513d0aca5beffa8693a9abe839f095d8f1438a9498cb5ea891cad",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        108
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 66,
+        "simplified_codepoints": 66
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "15a9804c87686613fd6b33ab",
+      "title": "九、唇面俱青",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此候多由火毒陷入足太阴。如内经所谓脾热病者。头重颊肿颜青是也。或肝火盛极。本色发现者。亦有此候。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "九、唇面俱青"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "746759c3b4312dd377810a670c8a3789eaf075419ca078fec9b87bbcad1e22f6",
+      "content_sha256": "db1b4f1ad21391151187562251a75fc8a3137e77bcb504737261c43df9df6e07",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        110
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "273f86a891796dd1b94b47b6",
+      "title": "十、药不能下",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此真极重之候。多不可救。如系痰气壅结者。可竟用消毒丸。希图万一。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 111,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "十、藥不能下"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "75e4188e422238bef95cde2c6f5e8c6c00cba5d64be2ee4c0e3b1f0198626e05",
+      "content_sha256": "a524aaab6774cc0f053b05f3563aab3e45fcf9a9c0827e7efef671f2a5428eef",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        112
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 32,
+        "simplified_codepoints": 32
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "34ec2137af33c2c09c1f122d",
+      "title": "十一、音哑无声",
+      "volume": "辨张氏无治之症第十四",
+      "content": "此系肺阴涸热。宜用泄火滋阴法。余长女亦然。因误用锡类散吹喉。即时音哑。及后诸症全痊。半月余始觉渐渐清朗。如遇是候。须参入燕窝阿胶等味。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 113,
+      "source_path": [
+        "辨張氏無治之症第十四",
+        "十一、音啞無聲"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "6e12ae720cf671956414881da4754649d8f64bf1064466d43063bbb40585c6c9",
+      "content_sha256": "215393dafc0ac2044893f7ed99ab7ee1acb4e197cab07af5191b37c047586bfe",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        114
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "0b5a5d086a451dcca5f0dd06",
+      "title": "辨耐修药表并药忌第十五",
+      "volume": null,
+      "content": "白喉病辨症既明。首讲用药。耐修所列正将猛将次将四层药表。井用药禁忌。抉择颇为简当。然选药不多。未免印定后人眼目。且议论多不根于经典。尤难津逮后学。兹取其意而详辨之。\n耐修之言曰。治之之法。唯有以厚重之药镇其上层。以清凉之药润其次层。即此二语。便觉大错。大凡医家用药。病在上焦宜轻清。病在下焦宜重浊。故上焦分两须轻宜于散。下焦分两须重宜于丸。上焦药宜轻煎频服。下焦药宜浓煎顿服。岂有以厚重镇上层。清凉润下层之理。此稍涉医学者。无不明析。不待精博群书也。唯所收上层药中。如冬地为滋阴必用之药。石膏为燥火专门对症之药。胆草为足少阳泄实火之药。川柏为手少阴泻实火之药。犀角为手少阴清虚火之专药。暗与病合。亦非如伊之所谓镇也。如以为镇。则次将中之粉葛。极能升胃阳。行胃阴。为白喉最忌之品。何镇之有。其次层药中如娄贝丹皮板蓝桑叶枇杷叶栀子木通等味。为此症标本疏通经隧之要药。亦非如伊之所谓润也。倘以为润。则娄皮木通栀子兜铃皆苦能助燥。何润之有。其中层下层之枳朴神曲查肉陈皮。或因平素脾胃湿痰蕴滞。或因骤服寒凉腻药。中气不能健运。故亦可用。非常法也。否则炒麦芽亦能升发火势。何可轻投。至硝黄更不易用。必须肠胃间积有实热。如古人所谓痞满燥实坚痛诸候者。方可酌用。万不可轻易一试也。鄙意此症于初起时。或经误治。或已传变。必须认明病源。（或燥火独病或风火兼病）详别经络。（或手太阴独病或少阳少阴兼病）对症用药。自能丝丝入扣。不可模糊笼统。以寥寥数语。印定后人眼目也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 115,
+      "source_path": [
+        "辨耐修藥表並藥忌第十五"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "833644fb8c3e95c869f3e519f0a3b170ebe59f1c634be58a136ffffcf9a2627f",
+      "content_sha256": "4c1c2619d4cc9ac81aac5f24f4b1b1c5ef4a7d01653d410bfae6206aa81129e0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        116,
+        117
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 623,
+        "simplified_codepoints": 623
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "d28c02a6035e423a9faeb71a",
+      "title": "补义",
+      "volume": null,
+      "content": "余纂白喉条辨。自丁酉出版。迄今一纪矣。于前贤白喉诸书议论。间有未惬于心者。莫不详加讨论。斟酌妥协。以期悉合病情治法而后已。顾独于忌表二字。尚嫌疏释。未能尽致。心窃病之。盖白喉为太阴肺经伏燥。苟无时邪感触。自不宜无故表散。兆成燎原之祸。若确属挟有时感表症者。则解表自难容缓。如前第五条所言挟温热者。可加薄荷荷叶扁豆花之类。挟寒湿燥三气者。虽麻葛前苏香薷藿香等皆可酌用。或外感里燥并重。亦须表里清疏。二者兼顾。但先使表邪得解。纵白发满喉。则施治亦自易易矣。唯不得浪用姜桂辛热引邪入里之品耳。尝见时医未读白喉忌表抉微者。动辄表散。为祸固烈。乃有已见此书。未能洞彻原理。往往坭守忌表二字。纵有外感甚厉。开手即一味清滋。转使外邪陷入。里燥愈甚。卒成烂喉等病。毙命者所在皆有见之。实堪痛悼。夫六淫病。邪气从外入者。无不以解表为要务。白喉虽为太阴伏燥。法宜直从肺经清降。苟外感未去。辄先注意于此。且有于清降之中。再乱入苦重滋腻之品。则外邪未有不被牵率而内陷。终致清疏两无所施。坐视殒命者。伤何如之。（仆）二少女年甫十龄。曾于某年夏月往邻里观剧。时值溽暑郁蒸。（当数日前西风大作夏行秋令故有白喉症发现）加之剧场人气酝酿。归即寒热大作。肢体如废。腹痛餐泄。舌苔灰浊而喉间又复发白。（仆）权其轻重。理宜解暑去湿为先。盖治白喉不外清滋之品。暑湿得解。则用药自无牵掣矣。遂用香薷饮合正气散加减。再入石膏鲜苇茎二味。略顾肺中之燥。（石膏为治燥火主药其性兼能达表清里熟读仲圣书者自能得其旨归故喉间一见白磈白片此味即不容缓乃时医于冬地石斛元参等味习为故然浪用不怪视石膏反不敢轻于一试识力不真往往坐失病机殊堪太息）二剂后表解体鬯。痛止泄愈。而喉中日势转剧。几至满喉皆是。乃急转用西洋参石膏苇茎元参杏仁枇杷叶等味。三剂白去八九。喉中唯觉燥痛。遂再加羚羊鲜生地二味。病遂全愈。使当初下手时疑忌香薷藿香辛燥与白喉有碍。把握不定。不以全力专去暑湿。恐遗祸有不可胜言矣。要之白喉病夹症颇伙。唯太阴伏燥独发者。自当以清降滋润为重。如辛散苦重。皆在所禁。前已辨之详矣。若挟六淫时感。自当湿因湿治。寒因寒治。暑热因暑热治。先解其表。则本症治法。自无顾虑。断不可坭守忌表二字。使外感与伏燥。互相牵引。譬如观奕。一著错则全局输矣。吾愿世之治白喉者。因此意神而明之。或能与吾民同跻寿域也。故不辞繁复。复补此篇于后。\n宣统元年太岁己酉十月栗盦漻甫再识于湫漻斋",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+      "source_ordinal": 118,
+      "source_path": [
+        "補義"
+      ],
+      "source_sha256": "5a1e67f9662dfc8ba5ebebbb3623ff79609e06b3d80e63e2440822691ba408d6",
+      "original_sha256": "59000aa89173c02941dfce4261639156c00f7077a4d3efe62de49066e8e08b41",
+      "content_sha256": "ba6bacaeb7b784c275d1b6ef28893c659bf13be35b143f4b48f48083b2f32178",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        119,
+        120
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1001,
+        "simplified_codepoints": 1001
+      },
+      "order": 46
+    }
+  ]
+}

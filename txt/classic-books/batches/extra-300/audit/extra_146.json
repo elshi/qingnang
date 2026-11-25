@@ -1,0 +1,500 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%99%BC%E6%8F%AE/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "校刻本草發揮敘論",
+        "path": [
+          "校刻本草發揮敘論"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 2,
+        "title": "金石部",
+        "path": [
+          "卷一",
+          "金石部"
+        ]
+      },
+      {
+        "ordinal": 77,
+        "level": 2,
+        "title": "草部",
+        "path": [
+          "卷一",
+          "草部"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 1,
+        "title": "卷二",
+        "path": [
+          "卷二"
+        ]
+      },
+      {
+        "ordinal": 486,
+        "level": 1,
+        "title": "卷三",
+        "path": [
+          "卷三"
+        ]
+      },
+      {
+        "ordinal": 487,
+        "level": 2,
+        "title": "木部",
+        "path": [
+          "卷三",
+          "木部"
+        ]
+      },
+      {
+        "ordinal": 660,
+        "level": 2,
+        "title": "人部",
+        "path": [
+          "卷三",
+          "人部"
+        ]
+      },
+      {
+        "ordinal": 668,
+        "level": 2,
+        "title": "獸部",
+        "path": [
+          "卷三",
+          "獸部"
+        ]
+      },
+      {
+        "ordinal": 699,
+        "level": 2,
+        "title": "禽部",
+        "path": [
+          "卷三",
+          "禽部"
+        ]
+      },
+      {
+        "ordinal": 704,
+        "level": 2,
+        "title": "蟲魚部",
+        "path": [
+          "卷三",
+          "蟲魚部"
+        ]
+      },
+      {
+        "ordinal": 740,
+        "level": 2,
+        "title": "果部",
+        "path": [
+          "卷三",
+          "果部"
+        ]
+      },
+      {
+        "ordinal": 793,
+        "level": 2,
+        "title": "米穀部",
+        "path": [
+          "卷三",
+          "米穀部"
+        ]
+      },
+      {
+        "ordinal": 830,
+        "level": 2,
+        "title": "菜部",
+        "path": [
+          "卷三",
+          "菜部"
+        ]
+      },
+      {
+        "ordinal": 859,
+        "level": 1,
+        "title": "卷四",
+        "path": [
+          "卷四"
+        ]
+      },
+      {
+        "ordinal": 860,
+        "level": 2,
+        "title": "經曰",
+        "path": [
+          "卷四",
+          "經曰"
+        ]
+      },
+      {
+        "ordinal": 866,
+        "level": 2,
+        "title": "升降者天地之氣交",
+        "path": [
+          "卷四",
+          "升降者天地之氣交"
+        ]
+      },
+      {
+        "ordinal": 875,
+        "level": 2,
+        "title": "藥性要旨",
+        "path": [
+          "卷四",
+          "藥性要旨"
+        ]
+      },
+      {
+        "ordinal": 877,
+        "level": 2,
+        "title": "用藥升降浮沉補瀉法",
+        "path": [
+          "卷四",
+          "用藥升降浮沉補瀉法"
+        ]
+      },
+      {
+        "ordinal": 887,
+        "level": 2,
+        "title": "藏氣法時補瀉法",
+        "path": [
+          "卷四",
+          "藏氣法時補瀉法"
+        ]
+      },
+      {
+        "ordinal": 896,
+        "level": 2,
+        "title": "治法綱要",
+        "path": [
+          "卷四",
+          "治法綱要"
+        ]
+      },
+      {
+        "ordinal": 900,
+        "level": 2,
+        "title": "用藥用方辯",
+        "path": [
+          "卷四",
+          "用藥用方辯"
+        ]
+      },
+      {
+        "ordinal": 902,
+        "level": 2,
+        "title": "去臟腑之火",
+        "path": [
+          "卷四",
+          "去臟腑之火"
+        ]
+      },
+      {
+        "ordinal": 905,
+        "level": 2,
+        "title": "各經引用",
+        "path": [
+          "卷四",
+          "各經引用"
+        ]
+      },
+      {
+        "ordinal": 913,
+        "level": 2,
+        "title": "五味所用",
+        "path": [
+          "卷四",
+          "五味所用"
+        ]
+      },
+      {
+        "ordinal": 915,
+        "level": 2,
+        "title": "用藥各定分兩",
+        "path": [
+          "卷四",
+          "用藥各定分兩"
+        ]
+      },
+      {
+        "ordinal": 917,
+        "level": 2,
+        "title": "藥性生熟用法",
+        "path": [
+          "卷四",
+          "藥性生熟用法"
+        ]
+      },
+      {
+        "ordinal": 919,
+        "level": 2,
+        "title": "藥用根梢法",
+        "path": [
+          "卷四",
+          "藥用根梢法"
+        ]
+      },
+      {
+        "ordinal": 921,
+        "level": 2,
+        "title": "《醫學啟源》天地六位臟象之圖",
+        "path": [
+          "卷四",
+          "《醫學啟源》天地六位臟象之圖"
+        ]
+      },
+      {
+        "ordinal": 923,
+        "level": 2,
+        "title": "手足三陰三陽",
+        "path": [
+          "卷四",
+          "手足三陰三陽"
+        ]
+      },
+      {
+        "ordinal": 932,
+        "level": 2,
+        "title": "隨證治病藥品",
+        "path": [
+          "卷四",
+          "隨證治病藥品"
+        ]
+      },
+      {
+        "ordinal": 934,
+        "level": 2,
+        "title": "五臟補瀉法",
+        "path": [
+          "卷四",
+          "五臟補瀉法"
+        ]
+      },
+      {
+        "ordinal": 941,
+        "level": 2,
+        "title": "臟腑相生相剋",
+        "path": [
+          "卷四",
+          "臟腑相生相剋"
+        ]
+      },
+      {
+        "ordinal": 943,
+        "level": 2,
+        "title": "七神",
+        "path": [
+          "卷四",
+          "七神"
+        ]
+      },
+      {
+        "ordinal": 945,
+        "level": 2,
+        "title": "制方之法",
+        "path": [
+          "卷四",
+          "制方之法"
+        ]
+      },
+      {
+        "ordinal": 947,
+        "level": 2,
+        "title": "㕮咀之藥",
+        "path": [
+          "卷四",
+          "㕮咀之藥"
+        ]
+      },
+      {
+        "ordinal": 949,
+        "level": 2,
+        "title": "五行制方生克法（附湯例）",
+        "path": [
+          "卷四",
+          "五行制方生克法（附湯例）"
+        ]
+      },
+      {
+        "ordinal": 962,
+        "level": 2,
+        "title": "五味之用",
+        "path": [
+          "卷四",
+          "五味之用"
+        ]
+      },
+      {
+        "ordinal": 964,
+        "level": 2,
+        "title": "五入",
+        "path": [
+          "卷四",
+          "五入"
+        ]
+      },
+      {
+        "ordinal": 966,
+        "level": 2,
+        "title": "五走",
+        "path": [
+          "卷四",
+          "五走"
+        ]
+      },
+      {
+        "ordinal": 968,
+        "level": 2,
+        "title": "五宜",
+        "path": [
+          "卷四",
+          "五宜"
+        ]
+      },
+      {
+        "ordinal": 976,
+        "level": 2,
+        "title": "五多五傷",
+        "path": [
+          "卷四",
+          "五多五傷"
+        ]
+      },
+      {
+        "ordinal": 978,
+        "level": 2,
+        "title": "六化",
+        "path": [
+          "卷四",
+          "六化"
+        ]
+      },
+      {
+        "ordinal": 986,
+        "level": 2,
+        "title": "東垣標本陰陽論",
+        "path": [
+          "卷四",
+          "東垣標本陰陽論"
+        ]
+      },
+      {
+        "ordinal": 990,
+        "level": 2,
+        "title": "用藥法象",
+        "path": [
+          "卷四",
+          "用藥法象"
+        ]
+      },
+      {
+        "ordinal": 1003,
+        "level": 2,
+        "title": "形色性味體",
+        "path": [
+          "卷四",
+          "形色性味體"
+        ]
+      },
+      {
+        "ordinal": 1009,
+        "level": 2,
+        "title": "諸藥相反例",
+        "path": [
+          "卷四",
+          "諸藥相反例"
+        ]
+      },
+      {
+        "ordinal": 1013,
+        "level": 2,
+        "title": "用藥凡例",
+        "path": [
+          "卷四",
+          "用藥凡例"
+        ]
+      },
+      {
+        "ordinal": 1028,
+        "level": 2,
+        "title": "制方用藥例",
+        "path": [
+          "卷四",
+          "制方用藥例"
+        ]
+      },
+      {
+        "ordinal": 1037,
+        "level": 2,
+        "title": "用丸散藥例",
+        "path": [
+          "卷四",
+          "用丸散藥例"
+        ]
+      },
+      {
+        "ordinal": 1039,
+        "level": 2,
+        "title": "論用藥必本四時",
+        "path": [
+          "卷四",
+          "論用藥必本四時"
+        ]
+      },
+      {
+        "ordinal": 1041,
+        "level": 2,
+        "title": "五行五色五味五走五臟主禁例",
+        "path": [
+          "卷四",
+          "五行五色五味五走五臟主禁例"
+        ]
+      },
+      {
+        "ordinal": 1047,
+        "level": 2,
+        "title": "東垣論君臣佐使",
+        "path": [
+          "卷四",
+          "東垣論君臣佐使"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 861,
+        "label": "氣味厚薄寒熱陰陽升降圖",
+        "source": "urn:270:07609.jpg"
+      },
+      {
+        "ordinal": 922,
+        "label": "天地六位臟象之圖",
+        "source": "urn:270:07610.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 53,
+      "paragraph_blocks": 996,
+      "nonempty_paragraph_blocks": 996,
+      "represented_paragraph_blocks": 996
+    }
+  }
+]

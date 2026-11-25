@@ -1,0 +1,5744 @@
+{
+  "generated_at": "2026-11-23T15:31:33.079Z",
+  "scope": "Text collection and structural validation; not a claim of line-by-line collation against printed originals.",
+  "books": [
+    {
+      "key": "extra_8",
+      "name": "黄帝素问直解",
+      "chapter_count": 85,
+      "characters": 422537,
+      "max_content_bytes": 125701,
+      "chapters_exceeding_mysql_text": 2,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E7%B4%A0%E5%95%8F%E7%9B%B4%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_9",
+      "name": "黄帝内经素问集注",
+      "chapter_count": 82,
+      "characters": 447801,
+      "max_content_bytes": 112037,
+      "chapters_exceeding_mysql_text": 2,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E7%B4%A0%E5%95%8F%E9%9B%86%E8%A8%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_12",
+      "name": "读素问钞",
+      "chapter_count": 30,
+      "characters": 119010,
+      "max_content_bytes": 83733,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%AE%80%E7%B4%A0%E5%95%8F%E9%88%94/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_14",
+      "name": "素问悬解",
+      "chapter_count": 136,
+      "characters": 271433,
+      "max_content_bytes": 68844,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E6%87%B8%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_15",
+      "name": "素问吴注",
+      "chapter_count": 83,
+      "characters": 259788,
+      "max_content_bytes": 81139,
+      "chapters_exceeding_mysql_text": 2,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E5%90%B3%E8%A8%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_18",
+      "name": "素问六气玄珠密语",
+      "chapter_count": 28,
+      "characters": 80445,
+      "max_content_bytes": 35082,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E5%85%AD%E6%B0%A3%E7%8E%84%E7%8F%A0%E5%AF%86%E8%AA%9E/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_19",
+      "name": "素问病机气宜保命集",
+      "chapter_count": 38,
+      "characters": 68707,
+      "max_content_bytes": 17483,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%97%85%E6%A9%9F%E6%B0%A3%E5%AE%9C%E4%BF%9D%E5%91%BD%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_28",
+      "name": "黄帝内经灵枢集注",
+      "chapter_count": 110,
+      "characters": 288530,
+      "max_content_bytes": 28260,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E9%9D%88%E6%A8%9E%E9%9B%86%E8%A8%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_30",
+      "name": "灵枢悬解",
+      "chapter_count": 83,
+      "characters": 127653,
+      "max_content_bytes": 22938,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9D%88%E6%A8%9E%E6%87%B8%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_38",
+      "name": "黄帝内经灵枢注证发微",
+      "chapter_count": 83,
+      "characters": 276303,
+      "max_content_bytes": 97270,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E5%85%A7%E7%B6%93%E9%9D%88%E6%A8%9E%E8%A8%BB%E8%AD%89%E7%99%BC%E5%BE%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_39",
+      "name": "类经",
+      "chapter_count": 394,
+      "characters": 749451,
+      "max_content_bytes": 63995,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_42",
+      "name": "内经知要",
+      "chapter_count": 10,
+      "characters": 68021,
+      "max_content_bytes": 81765,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E7%9F%A5%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_43",
+      "name": "素问灵枢类纂约注",
+      "chapter_count": 11,
+      "characters": 98308,
+      "max_content_bytes": 114056,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E9%9D%88%E6%A8%9E%E9%A1%9E%E7%BA%82%E7%B4%84%E8%A8%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_45",
+      "name": "医经原旨",
+      "chapter_count": 56,
+      "characters": 274030,
+      "max_content_bytes": 69219,
+      "chapters_exceeding_mysql_text": 2,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%B6%93%E5%8E%9F%E6%97%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_49",
+      "name": "黄帝素问宣明论方",
+      "chapter_count": 88,
+      "characters": 65816,
+      "max_content_bytes": 15967,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%BB%83%E5%B8%9D%E7%B4%A0%E5%95%8F%E5%AE%A3%E6%98%8E%E8%AB%96%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_51",
+      "name": "内经博议",
+      "chapter_count": 63,
+      "characters": 83658,
+      "max_content_bytes": 19089,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E5%8D%9A%E8%AD%B0/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_54",
+      "name": "内经难字音义",
+      "chapter_count": 117,
+      "characters": 26154,
+      "max_content_bytes": 6614,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%B6%93%E9%9B%A3%E5%AD%97%E9%9F%B3%E7%BE%A9/index.html",
+          "quality": "70%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_55",
+      "name": "运气易览",
+      "chapter_count": 69,
+      "characters": 51157,
+      "max_content_bytes": 12879,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%81%8B%E6%B0%A3%E6%98%93%E8%A6%BD/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_56",
+      "name": "外经微言",
+      "chapter_count": 81,
+      "characters": 53494,
+      "max_content_bytes": 17190,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%B6%93%E5%BE%AE%E8%A8%80/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_57",
+      "name": "四圣悬枢",
+      "chapter_count": 116,
+      "characters": 41166,
+      "max_content_bytes": 4927,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%81%96%E6%87%B8%E6%A8%9E/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_58",
+      "name": "素灵微蕴",
+      "chapter_count": 29,
+      "characters": 53982,
+      "max_content_bytes": 14348,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E9%9D%88%E5%BE%AE%E8%98%8A/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_61",
+      "name": "难经集注",
+      "chapter_count": 88,
+      "characters": 73652,
+      "max_content_bytes": 11292,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E9%9B%86%E8%A8%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_62",
+      "name": "难经古义",
+      "chapter_count": 6,
+      "characters": 51334,
+      "max_content_bytes": 89265,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E5%8F%A4%E7%BE%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_63",
+      "name": "难经正义",
+      "chapter_count": 82,
+      "characters": 83458,
+      "max_content_bytes": 13823,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%AD%A3%E7%BE%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_64",
+      "name": "难经经释",
+      "chapter_count": 82,
+      "characters": 37399,
+      "max_content_bytes": 5434,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E7%B6%93%E9%87%8B/index.html",
+          "quality": "80%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_68",
+      "name": "难经悬解",
+      "chapter_count": 84,
+      "characters": 26726,
+      "max_content_bytes": 3229,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%A3%E7%B6%93%E6%87%B8%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_73",
+      "name": "医灯续焰",
+      "chapter_count": 277,
+      "characters": 217320,
+      "max_content_bytes": 25721,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%87%88%E7%BA%8C%E7%84%B0/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_74",
+      "name": "察病指南",
+      "chapter_count": 75,
+      "characters": 18293,
+      "max_content_bytes": 8108,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AF%9F%E7%97%85%E6%8C%87%E5%8D%97/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_75",
+      "name": "四诊抉微",
+      "chapter_count": 237,
+      "characters": 105915,
+      "max_content_bytes": 6426,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%9B%9B%E8%A8%BA%E6%8A%89%E5%BE%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_79",
+      "name": "重订诊家直诀",
+      "chapter_count": 24,
+      "characters": 17981,
+      "max_content_bytes": 5919,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%8D%E8%A8%82%E8%A8%BA%E5%AE%B6%E7%9B%B4%E8%A8%A3/index.html",
+          "quality": "80%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_86",
+      "name": "脉诀指掌病式图说",
+      "chapter_count": 26,
+      "characters": 12187,
+      "max_content_bytes": 3930,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%A8%A3%E6%8C%87%E6%8E%8C%E7%97%85%E5%BC%8F%E5%9C%96%E8%AA%AA/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_90",
+      "name": "脉诀乳海",
+      "chapter_count": 134,
+      "characters": 102991,
+      "max_content_bytes": 37099,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%A8%A3%E4%B9%B3%E6%B5%B7/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_92",
+      "name": "脉诀汇辨",
+      "chapter_count": 130,
+      "characters": 101332,
+      "max_content_bytes": 48435,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%A8%A3%E5%BD%99%E8%BE%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_94",
+      "name": "诊家正眼",
+      "chapter_count": 77,
+      "characters": 45628,
+      "max_content_bytes": 9800,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A8%BA%E5%AE%B6%E6%AD%A3%E7%9C%BC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_95",
+      "name": "三指禅",
+      "chapter_count": 105,
+      "characters": 55663,
+      "max_content_bytes": 10877,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%89%E6%8C%87%E7%A6%AA/index.html",
+          "quality": "65%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_96",
+      "name": "诊宗三昧",
+      "chapter_count": 24,
+      "characters": 37291,
+      "max_content_bytes": 43148,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A8%BA%E5%AE%97%E4%B8%89%E6%98%A7/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_100",
+      "name": "脉诀刊误",
+      "chapter_count": 66,
+      "characters": 55043,
+      "max_content_bytes": 26055,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%A8%A3%E5%88%8A%E8%AA%A4/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_110",
+      "name": "脉义简摩",
+      "chapter_count": 188,
+      "characters": 149048,
+      "max_content_bytes": 13645,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E7%BE%A9%E7%B0%A1%E6%91%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_115",
+      "name": "脉语",
+      "chapter_count": 64,
+      "characters": 14683,
+      "max_content_bytes": 8384,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_118",
+      "name": "诊脉三十二辨",
+      "chapter_count": 40,
+      "characters": 15889,
+      "max_content_bytes": 3924,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A8%BA%E8%84%88%E4%B8%89%E5%8D%81%E4%BA%8C%E8%BE%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_125",
+      "name": "形色外诊简摩",
+      "chapter_count": 74,
+      "characters": 72539,
+      "max_content_bytes": 14031,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BD%A2%E8%89%B2%E5%A4%96%E8%A8%BA%E7%B0%A1%E6%91%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_126",
+      "name": "望诊遵经",
+      "chapter_count": 102,
+      "characters": 74620,
+      "max_content_bytes": 6840,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%9B%E8%A8%BA%E9%81%B5%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_127",
+      "name": "敖氏伤寒金镜录",
+      "chapter_count": 42,
+      "characters": 20506,
+      "max_content_bytes": 5742,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%95%96%E6%B0%8F%E5%82%B7%E5%AF%92%E9%87%91%E9%8F%A1%E9%8C%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_130",
+      "name": "伤寒舌鉴",
+      "chapter_count": 10,
+      "characters": 9485,
+      "max_content_bytes": 6016,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%88%8C%E9%91%91/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_138",
+      "name": "新修本草",
+      "chapter_count": 966,
+      "characters": 158918,
+      "max_content_bytes": 16683,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%96%B0%E4%BF%AE%E6%9C%AC%E8%8D%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_140",
+      "name": "本草图经",
+      "chapter_count": 816,
+      "characters": 175585,
+      "max_content_bytes": 5035,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%9C%96%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_143",
+      "name": "证类本草",
+      "chapter_count": 1814,
+      "characters": 822981,
+      "max_content_bytes": 55689,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E9%A1%9E%E6%9C%AC%E8%8D%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_144",
+      "name": "本草衍义",
+      "chapter_count": 475,
+      "characters": 56550,
+      "max_content_bytes": 12488,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E8%A1%8D%E7%BE%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_145",
+      "name": "汤液本草",
+      "chapter_count": 282,
+      "characters": 57208,
+      "max_content_bytes": 3623,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B9%AF%E6%B6%B2%E6%9C%AC%E8%8D%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_146",
+      "name": "本草发挥",
+      "chapter_count": 50,
+      "characters": 56922,
+      "max_content_bytes": 43967,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%99%BC%E6%8F%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_153",
+      "name": "神农本草经疏",
+      "chapter_count": 610,
+      "characters": 362254,
+      "max_content_bytes": 31552,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E7%96%8F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_158",
+      "name": "本草蒙筌",
+      "chapter_count": 465,
+      "characters": 154946,
+      "max_content_bytes": 5493,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E8%92%99%E7%AD%8C/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_160",
+      "name": "本草乘雅半偈",
+      "chapter_count": 400,
+      "characters": 281592,
+      "max_content_bytes": 37466,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E4%B9%98%E9%9B%85%E5%8D%8A%E5%81%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_163",
+      "name": "雷公炮制药性解",
+      "chapter_count": 336,
+      "characters": 63423,
+      "max_content_bytes": 2397,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%B7%E5%85%AC%E7%82%AE%E8%A3%BD%E8%97%A5%E6%80%A7%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_166",
+      "name": "本草通玄",
+      "chapter_count": 345,
+      "characters": 47353,
+      "max_content_bytes": 14357,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E9%80%9A%E7%8E%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_175",
+      "name": "要药分剂",
+      "chapter_count": 392,
+      "characters": 131350,
+      "max_content_bytes": 4439,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A6%81%E8%97%A5%E5%88%86%E5%8A%91/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_176",
+      "name": "本草新编",
+      "chapter_count": 282,
+      "characters": 195991,
+      "max_content_bytes": 18205,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%96%B0%E7%B7%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_177",
+      "name": "本经逢原",
+      "chapter_count": 772,
+      "characters": 173412,
+      "max_content_bytes": 6556,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E9%80%A2%E5%8E%9F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_179",
+      "name": "本草经解",
+      "chapter_count": 211,
+      "characters": 71648,
+      "max_content_bytes": 3257,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E7%B6%93%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_181",
+      "name": "神农本草经读",
+      "chapter_count": 169,
+      "characters": 42163,
+      "max_content_bytes": 4925,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E8%AE%80/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_183",
+      "name": "神农本草经百种录",
+      "chapter_count": 102,
+      "characters": 22106,
+      "max_content_bytes": 2190,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E7%99%BE%E7%A8%AE%E9%8C%84/index.html",
+          "quality": "80%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_185",
+      "name": "本草崇原",
+      "chapter_count": 290,
+      "characters": 94476,
+      "max_content_bytes": 4214,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E5%B4%87%E5%8E%9F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_189",
+      "name": "本草思辨录",
+      "chapter_count": 118,
+      "characters": 103677,
+      "max_content_bytes": 35640,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%80%9D%E8%BE%A8%E9%8C%84/index.html",
+          "quality": "80%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_191",
+      "name": "本草撮要",
+      "chapter_count": 663,
+      "characters": 50993,
+      "max_content_bytes": 1175,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%92%AE%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_193",
+      "name": "本草择要纲目",
+      "chapter_count": 373,
+      "characters": 64915,
+      "max_content_bytes": 2383,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E8%8D%89%E6%93%87%E8%A6%81%E7%B6%B1%E7%9B%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_194",
+      "name": "得配本草",
+      "chapter_count": 711,
+      "characters": 104003,
+      "max_content_bytes": 2879,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BE%97%E9%85%8D%E6%9C%AC%E8%8D%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_200",
+      "name": "长沙药解",
+      "chapter_count": 6,
+      "characters": 81379,
+      "max_content_bytes": 79815,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%95%B7%E6%B2%99%E8%97%A5%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_201",
+      "name": "玉楸药解",
+      "chapter_count": 10,
+      "characters": 29780,
+      "max_content_bytes": 29869,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%8E%89%E6%A5%B8%E8%97%A5%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_202",
+      "name": "本经疏证",
+      "chapter_count": 124,
+      "characters": 498080,
+      "max_content_bytes": 80276,
+      "chapters_exceeding_mysql_text": 6,
+      "issues": [],
+      "warnings": [
+        "modern_editorial_notes_excluded"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9C%AC%E7%B6%93%E7%96%8F%E8%AD%89/index.html",
+          "quality": "90%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_203",
+      "name": "食鉴本草",
+      "chapter_count": 23,
+      "characters": 11713,
+      "max_content_bytes": 7108,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A3%9F%E9%91%91%E6%9C%AC%E8%8D%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_222",
+      "name": "雷公炮炙论",
+      "chapter_count": 271,
+      "characters": 24726,
+      "max_content_bytes": 3974,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%B7%E5%85%AC%E7%82%AE%E7%82%99%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_224",
+      "name": "炮炙大法",
+      "chapter_count": 438,
+      "characters": 23895,
+      "max_content_bytes": 3217,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%82%AE%E7%82%99%E5%A4%A7%E6%B3%95/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_228",
+      "name": "孙真人海上方",
+      "chapter_count": 124,
+      "characters": 4432,
+      "max_content_bytes": 463,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+          "quality": "75%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_229",
+      "name": "仙授理伤续断秘方",
+      "chapter_count": 48,
+      "characters": 10235,
+      "max_content_bytes": 5202,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BB%99%E6%8E%88%E7%90%86%E5%82%B7%E7%BA%8C%E6%96%B7%E7%A7%98%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_232",
+      "name": "太平圣惠方",
+      "chapter_count": 1988,
+      "characters": 2185239,
+      "max_content_bytes": 45209,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%AA%E5%B9%B3%E8%81%96%E6%83%A0%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_233",
+      "name": "博济方",
+      "chapter_count": 353,
+      "characters": 72514,
+      "max_content_bytes": 6112,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8D%9A%E6%BF%9F%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_234",
+      "name": "苏沈良方",
+      "chapter_count": 229,
+      "characters": 55306,
+      "max_content_bytes": 6951,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%98%87%E6%B2%88%E8%89%AF%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_235",
+      "name": "史载之方",
+      "chapter_count": 60,
+      "characters": 44254,
+      "max_content_bytes": 34740,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%B2%E8%BC%89%E4%B9%8B%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_240",
+      "name": "鸡峰普济方",
+      "chapter_count": 1048,
+      "characters": 294028,
+      "max_content_bytes": 55413,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%9E%E5%B3%B0%E6%99%AE%E6%BF%9F%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_241",
+      "name": "普济本事方",
+      "chapter_count": 334,
+      "characters": 73727,
+      "max_content_bytes": 6923,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%99%AE%E6%BF%9F%E6%9C%AC%E4%BA%8B%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_242",
+      "name": "洪氏集验方",
+      "chapter_count": 165,
+      "characters": 25991,
+      "max_content_bytes": 5478,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_243",
+      "name": "杨氏家藏方",
+      "chapter_count": 1112,
+      "characters": 154563,
+      "max_content_bytes": 1751,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%A5%8A%E6%B0%8F%E5%AE%B6%E8%97%8F%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_244",
+      "name": "千金宝要",
+      "chapter_count": 24,
+      "characters": 39754,
+      "max_content_bytes": 20590,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8D%83%E9%87%91%E5%AF%B6%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_245",
+      "name": "全生指迷方",
+      "chapter_count": 28,
+      "characters": 27951,
+      "max_content_bytes": 10740,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%A8%E7%94%9F%E6%8C%87%E8%BF%B7%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_247",
+      "name": "仁斋直指方论",
+      "chapter_count": 380,
+      "characters": 336322,
+      "max_content_bytes": 27022,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BB%81%E9%BD%8B%E7%9B%B4%E6%8C%87%E6%96%B9%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_248",
+      "name": "严氏济生方",
+      "chapter_count": 634,
+      "characters": 98644,
+      "max_content_bytes": 4254,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%9A%B4%E6%B0%8F%E6%BF%9F%E7%94%9F%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_249",
+      "name": "瑞竹堂经验方",
+      "chapter_count": 346,
+      "characters": 49531,
+      "max_content_bytes": 2306,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%91%9E%E7%AB%B9%E5%A0%82%E7%B6%93%E9%A9%97%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_251",
+      "name": "御药院方",
+      "chapter_count": 1058,
+      "characters": 156982,
+      "max_content_bytes": 2676,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BE%A1%E8%97%A5%E9%99%A2%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_252",
+      "name": "世医得效方",
+      "chapter_count": 1280,
+      "characters": 392902,
+      "max_content_bytes": 30263,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%96%E9%86%AB%E5%BE%97%E6%95%88%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_253",
+      "name": "是斋百一选方",
+      "chapter_count": 999,
+      "characters": 119455,
+      "max_content_bytes": 3762,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%98%AF%E9%BD%8B%E7%99%BE%E4%B8%80%E9%81%B8%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_254",
+      "name": "传信适用方",
+      "chapter_count": 27,
+      "characters": 42379,
+      "max_content_bytes": 10880,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B3%E4%BF%A1%E9%81%A9%E7%94%A8%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_256",
+      "name": "类编朱氏集验医方",
+      "chapter_count": 125,
+      "characters": 118357,
+      "max_content_bytes": 29632,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B7%A8%E6%9C%B1%E6%B0%8F%E9%9B%86%E9%A9%97%E9%86%AB%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_260",
+      "name": "急救良方",
+      "chapter_count": 40,
+      "characters": 37249,
+      "max_content_bytes": 13374,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%80%A5%E6%95%91%E8%89%AF%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_264",
+      "name": "奇效良方",
+      "chapter_count": 5012,
+      "characters": 792938,
+      "max_content_bytes": 15951,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%87%E6%95%88%E8%89%AF%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_266",
+      "name": "仁术便览",
+      "chapter_count": 913,
+      "characters": 128916,
+      "max_content_bytes": 12146,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BB%81%E8%A1%93%E4%BE%BF%E8%A6%BD/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_267",
+      "name": "鲁府禁方",
+      "chapter_count": 119,
+      "characters": 67996,
+      "max_content_bytes": 18112,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%AD%AF%E5%BA%9C%E7%A6%81%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_269",
+      "name": "医便",
+      "chapter_count": 13,
+      "characters": 85397,
+      "max_content_bytes": 44235,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E4%BE%BF/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_271",
+      "name": "扶寿精方",
+      "chapter_count": 33,
+      "characters": 39842,
+      "max_content_bytes": 26897,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%89%B6%E5%A3%BD%E7%B2%BE%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_272",
+      "name": "医方选要",
+      "chapter_count": 48,
+      "characters": 177464,
+      "max_content_bytes": 35104,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%81%B8%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_274",
+      "name": "金镜内台方议",
+      "chapter_count": 298,
+      "characters": 42955,
+      "max_content_bytes": 3463,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%91%E9%8F%A1%E5%85%A7%E8%87%BA%E6%96%B9%E8%AD%B0/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_275",
+      "name": "万氏家抄济世良方",
+      "chapter_count": 168,
+      "characters": 231610,
+      "max_content_bytes": 46162,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%90%AC%E6%B0%8F%E5%AE%B6%E6%8A%84%E6%BF%9F%E4%B8%96%E8%89%AF%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_278",
+      "name": "成方切用",
+      "chapter_count": 709,
+      "characters": 251437,
+      "max_content_bytes": 32416,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%88%90%E6%96%B9%E5%88%87%E7%94%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_279",
+      "name": "时方妙用",
+      "chapter_count": 138,
+      "characters": 54458,
+      "max_content_bytes": 9482,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E5%A6%99%E7%94%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_282",
+      "name": "古方汇精",
+      "chapter_count": 399,
+      "characters": 59265,
+      "max_content_bytes": 13042,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E6%96%B9%E5%BD%99%E7%B2%BE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_285",
+      "name": "不知医必要",
+      "chapter_count": 245,
+      "characters": 98521,
+      "max_content_bytes": 7070,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%8D%E7%9F%A5%E9%86%AB%E5%BF%85%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_298",
+      "name": "秘方集验",
+      "chapter_count": 41,
+      "characters": 81030,
+      "max_content_bytes": 28097,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A7%98%E6%96%B9%E9%9B%86%E9%A9%97/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_299",
+      "name": "医方简义",
+      "chapter_count": 438,
+      "characters": 74164,
+      "max_content_bytes": 5652,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E7%B0%A1%E7%BE%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_301",
+      "name": "古今名医方论",
+      "chapter_count": 164,
+      "characters": 70582,
+      "max_content_bytes": 7328,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E5%90%8D%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_304",
+      "name": "绛雪园古方选注",
+      "chapter_count": 348,
+      "characters": 94794,
+      "max_content_bytes": 6310,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B5%B3%E9%9B%AA%E5%9C%92%E5%8F%A4%E6%96%B9%E9%81%B8%E8%A8%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_305",
+      "name": "医方论",
+      "chapter_count": 360,
+      "characters": 39274,
+      "max_content_bytes": 1927,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_310",
+      "name": "时方歌括",
+      "chapter_count": 111,
+      "characters": 34035,
+      "max_content_bytes": 3238,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%99%82%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_312",
+      "name": "金匮方歌括",
+      "chapter_count": 247,
+      "characters": 60775,
+      "max_content_bytes": 3100,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E6%96%B9%E6%AD%8C%E6%8B%AC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_379",
+      "name": "针灸大全",
+      "chapter_count": 101,
+      "characters": 44126,
+      "max_content_bytes": 29185,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%A4%A7%E5%85%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_386",
+      "name": "扁鹊神应针灸玉龙经",
+      "chapter_count": 130,
+      "characters": 23811,
+      "max_content_bytes": 15140,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_395",
+      "name": "针灸问对",
+      "chapter_count": 33,
+      "characters": 52612,
+      "max_content_bytes": 69643,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%95%8F%E5%B0%8D/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_400",
+      "name": "针灸资生经",
+      "chapter_count": 248,
+      "characters": 140651,
+      "max_content_bytes": 9460,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E8%B3%87%E7%94%9F%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_403",
+      "name": "西方子明堂灸经",
+      "chapter_count": 366,
+      "characters": 24585,
+      "max_content_bytes": 852,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A5%BF%E6%96%B9%E5%AD%90%E6%98%8E%E5%A0%82%E7%81%B8%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_406",
+      "name": "十四经发挥",
+      "chapter_count": 29,
+      "characters": 25362,
+      "max_content_bytes": 7537,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8D%81%E5%9B%9B%E7%B6%93%E7%99%BC%E6%8F%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_411",
+      "name": "神应经",
+      "chapter_count": 55,
+      "characters": 21209,
+      "max_content_bytes": 3918,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E6%87%89%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_413",
+      "name": "类经图翼",
+      "chapter_count": 171,
+      "characters": 179801,
+      "max_content_bytes": 29148,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E7%B6%93%E5%9C%96%E7%BF%BC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_419",
+      "name": "勉学堂针灸集成",
+      "chapter_count": 136,
+      "characters": 151894,
+      "max_content_bytes": 113213,
+      "chapters_exceeding_mysql_text": 2,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8B%89%E5%AD%B8%E5%A0%82%E9%87%9D%E7%81%B8%E9%9B%86%E6%88%90/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_423",
+      "name": "针方六集",
+      "chapter_count": 444,
+      "characters": 106572,
+      "max_content_bytes": 27384,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%9D%E6%96%B9%E5%85%AD%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_429",
+      "name": "灸法秘传",
+      "chapter_count": 90,
+      "characters": 12608,
+      "max_content_bytes": 3177,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_432",
+      "name": "神灸经纶",
+      "chapter_count": 122,
+      "characters": 69443,
+      "max_content_bytes": 23200,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E7%81%B8%E7%B6%93%E7%B6%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_436",
+      "name": "厘正按摩要术",
+      "chapter_count": 117,
+      "characters": 61726,
+      "max_content_bytes": 9295,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%90%E6%AD%A3%E6%8C%89%E6%91%A9%E8%A6%81%E8%A1%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_444",
+      "name": "注解伤寒论",
+      "chapter_count": 25,
+      "characters": 118166,
+      "max_content_bytes": 62824,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A8%BB%E8%A7%A3%E5%82%B7%E5%AF%92%E8%AB%96/index.html",
+          "quality": "60%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_445",
+      "name": "张卿子伤寒论",
+      "chapter_count": 139,
+      "characters": 126069,
+      "max_content_bytes": 31977,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BC%B5%E5%8D%BF%E5%AD%90%E5%82%B7%E5%AF%92%E8%AB%96/index.html",
+          "quality": "70%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_446",
+      "name": "伤寒论翼",
+      "chapter_count": 15,
+      "characters": 41683,
+      "max_content_bytes": 15089,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E7%BF%BC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_448",
+      "name": "伤寒标本心法类萃",
+      "chapter_count": 46,
+      "characters": 15014,
+      "max_content_bytes": 15838,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_450",
+      "name": "类证活人书",
+      "chapter_count": 26,
+      "characters": 109750,
+      "max_content_bytes": 23641,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A1%9E%E8%AD%89%E6%B4%BB%E4%BA%BA%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_452",
+      "name": "伤寒直格",
+      "chapter_count": 52,
+      "characters": 36444,
+      "max_content_bytes": 15871,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%9B%B4%E6%A0%BC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_454",
+      "name": "伤寒溯源集",
+      "chapter_count": 93,
+      "characters": 248223,
+      "max_content_bytes": 37925,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%BA%AF%E6%BA%90%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_455",
+      "name": "伤寒来苏集",
+      "chapter_count": 49,
+      "characters": 107555,
+      "max_content_bytes": 23738,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E4%BE%86%E8%98%87%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_457",
+      "name": "伤寒论条辨",
+      "chapter_count": 39,
+      "characters": 146919,
+      "max_content_bytes": 63391,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E6%A2%9D%E8%BE%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_459",
+      "name": "伤寒悬解",
+      "chapter_count": 430,
+      "characters": 69307,
+      "max_content_bytes": 3860,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%87%B8%E8%A7%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_460",
+      "name": "伤寒论纲目",
+      "chapter_count": 218,
+      "characters": 313023,
+      "max_content_bytes": 29400,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E7%B6%B1%E7%9B%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_462",
+      "name": "伤寒贯珠集",
+      "chapter_count": 83,
+      "characters": 86914,
+      "max_content_bytes": 10592,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%B2%AB%E7%8F%A0%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_464",
+      "name": "伤寒缵论",
+      "chapter_count": 130,
+      "characters": 102380,
+      "max_content_bytes": 33497,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E7%BA%98%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_471",
+      "name": "尚论篇",
+      "chapter_count": 33,
+      "characters": 96628,
+      "max_content_bytes": 41534,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%9A%E8%AB%96%E7%AF%87/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_472",
+      "name": "尚论后篇",
+      "chapter_count": 29,
+      "characters": 78640,
+      "max_content_bytes": 60390,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%9A%E8%AB%96%E5%BE%8C%E7%AF%87/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_476",
+      "name": "伤寒论读",
+      "chapter_count": 18,
+      "characters": 45568,
+      "max_content_bytes": 21931,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%E8%AE%80/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_478",
+      "name": "伤寒指掌",
+      "chapter_count": 155,
+      "characters": 121867,
+      "max_content_bytes": 24344,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%8C%87%E6%8E%8C/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_479",
+      "name": "伤寒附翼",
+      "chapter_count": 7,
+      "characters": 45280,
+      "max_content_bytes": 64425,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E9%99%84%E7%BF%BC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_480",
+      "name": "河间伤寒心要",
+      "chapter_count": 15,
+      "characters": 3948,
+      "max_content_bytes": 4480,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_485",
+      "name": "伤寒六书",
+      "chapter_count": 257,
+      "characters": 96813,
+      "max_content_bytes": 24859,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%85%AD%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_486",
+      "name": "伤寒寻源",
+      "chapter_count": 192,
+      "characters": 80529,
+      "max_content_bytes": 9644,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%B0%8B%E6%BA%90/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_487",
+      "name": "伤寒明理论",
+      "chapter_count": 72,
+      "characters": 39765,
+      "max_content_bytes": 3377,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%98%8E%E7%90%86%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_489",
+      "name": "伤寒括要",
+      "chapter_count": 309,
+      "characters": 63605,
+      "max_content_bytes": 5684,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%8B%AC%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_492",
+      "name": "伤寒九十论",
+      "chapter_count": 90,
+      "characters": 22842,
+      "max_content_bytes": 2631,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E4%B9%9D%E5%8D%81%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_495",
+      "name": "伤寒大白",
+      "chapter_count": 86,
+      "characters": 117919,
+      "max_content_bytes": 16100,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%A4%A7%E7%99%BD/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_546",
+      "name": "时病论",
+      "chapter_count": 120,
+      "characters": 86585,
+      "max_content_bytes": 16136,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%99%82%E7%97%85%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_548",
+      "name": "温热逢源",
+      "chapter_count": 25,
+      "characters": 44280,
+      "max_content_bytes": 24119,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E9%80%A2%E6%BA%90/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_554",
+      "name": "温病指南",
+      "chapter_count": 12,
+      "characters": 19000,
+      "max_content_bytes": 9336,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%97%85%E6%8C%87%E5%8D%97/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_567",
+      "name": "六因条辨",
+      "chapter_count": 185,
+      "characters": 45166,
+      "max_content_bytes": 6835,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%AD%E5%9B%A0%E6%A2%9D%E8%BE%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_573",
+      "name": "广瘟疫论",
+      "chapter_count": 118,
+      "characters": 39062,
+      "max_content_bytes": 9511,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BB%A3%E7%98%9F%E7%96%AB%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_580",
+      "name": "南病别鉴",
+      "chapter_count": 69,
+      "characters": 24167,
+      "max_content_bytes": 16289,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8D%97%E7%97%85%E5%88%A5%E9%91%91/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_582",
+      "name": "疫疹一得",
+      "chapter_count": 114,
+      "characters": 27870,
+      "max_content_bytes": 13785,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%96%AB%E7%96%B9%E4%B8%80%E5%BE%97/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_583",
+      "name": "温热暑疫全书",
+      "chapter_count": 72,
+      "characters": 48233,
+      "max_content_bytes": 17182,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%86%B1%E6%9A%91%E7%96%AB%E5%85%A8%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_584",
+      "name": "温疫明辨歌诀",
+      "chapter_count": 17,
+      "characters": 4181,
+      "max_content_bytes": 1545,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_586",
+      "name": "辨疫琐言",
+      "chapter_count": 4,
+      "characters": 12758,
+      "max_content_bytes": 20258,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%BE%A8%E7%96%AB%E7%91%A3%E8%A8%80/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_588",
+      "name": "痧胀玉衡",
+      "chapter_count": 161,
+      "characters": 61801,
+      "max_content_bytes": 14895,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%97%A7%E8%84%B9%E7%8E%89%E8%A1%A1/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_589",
+      "name": "瘴疟指南",
+      "chapter_count": 121,
+      "characters": 34544,
+      "max_content_bytes": 6389,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%98%B4%E7%98%A7%E6%8C%87%E5%8D%97/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_590",
+      "name": "松峰说疫",
+      "chapter_count": 225,
+      "characters": 98036,
+      "max_content_bytes": 40535,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B3%B0%E8%AA%AA%E7%96%AB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_591",
+      "name": "随息居重订霍乱论",
+      "chapter_count": 83,
+      "characters": 63597,
+      "max_content_bytes": 48329,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9A%A8%E6%81%AF%E5%B1%85%E9%87%8D%E8%A8%82%E9%9C%8D%E4%BA%82%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_593",
+      "name": "霍乱燃犀说",
+      "chapter_count": 8,
+      "characters": 13848,
+      "max_content_bytes": 10892,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9C%8D%E4%BA%82%E7%87%83%E7%8A%80%E8%AA%AA/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_603",
+      "name": "活法机要",
+      "chapter_count": 20,
+      "characters": 12986,
+      "max_content_bytes": 6448,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B4%BB%E6%B3%95%E6%A9%9F%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_604",
+      "name": "金匮翼",
+      "chapter_count": 295,
+      "characters": 134281,
+      "max_content_bytes": 7746,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E7%BF%BC/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_606",
+      "name": "医碥",
+      "chapter_count": 1177,
+      "characters": 295030,
+      "max_content_bytes": 18307,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E7%A2%A5/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_607",
+      "name": "医学正传",
+      "chapter_count": 78,
+      "characters": 308972,
+      "max_content_bytes": 63560,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E6%AD%A3%E5%82%B3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_608",
+      "name": "杂症会心录",
+      "chapter_count": 61,
+      "characters": 58235,
+      "max_content_bytes": 8417,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%9C%E7%97%87%E6%9C%83%E5%BF%83%E9%8C%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_610",
+      "name": "内外伤辨惑论",
+      "chapter_count": 72,
+      "characters": 23388,
+      "max_content_bytes": 6969,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_612",
+      "name": "内科摘要",
+      "chapter_count": 23,
+      "characters": 35353,
+      "max_content_bytes": 24287,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%A7%E7%A7%91%E6%91%98%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_614",
+      "name": "血证论",
+      "chapter_count": 82,
+      "characters": 112406,
+      "max_content_bytes": 41829,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_616",
+      "name": "医学传灯",
+      "chapter_count": 39,
+      "characters": 29031,
+      "max_content_bytes": 6539,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%82%B3%E7%87%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_617",
+      "name": "重订灵兰要览",
+      "chapter_count": 44,
+      "characters": 27639,
+      "max_content_bytes": 7753,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%8D%E8%A8%82%E9%9D%88%E8%98%AD%E8%A6%81%E8%A6%BD/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_625",
+      "name": "杂病治例",
+      "chapter_count": 80,
+      "characters": 21623,
+      "max_content_bytes": 4437,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%9C%E7%97%85%E6%B2%BB%E4%BE%8B/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_629",
+      "name": "医学从众录",
+      "chapter_count": 93,
+      "characters": 75533,
+      "max_content_bytes": 10159,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%AD%B8%E5%BE%9E%E7%9C%BE%E9%8C%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_632",
+      "name": "不居集",
+      "chapter_count": 1132,
+      "characters": 341440,
+      "max_content_bytes": 16145,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%8D%E5%B1%85%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_640",
+      "name": "何氏虚劳心传",
+      "chapter_count": 25,
+      "characters": 25721,
+      "max_content_bytes": 12678,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BD%95%E6%B0%8F%E8%99%9B%E5%8B%9E%E5%BF%83%E5%82%B3/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_641",
+      "name": "慎柔五书",
+      "chapter_count": 77,
+      "characters": 43745,
+      "max_content_bytes": 16683,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%85%8E%E6%9F%94%E4%BA%94%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_643",
+      "name": "虚损启微",
+      "chapter_count": 93,
+      "characters": 23660,
+      "max_content_bytes": 12050,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%99%9B%E6%90%8D%E5%95%9F%E5%BE%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_644",
+      "name": "痰火点雪",
+      "chapter_count": 239,
+      "characters": 68521,
+      "max_content_bytes": 7770,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%97%B0%E7%81%AB%E9%BB%9E%E9%9B%AA/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_646",
+      "name": "理虚元鉴",
+      "chapter_count": 48,
+      "characters": 20847,
+      "max_content_bytes": 15485,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_649",
+      "name": "阴证略例",
+      "chapter_count": 119,
+      "characters": 34682,
+      "max_content_bytes": 9377,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_650",
+      "name": "脚气治法总要",
+      "chapter_count": 3,
+      "characters": 13079,
+      "max_content_bytes": 21391,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%85%B3%E6%B0%A3%E6%B2%BB%E6%B3%95%E7%B8%BD%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_668",
+      "name": "济阴纲目",
+      "chapter_count": 311,
+      "characters": 288702,
+      "max_content_bytes": 20112,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%BF%9F%E9%99%B0%E7%B6%B1%E7%9B%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_671",
+      "name": "女科要旨",
+      "chapter_count": 18,
+      "characters": 46103,
+      "max_content_bytes": 19193,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E8%A6%81%E6%97%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_672",
+      "name": "女科撮要",
+      "chapter_count": 33,
+      "characters": 39349,
+      "max_content_bytes": 19630,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E6%92%AE%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_673",
+      "name": "沈氏女科辑要",
+      "chapter_count": 81,
+      "characters": 40460,
+      "max_content_bytes": 7379,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B2%88%E6%B0%8F%E5%A5%B3%E7%A7%91%E8%BC%AF%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_680",
+      "name": "女科切要",
+      "chapter_count": 128,
+      "characters": 41170,
+      "max_content_bytes": 6553,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E5%88%87%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_687",
+      "name": "妇科玉尺",
+      "chapter_count": 22,
+      "characters": 86236,
+      "max_content_bytes": 33417,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A9%A6%E7%A7%91%E7%8E%89%E5%B0%BA/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_690",
+      "name": "竹林女科证治",
+      "chapter_count": 471,
+      "characters": 111288,
+      "max_content_bytes": 6728,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%AB%B9%E6%9E%97%E5%A5%B3%E7%A7%91%E8%AD%89%E6%B2%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_696",
+      "name": "女科百问",
+      "chapter_count": 100,
+      "characters": 50877,
+      "max_content_bytes": 10827,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A5%B3%E7%A7%91%E7%99%BE%E5%95%8F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_705",
+      "name": "校注妇人良方",
+      "chapter_count": 677,
+      "characters": 224481,
+      "max_content_bytes": 11832,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%A0%A1%E8%A8%BB%E5%A9%A6%E4%BA%BA%E8%89%AF%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_714",
+      "name": "经效产宝",
+      "chapter_count": 63,
+      "characters": 23836,
+      "max_content_bytes": 4800,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_724",
+      "name": "卫生家宝产科备要",
+      "chapter_count": 14,
+      "characters": 23540,
+      "max_content_bytes": 16782,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E7%94%9F%E5%AE%B6%E5%AF%B6%E7%94%A2%E7%A7%91%E5%82%99%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_726",
+      "name": "胎产心法",
+      "chapter_count": 111,
+      "characters": 122281,
+      "max_content_bytes": 14301,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%83%8E%E7%94%A2%E5%BF%83%E6%B3%95/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_727",
+      "name": "产孕集",
+      "chapter_count": 17,
+      "characters": 28374,
+      "max_content_bytes": 16554,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%94%A2%E5%AD%95%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_739",
+      "name": "广嗣要语",
+      "chapter_count": 17,
+      "characters": 18369,
+      "max_content_bytes": 19642,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BB%A3%E5%97%A3%E8%A6%81%E8%AA%9E/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_740",
+      "name": "宜麟策",
+      "chapter_count": 37,
+      "characters": 16986,
+      "max_content_bytes": 5875,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AE%9C%E9%BA%9F%E7%AD%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_742",
+      "name": "广嗣纪要",
+      "chapter_count": 54,
+      "characters": 55927,
+      "max_content_bytes": 15656,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BB%A3%E5%97%A3%E7%B4%80%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_747",
+      "name": "幼科发挥",
+      "chapter_count": 66,
+      "characters": 68132,
+      "max_content_bytes": 15102,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E7%99%BC%E6%8F%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_750",
+      "name": "幼科释谜",
+      "chapter_count": 136,
+      "characters": 93098,
+      "max_content_bytes": 44631,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E9%87%8B%E8%AC%8E/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_752",
+      "name": "婴童百问",
+      "chapter_count": 103,
+      "characters": 102120,
+      "max_content_bytes": 22059,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E7%99%BE%E5%95%8F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_753",
+      "name": "活幼心书",
+      "chapter_count": 364,
+      "characters": 71803,
+      "max_content_bytes": 8038,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B4%BB%E5%B9%BC%E5%BF%83%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_754",
+      "name": "儿科醒",
+      "chapter_count": 45,
+      "characters": 34951,
+      "max_content_bytes": 12928,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%85%92%E7%A7%91%E9%86%92/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_757",
+      "name": "幼科铁镜",
+      "chapter_count": 96,
+      "characters": 38600,
+      "max_content_bytes": 8231,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B9%BC%E7%A7%91%E9%90%B5%E9%8F%A1/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_761",
+      "name": "保婴撮要",
+      "chapter_count": 222,
+      "characters": 293081,
+      "max_content_bytes": 18294,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E5%AC%B0%E6%92%AE%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_763",
+      "name": "小儿卫生总微论方",
+      "chapter_count": 168,
+      "characters": 199712,
+      "max_content_bytes": 33238,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E8%A1%9B%E7%94%9F%E7%B8%BD%E5%BE%AE%E8%AB%96%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_770",
+      "name": "颅顖经",
+      "chapter_count": 7,
+      "characters": 7269,
+      "max_content_bytes": 5571,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A1%B1%E9%A1%96%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_771",
+      "name": "活幼口议",
+      "chapter_count": 262,
+      "characters": 76953,
+      "max_content_bytes": 10977,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B4%BB%E5%B9%BC%E5%8F%A3%E8%AD%B0/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_773",
+      "name": "婴童类萃",
+      "chapter_count": 73,
+      "characters": 78890,
+      "max_content_bytes": 13691,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AC%B0%E7%AB%A5%E9%A1%9E%E8%90%83/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_777",
+      "name": "保婴金镜录",
+      "chapter_count": 17,
+      "characters": 16757,
+      "max_content_bytes": 26706,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E5%AC%B0%E9%87%91%E9%8F%A1%E9%8C%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_778",
+      "name": "原幼心法",
+      "chapter_count": 205,
+      "characters": 83703,
+      "max_content_bytes": 8322,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8E%9F%E5%B9%BC%E5%BF%83%E6%B3%95/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_791",
+      "name": "万氏秘传片玉心书",
+      "chapter_count": 126,
+      "characters": 50341,
+      "max_content_bytes": 8404,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%90%AC%E6%B0%8F%E7%A7%98%E5%82%B3%E7%89%87%E7%8E%89%E5%BF%83%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_800",
+      "name": "小儿痘疹方论",
+      "chapter_count": 8,
+      "characters": 20484,
+      "max_content_bytes": 23317,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E7%97%98%E7%96%B9%E6%96%B9%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_813",
+      "name": "痘疹心法",
+      "chapter_count": 128,
+      "characters": 165954,
+      "max_content_bytes": 37329,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%97%98%E7%96%B9%E5%BF%83%E6%B3%95/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_814",
+      "name": "小儿推拿广意",
+      "chapter_count": 68,
+      "characters": 41829,
+      "max_content_bytes": 9258,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E6%8E%A8%E6%8B%BF%E5%BB%A3%E6%84%8F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_816",
+      "name": "小儿推拿方脉活婴秘旨全书",
+      "chapter_count": 86,
+      "characters": 32895,
+      "max_content_bytes": 10066,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B0%8F%E5%85%92%E6%8E%A8%E6%8B%BF%E6%96%B9%E8%84%88%E6%B4%BB%E5%AC%B0%E7%A7%98%E6%97%A8%E5%85%A8%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_820",
+      "name": "外科证治全书",
+      "chapter_count": 484,
+      "characters": 114457,
+      "max_content_bytes": 23537,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E8%AD%89%E6%B2%BB%E5%85%A8%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_822",
+      "name": "卫济宝书",
+      "chapter_count": 57,
+      "characters": 11215,
+      "max_content_bytes": 7820,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A1%9B%E6%BF%9F%E5%AF%B6%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_823",
+      "name": "仙传外科集验方",
+      "chapter_count": 64,
+      "characters": 23497,
+      "max_content_bytes": 10592,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BB%99%E5%82%B3%E5%A4%96%E7%A7%91%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_824",
+      "name": "外科精义",
+      "chapter_count": 38,
+      "characters": 37733,
+      "max_content_bytes": 34004,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%B2%BE%E7%BE%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_825",
+      "name": "外科集验方",
+      "chapter_count": 16,
+      "characters": 45585,
+      "max_content_bytes": 43832,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_830",
+      "name": "外科大成",
+      "chapter_count": 342,
+      "characters": 166824,
+      "max_content_bytes": 22762,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%A4%A7%E6%88%90/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_832",
+      "name": "外科精要",
+      "chapter_count": 60,
+      "characters": 38269,
+      "max_content_bytes": 7674,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%B2%BE%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_833",
+      "name": "疡医大全",
+      "chapter_count": 1334,
+      "characters": 915121,
+      "max_content_bytes": 47002,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%98%8D%E9%86%AB%E5%A4%A7%E5%85%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_842",
+      "name": "外科启玄",
+      "chapter_count": 339,
+      "characters": 72258,
+      "max_content_bytes": 36749,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%95%9F%E7%8E%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_843",
+      "name": "外科枢要",
+      "chapter_count": 62,
+      "characters": 68322,
+      "max_content_bytes": 45327,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E6%A8%9E%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_845",
+      "name": "外科心法",
+      "chapter_count": 100,
+      "characters": 75336,
+      "max_content_bytes": 27833,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E5%BF%83%E6%B3%95/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_850",
+      "name": "洞天奥旨",
+      "chapter_count": 202,
+      "characters": 120130,
+      "max_content_bytes": 32351,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B4%9E%E5%A4%A9%E5%A5%A7%E6%97%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_856",
+      "name": "解围元薮",
+      "chapter_count": 67,
+      "characters": 58385,
+      "max_content_bytes": 43783,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%A7%A3%E5%9C%8D%E5%85%83%E8%97%AA/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_858",
+      "name": "集验背疽方",
+      "chapter_count": 16,
+      "characters": 10026,
+      "max_content_bytes": 5487,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9B%86%E9%A9%97%E8%83%8C%E7%96%BD%E6%96%B9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_859",
+      "name": "疠疡机要",
+      "chapter_count": 10,
+      "characters": 34080,
+      "max_content_bytes": 30025,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%99%98%E7%98%8D%E6%A9%9F%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_860",
+      "name": "立斋外科发挥",
+      "chapter_count": 33,
+      "characters": 77403,
+      "max_content_bytes": 26180,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%AB%8B%E9%BD%8B%E5%A4%96%E7%A7%91%E7%99%BC%E6%8F%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_864",
+      "name": "疡科心得集",
+      "chapter_count": 114,
+      "characters": 79057,
+      "max_content_bytes": 26333,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%98%8D%E7%A7%91%E5%BF%83%E5%BE%97%E9%9B%86/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_867",
+      "name": "外科理例",
+      "chapter_count": 423,
+      "characters": 135710,
+      "max_content_bytes": 26570,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A4%96%E7%A7%91%E7%90%86%E4%BE%8B/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_877",
+      "name": "伤科大成",
+      "chapter_count": 56,
+      "characters": 12863,
+      "max_content_bytes": 17703,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E7%A7%91%E5%A4%A7%E6%88%90/index.html",
+          "quality": "60%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_883",
+      "name": "伤科汇纂",
+      "chapter_count": 18,
+      "characters": 36702,
+      "max_content_bytes": 29214,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E7%A7%91%E5%BD%99%E7%BA%82/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_892",
+      "name": "原机启微",
+      "chapter_count": 49,
+      "characters": 38683,
+      "max_content_bytes": 37239,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8E%9F%E6%A9%9F%E5%95%9F%E5%BE%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_894",
+      "name": "秘传眼科龙木论",
+      "chapter_count": 130,
+      "characters": 58888,
+      "max_content_bytes": 31080,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A7%98%E5%82%B3%E7%9C%BC%E7%A7%91%E9%BE%8D%E6%9C%A8%E8%AB%96/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_897",
+      "name": "目经大成",
+      "chapter_count": 419,
+      "characters": 172124,
+      "max_content_bytes": 19147,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%9B%AE%E7%B6%93%E5%A4%A7%E6%88%90/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_900",
+      "name": "一草亭目科全书",
+      "chapter_count": 64,
+      "characters": 15533,
+      "max_content_bytes": 4061,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+          "quality": "60%"
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_901",
+      "name": "审视瑶函",
+      "chapter_count": 215,
+      "characters": 140654,
+      "max_content_bytes": 14456,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AF%A9%E8%A6%96%E7%91%A4%E5%87%BD/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_903",
+      "name": "银海精微",
+      "chapter_count": 101,
+      "characters": 59018,
+      "max_content_bytes": 28371,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%8A%80%E6%B5%B7%E7%B2%BE%E5%BE%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_909",
+      "name": "重楼玉钥",
+      "chapter_count": 150,
+      "characters": 32479,
+      "max_content_bytes": 5093,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%8D%E6%A8%93%E7%8E%89%E9%91%B0/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_912",
+      "name": "白喉条辨",
+      "chapter_count": 46,
+      "characters": 12705,
+      "max_content_bytes": 3040,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%99%BD%E5%96%89%E6%A2%9D%E8%BE%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_916",
+      "name": "喉科指掌",
+      "chapter_count": 94,
+      "characters": 15401,
+      "max_content_bytes": 4280,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_917",
+      "name": "包氏喉证家宝",
+      "chapter_count": 5,
+      "characters": 12391,
+      "max_content_bytes": 12930,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8C%85%E6%B0%8F%E5%96%89%E8%AD%89%E5%AE%B6%E5%AF%B6/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_931",
+      "name": "口齿类要",
+      "chapter_count": 13,
+      "characters": 14866,
+      "max_content_bytes": 16765,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%A3%E9%BD%92%E9%A1%9E%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_938",
+      "name": "寿世传真",
+      "chapter_count": 61,
+      "characters": 29875,
+      "max_content_bytes": 8300,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E5%82%B3%E7%9C%9F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_940",
+      "name": "养生类要",
+      "chapter_count": 263,
+      "characters": 64476,
+      "max_content_bytes": 10543,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_942",
+      "name": "寿世青编",
+      "chapter_count": 68,
+      "characters": 31934,
+      "max_content_bytes": 6889,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E9%9D%92%E7%B7%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_948",
+      "name": "三元参赞延寿书",
+      "chapter_count": 42,
+      "characters": 37926,
+      "max_content_bytes": 51774,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%89%E5%85%83%E5%8F%83%E8%B4%8A%E5%BB%B6%E5%A3%BD%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_949",
+      "name": "山居四要",
+      "chapter_count": 35,
+      "characters": 30849,
+      "max_content_bytes": 18271,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B1%B1%E5%B1%85%E5%9B%9B%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_956",
+      "name": "香奁润色",
+      "chapter_count": 18,
+      "characters": 13684,
+      "max_content_bytes": 5512,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A6%99%E5%A5%A9%E6%BD%A4%E8%89%B2/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_958",
+      "name": "养生类纂",
+      "chapter_count": 260,
+      "characters": 54006,
+      "max_content_bytes": 43345,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E9%A1%9E%E7%BA%82/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_960",
+      "name": "养生月览",
+      "chapter_count": 12,
+      "characters": 20856,
+      "max_content_bytes": 10165,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E6%9C%88%E8%A6%BD/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_961",
+      "name": "养生四要",
+      "chapter_count": 7,
+      "characters": 40167,
+      "max_content_bytes": 48671,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%A4%8A%E7%94%9F%E5%9B%9B%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_977",
+      "name": "保生心鉴",
+      "chapter_count": 23,
+      "characters": 8375,
+      "max_content_bytes": 11532,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%BF%9D%E7%94%9F%E5%BF%83%E9%91%91/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_988",
+      "name": "吴鞠通医案",
+      "chapter_count": 48,
+      "characters": 144586,
+      "max_content_bytes": 56079,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%90%B3%E9%9E%A0%E9%80%9A%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_998",
+      "name": "王旭高临证医案",
+      "chapter_count": 27,
+      "characters": 109722,
+      "max_content_bytes": 35230,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%8E%8B%E6%97%AD%E9%AB%98%E8%87%A8%E8%AD%89%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_999",
+      "name": "寓意草",
+      "chapter_count": 67,
+      "characters": 68765,
+      "max_content_bytes": 9470,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AF%93%E6%84%8F%E8%8D%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1004",
+      "name": "孙文垣医案",
+      "chapter_count": 398,
+      "characters": 122185,
+      "max_content_bytes": 5964,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E6%96%87%E5%9E%A3%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1005",
+      "name": "续名医类案",
+      "chapter_count": 359,
+      "characters": 926383,
+      "max_content_bytes": 76015,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%BA%8C%E5%90%8D%E9%86%AB%E9%A1%9E%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1007",
+      "name": "程杏轩医案",
+      "chapter_count": 200,
+      "characters": 83061,
+      "max_content_bytes": 10608,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A8%8B%E6%9D%8F%E8%BB%92%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1011",
+      "name": "眉寿堂方案选存",
+      "chapter_count": 12,
+      "characters": 44692,
+      "max_content_bytes": 36239,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%9C%89%E5%A3%BD%E5%A0%82%E6%96%B9%E6%A1%88%E9%81%B8%E5%AD%98/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1016",
+      "name": "也是山人医案",
+      "chapter_count": 99,
+      "characters": 37452,
+      "max_content_bytes": 3562,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1020",
+      "name": "素圃医案",
+      "chapter_count": 10,
+      "characters": 66023,
+      "max_content_bytes": 57070,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%9C%83%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1021",
+      "name": "沈氏医案",
+      "chapter_count": 3,
+      "characters": 44793,
+      "max_content_bytes": 118497,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B2%88%E6%B0%8F%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1024",
+      "name": "青霞医案",
+      "chapter_count": 1,
+      "characters": 26372,
+      "max_content_bytes": 76732,
+      "chapters_exceeding_mysql_text": 1,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9D%92%E9%9C%9E%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1028",
+      "name": "得心集医案",
+      "chapter_count": 196,
+      "characters": 115591,
+      "max_content_bytes": 11476,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%BE%97%E5%BF%83%E9%9B%86%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1059",
+      "name": "古今医案按",
+      "chapter_count": 177,
+      "characters": 280766,
+      "max_content_bytes": 50706,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E6%A1%88%E6%8C%89/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1071",
+      "name": "王氏医案",
+      "chapter_count": 4,
+      "characters": 29799,
+      "max_content_bytes": 52962,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%8E%8B%E6%B0%8F%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1075",
+      "name": "洄溪医案",
+      "chapter_count": 58,
+      "characters": 27255,
+      "max_content_bytes": 6057,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%B4%84%E6%BA%AA%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1077",
+      "name": "石山医案",
+      "chapter_count": 62,
+      "characters": 58498,
+      "max_content_bytes": 29939,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%9F%B3%E5%B1%B1%E9%86%AB%E6%A1%88/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1095",
+      "name": "局方发挥",
+      "chapter_count": 1,
+      "characters": 15179,
+      "max_content_bytes": 45407,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%B1%80%E6%96%B9%E7%99%BC%E6%8F%AE/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1098",
+      "name": "冷庐医话",
+      "chapter_count": 112,
+      "characters": 99701,
+      "max_content_bytes": 30599,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%86%B7%E5%BB%AC%E9%86%AB%E8%A9%B1/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1100",
+      "name": "友渔斋医话",
+      "chapter_count": 146,
+      "characters": 93502,
+      "max_content_bytes": 54924,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%8B%E6%BC%81%E9%BD%8B%E9%86%AB%E8%A9%B1/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1107",
+      "name": "研经言",
+      "chapter_count": 153,
+      "characters": 60779,
+      "max_content_bytes": 11291,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%A0%94%E7%B6%93%E8%A8%80/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1193",
+      "name": "医贯",
+      "chapter_count": 45,
+      "characters": 78090,
+      "max_content_bytes": 23746,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E8%B2%AB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1197",
+      "name": "周慎斋遗书",
+      "chapter_count": 156,
+      "characters": 112172,
+      "max_content_bytes": 22447,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%91%A8%E6%85%8E%E9%BD%8B%E9%81%BA%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1198",
+      "name": "韩氏医通",
+      "chapter_count": 10,
+      "characters": 14737,
+      "max_content_bytes": 12276,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%9F%93%E6%B0%8F%E9%86%AB%E9%80%9A/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1201",
+      "name": "医门法律",
+      "chapter_count": 72,
+      "characters": 220917,
+      "max_content_bytes": 51820,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E6%B3%95%E5%BE%8B/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1204",
+      "name": "笔花医镜",
+      "chapter_count": 50,
+      "characters": 39860,
+      "max_content_bytes": 12098,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%AD%86%E8%8A%B1%E9%86%AB%E9%8F%A1/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1205",
+      "name": "脉因证治",
+      "chapter_count": 72,
+      "characters": 74558,
+      "max_content_bytes": 11543,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%84%88%E5%9B%A0%E8%AD%89%E6%B2%BB/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1206",
+      "name": "素问玄机原病式",
+      "chapter_count": 23,
+      "characters": 29229,
+      "max_content_bytes": 30505,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%B4%A0%E5%95%8F%E7%8E%84%E6%A9%9F%E5%8E%9F%E7%97%85%E5%BC%8F/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1208",
+      "name": "华氏中藏经",
+      "chapter_count": 56,
+      "characters": 30912,
+      "max_content_bytes": 21452,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%8F%AF%E6%B0%8F%E4%B8%AD%E8%97%8F%E7%B6%93/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1211",
+      "name": "证治汇补",
+      "chapter_count": 85,
+      "characters": 181831,
+      "max_content_bytes": 22161,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E8%AD%89%E6%B2%BB%E5%BD%99%E8%A3%9C/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1213",
+      "name": "金匮钩玄",
+      "chapter_count": 145,
+      "characters": 29939,
+      "max_content_bytes": 4710,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%87%91%E5%8C%B1%E9%89%A4%E7%8E%84/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1218",
+      "name": "扁鹊心书",
+      "chapter_count": 238,
+      "characters": 54756,
+      "max_content_bytes": 6687,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E5%BF%83%E6%9B%B8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1219",
+      "name": "医方集宜",
+      "chapter_count": 1701,
+      "characters": 165460,
+      "max_content_bytes": 19823,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E6%96%B9%E9%9B%86%E5%AE%9C/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1225",
+      "name": "丹溪治法心要",
+      "chapter_count": 159,
+      "characters": 90923,
+      "max_content_bytes": 13339,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E4%B8%B9%E6%BA%AA%E6%B2%BB%E6%B3%95%E5%BF%83%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1227",
+      "name": "寿世保元",
+      "chapter_count": 360,
+      "characters": 391682,
+      "max_content_bytes": 34331,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%A3%BD%E4%B8%96%E4%BF%9D%E5%85%83/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1229",
+      "name": "此事难知",
+      "chapter_count": 173,
+      "characters": 32474,
+      "max_content_bytes": 6834,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%AD%A4%E4%BA%8B%E9%9B%A3%E7%9F%A5/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1231",
+      "name": "古今医统大全",
+      "chapter_count": 3404,
+      "characters": 1549795,
+      "max_content_bytes": 90326,
+      "chapters_exceeding_mysql_text": 2,
+      "issues": [],
+      "warnings": [
+        "figures_not_included",
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E5%8F%A4%E4%BB%8A%E9%86%AB%E7%B5%B1%E5%A4%A7%E5%85%A8/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1232",
+      "name": "松崖医径",
+      "chapter_count": 109,
+      "characters": 67255,
+      "max_content_bytes": 18783,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E6%9D%BE%E5%B4%96%E9%86%AB%E5%BE%91/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1233",
+      "name": "医垒元戎",
+      "chapter_count": 14,
+      "characters": 12906,
+      "max_content_bytes": 8055,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "source_has_gap_markers"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%A3%98%E5%85%83%E6%88%8E/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1235",
+      "name": "医门补要",
+      "chapter_count": 252,
+      "characters": 53746,
+      "max_content_bytes": 38739,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [
+        "figures_not_included"
+      ],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E9%86%AB%E9%96%80%E8%A3%9C%E8%A6%81/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    },
+    {
+      "key": "extra_1236",
+      "name": "玉机微义",
+      "chapter_count": 730,
+      "characters": 282178,
+      "max_content_bytes": 16090,
+      "chapters_exceeding_mysql_text": 0,
+      "issues": [],
+      "warnings": [],
+      "source_declared_quality": [
+        {
+          "url": "https://jicheng.tw/tcm/book/%E7%8E%89%E6%A9%9F%E5%BE%AE%E7%BE%A9/index.html",
+          "quality": null
+        }
+      ],
+      "manual_review": "assistant_excerpt_check; see review.json",
+      "structural_status": "passed"
+    }
+  ],
+  "total_books": 300,
+  "total_chapters": 65564,
+  "total_characters": 33393223
+}

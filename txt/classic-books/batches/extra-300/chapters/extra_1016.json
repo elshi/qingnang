@@ -1,0 +1,3545 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_1016",
+    "name": "也是山人医案",
+    "summary": "《也是山人医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“中风”、“肝气”、“眩晕”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "也是山人",
+    "jp": "YSSRYA",
+    "aliases": [
+      "也是山人醫案"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "12f08681b8084b5cf0664cff",
+      "title": "中风",
+      "volume": null,
+      "content": "苏（五一）肝肾久衰。内风袭络。脉象缓大。肢体麻木。舌强言謇。此属痱中之象。阴气不主上承。当重培其下。兼佐熄风。\n熟地（四钱） 淡苁蓉（三钱） 沙蒺藜（二钱） 清阿胶（二钱） 杞子（二钱） 黄甘菊（一钱） 茯神（二钱）\n鲍（五四）眩晕仆中。口㖞眼斜。舌强言謇。脉形浮散。此属晚年肝肾气衰。内风袭络。阴液无以上供。拟滋阴熄风方。\n制首乌（四钱） 白蒺藜（二钱） 淮牛膝（二钱） 归身（一钱五分） 黄甘菊（一钱炒） 枸杞子（二钱） 明天麻（二钱煨）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "中風"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "b132dc719936710f60660d08dcbf4808980f11fe4cee82fe739e69b28e4c3ed6",
+      "content_sha256": "29f429b618ba56162752b33bbe98d3a7b494489107e641630988dcb33370ff25",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 221,
+        "simplified_codepoints": 221
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "7b9408f11597d82b9c9b7b72",
+      "title": "肝气",
+      "volume": null,
+      "content": "苏（六三）夏令阳升。目昏头晕。复遭嗔怒。肝气大作。所以黎明跌仆。遂致神昏。脉形短数。舌苔黄厚。姑议滋清。\n羚羊角（一钱） 炒焦半曲（一钱五分） 郁金（一钱） 小生地（三钱） 橘红（一钱） 石菖蒲根（三钱） 连翘心（一钱五分） 川贝母（二钱）\n苏（六三）前议滋清方。服至两剂。神识稍清。肝阳郁勃已解。脏阴虚损未复。今幸纳谷加餐。腑阳无恙。高年明是肝肾气馁。阴虚而阳无所附。阳神失守。致有目中妄见之象。非脱阳见鬼也。大忌祈祷。扰动阳神。恐阳愈偏而不返。再拟镇阳法。以冀回春。\n人参（一钱） 清阿胶（二钱） 生左牡蛎（三钱） 五味子（五分） 龙骨（三钱） 茯神（二钱） 生白芍（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 6,
+      "source_path": [
+        "肝氣"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "7a83a36b6b48a900899c0ddde71ec5d05d203e41c6d7e3e735e1b98af6baed7b",
+      "content_sha256": "1a30a74ab1973ff7af34e458b818a2f451f62e555665129ab6ef48de2d1a4584",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 291,
+        "simplified_codepoints": 291
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "65b1cc12a291576fab40c8dc",
+      "title": "眩晕",
+      "volume": null,
+      "content": "时（六一）痰火上实。头晕。\n桑叶（一钱） 炒焦半曲（一钱五分） 钩藤（三钱） 羚羊角（一钱五分） 广皮白（一钱） 白甘菊（一钱） 明天麻（二钱煨）\n冯（六三）肝风内动。眩晕。\n制首乌（四钱） 黄甘菊（一钱） 白蒺藜（一钱五分） 穞豆皮（三钱） 杞子（二钱） 云茯神（二钱） 霜桑叶（一钱）\n倪（四六）烦劳则阳气张大。脉来寸急尺缓。为呕逆眩晕。是厥阳变化。内风鼓动。而后上凭诸窍。病不在乎中上。经云。上实下虚。为厥巅疾。信斯言也。\n熟地（四钱） 杞子（二钱） 白蒺藜（一钱五分） 清阿胶（二钱） 菊花炭（一钱） 云茯神（二钱） 穞豆皮（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 11,
+      "source_path": [
+        "眩暈"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "79589d165df6f7f4ec6eb33f54613caba14e39bc0930777989f718178f649157",
+      "content_sha256": "0c573802ede0555171d2900ed2eade89a6fd3e4a7c542a90b504aa48425bce0d",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 270,
+        "simplified_codepoints": 270
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "ffb98265a1fb4b92583e9fd3",
+      "title": "头风",
+      "volume": null,
+      "content": "赵（四五）右偏头风痛。目赤。少阳郁火未熄。\n霜桑叶（一钱） 丹皮（一钱） 白蒺藜（炒一钱五分） 穞豆皮（二钱） 黄甘菊（一钱） 云茯神（二钱） 制首乌（三钱） 杞子（二钱）\n卫（五二）头风痛。呕吐便秘。肝阳化风上冒。拟柔缓和阳。复脉去参、姜、桂。加牡蛎。\n生左牡蛎（三钱） 细生地（三钱） 炙甘草（五分） 清阿胶（二钱） 麦冬（二钱） 南枣（三钱） 大麻仁（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "頭風"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "ebcb968cf1e6a8560936a1fe174b96656f2df98d123d851623d6734df3181490",
+      "content_sha256": "f6a6778836fbc105fc64b277a5fca04192f2a9e63b965073095f365714df9618",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        19,
+        20,
+        21,
+        22
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "318df80ff6374ab62d629677",
+      "title": "虚劳",
+      "volume": null,
+      "content": "吴（五四）二气交衰。怯冷。气急妨食。且护阳。扶过一阳萌动再商。\n人参（一钱） 制淡川附子（一钱） 茯苓（三钱） 老姜汁（临服冲入五分） 广皮白（一钱） 炒焦半曲（一钱）\n陆（三二）经病阴损未复。气浮咳嗽。胃纳颇减。兼有吞酸。此属下焦元海已竭。生气不至。假借太阴面目。非苦辛泄肺所宜。\n熟地炭（四钱） 远志（八分炒） 杞子（炒一钱五分） 五味子（一钱五分） 萸肉炭（二钱） 紫衣胡桃肉（一两） 茯苓（三钱）\n戴（三四）二气已偏。热炽气急。跗肿便溏。当此夏令升泄。难望久延。\n人参（一钱） 河车胶（二钱） 胡桃肉（五钱） 熟地炭（三钱） 五味子（五分） 云茯神（二钱） 川斛（四钱）\n王（三六）胃气方苏。肺阴未复。咳逆便秘。非泄肺所能治之。\n北沙参（二钱） 拣麦冬（一钱五分） 叭哒杏仁（三钱） 肥玉竹（二钱） 川贝（二钱） 南枣（三钱） 云茯神（二钱） 紫菀（一钱） 生甘草（三分） 上药十帖熬膏。\n董 骨蒸潮热。便溏。\n大生地（四钱） 真小清胶（二钱） 地骨皮（三钱） 炙鳖甲（五钱） 川连（三分） 玉竹（二钱） 钗石斛（三钱）\n王（十二）呛逆。咽痛。便泄。\n霜桑叶（一钱） 叭哒杏仁（三钱） 苡仁（二钱） 象贝（一钱五分） 炙草（四分） 块茯苓（三钱） 嫩元参（一钱五分） 炒焦建曲（一钱五分）\n又 溏泄已止。痰咳俱减。治宜扶土生金。\n蒸于术（二钱） 苡仁（二钱） 真川贝（一钱五分） 拣麦冬（去心，一钱五分） 新会皮（一钱） 块茯苓（三钱） 南沙参（一钱五分） 党参（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 23,
+      "source_path": [
+        "虛勞"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "3ff564f3855d61c6bf99f082d9ab024bb35965267232328e410bfb2cff2dd28f",
+      "content_sha256": "e2de34cdb1b5764b490324be9ae346a9195e7e79c34337a4f92d0ee26dad2872",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 639,
+        "simplified_codepoints": 639
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "b25d2136a4fa853da2830a21",
+      "title": "咳嗽",
+      "volume": null,
+      "content": "凌（十四）风温上受。咳嗽恶心。鼻塞脉大。\n象贝母（一钱五分） 泡白杏仁（三钱） 栝蒌皮（一钱五分） 牛蒡子（炒研，一钱五分） 橘红（一钱） 黑山栀（一钱五分） 霜桑叶（一钱） 桔梗（一钱）\n陆（廿八）咳嗽痰多。初愈复发。\n霜桑叶（一钱） 杏仁（三钱） 桔梗（一钱五分） 象贝（二钱） 橘红（一钱） 连翘（一钱五分） 马兜铃（七分）\n吴（八岁）咳嗽呕逆。中焦已痞。肺气以下行为顺。\n鲜枇杷叶（三钱） 郁金（一钱） 冬瓜子（三钱） 杏仁（三钱） 栝蒌皮（一钱五分） 桔梗（一钱） 川贝母（去心研，二钱） 橘红（一钱）\n徐（十二）咳嗽呛血。腹中鸣响。咳早甚。则知胃阴虚。所服驱风降痰。徒伤其阳耳。\n白扁豆（三钱） 玉竹（二钱） 白粳米（三钱） 炒麦冬（二钱） 北沙参（三钱） 南枣（三钱） 川斛（三钱） 生甘草（三分）\n冯（四八）咳嗽哮喘。宜当温散。\n制麻黄（五分） 橘红（一钱） 茯苓（三钱） 川桂枝（八分） 炙草（四分） 生姜（一钱） 杏仁（三钱）\n沈妇（廿一）寒热头痛。咳嗽。卧不著枕。呕逆。此属胃咳之状。当先制肝。\n旋覆花（绢包一钱） 制半夏（一钱五分） 代赭石（三钱） 川贝（去心研，二钱） 郁金（一钱） 茯苓（三钱） 栝蒌皮（一钱五分） 泡白杏仁（三钱）\n钟（二十）脉虚细。晨咳。咳动即身热。拘束自汗。腹中微痛。望色㿠白。病几一月不痊。昨进辛寒不应。谅非邪著于里。是营卫二气交怯。宗经旨虚则补母之义。黄耆建中汤去饴、姜。加牡蛎、五味、茯神。\n嫩黄耆（三钱） 桂枝（八分） 南枣（三钱） 五味子（一钱） 炙草（五分） 茯神（二钱） 左牡蛎（三钱） 大白芍（一钱五分）\n陈（四六）咳逆无痰已久。经阻。少腹有形瘕聚。\n杜苏子（炒研一钱） 草郁金（一钱） 炒楂炭（一钱五分） 栝蒌皮（一钱五分） 炒桃仁（去尖一钱） 归须（一钱五分） 黑山栀（一钱五分） 粉丹皮（一钱五分） 加降香末（三分）\n戴（二岁）面白无神。咳嗽。肺胃阴衰。\n真川贝（去心研，一钱五分） 南沙参（一钱五分） 叭哒杏仁（研，三钱） 梨汁制陈皮（一钱） 茯神（二钱） 川斛（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 38,
+      "source_path": [
+        "咳嗽"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "9c73c627c76132e144ea358b87b161b60cc889d21638d856fc991f9592a8f502",
+      "content_sha256": "d7b87773bef60ddd84209b5c6d63bf860f833bbc56bee89dfc96c2e1dbb24535",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 874,
+        "simplified_codepoints": 874
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "b794d163ce6a2c414efa319e",
+      "title": "吐血",
+      "volume": null,
+      "content": "朱（三三）咳痰见血。肺胃久虚。\n桑叶（一钱） 杏仁（三钱） 川斛（三钱） 大沙参（二钱） 象贝（一钱五分） 茯苓（二钱） 玉竹（二钱）\n蒋（三六）吐血已止。脉象弦数。胃纳不减。咳嗽气冲。少阴久虚之象。防血复来。\n大淡菜（一两） 牛膝炭（一钱五分） 白扁豆（五钱） 川斛（三钱） 参三七（五分） 糯稻根须（五钱） 白茯苓（三钱）\n徐（三二）嗔怒肝阳上升。胃络血涌。诸气皆以下行为顺。拟降气法。\n苏子（炒研一钱） 郁金（一钱） 南楂肉（二钱） 桃仁（炒，一钱） 丹皮（炒，一钱五分） 黑山栀（一钱五分） 降香末（冲入五分）\n魏（四八）心肾精血不充。痰中带血。胃纳颇佳。后天生气甚好。不致损怯之虞。\n熟地（四两） 远志（五钱） 山药（二两） 萸肉（二两） 五味子（一两） 茯苓（三两） 芡实（二两） 建莲（三两）\n雷（五四）脉左坚。肝肾阴伤失血。\n生地炭（三钱） 川斛（三钱） 山药（二钱） 清阿胶（二钱） 麦冬（二钱） 茯苓（二钱） 左牡蛎（三钱） 五味子（一钱五分）\n陆（五三）吐血已止。咳痰晡甚。暮热气喘。肺胃阴虚所致。兼以养阴和阳。\n川斛（四钱） 白扁豆（五钱） 炙草（四分） 生地炭（三钱） 麦冬（二钱） 茯神（二钱） 清阿胶（二钱）\n又 昨进养阴和阳。痰咳已缓。暮热盗汗。寐醒即止。再当镇摄可安。\n生左牡蛎（三钱） 五味子（一钱五分） 炙草（四分） 清阿胶（三钱） 麦冬（二钱） 云茯神（二钱） 熟地炭（四钱） 远志（八分）\n戴 少阴久亏。阳不潜藏。肝肾之血。亦随气升。冲胃犯肺。震动络脉。溢于其上。以致咯出。左关脉渐平。右关濡软略旺。瘀行未尽。略有咳逆。前议熟地。又取壮水。乃阴旺阳乃复辟之意。即经旨所谓阳在外。阴之使也。拟方候裁。\n熟地（四钱） 拣麦冬（二钱） 淮牛膝炭（一钱五分） 陈阿胶（另烊冲，二钱） 川贝母（去心研，一钱五分） 左牡蛎（煆研三钱） 云茯神（二钱） 北沙参（一钱五分） 苡仁（二钱）\n又\n熟地（四钱） 白蒺藜（一钱五分） 云茯神（二钱） 拣麦冬（二钱） 霞天曲（炒，三钱） 制女贞（一钱五分） 北沙参（三钱） 川贝（去心研，二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 57,
+      "source_path": [
+        "吐血"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "92d1ddc73547fe9635e9c02bfff00917e2d420f2c74c6800999677a06332b0a9",
+      "content_sha256": "bae4bed6bde3d9832255b4218f22d4f6cd817aa9d7713049c4856cb04ffabb82",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 881,
+        "simplified_codepoints": 881
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "f3f7caa63d11750728b48094",
+      "title": "失音",
+      "volume": null,
+      "content": "卫（三十）失音已久。胃纳颇佳。非其气之馁。当金匮金实无声议治。\n麻黄（三分） 石膏（三钱） 杏仁（三钱） 生草（三分） 射干（五分） 苡仁（三钱）\n钱（四一）肺象空悬。其位最高。据述曾经吐血之后。声音出不扬。饮食少纳。干咳频多。此属少阴水亏。不能济火。致君相上腾。燔烁娇脏。不无受伤。顾本是滋阴补虚为要。然岁气当深秋之际。肃化犹为最先。莫若暂用固金法。从金生水意。\n阿胶（二钱） 北沙参（一钱五分） 生地（三钱） 生鸡子黄（一枚） 麦冬（二钱） 川斛（四钱） 茯神（二钱） 生甘草（三分）\n戴 瘀咯将净。痰咳亦缓。肺胃络脉。乃肝阳潜伏。渐有宁静之象。今诊得左关弦形已退。右关脉已鼓指。而独右寸软弱。左尺虚细。右尺微小。六脉虽未调和。审体质未始不为平脉。古人所谓未见病脉。即平脉也。仍拟养肾。佐以健脾。\n熟地（四钱） 北沙参（一钱五分） 淮山药（炒，二钱） 陈阿胶（二钱） 拣麦冬（一钱五分） 建莲（去心，二钱） 云茯神（二钱） 川贝（二钱） 蒲黄（炒黑，五分）\n又 填纳下焦。肝肾肺胃络脉渐宁。痰咯虽未净尽。而脏阴离络之瘀已尽。然而颐养宁神。络脉完固。不致贻患。仍拟肝肾定例。少佐清化。\n熟地（四钱） 拣麦冬（一钱五分） 建莲（二钱） 陈阿胶（二钱） 川贝（一钱五分） 淮山药（炒，二钱） 左牡蛎（三钱） 沙蒺藜（二钱） 云茯神（二钱）\n又 自瘀尽以来。络脉巩固。肝肾根蒂亦基。痰咯亦少。形神颇安。脉右寸软。尺小弱。余部中和。但此小雪节候。值少阴用事之时。只宜静养。以待一阳来复。其调剂仍宗前议。聊以益气佐之。\n熟地（四钱） 西党参（二钱） 酸枣仁（炒焦，二钱） 陈阿胶（二钱） 拣麦冬（一钱五分） 云茯神（二钱） 川贝（一钱五分） 建莲（二钱） 炙草（四分）\n又 照前议参脾为生痰之源治。\n熟地（四钱） 炒焦冬术（一钱五分） 枣仁（炒黑，二钱） 陈阿胶（二钱） 新会皮（一钱） 拣麦冬（一钱五分） 云茯神（二钱） 川贝（去心研，一钱五分） 人参（另煎冲，一钱）\n又\n熟地（四钱） 北沙参（三钱） 建莲（去心，三钱） 陈阿胶（蛤粉炒，二钱） 川贝（去心研，二钱） 淮牛膝炭（一钱五分） 拣麦冬（去心，一钱五分） 云茯神（二钱） 九孔石决明（煆研三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "失音"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "4f90318f1c046dd8893122cbbc3f2fb485d92889ba01fde89c13ae0956187f40",
+      "content_sha256": "9d975cf1aefc5fb987791147ecf45edfe4ad66bf8a64b9fec6de70a340075a72",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 925,
+        "simplified_codepoints": 925
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "a8aa52217a07db27921e4101",
+      "title": "肺痿",
+      "volume": null,
+      "content": "苏（四十）咳嗽音哑。防肺痿。\n川石斛（三钱） 炒扁豆（五钱） 茯神（二钱） 北沙参（一钱五分） 麦冬（三钱） 南枣（三钱） 玉竹（二钱）\n魏 冬温咳嗽。频吐涎沫。不能多饮。胃纳甚少。此属肺痿。且拟甘缓。为邪少虚多治法。\n黄耆（蜜炙三钱） 白芨（二钱） 白百合（三钱） 当归（一钱五分） 南枣（三钱） 麦冬（二钱） 生苡仁（三钱） 炙草（四分）\n戴 络凝不固。肝脉布胁。呛逆凝瘀。左脉已静。右脉未和。此即络虚留滞之意。议益阴和阳。佐以宣络。\n原熟地（四钱） 西党参（二钱） 建莲（去心二钱） 真川贝（二钱） 陈阿胶（蛤粉炒，二钱） 米仁（二钱） 旋覆花（一钱） 云茯神（二钱）\n又\n人参（另煎冲，五分） 陈阿胶（另烊冲，二钱） 枣仁（炒焦研，三钱） 原熟地（四钱） 大白芍（一钱五分） 茯神（二钱） 拣麦冬（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "肺痿"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "d66f67d470dadc885a3acd80309df5b81a25710b95fbf2814b2fc76dbbf78447",
+      "content_sha256": "1651bd9a10822f972bc2f9df6675509392bdbefb246cb3d6fd002a5072b9978f",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 358,
+        "simplified_codepoints": 358
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "9806fce039a82e73e675c7e9",
+      "title": "遗精",
+      "volume": null,
+      "content": "蒋（廿三）精泄无梦。寤多寐少。少阴不司藏聚。\n熟地（四钱） 远志（五分） 山药（二钱） 桑螵蛸（二钱） 湖莲（三钱） 茯苓（三钱） 柏子仁（三钱） 芡实（二钱）\n徐（四一）多梦纷纭。遗泄频多。经营之人。扰神动心。相火随之。拟介属以潜之。厚味以填之。\n熟地（四钱） 龟腹版（五钱） 远志（五分） 萸肉（二钱） 线胶（二钱） 五味子（一钱五分） 淡菜（二钱） 湖莲（三钱） 芡实（二钱）\n张（十八）面色痿黄。无梦遗泄。左脉虚数。此属湿热下注。与固涩异政。\n川萆薢（三钱） 湖莲（三钱） 茯苓（三钱） 炒黄柏（一钱） 山药（二钱） 泽泻（一钱） 远志（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "遺精"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e6114b6680dee8af22e630bc1232e76ea246d5a5d29c30e9d8e8f411ef90b3ce",
+      "content_sha256": "eeb4b5985f6de6f05e215a17baaf1f186ffb2df0a66b750cc8331247bbba8737",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        101,
+        102,
+        103,
+        104,
+        105,
+        106
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 276,
+        "simplified_codepoints": 276
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "c9c483f7388d275737535e2a",
+      "title": "小便不通",
+      "volume": null,
+      "content": "陈（三十）脉细面白。小溲不通。此属中气不足所致。经旨谓膀胱者。州都之官。津液藏焉。气化则能出矣。倘投泄肺以展气化。是实邪治法。决不效验。\n生黄耆（三钱） 炒焦半夏（一钱五分） 茯苓（三钱） 白术（二钱） 广皮白（一钱） 炙草（五分） 高丽参（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 107,
+      "source_path": [
+        "小便不通"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "28096885fb39bdd4a0a5ce4462a0dd036694a5c1d8e4f570a7e1f3f3cc9689d1",
+      "content_sha256": "a0d5e08072af563124d54dac9fb457fb7f753f508c06670595ec42b294d53bdd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        108,
+        109
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 124,
+        "simplified_codepoints": 124
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "f5b6a7d346315f9b6c37576e",
+      "title": "小便不禁",
+      "volume": null,
+      "content": "周（十八）冲年遗溺。知识太早。肾脏不司藏聚。非关足太阳腑经。当从心肾议治。亦肾与膀胱表里相应之征也。\n熟地（四钱） 覆盆子（一钱） 芡实（一钱） 桑螵蛸（二钱） 龙骨（生打三钱） 建莲（三钱） 远志（八分） 五味子（一钱） 茯神（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 110,
+      "source_path": [
+        "小便不禁"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "dcfba0613f760f67996ea611d78196b0f1a68a3681cfee9f7116f4e82ff0f2bc",
+      "content_sha256": "aadb20f781f77ba265546fe633e5a572365c01d2c7c2f925eb8a286e9de358df",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        111,
+        112
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 118,
+        "simplified_codepoints": 118
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "c257f1deb046d8d497ae10e8",
+      "title": "汗",
+      "volume": null,
+      "content": "范（三二）脉细。形寒自汗。此属卫阳式微。\n人参（一钱） 制淡附子（一钱） 炙草（五分） 熟于术（二钱） 煨姜（八分） 南枣（三钱） 茯苓（三钱）\n龙（三十）卫疏汗泄。\n生黄耆（三钱） 煨姜（一钱） 南枣（三钱） 熟白术（二钱） 炙草（五分） 茯神（二钱） 防风（六分）\n归（三六）夜寐汗泄甚多。寐醒遍身如浴。此属盗汗。是阴液所化。肾衰不能内营使然。议镇阳以理虚。\n生左牡蛎（三钱） 龙骨（三钱） 茯神（二钱） 五味子（一钱五分） 麦冬（三钱） 南枣（三钱） 防党参（一钱）\n潘（四三）汗泄脉大。劳伤营卫所致。\n嫩黄耆（三钱） 白芍（一钱五分） 煨姜（一钱） 当归（一钱二分） 炙草（五分） 南枣（三钱） 桂枝木（四分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 113,
+      "source_path": [
+        "汗"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "46653f62af48fd63e535e314909b303ee8599f0be42598124ce1b57826bc87ff",
+      "content_sha256": "dd2994a2ce685cbc08c91b7aeb0244ee8ca7486da51c22b7596f466af271d382",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 309,
+        "simplified_codepoints": 309
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "ea0ab027443361393cb029c2",
+      "title": "脱",
+      "volume": null,
+      "content": "钱（三岁）喘急脉细。戴眼。已现脱象。无方。\n倪（一岁）襁褓寒热旬余。肢肿腹胀。便溏。近加喘急。戴眼。是厥脱根萌。此属太阳已绝。辰戌日期小心。无方。\n苏（三一）中暍瘛疭。口噤不语。法所不治。勉拟黄土汤。\n掘地尺余深。取新汲水。搅浊澄清。频饮。\n洪（三四）阴寒格阳。脉独疾而散。心胸热炽。面赤尤甚于两颧。烦渴干呕。胸闷。但欲寤。危期至速。勉拟热因热用之方。俾乃导火归原。庶有生机之望。\n上肉桂（五分） 泡淡川附子（一钱） 茯苓（一钱五分） 淡干姜（八分） 熟半夏（一钱五分） 炙草（四分） 生白芍（一钱五分）\n邵（五八）昨脱癃闭。势甚窘迫。欲解不通。脉如雀啄。想前阴利水。厥阴主之。少阴主二便。此属肝肾气逆。已萌阴脱之象。三日内必有手足厥阴目盲等。疑不治之症。无方。\n邹（七一）邪陷已久。脘痹不纳谷。心胸热炽。两眼怕亮喜暗。自觉红光耀目。脉按之细而兼沉。总是邪陷。锢蔽日深。清邪疏邪之法。均已无效。症属棘手。勉拟热因热用之方。补里托邪。俾乃导火归原。庶有百中一幸之望。\n人参（五分） 制半夏（一钱五分） 炙草（五分） 炮熟川附子（五分） 去皮上桂（五分） 淡干姜（五分） 茯苓（三钱）\n又\n人参（五分） 制半夏（一钱五分） 去白广皮（一钱） 炮熟川附子（五分） 去皮上桂（五分） 淡干姜（五分） 茯苓（三钱）\n沈（廿六）新产十朝。昨进育阴潜阳。腰痛带淋稍减。两颧赤色更甚。干呕不除。竟夜少寐。右尺不起。脉形独疾而散。而非数也。譬诸灯火。焚膏殆尽。往往有扑灭之虞。治此症甚难。勉拟导火归原一法。候诸高明正。\n人参（另煎冲，五分） 制淡川附子（五分） 炙草（五分） 原熟地（四钱） 炮姜（四分） 茯苓（三钱） 去皮上桂（三分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 122,
+      "source_path": [
+        "脫"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "5a11d2b863f5bc3ff2dfe3a35af24084811ca9c4cfc1e1a1540ac664661909c9",
+      "content_sha256": "7178a479a68bf99fc43427988e52b345427a1c3a402620c9e53fcd2128a3f349",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 709,
+        "simplified_codepoints": 709
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "bb94dfed45edbd660e5290ed",
+      "title": "脾胃",
+      "volume": null,
+      "content": "陆（六十）病后。食复令伤脾胃。不饥不食。潮热口干。嗳气胀满。胸脘填塞。是属胃腑气机少宣。即内经所谓谷入少而气多者。邪在胃及肺也。\n川石斛（四钱） 炒焦半夏（一钱五分） 焦谷芽（一钱） 南花粉（一钱五分） 新会皮（一钱） 块茯苓（三钱） 枳实皮（一钱）\n家（一五）正衰偏热。便秘。纳谷安适。良由肺胃阴液未复使然。\n川石斛（四钱） 炒焦半夏曲（一钱五分） 枳实皮（一钱） 炒麦冬（一钱五分） 新会皮（一钱） 生谷芽（一钱） 块茯苓（三钱） 大麻仁（一钱五分）\n钱（四三）身无寒热。脉缓。便溏。纳谷而少。胃气方苏。脾弱不司运化。病后颇有是症也。\n生白术（二钱） 新会皮（一钱） 建泽泻（一钱五分） 益智仁（煨研，八分） 焦麦芽（一钱） 茯苓（三钱） 厚朴（一钱）\n柯（廿四）邪去正衰。骤不肯复。胃气不振。不思纳谷。宜养肺胃之阴。\n川石斛（四钱） 炒焦半夏（一钱五分） 枳实皮（一钱） 炒麦冬（七分） 新会皮（一钱） 生谷芽（一钱） 块云茯苓（三钱）\n姚（四三）冬温月余。服药数剂。但攻邪病。正气大衰。余热尚留于枢。阴伤未复。致有汗泄。口干。饥不能食。皆攻病时苦寒所伤。胃气未苏之故。宜养肺胃除热。\n川斛（三钱） 炒焦半夏（一钱五分） 枳实皮（一钱） 淮小麦（三钱） 新会皮（一钱） 生谷芽（一钱） 茯神（二钱）\n王（十七）右寸脉数已退。大便已解。气分尚怯。拟养肺胃。以理余邪。\n制洋参（八分） 炒焦半夏（一钱五分） 萆薢（三钱） 拣麦冬（三钱） 新会皮（一钱） 连翘壳（一钱） 块茯苓（一钱） 钗斛（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 136,
+      "source_path": [
+        "脾胃"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e86f0a180b432f3e4de90c6f9e3be8ff9ac4c0014ebeadc6ed9ad11aa1bae1a7",
+      "content_sha256": "f473b8138786cdd420eb4b2cf962d18672f3c6901fb36001d242d07b6bb6ed1f",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 650,
+        "simplified_codepoints": 650
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "eedb08e42aaa714868853f3f",
+      "title": "木乘土",
+      "volume": null,
+      "content": "朱（五六）阳明胃衰。脉弦。呕逆吞酸。少寐。此属木邪侮土。拟制肝木。以无犯胃土则安。\n淡吴萸（七分） 制半夏（一钱五分） 淡干姜（一钱） 川楝子（二钱） 木瓜（一钱） 茯苓（三钱） 生白芍（一钱五分） 生益智（八分）\n陈（四一）肝木犯胃。呕逆吐酸。\n吴萸（五分） 制半夏（一钱五分） 延胡（一钱） 淡干姜（一钱） 高良姜（一钱） 桂枝木（五分） 茯苓（三钱）\n乌（四八）病伤未复。面无华泽。左脉涩弱。寤而少寐。冲脉隶于肝肾。肝肾衰则冲脉动。心下漾漾。涎沫上溢于口。此属肾气少纳。中无砥柱。与肝胃症似是而非。拟甘酸摄阴。方亦塞因塞用之一法也。\n熟地炭（四钱） 炒黑栀子（一钱五分） 酸枣仁（三钱） 五味子（三分） 远志炭（四分） 茯神（二钱） 淡苁蓉（三钱） 紫石英（一两） 煎汤代水\n苏（三一）肝木乘犯阳明胃土。呕酸食少。经分不至。脉象弦数。拟制肝和胃。\n川楝子（二钱） 制半夏（一钱五分） 茺蔚子（一钱五分） 炒延胡（一钱） 郁金（一钱） 生香附（三钱） 南楂炭（二钱）\n汤（十八）拟补太阴泄少阳方。\n焦白术（二钱） 炒焦半夏（一钱五分） 钩藤（一钱五分） 粉丹皮（一钱五分） 广皮白（一钱） 茯苓（三钱） 霜桑叶（一钱）\n又\n泡淡吴萸（六分） 制半夏（一钱五分） 广皮（一钱） 川楝子（二钱） 川郁金（八分） 茯苓（三钱） 生白芍（二钱） 制香附（三钱）\n又 后戊己汤。辛甘理阳。\n西党参（二钱） 炙草（五分） 甜冬术（二钱） 广皮（一钱） 茯苓（三钱） 生白芍（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 149,
+      "source_path": [
+        "木乘土"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "c0bc82d1dff134098628221640c92aff3d1c260021a929a02e3d38581f54c02b",
+      "content_sha256": "da9da308c0c475dd7da9dbc7ae2a371497bc6e1915b1647d231a2eea3b2936ea",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 636,
+        "simplified_codepoints": 636
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "45a2d462c3b8782416e3ebd9",
+      "title": "肿胀",
+      "volume": null,
+      "content": "陈（五一）跗肿腹满。䐜胀。二便涩少。此属脾胃阳虚。澹泊不堪所致。姑进通腑。少佐泄肝。\n生白术（二钱） 制淡附子（一钱） 吴萸（七分） 草果仁（八分） 淡干姜（一钱） 茯苓（三钱） 厚朴（一钱）\n曹（五四）昨进苦辛宣腑。酸涩泄肝。跗肿腹满未减。噫嗳胀势不消。二便皆秘。脉象沉伏。此属血分聚水之象。再拟泄厥阴。通阳明法。\n川楝子（二钱） 制大黄（一钱） 归尾（一钱五分） 郁李仁（去皮炙研，一钱五分） 小茴香（三分） 红花（五分） 桂枝（八分） 炒桃仁（一钱）\n杨（八岁）少腹水胀。两足俱浮。小便不解。温通太阳可效。\n川桂木（八分） 焦白术（二钱） 茯苓（三钱） 汉防己（一钱五分） 木猪苓（一钱五分） 泽泻（一钱） 苡仁（二钱） 椒目（四分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "腫脹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "0e47becac4973b220767f62cca38bafd2533a0cfd169e168a55e736d5bf6b327",
+      "content_sha256": "4dead1279ee5c0fe795391d8642b508601e46ad0c53dc122798052f7264fcfbc",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 320,
+        "simplified_codepoints": 320
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "c2914fbba063705a4cdceef9",
+      "title": "积聚",
+      "volume": null,
+      "content": "陈（十六）肝气肆横。腹痛。向有瘕聚。法当疏泄。\n青皮（一钱） 归须（一钱） 茺蔚子（一钱） 炒延胡（一钱） 郁金（一钱） 黑山栀（一钱五分） 南山楂（一钱五分）\n褚（廿七）久患积聚。痛而不移。兼有肠澼。未亟缓攻。\n青皮（一钱） 茅术炭（一钱） 归须（一钱） 煨木香（五分） 炒地榆（一钱五分） 生香附（一钱五分） 槟榔（一钱） 厚朴（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 171,
+      "source_path": [
+        "積聚"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "fe059c431821d71e18383614f9c306dbdacfe95c77575738179333958ddabfa2",
+      "content_sha256": "cb2676227455aff59248558ce8909d0d76e7be8905b4cf079b57eec58990981a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        172,
+        173,
+        174,
+        175
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "61c460f2a41e9204f2b4fac9",
+      "title": "痞",
+      "volume": null,
+      "content": "许（四六）昨用苦辛开痞。呕逆已止。脉象稍清。但胸次按之而痛。此属热邪阻遏中焦。清气为无形质。是与食滞两岐。\n川连（六分） 制半夏（一钱五分） 枳实（一钱） 淡黄芩（一钱） 杏仁（三钱） 栝蒌皮（一钱五分） 厚朴（一钱）\n戴（廿八）脉象短数。脘闷。舌白黏腻。得大便胸次稍舒。此属热结在上。为上焦不行。下脘不通。况肺与大肠。亦是表里相应。见症拟栀豉汤以解其陈腐之邪。\n佩兰叶（三钱） 郁金（一钱） 枳壳（一钱） 炒香淡豉（一钱五分） 杏仁（三钱） 桔梗（一钱） 黑山栀（一钱五分） 栝蒌皮（一钱五分）\n马（二六）胃虚痞塞。拟辛以助阳。\n姜汁炒川连（五分） 制半夏（一钱五分） 枳实（一钱） 淡干姜（八分） 黄芩（一钱） 鲜竹茹（三钱） 茯苓（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 176,
+      "source_path": [
+        "痞"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "106ceb56174617442bfce22701e82709b32cfd61803ecbf4904b042852264c2f",
+      "content_sha256": "c27398eded2274f4246e6c1b91b0d7cca5274fe51b45f1e02a9db751dca3b31d",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 322,
+        "simplified_codepoints": 322
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "1bb7906ce2f0560a24f4aae3",
+      "title": "噎膈反胃",
+      "volume": null,
+      "content": "龚（四一）噎阻不舒。呕吐涎沫。食物格拒。咽中总属不爽。在上清阳日结。拟治肺以展气化。勿与椒梅酸收闭塞可也。\n鲜枇杷叶（三钱） 郁金（一钱） 炒香豉（一钱五分） 杏仁（二钱） 栝蒌皮（一钱五分） 黑山栀（一钱五分） 川贝母（二钱）\n蔡（五一）阳明胃衰。纳谷脘中痛。嗳哕频频。气不展舒。胸膈是清阳旋转之处。失其下行为顺之旨。必胃汁先枯。然后脾阳亦钝。膈症萌矣。拟甘寒生津。以存其阴液。无暇理胃脘之清阳。是亦膈症治法\n川石斛（三钱） 鲜生地（五钱） 玉竹（一钱） 麦冬（一钱） 淡天冬（二钱） 柿霜（一钱） 甜杏仁（三钱） 梨汁（半杯临服冲入）\n田（二三）早食暮吐。大便不爽。病在中下。\n小川连（四分） 制半夏（一钱五分） 桃仁（一钱） 制大黄（五分） 郁金（一钱） 红花（五分） 枳实（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 183,
+      "source_path": [
+        "噎膈反胃"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "55f56bcbf3e06199c5939f3919bccaf019660e46fb6410b91f35b42a72dfac27",
+      "content_sha256": "408d19550de9ae58b41aa85bfaa4d5c33dca65cfb6ede80936364ba06dd51dd1",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        184,
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 344,
+        "simplified_codepoints": 344
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "13514cf5e2d388556e115b46",
+      "title": "关格",
+      "volume": null,
+      "content": "王（七二）脘痛不食。二便艰少。并不渴饮。此属阳气结于上。阴液衰于下。为关格。难治之症。\n人参（一钱） 泡淡川附子（一钱） 枳实（五分） 淡干姜（一钱） 制半夏（一钱五分） 川连（四分） 茯苓（三钱） 生白芍（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 190,
+      "source_path": [
+        "關格"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "cc4f0f22304140c6039ff832c9bc0d79acc7ae5b85625e2ab62eca4c1312a79d",
+      "content_sha256": "f3f601870149ef085e0a8c2d3edf9fecc58df2e053741d92a394ffea844980bf",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        191,
+        192
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 109,
+        "simplified_codepoints": 109
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "e745e756d1da6dc8320d535c",
+      "title": "嗳气",
+      "volume": null,
+      "content": "蔡（三五）胃衰。胸膈不爽。嗳气呕恶。此属清阳不升。浊气不降。舍理胃阳无别法。\n人参（一钱） 制半夏（一钱五分） 淡干姜（一钱） 旋覆花（一钱） 新会皮（一钱） 茯苓（三钱） 钉头代赭（三钱）\n洪（四八）嗳气不舒。脉缓便溏。此属胃阳虚。浊阴上干。\n钉头代赭（三钱） 制半夏（一钱五分） 淡干姜（一钱） 旋覆花（一钱） 新会皮（一钱） 茯苓（三钱） 制淡川附子（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 193,
+      "source_path": [
+        "噯氣"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "40594bb6bd0b23243cb9452e1033ed5b28b37a48f8acd02d24e5b936ef8a00ce",
+      "content_sha256": "463b9a90c6fe37b223517c1735a5a75749204bc5993fad4fd335954ce20ba321",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        194,
+        195,
+        196,
+        197
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 182,
+        "simplified_codepoints": 182
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "9314e840fc8f3b9fbd775241",
+      "title": "呕吐",
+      "volume": null,
+      "content": "姚（三八）昨进凉解方。身热稍减。口渴已止。是大邪将解之象。但呕吐妨食。是余邪仍伏于胃。拟温胆汤去甘草。加川斛、茯苓。\n竹茹（一钱五分） 制半夏（一钱五分） 枳实（一钱） 川石斛（三钱） 广皮白（一钱） 姜汁（一匙临服冲食） 茯苓（三钱）\n蒋（三四）腑气热不解。清气渐退。蒸为痰。脘隔痰与气阻。为痞闷。不饥。食即吐。是胃不下降。亦由热邪深入于胃。拟温胆汤佐以苦味。制其冲逆。\n鲜竹茹 橘红 郁金 枳实 制半夏 杏仁 南花粉 川连\n张（三二）春深气泄。阳气方张。呕恶吞酸。食入即吐。此属肝木乘犯阳明。胃脘清阳少旋。拟苦辛泄降。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 198,
+      "source_path": [
+        "嘔吐"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "72c39799c13f855832e95005737fcda6f52b0cc6aff42ed13ea63c00037bad7b",
+      "content_sha256": "0d616909a9034a4a2a5028577c94385e0fdadc69092f8727e59070d62e0530dd",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        199,
+        200,
+        201,
+        202,
+        203
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 261,
+        "simplified_codepoints": 261
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "93e895d532abeff417518b0f",
+      "title": "吐蛔",
+      "volume": null,
+      "content": "吴（三二）厥阴犯胃。吐蛔。\n川连（五分） 制半夏（一钱五分） 炒焦乌梅肉（五分） 淡干姜（一钱） 黄芩（一钱） 炒黑川椒（三厘） 生白芍（一钱五分）\n杨（四六）寒热呕吐。格拒食物。已经吐蛔。厥阴之邪未达耳。\n川连（水炒，四分） 乌梅肉（一钱） 炒黑川椒（三厘） 淡干姜（一钱） 黄芩（一钱） 细辛（三分） 生白芍（一钱五分） 桂枝木（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 204,
+      "source_path": [
+        "吐蛔"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "a39b303f0101b16b3f044367fd0da34fa0c2304e8b464d71eb934f2164aa762f",
+      "content_sha256": "bdb4047d0e06b39016c02fe42522208a665a173a4e013228465fa590b0d295b8",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        205,
+        206,
+        207,
+        208
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "2846beec664ab74df6b31a42",
+      "title": "肠痹",
+      "volume": null,
+      "content": "赵（三三）温湿囚郁。二便不通。纳谷䐜胀。此属肠痹。宗丹溪腑病治脏法。\n紫菀（一钱） 杏仁（三钱） 枳壳（一钱） 炒香淡豉（一钱五分） 栝蒌皮（一钱五分） 黑山栀（一钱五分） 郁金（一钱）\n韩（四九）温湿阻其气分。色痿少纳。二便欲解不通。此属肠痹之类。夫肠痹原系腑病。而腑病当治其脏。每用开提肺窍。自能气化。斯湿温少解。渐可减轻。倘执体怯。不但治病不合。且味甘药饵。妨碍中宫。恐延绵变患。不可度思矣。\n紫菀（一钱） 郁金（一钱） 枳壳（一钱） 炒香豉（一钱五分） 杏仁（三钱） 桔梗（一钱） 鲜枇杷叶（三钱） 栝蒌皮（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 209,
+      "source_path": [
+        "腸痹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "1fce727cb490cf0d4509d4929d6908d6490257d866aa5111a083980faeda10d7",
+      "content_sha256": "1c43523e55a36f4b32027172372853942e4454aa2216d4031f7d2696f4ee8936",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        210,
+        211,
+        212,
+        213
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 263,
+        "simplified_codepoints": 263
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "27f73148125964666bdcc5e5",
+      "title": "便秘",
+      "volume": null,
+      "content": "仲（八岁）据述平昔。每更衣努苦。粪坚若弹丸。加之病后。胃津干涸。腑火。传导阴液愈耗。阳气愈升。而大便愈秘。宜清润以柔药和阳。\n鲜生地 麦冬 柏子仁 清阿胶 大麻仁 茯神 川斛穆（三三）脉涩。下焦气钝血燥。便难。进通幽方。\n咸苁蓉 细生地 郁李仁 柏子仁 大麻仁 牛膝 当归\n毛（六一）年高脉伏。瘀热在营。血燥便难。进通幽法。\n归尾（一钱五分） 柏子仁（二钱） 郁李仁（一钱） 桃仁（一钱） 松子仁（三钱） 大麻仁（一钱五分） 红花（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 214,
+      "source_path": [
+        "便秘"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "3ca17e344348227e267aa6e7157ac95fd8509ec8d7083c1e07168292b83da15b",
+      "content_sha256": "4333db5c8484188e7c68176fa79b7fbd573927544f833f6c2b063698e324245b",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        215,
+        216,
+        217,
+        218,
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 219,
+        "simplified_codepoints": 219
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "c1e5d7b79398a1694d8db70c",
+      "title": "肺痹",
+      "volume": null,
+      "content": "陈（四三）温邪内郁。舌白脘闷。频渴。脉大。二便不甚通利。此属肺痹。致手太阴气化失宰。宜苦辛泄降。\n霜桑叶（一钱） 杏仁（三钱） 桔梗（一钱） 象贝（二钱） 姜皮（一钱五分） 枳壳（一钱五分） 南花粉（一钱五分） 郁金（一钱）\n卢（三八）身热脘闷。不饥不食。不大便。脉数。皆气分窒塞。苦辛自能泄降。\n鲜枇杷叶（三钱） 郁金（一钱） 桔梗（一钱） 炒香淡豉（一钱五分） 杏仁（三钱） 黑山栀（一钱五分） 紫菀（一钱） 姜皮（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "肺痹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "6469524c4bb9083f09683354c1b9022d2b549ef5dbf247e0c6b3501a976ca5de",
+      "content_sha256": "20f6e87ad5c41e94456f3d676b6b127aa347a2d447a4d17084fb7c2c02814763",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        221,
+        222,
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 215,
+        "simplified_codepoints": 215
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "e56cdca5da570f0e6c3422f5",
+      "title": "胸痹",
+      "volume": null,
+      "content": "唐（廿五）嗳哕频频。胸次蔽塞。当此大暑节候。太阴用事。此属阴浊凝遏中阳。\n薤白（三钱） 制半夏（二钱） 枳实（一钱） 淡干姜（一钱） 郁金（一钱） 栝蒌皮（一钱五分） 茯苓（三钱） 临服冲入白酒半小杯\n缪（六一）胸脘阻蔽。脉微而痛。肢厥得嗳稍舒。此属胸阳失其旷达使然。\n薤白（三钱） 制半夏（一钱五分） 郁金（一钱） 栝蒌皮（一钱五分） 桂枝（五分） 延胡（炒，一钱） 茯苓（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "胸痹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "84702ec0cdeb57372c89960950c5e79399ed05da90f17cc29969c60ecaf598d2",
+      "content_sha256": "a1cf9abeb6f0caa2291aa76c0a8f2577afdc405e7804063e6dc93c6f32b2d1c1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        226,
+        227,
+        228,
+        229
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 191,
+        "simplified_codepoints": 191
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "7521ad53a5133c484806c3b7",
+      "title": "哮",
+      "volume": null,
+      "content": "杨（五六）久病痰哮。深秋复发。急宜温通。\n川桂枝（一钱） 橘红（一钱） 杏仁（一钱） 制麻黄（七分） 茯苓（二钱） 淡干姜（二钱） 炙草（四分）\n凌（六一）阳衰痰哮。气喘背寒。拟温通法。\n粗桂枝（一钱） 制麻黄（五分） 炙草（五分） 杏仁（三钱） 橘红（一钱） 茯苓（三钱） 淡干姜（一钱） 五味子（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 230,
+      "source_path": [
+        "哮"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e0d8c108412075ec5c04d1aad91f071d2c5754a33bff5701a1373c06a14ca8a8",
+      "content_sha256": "eb22e880dbcaff5a6f5cfee249acc1591be98eb5cffefaf976dde69a3174fd1e",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        231,
+        232,
+        233,
+        234
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 155,
+        "simplified_codepoints": 155
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "5e2b397a9eae9aba98b0107b",
+      "title": "喘",
+      "volume": null,
+      "content": "程（八岁）咳嗽气喘。小溲亦稀。肺气不降所致。\n桑皮（一钱五分） 杏仁（三钱） 猪苓（一钱） 甜葶苈（五分） 大腹皮（一钱五分） 泽泻（一钱） 厚朴（一钱） 茯苓皮（一钱五分） 川通草（一钱）\n杨（七八）望八高年。吸音甚促。身动即喘。兼有痰嗽。暮剧。晨汗。小便短数。此属肾液正枯。元海生气亦少。气散失纳所致。\n熟地（四钱） 北五味（一钱） 芡实（二钱） 萸肉炭（二钱） 炙草（五分） 山药（二钱） 茯神（二钱） 紫衣胡桃肉（五钱） 补骨脂（八分）\n许（三九）肾不收纳。阴虚喘呛。\n熟地（四钱） 萸肉（二钱） 湖莲（三钱） 清阿胶（二钱） 山药（二钱） 芡实（二钱） 茯神（一钱） 淡菜胶（二钱）\n陈（五八）春阳萌动。在更余时气逆上升。脉右寸滑软。左脉细涩。缘喘症在肺为实。在肾为虚。肺主出气。肾主纳气。肺贤并衰。出纳无权。痰色瘀紫。亦气馁少液。拟方候裁。\n熟地（四钱） 北沙参（三钱） 紫石英（煆研，三钱） 元武版（炙，三钱） 淮牛膝（盐水炒，二钱） 抱木茯神 拣麦冬（去心，一钱五分） 真川贝（去心研，二钱） 人参（另煎冲，五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 235,
+      "source_path": [
+        "喘"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "01585eb732527b6826ea0b3626736a34ed43bfde8f2679a932570c23367a7e36",
+      "content_sha256": "fffbb0e2dfa4077f600a492f5905c96100f2f207ccb0f47681310b9f4c30409e",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 465,
+        "simplified_codepoints": 465
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "a09b8d1f241e26d1f802ce25",
+      "title": "呃逆",
+      "volume": null,
+      "content": "褚（五二）脉小舌白。呃逆气冲。两脉微涩。大便滑溏。此属胃阳虚。浊阴上干。拟方候高明正。\n钉头代赭 炒半夏 丁香皮 淡干姜 淡吴萸 柿蒂 茯苓 炒川椒\n蔡（四六）邪去正衰。呃声异响。咽中总属不爽。据服理中无益。必得清阳舒展。乃能旷达耳。\n枇杷叶（三钱） 炒川贝（二钱） 桔梗（一钱） 炒香豉（一钱五分） 栝蒌皮（一钱） 川通草（一钱） 郁金（一钱） 杏仁（三钱） 紫菀（一钱）\n李（二五）阅服凉解方。身热已止。口渴亦减。是邪解之象。但胃阳衰惫。致脉微汗泄。呃逆便溏。火为重候。勉拟理中汤去甘术。加丁香、吴萸、川椒、茯苓。\n人参（一钱） 制川附子（一钱） 淡吴萸（八分） 淡干姜（一钱） 丁香（三厘） 炒川椒（五厘） 茯苓（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 244,
+      "source_path": [
+        "呃逆"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "a755d4b8120ac2582b29b115ae13cb6f9d7d6407141be229b4cb67a1f9d93519",
+      "content_sha256": "cef21656a19cecc2971765723af929d766412d4a3c64014e1e0a14ef453e2d6d",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        245,
+        246,
+        247,
+        248,
+        249,
+        250
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 313,
+        "simplified_codepoints": 313
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "2aaa2d98a1ffd6e93f095a80",
+      "title": "黄疸",
+      "volume": null,
+      "content": "徐（四二）湿热内聚。脘闷不饥。目黄溺赤。此属黄疸。\n绵茵陈（三钱） 淡黄芩（一钱） 枳实（一钱） 白蔻仁（五分） 杏仁（去皮尖，二钱） 花粉（一钱五分） 飞滑石（三钱） 川通草（一钱）\n张（四八）爪目皆黄。此属黄疸。\n绵茵陈（三钱） 川黄柏（一钱） 猪苓（一钱） 海金砂（二钱） 赤小豆（三钱） 泽泻（一钱五分） 赤苓（三钱）\n王（四。）湿热留著于胃。呕逆。爪目皆黄。溺赤。是阳黄之象。\n柴胡（八分） 制半夏（一钱五分） 枳实（一钱） 金铃子（一钱） 黄芩（一钱） 黑山栀（一钱五分） 延胡（一钱）\n康（十一）湿热内郁。爪目皆黄。腹胀。\n绵茵陈 大腹绒 赤苓 川黄柏 赤小豆 泽泻 汉防己\n狄（三一）湿热内聚。腹胀。爪目皆黄。此属黄疸。议用中下分消。\n绵茵陈蒿（一钱五分） 大腹皮（一钱五分） 猪苓（一钱五分） 汉防己（一钱五分） 赤小豆（一钱） 泽泻（一钱五分） 海金砂（二钱） 赤苓（三钱）\n又 前后分消。二便如血。爪目皆黄色略减。腹胀虽松。左少腹肝邪作痛。而有怯寒之象。此病伤未复。阳黄显著。后泄少阳。厥阴主之。\n柴胡（八分） 制半夏（一钱五分） 川萆薢（二钱） 金铃子（二钱） 黄芩（一钱） 汉防己（一钱五分） 延胡（一钱） 绵茵陈（一钱五分） 黑山栀（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 251,
+      "source_path": [
+        "黃疸"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "3b053563f579e96dbb91c48a8b56725bc449b66ac642fcd2ab62ea7cc02aa3b5",
+      "content_sha256": "44ea4611d9f4da9ae560f11728d05895fba54cfeb8cde193be012c453a230c74",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 536,
+        "simplified_codepoints": 536
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "d09f57e040090cec61a690f3",
+      "title": "风",
+      "volume": null,
+      "content": "薛（廿二）寒热。头痛。脘闷。风伤卫阳。\n苏梗（一钱） 杏仁（三钱） 枳壳（一钱） 淡豆豉（一钱五分） 桔梗（一钱） 连翘（一钱五分） 厚朴（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 264,
+      "source_path": [
+        "風"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "d32c7b67d66a414eeb703ed96007229ffc12f0af6d014290e1f791f772b508b6",
+      "content_sha256": "454dd94d03128ddce7e2e02a62e17f309e3c8396af9232cacd55168d01e018bc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        265,
+        266
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 73,
+        "simplified_codepoints": 73
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "ae71256169349da24b54b982",
+      "title": "寒",
+      "volume": null,
+      "content": "庄（廿八）寒邪袭于肺卫。寒热。头痛。脘闷。辛以散之。\n苏梗（一钱） 杏仁（二钱） 枳壳（一钱） 淡豆豉（一钱五分） 桔梗（一钱） 连翘（一钱八分） 厚朴（二钱）\n徐（九岁）头痛身热。呕吐面赤。寒邪内侵。阳气拂郁之象。拟阳旦法。\n桂枝（八分） 制半夏（一钱五分） 橘红（一钱） 淡黄芩（一钱） 杏仁（三钱） 生姜（六分） 厚朴（一钱）\n卫（五六）阳虚感邪。形寒身热。头痛脘闷。背痛无汗。拟辛温疏达。\n川桂枝（八分） 制半夏（一钱五分） 生姜（一钱） 白杏仁（二钱） 广皮（一钱） 茯苓皮（二钱） 厚朴（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 267,
+      "source_path": [
+        "寒"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "566bf3f9d38a1431dad48c9dc11b8ea6e094a8720598392d4f69f9dc96fca569",
+      "content_sha256": "1b5ba7891dadd8f62788f6f6c82bb1867bf4b53da69328087668a77ca4361490",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        268,
+        269,
+        270,
+        271,
+        272,
+        273
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 253,
+        "simplified_codepoints": 253
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "05b5cebeaa0ac7822beca8c1",
+      "title": "中寒",
+      "volume": null,
+      "content": "陈（四五）脉伏口噤。神昏鼾睡。此寒热直中阴经。阳气逆乱。症属棘手。勉拟辛温达邪。\n乌药（一钱五分） 橘红（一钱） 枳壳（一钱） 川桂枝（一钱） 杏仁（三钱） 桔梗（一钱） 麻黄（制，五分） 炙草（五分） 炮姜（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 274,
+      "source_path": [
+        "中寒"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "d4ae47a5b54287a966a38e6b87fdada218cdd9d7de43f1fd30c8cd8108d918a3",
+      "content_sha256": "c6cf707ef3e3ea3b9326ef97ca08fa31c17bb187afd40d4ee3acd0f01e893064",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        275,
+        276
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "8d32d2b5fd945c6c4b007df6",
+      "title": "风温",
+      "volume": null,
+      "content": "陈（二二）风温外袭肺卫。寸口脉大。身热恶寒。头晕且痛。拟轻剂宣通。\n牛蒡子（炒研，一钱五分） 杏仁（三钱） 连翘（一钱五分） 象贝（去心研，二钱） 桔梗（一钱） 枳壳（一钱） 霜桑叶（一钱）林（四一）头旋脉大。身热恶寒。风温外袭肺卫所致。拟轻扬上焦。\n桑叶（一钱） 连翘（一钱五分） 黑山栀（一钱五分） 象贝母（二钱） 杏仁（三钱） 钩藤（二钱） 牛蒡子（一钱五分）\n陈（十二）热势不减。口干胸闷。邪入营络。恐其见癍。因体虚。未敢遵用开泄。\n羚羊角（一钱） 连翘心（一钱五分） 玄参（一钱五分） 象贝母（二钱） 丹皮（一钱） 黑山栀（一钱五分） 霜桑叶（一钱） 生地炭（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 277,
+      "source_path": [
+        "風溫"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "be0ec7ca0ed176fee12967579ee4fb2d3f52a1e5861748efc3027e2b694de95c",
+      "content_sha256": "c3baec212c1e430de782f95856b9b34f7e2843bcb2eeb88eaecc0e43c779e9ab",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        278,
+        279,
+        280,
+        281,
+        282
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 288,
+        "simplified_codepoints": 288
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "8b3e84f97ccf2c0b6dd3e92b",
+      "title": "温热",
+      "volume": null,
+      "content": "马（六六）温邪自里而出。两脉洪大。烦渴便溏。脘闷食少。舌苔中绛边白。是肺大肠表里见症相应。姑拟清里。少佐以泄邪。\n桑叶（一钱） 杏仁（三钱） 连翘（二钱） 羚羊角（一钱） 桔梗（一钱） 川通草（一钱） 薄荷（一钱） 竹心（廿根）\n赵（六八）温邪逆传膻中。心阳受蒙不宣。为呕逆。为神昏。为烦渴。脉数舌绛。高年五液皆涸。最有窍闭厥脱之虞。拟清营络热邪。\n犀角（一钱） 元参（一钱五分） 郁金（一钱） 鲜生地（五钱） 丹皮（一钱） 连翘心（二钱） 石菖蒲根（六分） 竹叶心（一钱五分） 至宝丹",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 283,
+      "source_path": [
+        "溫熱"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "dbf0d4474e934d553f380d8b2fcbdd1b2e7e8905830e8c46e544449afdd1854c",
+      "content_sha256": "9587e7f06f2e65194044b1501e73c844e182de4d738ea1ac3dd3a3c390e96ec9",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        284,
+        285,
+        286,
+        287
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 243,
+        "simplified_codepoints": 243
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "f93f91d725fa18a7ca448687",
+      "title": "冬温伏邪",
+      "volume": null,
+      "content": "虞（三。）寒热交作。头痛口渴。夫寒伤营。风伤卫。表里邪踞两日。时发腹痛。膝痛。脉浮自汗。此皆冬令寒暖不匀。感冒时邪。至春阳气发泄。伏邪内动。治与疟病两岐。\n苏梗（一钱） 淡黄芩（一钱） 桔梗（一钱） 淡豆豉（一钱五分） 杏仁（三钱） 黑山栀（一钱五分） 厚朴（一钱）\n陆（八岁）温邪内郁。寒热如疟。不与少阳同例。\n淡豆豉（一钱五分） 杏仁（三钱） 桔梗（一钱） 厚朴（一钱） 淡黄芩（一钱） 连翘（一钱五分） 黑山栀（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 288,
+      "source_path": [
+        "冬溫伏邪"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "5cfe9569c38aa11d51d9ca4f407f1744b4295c3521995af5b6f1f246d22a3dc0",
+      "content_sha256": "348ef46cdb15d889a90e326f682815fa4c1d9d2fb9cf29794aeb57250e0fb3f4",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        289,
+        290,
+        291,
+        292
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 214,
+        "simplified_codepoints": 214
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "5698a4ae88c0b6f3d32f09ff",
+      "title": "暑",
+      "volume": null,
+      "content": "陈（廿七）拟清暑法。\n香薷 杏仁 滑石 淡黄芩 制半夏 栝蒌皮 厚朴\n顾（廿五）暑温伏邪。头痛脘闷。身热吐蛔。\n香薷（八分） 制半夏（一钱五分） 枳实（一钱） 淡黄芩（一钱） 杏仁（三钱） 小川连（六分） 厚朴（一钱五分）\n苏（廿六）暑湿未清。舌白脘闷。脉象濡弱。口渴便溏。据述始由奔走气乱。肺气膹郁。有升无降。继则漫布三焦。所以身热。不为汗衰。服苦寒辛寒方。法属无益。想三焦为气之父。是气之郁。暑湿交阻。所藉在上。清阳舒展。湿邪自能趋下。温去自然热清耳。\n大豆卷（三钱） 郁金（一钱） 苡仁（二钱） 飞滑石（三钱） 杏仁（三钱） 川通草（一钱） 木防己（一钱五分）\n徐（八岁）泄泻日旺。陷腹痛。此属冒暑。\n藿香叶（一钱） 制半夏（一钱五分） 南楂炭（一钱五分） 飞滑石（三钱） 陈皮（一钱） 赤苓（三钱） 炒厚朴（一钱）\n陆（六四）服清暑方。头重舌黄如昔。躯痛咳痰皆缓。而大便不解。渴思冷饮。不饥痞闷。嗳气频频。明是暑挟湿邪踞上焦气分。致气为所阻之象。但高年辛寒苦寒。恐妨胃口。多所误用。因拟辛温。宣达通阳。\n香薷（八分） 制半夏（一钱五分） 连翘（一钱五分） 白蔻仁（七分） 广皮（一钱） 淡竹叶（一钱） 郁金（一钱）\n岑（四二）壮热微寒。舌绛渴饮。脉右寸关空大。左细小。议景岳玉女煎。去牛膝、麦冬。加丹皮、竹叶、川贝。\n原熟地（四钱） 生石膏（四钱） 嫩竹叶（一钱五分） 川贝（去心研，一钱五分） 知母（一钱） 生甘草（三分） 粉丹皮（一钱五分） 此方不应\n又 舌绛口渴。已刻寒栗而后身热。询手肢麻木。足少阴、厥阴二脏。真阴殆尽。阳不肯潜伏。频渴究不能救其焚燎。经旨所谓入肝则麻痹。入肾为消渴。肝肾之邪。邪深逍遥。辛寒。辛凉。苦泄。俱未能入于至阴之地。仿古浊药轻投。不致因循贻变。\n厚熟地（四钱） 上清阿胶（另烊冲，二钱） 炙甘草（四分） 拣麦冬（一钱五分） 大麻仁（一钱五分） 淡天冬（一钱五分） 洋参（八分）\n董 右脉短数。左脉细数。寤而少寐。身凉而有寒热。时作气喘。脘闷舌白。此属热邪内陷。大为重候。姑拟清泄少阴之里。与解少阳之表合方。候高明正。\n霜桑叶 鲜生地 黑山栀 香犀角 嫩元参 川贝 连翘心 粉丹皮 加茅根\n又 昨进清提方法。脉数已缓。气急已退。得汗安寐。邪解之象。内陷无从再虑。前方可以渐愈。\n香犀角（六分） 草郁金（一钱） 川贝（去心研，一钱五分） 鲜生地（五钱） 连翘心（一钱五分） 黑山栀（一钱五分） 霜桑叶（一钱） 粉丹皮（一钱五分） 加茅根（五钱） 荷叶（一角）\n又 脘痹噫嗳稍舒。拟疏肝泄肺。以理余邪。\n紫菀（一钱） 泡白杏仁（二钱） 草郁金（一钱） 炒香淡豉（一钱五分） 栝蒌皮（一钱五分） 黑山栀（一钱五分） 羚羊角（一钱） 桔梗（八分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 293,
+      "source_path": [
+        "暑"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "5c8986e45dd1f1bc5bc84021aef3e77d8e01146d7e868fc5f7e46d4123efaf0c",
+      "content_sha256": "a9277ba457bc8156b92d9e080bd8cc2591aa5c01991594ae03584b75fb5250cc",
+      "paragraph_count": 20,
+      "paragraph_ordinals": [
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309,
+        310,
+        311,
+        312,
+        313
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1139,
+        "simplified_codepoints": 1139
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "71d5790e42304deb56990fbe",
+      "title": "湿",
+      "volume": null,
+      "content": "凤（四八）头重若裹。胸闷不食。并不渴饮。脉小。便溏。此属湿邪阻蔽气分。\n白蔻仁（五分） 制半夏（一钱五分） 赤苓（三钱） 绵茵陈（三钱） 杏仁（三钱） 飞滑石（三钱） 厚朴（一钱）\n王（四三）头胀脘闷。便溏。肢节痛。目眦黄。此属湿邪阻闭气分。郁而不宣。久则化热。传为瘅疟。\n绵茵陈（三钱） 制半夏（一钱一分） 飞滑石（三钱） 白蔻仁（五分） 杏仁（三钱） 茯苓皮（三钱） 厚朴（一钱）\n岑 仍议育阴清邪。\n原生地（四钱） 拣麦冬（一钱五分） 西洋参（八分） 穞豆皮（一钱五分） 上清一阿胶（二钱） 云茯神（二钱） 川斛（一钱五分） 炙甘草（五分） 加九孔石决明（煆研，三钱）\n又 舌绛已退。渴饮。身热未除。\n川斛 原生地 连翘心 南花粉 西洋参 粉草 拣麦冬 穞豆皮\n又 身凉渴解。\n原生地（四钱） 洋参（四分） 白蒺藜（一钱五分） 拣麦冬（一钱五分） 粉草（三分） 块茯苓（三钱） 川斛（一钱五分） 新会皮（盐水炒，一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 314,
+      "source_path": [
+        "濕"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "b6ef6d3a70d7a8b99b1ee4caab80eb243b43ac961d968fea2f272eeeb498566e",
+      "content_sha256": "4408ec1848d3b37d76be937cd2e1a7c6163416550817019d1012e8d55de685ac",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 412,
+        "simplified_codepoints": 412
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "60c08a46123731711f8c8147",
+      "title": "燥",
+      "volume": null,
+      "content": "苏（廿五）肺胃素虚。咽干唇裂。上腭干痛。频渴不多饮。脉偏大于右寸。此属秋燥致伤。拟甘寒生津。\n霍石斛（一钱） 北沙参（一钱五分） 麦冬（二钱） 鲜生地（五钱） 玉竹（二钱） 生甘草（三分）\n曹（三一）右脉数搏。肺胃交衰。鼻头胀。咽干。咯血。频渴不多饮。此属温邪化燥。良由阴分不足所致。拟清气中热。未许速痊。\n霜桑叶 杏仁 连翘壳 大沙参 地骨皮 黑山栀 象贝母 南花粉\n沈妇（廿八）唇裂频呕。口干头痛。不寐足冷。左胁向有瘕聚。便秘。胸腹热炽。面色黄。脉左关弦大。右寸搏大。此属温燥内郁。喉间呼吸有声。是症虽属痰喘之象。但麻黄一味大谬。议喻嘉言清燥救肺汤合肺肝之治。\n霜桑叶（一钱） 生石膏（三钱） 白蒺藜（二钱） 鲜生地（五钱） 杏仁（三钱） 石决明（三钱） 拣麦冬（三钱） 生甘草（二分） 大麻仁（一钱五分） 加鲜枇杷叶二张（去毛，蜜炙）\n又 呕频稍减。唇裂退。\n霜桑叶 炒石膏 拣麦冬 真阿胶 杏仁 白蒺藜 制洋参 鲜生地 生甘草 加枇杷叶（三钱）\n又 呕大减。润肺燥。益肝液。\n鲜枇杷叶 北沙参 紫石英 白蒺藜 真川贝 真阿胶 甜杏仁 拣麦冬 炙鳖甲 霍山石斛 黑芝麻\n又 呕减。潮热。咳乃胀痛。肝脉仍弦。大便秘。肺胃衰。肝阴亏。肝火上越。\n紫菀草（一钱） 拣麦冬（三钱） 白蒺藜（二钱） 甜杏仁（三钱） 紫石英（五钱） 郁李仁 真石斛（二钱） 真阿胶（二钱） 咸苁蓉（五钱） 鲜枇杷叶（三钱） 小川莲（三分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 325,
+      "source_path": [
+        "燥"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "76c3a76039711932475916858f043916a62194b842a59369a8ee64dbe9664d4c",
+      "content_sha256": "bcf82b3534538fe31686d9ab3f1c6b1549fead8c208b9af0b9c6370b44c1c231",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 608,
+        "simplified_codepoints": 608
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "12337b92883f46dace11116c",
+      "title": "疫",
+      "volume": null,
+      "content": "凌（六八）温疫自口鼻吸入。由肺叶干于心包络。神识不清。左脉洪大。烦渴。鼾声。胸背间赤疹隐约。温邪郁遏。意有溃烂之形。是水谷之湿热交蒸。蕴于皮膜。蕴湿酿热而成毒。非清非散。热邪无发泄之机。三焦交炽喉哑继起。舌色如赭。此温疫为化火化燥之因。势防热邪内陷。原属可虑。拟以滋清营分。兼佐泄邪。俾得络热稍清。庶几转机为幸。未识高明以为然否。\n犀角（一钱） 鲜生地（八钱） 郁金（一钱） 牛蒡子（三钱） 银花（一钱） 黑元参（一钱五分） 连翘心（二钱） 石菖蒲根（六分） 紫雪丹（三分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 338,
+      "source_path": [
+        "疫"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "c13d401f81a38d509b5d2ab4d01d676a64e751ba67a8dd80f00767844a7d0c86",
+      "content_sha256": "187a421649c2a88e4da15ed4385dda46b2bebf8159b4e13b34c0029e81805638",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        339,
+        340
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 237,
+        "simplified_codepoints": 237
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "3419a9d51b23027d7656232b",
+      "title": "癍疹",
+      "volume": null,
+      "content": "谢（三九）两脉洪数。夜躁不寐。热盛烦渴。癍疹未透。拟清胃腑热邪。兼以疏癍。\n犀角 鲜生地 花粉 羚羊角 连翘心 银花 牛蒡子 嫩元参\n钱（八岁）感冒时邪。身热脉数。已经见癍。\n犀角（一钱） 郁金（一钱） 嫩元参（一钱五分） 牛蒡子（一钱五分） 花粉（一钱五分） 黑山栀（一钱五分） 连翘（一钱五分） 银花（一钱） 加芦根（一两）\n戴（四八）时疫未经宣透。邪已蕴结阳明。见症烦渴。昏谵不寐。两脉洪数。分明发癍。阅方发散伤阳。苦寒损胃。总非腑病所宜。拟凉膈疏癍。请备参末议。\n犀角 郁金 嫩元参 牛蒡子 花粉 银花 连翘心 石菖蒲根 紫雪丹（一分）\n雷（十三）温邪发疹。烦渴少寐。两脉独大。\n牛蒡子（炒研，三钱） 杏仁（去尖研，三钱） 连翘壳（一钱五分） 羚羊角（一钱） 桔梗（一钱） 黑山栀（一钱五分） 薄荷梗（一钱） 加芦根（一两） 茅根（五钱）\n杨（二八）疹邪胸背已齐。脉右软短。烦渴热频。少寐。舌白。蛔厥。大便不解。仍议清疏营络透疹。\n香犀角 鲜生地 桔梗 牛蒡子 草郁金 嫩元参 薄荷叶 连翘心 黑山栀 小川连 加芦根\n又 烦渴昏谵。便秘。疹隐太早。冒风所致。\n牛蒡子（二钱） 蝉衣（二钱） 桔梗（一钱） 荆芥（一钱五分） 赤芍（一钱五分） 连翘（一钱五分） 生石膏（四钱） 黑山栀（一钱五分） 杏霜（三钱） 加芦根（一两）\n又 热胜渴烦。辛寒清彻。\n牛蒡子（二钱） 生石膏（四钱） 蝉衣（五分） 荆芥穗（一钱） 杏霜（三钱） 知母（一钱五分） 薄荷叶（八分） 连翘（一钱五分） 黑山栀（一钱五分） 加芦根（一两）\n吴\n葛根（八分） 牛蒡子（二钱） 粉丹皮（一钱） 连翘（一钱五分） 荆芥（一钱） 甜杏仁（二钱） 犀尖（八分） 加芦根（五钱） 西河柳（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 341,
+      "source_path": [
+        "癍疹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "0124844a8fc0760833d7d16691b2dbafff4b3690e862adea88338eee53a94cc0",
+      "content_sha256": "26503860966d268c0d9dc0fbdb2a41c9eb9f384dab5bc19b5145e67c767c8af1",
+      "paragraph_count": 16,
+      "paragraph_ordinals": [
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 732,
+        "simplified_codepoints": 732
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "7f7492ae13fa6f3afd7bc101",
+      "title": "痰",
+      "volume": null,
+      "content": "田（六岁）惊邪内炽。痰壅神昏。身热脉大。两眼蒙闭。寤不转侧。症属棘手。所喜舌苔津液未涸。尚有一线生机。\n小川连（四分） 制半夏（一钱五分） 郁金（一钱） 陈胆星（五分） 橘红（一钱） 石菖蒲根（六分） 川贝（去心研，二钱） 连翘心（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 358,
+      "source_path": [
+        "痰"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "fb0bc0f51797f7f9063a93b3e1d06f183d41842a4354eda71f5cdb2179b37524",
+      "content_sha256": "62f6c5f35161aa8ab36ef8e9d0f7f0229decddab56b4c9e908acbb9934b94ce6",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        359,
+        360
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "baea3e6d64393b04c06a632d",
+      "title": "痰饮",
+      "volume": null,
+      "content": "凌（六三）背寒胁痛。咳暮剧。并不渴饮。此属饮邪。\n粗桂枝（一钱） 杏仁（二钱） 五味子（三分） 淡干姜（五分） 制半夏（一钱五分） 炙草（五分） 茯苓（三钱）\n管（四九）脉象沉弦。背寒肢冷。咳嗽暮剧。并不饮渴。此属饮邪。议温药和之。\n粗桂枝（一钱） 制半夏（一钱五分） 炙草（五分） 杏仁（二钱） 枳实（一钱） 茯苓（三钱） 淡干姜（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 361,
+      "source_path": [
+        "痰飲"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "244086de88cf3ac9f4205825bacebd424604fc9cf561c86c60bb12cd4d184516",
+      "content_sha256": "c173fcdaf071e085fb99e8a489912b42569ddc8ac7fcf4fa97510ca97e94f29a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        362,
+        363,
+        364,
+        365
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "cfa8052453da9a3e7ac69543",
+      "title": "郁",
+      "volume": null,
+      "content": "高（廿二）潮热腹痛。经事愆期。脉象沉弦。气冲欲呕。此属肝郁。木不条达。宜泄少阳。补太阴。进逍遥方。\n柴胡（七分） 郁金（一钱） 制香附（三钱） 当归（一钱五分） 丹皮（一钱五分） 茯苓（三钱） 炒白芍（一钱五分）\n严（三三）情志隐曲不伸。五心之阳皆燃。蒸痰阻咽。频呃嗳气。纳谷脘中不爽。在上清阳日结。拟治肺以展气化。不致气机郁痹。\n鲜枇杷叶（三钱） 郁金（一钱） 桔梗（一钱） 杏仁（三钱） 栝蒌皮（一钱五分） 黑山栀（一钱五分） 川贝母（二钱）\n蔡（三八）中怀郁勃。气不展舒。脉数脘痹。头目如蒙。胸胁隐痛。寤而少寐。此属郁火。宜当清散。\n桑叶 郁金 连翘壳 羚羊角 栝蒌皮 青菊叶 淡豆豉\n郭（四五）拟越鞠法。\n香附汁（三钱） 制半夏（一钱五分） 丹皮（一钱五分） 抚芎（八分） 橘红（一钱） 黑山栀（一钱五分） 南楂炭（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 366,
+      "source_path": [
+        "郁"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "1cfcb2a3fbeeb04cc124a7ffe5b75cb13baec839c9191571e345baa6e85bc07f",
+      "content_sha256": "c48ab9bae11a471815f7f9ed76b880de7818d15546b71870551624517d230433",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        367,
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 367,
+        "simplified_codepoints": 367
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "5b3b0ec4f40bb57a4b0d82eb",
+      "title": "肝火",
+      "volume": null,
+      "content": "缪（三八）头目如蒙。寤而不寐。胸膈隐痛。脘痹不饥。非关食滞。气火有余。拟清散理上为宜。\n羚羊角（一钱） 郁金（一钱） 鲜生地（一两） 淡豆豉（一钱一分） 栝蒌皮（一钱五分） 霜桑叶（一钱） 连翘（一钱） 青菊叶（四片）\n张（三六）肝阳犯胃。厥心痛。呕吐妨食。肢冷脉弦。\n川楝子 制半夏 制香附 炒延胡 郁金 茯苓 生白芍 炒橘红\n又 昨进苦辛方。呕吐已止。诸痛皆减。肝阳虽平。而耳鸣。咽干频渴。恶心脘痹。想六气都从火化。所以头面清空诸窍。皆为肝火蒙闭。再拟清散。亦为内经之其上可引。勿越之。之义也。\n青菊叶（三钱） 鲜生地（一两） 郁金（一钱） 栝蒌皮（一钱五分） 霜桑叶（一钱） 黑山栀（一钱五分） 羚羊角（一钱） 连翘（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 375,
+      "source_path": [
+        "肝火"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "21a50eca8d687a2a2ff92fba8accb6eee25b12007f158b8156d1499375d2333d",
+      "content_sha256": "dad01e46dc6b0be5222ac29c50a6d4ec5ed54c142d2368485c74be28a58d96a4",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        376,
+        377,
+        378,
+        379,
+        380,
+        381
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 317,
+        "simplified_codepoints": 317
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "adb8f4eb2a9fa280f54993ab",
+      "title": "不寐",
+      "volume": null,
+      "content": "梅（三六）昨进凉解方。身热已止。口渴亦减。是邪解之象。但呕吐妨食。寤而少寐。余邪未清于胃腑。经云。胃不和则卧不安。拟温胆汤。\n鲜竹茹（一钱五分） 制半夏（一钱五分） 茯苓（二钱） 枳实（二钱） 橘红（一钱） 姜汁（冲入，一钱） 川石斛（三钱）\n车（三一）不寐多日。气逆欲呕。此属肝阳上升。阳不下交于阴所致。进酸枣仁汤。\n酸枣仁（炒黑切研，三钱） 知母（四钱） 茯苓（一钱） 生甘草（三钱） 川芎（五分）\n潘（三五）脉细面白。寤不成寐。归脾汤主之。\n嫩黄耆（三钱） 焦于术（二钱） 远志（五分） 当归（一钱五分） 炙草（五分） 枣仁（三钱） 茯神（二钱） 龙眼肉（三钱）\n钟（四五）痢久伤阴。痢止泻减。脉象右微。泻血一次。颇多。汗泄不寐、心、脾、肝、肾皆亏。阳气不肯下交于阴。脏病散。难奏效。深虑反复。议养荣汤去桂、芍、远志、陈皮。加枣仁。\n人参（五分） 炙黄耆（二钱） 炙草（五分） 炒松熟地（四钱） 五味子（三分） 当归（一钱五分） 茯神（二钱） 枣仁（炒焦研，二钱） 甜冬术（二钱） 加桂圆肉（二钱）\n又 议人参养荣汤去桂、姜、枣。\n人参（五分） 绵黄耆（三钱） 炙草（五分） 甜冬术（二钱） 原熟地（四钱） 当归（一钱五分） 五味子（三分） 陈皮（一钱） 生白芍（一钱五分） 茯苓（二钱） 远志（去心研，四分） 加左牡蛎（二钱） 龙骨（煆研，一钱）\n又 两颧赤色。阴火上升。口干汗泄。少寐。下纯血已止。此血由经阻三月。心主血。肝藏血。脾统血。三阴大亏。经断瘀阻。乃温补内托。而始下此病根也。与痢症下纯血例于不治之条迥异。然前方已臻小效。脉右微已振。左脉稍濡。腹痛忽冷忽热。踞于少腹。腹为阴是也。酸水涌溢不止。木邪何疑。当此气血交亏。无清火法。必得导火归原。方是治病法程。仍议人参养营汤去当归、姜。\n人参（另煎冲，五分） 嫩黄耆（三钱） 炙草（五分） 淮熟地（五钱） 五味子（三分） 炒焦白芍（一钱五分） 甜冬术（二钱） 远志（去心研，四分） 云茯神（二钱） 陈皮（一钱） 加大枣（二枚）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 382,
+      "source_path": [
+        "不寐"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "d8d8ee020668373cd36ddacf7d9d238e3017c8d349af27c8c1cc927cc19487f1",
+      "content_sha256": "22ca27b59a3361e4e52efc3e3f20ed0f8c2924b38d8f9cc962c37feb094e711b",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 846,
+        "simplified_codepoints": 846
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "c225735c3577db79a4c7b3a5",
+      "title": "嘈杂",
+      "volume": null,
+      "content": "申（三。）胃虚嘈杂。\n川斛（三钱） 生地（三钱） 柏子仁（二钱） 穞豆皮（二钱） 麦冬（二钱） 茯神（二钱） 生白芍（一钱五分） 炙草（五分）\n冯（四一）经半月一至。夜嘈痛。此属肝阴久亏。肝阳化内风冲突所致。\n小生地（二钱） 麦冬（二钱） 柏子仁（二钱） 清阿胶（二钱） 丹参（一钱五分） 茯神（二钱） 生白芍（一钱五分） 牡蛎（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 395,
+      "source_path": [
+        "嘈雜"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e57447179c650d51b0338ea7113e6a5e9aa757e59bf7f3c59a7bab1b2a850643",
+      "content_sha256": "7d586cf77c6a381971414978bf16444c2ee1598f8c26ced948e26a3184fed348",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        396,
+        397,
+        398,
+        399
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 168,
+        "simplified_codepoints": 168
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "4d990bc4b05bf893e531f8b0",
+      "title": "三消",
+      "volume": null,
+      "content": "顾（四。）肺胃交炽。右脉数搏。消渴善饥。此属中上消症。拟甘寒方。\n鲜生地（一两） 清阿胶（二钱） 粳米（二钱） 生石膏（五钱） 麦冬（二钱） 生甘草（三分） 知母（一钱）\n林（三六）热胜渴饮。甘寒是用。\n川斛（三钱） 生石膏（五钱） 粳米（三钱） 清阿胶（二钱） 知母（一钱五分） 生甘草（三分） 生白芍（一钱五分）\n金（三八）渴饮频饥。小溲浑浊。此属肾消。元阳变动为患。非客热臻此。\n熟地（四钱） 淡天冬（二钱） 山药（二钱） 龟版胶（二钱） 牛膝（三钱） 茯苓（三钱） 萸肉（二钱） 知母（一钱） 麦冬（二钱）\n龚（五四）频渴易饥。肌肉消瘦。小便淋沥。此属下消大病。\n熟地（四钱） 山药（二钱） 茯苓（二钱） 萸肉（二钱） 牛膝（二钱） 泽泻（一钱） 丹皮（一钱五分） 车前（一钱五分）\n叶（四八）肺胃交炽。频渴易饥。玉女煎加引。\n鲜生地（一两） 拣麦冬（三钱） 粳米（三钱） 生石膏（五钱） 牛膝（三钱） 生甘草（三分） 知母（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 400,
+      "source_path": [
+        "三消"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "341f8d75f5d1c49233d616162ba28d52ba5437b498f9ea89dcb7cb319b20713a",
+      "content_sha256": "4941909d1dc9a42cb8c6fe2088bf994fe1fe7a13dd1cd95ffe02a3df95335d35",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        401,
+        402,
+        403,
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 422,
+        "simplified_codepoints": 422
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "e6810fde6e472cf9b82ec72b",
+      "title": "脾痹",
+      "volume": null,
+      "content": "吴（三二）形体丰肥。素嗜甘美。近起口甜。是脾胃伏热未清。古称脾痹。而不饥不食。多属有诸。\n鲜竹茹（二钱） 制半夏（一钱五分） 川连（六分） 枳实（一钱） 橘红（一钱） 黑山栀（一钱五分） 佩兰叶（一钱五分）\n贝（三。）热邪蕴结中焦。不饥不食。口甜。此属脾痹。\n佩兰叶（三钱） 制半夏（一钱五分） 枳实（一钱） 竹茹（一钱五分） 橘红（一钱） 川连（四分） 块茯苓（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 411,
+      "source_path": [
+        "脾痹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "85a4a3335f2215d0f14a6976015ca37ae4f305876c1c0e219df15dfa549774dd",
+      "content_sha256": "b0fb342f2680bad3845e14a458f79f24beeab5f09a122ef459387555f257ac7a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        412,
+        413,
+        414,
+        415
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 185,
+        "simplified_codepoints": 185
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "7e5d0932426bbe4dec0234ff",
+      "title": "疟",
+      "volume": null,
+      "content": "李（十一）暑湿内郁成疟。前投凉解方。牙宣血溢已止。脉象稍平。而寒已减。热未退。脘闷舌白。痰多溲赤。医者一误于升、柴、苏、菖并用。过于升泄。复缪于鹿角霜温理奇阳。非独不能已疾。转能益疾。致有前日血溢之恙。今虽小安。而在里之湿热。尚未尽透。兹当以栀豉汤以引里邪出之于表。是亦疟症驱邪之出路。\n淡豆豉（一钱五分） 杏仁（三钱） 草郁金（一钱） 黑山栀（一钱五分） 橘红（一钱五分） 滑石（三钱） 连翘（一钱五分） 川贝（去心研，二钱） 栝蒌皮（一钱五分） 加嫩竹叶（十片）\n顾（三六）寒热头痛。脘闷频渴。脉弦滑。从少阳开泄。\n柴胡（八分） 制半夏（一钱五分） 草果仁（七分） 淡黄芩（一钱） 广皮（一钱） 赤苓（三钱） 厚朴（一钱）\n王（三四）久疟频呕。木邪伤土。阳明厥阴同治。\n川连 制半夏 草果仁 淡干姜 黄芩 茯苓 生白芍（一钱五分） 炒焦乌梅肉（五分）\n慕（九岁）昨进泄少阳方。疟邪未止。寒少热多。渴饮无度。呕吐脉数。神烦汗泄。面赤。大便四日未解。当此深秋燥邪。内投苦寒攻胃。冀其疟缓。已属非法。投是辛寒。佐以甘缓。恰符仲景阴气先伤。阳气独发之旨。\n鲜生地（五钱） 麦冬（二钱） 粳米（三钱） 知母（一钱） 生石膏（三钱） 生甘草（四分） 卷心竹叶（一钱五分）\n苏（三。）疟来间日。头痛渴饮。此属暑疟。\n香薷（七分） 杏仁（三钱） 飞滑石（三钱） 淡黄芩（一钱） 制半夏（一钱五分） 草果仁（八分） 厚朴（二钱） 赤苓（三钱）\n施（十八）寒热已久。左胁瘕聚。邪入肝络矣。\n生牡蛎（三钱） 归须（一钱） 炒延胡（一钱） 炙鳖甲（一两） 炒桃仁（一钱） 桂枝（八分） 柴胡（五分）\n虞（十一）面赤痹热。恶心呕吐。神烦汗泄。衄血。脉大。并不渴饮。此属心经热疟。热邪迫于肺胃所致。清心热。凉肺胃。可不悖矣。\n犀角（八分） 丹皮（一钱） 知母（一钱） 细生地（三钱） 元参（一钱五分） 生甘草（三分） 连翘心（一钱五分） 麦冬（一钱五分） 竹叶（一钱五分）\n钱（十二）寒多热少。移早则邪达于阳。跗肿。腹胀。面浮。皆太阴病。宜缓治。\n草果仁（煨研，五分） 制半夏（一钱五分） 赤苓（三钱） 厚朴（一钱） 黄芩（一钱） 知母（一钱） 小青皮（一钱）\n钱（八岁）冲年三虐。寒热俱重。邪深而入客于阴。即疟来日迟之谓。非阴虚之谓也。然腹胀。口不烦渴。胃纳颇减。太阴见症。当温疏里邪。\n草果仁（五分） 川桂枝（八分） 生姜（一钱） 知母（一钱） 杏仁（三钱） 茯苓（三钱） 厚朴（一钱） 制半夏（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 416,
+      "source_path": [
+        "瘧"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "16de968d35e3c57ec1345336be02198bee99d617080b362045516a7fe2b04e9a",
+      "content_sha256": "35027cb35639bbb41e325dcfeaea8d71d2555de1eaf8d3f1a6272d7fb68b4ce2",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1043,
+        "simplified_codepoints": 1043
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "7b5b47971a079c6b4955934d",
+      "title": "泄泻",
+      "volume": null,
+      "content": "朱（三二）暑湿内踞。脘闷泄泻。议通三焦。\n藿香叶（一钱） 制半夏（一钱五分） 赤苓（三钱） 飞滑石（三钱） 木瓜（一钱） 南楂炭（一钱五分） 炒厚朴（二钱）\n姚（三五）暑邪内郁。脾胃不和。泄泻。\n藿香（一钱） 炒扁豆（三钱） 茯苓（三钱） 南楂炭（一钱五分） 木瓜（一钱） 泽泻（一钱） 厚朴（一钱） 广皮（一钱） 炒砂仁（五分）\n倪（十三）禀质最薄。滑泄不止。\n焦白术（二钱） 炒焦谷芽（一钱五分） 茯苓（三钱） 益智仁（五分） 广皮（一钱） 泽泻（一钱） 厚朴（一钱） 姜炭（三分）\n徐（五岁）潮热泄泻。口渴已久。脱肛初愈。\n煨葛根（八分） 大神曲（一钱五分） 猪苓（一钱） 焦于术（一钱五分） 淡芩（一钱） 泽泻（一钱） 土炒白芍（一钱五分） 大麦芽（一钱）\n汤（六岁）泄泻腹痛。呕恶头汗。在冲年总属脾胃气馁。从经旨后泄腹痛例。拟建中渗湿方。\n焦白术（一钱五分） 炒扁豆（三钱） 茯苓（三钱） 苡仁（二钱） 木瓜（一钱） 泽泻（一钱） 南楂炭（一钱五分） 广皮（一钱）\n又 泄泻腹痛。呕恶头汗。全是脾胃病。前服建中渗湿之剂。泻痛悉减。恶心汗泄仍在。经云。诸呕吐逆。皆属于火。恐脾传肾。而变焉滞下之患。仿仲景泻心汤意。\n炒小川连（四分） 制半夏（一钱五分） 吴萸（七分） 炮淡黄芩（一钱） 木瓜（炒，一钱） 茯苓（二钱） 生白芍（一钱五分）\n叶（三八）脾肾两衰。腹鸣晨泄。阳微所致。\n淡吴萸（七分） 淡补骨脂（一钱） 建莲（三钱） 煨肉果（三分） 炒菟丝饼（一钱五分） 山药（炒，二钱） 茯苓（三钱） 五味子（一钱五分）\n王（三八）前议扶胃疏瘀方。瘕泻大减。少腹微痛。腰微酸楚。寤而少寐。恶露已净。督虚背寒。总属妊去液伤。络脉空隙。投温防燥。过润恐清。均非产后至当之法。然瘕泄已减。殆非温下之品。无以入于至阴之地。择其温而不燥。润而不清者。治之自有并行不悖之妙。\n鹿角霜（三钱） 炒香菟丝饼（一钱） 茯苓（三钱） 当归（一钱五分） 杜仲（炒，二钱） 炙草（五分） 炒黑小茴（六分） 小生地炭（三钱） 远志（炒，四分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 435,
+      "source_path": [
+        "泄瀉"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "f90a24e0c5cfe348c9871b1cb8a956acf3c2683c107aac6caaf410cc91757c2b",
+      "content_sha256": "06165e66eeccd5df49613be9155cdee412e9780d0b20527763017cdb94c4f554",
+      "paragraph_count": 16,
+      "paragraph_ordinals": [
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 860,
+        "simplified_codepoints": 860
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "572908d7d5a242ded8a6d8e0",
+      "title": "痢",
+      "volume": null,
+      "content": "高（廿三）湿热内聚。腹痛。下痢初起。当分消兼清里邪。\n青皮 煨木香 淡黄芩 炒厚朴 川连 南楂炭 槟榔\n殷（七岁）腹痛。下痢无度。渴烦肛坠。议用分消。兼佐升提。\n青皮（一钱） 炒白芍（一钱五分） 煨升麻（五分） 炒厚朴（一钱） 炙草（五分） 醋炒柴胡（五分） 南楂炭（一钱五分） 广皮（一钱）\n又 下痢纯血。气陷肛坠。昨用升举。原得小安。未能全退。想在里湿热未清。再当酸苦泄热。\n小川连 炒焦白芍 炒当归 北蓁皮 炙甘草 石莲肉 炒黄柏 乌梅肉\n陈（六三）湿热内聚。腹痛下痢。恶心眩晕。痞闷不饥。此属高年肝阴久亏。肝阳乘阳明上胃。最有身热之虞。拟苦辛宣通。佐以和阴。\n淡黄芩（一钱） 制半夏（一钱五分） 藿香叶（一钱） 川连（八分） 枳实（一钱） 飞滑石（三钱） 生白芍（一钱五分） 淡干姜（五分）\n钱（廿八）暑湿内伏。下痢腹痛。拟分消主之。\n青皮（一钱） 煨木香（六分） 藿香叶（一钱） 炒厚朴（一钱） 炒广皮（一钱） 六一散（包，三钱） 南楂炭（三钱） 淡黄芩（一钱）\n冯（三二）赤痢月余。近日无度。因始病未经清理。致温热变迁。酿成厥阴下痢。今已身热腹痛。后重里急。胸痞不食。呕恶频加。腑气欲绝之验。昔贤虽有通涩二法。凭症难施。参仲景厥阴下痢篇。勉拟连芍苦辛之属。假其降火制肝之义。使其木得条达。则土自敦阜。俾得安谷。再商治痢。\n吴萸炒川连（四分） 炒半夏（二钱） 川楝子（二钱） 淡干姜（一钱） 枳实（一钱） 茯苓（二钱） 生白芍（一钱五分） 香粳米（三钱）\n桂（三二）昨进疏泄。得汗邪解。身凉咽痛亦愈。询久卧湿地。蕴酿湿热。致腹痛下痢。并不渴饮。述嗔怒未曾发泄。是肝阳郁勃于中。脏土早热。治宜分消。\n青皮（一钱） 煨木香（五分） 赤苓（三钱） 炒厚朴（一钱） 淡黄芩（一钱） 泽泻（一钱） 楂炭（一钱） 加老姜（三分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 452,
+      "source_path": [
+        "痢"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "1082824dc910cd5e262ca09d314a1acb40a5f8c78c707b44166bbc03dd519faf",
+      "content_sha256": "2c0944c30984eb2159aa4d458d2044ded538e675ce5eaacb31d1a4410e1ba68a",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 763,
+        "simplified_codepoints": 763
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "bc6bc22be548ca414b95c289",
+      "title": "便血",
+      "volume": null,
+      "content": "杨（廿三）肠风便血。腹痛。脉濡弱。脾胃气馁。拟疏风、凉血、和阴。\n荆芥穗 炒白芍 炒银花 丹皮 炙草 地榆炭 炒当归\n高（三四）湿热壅于脾络。腑肠空隙。粪前先有血下。然脾属柔脏。非刚不能苏阳。\n茅术炭 新会皮 炒银花 川黄柏 地榆炭 煨葛根 厚朴 炒焦荷蒂\n沈（四五）便后下血。属远血也。\n细生地 炒黑槐花 酒炒黄芩 炒丹皮 柿饼灰 地榆炭\n曹（十六）春源气泄。少阳木火。乘太阴脾阳愈竭。腹中微痛。便后始有血下。\n焦白术 桑叶 茯苓 当归 丹皮 泽泻 地榆炭\n凌（四六）湿胜中虚。便红已久。\n炒黑樗根皮（一钱） 炒黑地榆（三钱） 茯苓（二钱） 当归炭（一钱五分） 炒焦丹皮（一钱五分） 炒泽泻（一钱） 炒槐花（一钱）\n程（六岁）当脐腹痛。晨泄数次便血。不嗜食饮。冲年脾胃气滞。兼生冷内停。当和中、疏滞、驱寒。\n焦白术（二钱） 南山楂（一钱五分） 炙草（五分） 煨益智（五分） 当归（一钱） 炮姜（六分） 厚朴（一钱） 地榆炭（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 467,
+      "source_path": [
+        "便血"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "97adbb8a4bcd6426fa970becf48344a325264f208b8b256a54062010e48388b5",
+      "content_sha256": "4e15f027fc998a8ac0aaca8bc9a1bd9f446ca39431b2c1ec48873344ca768f06",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 418,
+        "simplified_codepoints": 418
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "9efb2ef6d9056d53bd966c4e",
+      "title": "霍乱",
+      "volume": null,
+      "content": "汪（十三）暑湿内踞。上吐下泻。拟宣达脾胃之阳。\n藿香叶（一钱） 制半夏（一钱五分） 赤苓（三钱） 飞滑石（三钱） 木瓜（一钱） 南楂炭（一钱五分） 厚朴（一钱）\n范（廿八）暑湿内蕴。上呕吐。下洞泄。拟宣通三焦。\n广藿香（一钱） 制半夏（一钱五分） 六一散（三钱） 炒厚朴（一钱五分） 广皮（一钱） 茯苓皮（三钱） 南楂炭（二钱）\n汪（十二）身热腹痛。呕逆便泄。\n鲜藿香叶（一钱） 制半夏（一钱五分） 赤苓（二钱） 朱砂六一散（三钱） 木瓜（一钱） 南楂炭（二钱） 炒厚朴（一钱五分） 淡黄芩（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 480,
+      "source_path": [
+        "霍亂"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "109396949f6159933cefbe575aba858114e3633d7845a60e8a0c30d04201f7ce",
+      "content_sha256": "9465ec17e36a9c3da0f0f7bbc6b6ecd38c2b497c441abbdaefa2dd96218feadf",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        481,
+        482,
+        483,
+        484,
+        485,
+        486
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 249,
+        "simplified_codepoints": 249
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "b7a6c132b1f4f7395425a21a",
+      "title": "脱肛",
+      "volume": null,
+      "content": "骆（八岁）稚年肛坠。拟升提法。\n焦白术（二钱） 炒白芍（一钱五分） 炒广皮（一钱） 炒归身（一钱） 炙草（四分） 乌梅肉（八分） 柴胡（醋炒六分） 升麻（醋炒五分）\n苏（六八）肛挺翻出。痛坠窘迫。向暮之年。气虚下陷。与冲子升柴可举迥异。但是痛必有瘀热蕴结于下。益气摄阴之中。少佐苦泄。所谓临症权衡。当以如盘走珠可也。\n熟地炭（三钱） 党参（一钱） 炒白芍（一钱五分） 归身（一钱五分） 焦白术（二钱） 炙草（五分） 炒黄柏（一钱） 五味子（一钱五分）\n吴（五八）向衰肛坠。起于痢病初愈。非独气虚下陷。而痢必伤阴。议投温补内托。迥异升提。\n熟地炭（四钱） 补骨脂（一钱） 茯苓（三钱） 当归（一钱五分） 五味子（一钱五分） 炙草（五分） 鹿角霜（三钱） 大茴香（四分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 487,
+      "source_path": [
+        "脫肛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "fcf778f14268a7d84c741d362f1dac858fbd45f590c18925a3a5a6e7c457c232",
+      "content_sha256": "70eb0040616b762fa5ef91c0d0ddc21cf4c40637b34245d7b7fa0fbed1911fdc",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        488,
+        489,
+        490,
+        491,
+        492,
+        493
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 333,
+        "simplified_codepoints": 333
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "87355e59cf4d21ed137478a1",
+      "title": "痿",
+      "volume": null,
+      "content": "毛（六二）足跗软。面乏华色。宗经旨肺热叶焦。则生痿躄之义。\n霜桑叶（一钱） 甜杏仁（三钱） 地骨皮（一钱五分） 玉竹（二钱） 苦百合（五钱） 麦冬（三钱） 大沙参（一钱五分）\n汤（三二）痿躄。左足偏枯。步履皆废。两脉涩弱。背脊喜捶。此属肾虚。失于收纳。藏聚少司。病根在下。当与虎潜意。\n全当归（一钱五分） 金狗脊（三钱） 茯苓（三钱） 虎胫骨（三钱） 川断（二钱） 萆薢（三钱） 淡苁蓉（三钱）\n许（三六）痿躄足不任身。拟治痿取阳明之义。\n制茅术（二钱） 生杜仲（二钱） 萆薢（二钱） 川黄柏（一钱） 淡苁蓉（二钱） 茯苓（三钱） 牛膝（三钱）\n王 二气交衰。拟温里托邪。\n嫩毛鹿角（三钱） 枸杞子（三钱） 西党参（二钱） 当归身（三钱） 新会皮（一钱） 炙草（五分） 淡苁蓉（三钱） 远志（八分） 酸枣仁（炒焦研，三钱） 原熟地（四钱） 大白芍（二钱） 抱木茯神（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 494,
+      "source_path": [
+        "痿"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "efc242212d0c647ab07dadacae50964849e5a64424573975f09231992433b92c",
+      "content_sha256": "2d5e08f5a7af4fc9d90ef52a4e8ec38f6ac291e76defa5f423e3fb13760d7db2",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 386,
+        "simplified_codepoints": 386
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "b311b30f23c5d9aa31bb4a57",
+      "title": "痹",
+      "volume": null,
+      "content": "褚（四八）痹痛。汗泄甚多。湿邪较风寒二气更胜。拟护阳法。从汗多亡阳例。仍佐驱邪。\n生黄耆（三钱） 海桐皮（一钱） 粗桂枝（八分） 当归（一钱五分） 片姜黄（一钱） 生于术（二钱） 防风根（六分） 川独活（五分）\n沈（三七）风湿相搏。历节痛。四肢麻木。此属周痹。\n粗桂枝（八分） 木防己（一钱五分） 海桐皮（一钱） 羚羊角（一钱） 晚蚕砂（一钱） 片姜黄（一钱） 川萆薢（二钱） 酒炒桑枝（一两）\n又 风湿麻痹。服苦温方。痛势已缓。所有入暮口干。当兼佐以甘润。\n羚羊角（一钱） 甜杏仁（三钱） 苡仁（二钱） 晚蚕砂（二钱） 南花粉（二钱） 木防己（一钱五分） 桂枝（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 503,
+      "source_path": [
+        "痹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "2913ef16bcf6eeafb6be8c19a586c6c7f271bc3ef43816876a32b2caead4803d",
+      "content_sha256": "9ffc9a5b9dee8f1fb3747301f8af55d7f02e0cb353471ca5996575da96bdf0fd",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        504,
+        505,
+        506,
+        507,
+        508,
+        509
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 285,
+        "simplified_codepoints": 285
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "6b796459eae20b2fe04c1206",
+      "title": "痉厥",
+      "volume": null,
+      "content": "吴（廿八）面青汗泄。不寐。诸阳一并为厥之后。寒战肢掣。牵引阳升。便秘。是肝肾内衰之征。往往有骤脱之虞。此止厥甚难。勉拟经旨肝苦急。急食甘以缓之。甘麦大枣汤加阿胶、牡蛎、枣仁、茯神。\n阿胶（二钱） 炙甘草（五分） 牡蛎（三钱） 淮小麦（一钱五分） 南枣（三钱） 枣仁（三钱） 茯神（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 510,
+      "source_path": [
+        "痙厥"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "63e37f366f44577fcf8557593afe64885cc39f479000a6ccbad1867d4d03566a",
+      "content_sha256": "81e6ee67dcd353f00e7a5abfce27daf6b182f09a2511b3950870417aa2c3ed2d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        511,
+        512
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 143,
+        "simplified_codepoints": 143
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "30b81daed4f221b263bb4a65",
+      "title": "癫痫",
+      "volume": null,
+      "content": "顾（四六）神识如醉。厥阳上并。志意不乐。有时叫喊。凡动皆阳。诸静为阴。此属热痰阻蔽灵机。经云。重阳者狂。重阴者癫。议降肝胆相火。\n羚羊角（一钱） 化橘红（一钱） 陈胆星（五分） 龙胆草（一钱） 天竺黄（一钱） 石菖蒲（六分） 远志（七分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 513,
+      "source_path": [
+        "癲癇"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "82c4a325a6282f819d4f5a83b8d094cfcbe5def85707e174c8446db8661b43f1",
+      "content_sha256": "8f20ca9e5c5f8178dc3ba6a2ce0cb5faf0285858b6a3a11de7cd9310b8d621a2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        514,
+        515
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "3dca23c8062dba4bcff0ede6",
+      "title": "衄",
+      "volume": null,
+      "content": "陶（廿四）阳升衄血。拟凉解肺胃法。\n犀角 连翘 元参 细生地 炒牛膝 黑山栀 丹皮 炒黑侧柏叶\n曹（廿八）鼻衄已止。面白无神。脉细音嘶。血脱恐气无所归。安得不以阳气为首务耶。\n炙黑黄耆 炒焦白芍 炒牛膝 洋参 炙草 炒山药 茯神\n周（八岁）痘后衄血。肺胃余火尚炽。\n地骨皮 犀角 丹皮 川贝 生地炭 连翘 银花\n戴（三三）议育阴。清气热。\n熟地炭 拣麦冬 淡菜 清阿胶 淡天冬 女贞子 云茯神（二钱） 龟腹版（五钱）\n戴 瘀咯初净。肺胃阴液未充。值天时燥气加临。阳易旋动。清窍不司其肃。衄血乃因复发。脉右寸关搏而疾大。是阳明燥气鼓舞之征。议滋清益阴肃上。候裁。\n原生地（四钱） 拣麦冬（一钱五分） 淮牛膝（炭） 龟腹版（酒炙，五钱） 陈阿胶（二钱） 连翘 穞豆皮（一钱五分） 真川贝（去心研，二钱） 炒黑侧柏叶（一钱五分）\n又 脉左和静。右动搏已减。衄血渐止。口干。望色紫滞已退。凡动皆火易就燥。议益阴潜阳。佐清阳明燥热。\n原熟地（四钱） 龟腹版（五钱） 拣麦冬（一钱五分） 陈阿胶（另烊冲，二钱） 淮牛膝（一钱五分） 真川贝（二钱） 霍石斛（一钱五分）\n又\n原熟地（四钱） 龟腹版（五钱） 拣麦冬（一钱五分） 阿胶（另烊冲，二钱） 淡天冬（一钱五分） 真川贝（二钱） 川斛（一钱五分） 制洋参（一钱五分）\n又\n原熟地（一钱） 真川贝（二钱） 川斛（一钱五分） 陈阿胶（二钱） 建莲（二钱） 茯神（二钱） 拣麦冬（一钱五分） 西党参（一钱五分） 九孔石决明（煆研三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 516,
+      "source_path": [
+        "衄"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "6aa1d50515033100f424080d8038018e227539a44e0438645792a3dadd8ed2ce",
+      "content_sha256": "e9978a5a5b9a416e4bb2e586fdf3e1f955a3630eb8501cdc6cc2a608864e8d1e",
+      "paragraph_count": 16,
+      "paragraph_ordinals": [
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 634,
+        "simplified_codepoints": 634
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "33115e89210d81b2b9d2ad8c",
+      "title": "疝",
+      "volume": null,
+      "content": "马（廿五）肝络久虚。少腹坠痛。此属气疝。宗子和方。\n川楝子（二钱） 归须（一钱五分） 炒橘核（一钱五分） 延胡（炒，一钱） 青木香（八分） 青皮（一钱） 粗桂枝（一钱） 炒小茴香（七分）\n宗（十一）稚年阴囊肿大。小溲通利。此属水疝。开太阳以驱邪。\n川桂木（五分） 桑白皮（一钱五分） 姜皮（四分） 汉防己（一钱五分） 苡仁（二钱） 茯苓皮（三钱） 厚朴（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 533,
+      "source_path": [
+        "疝"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "40f37622881e8cfe38ff1d68f8b92aa243b2cda3153cee6add9727cbb6a55653",
+      "content_sha256": "5b0944f4297e02aa8e7f359a91f43798f39da2ea8a18d878a72e6bcd2006210e",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        534,
+        535,
+        536,
+        537
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 180,
+        "simplified_codepoints": 180
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "73344a4e7127eb486f8c5553",
+      "title": "脚气",
+      "volume": null,
+      "content": "曾（廿五）湿伤于下。足胫浮肿。此属脚气。\n制茅术（一钱五分） 汉防己（一钱五分） 苡仁（二钱） 川黄柏（一钱） 木瓜（一钱） 川萆薢（二钱） 牛膝（二钱）\n田（十六）泄泻初愈。足胫浮肿。宜温通太阴。\n煨益智（八分） 苡仁（二钱） 姜炭（四分） 汉防己（一钱五分） 茯苓皮（三钱） 桂枝木（五分） 木瓜（一钱五分）\n沈（五二）寒湿内郁。泄泻腹痛。小便频数。面痿跗肿。\n煨益智（八分） 汉防己（一钱五分） 炮姜炭（六分） 炒焦厚朴（一钱） 木瓜（一钱五分） 苡仁（三钱） 桂枝木（八分）\n又 跗肿。泄泻。腹痛。\n西党参（二钱） 汉防己（一钱五分） 炮姜炭（六分） 淡吴萸（八分） 炒木瓜（一钱五分） 苡仁（三钱） 茯苓（三钱） 煨益智（八分） 桂枝（八分） 加台药（一钱）\n陈（五八）溏泄跗肿。晨起略爽。下午病剧。是脾肾阳惫残。何疑。\n党参（二钱） 淡吴萸（八分） 炒焦小茴香（八分） 胡芦巴（一钱五分） 巴戟天（一钱五分） 茯苓（二钱） 制川乌（一钱五分）\n尚 昨进抑肝蠲痰。喘象宁静。所谓急则治标之方。而脾肾阳惫。是病之本。今咽痛肛坠。虚火未熄。且性情躁动。心阳肝火亦为跌仆之形。即属上实下虚之验。身有微热。防其复喘。拟扶阳抑肝。以导浮火。再商。\n制洋参（二钱） 陈半曲（一钱五分） 钗石斛（一钱五分） 白蒺藜（去刺炒，一钱五分） 橘红（一钱） 茯苓（三钱） 煨天麻（二钱）\n又 拘束已减。夜寤稍寐。肚坠便积。痰气下降。跗肿全消。脉右搏大。今现于左部。痰积下坠。浮火已熄。总之。宁湿内郁。蕴痰酿积。非温经通络。焉克有济。再拟通积消瘀痰。扶脾佐之。\n粗桂枝（八分） 炒黑蜀漆（一钱） 茯苓（三钱） 生白术（一钱） 炮黑川乌（一钱） 炙草（四分） 厚朴（八分）\n又 积滞已稀。痰哮不寐。阳衰窃发。\n制洋参（八分） 制半夏（一钱五分） 石菖蒲根（四分） 厚朴（八分） 一剂后加猪胆汁一枚临\n服冲入 茯苓（三钱） 蒸白术（二钱） 炮黑川乌（八分）\n又\n桂枝（八分） 制半夏（一钱五分） 淡干姜（六分） 生白芍（一钱五分） 五味子（八分） 茯苓（三钱） 炙草（五分）\n又 议真武汤去白芍。加炙草。合大半夏汤。\n人参（五分） 制川附子（五分） 炙草（四分） 蒸白术（二钱） 炒焦陈半曲（一钱五分） 老姜汁（临服冲入五分） 茯苓（二钱）\n又 阳衰痰饮窃踞。气塞至咽。欲坐不卧。暂进微通胸中之阳。\n薤白头（三钱） 制半夏（一钱五分） 淡干姜（八分） 栝蒌皮（一钱五分） 草郁金（一钱） 茯苓（三钱） 桂枝（八分） 临服冲入白酒半杯为导引",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 538,
+      "source_path": [
+        "腳氣"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "81fa3ca8b39f9ab245725cf46a67c4ad749b3a4de6107807df189811a3451399",
+      "content_sha256": "7bf9fce64e9cfca7433788ab6305a8fec795df8930d785f6dba5eb78484f36ff",
+      "paragraph_count": 23,
+      "paragraph_ordinals": [
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545,
+        546,
+        547,
+        548,
+        549,
+        550,
+        551,
+        552,
+        553,
+        554,
+        555,
+        556,
+        557,
+        558,
+        559,
+        560,
+        561
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1060,
+        "simplified_codepoints": 1060
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "a40bf89bc2c4ff821fc0b629",
+      "title": "头痛",
+      "volume": null,
+      "content": "徐（三四）暑风热头痛。宜清散。\n鲜荷叶边（三钱） 鲜菊叶（一钱） 木通（八分） 羚羊角（一钱） 连翘壳（一钱五分） 黑山栀（一钱五分） 蔓荆子（一钱）\n杨（三三）阳浮头痛。暮热早凉。脉小音嘶。面赤肉瞤。此属谋虑伤肝。肝阳挟内风上冒。致有巅顶之疾。是内伤之症。非清散所能治之。复脉去参、姜、桂。加鸡子黄。白芍。\n生鸡子黄（一枚） 细生地（三钱） 炙甘草（三分） 清阿胶（三钱） 麦冬（一钱五分） 南枣（三钱） 生白芍（一钱五分） 大麻仁（一钱五分）\n戴（五九）左偏头痛。目眶浮肿。肝阳挟内风。上冒所致。\n桑叶（一钱五分） 粉丹皮（一钱五分） 羚羊角（八分） 穞豆皮（一钱五分） 白甘菊（一钱） 连翘（一钱五分） 大生地（三钱） 赤芍（一钱） 加九孔石决明（煅研，三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 562,
+      "source_path": [
+        "頭痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "098853574f70ec65117309bfa19d8c4dad7b68f97ddd2fd93cbddd73a8045834",
+      "content_sha256": "cc59397edd0068349f8e239aa6365d95d599bb9d96e26f172fc37962570f5a90",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        563,
+        564,
+        565,
+        566,
+        567,
+        568
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 333,
+        "simplified_codepoints": 333
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "16ac536876f038ef00290fc3",
+      "title": "心痛",
+      "volume": null,
+      "content": "夏（廿八）肝厥心痛。呕吐妨食。渴饮。进河间方。\n金铃子（三钱） 制香附（三钱） 橘红（炒，一钱） 炒延胡（一钱） 郁金（一钱） 炒小茴香（七分） 南楂炭（二钱）\n凌（四二）嗔怒动肝木。厥伤营络。能食心痛。得嗳稍舒。拟辛甘理阳方。\n粗桂枝（八分） 制半夏（一钱五分） 炙草（五分） 归身（一钱五分） 高良姜（一钱） 茯苓（三钱） 生白芍（一钱五分）\n冯（廿二）心痛如轧。经来两至。肝阴久亏。乃肝木阳化。内风不熄。拟以咸苦。佐以微辛。使从阴和阳。\n阿胶（二钱） 牡蛎（三钱） 川楝子（一钱） 当归（一钱） 川芎（三分） 小川连（四分） 生白芍（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 569,
+      "source_path": [
+        "心痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "bc384ac744fdaea4556a9fa1e9fd0f3c1e9f4d8e9e88f8964561d220e468e21e",
+      "content_sha256": "d99393b2a8d779756dd495b2c7c1e1651fe13fd2a7abf0c19c6089d2fc6a1bc2",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        570,
+        571,
+        572,
+        573,
+        574,
+        575
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 275,
+        "simplified_codepoints": 275
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "1bb747d12db1621f0a8ac8f6",
+      "title": "胃脘痛",
+      "volume": null,
+      "content": "苏（廿八）胃痛呕逆。此属肝木侮土。进河间方。\n金铃子（二钱） 郁金（一钱） 小茴香（一钱五分） 炒延胡（一钱） 制香附（一钱五分） 南楂炭（一钱五分） 青皮（一钱）\n诸（四八）嗔怒动肝木。犯胃。为痛。为呕。为消渴。肢冷。脉沉微。是木不条达。制肝木。理能取胜。\n延胡（一钱） 制香附（一钱五分） 归须（一钱） 川楝子（二钱） 郁金（一钱） 青木香（八分） 桂枝（八分） 炒橘红（七分）\n陈（廿三）营虚胃痛。议辛甘理阳。\n甜桂枝（八分） 炙草（五分） 煨姜（五分） 归须（一钱五分） 南枣（三钱） 茯苓（三钱） 生白芍（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 576,
+      "source_path": [
+        "胃脘痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "754f89c9c70eb22281cfde142cd8ae95bb58c653ced037f6578b0546b0e75787",
+      "content_sha256": "b9ad56c17d79c8478dde0bb9748dcdef8c1864dc5dac47a155bc3ec35e434ff9",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        577,
+        578,
+        579,
+        580,
+        581,
+        582
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 263,
+        "simplified_codepoints": 263
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "84c0701475f74678b3307e32",
+      "title": "胁痛",
+      "volume": null,
+      "content": "曹（三六）左胁痛。咳痰。邪入于络。\n粗桂枝（八分） 归须（一钱） 郁金（一钱） 炒桃仁（去尖研，一钱） 黑山栀（一钱五分） 降香（末，五分） 炒白芥子（五个）\n赵（廿八）嗔怒动肝。左胁连少腹痛。\n川楝子（二钱） 制半夏（一钱五分） 归须（一钱） 炒延胡（一钱） 郁金（一钱） 炒桃仁（一钱） 青皮（一钱） 炒小茴（五分）\n夏（四五）寒热胁痛。拟从少阳通络。\n青蒿梗（一钱） 制半夏（一钱五分） 归须（一钱） 郁金（一钱） 炒白芥子（一钱五分） 丹皮（一钱五分） 霜桑叶（一钱）\n吴（三六）形寒胁痛。半月不衰。面白足冷。此属操劳损阳。谋虑伤肝之征。是非轻象。辛香刚燥。决不可进。\n旋覆花（一钱） 柏子仁（二钱） 新绛（一钱） 归肉（一钱五分） 红花（五分） 青葱管（五分） 桃仁（一钱）\n又 胁痛病自肝起。渐归及左。饮食少进。多梦纷纭。肝胃同病。勉拟甘缓和阳。\n人参（一钱） 炙草（五分） 枣仁（炒焦研，二钱） 当归（一钱五分） 龙骨（三钱） 茯神（一钱） 柏子仁（二钱） 金箔（三片）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 583,
+      "source_path": [
+        "脅痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "0787da8d0f57899e9396da2965e5c112849dbded518bc41460159b86e1819db0",
+      "content_sha256": "4c05eb1d4cf7fbf5a316a4a20e5a03b480916c8d08f64798d5b928539d8050d9",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592,
+        593
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 442,
+        "simplified_codepoints": 442
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "018df03e0680755bf546bf73",
+      "title": "腹痛",
+      "volume": null,
+      "content": "张（六岁）肝水肆横。腹痛脉弦。宜当疏泄。\n青皮（一钱） 煨木香（六分） 生谷芽（一钱） 炒厚朴（一钱） 广皮（一钱） 炮姜炭（三分） 南山楂（一钱五分）\n陆（六岁）腹痛数日。始由跌仆惊恐而得。经旨谓惊则气乱。恐则气下。其气漫无所归。斯痛全在于气。今若是危笃者。误投下蛔。五味扰动厥阴肝络。以致胃伤废食。饮食不思。关脉迟缓。按之痛止。抚摩稍适。色现黑滞。倘加呕逆。乃为顺候。今因戊土残惫。难以立方。勉拟戊己成法。望其百中一幸。戊己汤去参。加半曲、谷芽。\n焦白术（一钱五分） 炒焦半曲（一钱五分） 谷芽（一钱） 炙草（五分） 广皮（一钱） 茯苓（一钱五分） 生白芍（一钱五分）\n戴（十一）寒客于胃。腑阳不宣。腹痛脉弦。少食。然六腑属阳。以通为用。古人谓痛则不通耳。\n生益智（七分） 炒焦神曲（一钱五分） 焦谷芽（一钱） 南山楂（一钱五分） 广皮（一钱） 块茯苓（二钱） 制厚朴（一钱）\n陆（六岁）昨用戊己甘缓。痛势略减。饮食稍进。幸之机也。但痛来汗泄。由惊则伤心。致心伤金。是脏气之伤。前以蛔下。腑阳未复。兹当培土泄肝。以扶其正。\n桂枝木（五分） 炒焦乌梅肉（七分） 煨木香（五分） 川楝子（一钱） 土炒白芍（二钱） 淡黄芩（一钱） 延胡（一钱） 茯苓（一钱五分）\n朱（八岁）腹痛呕逆。惊骇而起。例进辛香。其病可愈。\n延胡（一钱） 郁金（一钱） 青木香（五分） 金铃子（一钱） 制半夏（一钱五分） 炒小茴（四分） 青皮（一钱） 橘核（炒，一钱）\n虞（五岁）身热腹痛。前议疏泄得效。缘稚年体质最薄。邪气得以乘虚蔓延。腹痛复作。身热不止。幼科但知治惊。不明内经诸痛之义。所用方剂。皆镇惊化痛之剂。不惟腹痛不减。益且大便坚秘。少腹痹热。四肢厥冷。酿成危患。\n川桂木（五分） 南楂炭（一钱五分） 茯苓（三钱） 淡黄芩（一钱） 橘红（一钱） 泽泻（一钱） 苡仁（二钱） 生谷芽（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 594,
+      "source_path": [
+        "腹痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "c57526d9a62f49d5915117bee33d1c15c11848ba5a805df88d59b3ea9a22d250",
+      "content_sha256": "e01d0da7efbd53bdd4c0bb0659a70fa2958074867f7d28714dd238e09089603f",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 785,
+        "simplified_codepoints": 785
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "edec141dfcd09873ee8d46b8",
+      "title": "肩痛",
+      "volume": null,
+      "content": "夏（五四）阳明脉衰。肩胛痛。\n生黄耆（三钱） 生于术（一钱） 茯苓（三钱） 当归（一钱五分） 木防己（一钱五分） 萆薢（一钱） 防风根（六分） 桂枝（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 607,
+      "source_path": [
+        "肩痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "146c9f50a4d96f2daf940f8e5107d29bd08cd8156ae598aaada5c674db86e619",
+      "content_sha256": "df275235739c19b7786812b438ba9176cb1aa361e404243034bc043f294beef3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        608,
+        609
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "207d2576502586955d7e563f",
+      "title": "背痛",
+      "volume": null,
+      "content": "严（六。）背痛脊痛。此属督脉虚。\n毛鹿角（三钱） 补骨脂（一钱） 茯苓（二钱） 当归（一钱五分） 淡苁蓉（二钱） 杞子（一钱五分） 生白芍（一钱五分） 沙蒺藜（二钱） 青盐（调入三分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 610,
+      "source_path": [
+        "背痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "78baea6381985ec3370d2aa96f0b704a8adc5801219617d38c24bbeb4b639e82",
+      "content_sha256": "e5f010b2754a6776e76818542dc154547f22d6daa68b2529978a9f91dcf710c2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        611,
+        612
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "813fc8d305848b72abc2b73c",
+      "title": "臂痛",
+      "volume": null,
+      "content": "张（四八）臂痛难于屈伸。即属风、寒、湿、三气居多。\n生黄耆（三钱） 生于术（二钱） 海桐皮（一钱） 当归（一钱五分） 木防己（一钱五分） 片姜黄（一钱） 防风根（六分） 加酒炒桑枝（一两）\n苏（三五）左肢节痛。麻木夜甚。\n粗桂枝（八分） 木防己（一钱五分） 海桐皮（一钱） 晚蚕砂（二钱） 仙灵脾（一钱五分） 片姜黄（一钱） 川萆薢（二钱） 苡仁（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 613,
+      "source_path": [
+        "臂痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "75974b439e0e010d22662e728c21f034deb5f70fde966fb8de01edf3e2134654",
+      "content_sha256": "808871f4443f03cfa4df608607c8dd34208258a6c594ddb291e900ef91e144f0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        614,
+        615,
+        616,
+        617
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 177,
+        "simplified_codepoints": 177
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "390a096e56f4c379f27ad73a",
+      "title": "腰痛",
+      "volume": null,
+      "content": "章（五四）五旬余年。阳气馁乏。交寒露节。为暴寒郁折生阳。所以暑年腰痛。每至深秋屡发。此属劳伤挟湿所致。劳最能损阳气。经言。劳者温之。\n川桂枝（八分） 厚杜仲（二钱） 茯苓（一钱） 晚蚕砂（二钱） 淮牛膝（二钱） 萆薢 苡仁（一钱）\n胡（四六）两尺脉独小。腰溶溶而痛。形寒。面乏华泽。腰者肾之府。此属少阴久虚之象。理宜温养。\n鹿角霜（三钱） 淡苁蓉（二钱） 茯苓（三钱） 当归（一钱五分） 补骨脂（二钱） 紫衣胡桃肉（五钱） 炒白芍（一钱五分） 炒小茴（四分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 618,
+      "source_path": [
+        "腰痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "2a57d59f938b1fe10f964ef80c08452c62159eed055561113acd1476fbbdd131",
+      "content_sha256": "b8529110818918e3b64b59be91ee2d8c07ba28b8919b6201a46fed935821f6c8",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        619,
+        620,
+        621,
+        622
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 229,
+        "simplified_codepoints": 229
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "063ee6c6322f6581797c4813",
+      "title": "腿痛",
+      "volume": null,
+      "content": "马（四六）劳伤挟风。腿骨疼痛。拟以辛热。佐以苦温。\n虎胫骨（四钱） 金毛脊（三钱） 油松节（三钱） 当归（一钱五分） 五茄皮（二钱） 白茅根（二钱） 川独活（一钱）\n曹（四六）右腿疼痛。肌肉不肿。\n炙山甲（二钱） 炒桃仁（一钱五分） 青皮（一钱五分） 归身（一钱五分） 乳香（一钱） 没药（一钱） 川独活（六分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 623,
+      "source_path": [
+        "腿痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "c1bcd691dfa78a1df8539ff14e7314f53593d7565f0916364a49cc85678b1e56",
+      "content_sha256": "3b05f8d13e164b0dbc4d77c2f91a09b46713ca7548129bcbc0c23e4a3040e1aa",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        624,
+        625,
+        626,
+        627
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 156,
+        "simplified_codepoints": 156
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "03b6818143ebb76b1ac297fd",
+      "title": "足痛",
+      "volume": null,
+      "content": "吴（三三）两足皮膜。抚之刺痛。此属厥阴乘犯阳明。治宜疏泄。\n川楝子（一钱） 延胡（一钱） 青皮（一钱） 归须（一钱） 炒桃仁（一钱） 黑山栀（一钱五分） 炒黑楂肉（二钱）\n陆（三。）足跗软。脉微弱。\n虎胫骨（生打三钱） 生杜仲（二钱） 川萆薢（二钱） 全当归（一钱五分） 淮牛膝（二钱） 茯苓（三钱） 川绩断（二钱） 淡苁蓉（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 628,
+      "source_path": [
+        "足痛"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "996e33324aaf3cc9d1c8017fccaf50a3332748229440ea3c3f2701ca135a0b5c",
+      "content_sha256": "825ae57e66878df0a50a678fd08cc260c60768e4a353b5f73cf491db3404b8c5",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        629,
+        630,
+        631,
+        632
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 166,
+        "simplified_codepoints": 166
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "5a818946d94ec57f08f95d3a",
+      "title": "耳",
+      "volume": null,
+      "content": "沈（五一）风温上受。耳聤胀痛。胆脉络于耳。议清少阳气分之热。\n桑叶（一钱） 杏仁（二钱） 连翘（去心，一钱五分） 羚羊角（一钱） 桔梗（一钱） 川通草（一钱） 薄荷梗（一钱） 马勃（四分）\n韩（三八）暑风袭于少阳。胆脉络于耳。木火上炎。清窍失聪。\n青蒿梗（一钱） 鲜菊叶（一钱五分） 马勃（三分） 鲜荷叶（三钱） 连翘壳（一钱五分） 黑山栀（一钱五分） 苦丁茶（三分） 鲜生地（五钱）\n谢（四二）少阴久亏。耳鸣时闭。书云。肾开窍于耳。心亦寄窍于耳。凡外邪治少阳。内伤从少阴为定例。\n熟地（三钱） 牡蛎（二钱） 麦冬（朱砂拌，三钱） 北五味（一钱五分） 磁石（一钱五分） 白芍（二钱） 茯神（二钱） 龟版（二钱）\n戴（六一）久患耳鸣。兼有鼻衄、牙宣等症。衄血虽经向愈。仍若是心肾素亏体质。而肝阳上逆。清窍蒙蔽。拟方候裁。\n原熟地（盐水炒，四钱） 拣麦冬（二钱） 牡蛎（二钱） 大白芍（刮净酒炙，一钱五分） 龟腹版（四钱） 磁石（二钱） 云茯神（二钱） 北五味（一钱） 泽泻（一钱五分） 加沉香（三分） 滚水磨冲",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 633,
+      "source_path": [
+        "耳"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "1392f1babc8f90861f20b9290a011e501fc8cf11d279b1b9c22f2c9b342d41ec",
+      "content_sha256": "f00c3a426dcdcb04f1da78af6ef13a596857da6d2b30b951b57e303198b0e36d",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        634,
+        635,
+        636,
+        637,
+        638,
+        639,
+        640,
+        641
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 454,
+        "simplified_codepoints": 454
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "c0b301f4edcfd3b2d19a3cb7",
+      "title": "目",
+      "volume": null,
+      "content": "吴（九岁）稚年目赤。障翳。勿取大辛大苦。转伤气分。\n桑叶 白菊花 黑栀皮 夏枯花 草决明 小生香附 赤芍 谷精草\n邱（一八）目赤泪多。肿而不痛。必用轻散。不致风热损伤瞳神。\n桑叶 谷精草 连翘 草决明 白甘菊 黑山栀 赤芍\n叶（三六）目赤肿痛。\n桑叶（一钱） 夏枯花（一钱） 生香附（二钱） 穞豆皮（一钱） 草决明（一钱五分） 白甘菊（一钱） 赤芍（一钱五分） 黑山栀（一钱五分）\n欧（五四）头额胀。目赤痛。\n羚羊角（一钱） 草决明（一钱五分） 夏枯花（一钱） 生香附（二钱） 连翘（一钱五分） 黑山栀（一钱五分） 苦丁茶（三分） 白甘菊（一钱）\n陆（六二）肝肾久衰。目赤障翳。热泪频多。昏暗无光。\n霜桑叶（一钱） 黄甘菊（一钱） 石决明（三钱） 制首乌（三钱） 杞子（一钱五分） 小胡麻（一钱五分） 穞豆皮（二钱） 望月砂（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 642,
+      "source_path": [
+        "目"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "373f39e18f5e384bac463594a9a1261cc30ae7b473bcc6afd7dcf8cbb0f73ed6",
+      "content_sha256": "c5d244a65ad50de8af6b04ec1e1f2fda4f5b812f4039e8fc55c0e6c61e256fb0",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649,
+        650,
+        651,
+        652
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 366,
+        "simplified_codepoints": 366
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "0f5ab0ed3e732549c93b33e3",
+      "title": "鼻",
+      "volume": null,
+      "content": "沈（四四）少阳风热未解。移热于脑为辛。頞液下注为鼻渊。\n羚羊角（一钱） 连翘壳 苍耳子 薄荷梗 辛荑 黑山栀 苦丁茶（三分） 白芷（一分）\n钱（三七）面赤咳嗽。脑热鼻渊。鼻属肺窍。少阳风热上炎。热逼清道为脑液下注。且议苦辛宣通。\n羚羊角（一钱） 泡白杏仁（三钱） 郁金（一钱） 夏枯花（一钱） 连翘壳（一钱五分） 黑山栀（一钱） 苦丁茶（三分） 薄荷梗（八分）\n沈（二一）鼻塞右甚。肺之窍也。有形高突。气之阻也。清窍失司。心肺之火有余而水亏。则乘之矣。先拟辛通宣窍。从气分治。\n薄荷（八分） 嫩元参（二钱） 蔓荆子（二钱） 羚羊角（一钱五分） 连翘（一钱五分） 小生香附（四钱） 真北细辛（五分） 白甘菊（一钱） 黑山栀（一钱五分） 加鲜荷叶边（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 653,
+      "source_path": [
+        "鼻"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "3c356c9cde3f68a5746549fa707b29bb7af5101cc3f694a9155a73eaf571474a",
+      "content_sha256": "6549fc2c594563a7b842b77e67a9b544c53045d9386d20f4c8512c058b5dae85",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        654,
+        655,
+        656,
+        657,
+        658,
+        659
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 326,
+        "simplified_codepoints": 326
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "a4f76d5766640e9511b85679",
+      "title": "舌",
+      "volume": null,
+      "content": "朱（廿三）舌绛而腐。气急痰涌。症属棘手。勉拟下方。\n犀角（磨冲，五分） 拣麦冬（一钱五分） 白扁豆（三钱） 小生地（三钱） 川贝（去心研，二钱） 北沙参（一钱五分） 丹参（一钱五分） 草郁金（一钱） 绿豆皮（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 660,
+      "source_path": [
+        "舌"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "81fe26f815051b28e52e4cd0bb9f8d85c9311f6383080551b772d6e49de9d9fb",
+      "content_sha256": "6717d46afff692f083745c17f4c8e28bf0e73c4bd4a9e52bed089dba4d83c997",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        661,
+        662
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 109,
+        "simplified_codepoints": 109
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "8d3156780547cc134113877b",
+      "title": "牙",
+      "volume": null,
+      "content": "薛（廿八）两尺脉独大。疟陷入少阴。当血上溢。热逼血升。气散血随散。往往有骤脱之虞。止此血甚难耳。拟方候高明主裁。\n熟地（五钱） 真百草霜（三钱） 龟腹版（五钱） 炒黄柏（一钱五分） 乱头发灰（五钱） 黄芩（一钱五分） 知母（一钱五分） 临服冲入童便一小杯 一服后加人参（另煎冲，一钱）\n柯（三五）阳明风热上扰。牙龈肿痛。\n马勃（三分） 嫩元参（一钱五分） 连翘壳（一钱五分） 羚羊角（一钱） 桔便（一钱） 生甘草（三分） 薄荷（八分） 黑山栀（一钱五分）\n陈（六一）齿痛连太阳。左关脉洪大。议景岳方法。\n防风（一钱五分） 北细辛（五分） 龙胆草（七分） 生甘草（三分） 升麻（三分）\n贾（三八）怀妊五六月。值脾胃司胎。而病上牙齿痛。况偏于右。此属肝阴不足。肝风内动。虚乘袭入阳明脉络。宜当熄风。\n熟地（四钱） 炒杞子（二钱） 白蒺藜（二钱） 清阿胶（一钱五分） 菊花炭（一钱） 云茯神（二钱） 穞豆皮（二钱） 九孔石决明（一具）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 663,
+      "source_path": [
+        "牙"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "09f623febded5916af6c64e46a1d46ae7462269bbb8438bb8772f2be8bec972b",
+      "content_sha256": "e564d25023e7c07023d235c39ae03aa6f1c190bf0925aa9aee49628a17eb7c62",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        664,
+        665,
+        666,
+        667,
+        668,
+        669,
+        670,
+        671
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 414,
+        "simplified_codepoints": 414
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "8a16494d07555925103d89fc",
+      "title": "疮疡",
+      "volume": null,
+      "content": "虞（十二）两目疮疡。绵延一载不痊。服羚羊角反剧。眼癖。\n川连（四分） 白甘菊（一钱） 生甘草（二钱） 夏枯花（一钱） 桑皮（一钱五分） 苡仁（一钱） 土贝（二钱） 连翘（一钱五分） 茯苓皮（二钱）\n又 前方已服三帖。略效。再拟。\n制军（一钱五分） 银花（一钱） 桑皮（一钱五分） 夏枯花（一钱） 丹皮（一钱） 连翘（一钱五分） 大贝（二钱） 炒山楂（一钱五分） 川楝子皮（一钱）\n又 前方又服三帖大效。又拟。\n制军（二钱） 金银花（一钱） 川楝子皮（一钱） 夏枯花（一钱） 桑皮（一钱五分） 黑山栀（一钱五分） 大贝（二钱） 莲翘（一钱五分）\n张（二）肺火。\n桑叶（一钱） 川贝（二钱） 银花（一钱） 池菊（一钱） 杏仁（三钱） 连翘（一钱五分） 羚羊角（一钱五分） 黑山栀（一钱五分）\n又 疮色已溃。尚未结痂。系肺热未清。\n桑皮（一钱五分） 大贝（二钱） 池菊（一钱） 夏枯花（一钱） 制天虫（二钱五分） 连翘（一钱五分） 赤芍（一钱五分） 银花（一钱） 地丁（一钱）\n彭（三一）乳疖。\n青皮（一钱） 全当归（一钱五分） 银花（三钱） 栝蒌皮（二钱） 南花粉（二钱） 角针（三分） 橘叶（一钱） 生甘草（三分） 木通（五分）\n邱（三一）面目浮肿。左肢发疮。此属湿火。肤腠皆痒。\n桑皮（一钱五分） 莃莶草（二钱） 银花（一钱） 制首乌（四钱） 汉防己（一钱五分） 连翘（一钱五分） 米仁（三钱） 池菊（一钱）\n又 两次。\n桑皮（一钱五分） 川黄柏（一钱） 池菊（一钱） 夏枯花（一钱） 汉防己（一钱五分） 连翘（一钱五分） 米仁（三钱） 银花（一钱）\n又 三次。\n大贝（一钱） 川萆薢（二钱） 银花（一钱） 夏枯花（一钱） 汉防己（一钱五分） 羚羊角（一钱五分） 池菊（一钱） 米仁（二钱）\n王（十二）气火上升。唇口生疮。\n霜桑叶（二钱） 池菊（一钱） 丹皮（一钱五分） 南花粉（一钱五分） 连翘（一钱五分） 生甘草（三分） 赤芍（一钱五分） 马勃（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 672,
+      "source_path": [
+        "瘡瘍"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "28cfcac2d48d485af898d85c93c3b1ba2acf814b61a8bd74b0acc22ed1f62f13",
+      "content_sha256": "c41b32909bb05767793edec7f0686233b570499da1469fc4e90cd11ee3ff792d",
+      "paragraph_count": 20,
+      "paragraph_ordinals": [
+        673,
+        674,
+        675,
+        676,
+        677,
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688,
+        689,
+        690,
+        691,
+        692
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 828,
+        "simplified_codepoints": 828
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "ee69f59b4027e631410b2740",
+      "title": "咽喉",
+      "volume": null,
+      "content": "归（十八）风温外袭肺卫。咽痛。辛以散之。\n桑叶（一钱） 马勃（三分） 连翘（一钱五分） 象贝（一钱五分） 桔梗（一钱） 黑元参（一钱五分） 牛蒡子（三钱）\n许（廿八）风温外袭肺卫。鼻塞咽痛。\n牛蒡子（三钱） 杏仁（三钱） 嫩元参（一钱五分） 象贝母（一钱五分） 桔梗（一钱） 连翘（一钱五分） 霜桑叶（一钱） 马勃（三分）\n沈（五八）咳嗽腰痛。咽喉如梗。想少阴之脉。循咽。厥阴之脉。循喉咙。是肝肾内衰之征。无暇理嗽。当酸咸入阴。\n熟地（三钱） 龟版（五钱） 杞子（一钱五分） 萸肉（一钱五分） 阿胶（二钱） 茯苓（二钱） 淡菜（二钱） 青盐（三分） 芡实（二钱）\n徐（四七）咽喉肿痛。咯痰。宜清化。\n桑叶（一钱） 杏仁（三钱） 嫩元参（一钱五分） 羚羊角（一钱） 桔梗（一钱） 黑山栀（一钱五分） 川贝（去心研，二钱） 马勃（四分）\n曹（三。）损怯咽痛。润剂为稳。\n川斛（三钱） 北沙参（一钱五分） 糯稻根须（五钱） 炒麦冬（一钱五分） 生甘草（三分） 茯神（二钱） 细生地（三钱） 生鸡子黄（一枚）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 693,
+      "source_path": [
+        "咽喉"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e8683c094a2a13f0fe83d2672a890ba96b07b809356ec37783899775597ccbf2",
+      "content_sha256": "220ab0ca144214f6df7d9fbac6f3438afdb18828d9ef7d87f7498203dfa6fbfc",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        694,
+        695,
+        696,
+        697,
+        698,
+        699,
+        700,
+        701,
+        702,
+        703
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 450,
+        "simplified_codepoints": 450
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "e6d3ba05a62436c48b66c39f",
+      "title": "调经",
+      "volume": null,
+      "content": "曹（廿三）肝脏衰微。腹痛而后经至。纳谷颇减。潮热便溏。是气血交滞。拟宣通瘀痹。\n延胡 制香附 郁金 南山楂 丹参 泽兰 当归\n归（一八）咳嗽失血。天癸不至。此属经例。肝胆气火上升所致。\n苏子 南楂炭 钩藤 泽兰 炒桃仁 黑山栀 郁金 丹皮",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 704,
+      "source_path": [
+        "調經"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e4b89f9c4836a18ae9bf2a9eaa8cc2c6b4f8466cf0778780064febf7c130cd7a",
+      "content_sha256": "de7a90b8b2a95e197e801c2ce7e9ec8a8d6c74b29c6cee92f4602ef417507ffa",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        705,
+        706,
+        707,
+        708
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "56e970c293cc0f4ab35a33f4",
+      "title": "经闭",
+      "volume": null,
+      "content": "陆（三二）经闭数月。胸满腹胀。寒热消渴。大便燥结。脉微涩。两寸脉独大。此皆胃大肠之腑热。渐侵于心脾之脏。即内经所谓二阳之病发心脾。不得隐曲。女子不月是也。盖消渴者。胃大肠之热也。胸满者。心病上焦不利也。腹胀者。脾病中焦胀满也。脏腑俱病。故寒热也。考戴人治经闭逾年者。每责于心受积热为主。所有抑火升水。渗温润燥等方。不过谓胃以示其推陈致新而已。\n鲜生地（一两） 炒桃仁（三钱） 郁李仁（一钱五分） 制军（三钱） 杜牛膝（三钱） 老姜渣（五分） 浔桂心（四分） 麦紫管一两煎汤代水五帖",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 709,
+      "source_path": [
+        "經閉"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "5128316febddc838690253bfb7dc6a799d671a87f05c5acbb5124f14e3d578d3",
+      "content_sha256": "9f2b055b96c224f7d1d4caf385e05fb14ea582560fe4e5fbf5f666509ea22c1f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        710,
+        711
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 240,
+        "simplified_codepoints": 240
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "a89391c4c2584040f095be17",
+      "title": "淋带",
+      "volume": null,
+      "content": "周（三五）淋带起于产后。腰腹绞痛。是属冲任交伤。而带脉空隙。宜固其下。\n乌贼骨（三钱） 牡蛎（三钱） 生杜仲（二钱） 当归（一钱五分） 炒白芍（二钱） 白薇（一钱） 蕲艾（一钱）\n鄂（三四）阳浮头痛。身热。带下如注。\n熟地炭（三钱） 萸肉炭（一钱） 炒山药（二钱） 清阿胶（二钱） 建莲肉（三钱） 芡实（二钱） 茯神（二钱）\n缪（三六）赤白带下。头晕。腰溶溶而痛。舌状如刺。面赤嘈杂。肝阴久亏。肝阳化火风上冒。致有产后淹缠之恙。想肝为刚脏。拟以熄风法。以柔能济刚。兼以坚阴佐之。\n生左牡蛎（三钱） 麦冬（一钱五分） 焦黄柏（一钱） 陈阿胶（二钱） 炒杞子（一钱五分） 炒黑樗根皮（三钱） 细生地（三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 712,
+      "source_path": [
+        "淋帶"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "d84e68a4dc5477754afeeff73a6e045aa89ed3b7dba3efd9f5bcdcdd92a213e7",
+      "content_sha256": "7bfcfb34c85c1016eaed571a02046f49d64fbfbb8f7a44b4d7e71f725e7f50b6",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        713,
+        714,
+        715,
+        716,
+        717,
+        718
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 301,
+        "simplified_codepoints": 301
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "1b8251d842ca99ace9d744bf",
+      "title": "崩漏",
+      "volume": null,
+      "content": "陆（四八）肝肾久损。冲任交伤。崩漏。暴下如注。\n龟甲心（五钱） 女贞实（一钱） 淡天冬（二钱） 清阿胶（三钱） 旱莲（二钱） 柏子仁（二钱） 熟地炭（三钱）\n归（五二）崩漏暴下不止。脉动。冲任交损。方议潜阳。\n龟甲心（五钱） 归身（一钱五分） 阿胶（二钱） 川断（二钱） 炙黑甘草（四分） 蕲艾（五分） 炒枯熟地（三钱）\n斯（廿六）脉左迟右濡。寒热腰痛。脊酸楚。足缓腹痛。漏淋不止。肝阴虽属久亏。而昨议益阴镇肝之药。未尝不是。然淋沥已久。而疏泄逐瘀之法。既不可进。于理必得血脱益气之方。使其阳生阴长。冀其寒热痛淋渐止。拟内经乌贼丸意。\n乌贼骨（四钱） 清阿胶（一钱五分） 女贞子（一钱五分） 茜草（一钱） 淡天冬（一钱五分） 旱莲草（一钱五分） 人参（六分） 黄耆（二钱） 如不用人参用党参（二钱）\n斯（廿六）经漏。皮膜刺痛。养肝阴。泄肝阳。\n生牡蛎（三钱） 小生地（三钱） 川楝子（一钱） 清阿胶（二钱五分） 拣麦冬（三钱） 小川连（三分） 柏子仁（一钱）\n王（三。）经漏半月一至。大便必两日始通。此属肝肾内衰。八脉无气拥护。经旨有胞络移热于膀胱之论。议三才汤参入益肝阴。养心液。\n人参（另煎冲，四分） 原熟地（四钱） 柏子霜（二钱） 拣麦冬（二钱） 小清胶（二钱） 淡天冬（二钱） 云茯神（二钱） 制女贞（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 719,
+      "source_path": [
+        "崩漏"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "e46047ca079277d982b91f56bca62ccaa807ec5bec9dfc596c7044d23428869f",
+      "content_sha256": "8df20fb57d26b769523ace605d2ef8eb6fe2e9a8351a40c01cf6c687d53aafe3",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 560,
+        "simplified_codepoints": 560
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "f11e51da8fdd944e1862117e",
+      "title": "胎前",
+      "volume": null,
+      "content": "吴（廿五）寒热头痛。渴饮不化，胸闷呕恶。询经水三月未来。寸脉搏指。此属妊象。\n细条芩（一钱五分） 炒焦半丑（一钱五分） 川芎（五分） 知母（一钱五分） 橘红（一钱） 花粉（一钱五分） 嫩苏梗（一钱）\n魏（廿八）妊娠暮热早凉。口干胸闷。\n桑皮（一钱） 条芩（一钱五分） 麦冬（二钱） 细生地（三钱） 知母（一钱五分） 花粉（一钱五分） 生白芍（一钱五分） 川斛（四钱）\n缪（廿二）胎气上冲。干呕不食。势防小产则危。\n小生地 麦冬 焦白术 阿胶 知母 黄芩 生白芍 云茯神 炒焦砂仁末\n王（廿七）妊娠咳嗽。适有七月。太阴司胎。作子嗽治。\n桑根白皮 杏仁 鲜竹茹 淡天冬 桔梗 生甘草 紫菀（一钱） 加建蜜三匙临服冲入\n王（廿六）妊娠已及弥月。嗳酸䐜胀。议安胎饮去芎、归、条芩。加茯苓。即戊己汤加香附。紫苏。茯苓易茯神。\n西党（二钱） 炙草（五分） 制香附（三钱） 甜冬术（二钱） 广皮（一钱） 拣麦冬（四分） 抱木茯神（二钱） 大白芍（二钱） 紫苏（六分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 730,
+      "source_path": [
+        "胎前"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "d7f0bdd68c78a7290f8b4d1c5ab6c390de6b42d933f1a07887fa686fc7a88c3e",
+      "content_sha256": "85ca8fe417e85df96ace3ffbf591610920f64858721be21b34ccf37fdcaf8e89",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        731,
+        732,
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 426,
+        "simplified_codepoints": 426
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "8c130043a3032805bb987667",
+      "title": "产后",
+      "volume": null,
+      "content": "许（廿四）新产腹痛。姑议逐瘀。\n延胡（一钱） 制香附（三钱） 郁金（二钱） 当归（一钱五分） 南山楂（三钱） 泽兰（一钱五分） 赤芍（一钱）\n陈（廿六）新产头晕。腹痛。先驱恶露。\n归尾（一钱五分） 远志（四分） 制香附（三钱） 赤芍（一钱） 桃仁（一钱五分） 泽兰（一钱） 丹皮（一钱五分） 琥珀（四分） 炒山楂（三钱）\n苏（三一）新产十朝。阴气下泄。阳从上冒。汗出烦渴。便难腰痛。每假寐。必魂魄飞越。是阴怯而阳无所附之征。即仲景之郁冒见端也。颇宜镇阳。\n生牡蛎（三钱） 细生地（三钱） 大麻仁（一钱五分） 清阿胶（二钱五分） 麦冬（三钱） 炙甘草（五分） 茯神（二钱） 柏子仁（二钱）\n又 新产四朝。腹痛背痛。腰溶溶而痛。恶露淋漓。此属督带交伤。宜理奇脉。以逐瘀佐之。但不可骤用温补。\n当归（一钱五分） 丹皮（一钱五分） 南楂炭（三钱） 川断（二钱） 泽兰（一钱） 茯神（二钱）\n吴（三一）新产潮热。腹痛汗泄。此属郁冒。\n川斛（三钱） 丹参（一钱五分） 郁金（一钱） 淮小麦（一钱五分） 南楂炭（二钱） 泽兰（一钱五分） 茯神（二钱） 马（三八）面色痿黄。形寒咳嗽。询产后下虚。理宜温养。\n鹿角霜（三钱） 鹿角胶（三钱） 杞子（一钱五分） 当归（一钱五分） 补骨脂（一钱） 熟地炭（三钱） 紫石英（三钱） 炒小茴（四分）\n苏（三二）产后下虚。是冲任脉震而动。心痛形寒。最怕淹缠蓐损。宜议温养。\n河车胶（三钱） 淡苁蓉（二钱） 熟地炭（四钱） 当归（一钱五分） 补骨胆（一钱） 茯苓（三钱） 紫石英（煆研，三钱）\n王（三八）半产下虚。怯寒恍热。恶露未净。少腹仍痛。所喜瘕泄已减。胃思纳食。阳明有渐振之义。再拟扶胃疏瘀。方保无虞。\n川斛（四钱） 半夏曲（炒，一钱五分） 茺蔚子（一钱五分） 小茴香拌炒当归（一钱五分） 炒香菟丝饼（二钱） 泽兰（一钱） 新会皮（一钱） 粉丹皮（一钱）\n王（三六）阴气下泄。阳从上冒。头痛。巅顶尤甚。恶露已净。脉象左部细涩。明是液亏不司留恋其阳。为上实下虚之症。\n倘过用辛泄。恐伤阳气。预为复热之防。理议益阴。和阳熄风。\n原生地（四钱） 河车胶（一钱五分） 生左牡蛎（三钱） 当归（一钱五分） 穞豆皮（一钱五分） 清阿胶（另烊冲，一钱五分） 云茯神（二钱）\n又 头痛已缓。畏寒食减。带淋心痛。\n苏叶（六分） 延胡（炒，一钱） 细生地（二钱） 穞豆皮（一钱五分） 丹参（一钱五分） 川芎（五分） 川斛（一钱五分） 炙草（五分） 蛤粉炒阿胶（一钱五分） 加姜皮（五分）\n又 液衰盗汗。少寐带淋。\n川斛（一钱五分） 制首乌（三钱） 川芎（炒，七分） 淮小麦（一钱五分） 丹参（一钱五分） 上清阿胶（蛤粉炒，一钱五分） 云茯神（二钱） 远志（去心研炒，四分）\n王（三二）新产四朝。潮热腹痛。便难头痛。恶露未净。此属郁冒。当与逐瘀为务。\n归尾（一钱五分） 制香附（三钱） 泽兰（一钱） 赤芍（一钱五分） 桃仁（去尖炒，一钱五分） 茺蔚子（一钱五分） 丹皮（一钱） 延胡（一钱） 琥珀末（临服调入，四分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 741,
+      "source_path": [
+        "產後"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "772845e055888d8e7ab5f29db1cb9dd1ba82c2a786a7361469a60ee742b9eb93",
+      "content_sha256": "6d973adeeecb86e529c3f3727241ab7aee18b1d86b626dc914f9bc1d681d9f72",
+      "paragraph_count": 24,
+      "paragraph_ordinals": [
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1260,
+        "simplified_codepoints": 1260
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "f1f0881ea80b94e96a358a1b",
+      "title": "症瘕",
+      "volume": null,
+      "content": "朱（三六）经闭半载。未有瘕聚。胀痛畏寒。是在小寒节。厥阴用事。肝胆木火上升。咳随气升而失血。然味辛易于入表。恐伤阳气。姑议调畅气血。再商通络诸法。\n降香末（五分） 丹皮（一钱） 钩藤（二钱） 郁金（一钱） 炒桃仁（一钱） 黑山栀（一钱五分） 南楂炭（三钱）\n殷（三四）左胁瘕聚。少腹痛。\n延胡（一钱） 归须（一钱） 郁金（一钱） 川楝子（二钱） 炒桃仁（一钱） 茺蔚子（一钱五分） 粗桂枝（一钱） 南楂炭（二钱）\n王（四一）胃脘胀痛。产后气血凝聚成瘕。头晕。骨脊痛。晨咳痰黏。胃纳颇减。肝逆犯胃。莫如泄肝以救胃。\n生左牡蛎（炒，三钱） 归须（一钱五分） 茯苓（三钱） 鳖甲（炙，五钱） 桃仁（炒，一钱） 白芥子（炒一钱五分） 延胡（炒，一钱） 川楝子（一钱） 香附（研，三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 766,
+      "source_path": [
+        "癥瘕"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "04ef2ba906dd972e631930ac7e5d00a55598492f4faaf9b6a172232487cfdb14",
+      "content_sha256": "5477436f7a177f80c9c6c2fb446656951f55284b071b826791ed8e007d76c0ff",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        767,
+        768,
+        769,
+        770,
+        771,
+        772
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 338,
+        "simplified_codepoints": 338
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "8b30c302c181725dcf833341",
+      "title": "热入血室",
+      "volume": null,
+      "content": "徐（廿七）热病初发。经水适来。知饥少纳。恶心嗳气。烦渴懊憹。此属热邪乘虚内陷血室。是不易治之症。拟两清气血方法。\n鲜生地 麦冬 粳米 生石膏 牛膝 生草 知母 竹叶心\n又 昨进两清气血方。热势稍减。恶心已缓。邪解其半。但懊憹烦渴未衰。腹痛便溏。仍宗仲景无犯胃气及上下二焦之戒立方。\n细生地 麦冬 炙草 丹皮 知母 牛膝 生白芍 炒桃仁\n王（三八）昨议升泄少阳。为恐热邪乘虚内陷而设。今诊脉左数右大。咽痛。舌苔灰色。大便不解。头痛如昔。脘闷。欲呕。口干。鼻干。少寐。参色脉现症。已属热邪内陷血室。议景岳玉女煎加竹叶。\n生石膏（四钱） 淮牛膝（四钱） 淮熟地（四钱） 知母（一钱五分） 拣麦冬（二钱） 卷心竹叶（一钱五分）\n补前方\n柴胡（五分） 连翘（心，二钱） 知母（一钱五分） 丹皮（一钱五分） 嫩元参（一钱五分） 丹参（一钱五分） 川斛（三钱） 赤芍（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 773,
+      "source_path": [
+        "熱入血室"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "968ac8b643358031954fbedb697b61eeef86a31ba4f2365f6576ce3586023d3f",
+      "content_sha256": "af1133c9457628fc9dc21ef34fc8b7b1877372e8e9d99830aa9f6aa872c79642",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        774,
+        775,
+        776,
+        777,
+        778,
+        779,
+        780,
+        781
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 382,
+        "simplified_codepoints": 382
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "96218759759c29fa72da555e",
+      "title": "脏躁悲伤",
+      "volume": null,
+      "content": "吴（六三）肝阳亢为头晕。肾阴虚则耳鸣。此晚年肝肾气馁。下虚上实明甚。但忽惊悸。汗大泄。有时寤不肯寐。竟有悲伤欲哭之象。明系脏阴少藏。厥阳鼓动。内风上冒。舞于太阴。每有是症。病自情志中生。所以清之攻之。均属无益。议仲景妇人篇。参脏躁悲伤之旨。用药自有准绳。但王道未能速效。\n阿胶（三钱） 牡蛎（三钱） 磁石（二钱） 淮小麦（一钱五分） 炙草（五分） 大枣（三钱） 茯神（二钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 782,
+      "source_path": [
+        "臟躁悲傷"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "54aaafc1931a20b598e396f8918d0445c1ca0b427e437e3f6d4b0b6174a696ea",
+      "content_sha256": "9825c3e61d49d97972724e50347c41277c85e359ac848bc28a53aecaa646dd4d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        783,
+        784
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 187,
+        "simplified_codepoints": 187
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "c1ba7ab81a6224ea396341ec",
+      "title": "痧疹",
+      "volume": null,
+      "content": "韩（十一）风温袭于肺卫。身热发痧。痰咳气喘。烦躁少寐。频渴脉大。且议清泄。\n牛蒡（三钱） 杏仁（三钱） 桑皮（一钱五分） 羚羊角（一钱） 桔梗（一钱） 连翘（二钱） 薄荷（八分） 象贝母（一钱五分）\n又 痧痘巳回。目赤咽痛。余毒未清。宜凉解泄邪。\n犀角（一钱） 嫩元参（一钱五分） 银花（一钱） 小生地（三钱） 桔梗（一钱） 霜桑叶（一钱） 连翘（二钱） 生甘草（三分） 黑山栀（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 785,
+      "source_path": [
+        "痧疹"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "0de82de138ab5859b54ebc418bb573594ea6c2f73b947d995715bb696903720d",
+      "content_sha256": "47101720cbe74f0a5b89d5c1c23b1313eb50ff15513548a639910f22f9fe7514",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        786,
+        787,
+        788,
+        789
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 195,
+        "simplified_codepoints": 195
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "6104b87f0b264c5e95a88497",
+      "title": "痘",
+      "volume": null,
+      "content": "曹（八岁）头面堆沙回靥。毒气未尽。口疳龈血。稚年阳亢阴虚。恐有暴脱之虑。\n地骨皮（三钱） 犀角（四分） 连翘（一钱五分） 川贝（二钱） 生地炭（三钱） 生草（三分） 银花（一钱） 丹皮（一钱五分）\n穆（四岁）堆沙已经回靥。毒气未尽。咳痰不寐。稚年阳亢阴虚。最怕慢惊之变。治从和脾胃。利湿方法。\n地骨皮（三钱） 川斛（三钱） 苡仁（二钱） 川贝（去心研，二钱） 炒麦冬（二钱） 茯苓（三钱） 银花（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 790,
+      "source_path": [
+        "痘"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "a98323b5d11c5b0eb23748c8841f06fd3d14bb3b8d89d6ffec7c005a5b5de21a",
+      "content_sha256": "e87470e704c1747f428ff8374f29cad076ce9ecd3b1c792e9b1d5fd77c4b4f2c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        791,
+        792,
+        793,
+        794
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 201,
+        "simplified_codepoints": 201
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "68c357414b5dc530eb64d52d",
+      "title": "惊",
+      "volume": null,
+      "content": "陆（八岁）惊热内闭。躁烦不食。两脉洪大。倘邪陷心包。痉厥至矣。\n羚羊角（一钱） 郁金（一钱） 嫩元参（一钱五分） 川贝（二钱） 化橘红（一钱） 石菖蒲根（三分） 连翘（二钱五分） 竹叶心（一钱五分）\n高（三岁）壮热不已。恶心未减。拟清络热。\n羚羊角（一钱） 郁金（一钱） 元参（一钱五分） 小川连（四分） 丹皮（一钱） 黑山栀（一钱五分） 连翘（一钱） 卷心竹叶（一钱五分）\n又 清络得效。热止神安。所有咳痰频频。再守前议。\n羚羊角（一钱） 杏仁（三钱） 苡仁（二钱） 川贝（一钱五分） 橘红（一钱） 块茯苓（二钱） 霜桑叶（一钱） 鲜枇杷叶（一钱五分）\n严（二岁）惊热不解。便青神呆。躁烦不安。邪陷心包。将有瘛疭之象。\n羚羊角（一钱） 郁金（一钱） 元参（一钱五分） 川贝（一钱五分） 天竺黄（一钱） 细叶菖蒲根（三分） 连翘（一钱五分） 橘红（一钱）\n冯（四岁）风温内郁。身热咳嗽。脉大。\n桑叶（一钱） 杏仁（三钱） 桔梗（一钱） 羚羊角（一钱） 象贝（一钱五分） 连翘（一钱五分） 牛蒡子（炒研，一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 795,
+      "source_path": [
+        "驚"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "012b25384a418e56f9a1eb7350f42f57819e5f40e881d2c642184541d69ea0f1",
+      "content_sha256": "b8b04cf1664e0093a125f3e87bf4b258dd825f83f93dd99a626010b0775da7c6",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        796,
+        797,
+        798,
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 456,
+        "simplified_codepoints": 456
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "c136dba2a65e4612b3cff42a",
+      "title": "吐泻",
+      "volume": null,
+      "content": "夏（五岁）暑热内踞。上吐下泻。稚年脾胃气弱。不振使然。\n藿香叶（一钱） 制半夏（一钱五分） 南山楂（一钱五分） 飞滑石（三钱） 木瓜（一钱） 茯苓块（三钱） 厚朴（一钱）\n诸（二岁）热犯脾胃。呕乳自利。最多变惊。\n鲜藿香叶（一钱） 制半夏（一钱五分） 六一散（二钱） 小川连（三分） 黄芩（一钱） 淡竹叶（一钱） 生白芍（一钱）\n吴（二岁）两关脉数。吐乳洞泄。烦躁。睡喜覆卧。是腹痛按之痛止之象。据述跌仆之后。初泻而呕吐。乳食格拒。惊则气乱明矣。此属蛔厥之征。稚年脾胃。气馁不振。四肢厥冷。经旨谓蛔厥多从惊恐得之。是邪非邪。拟方候裁。\n吴萸炒川连（三分） 制半夏（一钱五分） 炒白粳米（一钱五分） 生白芍（一钱五分） 草郁金（一钱） 炒黑川椒（三厘） 姜汁（临服，冲入二匙） 茯苓（一钱五分） 加石菖蒲根\n又 胃衰厥冷。吐泻不止。\n参须条（五分） 煨姜（五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 806,
+      "source_path": [
+        "吐瀉"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "8763213dc31e887bcc7b7b534fc863dd75e2a8a25b2bac42921503892ca72f5b",
+      "content_sha256": "06427673bf099db5001a533ecc47ab82860f441b82f34d5d1848f5484cc56642",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        814
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 380,
+        "simplified_codepoints": 380
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "02ba356f47065bf1be4e81d5",
+      "title": "疳",
+      "volume": null,
+      "content": "曾（八岁）腹膨便泻。羸瘦不食。潮热目翳。症属难治。\n青蒿梗（一钱） 制半夏（一钱五分） 炒谷芽（一钱） 炒厚朴（一钱） 广皮（一钱） 块茯苓（三钱） 南楂炭（一钱五分） 鸡肫皮（炙，一具）\n殷（六岁）腹膨便泄。面黄肢浮。此属痹疳。\n焦白术（一钱五分） 广皮（一钱） 茯苓（三钱） 苡仁（二钱） 大腹皮（一钱五分） 泽泻（一钱） 南楂炭（一钱五分） 木瓜（一钱）\n徐（五岁）潮热羸瘦。咳则呛血。稚年阳亢阴虚。已属童劳之象。暂服甘寒。清养肺胃阴液。\n地骨皮（三钱） 甜杏仁（三钱） 川斛（三钱） 川贝（去心研，二钱） 北沙参（一钱五分） 麦冬（一钱五分） 霜桑叶（一钱） 玉竹（二钱） 鲜枇杷叶（蜜炙三钱）\n徐（八岁）羸瘦呛逆。骨蒸盗汗。拟润肺以肃金。宁心以止汗。养阴平肝以退热。\n川贝（一钱五分） 白蒺藜（去刺炒，一钱五分） 生地炭（三钱） 拣麦冬（一钱五分） 川贝（二钱） 杏仁（炒焦，二钱） 地骨皮（一钱五分） 北沙参（一钱五分） 云茯神（二钱） 加石决明（煆研，三钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 815,
+      "source_path": [
+        "疳"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "3bee1f52231cc8583be356679b8f020960a33e043da87a462bb34af6b1b3eacf",
+      "content_sha256": "0937bdf822f00c71389cfa8acf9f0fe38ba8b545cfa17e021321cb3edf866112",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        816,
+        817,
+        818,
+        819,
+        820,
+        821,
+        822,
+        823
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 436,
+        "simplified_codepoints": 436
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "5f85fec74a426b9313775ece",
+      "title": "痫痉厥",
+      "volume": null,
+      "content": "沈（五岁）痫厥病来迅速。醒后两脉皆洪。四肢搐搦。身热。由阳气拂逆。势防络闭。\n暹罗犀角（一钱） 陈胆星（三分） 嫩元参（一钱五分） 羚羊角（一钱） 橘络（一钱） 石菖蒲根（四分） 连翘（一钱五分） 卷心竹叶（一钱五分）\n史（八岁）稚年痉厥。服清泄少愈。是在肝胆风邪。将解之时。阴液尚属馁怯。最多反复复热。今又入暮。烦躁口渴。为热深厥深。痉厥复至矣。然刻下忌用清火寒凉。所防胃汁苦涸。难以援救。今拟滋清营络。退热。兼须养正。录法备参。\n川斛（三钱） 嫩元参（一钱五分） 远志（五分） 小生地（三钱） 麦冬（一钱五分） 茯神（二钱） 丹皮（一钱） 生白芍（一钱五分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 824,
+      "source_path": [
+        "癇痙厥"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "0193f4dcc4ac3614b5ee59ec07feb81e9eabb16e7869a0d14cf9270922553b6e",
+      "content_sha256": "8fc6961ab685da7d6df860fd95cb3436fddff435239a4e86b0a0890468e72e72",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        825,
+        826,
+        827,
+        828
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 281,
+        "simplified_codepoints": 281
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "3d2d66018da32a7b79e88ece",
+      "title": "虫",
+      "volume": null,
+      "content": "曲（八岁）生冷食物不化。肠腑停滞。脾弱运化失宰。腹膨便泄。已经泻虫。此属湿热内聚。治宜苦味胜湿。兼佐理疳化疳。\n土炒川连（四分） 土炒白术（二钱） 猪苓（一钱五分） 鸡肫皮（炙，一钱） 川楝皮（一钱） 泽泻（一钱） 生白芍（一钱五分）\n全（七岁）湿热内聚。腹膨泻虫。拟用苦味胜湿。\n苦川楝皮（一钱） 土炒白术（一钱五分） 茯苓（三钱） 炒厚朴（一钱） 川黄柏（一钱） 泽泻（一钱） 南山楂（一钱五分） 槐米（一钱）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 829,
+      "source_path": [
+        "蟲"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "f94abd6dfd8f2fb953a67eed9b66a831e21713d483c07c208a11be589d94edc0",
+      "content_sha256": "573424d4bcb76f1b47bf7395cf7ac551caed491567a0bf698ddcdc6db99e85fd",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        830,
+        831,
+        832,
+        833
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 207,
+        "simplified_codepoints": 207
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "5e694e29fd5c27fb5fd9b523",
+      "title": "集方",
+      "volume": null,
+      "content": "截三日疟方立效\n槟榔（三钱） 川流麻（三钱） 丁香（七粒） 乌梅（七枚） 杏仁（七粒）\n臁疮膏方\n铜绿（三钱） 淘丹（三钱） 白枯矾（六分） 轻粉（二钱） 菜油调挞于油纸上夹好。攒孔用。\n镇惊丸\n制半夏（一钱） 制南星（三钱） 巴豆霜（一钱五分） 轻粉（一钱） 礞石（三钱） 姜汁为丸。如芥子。朱砂为衣。一用飞滑石为衣。\n眼癣挞药 取其金能制木\n青黛（四分） 炉甘石（制四分） 铜绿（煆，四分）\n朱黄散\n药朱（三厘） 西牛黄（二厘） 当门子（一厘）\n平胃散\n制茅术（一两） 制香附（一两） 南楂炭（一两） 厚朴（五钱） 陈皮（一两） 鸡肫皮（五钱）\n必胜丹\n炒军（一两） 黑白丑（一两） 槟榔（炒脆，二钱）\n清金丹\n礞石 大黄（一两） 黄芩（五钱） 南星（五钱） 半夏（制，五钱）\n六一散\n飞滑石（六两） 炙草（烘，一两） 加雄黄（一两） 即辰砂六一散\n闻痧药\n牙皂（三分） 丁香（一分） 麝香（五厘） 雄黄（一钱） 朱砂（五厘）\n食痧药\n茅术（炒脆，一钱） 雄黄（五分） 丁香（一分） 麝香（五厘） 蟾酥（二分） 烧酒浸烂研匀",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B9%9F%E6%98%AF%E5%B1%B1%E4%BA%BA%E9%86%AB%E6%A1%88/index.html",
+      "source_ordinal": 834,
+      "source_path": [
+        "集方"
+      ],
+      "source_sha256": "8370e6e6122abe77f88af1653e6305bc98820f2cd965b96952d9f27fa49fa529",
+      "original_sha256": "5ef547cefa576540a572010198b63997c46845ba54dd71536efb55f0b67cf1ef",
+      "content_sha256": "afc619a905203f86324f8722edb189b71fd166c91a831f59d1c0a68d6ee0be32",
+      "paragraph_count": 22,
+      "paragraph_ordinals": [
+        835,
+        836,
+        837,
+        838,
+        839,
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849,
+        850,
+        851,
+        852,
+        853,
+        854,
+        855,
+        856
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 464,
+        "simplified_codepoints": 464
+      },
+      "order": 99
+    }
+  ]
+}

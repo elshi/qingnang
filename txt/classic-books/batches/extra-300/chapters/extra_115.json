@@ -1,0 +1,2098 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_115",
+    "name": "脉语",
+    "summary": "《脉语》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“取脉入式”、“寸关尺义”、“六部所主”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "明",
+    "author": "吴昆",
+    "jp": "MY",
+    "aliases": [
+      "脈語"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "ad1449701abe9cff2428dd26",
+      "title": "自序",
+      "volume": null,
+      "content": "脉者指下之经纶也，斯而或昧，轻则系病之安危，重则关人之生死，诚不可不语者。自六朝高阳生伪叔和而著《脉诀》，脉之不明也久矣。余幼慕是术，窃有悯焉。敬业之余，每以《素》《难》《灵枢》《脉经》《甲乙》，及长沙、河间、东垣、丹溪之书间阅之。越十年，以举子业不售，里中长老，谓余曰：古人不得志于时，多为医以济世，子盍事医乎？奚拘一经为也。余于是投举子笔，专岐黄业，乃就邑中午亭余老师而养正焉，居三年，与师论疾，咸当师心，师勉余友天下士。嗣是，由三吴，循江浙，历荆襄，抵燕赵，就有道者师事之焉。或示余以天人贯通之道，或示余以医儒合一之理，或示余以圣贤之奥旨，或秘余以家世之心传，其间讲求脉理，出入岐黄者，未常乏人。然，童而习之，白首不达者，又不可以枚举而数计矣。呜呼，一指之下，千万人命脉所关，医家于此而懵焉，是以人为试耳，世之疲癃残疾，将安赖之。于是，以孤陋之闻，集成语录二篇，以告同志，虽未敢以为可传，然杨园之道，倚于亩丘，是亦行远升高之一助云尔。\n参黄子 吴昆鹤皋氏撰",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "自序"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "c5e88196ae4e382a81d30366033b8758cf59f9446d6f86d3a8316dd52cb5b5ae",
+      "content_sha256": "46d84d56a7691da775f2e6ee537477b8a562c9496fa280c45c1d250280f8e298",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 431,
+        "simplified_codepoints": 431
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "dd0380a8826e2dec3918eb09",
+      "title": "取脉入式",
+      "volume": "卷上 / 下学篇",
+      "content": "医家取脉，常以平旦之际，取手太阴肺经。掌后高骨名曰关，关之前名曰寸，关之后名曰尺。浮以取表，沉以取里，中以取胃气。寸部法天，候胸以上至头之有疾也；关部法人，候膈以下至脐之有疾也；尺部法地，候脐以下至足之有疾也。左脉候左，右脉候右，两手皆然。病者危迫，则勿以平旦为拘，虽一日三诊之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 6,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "取脈入式"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "17a7ab478adb836fb08bdf6f58cac0c633f4beb3eee759f809d6a69c91b4dee6",
+      "content_sha256": "28cc2fa7ca5dbad22773b0c7a8060ca8100609ef493b7bb671ad4a60fc210539",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        7
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "e4e1178b20beb74c78d5a970",
+      "title": "寸关尺义",
+      "volume": "卷上 / 下学篇",
+      "content": "从鱼际至高骨，却行一寸，因名曰寸。去尺泽一尺，因名曰尺。界乎尺寸之中，因名曰关。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 8,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "寸關尺義"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "fd4616a1f9974a0a084a4ea86f18ec5d96fdbca40307c63ef28d36dc45fcf40b",
+      "content_sha256": "c18087af79f02f3ed378e527e997644ff34728f36c1e61b274a8ed78b988805d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 40,
+        "simplified_codepoints": 40
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "79152d081e58848f579b6438",
+      "title": "六部所主",
+      "volume": "卷上 / 下学篇",
+      "content": "左寸主心与小肠，左关主肝与胆，左尺主肾与膀胱；右寸主肺与大肠，右关主脾与胃，右尺主肾与命门。诸家脉诀，皆以三焦合于右尺，于理为悖，辩在下集。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "六部所主"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "3cc87c4d46dd3dbabac0569d0fcd99e14bbef1c4e950aa2d7bfe9b43f611bebd",
+      "content_sha256": "cc26ea2a32cf48b2d7fea4d00d4f4e324ea812e359c904afd190f056bbe455e6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        11
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "7c2cf285522bd1c5836db6ec",
+      "title": "五脏浮沉",
+      "volume": "卷上 / 下学篇",
+      "content": "与皮毛相得者，肺脉也；与血脉相得者，心脉也；与肌肉相得者，脾脉也；与筋相得者，肝脉也；与骨相得者，肾脉也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 12,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "五臟浮沉"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "3079d17e742ca9ac96fd037288c54e375552cbde9d93e85e07094f2918e4b086",
+      "content_sha256": "34927f3bb66c33daa5df8f4da3cfb8045e6eb5fc860cc9f12db0df57b9b31f0a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 53,
+        "simplified_codepoints": 53
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "332dc1a30bb376745a7346a8",
+      "title": "取脉有权",
+      "volume": "卷上 / 下学篇",
+      "content": "轻以取腑，重以取腑，诸阳脉为腑，诸阴脉为脏。阴中有阳，阳中有阴，浮亦有脏，沉亦有腑，取脉有权，不可执也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "取脈有權"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "7671f691eb1a6adddb17d6ef1724bc7342ebe9c1ed3993a555a81a56d0829fc2",
+      "content_sha256": "b48c98ed2869fcdc2fc326671372b6f0b53ee6a29cc803dc9b15ee3771805411",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 52,
+        "simplified_codepoints": 52
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "66c69d77c69e0903dbdf0afe",
+      "title": "五脏经脉",
+      "volume": "卷上 / 下学篇",
+      "content": "经脉者，常脉也，平人无病之脉也。心脉浮大而散，肺脉浮涩而短，肝脉弦长而和，脾脉缓大而敦，肾脉沉软而滑。医者一呼一吸，病者脉来四至五至，是皆平人无病之脉也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "五臟經脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "bd194fe3f96e3f760c57b86d582cc6f628d4b07e9543bcf9497b385fca2a6675",
+      "content_sha256": "11d67ce5825e380261fae0ba817c829bffad0f1dfd5d5b8cefe2fa0ba9d5ab23",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        17
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "0b0c4bdbdec0ff2f2e6c7bfe",
+      "title": "五脏病脉",
+      "volume": "卷上 / 下学篇",
+      "content": "凡肝弦、心洪、脾缓、肺毛、肾石，俱要中和。太过固病，不足亦病，太过者，脉来强实是也，病在外；不及者，脉来虚微是也，病在中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "五臟病脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "08fab75b3132e891bb94d569fb3dc4b54b3e4fb94db3ad80b04442dda54f4239",
+      "content_sha256": "5d84d2a386989854aa6aad8a982456015f620eee6a0933ac9a3ef9479c705475",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 61,
+        "simplified_codepoints": 61
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "1a4dcbd18c9cfee89411fc98",
+      "title": "五脏死脉",
+      "volume": "卷上 / 下学篇",
+      "content": "脉来前曲后踞，如操带钩，曰心死，脉来坚劲，如新张弓弦，又如循刃，曰肝死；脉来坚锐，如鸟之喙，如鸟之距，如屋之漏，如水之流，介然不鼓，曰脾死；脉来如物之浮，如风吹毛，曰肺死；脉来发如解索，辟辟如弹石，曰肾死。凡此皆真脏之脉，无胃气以和之，故谓之死。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "五臟死脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "6d59c52228fe786507048731be947e86072d946c937989a73b85e5ad41ef9dcf",
+      "content_sha256": "1dd076157151b00256f40018df4be35a14d9b2998a868a9b85b5bf7d4bcf6936",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 123,
+        "simplified_codepoints": 123
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "cc64587a5a780b65ffe2f869",
+      "title": "诸脉状主病",
+      "volume": "卷上 / 下学篇",
+      "content": "《脉经》论脉，大都二十四种。今不拘其数，凡所常论者，悉备于后。\n浮 自皮肤之上得之，曰浮。阳也，金也，为病在表。浮而缓，曰风。浮而紧，曰寒。浮而虚，曰暑。浮而涩，曰雾露。浮而滑，曰风痰。浮而有力，曰表实。浮而无力，曰表虚。浮而数，曰表热，有疮痒。浮而迟，曰表寒，喜近衣。浮而促，曰表有痈疽。瘦人得浮脉，三部相得，曰肌薄。肥人得之，未有不病者也。\n沉 自肌肉之下得之，曰沉。阴也，水也，为病在裹。为积，为疝，为恐惧，为腰痛，为水蓄。沉而实，曰积。沉而虚，曰少气。沉而缓，曰湿。沉而濡，曰水。沉而数，曰裹热，身肿，曰阳水。沉而迟，曰裹寒，身肿曰阴水。伤寒阳证两寸沉，曰难治。平人两寸沉，曰无阳，必艰于寿。\n迟 医者一呼一吸，病者脉来三至，曰迟。二至、一至，则又迟也。若二呼二吸一至，则迟之极矣，阴脉也，为阳虚，为寒。观其迟之微甚，而寒为之浅深，微则可治，甚则难生。乍迟乍数曰虚火。\n数 医者一呼一吸，病者脉来六至，曰数。若七至、八至，则又数也。九至、十至、十一至、十二至，则数之极矣，阳脉也，为阴虚，为热。七至曰甚，八至已为难治，九至以上，皆为不治。脉来数而坚，如银钗之股，曰虫毒。若婴童纯阳之气，则七至、八至又其常也，不在大人之例。\n滑 脉来如珠之斡旋，曰滑。阳也，土也。为实、为下，为阳气衰。滑而收敛，脉形清者，曰血有余。滑而三五不调，脉形浊者，曰痰也。右关滑，曰有食积。妇人尺内滑，曰有孕。两寸滑，曰痰火。一手独滑，曰半身不遂。\n涩 脉来如刀刮竹皮之状，曰涩。阴也，金也。为雾露，为血枯，为精涸，为盗汗，为心痛，为不仁。浮而涩，曰表恶寒。沉而涩，曰裹燥涸。两寸涩甚，曰液不足。两关涩甚，曰血不足。两尺涩甚，曰精不足，必艰于嗣。\n紧 状如转索，劲急曰紧，阴阳相搏也。为寒，为痛，为筋挛，为中恶。紧而洪，曰痈疽。紧而数，曰中毒。紧而细，曰疝瘕。紧而实，曰内胀痛。紧而浮，曰伤寒。紧而涩，曰寒痹。紧而沉，曰寒积。\n缓 状如琴弦久失更张，纵而不整，曰缓。阴也，土也。为病不足，为风，为表虚。与迟脉不同，迟以数言，缓以形言，其别相远矣。若脉来不浮不沉，中取之，从容和缓者。脾之正脉也。浮而缓，曰卫气伤。沉而缓，曰荣气弱。诸部见缓脉，皆曰不足，谓其不鼓也。\n虚 脉来有表无里，曰虚。为暑，为肠癖，为阴虚，精气不足。左寸虚，曰惊悸。右寸虚，曰喘息。左关虚，曰肝衰。右关虚，曰脾弱。两尺虚，曰肾怯，兼涩者必艰于嗣。\n实 中取之、沉取之，脉来皆有力，曰实。阴中之阳也，土也，为病在里。实而静，三部相得，曰气血有余。实而躁，三部不相得，曰裹有邪也，当下之。若一部独实，必辨脏腑而责之，妇人尺中实，曰有孕。\n小 脉形减于常脉一倍，曰小。《脉经》首论脉形二十四种，有细而无小，今之小即古之细乎。阴也，病为不足，若无病人，两手三部皆小，往来上下皆从，此禀质之清，不在病例。若一部独小、一手独小，曰病。乍在乍小，曰邪祟。诸部小而急，皆曰疝瘕。\n大 脉形加于常脉一倍，曰大。阳也。若得病而脉始大，或久病而脉暴大，此为邪盛，经曰大则病进是也。若平人三部皆大，往来上下自如，曰禀质之厚，亦不在病例。若一部独大、一手独大，斯可以占病矣。\n长 过于本位，相引，曰长。阳也，木也。长而软滑，曰气治。长而坚搏，曰气病。上部主吐，中部主饮，下部主疝。长而洪，曰癫狂病。长而搏，曰阳明病。女人左关独长，曰淫欲，男人两尺修长，曰多春秋。\n短 不及本位，来去乖张，曰短。阴也，金也。上不至关，曰阳绝。下不至关，曰阴绝。乍短乍长，曰邪祟。寸短曰头痛，关短曰宿食，尺短曰胫冷。过于悲哀之人，其脉多短，可以占气之病矣。\n芤 脉来形大，如葱，按之中央空、两边实，曰芤。阴去阳存之脉也，主上下出血，遗精盗汗，各随所在而论之。或云芤、草名，似葱而有指按之形。斯脉似之，因以得名。\n伏 脉形潜隐于骨间，曰伏。阴也，水也。为积聚，为疝瘕，为少气，为忧思，为痛甚。伏而数，曰热厥，亢极而兼水化也。伏而迟，曰寒厥，阴极而气将绝也。\n洪 犹洪水之洪，脉来大而鼓也。若不鼓，则脉形虽阔大，不足以言洪，如江河之大。若无波涛汹涌，不得谓之洪。阳也，火也，病则为热。洪而有力，曰实火。洪而无力，曰虚火。洪而急，曰胀满。洪而滑，曰热痰。洪而数，其人暴吐，曰中毒。诸失血遗精，白浊盗汗，脉洪曰难已，伤寒汗后脉洪，曰死。\n软 亦作濡。脉来按之无力，如水上之浮帛，曰濡。阴阳俱损之脉也。为中湿，为自汗，为冷，为痹。两寸濡，曰阳虚，无气以息。两关濡，曰中虚，脾胃有亏。两尺濡，曰湿甚，病为泄泻。\n弦 弦同。脉来如按琴瑟弦，曰弦。阴中之阳也，木也，为病在肝，为寒在少阳。有偏弦，有双弦。偏弦者，脉来弦而欹斜也，为流饮作痛；双弦者，脉来如引二线也，为肝实，为痛，若单弦，只一线耳。弦而激，曰怒。弦而浮，曰外感风。弦而数，曰热生风。弦而搏，曰饮。弦而急，曰疝。弦而沉，曰肝气。弦而乍迟乍数，曰虚。\n弱 软之甚也。自《脉经》而下，软、弱各言其状，其实几希之异耳。阴也，为阳虚恐怖。此气血不足，久病羸弱之人多有之。\n微 脉来极细而软，或欲绝、若有若无也，阴也。诸部见之，皆曰不足，近死之脉也。两尺微，曰下痢逆冷。\n动 脉来厥厥动摇，曰动。阳也。其脉多见于关上，阴固于外，阳战于内，故有此脉，阴阳之乖戾可知矣。为痛，为惊，为崩脱，为泻痢，见于寸者为阳，为阳，阳动则发汗。见于尺者，为阴，阴动则发热。\n革 按之如鼓皮，虚大而坚，曰革。牢之别名也，谓之牢者，牢守其位，不上不下也。阳也。此精血遗亡而气独守，故主半产漏下，男子遗精。若中风而得之者，阴虚而风劲也。感湿而得此者，土亢而风木承之也，此之谓无胃气，经曰：脉不往来者，死。斯脉之谓乎。\n促 数，时一止，曰促。有断促之义，阳脉之极也，阳盛而阴不能和之，故有此脉。为气结，为痈疽，为狂为怒，渐退者生，渐进者死。\n结 迟，时一止，曰结。有结滞之义，阴脉之极也，阴盛而阳不能入之，故有此脉。为症结，为寒气。张长沙谓，结促皆病脉，则近于死可知矣。\n代 《脉经》曰：脉五来一止，不复增减，经名曰代。七来一止，不复增减，亦名曰代。然则，代者止而有常，如四时更代而不失其常也。后人以脉来止而难回曰代。本脏气绝，他脏代之曰代，夫止而难回，即是止耳，何以言代？本脏气绝，则他脏必相因而病，代之之说亦难通。学者宜以《脉经》为定论。阴阳骤损之脉也，为气血亏坏，元气不续。孕娠三月者多有之，霍乱之候亦有之，此病脉也。他病得此脉者，正死不疑。\n散 脉来涣散不聚，曰散。阳也，火也，夏令之脉也。非其时而得之者，血亡而气欲去也。散而滑者为妊娠，心部散曰心多喜。\n毛 脉来浮涩，类羽毛也。金也，为病与涩脉同。\n钩 脉来前曲后锯，如带钩也。上古论脉，称钩而不称洪，古之钩，其今之洪乎。\n石 阳至而绝，曰石。肾之危脉也，水绝不能济火，故有此脉。\n溜 脉来如水之溜，曰溜。阴阳和平，无相胜负之脉也，其即滑而清之谓乎。\n疾 即数也。所谓躁者亦疾也，所谓𫘝者亦疾也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "諸脈狀主病"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "913a755557b1b6441307d8ce03274e5d2e9626f9afe57293a33bc273fba22d1a",
+      "content_sha256": "158785bd15b24fc085e82f86c04b5614f1b43bc91e156ff155e2baf38a11bd83",
+      "paragraph_count": 33,
+      "paragraph_ordinals": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2837,
+        "simplified_codepoints": 2837
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "f09d2f2936537126f6a15550",
+      "title": "怪脉类",
+      "volume": "卷上 / 下学篇",
+      "content": "世论怪脉，大都八种，今稽于经，殆不止此，悉著于后，以广学者之见闻。\n涌泉 一名沸釜，脉在筋骨间，涌涌而至，如泉之涌出。\n浮合 脉来后至者反凌乎前，如浮波之合也。\n弹石 脉在筋骨间，劈劈然而至，如石之弹指也。\n雀啄 脉连来三五下，且坚且锐，如鸟之啄也。\n屋漏 脉来良久一滴，溅起而无力也。\n解索 脉来如乱绳初解之状，散乱之意也。\n鱼翔 脉来浮中间一沉，如鱼之出没也。\n暇游 脉来沉，中间一浮，如暇之动静也。\n偃刀 脉来一丝坚劲，如循锋刃之芒也。一名循刃。\n转豆 脉来形大，且短、且坚、且涩也。一名泥丸。\n火新 脉来如火新燃之状，随起随灭也。\n散叶 脉来如散落之叶，不常其状也。\n省客 脉来如省问之客，旋覆去也。\n交漆 脉来左右不至，如绞漆之下，袅袅然而交也。\n横格 脉来横阻，如木之横格于指下也。\n弦缕 脉来细而直也，此亦偃刀之别名。\n委土 脉来如委颓之土，顽而虚也，此亦革之别名。\n悬雍 雍，痈同，脉来如悬赘之痈，丸丸左右弹而根不动也。\n如丸 脉来滑，不直，手按之不可得也。\n如舂 脉来极洪极实，如杵之舂也。\n如喘 脉来如喘人之息，有出而无入也。\n霹雳 脉来静，时忽鼓数下而去，如霹雳之轰空也。\n关格 人迎四盛以上为格阳，寸口四虚以上为关阴。\n覆溢 脉来冲逆，溢上于鱼际，曰溢，脉来洪滑，陷入于尺中，曰「覆」，亦曰关格。\n以上诸脉，古称死候，苟至于此，虽上工无所用其技。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 56,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "怪脈類"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "28b334c41826381d542daf7aee60566153d23c5590ee0bb35bf6be9160a9cdf7",
+      "content_sha256": "dd7ccb95982d1ff57ed4a7703a2c92d8e02e35eae2aa11bbff35713f5c020a55",
+      "paragraph_count": 26,
+      "paragraph_ordinals": [
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 585,
+        "simplified_codepoints": 585
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "c91237a9ecb74fc0af2e4af4",
+      "title": "妇人脉法",
+      "volume": "卷上 / 下学篇",
+      "content": "妇人尺脉常盛，而右手脉大，皆其常也，若肾脉微涩与浮，或肝脉沉急，或尺脉滑而断绝不匀，皆经闭不调之候。\n妇人尺脉微迟为居经，月事三月一下。\n妇人三部浮沉正等，无他病而不月者，孕也，尺大而旺亦然。左尺洪大滑实为男，右尺洪大滑实为女。\n体弱之妇，尺内按之不绝，便是有子。月断日多，六脉不病，亦为有子。所以然者，体弱而脉难显也，《脉经》曰：三部浮沉正等，按之无绝者，妊娠也。何尝拘于洪滑耶？「阴搏阳别，谓之有子」，搏、伏而鼓也。阴搏者，尺中之阴搏也，是阴中有别阳，故谓有子。妊娠初时寸微尺数，按之散者，三月也。按之不散者，五月也。\n妇人经断有躯，其脉弦者，后必大下，不成胎也。\n妊娠七八月，脉实牢强大者，吉；沉细者，难产而死。\n《脉经》曰：左手沉实为男，右手浮大为女。左右手俱沉实，猥生二男；左右手俱浮大，猥生二女。《脉经》之所论，止于二男二女而已，若三男三女，一男一女，皆未之及也。《脉诀》虽有纵横顺逆之论，于理难通，是固高阳生之私言耳，戴同父非之，是也。然则三男三女，一男一女，圣经未有明言，后学亦不必强为之说，若曰知之，必是遇长桑君，饮以上池之水，能视垣一方人者，斯可矣。吾则不能为妄语以诳世也。\n妇人阴阳俱盛，曰双躯。若少阴微紧者，血即凝浊，经养不周，胎则偏夭，其一独死，其一独生，不去其死，害母失胎。\n女人得革脉，曰半产漏下。得离经之脉，曰产期。离经者，离乎经常之脉也，盖胎动于中，脉乱于外，势之必至也。\n新产伤阴，出血不止，尺脉不能上关者，死。\n妇人脉平而虚者，乳子也。\n妇人带下，脉浮，恶寒，漏下者，不治。\n妇人尺脉微弱而涩，少腹冷，恶寒，年少得之为无子，年大得之为绝产。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 83,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "婦人脈法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "9c68cff228781f9d5e48447f7c76cfc380acc8255744c71226f7efbd8549281c",
+      "content_sha256": "e8854470006ae89a9cddbbd4a862a09645ba4d0afd2b60e56f32d66ca7da910c",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 689,
+        "simplified_codepoints": 689
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "59de6a85f69e7f9b0550f016",
+      "title": "小儿脉法",
+      "volume": "卷上 / 下学篇",
+      "content": "小儿三岁以下，看虎口三关，初为风关，次为气关，末为命关，以男左女右为则。纹色紫曰热，红曰伤寒，青曰惊风，白曰疳，淡黄、淡红曰无病，黑色曰危。在风关为轻，气关为重，命关为危。及三岁以上，乃以一指取寸关尺之处，常以七至为率，加则为热，减则为寒，皆如大人诊法。\n小儿脉乱，身热汗出，不食，食即吐，多为变蒸。\n小儿四末独冷，股栗恶寒，面赤气汹，涕泪交至，必为痘疹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "小兒脈法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "cd63614d8003b36dcdb713a5118fdd5a983c0b88b1fdc4a5346987c311ea2845",
+      "content_sha256": "73fb2a8a0057c973c58508bf6f62ab4fdeba4b676c1c30e0155a46d8c8403eeb",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        98,
+        99,
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 178,
+        "simplified_codepoints": 178
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "9fbc9c3f3a3861cbe5c0b08b",
+      "title": "诸病宜忌脉",
+      "volume": "卷上 / 下学篇",
+      "content": "中风 宜浮迟，忌急数。\n中恶 宜浮缓，忌坚数。\n中毒 宜洪大而迟，忌细微。\n伤寒 未得汗，宜阳脉，忌阴脉；已得汗，宜阴脉，忌阳脉。温病同。\n咳嗽 宜浮濡，忌坚急弦小。\n腹胀 宜浮大，忌沉小。\n下利 宜沉细，忌浮大。\n癫狂 宜实大，忌沉细。\n消渴 宜数大，忌虚小。\n水病 宜浮大，忌沉细。\n上气 宜伏匿，忌坚强。\n霍乱 宜浮洪，忌微迟。\n脱血 宜阴脉，忌阳脉。\n腹痛 宜沉细，忌弦长。\n心病 宜浮滑，忌短涩。\n头目痛 宜浮滑，忌短涩。\n喘急 宜浮滑，忌短涩。\n金疮 失血太多，宜细微，忌紧数。阴脉不能至阳者死。\n堕伤 腹胀，内有蓄血。宜坚强，忌小弱。\n痹痿 宜虚濡，忌紧急。\n症积 宜沉实，忌虚弱。\n新产 宜沉滑，忌弦紧。\n带下 宜迟滑，忌急疾。\n䘌蚀 宜虚小，忌紧急。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "卷上",
+        "下學篇",
+        "諸病宜忌脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "37fdeffba034ccfb03a1364be5062907328f17ad3d939d2a42959d3d58cd5a1b",
+      "content_sha256": "ebeb8401bebf4838e936a167e6d24abefdae976a08c2db090f8365b7d05c25c5",
+      "paragraph_count": 24,
+      "paragraph_ordinals": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 334,
+        "simplified_codepoints": 334
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "ba74f2324a1b9d71000bbfba",
+      "title": "脉位法天论",
+      "volume": "卷下 / 上达篇",
+      "content": "圣人以左寸为心，左关为肝，左尺为肾，右寸为肺，右关为脾，右尺为命门者，法乎天也，非圣人之私也。盖天之北为坎，南为离，东为巽，西为兑，包乎外者为干，居乎中者为坤。人生与天地相似，左手天之东也，巽在焉，巽为木，故肝木居乎左关。左关之前为心者，法南之离也；左关之后为肾者，法北之坎也。右乎，天之西也，兑位在焉，兑为金，金者肺。《易》曰：干为天、为金。是肺为金而有乾象，故居右寸而位乎高。右关为脾者，脾为坤土，奠位乎中，以之而承乎肺下，此天高地下之义，乾坤象也。右尺为命门，命门者，火也，以水位而位火，此一阳生于二阴之义，正所以成坎也。向非与天地相似，圣人安得以是而垂法哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 128,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈位法天論"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "e6f0694cf06f36b6fc59a4a27f164ad5cce3effd70cd9a73f7b4437bee8e7731",
+      "content_sha256": "4a15c2fa27126c7091136e9ef6c9fb44e198f00f3fb2d94162b04ff68650bdcf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 283,
+        "simplified_codepoints": 283
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "4f2fad6d7f251d97724edab2",
+      "title": "大小肠脉在两寸间",
+      "volume": "卷下 / 上达篇",
+      "content": "岐伯曰：尺内两旁，则季肋也，尺外以候肾，尺里以候腹。中附上：左，外以候肝，内以候鬲；右，外以候胃，内以候脾。上附上：右，外以候肺，内以候胸中；左，外以候心，内以候膻中。前以候前，后以候后。上竟上者，胸、喉中事也；下竟下者，小腹、腰、股、膝、胫、足中事也。友人读《内经》至此，问于余曰：如经言之，则大小肠亦小腹中之物，其脉当于尺里取之矣，世皆取之于两寸，何也，毋乃为高阳生《脉诀》所惑欤？曰：非也，盖尝考之《灵枢》《难经》《脉经》矣，《灵枢》以小肠之脉络于心，大肠之脉络于肺，故于两寸取之，亦宜。十难曰：假令心脉急甚者，肝邪干心也；心脉微急者，胆邪干小肠也。是越人亦尝于两寸取大小肠矣。《脉经》曰：左手关前寸口，阳绝者无小肠脉也，阳实者小肠实也。右手关前寸口，阳绝者无大肠脉也，阳实者大肠实也。是《脉经》亦尝于前寸取大小肠矣，岂后人私见哉。盖岐伯之论从其位，越人、《脉经》之论从其络，此古人不悖之论也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "大小腸脈在兩寸間"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "6309d845dafe79a9c176e9d77ada9fdf9889150cf6f1ffafa8789fd98fd46ce3",
+      "content_sha256": "8b18929683fcfe0473442bcecf2f754b04e6f3fcbdb83719922d66681db1dc89",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        131
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 400,
+        "simplified_codepoints": 400
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "e86470783322d0d8dcfe2486",
+      "title": "三焦脉在右尺辨",
+      "volume": "卷下 / 上达篇",
+      "content": "三焦者，考其经则行乎手，考其络则络心包，考其属则偏三焦，浑无一定之位，诸儒《脉诀》皆以之合于右尺，非也。《素》《难》《灵枢》未有明论，韩飞霞巧其说曰：切脉至右尺，必两手并诊消息之，取三焦应脉。浮为上焦，与心肺脉合；中为中焦，与脾胃脉合；沉为下焦，与肝肾脉合，故曰，尺脉第三同断病。呜呼，此讹上之讹，说愈巧违道愈远矣。《内经》曰：尺外以候肾，尺里以候腹中，未尝谓尺候三焦也。《脉经》曰：尺脉芤，下焦虚，尺脉迟，下焦有寒。又曰：尺脉浮者，客阳在下焦。观此三言，尺主下焦耳，何以巧说附入哉。《脉经》一卷，第七篇脉法赞云：右为子户，名曰三焦。子户，命门也，右肾为命门，男子以藏精，女子以系胞，故为子户。名曰三焦者，此犹两额之旁，名曰太阳云耳，非谓太阳经也。东垣问三焦有几，盖可想矣，安得执词而害义耶。若第二卷第二篇，虽云右肾合三焦，然，上有「一说云」三字，则叔和亦附此语以俟参考耳，非叔和之定论也，明矣。今论定：上焦从两寸，中焦从两关，下焦从两尺，斯则与《内经》上竟上者胸喉中事，下竟下者少腹腰股膝胫足中事二句符合，虽圣人复起，当不易矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 132,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "三焦脈在右尺辨"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "930315d8d75801fd9c5691d4bcd38b1605098c4e0ae742ae83ea205a350ad90b",
+      "content_sha256": "a978ead7548fcc61184d890e5480b284275f4870dd30c214a8beb4bb969d8ee2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        133
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 465,
+        "simplified_codepoints": 465
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "ced0a33d6fc46f0a79812feb",
+      "title": "寸口者脉之大会（附：小儿三关）",
+      "volume": "卷下 / 上达篇",
+      "content": "寸口者，手太阴肺经也。五脏六府，肺为最高而有乾象，诸脏腑皆居其下，其气无不上熏于肺，故曰肺朝百脉也。肺得诸脏腑之气，输之于经，变见于寸口，故寸口者脉之大会。若小儿之脉，不取寸口，独取三关者，盖以小儿气血未定，其脉常大、常数、常滑，寸口难候，故取三关占之，亦谓此处为手太阴肺经散见之余耳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 134,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "寸口者脈之大會（附：小兒三關）"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "84691ee9486de1a51b878bc221e462e6d29bd68a93c0ba1853fa73541af10e41",
+      "content_sha256": "2f48ac6132f3e7d3bae0d2312bb4d4232bed68663a669f84f9554628f58d5f1b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        135
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 143,
+        "simplified_codepoints": 143
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "6d590c01ac8d6c2255f92c51",
+      "title": "脉有神机",
+      "volume": "卷下 / 上达篇",
+      "content": "经曰，荣行脉中，卫行脉外。世之粗医因而泥之曰，脉者，气血而已。然，气血岂足以尽之。经曰：根于中者，命曰神机。脉之所以神其用者，皆元神主宰其机也。若以脉中惟是气血，则尺寸之肤皆气血也，何独于此为脉耶。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 136,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈有神機"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "ed39cec9457b1afa436e8815ad3c50ac7cd941544710d4a078fb02098f0bf0f6",
+      "content_sha256": "de5331ea6095beaefe0c6ea94b37f255a6610304cf78bb393072f7123beff216",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        137
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "33dc3b6ff923e38a62f2daab",
+      "title": "三部九候",
+      "volume": "卷下 / 上达篇",
+      "content": "有诸经之部候，有寸口之部候，皆有上中下三部，每部之中又分天地人，三三成九，名曰九候。寸口之部候者，寸部浮中沉，关部浮中沉，尺部浮中沉也。诸经之部候者，上部天，两额之动脉，足少阳胆经太阳是也。上部地，两颊之动脉，足阳明胃经巨髎处也。上部天，耳前之动脉，手少阳三焦经耳门分也。中部天，手太阴肺经，寸口是也。中部地，手阳明大肠经合谷分也。中部人，手少阴心经神门处也，下部天，足厥阴肝经五里分也。妇人则取太冲。下部地，足少阴肾经太溪是也。下部人，足太阴脾经箕门是也。候胃气则取足跗上之冲阳，足阳明胃经也。取诸经之部候，即儒者求道于散殊；寸口之部候，即儒者本之于一贯也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 138,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "三部九候"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "0ab45bf7be6a80c5e16604723c19871c9aac2311bc2e0b33a4c91d2b503f22bd",
+      "content_sha256": "7e159292dc15d739c1b79c32df0b58b0d646ac3c9e15486a5a4662f441cc26ea",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        139
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 280,
+        "simplified_codepoints": 280
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "e77180da73a6723e1f7d15b4",
+      "title": "七诊",
+      "volume": "卷下 / 上达篇",
+      "content": "七诊之说，世皆为勿听子所惑，今举《内经》以证之。黄帝曰：何以知病之所在，岐伯曰：察九候，独小者病，独大者病，独疾者病，独迟者病，独热者病，独寒者病，独陷下者病。王冰注曰：诊凡有七者，此之谓也。若勿听子，则以静其心，忘外虑，均呼吸，浮以取腑，中以取胃，沉以取脏，察病人脉息，七事，为七诊。吁！真可以勿听矣。经曰：七诊虽见，九候皆从者不死，味此一句，则七诊明是自病人言，若静其心七句，皆自医者言，与七诊虽见之文，说不合。勿听子粗浅，比比如此，世皆趋之，可慨甚矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 140,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "七診"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "a66a1f7696771f4d58ee31cd061b971122db395a25be1b141d2fe3fef2dda2ac",
+      "content_sha256": "0ee020ce63533582a16492b57efd365b5a89c0b0eca036dd841f78a3c3c9404f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        141
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 229,
+        "simplified_codepoints": 229
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "77a0557c81bf46a0e76fe112",
+      "title": "六残",
+      "volume": "卷下 / 上达篇",
+      "content": "仲景云：脉有弦、有紧、有涩、有滑、有浮、有沉，此六脉为残贼，能与诸经作病。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 142,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "六殘"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "504d89fec8cf9f5bfb67043ee0a3d8cf7d8df649f6949baea8a6f9fe637f5840",
+      "content_sha256": "0792532d2a15b4e9c2e4e3b926f87d8f7d353b1f8908c74c802230551f48e78c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        143
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 37,
+        "simplified_codepoints": 37
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "672a2f503ac5571c55020da2",
+      "title": "反关脉",
+      "volume": "卷下 / 上达篇",
+      "content": "反关脉者，脉不行于寸口，由列缺络入臂后，手阳明大肠经也。以其不顺行于上，故名曰反关。有一手反关者，有两手反关者，此得于有生之初已然，非为病也。诊法皆同，若病人平日正取有脉，一旦因得病而脉伏匿者，此病脉也。种种不同，必原其证而治之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 144,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "反關脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "8f55c1cf5957fee1c0c99298ee573356424789025a0f21f5f9e14bc358bdd29a",
+      "content_sha256": "ba543157e1894233ad1fea5c79213449137fa8e30aec27142b2e1f4eb5f90a5e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        145
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "b9525614032598b4a3a36982",
+      "title": "上鱼脉",
+      "volume": "卷下 / 上达篇",
+      "content": "上鱼者，脉上于鱼际也，世人常有此脉，不可一例论也。有两手上鱼者，有一手上鱼者。若平人神色充实，而有此脉者，此天禀之厚，元神充满，上溢于鱼也，其人必寿。若人素无此脉，一旦上鱼者，此病脉也。《难经》曰：关之前者，阳之动也，脉当九分而浮，过者法曰太过，减者法曰不及，遂上鱼为溢，为外关内格，此阴乘阳之脉也。《脉经》曰：脉来过寸入鱼际者，遗尿。又曰：脉出鱼际，逆气喘息。又曰：脉紧而长，过寸口者，注病。《史记》载：济北王侍人韩女得此脉，而腰脊痛。仓公曰：此病得之欲男子而不可得也。夫脉一也，而为病种种不同者，何哉？曰：但味越人「阴乘阳」一句，更察病人之神色、人品，斯得之矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 146,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "上魚脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "f16d645b5586bcdbc9cd8fc6411fbebe78fe5f8552db0afa1e85bdd045557029",
+      "content_sha256": "391d076b6694ba912a0ebed8194b25b08be3ba0dee1a1e65f16f899494361f8e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        147
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 283,
+        "simplified_codepoints": 283
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "3260d8f8232a9c50f3cddedd",
+      "title": "上下来去至止",
+      "volume": "卷下 / 上达篇",
+      "content": "斯六字者，足以别乎阴阳虚实，本岐黄之奥旨，而滑撄宁阐明之。上者为阳，来者为阳，至者为阳；下者为阴，去者为阴，止者为阴。上者，自尺部上于寸口，阳生于阴也；下者，自寸口下于尺部，阴生于阳也。脉有上下，是阴阳相生，病虽重不死。来者，自骨肉之分，出于皮肤之际，气之升也；去者，自皮肤之际，还于骨肉之分，气之降也。脉有来去，是表裹交泰，病虽重必起，此谓之人病脉和也，若脉无上下来去，死无日矣。经曰：脉不往来者死。此之谓也。若来疾去徐，上实下虚为厥癫疾；来徐去疾，上虚下实，为恶风也。至者，脉之应，止者，脉之息也，止而暂息者，喻之疾，止久有常者，死也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 148,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "上下來去至止"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "e89324798e218343d7b8f0e5a8bd0bf452306cf769271ccb80296b7c32aa686d",
+      "content_sha256": "e7d80c9ba107a63f04f04d035d7b2e4ab98b1fc17bf9cc81c50eba9887af6e4c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        149
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 270,
+        "simplified_codepoints": 270
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "28a1085f07c1997f95da044a",
+      "title": "阴阳大法",
+      "volume": "卷下 / 上达篇",
+      "content": "凡脉大为阳，浮为阳，数为阳，动为阳，长为阳，滑为阳，沉为阴，涩为阴，弱为阴，弦为阴，短为阴，微为阴。关前为阳，关后为阴。阳数则吐血，阴数则下痢。阳弦则头痛，阴弦则腹痛。阳加于阴谓之汗，阴虚阳搏谓之崩。阳数口生疮，阴数加微，必恶寒而烦扰不得眠也。阴附阳则狂，阳附阴则癫。得阳属腑，得阴属脏。无阳则厥，无阴则呕。阳微则不能呼，阴微则不能吸，呼吸不足，胸中短气，依此阴阳，以察病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 150,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "陰陽大法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "4303ea8f7e457d055bb46e35162869db1f8d32277a8c228ee033e5294526e9e3",
+      "content_sha256": "cfae034f96dcf7c89a2df17fdb3da8b66db005b15e6532b2e4ff5a8982bb797b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        151
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 188,
+        "simplified_codepoints": 188
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "4bd7b444e6331a3c1f5ec456",
+      "title": "阴阳相乘相伏",
+      "volume": "卷下 / 上达篇",
+      "content": "皮肤之上，两关之前，皆阳也。若见紧、涩、短、小之类，是阳不足而阴乘之也。肌肉之下，两关之后，皆阴也。若见洪、大、数、滑之类，是阴不足而阳乘之也。阴脉之中，阳脉间一见焉，此阴中伏阳也；阳脉之中，阴脉间一见焉，此阳中伏阴也。阴乘阳者，必恶寒。阳乘阴者，必内热。阴中伏阳者期于夏，阳中伏阴者期于冬。以五行之理推之，而月节可期也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 152,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "陰陽相乘相伏"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "ecf6fc5fdf067996ad03aacdb6185a47fb66f5dd206b53fa0fe1942ac523c141",
+      "content_sha256": "5725deb7169646fbfb30964c69f5408c697ff78e956e97cb4a84a4801deab26b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        153
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 161,
+        "simplified_codepoints": 161
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "78fea54938cf12bc7846db3d",
+      "title": "重阴重阳",
+      "volume": "卷下 / 上达篇",
+      "content": "寸口浮大而疾，此阳中之阳也，名曰重阳；尺内沉细而迟，此阴中之阴也，名曰重阴。上部重阳，下部重阴，阳亢阴隔，癫狂乃成。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 154,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "重陰重陽"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "23e5dd2bc5675f97604767d715533f2bdb482b2f9d60184e7ca6770d10d54ea5",
+      "content_sha256": "649b2d66fdc4e2d2751ffa7eb2f4a71b470dbe87a3732e9741cc9816c13191df",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        155
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 58,
+        "simplified_codepoints": 58
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "697480f7b6a464e6faf727a7",
+      "title": "脱阴脱阳",
+      "volume": "卷下 / 上达篇",
+      "content": "六脉虚芤，此脱阴也；六脉陷下，此脱阳也；六脉暴绝，此阴阳俱脱也。脱阴者目盲，脱阳者见鬼，阴阳俱脱者危。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 156,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脫陰脫陽"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "e2d25e2a99fa2b50f016ae31d512c3e31fa80141ee15a913ca6b796b1033b373",
+      "content_sha256": "69afd1dc108df723cbaf4ddaf4d6d3d949b7d8303e4736e80c547bd25b755b77",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        157
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "908745027fc42beb2dea70fa",
+      "title": "阴阳绝",
+      "volume": "卷下 / 上达篇",
+      "content": "上不至关为阳绝，下不至关为阴绝。阳绝死于春夏，阴绝死于冬。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 158,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "陰陽絕"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "7dc7c88225494e4aed782bf8d488e671d5c03a8fdd575eb80a8455fb155b7768",
+      "content_sha256": "c4c6fb625b31472e37cc6fd85c7bfafc18f8db39c40176e3d2e9598784152ec0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        159
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 29,
+        "simplified_codepoints": 29
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "4c5aee443663429f7f1b2145",
+      "title": "分析脏腑阴阳盛衰",
+      "volume": "卷下 / 上达篇",
+      "content": "《脉经》曰：左手关前寸口阳绝者，无小肠脉也，阳实者，小肠实也；阴绝者，无心脉也，阴实者，心实也。左手关上阳绝者，无胆脉也，阳实者，胆实也；阴绝者，无肝脉也，阴实者，肝实也。左手关后尺中阳绝者，无膀胱脉也，阳实者，膀胱实也；阴绝者，无肾脉也，阴实者，肾实也。右手关前寸口阳绝者，无大肠脉也，阳实者，大肠实也；阴绝者，无肺脉也，阴实者，肺实也。右手关上阳绝者，无胃脉也，阳实者，胃实也；阴绝者，无脾脉也，阴实者，脾实也。右手关后尺中阳绝者，无子户脉也，阳实者，亦膀胱实也；阴绝者，无肾脉也，阴实者，肾实也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 160,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "分析臟腑陰陽盛衰"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "e07c735dc84a9754ee16f9839f0009959b22f24273ff213e2c2c415a71e3e2ee",
+      "content_sha256": "f5d3f50e644bb355231a8ae8d828c54ff748f79404ec794b4d6fd5b01a85ff8c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        161
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 251,
+        "simplified_codepoints": 251
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "e3ef2b91fa7b1a917c66b5d7",
+      "title": "脉无根",
+      "volume": "卷下 / 上达篇",
+      "content": "经曰：诸浮脉无根者，皆死，是谓之有表无裹也。是谓之孤阳也。造化所以亘万古而不息者，一阴一阳互为其根也。阴道绝矣，阳岂独存乎，人身之气血亦然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 162,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈無根"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "820d645e1920ab612c53598d8acc4d6faf08dfedb687e747a4b56fc86a7751e8",
+      "content_sha256": "49d60bdafa62f6ad654f84fd0d64f5eed4000e7f67039a6dfd134379577dd076",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "e1af631a8a5806e04d1e0468",
+      "title": "上部有脉下部无脉、下部有脉上部无脉",
+      "volume": "卷下 / 上达篇",
+      "content": "经曰：上部有脉，下部无脉，其人当吐，不吐者，死。观当吐二字，便得胸、腹有物，填塞至阴，抑遏肝气，而绝升生之化也。故吐之则愈，不吐则暴死矣。若使其人胸中无物可吐，此阴绝于下也，亦是死证。经又曰：下部有脉，上部无脉，虽困无能为害。所以然者，人之有尺，譬如树之有根，枝叶虽枯槁，根本将自生，此虽至理，亦不可执。法曰：上不至关为阳绝，况无脉乎，明者可以悟矣，若覆病人之手而脉出者，此运气不应之脉，非无脉也，论在运气脉中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "上部有脈下部無脈、下部有脈上部無脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "985176c96278b12648e1524a77cf6851a018e7da23ba6862db3afe38d70d3707",
+      "content_sha256": "a765060c2c4ebcb4f6e5994f89dc84500b98042cece8a743c466e4a14fc538d5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        165
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 206,
+        "simplified_codepoints": 206
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "af9174b27a42ebb6b0140ec8",
+      "title": "经络虚实",
+      "volume": "卷下 / 上达篇",
+      "content": "寸部热满，尺部寒涩，此络气不足，经气有余也，秋冬死，春夏生。寸部寒涩，尺部热满，此经气不足，络气有余也，春夏死，秋冬生。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 166,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "經絡虛實"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "5e941f7f9e5ed98cf1e3bffafac91f6dfa07968b88c22156e4117863cf0c262b",
+      "content_sha256": "2283c7a30792fa69d7e4e7770d3cab21d00d4f1438102204ab224816bce64333",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "ae4f926896d06751a961a65d",
+      "title": "有力无力",
+      "volume": "卷下 / 上达篇",
+      "content": "东垣著《此事难知》谓：脉贵有神。有神者，有力也，虽六数、七极、三迟、二败尤生，此得诊家精一之旨也。节庵辨伤寒脉法，以脉来有力为阳证，沉微无力为阴证，此发伤寒家之聋瞽也。杜清碧诊论曰：浮而有力为风，无力为虚；沉而有力为积，无力为气；迟而有力为痛，无力为冷；数而有力为热，无力为疮。各于其部见之，此得诊家之领要也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "有力無力"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "8c8d7a660a46f62797d3fe38ec73ee8f718b5dfa6093870c5c0427c28b277999",
+      "content_sha256": "5b9d82c2c4e966a5f122fcdd64ef72adf2cd1cf4c1d679f1f8ab898197e6f470",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        169
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 155,
+        "simplified_codepoints": 155
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "95c59b1ecdd87630fe6302a5",
+      "title": "伤寒脉大法",
+      "volume": "卷下 / 上达篇",
+      "content": "仲景曰：浮、大、数、动、滑，阳脉也；沉、涩、弱、弦、微，阴脉也。阴病得阳脉者生，阳病得阴脉者死。此伤寒家之大旨也，得此二句，而三百九十七法，思过半矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 170,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "傷寒脈大法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "01160ad0ac6554c66d3117a00e4e349916ceba6cc58c7644146ec79e576153d5",
+      "content_sha256": "75d7f41edc34c4905842abdbccc59207b0076d7a631998091d1a0880d7b38f58",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        171
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "b959485263fe8d446ad7c8d8",
+      "title": "脉不再见",
+      "volume": "卷下 / 上达篇",
+      "content": "如春宜弦，得洪脉者，至夏必死；得涩脉者，至秋必死；得石脉者，至冬必死。何也？真脏之气先泄也，余季可推。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 172,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈不再見"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "d2ad211ef15a87ce45ed81dcf3470810fa816573aa0953d4bbb69dca499a467d",
+      "content_sha256": "31abd597e73beae421f8a6b4784ad4015311d7a5a9b24b97ae14424b80367125",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        173
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "bca3e1404f48a6378afb65ee",
+      "title": "胃气为本",
+      "volume": "卷下 / 上达篇",
+      "content": "脉以胃气为本者，脉之中和也。中和者，弦不甚弦，钩不甚钩，软不甚软，毛不甚毛，石不甚石，顺四时五行，而无太过不及也。若春脉弦如循刀刃，夏脉钩如操带钩，长夏脉软介然不鼓，秋脉涩如风吹毛，冬脉石来如弹石，是得真脏之脉，全失中和，是无胃气，可与之决死期矣。经曰：春脉微弦曰平，弦多胃少曰肝病，但弦无胃曰死，胃而有毛曰秋病，毛甚曰今病。夏脉微钩曰平，钩多胃少曰心病，但钩无胃曰死，胃而有石曰冬病，石甚曰今病。长夏微软弱曰平，弱多胃少曰脾病，但代无胃曰死，软弱有石曰冬病，石甚曰今病。秋脉微毛曰平，毛多胃少曰肺病，但毛无胃曰死，毛而有弦曰春病，弦甚曰今病。冬脉微石曰平，石多胃少曰肾病，但石无胃曰死，石而有钩曰夏病，钩甚曰今病。四时长夏皆以胃气为本，诊家以此熟之于胸中，消息其五行生克，则切脉之余，人之死生病否，无遁情矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 174,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "胃氣為本"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "f81d70221cea2891c6798e6ca7f530c0abfe718d5c015e62e9f514594206c012",
+      "content_sha256": "a48a36dc6e66ee44a193cf4c4d238d9111e00240ae19ced453a14fb1bfd6fbd4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        175
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 355,
+        "simplified_codepoints": 355
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "4f9b2d544dc7e0208f5e2a81",
+      "title": "丹溪候胃气法",
+      "volume": "卷下 / 上达篇",
+      "content": "《格致余论》云：男子以气成胎，则气为之主；女子挟血成胎，则血为之主。男人久病，右脉充于左者，有胃气也，病虽重可治。女人久病，左脉充于右者，有胃气也，病虽重可治。反此者，虚之甚也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 176,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "丹溪候胃氣法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "d0e5e0d4bfcc9b7c8dca58fae87e5d4cab07b17b25512cafaf86af8e6d99ecee",
+      "content_sha256": "2ce4789f59545723942cfd80d71494cabac1333d828749972beddf4536b7d206",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        177
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "24b814beac32d5492313cc95",
+      "title": "推法",
+      "volume": "卷下 / 上达篇",
+      "content": "岐伯曰：推而外之，内而不外，心腹积也。推而内之，外而不内，身有热也。推而上之，下而不上，腰足清也。推而下之，上而不下，头项痛也。斯法也，果何为而用之？师曰：若人三部平等，脉形端直，毋用此法。若脉来一部独斜，如内如外，一部独劲，直前直后，方用此法，实为秘诀。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 178,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "推法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "3faebc162ccc814b6ed1116804a5a7a03d5edfe9932be1082b77f0f32570baaa",
+      "content_sha256": "e3832421c30e57f1149a4a714b8f2008dfcdc30b155fa2ccfaeceab7be54f461",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        179
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "2a886ccc4f8e8c5abedf6251",
+      "title": "脉有亢制",
+      "volume": "卷下 / 上达篇",
+      "content": "阳实者，人知其脉之洪大矣，至其极也，而脉反匿伏焉，此干之上九，亢龙有悔也。阴虚者，人知其脉之细微矣，至其极也，而脉反躁疾焉。此坤之上六，龙战于野也。是皆阴阳亢制之理，惟明者知之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 180,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈有亢制"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "a05a36de2724755ae35e122b2397eeb140c5cd16aa46ced5bbfbb017309fd3ca",
+      "content_sha256": "d6e18c032355e6529d2f10b4773b5f11ee0a258773ba8f31d1c5e35f04ba1a2b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        181
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "b87d98446e86f4f10098b95f",
+      "title": "脉有乘侮",
+      "volume": "卷下 / 上达篇",
+      "content": "假令肺病而见心脉，虽云克我者为贼邪，然，本脏实有以致之。经曰：邪之所凑其气必虚，惟国无君子，故奸人得以乘之，脉道亦然。又令肺病而见肝脉，我克者为微邪，人争谈之矣，然本脏之衰可占也。经曰：气不足，则己所胜者，轻而侮之。惟君子道消，故小人道长也。余脏可推。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 182,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈有乘侮"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "187dde8244b71c2c8f6d2393f68ad85ce1e9ca9661b4b5eafae6bb91a99bc5e1",
+      "content_sha256": "1e2c768633f50e9f0fcdf12aae405491c0a51830ec78c48fe93debfb92bf6e06",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        183
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "77732ef24d055a1bd6072502",
+      "title": "男女脉异",
+      "volume": "卷下 / 上达篇",
+      "content": "男子以阳为主，两寸之脉，常旺于尺；若两寸反弱，尺反盛者，肾不足也。女子以阴为主，两尺之脉，常旺于寸；若尺反弱而寸反盛者，上焦有余也。不足固病，有余亦病，所谓过犹不及也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 184,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "男女脈異"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "cf76f7d8f4ecc2ebb188aaa235e6ed9dbba7c127816dc5b28c7e08a0d93f1ea5",
+      "content_sha256": "2c90250129726085966967cf3dfd9922070da62b692dc7c91df3f0a3024289ef",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        185
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "7f255b05378ffaa91cfa4586",
+      "title": "老少脉异",
+      "volume": "卷下 / 上达篇",
+      "content": "老弱之人，脉宜缓弱，若脉过旺者，病也。少壮之人，脉宜充实，若脉过弱者，病也。然，犹有说焉，老者脉旺而非躁，此天禀之厚，引年之叟也，名曰寿脉。若脉躁疾，有表无里，此孤阳也，其死近矣。壮者脉细而和缓，三部同等，此天禀之静，清逸之士也，名曰阴脉。若脉来细而劲直，前后不等，可与之决死期矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 186,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "老少脈異"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "7cec89b3dbf51d59c07c9cf3afadd90785fc8f95d3f66434f8ffe8766764b935",
+      "content_sha256": "5a26ded5783fae0c7a82d44ed4159ed46f17114cfff865ecafa4f6ff5fc28840",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        187
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "dbdcb1fa16cf7c6561a22f74",
+      "title": "脉合形性",
+      "volume": "卷下 / 上达篇",
+      "content": "凡诊脉，当视其人大小长短，及性气缓急。脉合形性者，吉；脉反形性者，逆也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 188,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈合形性"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "cd0fa7ed98a9bee0bf0e4e9b39a484c9f5aec5ef01730be6f32385b63c87fe63",
+      "content_sha256": "54621804f65ad7f265f6ba49df6a3d227a22bcfa144166a5172bd734f9c2dd1b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 36,
+        "simplified_codepoints": 36
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "8eaa3e7d0194c246f0aabb3f",
+      "title": "色脉",
+      "volume": "卷下 / 上达篇",
+      "content": "色脉相克者，凶。色脉相生者，吉。然，犹有诀焉，色克脉者其死速，脉克色者其死迟，色生脉者其愈速，脉生色者其愈迟。能合色脉，可万全矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 190,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "色脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "49c7cd598a0e4578f594fa518aa86f8655f7d722115939d9c71dc8ff8edef89c",
+      "content_sha256": "23c44cbe4ea8ca5a2f2a5cddf33d4c90794a2688072e25bd6ef33bb560e0d9cf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        191
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 65,
+        "simplified_codepoints": 65
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "5f7084fc6e5fc16dd7be3787",
+      "title": "脉知得病之期",
+      "volume": "卷下 / 上达篇",
+      "content": "《脉经》曰：何以知春得病？无肝脉也；无心脉，夏得病；无肺脉；秋得病；无肾脉，冬得病；无脾脉，四季之月得病，或长夏得病。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 192,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈知得病之期"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "58ca39530c7c1f749d947ff3c5cbb31dfdefd194c506c9229b96ef389e222f51",
+      "content_sha256": "f1390fe193e1abed05b1e39971b87ed0a8ebcc3a2a215c3ec6735d5e65c8340f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        193
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "7152c87a1d5c4648627a52af",
+      "title": "真脏脉见决死期",
+      "volume": "卷下 / 上达篇",
+      "content": "如肝病则脉弦，弦而劲急，如循刀刃者，真肝脉见也，庚日笃，辛日死，死于申酉时。心病则脉洪，洪而鼓躁如操带钩者，真心脉见也，壬日笃癸日死，死于亥子时。脾病则脉软，若脉来如屋之漏，如水之流，介然不鼓者，真脾脉见也，甲日笃，乙日死死于寅卯时。肺病则脉涩，涩而轻短，如风吹毛者，真肺脉见也，丙日笃，丁日死，死于午未时。肾病则脉石，石而搏激，如雀之啄者，真肾脉见也，戊日笃，己日死，死于辰戌丑未时。其有过期者，仓公谓其能食故也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 194,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "真臟脈見決死期"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "33bcf15ff717612b362435f21529a88f75bb77abf1f30c2b765d8899611b5c24",
+      "content_sha256": "6db88083ae4e6dc334234e8fab77b64190b556d996127344f993c96ca72e95ca",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 208,
+        "simplified_codepoints": 208
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "33094f97b63884a41e0416e9",
+      "title": "人迎寸口",
+      "volume": "卷下 / 上达篇",
+      "content": "左关之前一分为人迎，右关之前一分为寸口。古人以人迎、寸口相应，若引绳大小齐等，命曰平人。若人迎大于寸口一倍、二倍、三倍，为外感风寒。寸口大于人迎一倍、二倍、三倍，为内伤饮食。其理安在哉，盖以人迎之分，肝胆在焉，肝主风，故于人迎以候风寒。寸口之分，脾胃在焉，胃者仓廪之官，故于寸口以候饮食。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "人迎寸口"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "6c170a148e06be43bd0b4f7520773875867a6dda9708c915b7c5aace83e3798e",
+      "content_sha256": "19efe2ec8bfb762a3997e6184fcb5dbed9c9dbdebe911d79c900e75161e1fe5a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        197
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 144,
+        "simplified_codepoints": 144
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "45b46158d8565a74695d231e",
+      "title": "《灵枢》脉法",
+      "volume": "卷下 / 上达篇",
+      "content": "《灵枢经》曰：人迎一盛，病在少阳。一盛而躁，在手少阳。二盛，病在太阳，二盛而躁，在手太阳。三盛，病在阳明，三盛而躁，在手阳明。寸口一盛，病在厥阴，一盛而躁，在手厥阴。二盛，病在少阴，二盛而躁，在手少阴。三盛，病在太阴，三盛而躁，在手太阴。此家诊法，以左右分阴阳，静躁别手足，亦圣人之至教，不可不知者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 198,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "《靈樞》脈法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "01393a74fde9c599067b3fb282e13dab0bf177521d0403045091f3155af08d28",
+      "content_sha256": "3dd213b38ce200a8e5d0aa7c3330d34e7cf0f0e1f267658515cf10f97373bbdd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        199
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 151,
+        "simplified_codepoints": 151
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "d15c0da069b189d2b2b05c2b",
+      "title": "运气脉",
+      "volume": "卷下 / 上达篇",
+      "content": "运气之教，先立其年，干分五运，支立司天。土运甲己，金逆乙庚，水运丙辛，木运丁壬，火运戊癸。主君余臣，司天分例，六化图推，少阳之右，阳明治之；阳明之右，太阳治之；太阳之右，厥阴治之；厥阴之右，少阴治之；少阴之右，太阴治之；太阴之右，少阳治之；子午之上，少阴君火；丑未之上，太阴湿土；寅申之上，少阳相火，卯酉之上。阳明燥金，辰戌之上，太阳寒水，己亥之上，厥阴风木。南北二政，其面不同，司天在泉，移位相从。甲己之岁，是为南政，三阴司天则寸不应，三阴在泉则尺不应，乙庚、丙辛、丁壬、戊癸，斯八岁者，皆曰北政，三阴司天则尺不应，三阴在泉则寸不应。六气之位，少阴居中，厥阴居右，太阴居左，一定之位，不可易也。南政之岁，厥阴司天则右不应，太阴司天则左不应；北政之岁，厥阴在泉则右不应，太阴在泉则左不应，司天为上，其位在南，则面必北，其分左右，左西右东；在泉为下，其位在北则面必南，其分左右，左东右西。不应之位，皆少阴也。诸部不应，反诊较之。尺寸反，死；阴阳交，危。谓之反者，不应而应，应而不应，尺寸反也。谓之交者，隅位相交，阴当在左，交之于右，阴当在右，交之左也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 200,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "運氣脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "d30348a5d8e5c7dcaa6954a891dc21daa2c969864efb7aef2ed0f92b7a89096a",
+      "content_sha256": "18da08b8ec2848c32d0c7d71ab635b56fbc8a2adeacf0dc4aefc30811eaa49ec",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        201
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 475,
+        "simplified_codepoints": 475
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "d3d462994dfdc5ffc2b590fd",
+      "title": "方宜脉",
+      "volume": "卷下 / 上达篇",
+      "content": "中原之地，四时异气，居民之脉，亦因时异。春弦、夏洪，秋毛、冬石，脉与时违，皆名曰病，东夷之地，四时皆春，其气暄和，民脉多缓；南夷之地，四时皆夏，其气蒸炎，民脉多大；西夷之地，四时皆秋，其气清肃，民脉多劲；北夷之地，四时皆冬，其气凛冽，民脉多石。东南卑湿，其脉软缓，居于高巅，亦西北也；西北高燥，其脉刚劲，居于污泽，亦东南也。南人北脉，所禀必刚，北人南脉，所禀必柔，东西不同，可以类剖。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 202,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "方宜脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "8d4eb85120c6d7d9f2aaecd7a659483381e79df063a38d42b777ceace110d947",
+      "content_sha256": "7056485f1118b7e274b78fcdb1e4d0d1509ded3db9f0e6df1f132d4f5f65f181",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        203
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 192,
+        "simplified_codepoints": 192
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "888e8570ff88505063eefa57",
+      "title": "十二经不复朝于寸口",
+      "volume": "卷下 / 上达篇",
+      "content": "此《脉经》论冲督之脉见也。其曰，两手脉浮之俱有阳，沉之俱有阴，阴阳皆实盛，此冲、督之脉也。冲督之脉者，十二经之道路也，冲督用事，则十二经不复朝于寸口，此「一小人进，诸君子退」之象也。其人皆苦恍惚狂疑，犹豫有两心。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 204,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "十二經不復朝於寸口"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "a7678f5f14894d40958d44c1f99ed08ede89492215700c9a4fc243af62150dd0",
+      "content_sha256": "2b3ef49169993937d233a60b06649516315b3fd8234ce6d5c703ae69a4ea7457",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        205
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 106,
+        "simplified_codepoints": 106
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "2a733861f4d237e2965fdacb",
+      "title": "奇经督脉冲脉任脉见于寸口",
+      "volume": "卷下 / 上达篇",
+      "content": "脉来尺寸俱浮，直上直下，此为督脉。主腰背疆痛，不得俯仰，大人癫病，小儿风痫，脉来尺寸俱牢，直上直下，此为冲脉。主胸中有寒，疝气上抢心，遗尿支满。脉来横寸口边丸丸，此为任脉。若腹有气如指，上抢心不得俯仰，拘急，脉紧细实长至关者，亦任也。苦少腹绕脐下引横骨阴中切痛，取脐下三寸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 206,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "奇經督脈衝脈任脈見於寸口"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "576a2ea2d0911459071aeb29704b60fe299628b193b17e0ff94269b537512b47",
+      "content_sha256": "759b72a7e050da33434575011c37da83ff2cdab97d7c585c97720058ff6410a2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        207
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 137,
+        "simplified_codepoints": 137
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "387e9a012f083d205b620798",
+      "title": "《手检图》脉法",
+      "volume": "卷下 / 上达篇",
+      "content": "《手检图》云：脉大而弱者，气实血虚也。脉大而长者，病在下。脉来浮直，上下交通者，阳脉也。前如外者，足太阳也。中央如外者，足阳明也。后如外者，足少阳也。中央直前者，手少阴也。中央直中者，手心主也。中央直后者，手太阴也，前如内者，足厥阴。中央如内者，足太阴也。后如内者，足少阴也。前部左右弹者，阳蹻也。中部左右弹者，带脉也，后部左右弹者，阴蹻也。从少阳之厥阴者，阴维也。从少阴之太阳者，阳维也。来大时小者，阴络也，来小时大者，阳络也。\n按：《手检图》脉法，惟通融之士能知能行，痴疑人之前语梦，是贼之耳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 208,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "《手檢圖》脈法"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "79cdf944ee7ccf4b5965e6ac880f62f3851afbe6a3ea523e3a5cf7afc16f5735",
+      "content_sha256": "248ca305a1ac28c7519a633ff732dfff9a3e9f5222ce5ebf667664e9ad5125cd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        209,
+        210
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 249,
+        "simplified_codepoints": 249
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "b1732516c6c3466ba7bd315d",
+      "title": "一脏无气四岁死辨",
+      "volume": "卷下 / 上达篇",
+      "content": "《脉经》曰：脉来四十投而一止者，一脏无气，却后四岁，春草生而死。自后脉家皆曰五十动，不止者为平人，有一止者，一脏无气，后五岁死，四十动一止者，四岁死。三十动一止者，三岁死。呜呼，书有可信者，有不可信者，可信者，肝绝八日死，心绝一日死，脾绝五日死，肺绝三日死，肾绝四日死，此可信者也。不可信者，一脏无气却后四岁，春草生而死是也。人岂有一脏无气，活四年之理，此书之不可尽信者也，世之庸医，每每执此数语，惑众为甚，某甚陋之，不得不辨。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 211,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "一臟無氣四歲死辨"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "05bbaf1b2b00bb2fed6ac0b521c56856ded0a1f60587c9bdcb6b1dba05f5fdd7",
+      "content_sha256": "5639cf2143932f9c0f0d94967111af699d339a0ae1971580a4a012bcc14107fa",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        212
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 214,
+        "simplified_codepoints": 214
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "8b1e6371d6ee0a566a399259",
+      "title": "从证不从脉",
+      "volume": "卷下 / 上达篇",
+      "content": "脉浮为表，治宜汗之，此其常也，而亦有宜下者焉。仲景云：若脉浮大，心下硬，有热，属脏者，攻之，不令发汗是也。脉沉为里，治宜下之，此其常也，而亦有宜汗者焉。少阴病，始得之，反发热而脉沉者，麻黄附子细辛汤微汗之是也。脉促为阳盛，常用葛根、芩、连，清之矣。若脉促厥冷，为虚脱，非灸非温不可，此又非促为阳盛之脉也。脉迟为阴寒，常用干姜、附子温之矣。若阳明脉迟，不恶寒，身体濈濈汗出，则用大承气，此又非诸迟为寒之脉矣，是皆从证不从脉也。世有切脉而不问证者，其失可胜言哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 213,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "從證不從脈"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "451dc5810a28cb59880a418b86373f7ba82f606a0e2a280a62fd6f09faf56adc",
+      "content_sha256": "3d70e4cf9a0ace82337c3e8400496b6c407ee88b91cb3428685d69c260e5affc",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        214
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 229,
+        "simplified_codepoints": 229
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "48b1c0d6881bca2728d27d43",
+      "title": "从脉不从证",
+      "volume": "卷下 / 上达篇",
+      "content": "表证汗之，此其常也。仲景曰：病发热头痛，脉反沉，若不瘥，身体疼痛，当救其里，宜四逆汤，此从脉之沉也，里证下之，此其常也。日晡所发热者，属阳明，脉浮虚者，宜发汗，发汗宜桂枝汤，此从脉之浮也。结胸证具，向常以大小陷胸下之矣，其脉浮大者不可下，下之即死，是宜从脉而治其表也。身疼痛者，向常以桂枝、麻黄解之矣，假令尺中迟者不可汗，然以荣气不足，血少故也，是宜从脉而调其荣矣，此皆从脉不从证也，世有问证而忽脉者，得非仲景之罪人乎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 215,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "從脈不從證"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "ff9c1e45d89738a617e21fbc0933bf45562346f2178ef8d23de7dccf2b11683f",
+      "content_sha256": "ceb70cca15b93485e038648da37b94bb812e62f94133f886a0508a572da091f7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        216
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 210,
+        "simplified_codepoints": 210
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "c081a7e438db9108abd1577f",
+      "title": "形肉已脱九候虽调犹死",
+      "volume": "卷下 / 上达篇",
+      "content": "此岐伯欲人以脉合形也。盖形肉者，脾所主，脾为土，土为万物之母，观其形肉脱，则脾坏于内。而根本丧矣，即使九候虽调，犹不免也。形，可以勿视乎哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 217,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "形肉已脫九候雖調猶死"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "26228343bc2cd0a40d0b63d3a188b0945250c6a00d75910debcb8112d534c721",
+      "content_sha256": "738021dc20eec99dedcdfd358fa8a12e169ba1f64ddfe0dec78283b9360f5157",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        218
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "e119f4f75b27dd39d0c9682f",
+      "title": "七诊虽见九候皆从者不死",
+      "volume": "卷下 / 上达篇",
+      "content": "此岐伯欲人融通脉理，不可一途而取也。七诊者，脉来独大、独小、独迟、独疾、独寒、独热、独陷下也。此皆恶脉，今论其不死者，如少阳之至，乍大乍小，阳明之至，浮大而短；太阳之至，洪大而长；太阴之至，紧大而长；少阴之至，紧细而微；厥阴之至，沉短而敦。是皆旺脉也，而非七诊也。又如南政之岁，三阴司天，则寸不应，三阴在泉则尺不应，北政之岁三阴司天，则尺不应，三阴在泉，则寸不应，是皆运气使然也，故谓之从。从者，顺四时五行而为之迁变，安得谓之死哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 219,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "七診雖見九候皆從者不死"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "8e7945d86097fb02a89ac449c7d255e0552f9e1c31d1ba4b4a9384857dfe0f26",
+      "content_sha256": "0dc7d9bcb11d5a73a7b98a845f5789148bc26199338dd99f6072535acd19cf34",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        220
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 216,
+        "simplified_codepoints": 216
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "3378551bffa4a8f91d9a4a17",
+      "title": "趺阳太溪太冲",
+      "volume": "卷下 / 上达篇",
+      "content": "趺阳者，胃脉也，在足跗上五寸，骨间动脉，冲阳是也，病重则切此以决死生。盖以土者万物之母，趺阳之气不衰，则母气犹旺，病虽危犹可生也。然于旺之中，又忌弦急，盖弦急者肝胆之脉也，若见此脉，为木来克土，谓之贼邪，不治。若见和缓之脉者，生。余脉与寸口同诊。\n太溪脉者，肾脉也，在足内踝后，跟骨上动脉陷中，病重亦取此以决死生。盖以天一生水，真元之气聚于斯，若此脉不衰，则元气犹存，病虽危，尚可治也。\n太冲脉者，肝脉也，在足大指本节后二寸陷中，病重亦以此决死生。盖以肝者，东方木也，生物之始，此脉不衰，则生生之机，尚可以望其将来也。妇人尤以此为主。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 221,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "趺陽太谿太衝"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "4900b82df2a0d4ffa3efbdf17a6266dee4febe65b9ba4977745a80fbe610807d",
+      "content_sha256": "4a65d00542ec30ce390ea54aa09c9153f2a3be77ec378e869a314bf20b5128ce",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        222,
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 267,
+        "simplified_codepoints": 267
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "b8494e47136b8f5f89a9f74c",
+      "title": "《太素脉》论",
+      "volume": "卷下 / 上达篇",
+      "content": "医家以岐黄为祖，其所论脉，不过测病情，决死生而已，未有所谓太素也。扁鹊、仓公之神，仲景、叔和之圣亦无所谓太素也。何后世有所谓太素者，不惟测人之病情，而能占人之穷通，不惟测人之死生，而能知人之祸福，岂其术反过于先圣耶？是亦风鉴巫家之教耳。初学之士，先须格致此理，免为邪说摇惑，则造诣日精，而仓、扁、张、王之堂可闯矣，故太素乃医之旁门，不得不辨，亦恶紫乱朱，距邪放淫之意。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "《太素脈》論"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "70800b10fe3d3ebfb951634c091036f7ce196c59824457ca5537ae98e360bcd4",
+      "content_sha256": "5303740570856a696856798251b6e4f633e60ce41191143d1f5e14345438a4c4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        226
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "78219abe840bede84cd581b8",
+      "title": "《太素脉》可采之句",
+      "volume": "卷下 / 上达篇",
+      "content": "《太素》之说，固为不经，然其间亦有可采者，如曰：脉形图净，至数分明，谓之清；脉形散涩，至数模糊，谓之浊；质清脉清，富贵而多喜，质浊脉浊，贫贱而多忧。质清脉浊，此谓清中之浊，外富贵而内贫贱，失意处多，得意处少也；质浊脉清，此谓浊中之清，外贫贱而内富贵，得意处多，失意处少也。若清不甚清，浊不甚浊，其得失相半，而无大得丧也。富贵而寿，脉清而长；贫贱而夭，脉浊而促。清而促者，富贵而夭；浊而长者，贫贱而寿。此皆《太素》可采之句也，然亦外乎风鉴，故业《太素》者，不必师《太素》，但师风鉴，风鉴精，而《太素》之说自神矣，至其甚者，索隐行怪，无所不至，是又巫家之教耳。孔子曰：攻乎异端，斯害也已，正士岂为之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 227,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "《太素脈》可採之句"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "66a71d76bd49e2b7b205816c01145d08b52e698f50588339a576d884626a8470",
+      "content_sha256": "8f838012c9e59685b393c952db3d4b5fd732f7c714ce1bcfabaa6583ddce3064",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        228
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 298,
+        "simplified_codepoints": 298
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "d26b253e0585c5452bc756b1",
+      "title": "脉案格式",
+      "volume": "卷下 / 上达篇",
+      "content": "脉案者，窃公案之义。医者察得病情，立定方法，使病邪不能逃吾之方论，药至而邪伏，譬之老吏听讼，援律定刑，使奸人无所逃也。\n一书：某年某月某地某人。二书：其人年之高下，形之肥瘦长短，色之黑白枯润，声之清浊长短。三书：其人之苦乐病由，始于何日。四书：初时病证，服某药，次服某药，再服某药，某药少效，某药不效。五书：时下昼夜孰甚，寒热孰多，喜恶何物，脉之三部九候如何。六书：引经旨以定病名，某证为标，某证为本，某证为急当先治，某证为缓当后治，某脏当补，某脏当泻。七书：当用某方，加减某药，某药补某脏，某药泻某脏，君臣佐使之理，吐下汗和之意，一一详尽，末书某郡医生某某撰。\n书年之干支、月之春秋者，占运气也。书某地者，占方宜也。书年、形、声、色者，用之以合脉也。书苦乐者，占七情也。书始于何日者，占久近也。历问其病证、药物而书其验否者，以之斟酌己见也。书昼夜寒热者，辨气血也。书喜恶何物者，察阴阳脏腑也。书脉状者，以之合年形声色病证也。书经旨者，如法家引律，使确乎不可逃也。书病名者，用药如用兵，师出贵有名也。书标本者，试轻重也。书方药君臣之理者，欲病人达而尝也。末书己之名者，欲病家志之以验己之工拙也。凡看王公大人，贵宦儒门之病，必书此一案，便无一毫苟且，庶得作医之体矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E8%84%88%E8%AA%9E/index.html",
+      "source_ordinal": 229,
+      "source_path": [
+        "卷下",
+        "上達篇",
+        "脈案格式"
+      ],
+      "source_sha256": "a2facb88b0dffe407b918ac9c9d6dcbbb2919594ef03f8aaa396b6e6038ed8f4",
+      "original_sha256": "b84340197bc9d5920fcb6682730b3b4cc699c19fb1d46ea9a222d64c8d53c48f",
+      "content_sha256": "963ac7797325b3e889bd4d58f5769a849a445f8ed91c59b0d44f5c75b7e9d74f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        230,
+        231,
+        232
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 532,
+        "simplified_codepoints": 532
+      },
+      "order": 64
+    }
+  ]
+}

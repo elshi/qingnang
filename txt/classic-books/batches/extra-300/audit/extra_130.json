@@ -1,0 +1,698 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%88%8C%E9%91%91/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "自序",
+        "path": [
+          "自序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "白苔舌總論",
+        "path": [
+          "白苔舌總論"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 1,
+        "title": "黃苔舌總論",
+        "path": [
+          "黃苔舌總論"
+        ]
+      },
+      {
+        "ordinal": 100,
+        "level": 1,
+        "title": "黑苔舌總論",
+        "path": [
+          "黑苔舌總論"
+        ]
+      },
+      {
+        "ordinal": 130,
+        "level": 1,
+        "title": "灰色舌總論",
+        "path": [
+          "灰色舌總論"
+        ]
+      },
+      {
+        "ordinal": 154,
+        "level": 1,
+        "title": "紅色舌總論",
+        "path": [
+          "紅色舌總論"
+        ]
+      },
+      {
+        "ordinal": 208,
+        "level": 1,
+        "title": "紫色舌總論",
+        "path": [
+          "紫色舌總論"
+        ]
+      },
+      {
+        "ordinal": 234,
+        "level": 1,
+        "title": "黴醬色苔舌總論",
+        "path": [
+          "黴醬色苔舌總論"
+        ]
+      },
+      {
+        "ordinal": 242,
+        "level": 1,
+        "title": "藍色苔舌總論",
+        "path": [
+          "藍色苔舌總論"
+        ]
+      },
+      {
+        "ordinal": 248,
+        "level": 1,
+        "title": "妊娠傷寒舌總論",
+        "path": [
+          "妊娠傷寒舌總論"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 6,
+        "label": "微白滑苔舌",
+        "source": "urn:270:07819.jpg"
+      },
+      {
+        "ordinal": 8,
+        "label": "薄白滑苔舌",
+        "source": "urn:270:07820.jpg"
+      },
+      {
+        "ordinal": 10,
+        "label": "厚白滑苔舌",
+        "source": "urn:270:07821.jpg"
+      },
+      {
+        "ordinal": 12,
+        "label": "乾厚白苔舌",
+        "source": "urn:270:07822.jpg"
+      },
+      {
+        "ordinal": 14,
+        "label": "白苔黃心舌",
+        "source": "urn:270:07823.jpg"
+      },
+      {
+        "ordinal": 16,
+        "label": "白苔黃邊舌",
+        "source": "urn:270:07824.jpg"
+      },
+      {
+        "ordinal": 18,
+        "label": "乾白苔黑心舌",
+        "source": "urn:270:07825.jpg"
+      },
+      {
+        "ordinal": 20,
+        "label": "白滑苔尖灰刺舌",
+        "source": "urn:270:07826.jpg"
+      },
+      {
+        "ordinal": 22,
+        "label": "白苔滿黑刺干舌",
+        "source": "urn:270:07827.jpg"
+      },
+      {
+        "ordinal": 24,
+        "label": "白滑苔黑心舌",
+        "source": "urn:270:07828.jpg"
+      },
+      {
+        "ordinal": 26,
+        "label": "半邊白滑舌",
+        "source": "urn:270:07829.jpg"
+      },
+      {
+        "ordinal": 28,
+        "label": "臟結白滑舌",
+        "source": "urn:270:07830.jpg"
+      },
+      {
+        "ordinal": 30,
+        "label": "白苔黑斑舌",
+        "source": "urn:270:07831.jpg"
+      },
+      {
+        "ordinal": 32,
+        "label": "白苔燥裂舌",
+        "source": "urn:270:07832.jpg"
+      },
+      {
+        "ordinal": 34,
+        "label": "白苔黑根舌",
+        "source": "urn:270:07833.jpg"
+      },
+      {
+        "ordinal": 36,
+        "label": "白尖黃根舌",
+        "source": "urn:270:07834.jpg"
+      },
+      {
+        "ordinal": 38,
+        "label": "白苔雙黃舌",
+        "source": "urn:270:07835.jpg"
+      },
+      {
+        "ordinal": 40,
+        "label": "白苔雙黑舌",
+        "source": "urn:270:07836.jpg"
+      },
+      {
+        "ordinal": 42,
+        "label": "白苔雙灰色舌",
+        "source": "urn:270:07837.jpg"
+      },
+      {
+        "ordinal": 44,
+        "label": "白尖中紅黑根舌",
+        "source": "urn:270:07838.jpg"
+      },
+      {
+        "ordinal": 46,
+        "label": "白苔尖紅舌",
+        "source": "urn:270:07839.jpg"
+      },
+      {
+        "ordinal": 48,
+        "label": "白苔中紅舌",
+        "source": "urn:270:07840.jpg"
+      },
+      {
+        "ordinal": 50,
+        "label": "白苔變黃舌",
+        "source": "urn:270:07841.jpg"
+      },
+      {
+        "ordinal": 52,
+        "label": "白尖紅根舌",
+        "source": "urn:270:07842.jpg"
+      },
+      {
+        "ordinal": 54,
+        "label": "白苔尖灰根黃舌",
+        "source": "urn:270:07843.jpg"
+      },
+      {
+        "ordinal": 56,
+        "label": "白苔尖根俱黑舌",
+        "source": "urn:270:07844.jpg"
+      },
+      {
+        "ordinal": 58,
+        "label": "熟白舌",
+        "source": "urn:270:07845.jpg"
+      },
+      {
+        "ordinal": 60,
+        "label": "淡白透明舌",
+        "source": "urn:270:07846.jpg"
+      },
+      {
+        "ordinal": 62,
+        "label": "白苔如積粉舌",
+        "source": "urn:270:07847.jpg"
+      },
+      {
+        "ordinal": 66,
+        "label": "純黃微干舌",
+        "source": "urn:270:07848.jpg"
+      },
+      {
+        "ordinal": 68,
+        "label": "微黃苔舌",
+        "source": "urn:270:07849.jpg"
+      },
+      {
+        "ordinal": 70,
+        "label": "黃干舌",
+        "source": "urn:270:07850.jpg"
+      },
+      {
+        "ordinal": 72,
+        "label": "黃苔黑滑舌",
+        "source": "urn:270:07851.jpg"
+      },
+      {
+        "ordinal": 74,
+        "label": "黃苔黑斑舌",
+        "source": "urn:270:07852.jpg"
+      },
+      {
+        "ordinal": 76,
+        "label": "黃苔中黑通尖舌",
+        "source": "urn:270:07853.jpg"
+      },
+      {
+        "ordinal": 78,
+        "label": "老黃隔瓣舌",
+        "source": "urn:270:07854.jpg"
+      },
+      {
+        "ordinal": 80,
+        "label": "黃尖舌",
+        "source": "urn:270:07855.jpg"
+      },
+      {
+        "ordinal": 82,
+        "label": "黃苔灰根舌",
+        "source": "urn:270:07856.jpg"
+      },
+      {
+        "ordinal": 84,
+        "label": "黃尖紅根舌",
+        "source": "urn:270:07857.jpg"
+      },
+      {
+        "ordinal": 86,
+        "label": "黃尖黑根舌",
+        "source": "urn:270:07858.jpg"
+      },
+      {
+        "ordinal": 88,
+        "label": "黃苔黑刺舌",
+        "source": "urn:270:07859.jpg"
+      },
+      {
+        "ordinal": 90,
+        "label": "黃大脹滿舌",
+        "source": "urn:270:07860.jpg"
+      },
+      {
+        "ordinal": 92,
+        "label": "黃尖白根舌",
+        "source": "urn:270:07861.jpg"
+      },
+      {
+        "ordinal": 94,
+        "label": "黃根白尖舌",
+        "source": "urn:270:07862.jpg"
+      },
+      {
+        "ordinal": 96,
+        "label": "黃根灰尖舌",
+        "source": "urn:270:07863.jpg"
+      },
+      {
+        "ordinal": 98,
+        "label": "黃根白尖短縮舌",
+        "source": "urn:270:07864.jpg"
+      },
+      {
+        "ordinal": 102,
+        "label": "純黑舌",
+        "source": "urn:270:07865.jpg"
+      },
+      {
+        "ordinal": 104,
+        "label": "黑苔瓣底紅舌",
+        "source": "urn:270:07866.jpg"
+      },
+      {
+        "ordinal": 106,
+        "label": "黑苔瓣底黑舌",
+        "source": "urn:270:07867.jpg"
+      },
+      {
+        "ordinal": 108,
+        "label": "滿黑刺底紅舌",
+        "source": "urn:270:07868.jpg"
+      },
+      {
+        "ordinal": 110,
+        "label": "刺底黑舌",
+        "source": "urn:270:07869.jpg"
+      },
+      {
+        "ordinal": 112,
+        "label": "黑爛自齧舌",
+        "source": "urn:270:07870.jpg"
+      },
+      {
+        "ordinal": 114,
+        "label": "中黑邊白滑苔舌",
+        "source": "urn:270:07871.jpg"
+      },
+      {
+        "ordinal": 116,
+        "label": "紅邊中黑滑舌",
+        "source": "urn:270:07872.jpg"
+      },
+      {
+        "ordinal": 118,
+        "label": "通尖黑干邊白舌",
+        "source": "urn:270:07873.jpg"
+      },
+      {
+        "ordinal": 120,
+        "label": "黑邊暈內微紅舌",
+        "source": "urn:270:07874.jpg"
+      },
+      {
+        "ordinal": 122,
+        "label": "中燥舌",
+        "source": "urn:270:07875.jpg"
+      },
+      {
+        "ordinal": 124,
+        "label": "中黑無苔乾燥舌",
+        "source": "urn:270:07876.jpg"
+      },
+      {
+        "ordinal": 126,
+        "label": "黑中無苔枯瘦舌",
+        "source": "urn:270:07877.jpg"
+      },
+      {
+        "ordinal": 128,
+        "label": "黑干短舌",
+        "source": "urn:270:07878.jpg"
+      },
+      {
+        "ordinal": 132,
+        "label": "純灰舌",
+        "source": "urn:270:07879.jpg"
+      },
+      {
+        "ordinal": 134,
+        "label": "灰中舌",
+        "source": "urn:270:07880.jpg"
+      },
+      {
+        "ordinal": 136,
+        "label": "灰黑苔干紋裂舌",
+        "source": "urn:270:07881.jpg"
+      },
+      {
+        "ordinal": 138,
+        "label": "灰根黃尖中赤舌",
+        "source": "urn:270:07882.jpg"
+      },
+      {
+        "ordinal": 140,
+        "label": "灰色重暈舌",
+        "source": "urn:270:07883.jpg"
+      },
+      {
+        "ordinal": 142,
+        "label": "灰黑干刺舌",
+        "source": "urn:270:07884.jpg"
+      },
+      {
+        "ordinal": 144,
+        "label": "灰黑尖舌",
+        "source": "urn:270:07885.jpg"
+      },
+      {
+        "ordinal": 146,
+        "label": "灰黑尖干刺舌",
+        "source": "urn:270:07886.jpg"
+      },
+      {
+        "ordinal": 148,
+        "label": "灰中墨滑舌",
+        "source": "urn:270:07887.jpg"
+      },
+      {
+        "ordinal": 150,
+        "label": "灰黑多黃根少舌",
+        "source": "urn:270:07888.jpg"
+      },
+      {
+        "ordinal": 152,
+        "label": "邊灰中紫舌",
+        "source": "urn:270:07889.jpg"
+      },
+      {
+        "ordinal": 156,
+        "label": "純紅舌",
+        "source": "urn:270:07890.jpg"
+      },
+      {
+        "ordinal": 158,
+        "label": "紅中淡黑舌",
+        "source": "urn:270:07891.jpg"
+      },
+      {
+        "ordinal": 160,
+        "label": "紅中焦黑舌",
+        "source": "urn:270:07892.jpg"
+      },
+      {
+        "ordinal": 162,
+        "label": "紅中黑斑舌",
+        "source": "urn:270:07893.jpg"
+      },
+      {
+        "ordinal": 164,
+        "label": "紅內黑尖舌",
+        "source": "urn:270:07894.jpg"
+      },
+      {
+        "ordinal": 166,
+        "label": "紅色人字紋裂舌",
+        "source": "urn:270:07895.jpg"
+      },
+      {
+        "ordinal": 168,
+        "label": "紅斷紋裂舌",
+        "source": "urn:270:07896.jpg"
+      },
+      {
+        "ordinal": 170,
+        "label": "紅內紅星舌",
+        "source": "urn:270:07897.jpg"
+      },
+      {
+        "ordinal": 172,
+        "label": "深紅蟲碎舌",
+        "source": "urn:270:07898.jpg"
+      },
+      {
+        "ordinal": 174,
+        "label": "紅色紫瘡舌",
+        "source": "urn:270:07899.jpg"
+      },
+      {
+        "ordinal": 176,
+        "label": "紅中微黃根舌",
+        "source": "urn:270:07900.jpg"
+      },
+      {
+        "ordinal": 178,
+        "label": "紅中微黃滑舌",
+        "source": "urn:270:07901.jpg"
+      },
+      {
+        "ordinal": 180,
+        "label": "紅長脹出口外舌",
+        "source": "urn:270:07902.jpg"
+      },
+      {
+        "ordinal": 182,
+        "label": "紅餂舌",
+        "source": "urn:270:07903.jpg"
+      },
+      {
+        "ordinal": 184,
+        "label": "紅痿舌",
+        "source": "urn:270:07904.jpg"
+      },
+      {
+        "ordinal": 186,
+        "label": "紅硬舌",
+        "source": "urn:270:07905.jpg"
+      },
+      {
+        "ordinal": 188,
+        "label": "紅尖出血舌",
+        "source": "urn:270:07906.jpg"
+      },
+      {
+        "ordinal": 190,
+        "label": "紅中雙灰干舌",
+        "source": "urn:270:07907.jpg"
+      },
+      {
+        "ordinal": 192,
+        "label": "紅尖白根舌",
+        "source": "urn:270:07908.jpg"
+      },
+      {
+        "ordinal": 194,
+        "label": "紅戰舌",
+        "source": "urn:270:07909.jpg"
+      },
+      {
+        "ordinal": 196,
+        "label": "紅細枯長舌",
+        "source": "urn:270:07910.jpg"
+      },
+      {
+        "ordinal": 198,
+        "label": "紅短白疱舌",
+        "source": "urn:270:07911.jpg"
+      },
+      {
+        "ordinal": 200,
+        "label": "邊紅通尖黑干舌",
+        "source": "urn:270:07912.jpg"
+      },
+      {
+        "ordinal": 202,
+        "label": "紅尖紫刺舌",
+        "source": "urn:270:07913.jpg"
+      },
+      {
+        "ordinal": 204,
+        "label": "紅尖黑根舌",
+        "source": "urn:270:07914.jpg"
+      },
+      {
+        "ordinal": 206,
+        "label": "紅嫩無津舌",
+        "source": "urn:270:07915.jpg"
+      },
+      {
+        "ordinal": 210,
+        "label": "純紫舌",
+        "source": "urn:270:07916.jpg"
+      },
+      {
+        "ordinal": 212,
+        "label": "紫中紅斑舌",
+        "source": "urn:270:07917.jpg"
+      },
+      {
+        "ordinal": 214,
+        "label": "紫上白滑舌",
+        "source": "urn:270:07918.jpg"
+      },
+      {
+        "ordinal": 216,
+        "label": "淡紫青筋舌",
+        "source": "urn:270:07919.jpg"
+      },
+      {
+        "ordinal": 218,
+        "label": "紫上赤腫乾焦舌",
+        "source": "urn:270:07920.jpg"
+      },
+      {
+        "ordinal": 220,
+        "label": "紫上黃苔乾燥舌",
+        "source": "urn:270:07921.jpg"
+      },
+      {
+        "ordinal": 222,
+        "label": "紫短舌",
+        "source": "urn:270:07922.jpg"
+      },
+      {
+        "ordinal": 224,
+        "label": "紫上黃苔濕潤舌",
+        "source": "urn:270:07923.jpg"
+      },
+      {
+        "ordinal": 226,
+        "label": "紫尖蓓蕾舌",
+        "source": "urn:270:07924.jpg"
+      },
+      {
+        "ordinal": 228,
+        "label": "熟紫老幹舌",
+        "source": "urn:270:07925.jpg"
+      },
+      {
+        "ordinal": 230,
+        "label": "淡紫帶青舌",
+        "source": "urn:270:07926.jpg"
+      },
+      {
+        "ordinal": 232,
+        "label": "淡紫灰心舌",
+        "source": "urn:270:07927.jpg"
+      },
+      {
+        "ordinal": 236,
+        "label": "純黴醬色舌",
+        "source": "urn:270:07928.jpg"
+      },
+      {
+        "ordinal": 238,
+        "label": "中黴浮厚舌",
+        "source": "urn:270:07929.jpg"
+      },
+      {
+        "ordinal": 240,
+        "label": "黴色中黃苔舌",
+        "source": "urn:270:07930.jpg"
+      },
+      {
+        "ordinal": 244,
+        "label": "微藍舌",
+        "source": "urn:270:07931.jpg"
+      },
+      {
+        "ordinal": 246,
+        "label": "藍紋舌",
+        "source": "urn:270:07932.jpg"
+      },
+      {
+        "ordinal": 250,
+        "label": "孕婦傷寒白苔舌",
+        "source": "urn:270:07933.jpg"
+      },
+      {
+        "ordinal": 252,
+        "label": "孕婦傷寒黃苔舌",
+        "source": "urn:270:07934.jpg"
+      },
+      {
+        "ordinal": 254,
+        "label": "孕婦傷寒灰黑舌",
+        "source": "urn:270:07935.jpg"
+      },
+      {
+        "ordinal": 256,
+        "label": "孕婦傷寒純赤舌",
+        "source": "urn:270:07936.jpg"
+      },
+      {
+        "ordinal": 258,
+        "label": "孕婦傷寒紫青舌",
+        "source": "urn:270:07937.jpg"
+      },
+      {
+        "ordinal": 260,
+        "label": "孕婦傷寒卷短舌",
+        "source": "urn:270:07938.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 10,
+      "paragraph_blocks": 251,
+      "nonempty_paragraph_blocks": 251,
+      "represented_paragraph_blocks": 251
+    }
+  }
+]

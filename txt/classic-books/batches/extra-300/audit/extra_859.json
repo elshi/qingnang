@@ -1,0 +1,121 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%99%98%E7%98%8D%E6%A9%9F%E8%A6%81/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "上卷",
+        "path": [
+          "上卷"
+        ]
+      },
+      {
+        "ordinal": 6,
+        "level": 2,
+        "title": "本症治法",
+        "path": [
+          "上卷",
+          "本症治法"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 2,
+        "title": "兼症治法",
+        "path": [
+          "上卷",
+          "兼症治法"
+        ]
+      },
+      {
+        "ordinal": 30,
+        "level": 2,
+        "title": "變症治法",
+        "path": [
+          "上卷",
+          "變症治法"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 2,
+        "title": "癘瘍類症",
+        "path": [
+          "上卷",
+          "癘瘍類症"
+        ]
+      },
+      {
+        "ordinal": 68,
+        "level": 2,
+        "title": "本症治驗",
+        "path": [
+          "上卷",
+          "本症治驗"
+        ]
+      },
+      {
+        "ordinal": 82,
+        "level": 2,
+        "title": "類症治驗",
+        "path": [
+          "上卷",
+          "類症治驗"
+        ]
+      },
+      {
+        "ordinal": 124,
+        "level": 1,
+        "title": "中卷",
+        "path": [
+          "中卷"
+        ]
+      },
+      {
+        "ordinal": 125,
+        "level": 2,
+        "title": "續治諸症",
+        "path": [
+          "中卷",
+          "續治諸症"
+        ]
+      },
+      {
+        "ordinal": 197,
+        "level": 1,
+        "title": "下卷",
+        "path": [
+          "下卷"
+        ]
+      },
+      {
+        "ordinal": 198,
+        "level": 2,
+        "title": "各症方藥",
+        "path": [
+          "下卷",
+          "各症方藥"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 12,
+      "paragraph_blocks": 409,
+      "nonempty_paragraph_blocks": 409,
+      "represented_paragraph_blocks": 409
+    }
+  }
+]

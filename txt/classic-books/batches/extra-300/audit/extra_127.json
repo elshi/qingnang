@@ -1,0 +1,534 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E6%95%96%E6%B0%8F%E5%82%B7%E5%AF%92%E9%87%91%E9%8F%A1%E9%8C%84/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "續刊傷寒金鏡錄原序",
+        "path": [
+          "續刊傷寒金鏡錄原序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "原序",
+        "path": [
+          "原序"
+        ]
+      },
+      {
+        "ordinal": 9,
+        "level": 1,
+        "title": "原序",
+        "path": [
+          "原序"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 1,
+        "title": "傷寒用藥說",
+        "path": [
+          "傷寒用藥說"
+        ]
+      },
+      {
+        "ordinal": 16,
+        "level": 1,
+        "title": "第一·白苔舌",
+        "path": [
+          "第一·白苔舌"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 1,
+        "title": "第二·將瘟舌",
+        "path": [
+          "第二·將瘟舌"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 1,
+        "title": "第三·中焙舌",
+        "path": [
+          "第三·中焙舌"
+        ]
+      },
+      {
+        "ordinal": 48,
+        "level": 1,
+        "title": "第四·生斑舌",
+        "path": [
+          "第四·生斑舌"
+        ]
+      },
+      {
+        "ordinal": 56,
+        "level": 1,
+        "title": "第五·紅星舌",
+        "path": [
+          "第五·紅星舌"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 1,
+        "title": "第六·黑尖舌",
+        "path": [
+          "第六·黑尖舌"
+        ]
+      },
+      {
+        "ordinal": 72,
+        "level": 1,
+        "title": "第七·里圈舌",
+        "path": [
+          "第七·里圈舌"
+        ]
+      },
+      {
+        "ordinal": 80,
+        "level": 1,
+        "title": "第八·人裂舌",
+        "path": [
+          "第八·人裂舌"
+        ]
+      },
+      {
+        "ordinal": 85,
+        "level": 1,
+        "title": "第九·蟲碎舌",
+        "path": [
+          "第九·蟲碎舌"
+        ]
+      },
+      {
+        "ordinal": 93,
+        "level": 1,
+        "title": "第十·厥陰舌",
+        "path": [
+          "第十·厥陰舌"
+        ]
+      },
+      {
+        "ordinal": 105,
+        "level": 1,
+        "title": "第十一·里黑舌",
+        "path": [
+          "第十一·里黑舌"
+        ]
+      },
+      {
+        "ordinal": 110,
+        "level": 1,
+        "title": "第十二·死現舌",
+        "path": [
+          "第十二·死現舌"
+        ]
+      },
+      {
+        "ordinal": 114,
+        "level": 1,
+        "title": "第十三·黃苔舌",
+        "path": [
+          "第十三·黃苔舌"
+        ]
+      },
+      {
+        "ordinal": 124,
+        "level": 1,
+        "title": "第十四·黑心舌",
+        "path": [
+          "第十四·黑心舌"
+        ]
+      },
+      {
+        "ordinal": 129,
+        "level": 1,
+        "title": "第十五·尖白根黑舌",
+        "path": [
+          "第十五·尖白根黑舌"
+        ]
+      },
+      {
+        "ordinal": 142,
+        "level": 1,
+        "title": "第十六·白苔黑點舌",
+        "path": [
+          "第十六·白苔黑點舌"
+        ]
+      },
+      {
+        "ordinal": 147,
+        "level": 1,
+        "title": "第十七·灰苔黑暈舌",
+        "path": [
+          "第十七·灰苔黑暈舌"
+        ]
+      },
+      {
+        "ordinal": 152,
+        "level": 1,
+        "title": "第十八·微黃舌",
+        "path": [
+          "第十八·微黃舌"
+        ]
+      },
+      {
+        "ordinal": 160,
+        "level": 1,
+        "title": "第十九·白苔邊黃舌",
+        "path": [
+          "第十九·白苔邊黃舌"
+        ]
+      },
+      {
+        "ordinal": 165,
+        "level": 1,
+        "title": "第二十·微黃舌",
+        "path": [
+          "第二十·微黃舌"
+        ]
+      },
+      {
+        "ordinal": 174,
+        "level": 1,
+        "title": "第二十一·黃心舌",
+        "path": [
+          "第二十一·黃心舌"
+        ]
+      },
+      {
+        "ordinal": 179,
+        "level": 1,
+        "title": "第二十二·左邊白苔舌",
+        "path": [
+          "第二十二·左邊白苔舌"
+        ]
+      },
+      {
+        "ordinal": 184,
+        "level": 1,
+        "title": "第二十三·右邊白滑舌",
+        "path": [
+          "第二十三·右邊白滑舌"
+        ]
+      },
+      {
+        "ordinal": 188,
+        "level": 1,
+        "title": "第二十四·左邊白滑舌",
+        "path": [
+          "第二十四·左邊白滑舌"
+        ]
+      },
+      {
+        "ordinal": 192,
+        "level": 1,
+        "title": "第二十五·中黃邊白舌",
+        "path": [
+          "第二十五·中黃邊白舌"
+        ]
+      },
+      {
+        "ordinal": 197,
+        "level": 1,
+        "title": "第二十六·黃苔黑點舌",
+        "path": [
+          "第二十六·黃苔黑點舌"
+        ]
+      },
+      {
+        "ordinal": 206,
+        "level": 1,
+        "title": "第二十七·根黃尖白舌",
+        "path": [
+          "第二十七·根黃尖白舌"
+        ]
+      },
+      {
+        "ordinal": 215,
+        "level": 1,
+        "title": "第二十八·純黃隔瓣舌",
+        "path": [
+          "第二十八·純黃隔瓣舌"
+        ]
+      },
+      {
+        "ordinal": 243,
+        "level": 1,
+        "title": "第二十九·微紅黑灰舌",
+        "path": [
+          "第二十九·微紅黑灰舌"
+        ]
+      },
+      {
+        "ordinal": 248,
+        "level": 1,
+        "title": "第三十·黃色黑點舌",
+        "path": [
+          "第三十·黃色黑點舌"
+        ]
+      },
+      {
+        "ordinal": 253,
+        "level": 1,
+        "title": "第三十一·黃苔黑中舌",
+        "path": [
+          "第三十一·黃苔黑中舌"
+        ]
+      },
+      {
+        "ordinal": 258,
+        "level": 1,
+        "title": "第三十二·邊紅黑心舌",
+        "path": [
+          "第三十二·邊紅黑心舌"
+        ]
+      },
+      {
+        "ordinal": 263,
+        "level": 1,
+        "title": "第三十三·灰色尖黃舌",
+        "path": [
+          "第三十三·灰色尖黃舌"
+        ]
+      },
+      {
+        "ordinal": 267,
+        "level": 1,
+        "title": "第三十四·灰黑起紋舌",
+        "path": [
+          "第三十四·灰黑起紋舌"
+        ]
+      },
+      {
+        "ordinal": 272,
+        "level": 1,
+        "title": "第三十五·根黑尖黃舌",
+        "path": [
+          "第三十五·根黑尖黃舌"
+        ]
+      },
+      {
+        "ordinal": 277,
+        "level": 1,
+        "title": "第三十六·根灰尖黃舌",
+        "path": [
+          "第三十六·根灰尖黃舌"
+        ]
+      },
+      {
+        "ordinal": 282,
+        "level": 1,
+        "title": "結語",
+        "path": [
+          "結語"
+        ]
+      },
+      {
+        "ordinal": 289,
+        "level": 1,
+        "title": "後序",
+        "path": [
+          "後序"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 18,
+        "label": "白胎舌圖",
+        "source": "urn:270:07782.jpg"
+      },
+      {
+        "ordinal": 30,
+        "label": "將瘟舌圖",
+        "source": "urn:270:07783.jpg"
+      },
+      {
+        "ordinal": 38,
+        "label": "中焙舌圖",
+        "source": "urn:270:07784.jpg"
+      },
+      {
+        "ordinal": 50,
+        "label": "生斑舌圖",
+        "source": "urn:270:07785.jpg"
+      },
+      {
+        "ordinal": 57,
+        "label": "紅星舌圖",
+        "source": "urn:270:07786.jpg"
+      },
+      {
+        "ordinal": 65,
+        "label": "黑尖舌圖",
+        "source": "urn:270:07787.jpg"
+      },
+      {
+        "ordinal": 74,
+        "label": "里圈舌圖",
+        "source": "urn:270:07788.jpg"
+      },
+      {
+        "ordinal": 82,
+        "label": "人裂舌圖",
+        "source": "urn:270:07789.jpg"
+      },
+      {
+        "ordinal": 87,
+        "label": "蟲碎舌圖",
+        "source": "urn:270:07790.jpg"
+      },
+      {
+        "ordinal": 94,
+        "label": "厥陰舌圖",
+        "source": "urn:270:07791.jpg"
+      },
+      {
+        "ordinal": 107,
+        "label": "里黑舌圖",
+        "source": "urn:270:07792.jpg"
+      },
+      {
+        "ordinal": 112,
+        "label": "死現舌圖",
+        "source": "urn:270:07793.jpg"
+      },
+      {
+        "ordinal": 116,
+        "label": "黃苔舌圖",
+        "source": "urn:270:07794.jpg"
+      },
+      {
+        "ordinal": 126,
+        "label": "黑心舌圖",
+        "source": "urn:270:07795.jpg"
+      },
+      {
+        "ordinal": 131,
+        "label": "尖白根黑舌圖",
+        "source": "urn:270:07796.jpg"
+      },
+      {
+        "ordinal": 144,
+        "label": "白苔黑點舌圖",
+        "source": "urn:270:07797.jpg"
+      },
+      {
+        "ordinal": 149,
+        "label": "灰苔黑暈舌圖",
+        "source": "urn:270:07798.jpg"
+      },
+      {
+        "ordinal": 154,
+        "label": "微黃舌圖",
+        "source": "urn:270:07799.jpg"
+      },
+      {
+        "ordinal": 162,
+        "label": "白苔邊黃舌圖",
+        "source": "urn:270:07800.jpg"
+      },
+      {
+        "ordinal": 167,
+        "label": "微黃舌圖",
+        "source": "urn:270:07801.jpg"
+      },
+      {
+        "ordinal": 176,
+        "label": "黃心舌圖",
+        "source": "urn:270:07802.jpg"
+      },
+      {
+        "ordinal": 181,
+        "label": "左邊白苔舌圖",
+        "source": "urn:270:07803.jpg"
+      },
+      {
+        "ordinal": 186,
+        "label": "右邊白滑舌圖",
+        "source": "urn:270:07804.jpg"
+      },
+      {
+        "ordinal": 190,
+        "label": "左邊白滑舌圖",
+        "source": "urn:270:07805.jpg"
+      },
+      {
+        "ordinal": 194,
+        "label": "中黃邊白舌圖",
+        "source": "urn:270:07806.jpg"
+      },
+      {
+        "ordinal": 199,
+        "label": "黃苔黑點舌圖",
+        "source": "urn:270:07807.jpg"
+      },
+      {
+        "ordinal": 208,
+        "label": "根黃尖白舌圖",
+        "source": "urn:270:07808.jpg"
+      },
+      {
+        "ordinal": 217,
+        "label": "純黃隔瓣舌圖",
+        "source": "urn:270:07809.jpg"
+      },
+      {
+        "ordinal": 245,
+        "label": "微紅黑灰舌圖",
+        "source": "urn:270:07810.jpg"
+      },
+      {
+        "ordinal": 250,
+        "label": "黃色黑點舌圖",
+        "source": "urn:270:07811.jpg"
+      },
+      {
+        "ordinal": 255,
+        "label": "黃苔黑中舌圖",
+        "source": "urn:270:07812.jpg"
+      },
+      {
+        "ordinal": 260,
+        "label": "邊紅黑心舌圖",
+        "source": "urn:270:07813.jpg"
+      },
+      {
+        "ordinal": 265,
+        "label": "灰色尖黃舌圖",
+        "source": "urn:270:07814.jpg"
+      },
+      {
+        "ordinal": 269,
+        "label": "灰黑起紋舌圖",
+        "source": "urn:270:07815.jpg"
+      },
+      {
+        "ordinal": 274,
+        "label": "根黑尖黃舌圖",
+        "source": "urn:270:07816.jpg"
+      },
+      {
+        "ordinal": 279,
+        "label": "根灰尖黃舌圖",
+        "source": "urn:270:07817.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 42,
+      "paragraph_blocks": 251,
+      "nonempty_paragraph_blocks": 251,
+      "represented_paragraph_blocks": 251
+    }
+  }
+]

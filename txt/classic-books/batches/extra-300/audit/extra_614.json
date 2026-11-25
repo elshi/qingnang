@@ -1,0 +1,799 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E8%A1%80%E8%AD%89%E8%AB%96/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "自序",
+        "path": [
+          "自序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "凡例",
+        "path": [
+          "凡例"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 11,
+        "level": 2,
+        "title": "陰陽水火氣血論",
+        "path": [
+          "卷一",
+          "陰陽水火氣血論"
+        ]
+      },
+      {
+        "ordinal": 13,
+        "level": 2,
+        "title": "男女異同論",
+        "path": [
+          "卷一",
+          "男女異同論"
+        ]
+      },
+      {
+        "ordinal": 18,
+        "level": 2,
+        "title": "臟腑病機論",
+        "path": [
+          "卷一",
+          "臟腑病機論"
+        ]
+      },
+      {
+        "ordinal": 29,
+        "level": 2,
+        "title": "脈證死生論",
+        "path": [
+          "卷一",
+          "脈證死生論"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 2,
+        "title": "用藥宜忌論",
+        "path": [
+          "卷一",
+          "用藥宜忌論"
+        ]
+      },
+      {
+        "ordinal": 33,
+        "level": 2,
+        "title": "本書補救論",
+        "path": [
+          "卷一",
+          "本書補救論"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 1,
+        "title": "卷二",
+        "path": [
+          "卷二"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 2,
+        "title": "吐血",
+        "path": [
+          "卷二",
+          "吐血"
+        ]
+      },
+      {
+        "ordinal": 42,
+        "level": 2,
+        "title": "嘔血",
+        "path": [
+          "卷二",
+          "嘔血"
+        ]
+      },
+      {
+        "ordinal": 50,
+        "level": 2,
+        "title": "咯血",
+        "path": [
+          "卷二",
+          "咯血"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 2,
+        "title": "唾血",
+        "path": [
+          "卷二",
+          "唾血"
+        ]
+      },
+      {
+        "ordinal": 57,
+        "level": 2,
+        "title": "咳血",
+        "path": [
+          "卷二",
+          "咳血"
+        ]
+      },
+      {
+        "ordinal": 68,
+        "level": 2,
+        "title": "鼻衄",
+        "path": [
+          "卷二",
+          "鼻衄"
+        ]
+      },
+      {
+        "ordinal": 77,
+        "level": 2,
+        "title": "腦衄",
+        "path": [
+          "卷二",
+          "腦衄"
+        ]
+      },
+      {
+        "ordinal": 80,
+        "level": 2,
+        "title": "目衄",
+        "path": [
+          "卷二",
+          "目衄"
+        ]
+      },
+      {
+        "ordinal": 86,
+        "level": 2,
+        "title": "耳衄",
+        "path": [
+          "卷二",
+          "耳衄"
+        ]
+      },
+      {
+        "ordinal": 89,
+        "level": 2,
+        "title": "齒衄",
+        "path": [
+          "卷二",
+          "齒衄"
+        ]
+      },
+      {
+        "ordinal": 94,
+        "level": 2,
+        "title": "舌衄",
+        "path": [
+          "卷二",
+          "舌衄"
+        ]
+      },
+      {
+        "ordinal": 97,
+        "level": 2,
+        "title": "大衄",
+        "path": [
+          "卷二",
+          "大衄"
+        ]
+      },
+      {
+        "ordinal": 99,
+        "level": 2,
+        "title": "零腥",
+        "path": [
+          "卷二",
+          "零腥"
+        ]
+      },
+      {
+        "ordinal": 101,
+        "level": 2,
+        "title": "吐膿",
+        "path": [
+          "卷二",
+          "吐膿"
+        ]
+      },
+      {
+        "ordinal": 107,
+        "level": 1,
+        "title": "卷三",
+        "path": [
+          "卷三"
+        ]
+      },
+      {
+        "ordinal": 108,
+        "level": 2,
+        "title": "汗血",
+        "path": [
+          "卷三",
+          "汗血"
+        ]
+      },
+      {
+        "ordinal": 112,
+        "level": 2,
+        "title": "血箭",
+        "path": [
+          "卷三",
+          "血箭"
+        ]
+      },
+      {
+        "ordinal": 116,
+        "level": 2,
+        "title": "血痣",
+        "path": [
+          "卷三",
+          "血痣"
+        ]
+      },
+      {
+        "ordinal": 119,
+        "level": 2,
+        "title": "血瘙",
+        "path": [
+          "卷三",
+          "血瘙"
+        ]
+      },
+      {
+        "ordinal": 122,
+        "level": 2,
+        "title": "瘡血",
+        "path": [
+          "卷三",
+          "瘡血"
+        ]
+      },
+      {
+        "ordinal": 131,
+        "level": 2,
+        "title": "創血",
+        "path": [
+          "卷三",
+          "創血"
+        ]
+      },
+      {
+        "ordinal": 140,
+        "level": 2,
+        "title": "跌打血",
+        "path": [
+          "卷三",
+          "跌打血"
+        ]
+      },
+      {
+        "ordinal": 146,
+        "level": 1,
+        "title": "卷四",
+        "path": [
+          "卷四"
+        ]
+      },
+      {
+        "ordinal": 147,
+        "level": 2,
+        "title": "便血",
+        "path": [
+          "卷四",
+          "便血"
+        ]
+      },
+      {
+        "ordinal": 158,
+        "level": 2,
+        "title": "便膿",
+        "path": [
+          "卷四",
+          "便膿"
+        ]
+      },
+      {
+        "ordinal": 172,
+        "level": 2,
+        "title": "尿血",
+        "path": [
+          "卷四",
+          "尿血"
+        ]
+      },
+      {
+        "ordinal": 178,
+        "level": 2,
+        "title": "經血",
+        "path": [
+          "卷四",
+          "經血"
+        ]
+      },
+      {
+        "ordinal": 184,
+        "level": 2,
+        "title": "崩帶",
+        "path": [
+          "卷四",
+          "崩帶"
+        ]
+      },
+      {
+        "ordinal": 189,
+        "level": 2,
+        "title": "產血",
+        "path": [
+          "卷四",
+          "產血"
+        ]
+      },
+      {
+        "ordinal": 202,
+        "level": 1,
+        "title": "卷五",
+        "path": [
+          "卷五"
+        ]
+      },
+      {
+        "ordinal": 203,
+        "level": 2,
+        "title": "瘀血",
+        "path": [
+          "卷五",
+          "瘀血"
+        ]
+      },
+      {
+        "ordinal": 217,
+        "level": 2,
+        "title": "蓄血",
+        "path": [
+          "卷五",
+          "蓄血"
+        ]
+      },
+      {
+        "ordinal": 219,
+        "level": 2,
+        "title": "血臌",
+        "path": [
+          "卷五",
+          "血臌"
+        ]
+      },
+      {
+        "ordinal": 226,
+        "level": 2,
+        "title": "經閉",
+        "path": [
+          "卷五",
+          "經閉"
+        ]
+      },
+      {
+        "ordinal": 234,
+        "level": 2,
+        "title": "胎氣",
+        "path": [
+          "卷五",
+          "胎氣"
+        ]
+      },
+      {
+        "ordinal": 255,
+        "level": 1,
+        "title": "卷六",
+        "path": [
+          "卷六"
+        ]
+      },
+      {
+        "ordinal": 256,
+        "level": 2,
+        "title": "癆瘵",
+        "path": [
+          "卷六",
+          "癆瘵"
+        ]
+      },
+      {
+        "ordinal": 262,
+        "level": 2,
+        "title": "咳嗽",
+        "path": [
+          "卷六",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 274,
+        "level": 2,
+        "title": "發熱",
+        "path": [
+          "卷六",
+          "發熱"
+        ]
+      },
+      {
+        "ordinal": 282,
+        "level": 2,
+        "title": "厥冷",
+        "path": [
+          "卷六",
+          "厥冷"
+        ]
+      },
+      {
+        "ordinal": 285,
+        "level": 2,
+        "title": "寒熱",
+        "path": [
+          "卷六",
+          "寒熱"
+        ]
+      },
+      {
+        "ordinal": 287,
+        "level": 2,
+        "title": "出汗",
+        "path": [
+          "卷六",
+          "出汗"
+        ]
+      },
+      {
+        "ordinal": 292,
+        "level": 2,
+        "title": "發渴",
+        "path": [
+          "卷六",
+          "發渴"
+        ]
+      },
+      {
+        "ordinal": 298,
+        "level": 2,
+        "title": "心煩",
+        "path": [
+          "卷六",
+          "心煩"
+        ]
+      },
+      {
+        "ordinal": 302,
+        "level": 2,
+        "title": "臥寐",
+        "path": [
+          "卷六",
+          "臥寐"
+        ]
+      },
+      {
+        "ordinal": 314,
+        "level": 2,
+        "title": "喘息",
+        "path": [
+          "卷六",
+          "喘息"
+        ]
+      },
+      {
+        "ordinal": 320,
+        "level": 2,
+        "title": "呃噦",
+        "path": [
+          "卷六",
+          "呃噦"
+        ]
+      },
+      {
+        "ordinal": 323,
+        "level": 2,
+        "title": "痰飲",
+        "path": [
+          "卷六",
+          "痰飲"
+        ]
+      },
+      {
+        "ordinal": 331,
+        "level": 2,
+        "title": "痞滿",
+        "path": [
+          "卷六",
+          "痞滿"
+        ]
+      },
+      {
+        "ordinal": 337,
+        "level": 2,
+        "title": "腫脹",
+        "path": [
+          "卷六",
+          "腫脹"
+        ]
+      },
+      {
+        "ordinal": 341,
+        "level": 2,
+        "title": "怔忡",
+        "path": [
+          "卷六",
+          "怔忡"
+        ]
+      },
+      {
+        "ordinal": 345,
+        "level": 2,
+        "title": "驚悸",
+        "path": [
+          "卷六",
+          "驚悸"
+        ]
+      },
+      {
+        "ordinal": 348,
+        "level": 2,
+        "title": "健忘",
+        "path": [
+          "卷六",
+          "健忘"
+        ]
+      },
+      {
+        "ordinal": 350,
+        "level": 2,
+        "title": "恍惚",
+        "path": [
+          "卷六",
+          "恍惚"
+        ]
+      },
+      {
+        "ordinal": 356,
+        "level": 2,
+        "title": "暈痛",
+        "path": [
+          "卷六",
+          "暈痛"
+        ]
+      },
+      {
+        "ordinal": 362,
+        "level": 2,
+        "title": "眼目",
+        "path": [
+          "卷六",
+          "眼目"
+        ]
+      },
+      {
+        "ordinal": 370,
+        "level": 2,
+        "title": "耳病",
+        "path": [
+          "卷六",
+          "耳病"
+        ]
+      },
+      {
+        "ordinal": 373,
+        "level": 2,
+        "title": "口舌",
+        "path": [
+          "卷六",
+          "口舌"
+        ]
+      },
+      {
+        "ordinal": 378,
+        "level": 2,
+        "title": "咽喉",
+        "path": [
+          "卷六",
+          "咽喉"
+        ]
+      },
+      {
+        "ordinal": 381,
+        "level": 2,
+        "title": "聲音",
+        "path": [
+          "卷六",
+          "聲音"
+        ]
+      },
+      {
+        "ordinal": 384,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "卷六",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 386,
+        "level": 2,
+        "title": "痹痛",
+        "path": [
+          "卷六",
+          "痹痛"
+        ]
+      },
+      {
+        "ordinal": 389,
+        "level": 2,
+        "title": "痿廢",
+        "path": [
+          "卷六",
+          "痿廢"
+        ]
+      },
+      {
+        "ordinal": 392,
+        "level": 2,
+        "title": "遺精",
+        "path": [
+          "卷六",
+          "遺精"
+        ]
+      },
+      {
+        "ordinal": 395,
+        "level": 2,
+        "title": "淋濁",
+        "path": [
+          "卷六",
+          "淋濁"
+        ]
+      },
+      {
+        "ordinal": 406,
+        "level": 2,
+        "title": "便閉",
+        "path": [
+          "卷六",
+          "便閉"
+        ]
+      },
+      {
+        "ordinal": 413,
+        "level": 2,
+        "title": "瀉泄",
+        "path": [
+          "卷六",
+          "瀉泄"
+        ]
+      },
+      {
+        "ordinal": 423,
+        "level": 2,
+        "title": "飲食",
+        "path": [
+          "卷六",
+          "飲食"
+        ]
+      },
+      {
+        "ordinal": 427,
+        "level": 2,
+        "title": "感冒",
+        "path": [
+          "卷六",
+          "感冒"
+        ]
+      },
+      {
+        "ordinal": 431,
+        "level": 2,
+        "title": "痙掣",
+        "path": [
+          "卷六",
+          "痙掣"
+        ]
+      },
+      {
+        "ordinal": 438,
+        "level": 2,
+        "title": "暑疫",
+        "path": [
+          "卷六",
+          "暑疫"
+        ]
+      },
+      {
+        "ordinal": 441,
+        "level": 2,
+        "title": "食復",
+        "path": [
+          "卷六",
+          "食復"
+        ]
+      },
+      {
+        "ordinal": 443,
+        "level": 2,
+        "title": "勞復",
+        "path": [
+          "卷六",
+          "勞復"
+        ]
+      },
+      {
+        "ordinal": 448,
+        "level": 2,
+        "title": "時復",
+        "path": [
+          "卷六",
+          "時復"
+        ]
+      },
+      {
+        "ordinal": 455,
+        "level": 2,
+        "title": "房勞復",
+        "path": [
+          "卷六",
+          "房勞復"
+        ]
+      },
+      {
+        "ordinal": 457,
+        "level": 2,
+        "title": "附抱兒癆論",
+        "path": [
+          "卷六",
+          "附抱兒癆論"
+        ]
+      },
+      {
+        "ordinal": 466,
+        "level": 1,
+        "title": "卷七",
+        "path": [
+          "卷七"
+        ]
+      },
+      {
+        "ordinal": 705,
+        "level": 1,
+        "title": "卷八",
+        "path": [
+          "卷八"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 88,
+      "paragraph_blocks": 946,
+      "nonempty_paragraph_blocks": 946,
+      "represented_paragraph_blocks": 946
+    }
+  }
+]

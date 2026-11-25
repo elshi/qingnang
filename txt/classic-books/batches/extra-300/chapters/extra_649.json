@@ -1,0 +1,3887 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_649",
+    "name": "阴证略例",
+    "summary": "《阴证略例》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“祭神应王文”、“岐伯阴阳脉例”、“洁古老人内伤三阴例”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "元",
+    "author": "王好古",
+    "jp": "YZLL",
+    "aliases": [
+      "陰證略例"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "0fdb3fb68ec13962001ae1e1",
+      "title": "序",
+      "volume": null,
+      "content": "人生天地间，而阴阳命之气，其受病亦不外乎此。医家言视证察脉，则必本诸阴与阳，自轩岐以来，诸书可考也。至汉长沙张仲景著《伤寒》一书，其言备矣。其法皆出伊尹《汤液》，如《易》之于数，《春秋》之于法，盖万世不可易者。其论气脉形声，以测人之脏腑经络之微，亦不过曰：如是为阳，如是为阴，如是为寒，如是为热，如是为有余，如是为不足，以决人之死生之变于朕兆之前，使夫学者可以按而知之，苟能详辨而勿失，则思过半矣！然混茫乎疑似之中，轇轕葛乎毫厘之间，自非精思入神冥合造化，则不能也。是以古者之言医也，皆聪明有道之士，如孙思邈、陶隐居、葛稚川之徒，何如人也。迨夫叔世末流，多出于粗工庸人间，裒衣峨冠，挟方寸之囊，自命为医工，然试读其书，音读（音豆）且不知，况能索理于精微之地哉！如赵括之用兵，徒能诵其父之书，旋取覆败之祸。如又不能诵其书，则其为败，宜如何哉！夫阴阳二证也，寒与温之味，从而用之，亦二也。其主治嗜好，又有大不同者，甚者各主一偏，互相诋訾。殊不知桂枝、承气之一倒置，则毙之患立见。异时承平贵人，挟朔方鞍马劲悍之气，加以膏粱肥浓之养，故糁以刚剂，往往而中。或者遂狃于此，以为人之为病皆然，热黜阴候不论，岂理也哉！且四方风土既殊，而人之禀受亦异，而一律按之，其可乎？盖亦求其至当而已矣。呜呼！中古以降，老寿少而天阏多，岂真不幸与！盖医者心术之偏，其蔽必至于杀人，儒者心术之偏，其蔽必至于误天下，如宋之王安石是也。偏之为害之烈如此。夫窃尝谓受天地中和之性，得圣人公恕之学，不以利欲一毫入于其心，而后可以为儒为医矣，天地万物一理也，圣人之道一中而已《中庸》曰致中和，天地位焉，万物育焉，而况医乎！海藏先生王君进之，家世赵人，早以通经举进士，晚独喜言医，始从东垣李明之，尽传其所学，后乃精研极思轩岐以来诸家书，驰骋上下数千载间，如指诸掌。予在大梁时，闻其名诸公间籍甚，独以未识为恨，今年秋来晋州，始得候先生于馆舍，观其气和而凝，志一而定，有道者也。与之游，甚间暇，日出一编书授予，且谓予曰：伤寒人之大疾也，其候最急，而阴证毒为尤惨，阳则易辨而易治，阴则难辨而难治。若夫阳证，热深而厥，不为难辨。阴候寒盛，外热反多，非若四逆，脉沉细欲绝易辨也。至于脉鼓击有力，加阳脉数倍，内伏太阴，发烦躁欲坐井中，此世之所未喻也。予恐其误，积思十余年，盖考自岐伯，迄今洁古老人摄其精要，附以己说，厘为三十余条，有证有药，有论有辨，名之曰《阴证略例》，将锓以传，以诏后学，且与天下卫生之君子共之，子盍为我题其端？予退而伏读之，善之曰：异乎哉！未有是书也。其于救物利生之念深矣！至其论阳证见阴脉者死，谓有外伤内阴，若与阳药犹可生。若及阴阳易分寒热，阴阳易随仲景三经用药，皆出古人言意之表，学者又不深思而熟味之。噫！世之著书立言者多矣，其甚高难行，泛言无实者亦有之。然则是书之出，其知者必以为精思妙用所，传证以古今，不可诬也；其不知者则茫然无考，诋以为悠悠谈甚高难行也。予以为获一人贤者之知，不犹愈千百愚人之不知者，则是书可以传信行世无疑矣！故内翰王君从之，尝题曰「世所未闻」，真知言哉！比先生过上党，主吾故人文之，疗数阴疾尤奇中，皆书中所可概见者。文之始亦骇，不敢用，反己试，欢曰：误人多矣！昔太仓公所上治验，太史氏列之传末，近代钱仲阳尝所治病，阎孝忠记于论证后。今从先生得所书主治次第，谨编如下方，亦足以证愚者之不知者。文之姓宋氏，讳廷圭，长平人，世亦号善医云。\n岁癸卯冬十一月中浣日王官麻革信之谨题",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "序"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2ef1492a168d257311a8848d1f39bfd6e070f5ff2986d78c4eca0197b84ea87c",
+      "content_sha256": "1e2ec333d918c4d2efdd8ce5d3602124b34b1f529dd1d81bf028a8ebeaeaec74",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1432,
+        "simplified_codepoints": 1432
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "b9cb941ad9f6906f80504d0c",
+      "title": "祭神应王文",
+      "volume": null,
+      "content": "窃以济世须医，去疾先药，论江方海，眩目骇心。人皆于此泥小技作当涂，视大经为何物，及其临诊，莫知所措。况夫病者虚实互见，寒热交分，气运加临，脉候不应，苟或圭黍之差，已有云渊之失。故有者甚而无者生，轻者危而重者毙，夭横盈郊，冤枉举世。每怜孑孑之幽魂，谁听嗷嗷之夜泣，痛矣如斯，心乎不已，耽嗜数年，裒成此集。总前圣之嘉言，为后学之法则，虽治伤寒，独专阴例，列古于前，评今于后，区别余三十条，收拾过二万字，不必泛天风、彻海波，尽在乎耳目矣！优而柔之，使自得之，厌而饫之，使自趋之。深有望于好生之君子，於戏欲广当世，敬以先神，伏冀鉴辉，庶几绵历。王好古惶恐顿首谨言。\n圣贤所言阴证，如岐伯、阿衡、仲景 、叔和，故已备矣；《活人》、许学士、韩祗和、成无己，又甚详矣。后人尚有采择未精，览读有阙，子所以从而次第之。然今之病者，得之有内外之异，或不与经符，合之有色脉之殊，或不与方契，形候相若，似是而非，众所共疑，莫之能辨，取其如此者，又从而比类之。非帘视壁听，仿佛未真也，阴阳寒热，如辨黑白矣。使医者不动声色，蠲去疾疴，免横夭以无辜，皆康宁而得寿。予所愿也。每虑浅识，或有所遗，敬俟来贤，幸为改正。\n壬辰岁夏四月初十日海藏老人古赵王好古序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "祭神應王文"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "36ab0aeeec85673a7e4d189b3d40ca0da8e88d59d80da1d45f291a1d087ed8d1",
+      "content_sha256": "85284dde7107e2cef9f7a9d39026038e0ca6872803e4844a19a42fcdb129bb93",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        5,
+        6,
+        7
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 512,
+        "simplified_codepoints": 512
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "7ccaf19df9f2e650fd849ba7",
+      "title": "岐伯阴阳脉例",
+      "volume": null,
+      "content": "《内经》云：人迎一盛病在少阳，二盛病在太阳，三盛病在阳明，四盛以上为格阳。启玄子云：阳脉法也。少阳，胆脉也；太阳，膀胱脉也；阳明，胃脉也。《灵枢经》曰：一盛而躁，在手少阳；二盛而躁，在手太阳；三盛而躁，在手阳明。手少阳，三焦脉；手太阳，小肠脉；手阳明，大肠脉。一盛者，谓人迎之脉，大于寸口一倍也。余盛同法，四倍以上，阳盛之极，故格拒而食不得入也。《正理论》曰：格则吐逆。\n寸口一盛病在厥阴，二盛病在少阴，三盛病在太阴，四盛以上为关阴。启玄子云：阴脉法也。厥阴，肝脉也；少阴，肾脉也；太阴，脾脉也。《灵枢经》曰：一盛而躁，在手厥阴；二盛而躁，在手少阴；三盛而躁，在手太阴。手厥阴，心包脉也；手少阴，心脉也；手太阴，肺脉也。盛法同阳。四倍以上，阴盛之极，故关闭而溲不得通也。《正理论》曰：关则不得溺。\n人迎与寸口俱盛四倍以上，为关格之脉，羸不能极于天地之精气，则死矣。《枢》曰：阴阳俱盛，不得相营，故曰关格，非止吐逆、不得溺而已也。\n海藏云：岐伯阴阳二脉，王注为足经，却举《灵枢》手经，何也？答曰：正经既言五脏之本，又言脾胃、大小二肠、膀胱、三焦为仓廪之本，营之所居，（经云，三焦者，水谷之道路，云仓廪。）乃知手足经俱有，故言足经，而次举《灵枢》手经也。若躁为手经，不躁为足经。此王注虽举格阳为吐逆，关阴为不得溺，皆引正理为证以比之。大抵格阳关阴，亦岂止吐逆不得溺而已哉！至于上而不欲食，下而不得便，亦关格之病也，故易老有内伤之阴证，大意亦出于此。云岐子别有关格一转。\n上此一条，举古人言外之意。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 8,
+      "source_path": [
+        "岐伯陰陽脈例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "7a8170684dabe677eb253cda7a4ac7c75e5a4d385c9d73c45780a0cd6f860053",
+      "content_sha256": "18ba867ff14434e6dd8f53f4f5517c3a12b847c071b517659f3eaf222ed8862e",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 646,
+        "simplified_codepoints": 646
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "29bc16adc2e91e80c49b9337",
+      "title": "洁古老人内伤三阴例",
+      "volume": null,
+      "content": "论曰：人之生也，由五谷之精气所化，五味之备，故能生形。经曰：味归形。若伤于味，亦能损形。今饮食反过其节，肠胃不能胜，气不及化，故伤为脾。论曰：饮食自倍，肠胃乃伤。或失四时之调养，故能为人之病也。经曰：气口曰坤，口乃脾之候，故脾胃伤。气口紧盛而伤者，有多少，有轻重焉。如气口一盛，脉得六至，则伤于厥阴，乃得之轻也，槟榔丸主之；气口二盛，脉得七至，则伤于少阴，乃伤之重也，煮黄丸主之；气口三盛，脉得八九至，则伤于太阴，乃伤之尤重也，故填塞闷乱，心胸大痛，兀兀欲吐，得吐则已，俗呼为食迷风是也。经曰：上部有脉，下部无脉，其人当吐，不吐则死。宜吐之，以瓜蒂散。如不能，则无治也。经曰：其高者因而越之，其下者引而竭之。如伤之太甚，仲景三物备急丸下之。\n海藏云：洁古所论内伤三经，盖出于《内经》，《灵枢》岐伯脉法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "潔古老人內傷三陰例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "8a6ef72ddbabcaa8330507520f5cebe57da6b7d95d75dd112334cf6a5460ed29",
+      "content_sha256": "63bcd4f8edae8a82ea7988c50c24695627bcbb10a2ccab5b738ac956f15e6796",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        15,
+        16
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 351,
+        "simplified_codepoints": 351
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "f0ca9204eb6915c8380225ee",
+      "title": "槟榔丸",
+      "volume": "洁古老人内伤三阴例",
+      "content": "治饮食过多，心腹膨闷。\n槟榔（一分） 木香（一分） 枳实（半两，炒） 牵牛头（末，半两） 陈皮（去白，秤半两）\n上为极细末，醋糊丸，桐子大，米饮生姜汤下二十丸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 17,
+      "source_path": [
+        "潔古老人內傷三陰例",
+        "檳榔丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "d28b30ea01e2a9ad337020fa71c1844325850110e9cdfd2b218c200e42ba63d1",
+      "content_sha256": "dc8220ddf5c53e50a468e329ca95677f7cdfa7f23c505f28a65752bcb6010071",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        18,
+        19,
+        20
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "7ead4454364cba336d53736d",
+      "title": "煮黄丸",
+      "volume": "洁古老人内伤三阴例",
+      "content": "治前症，甚则两胁虚胀。\n雄黄（一两，研） 巴豆（半两，去皮心膜，研如泥，入雄黄再研匀）\n上二味，入白面二两，同和研匀，滴水丸桐子大，滚浆内十二丸煮熟，漉入冷浆令沉，每一时辰，浸冷浆下一丸，凡尽十二时也。不必尽剂，以利为度，否则再服。又治胁下痃癖痛，如神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 21,
+      "source_path": [
+        "潔古老人內傷三陰例",
+        "煮黃丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "175d0122ff6b2703e532e1c7fd051c95df1277592cd582c150bc2c17d17e4fb0",
+      "content_sha256": "7e4106bd6bee213f14abaf4d236aac79def0fe5c530a5a0c2a1724dfab121ca0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        22,
+        23,
+        24
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 127,
+        "simplified_codepoints": 127
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "d0ab4d3d42944db4271de805",
+      "title": "瓜蒂散",
+      "volume": "洁古老人内伤三阴例",
+      "content": "治大实大满，气上冲，上部有脉，下部无脉，填塞闷乱者，当吐之。\n瓜蒂（一分） 赤小豆（一分）\n上为极细末，温水少许，调一钱匕，以吐为度。如伤之太重，备急丸下之，此急剂也。经云：其下者引而竭之。此之谓也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 25,
+      "source_path": [
+        "潔古老人內傷三陰例",
+        "瓜蒂散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c94763965b4687943477d31fb1661eb1d6adbcdb2e36e9c5197c67160c5f36f8",
+      "content_sha256": "718df9edc93482ef53e84e201559ea3f43a09b7c9fd5f3cdf16ed943f8054c5d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        26,
+        27,
+        28
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 100,
+        "simplified_codepoints": 100
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "65037824190ecbe496efe942",
+      "title": "备急丸",
+      "volume": "洁古老人内伤三阴例",
+      "content": "干姜（一两，） 生大黄（一两，） 生巴豆（半两，去心膜，研泥，滩新瓦去油，取霜）\n上细末，炼蜜丸桐子大。温水下三二丸，无时，以利为度，以意消息渐加。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 29,
+      "source_path": [
+        "潔古老人內傷三陰例",
+        "備急丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "94ad12efe8f698dd377ad2fe659521a6bb695b98c8bfd3a312d242f3c2dc2b6c",
+      "content_sha256": "7df615eda19d7a70a112cdb969a40a1ef3119c9532c1630e2eaaa4326fa5c569",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        30,
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 74,
+        "simplified_codepoints": 74
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "5db0ab9513e69013cab7d7f7",
+      "title": "金露丸",
+      "volume": "洁古老人内伤三阴例",
+      "content": "治时疾内伤，心下痞气不降，米不化。\n大黄（一两） 枳实（半两，炒） 桔梗（二两） 牵牛头（末，一分）\n上细末，姜糊丸，蒸饼亦得，桐子大。温水下二三十丸，常服减半。内伤戊火已衰，不能制物，寒药太多，固非所宜，故以温剂主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "潔古老人內傷三陰例",
+        "金露丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "3c1086381de7a2af5516e85974b1c723ebf942adea6174829d5f5f825479e38a",
+      "content_sha256": "5cdc853fc4b6f9e47ba13504c110dd81b35c88903bdbc8ef4921dc071432a2ad",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        33,
+        34,
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "64cbd71c5154c7057f405bcd",
+      "title": "枳术丸",
+      "volume": "洁古老人内伤三阴例",
+      "content": "本仲景汤也，易老改丸。治老幼虚弱，食不消，脏腑软。\n枳实（三分，麸炒黄色） 白术（一两）\n上细末，荷叶裹烧饭为丸，或姜浸蒸饼丸亦得，桐子大。米饮下三二十丸，食后。小儿丸小。\n海藏云：洁古既有三阴可下之法也，必有三阴可补之法，予欲举此内伤三阴可补之剂。未见仲景药时，人皆不言三阴，即举仲景药分而三之，人皆得知有三阴也。古人曷尝不尽，今人但未读，而未之知，而不能言耳！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 36,
+      "source_path": [
+        "潔古老人內傷三陰例",
+        "枳朮丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "f7d17f30c6024902417bae3823e50d162b17d802eb0b24509cabb2d9e1fc5dd1",
+      "content_sha256": "52204ef4d7ac1d44eb36fd3619c2b759a89bb0cd298078cbc877a6d71260cb30",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 182,
+        "simplified_codepoints": 182
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "4add52466e7f349203a83c7d",
+      "title": "海藏老人内伤三阴例",
+      "volume": null,
+      "content": "若饮冷内伤，虽先损胃，未知色脉各在何经。若面青黑，脉浮沉不一，弦而弱者，伤在厥阴也。若面红赤，脉浮沉不一，细而微者，伤在少阴也；若面黄洁，脉浮沉不一，缓而迟者，伤在太阴也。\n若面青或黑或青黑，俱见脉浮沉不一，弦而弱，伤在厥阴肝之经也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 41,
+      "source_path": [
+        "海藏老人內傷三陰例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c35f3baad61a5b07a4b49f3089fef72b02eb8780bfd6ada5c0fe4a382b877331",
+      "content_sha256": "a8b59b02b8fddc346d6555fa5bd663bd28cbdcfe6578c518d5474028384046a3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        42,
+        43
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "f288a6c456fbd9cf36685d1e",
+      "title": "当归四逆汤",
+      "volume": "海藏老人内伤三阴例",
+      "content": "当归 桂 芍药 细辛（各一两） 通草 甘草（各六钱三字）\n上锉麻豆大，每秤三钱，水一盏半，枣一二枚，煎至七分，去滓温服。\n若其人病内有久寒者，宜当归四逆汤内加吴茱萸生姜汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "海藏老人內傷三陰例",
+        "當歸四逆湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "aa4a2e6ce7a041a9274e198ad5c758686b7b863684cafc3a2239b9dc5e4f28b4",
+      "content_sha256": "2e15c6f79b4a8300ce13b3762b728903a042d6b195c0330a5d8015e44d8af12f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        45,
+        46,
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "fe9c7c44cf4e450fd16d04c8",
+      "title": "当归四逆汤加吴茱萸生姜汤",
+      "volume": "海藏老人内伤三阴例",
+      "content": "当归（一两） 桂（一两） 芍药（一两） 细辛（一两） 大枣（八个） 甘草 通草（各六钱三字） 吴茱萸（七合，汤漫洗） 生姜（二两半）\n上锉如麻豆大，每服秤三钱，水一盏半，煮至八分，去滓，温服，日三。仲景法：一剂分五服，清酒煎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "海藏老人內傷三陰例",
+        "當歸四逆湯加吳茱萸生薑湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "03e8a842b67ebfa4ed60d723dfa1745814fce0e930bef26ebc84f8f63f7a7054",
+      "content_sha256": "d696eca75bff7b0b8e47d01890728cdb320762ff11e51a6681679db7f2cfa630",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        49,
+        50
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 113,
+        "simplified_codepoints": 113
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "4c7f8debf9594a45aa31b39e",
+      "title": "吴茱萸汤",
+      "volume": "海藏老人内伤三阴例",
+      "content": "吴茱萸（一两半，汤洗三次） 人参（三分） 生姜（一两半） 大枣（三个）\n上锉如麻豆大，以水二大盏半，煮取七分，去滓，分二服。若急者，阴毒甘草汤、白术散、附子散、正阳散、肉桂散、回阳丹、返阴丹。至于阴盛格阳，霹雳散、火焰散。随经部分选用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 51,
+      "source_path": [
+        "海藏老人內傷三陰例",
+        "吳茱萸湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "542a8a7a479167af27c3309a256fc5f8fd59b6f7cb756cf599f90c74e2ed9044",
+      "content_sha256": "c56a19ad6b3850053c450660c4e57c7c95c17a73b17cdd8dcf3968f86077943d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        52,
+        53
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "ca836faff7578a7d1021bd59",
+      "title": "伤在少阴",
+      "volume": null,
+      "content": "若面红或赤，或红赤俱见，脉浮沉不一，细而微者，伤在少阴，肾之经也，通脉四逆汤（又方：甘草炙六钱二字半）\n甘草（二两，炙） 附子（一两，生用，去皮，破八片） 干姜（一两，炮）\n面赤者，加连须葱白九寸。腹中痛者，去葱白，加白芍药二两。呕者，加生姜二两。咽痛者，去芍药，加桔梗一两。利止脉不出者，去桔梗，加人参二两。\n上锉如麻豆大，每服秤三钱，水一盏半，煮至七分，去滓，温服。未瘥，若急，更作一剂。其脉续续有力者愈，无力者不愈。\n四逆汤，上三味是也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "傷在少陰"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "37656e7c4b2a243c3379b9efcee895dbee0dde3a100fdab188565d14c9949847",
+      "content_sha256": "296bf5bc028f7c02fb1cc928a04e3aed10d34aefb3b0641dbc7b4069d685ff9a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 222,
+        "simplified_codepoints": 222
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "efde8705162b3a91f209fc8e",
+      "title": "伤在太阳",
+      "volume": null,
+      "content": "若面黄或洁，或黄洁俱见，脉浮沉不一，缓而迟者，伤在太阴，脾之经也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 60,
+      "source_path": [
+        "傷在太陽"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "bb573d4b0c2993ce1a597b015f8173c070f4410be5e5bf8809fa57f050f3531a",
+      "content_sha256": "9cbd48392bafb104d897cb5dbebdcd83c339ac76175b6475804b79c82c0e5f25",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        61
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "96cfa67e40eed0f487dbf93a",
+      "title": "理中丸",
+      "volume": "伤在太阳",
+      "content": "人参（一两，腹痛者倍之） 甘草（炙） 白术 干姜（各一两）\n上细末，炼蜜和丸鸡子黄大。以汤数合，和丸，研碎，温服之，日三夜二。腹中未热，益至三四丸，煎热粥饮投之，微温覆，勿揭衣。丸不及汤。\n海藏云：大便结者宜丸，大便软者宜汤。仲景云：无阳阴强，大便硬者，不可下，下之则清谷腹满。\n以上三经脉皆云浮沉不一者，以其皆似孤亡之体也。\n又云：日三夜二，读之极无味，然仔细思之，利害非轻。恐人不识，故有阴阳寒热各从类生一条。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 62,
+      "source_path": [
+        "傷在太陽",
+        "理中丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "153444b5c8531727aad31c37941ccaed61b02e2bbbbf0bafee3cb2e0addd6bee",
+      "content_sha256": "2f06f34c7751522d35aeebc5eecb40c79a40ea3f891fae239ded470f1e6cbd4a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 207,
+        "simplified_codepoints": 207
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "31455c27dd4f99dbbadf594f",
+      "title": "阴阳寒热各从类生服药同象",
+      "volume": null,
+      "content": "假令附子与大黄合而服之，昼服则阳药，成功多于阴药，夜服则阴药成功于阳药，足从其类也。况人之疾，独不然乎！若病阳症，昼则增剧，夜则少宁；若病阴症，昼则少宁，夜则增剧。是人之阴阳寒热，从天地之行阴行阳也，寒热之化，以此随之。故前人治阴证用阳药，续于夜半之后者，所以却类化之阴，而接身与子所生之阳也。《通玄类证》云：小建中汤后亦举日三夜二，及尺脉不至者加黄耆。\n予尝云：大便软者宜汤，大便结者宜丸，以丸蜜润也。仲景治霍乱吐下，脾湿大胜，而用丸何也？\n答曰：以湿言之，岂有润之之理，此正湿已太过，津液极亡，所以转筋也。筋得血而养，故能屈伸。利下既多亡阴，失血反成枯燥，燥则所以不能屈伸也。故湿剂以润之，只用丸也，与妇人血崩过极不止而用四物汤润剂同意。十剂之法，要当谨察。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 68,
+      "source_path": [
+        "陰陽寒熱各從類生服藥同象"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "5204ed2ab7a52abd7a5bbe36c0a9a24168dcd30a8c2ca9531b81b2b67252ff0f",
+      "content_sha256": "d5103e42a1626924eba36eea8c4251bd0c5456b11cd8b93d57e5e912aff75ae7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        69,
+        70,
+        71
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 331,
+        "simplified_codepoints": 331
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "62d93151718b94ee804e7bc0",
+      "title": "理中汤",
+      "volume": "阴阳寒热各从类生服药同象",
+      "content": "人参（一两） 干姜（炮） 甘草（炙） 白术（各二两）\n腹痛者，加人参一两。寒者，加干姜一两半。渴欲得水者，加白术一两半。脐上筑者肾气动也，去术，加桂四两。吐多者，去术，加生姜三两。下多者，还用术。悸者，加茯苓二两。或四肢拘急腹痛者，或腹满下利转筋者，去术，加附子一枚，生用。\n上锉如麻豆大，每秤三钱，水一盏半，煮至七分，去滓，温服，日三。\n海藏云：理中汤加减八法，并无寒药。吐利后有表者表之汗出厥者温之；既吐且利，小便复利，大汗出，内寒外热者亦温之；至于吐下后，汗出不解，厥逆脉欲绝者，四逆主之。以是知此候无阳证，皆阴证也。仲景人参桂枝汤，理中汤加桂枝，太阳未除，下之成协热利，心下痞，表里不解者；《活人》此理中汤内加青陈皮，名治中汤，治胸膈病；许学士改《活人》方，作补脾丸，治劳则补子，如子富而父不贫，不特虚则补其母也。\n以上三证，若有外感与内证饮冷极者，宜五积散。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 72,
+      "source_path": [
+        "陰陽寒熱各從類生服藥同象",
+        "理中湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "6f9f3d8b9bd6058f994039c06c4ccc46ff689eb07762f2cbce6f985fd881beb1",
+      "content_sha256": "3257689be9a7b533cb7775bf44e1454edd60cc9e9d46ce8eda23d9d0d4ce86d0",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 384,
+        "simplified_codepoints": 384
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "4d31e58b4652bf5faee68b81",
+      "title": "伊尹汤液论例",
+      "volume": null,
+      "content": "海藏曰：皇甫先生云仲景广《汤液》为十卷。文潞公云仲景为群方之祖。朱奉议云仲景泻心汤比古汤液则少黄芩，后人脱落之。许学士亦云伊尹《汤液论》大柴胡汤八味，今监本无大黄，只是七味，亦为脱落之也。以是知仲景方皆《汤液》也。\n四顺散，理中汤、四逆汤、通脉四逆汤、术附汤、姜附汤、真武汤、白通汤，俱见仲景条下。\n其余杂见诸方，凡称仲景者皆是。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 78,
+      "source_path": [
+        "伊尹湯液論例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "5294596229455a211cfd70ac55c16a321b9ec116012e3aa47584b1e731307403",
+      "content_sha256": "04dbf123bcbb3052a160c49bd6ae8e7a2e72769274865ec1b3ebc632e54f6e49",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        79,
+        80,
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "b6e6613d1916bce14f294184",
+      "title": "扁鹊仲景例",
+      "volume": null,
+      "content": "生气通天雾露说，在神术六气加减后。\n扁鹊云：一呼四至，一吸四至，病欲甚，洪大烦满，沉细者腹中痛，滑者伤热，涩者中雾露。\n仲景云：从霜衍降以后，至春分以前，凡有触冒霜露，体中寒邪而病者，皆谓之伤寒也。\n海藏云：霜露雾露，久雨清湿之气，山岚障气等，皆谓之清邪也。有单衣而感于外者，有空腹而感于内者，有单衣、空腹而内外俱感者，所禀轻重不一，在人本气虚实之所得耳！岂特内寒饮冷误服凉药，而独得阴证哉？重而不可治者，以其虚人内已伏阴，外又感寒，内外俱病，所以不可治也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "扁鵲仲景例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1eec8fec6ecfec27eb4e11357218bccbeeb57a38574b9201cdb1d94f988c770c",
+      "content_sha256": "07df50ee109cc0f987320c8d8e22f70b7a6a9c55091cb0c0e76573ba83e802b1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        83,
+        84,
+        85,
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 229,
+        "simplified_codepoints": 229
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "5a5b01ce6321e2ff25ef2c70",
+      "title": "仲景阴证论例",
+      "volume": null,
+      "content": "仲景紧脉，俱见许学士条下。\n又云：寸口脉阴阳俱紧者，法当清邪中于上焦，浊邪中于下焦。清邪中于上，名曰洁也；浊邪中于下，名曰浑也。阴中于邪，必内栗也，表气微虚，里气不守，故使邪中于阴也；阳中于邪，必发热头痛，项强颈挛，腰痛胫酸，所谓中雾露之气。故曰清邪中上，浊邪中下。阴气为栗，足膝逆冷，便溺妄出，表气微虚，里气微急，三焦相混，内外不通，上焦怫郁，脏气相熏，口烂食龈也。中焦不治，胃气上冲，脾气不转，胃中为浊，荣卫不通，血凝不流。若冲气前通者，小便赤大便赤黄，与热相搏，因热作使，游于经络，出入脏腑，热气所遏，则为痈脓。若阴气前通者，阳气厥微，阴无所使，客气内入，嚏而出之，声嗢咽塞，寒厥相逐，为热所拥，血自下，状如豚肝，阴阳俱厥，脾气孤弱，五液注下，下焦不阖，清便下重，令便数难，脐腹湫痛，命将难痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "仲景陰證論例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "899ecb85f5b45352e9d31bdae39d0ce763a552d0606787b6c05296c7fdf78ffd",
+      "content_sha256": "6b2d58da482c3d0cfc72ae59940122d70390d58331aab327e7aecd76d3bc2ffc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        88,
+        89
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 350,
+        "simplified_codepoints": 350
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "44984f05917dfdb613a1c104",
+      "title": "吴茱萸汤",
+      "volume": "仲景阴证论例",
+      "content": "食谷欲呕，属阳明也，吴茱萸汤主之。得汤反剧者，属上焦也，治上焦。一少阴吐利，手足厥逆冷，烦躁欲死者，吴茱萸汤主之。厥阴干呕，吐涎沫者，头痛极甚，吴茱萸汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 90,
+      "source_path": [
+        "仲景陰證論例",
+        "吳茱萸湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "738f799750c0bda179fd6624708dc798873a2fa873cc2d640a36cfbf61cfcda5",
+      "content_sha256": "a7a158eb85cbdebb33998373529be2d1bde0835b2b62adb344ef29053ae58a26",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        91
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 79,
+        "simplified_codepoints": 79
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "a2c5bf34465cd478db72c4ae",
+      "title": "四逆汤",
+      "volume": "仲景阴证论例",
+      "content": "自利不渴者，属太阴，以其脏寒故也，宜服四逆汤辈。太阴手足自温，脉浮者，桂枝汤。脉浮而迟，表热里寒，下利清谷者，四逆汤主之。属少阴。饮食入口则吐，心中温温欲吐，复不能吐，始得之，手足寒，脉弦迟者，此胃中实，不可下也，当吐之。若膈上有寒饮，干呕者，不可吐也，当温之，宜四逆汤主之。少阴病，脉沉者，急温之，宜四逆汤。大汗若下利而厥冷者，四逆汤主之。大汗出，热不去，内拘急，四肢疼，又下利厥逆而恶寒者，四逆汤主之。下利腹胀，满身疼痛者，先温里乃攻表。温里宜四逆汤，攻表宜桂枝汤。呕而脉弱，小便复利，身有微热见厥者难治，宜四逆汤主之。属厥阴吐利汗出，发热恶寒，四肢拘急，手足厥冷，四逆汤主之。吐利小便复利而大汗出，下利清谷，内寒外热，脉微欲绝者，四逆汤主之。病发热头痛，身体不疼痛，当救里，宜四逆汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 92,
+      "source_path": [
+        "仲景陰證論例",
+        "四逆湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c7e7f61beb4e96d3ff1312aebf52ee2e2cdf42b69f71d2ebc24dc1e4bca2b666",
+      "content_sha256": "f409b40882d373ddb165579e25339a73f69c2978a517d097a1d2eb61b0bf5c6d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        93
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 347,
+        "simplified_codepoints": 347
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "bbb3f848be7832c5db048224",
+      "title": "通脉四逆汤",
+      "volume": "仲景阴证论例",
+      "content": "少阴病，下利清谷，里寒外热，手足厥逆，脉微欲绝，身反不恶寒，其人面色赤，或腹痛，或干呕，或咽痛，或利止脉不出，通脉四逆汤主之。下利清谷，里寒外热，汗出而厥者，通脉四逆汤主之。此属厥阴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 94,
+      "source_path": [
+        "仲景陰證論例",
+        "通脈四逆湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "536979378a76b31b15cfb1f478affb5647afd6122af22ca4218cb748a3a15911",
+      "content_sha256": "e24602e3383cc1d7bebfe192bdf1b159771cb2a549236c6c6613bd54467511cd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        95
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "3c45c304c07eada631536a87",
+      "title": "当归四逆汤",
+      "volume": "仲景阴证论例",
+      "content": "手足厥寒，脉细欲绝者，当归四逆汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 96,
+      "source_path": [
+        "仲景陰證論例",
+        "當歸四逆湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "893f5d28e611fe626af34f570ad43923636412c1a1acfb215a4c18a81581a2e9",
+      "content_sha256": "461d6fd2b138dbf63752b00eb9738480c2737063c5ca53b443551e5758cdb175",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        97
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 19,
+        "simplified_codepoints": 19
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "44528171e05557574bd45354",
+      "title": "白通汤",
+      "volume": "仲景阴证论例",
+      "content": "少阴病，下利脉微者，白通汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 98,
+      "source_path": [
+        "仲景陰證論例",
+        "白通湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c12b715c6d36558992da478b30679dd9fe5d453538f21a52d9a624e69062b6b7",
+      "content_sha256": "87b2fe0932d3945b91d6750120f8b43f41494039541fd4f145821558190f3532",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 16,
+        "simplified_codepoints": 16
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "40292cca1a2fb71f9326cb3e",
+      "title": "白通加猪胆汁汤",
+      "volume": "仲景阴证论例",
+      "content": "少阴病，下利脉微，与白通汤。利不止，厥逆无脉，干呕烦者，白通加猪胆汁汤主之。服汤，脉暴出者死，微续者生。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "仲景陰證論例",
+        "白通加豬膽汁湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "3a62229a03479d25c63c0ac16885ec5cb000e449b4901be0f731e04c69683a37",
+      "content_sha256": "3c3f9abff889f5ee120d3a3616f494e3b012caec9ce597d8d52e0e3a4d2354eb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        101
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 52,
+        "simplified_codepoints": 52
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "2426dad2272b6f5583ac4dfc",
+      "title": "真武汤",
+      "volume": "仲景阴证论例",
+      "content": "太阳病发汗，出不解，其人仍发热，心下悸眩，身瞤动，振振欲擗地者，真武汤主之。少阴病，二三日不已，至四五日，腹痛，小便不利，四肢沉重疼痛，自下利者，为有水气，其人，或小便利，或下利，或呕者，真武汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 102,
+      "source_path": [
+        "仲景陰證論例",
+        "真武湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "b2301171cc9dbcfbd83c4daa5f950dd3a1abfc4ee3abbbf511267fb08a7c1547",
+      "content_sha256": "119a1ef831e0c717308f8f4ac92cee32e8dd80400b03efcd1de5ba05ceaf56f3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        103
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 100,
+        "simplified_codepoints": 100
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "a1225f5d4232a5e9c99b2fe1",
+      "title": "小建中汤",
+      "volume": "仲景阴证论例",
+      "content": "伤寒，阳脉涩，阴脉弦，法当腹中急痛，先与小建中汤服之。伤寒二三日，心中悸而烦者，小建中汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 104,
+      "source_path": [
+        "仲景陰證論例",
+        "小建中湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "23ee0e77b0ad1f8634bc1bec3ea0d1d53f7c0abf3b8b01dd375e477ca16d83e9",
+      "content_sha256": "73f72e2b7c229e2e7e7fa0179796fc5b3fe6293afb80b90607d515554fcc3e66",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        105
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 47,
+        "simplified_codepoints": 47
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "fa62441354527c72c3812e54",
+      "title": "理中汤",
+      "volume": "仲景阴证论例",
+      "content": "胸脾心下痞留，气结胸满，胁下逆气抢心，理中汤主之。治脾胃不和，中寒上冲，胸胁逆满，心腹㽲痛，痰逆恶心，或时呕吐，心下虚痞，隔塞不通，饮食减少，短气羸瘦，温中逐水，止汗去湿。又治肠胃冷湿，泄泻注下，水谷不分，腹中雷鸣，及伤寒时气，及里寒外热，霍乱吐利，手足厥冷，胸脾心痛逆气，并皆治之。有寒者，加附子。胸痹胁下妨闷者，加枳实半两，茯苓半两。此方自晋宋以后至唐，名医治心腹病者，无有不用此汤，或作丸随证加减，各有其法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 106,
+      "source_path": [
+        "仲景陰證論例",
+        "理中湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "06cbc9c025df85ae03617993a7ad83c150a5b86456cad0beba356e5b7be2fc40",
+      "content_sha256": "134bb7515ab107544dec7b8df4dafdec58fe26656d6ecddb4e4a82e391db1413",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        107
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 207,
+        "simplified_codepoints": 207
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "a18df2d14bc2249828e723fd",
+      "title": "理中丸",
+      "volume": "仲景阴证论例",
+      "content": "霍乱，头痛发热，热多欲饮水，五苓散主之；寒多不用水者，理中丸主之。大病瘥后，喜睡，久不了了，胸中有寒，当以丸药温之，宜理中丸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 108,
+      "source_path": [
+        "仲景陰證論例",
+        "理中丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "a26acfa6016d5d65eda0afc8022ad176dce8ef42877ec22bf4606a8178d1b2a5",
+      "content_sha256": "26b3d843dba447b1ec1e73f681a10ca21ff6313645d4e8094edbe74f28c8e3ca",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        109
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "e80b7c678e9b0be5d189b6f7",
+      "title": "桂枝附子汤",
+      "volume": "仲景阴证论例",
+      "content": "伤寒八九日，风湿相搏，身体疼痛，不能自转侧，不呕不渴，脉浮虚而涩者，桂枝附子汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 110,
+      "source_path": [
+        "仲景陰證論例",
+        "桂枝附子湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "28e30eec9697cd2f4444476e5e0ae0f5032cf3d0cc04806e5abf0bdb26f6b0e7",
+      "content_sha256": "bff90d9bc07175a250fb5c588b40ea05538ebfc2d52876fedf277b9c5180e02f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        111
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 42,
+        "simplified_codepoints": 42
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "fc9cbd1a9becfcba830af540",
+      "title": "附子汤",
+      "volume": "仲景阴证论例",
+      "content": "少阴病，得之一二日，口中和，其背恶寒者，当灸之，附子汤主之。少阴病，身体痛，手足寒，骨节痛，脉沉者，术附汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 112,
+      "source_path": [
+        "仲景陰證論例",
+        "附子湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1249cc58bbe0a6c451f6140f23df0e7a79e61053221ca87334f8d8bef9abf6d9",
+      "content_sha256": "241d6e6504af8d63aaebd46075f17415bc1e0a6d7945ad06fd3d4df6e9ad2708",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        113
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 56,
+        "simplified_codepoints": 56
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "f3d640f3ff242e88a8248229",
+      "title": "术附汤",
+      "volume": "仲景阴证论例",
+      "content": "伤寒八九日，风湿相搏，身体疼烦，不能自转侧，不呕不渴，脉浮虚而涩，枝桂附子汤。若其人大便坚，小便自利，术附汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 114,
+      "source_path": [
+        "仲景陰證論例",
+        "朮附湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "3595b923961ac7db8b995f9a6df16e195f2c9f361ce2c740ecf5bcff3609b82b",
+      "content_sha256": "e9ef67c299354c630d4d4c0dd5050678c3e7db1de4e764240f7c23eeb8ca0f2f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        115
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 57,
+        "simplified_codepoints": 57
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "f1241f21b2cd3777b23c05ff",
+      "title": "姜附汤",
+      "volume": "仲景阴证论例",
+      "content": "若下之后，复发汗，昼日烦躁不得眠，夜而安静，不呕不渴，无表证，脉沉微，身无大热者，姜附汤主之。\n海藏云：若自汗者术附汤；若无汗，姜附汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 116,
+      "source_path": [
+        "仲景陰證論例",
+        "姜附湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "bb4c374a54abfc3312a41596de6af6f267293156797f268502f1c9b1e4b62fb6",
+      "content_sha256": "0ea720332503c438871b84be1f520dffeab2bf94953f46f18a0ebd15ed8d94a0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        117,
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "4aed75d7a3c1279760eda17f",
+      "title": "茯苓四逆汤",
+      "volume": "仲景阴证论例",
+      "content": "发汗若下之，病仍不解，烦躁者，茯苓四逆汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "仲景陰證論例",
+        "茯苓四逆湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "efa17bd6de422305d95e2a776467586f57d9339b769ef248b92d5229acc2f600",
+      "content_sha256": "457c77f854ffb51fe7ed60c720ad906d7348097c392c8880d39421a1ba0063bf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        120
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 23,
+        "simplified_codepoints": 23
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "1f5db17f135704ea095a3133",
+      "title": "易老法霍乱吐泻 足阳明总摄六经",
+      "volume": null,
+      "content": "大抵仲景药为主，理中汤、理中丸、五苓散、建中汤、平胃散、四君子汤类。\n假令胃与太阳经并，脉浮者，于前所用药内加：自汗者加桂枝，无汗者加麻黄，以其有头项肢节痛故也。\n假令胃与少阳经并，脉弦者，于前所用药内加柴胡、干木瓜，以其胁下痛故也。\n假令胃与阳明本并，脉实者，于前所用药内加大黄，以其吐泻后大小便不通故也。\n假令胃与太阴经并，脉沉细者，于前所用药内加芍药、干姜，以其腹痛体重故也。\n假令胃与少阴本并，脉沉迟者，于前所用药内加姜、附，以其四肢拘挛身寒故也。\n假令胃与厥阴本并，脉微缓者，于前所用药内加姜、附、当归、吴茱萸，以其四肢厥逆冷故也。厥阴本药，吴茱萸汤、当归四逆汤皆是。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 121,
+      "source_path": [
+        "易老法霍亂吐瀉 足陽明總攝六經"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "afc28cf6af400654574aa86283c8e26acd520c0d4f1adec45a2b22d5160c43c0",
+      "content_sha256": "5bb1c5cd6b4d4f800a20049f5e537b45a506279bb619bb7878b73d66d0197076",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 289,
+        "simplified_codepoints": 289
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "14e9c497c74d8b546aad8162",
+      "title": "霍乱与少阴寒热同候",
+      "volume": null,
+      "content": "海藏云：霍乱头痛发热，其邪自风寒而来。中焦为寒热相半之分，邪稍高者居阳分，则为热，热多饮水者，五苓散以散之；邪稍下者居阴分，则为寒，寒多不饮水者，理中丸以温之。所以同少阴入里，与手经接为热，大承气汤下之；与足经接为寒，四逆汤温之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 129,
+      "source_path": [
+        "霍亂與少陰寒熱同候"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "680ca334efd006ed2b7de05229610eea9c1d6bf460ea7883d1f8947633ed4a43",
+      "content_sha256": "fde3769cb63c65e3136ea52846e029425ff1418514423209036a8b1ff63640e9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        130
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "46aa0ba94fbeccdf8d12c05d",
+      "title": "叔和阴脉例",
+      "volume": null,
+      "content": "海藏云：仲景阴脉，皆叔和次之，药俱见仲景本经条下。\n按之似有举还无，气满三焦脏腑虚，冷气不调三部壅，通肠建胃始能除。右沉脉。\n涩脉关前胃气并，当关血散不能停，尺部如斯逢逆冷，体寒脐下作雷鸣。右涩脉。\n关前弱脉阳道虚，关中有此气多疏，若在尺中阴气绝，酸疼引变上皮肤，右弱脉。\n寸口脉紧一条弦，胸中急痛状绳牵，关中有弦寒在胃，下焦停水满丹田。右弦脉。\n微脉关前气上侵，当关郁结气排心，尺部见之脐下积，身寒饮水即呻吟。右微脉。\n阴毒伤寒身体重，背强眼痛不堪任，小腹痛急口青黑，毒气冲心转不禁，四肢逆冷唯思吐，咽喉不利脉细沉，若能速灸脐轮下，六日看过见喜深。\n脐下五穴，并见宜灸条下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 131,
+      "source_path": [
+        "叔和陰脈例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "714ef1ce54f81378383e50790b4eb84869847f153d17510ed22e769d0a7724b1",
+      "content_sha256": "7aa4467d22f4aed3e4740ee0cb80fa036d0ab8694a03576e7ebc36c0687a8a09",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 288,
+        "simplified_codepoints": 288
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "9fd1c3349a0ab32a5b4ebcf9",
+      "title": "活人阴脉例",
+      "volume": null,
+      "content": "太阴、少阴、厥阴，皆属阴证也。太阴者，脾也；少阴者，肾也；厥阴者，肝也。\n何谓太阴证？太阴脾之经，主胸膈䐜胀。《甲乙经》云：邪生于阳者，得之风雨寒暑；邪中于阴者，得之饮食居处，阴阳喜怒。又曰：贼风虚邪者阳受之；饮食不节、起居不时者阴受之。阳受之则入腑，阴受之则入脏。入六腑则身热不时卧，为喘呼：入五脏则䐜满闭塞，下为飧泄，久为肠澼。\n何谓少阴证？少阴肾之经，主脉微细，心烦但欲寐，或自利而渴。经云：一二日少阴病者，何也？谓初中病时，腠理寒，使入阴经，不经三阳也。\n伤寒虽是三阴三阳，大抵发于阳则太阳也，发于阴则少阴也，此二经为表里，其受病最为多。阳明、太阴受病颇稀。至于少阳、厥阴，肝胆之经，又加少焉。凡病一日至十二三日，太阳证不罢者，但治太阳。有初得病便见（去声）少阴证者，直攻少阴，亦不必先自巨阳次传而至。\n盖寒气入太阳，即发热而恶塞；入阴经，只恶寒而不发热也。三阴中寒，微则理中汤，稍厥或中寒下利，即干姜甘草汤。\n手足指头微冷盖谓之清（音去声，）此未消吃四逆，盖疾轻故也，只可服理中干姜之类。大假重者用四逆汤，无脉者用通脉四逆汤也。\n何谓厥阴？厥阴肝之经，主消渴，气上冲心中疼热，饥不欲食，食则吐蛔，下之则利不止也。若阴气独盛，阳气暴绝，则为阴毒，其证四肢逆冷，脐腹筑痛，身如被杖，脉沉疾，或吐利，当急救，可灸脐下，服以辛热之药，令阳气复而大汗解矣！古人云：辛甘发散为阳，谓桂枝、甘草、干姜、附子之类，能复其阳气也。微则用辛甘，甚则用辛苦热。阴极发躁，阴证似阳也。学者当以脉别之。\n问：手足逆冷，脐腹筑痛，咽喉疼，呕吐下利，身体如被杖，或冷汗烦渴，脉细欲绝者，何也？\n此名阴毒也。阴毒之为病，初得病手足冷，背强咽痛，糜粥不下，毒气攻心，心腹痛，短气，四肢厥逆，呕吐下利，体如被杖，宜服阴毒甘草汤、白术散、附子散、正阳散、肉桂散、回阳丹、返阴丹、天雄散、正元散、退阴散之类，可选用之。大抵阴毒本因肾气虚寒，或因冷物伤脾，外伤风寒，内既伏阴，外又感寒，或先外寒而内伏阴，内外皆阴，则阳气不守，遂发头痛腰重，腹痛，眼睛疼，身体倦怠，四肢逆冷，额上手背冷汗不止，或多烦渴，精神恍惚如有所失，三二日间或可起行，不甚觉重。诊之则六脉俱沉细而疾，尺部短小，寸口或大。\n阳证六脉俱浮大，或沉取之大而不甚疾者，非阴证也。大抵阳毒伤寒，其脉多弦而洪数；阴毒伤寒，其脉沉细而弦疾，不可不知也。\n若误服凉药，则渴转甚，躁转急，有此病证者，更须急服辛热之药，一日或二日便安。若阴毒渐深，其候沉重，四肢逆冷，腹痛转甚，或咽喉不利，心下胀满结硬，躁渴虚汗不止。\n上此一条服凉药躁渴转甚，当服热药可也。\n阳盛则身热而无汗，阴盛则身冷而有汗。岐伯云：阳胜则身热，腠理闭，喘粗，为之俯仰，汗不出而热；阴胜则身寒，汗出，身常清，数躁而寒，寒则厥。（清即冷也。）\n上此岐伯说阴躁之原。\n或时郑声，指甲面色青黑，六脉沉细而疾，一息七至已来。有此证者，速于气海或关元二穴，灸三二百壮，以手足温和为效，仍兼服正阳散、回阳丹、天雄散、白术散，内外通，遂令阳气复而大汗解矣。\n阴毒盛而阳气暴绝，则为阴毒；若阳独盛而阴气暴绝，则为阳毒。大凡阴阳离绝，非大汗不能复正气也。\n阴阳则夫妇也，各得中则和，若偏胜则各专以权，至于极，继之以离矣！药石以攻邪，邪去正复，是犹鞭挞以教而欲并生也。\n若阴毒已深，疾势困重，六脉附骨取之方有，按之既无，一息八至以上，或不可数，至此则药饵难为攻矣！但于脐中用葱慰法，或灼艾三五百壮已来，手足不温者，不可治也。如手足得温，更服热药以助之。若阴气阳气来，即渐减热药而调治之。\n若阳气乍复，往往却见烦躁，慎不可投凉药，烦躁甚者，再与返阴丹即定。常须识此，勿令误也。\n问胸膈不快，䐜满闭塞，唇青手足冷，脉沉细，少情绪，或腹痛者，何也？\n此名太阴也。近人多不识阴证，才见胸膈不快，便投食药，非其治也。大抵阴证者，由冷物伤脾胃，阴经受之也，主胸膈䐜满，满面色及唇皆无色泽，手足逆冷，脉沉细，少情绪，亦不因嗜欲，但内伤冷物，或损动胃气，遂成阴证。复投巴豆之类，胸膈愈不快，或吐而利，经一二日遂致不救，盖不知寒中太阴脾之经也。\n右膈不快，不可用食药，下之则成痞。\n海藏云：阴证胸膈不快，此无病形也，若投巴豆之药，即取有形也病，故轻则转痞，重则成劳，尤重则一二日遂成不救也。故《活人》本经云：丸子巴豆，乃攻食积耳！\n问：万一饮食不节，胸膈不快，寒中阴经，何法以治？\n答曰：急则理中汤加青陈皮，锉如麻豆小，服一二剂，胸膈即快。枳实理中丸、五积散尤良。\n五积散一句，是兼表也，或无有表证，或自内而之外，传至极高之分，则宜是药。若无表则不宜用此也，用理中法足矣！\n问脉微细，欲吐不吐，心烦但欲寐，六七日自利而渴者，何也？此名少阴也。少阴之为病，欲吐不吐，心烦但欲寐，六七日自利而渴者，虚也，故引水自救。若小便色白者，少阴病形悉具矣。小便色白者，以下焦虚有寒，不能制水，故令色白也。四逆汤主之。\n举阳证 少阴证，口燥舌干而渴者，须急下之，不可缓也，宜大承气汤主之。若脉沉而迟者，须温之，四逆汤主之。盖以口燥舌干而渴者知其热，脉沉而迟者别其寒也。\n少阴病属肾，古人谓之肾伤寒也。肾伤寒口燥舌干而渴，固当急下，大抵肾伤寒亦多表里无热，但若烦愦默而极，不欲见光明，有时腹痛，其脉沉细，旧用四逆汤。古人恐其热不敢遽用，云肾病而体犹有热者，可服黄连龙骨汤。若已十余日，下利水止，手足微冷，乃无热候，可服增损四顺散。\n上此一条，虽有肾病，而体犹有热一句，亦当以久暂察之，不可乍见便以为身热也。\n不用四逆用黄连，及手足冷却用四顺，亦不甚的当。\n举阳证 少阴病，若恶寒而倦，时时自烦，不欲厚衣者，大柴胡下之。少阴病，始得之，反发热，脉沉者，麻黄附子细辛汤微汗之。少阴病，得之二三日，常见少阴无阳证者，亦须微发汗，宜麻黄附子甘草汤。此学者不可不知也。\n问身微热，烦躁，面赤，脉沉而微者，何也？\n此名阴证似阳也。阴发躁，热发厥，物极则反也。大率以脉别之为准，诸数为热，诸迟为寒，无如此最为验也。\n上此一句，可以为世法。\n假令身体微热，烦躁面赤，其脉沉而微者，皆阴证也。身微热者，里寒故也；烦躁者，阴盛故也；面戴阳者，下虚故也。治者不看脉，以虚阳烦躁，误以为实热，反与凉药，则气消成大病矣！《外台秘要》云：阴盛发躁，欲坐井中，宜以热药治之。仲景少阴证，面赤者，四逆加葱白主之。\n上外热内寒，烦躁，不可用凉热。\n问：身冷，脉细沉疾，烦躁而不饮水者，何也？\n此名阴盛格阳也。伤寒阴盛格阳者，病人身冷，脉细沉疾，烦躁而不饮者是也。若欲引饮者，非也。不欲饮水者，宜服霹雳散，须臾躁止，得睡汗出即瘥。此药通散寒气，然后热气上行，汗出乃愈。火焰散、丹砂丸并主之。\n问身体重少气，阴肿入里，腹内绞痛，热上冲胸，头重不欲举，眼中生花，妇人则里急，腰胯连腹内痛者，何也？\n此名阴阳易也。伤寒病新瘥，阴阳气未和，因合房室，则令人阴肿，入腹绞痛，妇人则里急，腰胯连腹痛，名为阴阳易也。其男子病新瘥，未平复，而妇人与之交接得病，名曰阳易；其妇人病新瘥，未平复，男子与之交接得病，名曰阴易。若二男二女，并不相易。所以呼为易者，阴阳相感动甚，毒疫著人，如换易然。其病状身体热冲胸，头重不能举，眼中生花，四肢拘急，小腹绞痛，手足拳则皆死。其亦有不即死者。病若小腹里急，热上冲胸，头重不欲举，百节解离，经脉缓弱，血气虚，骨髓竭，便翕翕气力转小，著床而不若摇动，起止仰人。或引岁月不死，烧裈散、豭鼠粪汤、竹皮汤、干姜汤、青竹茹汤、当归白术汤，可选用之。\n《孙兆口诀》，治阴盛隔阳，伤寒其人必躁热，不欲饮水者，宜服霹雳散。\n附子一枚，烧灰存性，为末，蜜水调下，为一服而愈。此逼散寒气，然后热气上行，而汗出乃愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 140,
+      "source_path": [
+        "活人陰脈例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "840f1b811f7393b3c8a5bc13db29f7a5eb2a84c176a31c632fff6be92790f50c",
+      "content_sha256": "f7e45da383bddec827e9e7e7d3de4a124e17403e955f51f085541a07ba54057c",
+      "paragraph_count": 43,
+      "paragraph_ordinals": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 3155,
+        "simplified_codepoints": 3155
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "8f383239109debdfe259d0bd",
+      "title": "阴毒甘草汤",
+      "volume": "活人阴脉例",
+      "content": "治伤寒时气，初得病一二日便结成阴毒，或服药后六七日以上至十日变成阴毒，身重背强，腹中绞痛，咽喉不利，毒气攻心，心下坚强，气短不得息，呕逆，唇青面黑，四肢厥冷，其脉沉细而疾。仲景云：阴毒三候，身如被杖，咽喉痛，五六日可治，至七日不可治也。\n甘草（炙） 升麻 当归（各二分） 雄黄（一分） 蜀椒（一分，去目） 龟甲（一两，醋炙） 桂枝（二分）\n上㕮咀，每服五钱，水一盏半，煎至八分，去滓。服如人行地五里，须臾进一服，温覆取汗，毒当从汗出，汗出即愈。若未，作再服。\n上此一条，举仲景言，至七日不可治，有别说。\n问：活人阴毒甘草汤举仲景云：阴毒三候，六五日可治，至七日不可治者，何也？\n答曰：假令内伤冷物，中焦不和，或显少阴，或显厥阴，二脉无定，内阴之极，阳气逆而上行，至阳明则多错语，至太阳头复微痛，至少阳寒热间作，即非少阳外感正病也。然此经虽有寒热，其实脾先受之，卯酉之间，土居其中，是通胆肺，故如是也。内阳之外，至此欲竭，所以至七日不可治也。阴证舌缩者，知心火绝也，则神去矣。又云：失神者亡。发阳证舌缩者，知少阴无水也。外感传六经，当先表而后下，内感传三阳，则止治三阴，药内增损加减，不复再用凉药也。内阳之外，不必次第传遍三阳，但至一经，却便至极高之分，所以七日不可治也。总六经俱尽之意，所以不必次第传遍三阳也。\n海藏云：惟附子散明注阴毒唇青面黑，正阳散明注阴毒面青舌黑，二证别无伏阳，故药味皆温热辛甘而无苦寒也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 184,
+      "source_path": [
+        "活人陰脈例",
+        "陰毒甘草湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "3578d9701da9acca121fdfe857c814a1d6edc51e505b05fd2346dd5ea2f80874",
+      "content_sha256": "be297c5905183311e5cccca806d654a56d204ec4b288578bfa1f664aa3521592",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 606,
+        "simplified_codepoints": 606
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "085896ba0fe8a89f70b679fa",
+      "title": "附子散",
+      "volume": "活人阴脉例",
+      "content": "治阴毒寒伤，唇青面黑，身背强，四肢冷。\n附子（三分，炮裂，去皮脐） 桂心（半两） 当归（半两，锉，炒） 半夏（一分，姜制） 干姜（一分，炮） 白术（半两）\n上件为细末，每服二三钱，水一中盏，生姜半钱，煎至六分，去滓。不计时候热服，衣覆取汗，如人行地十里。未汗，再服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 192,
+      "source_path": [
+        "活人陰脈例",
+        "附子散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "b8894300ba1e8c526ec06d39ff577ed5603b2cea5adb62e86b6270a7667cdf82",
+      "content_sha256": "dc4aacc6d12435cbc2abc6365ce3223bf3f50b5b6689091b1c167e33cf549563",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        193,
+        194,
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 133,
+        "simplified_codepoints": 133
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "04498efa3ab7343c2d9fb8dc",
+      "title": "正阳散",
+      "volume": "活人阴脉例",
+      "content": "治阴毒伤寒，面青，张口气出，心下硬，身不热，只额上有汗，烦渴不止，舌黑多睡，四肢俱冷。\n附子（一枚炮裂，去皮脐） 皂荚（一挺，醋炙，去皮弦子） 干姜（一分） 甘草（一分，炙） 麝香（一钱，另研）\n上细末，每服一钱，水一中盏，煎至五分，不计时候，和滓热服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "活人陰脈例",
+        "正陽散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "af900bf1f5ac34b26a7fe43bb76bcba0819ea64f3538b4a338236165ea195261",
+      "content_sha256": "b07a1abef05aa587df989bae827719ff8812dafd68f89856f80f235bb0a779a9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        197,
+        198,
+        199
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 127,
+        "simplified_codepoints": 127
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "d0c689cfd57381228eae7d0d",
+      "title": "霹雳散",
+      "volume": "活人阴脉例",
+      "content": "治阴盛隔阳，烦躁不饮水。\n附子一枚半两者，炮热取出，用冷灰焙之，细研，入真腊茶一大钱，和匀分作二服，水一盏，煎至六分，临熟入蜜半匙，放温或冷服之。须臾，躁止得睡，汗出即瘥。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 200,
+      "source_path": [
+        "活人陰脈例",
+        "霹靂散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "f331661121c986602ddd8f4782149ee33e3aa4b287d73083e3a2898c491d4e4d",
+      "content_sha256": "81855bd28f5fbd5a8f372de473646c721828e2ca766752be818ef3edc9c00950",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        201,
+        202
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "c843dbff5c67ac45ed3f8d5a",
+      "title": "火焰散",
+      "volume": "活人阴脉例",
+      "content": "治伤寒恶候。\n舶上硫黄 附子（去皮，生用） 新腊茶（各一两）\n上为细末，先将好酒一升，调药分大新碗口中，于火上摊荡令干，合于瓦上，每一碗下烧艾熟一拳大，以瓦起，无令火著，直至烟尽，冷即刮取，却细研入瓷合盛。每服二钱，酒一盏，共煎七分，有火焰起，勿讶。伤寒阴毒者，四肢冷，脉沉细，或吐或泻，五心躁烦，胸中结硬，或转作伏阳在内，汤水不下，或无脉，先吃一服，如吐，却更进一服。服后心中热，其病已瘥，下至脏腑中。表未解者，浑身壮热，脉气洪大，宜用发表药。或表解者，更不发热，便得眠睡，浑身有汗，方可用下胸膈行脏腑药，渐用调和脾胃，补治元气汤散。如服此药，三二服不应者，不可治也。\n海藏云：表后既解，不发热，得睡，身有汗，方可用下脏腑药，此一句利害非轻。若稍少有痞结，亦当求脉之虚实，而下膈行脏腑，脉实则可，脉虚只宜和脾胃补元气。下文云：二药不应，犹不可治，可以妄下行脏腑乎？用者宜详。\n仲景伤寒脉浮，自汗出，小便数，心烦微寒，脚挛急。与桂枝汤，欲攻表，误也。得之便厥，咽中干，燥烦吐逆，作甘草干姜汤与之，以复其阳。若厥愈足温者，更作芍药甘草汤与之，其脚即伸。若胃气不和谵语者，少与调胃承气汤。\n上此一条，先温后下，不可轻用，内别有消息。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 203,
+      "source_path": [
+        "活人陰脈例",
+        "火焰散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "f1a3105c0debec4f6df64ce6dcab59611310b3712aa63d53821817642760e87f",
+      "content_sha256": "c3e8e74b6fc46d36a781f9d0133084b278984b27b785c7f4422555a2863e2e5a",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        204,
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 514,
+        "simplified_codepoints": 514
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "c2cc07e1e7ae12e586bed034",
+      "title": "丹砂丸",
+      "volume": "活人阴脉例",
+      "content": "治伤寒阴阳二毒相伏，危恶形证。\n舶上硫黄 水银 太阴石 太阳石 元精石（各一两） 硝石（半两）\n上件药末，先用无油铫子，以文武火炒，下诸药末，令匀如灰色，研细如粉面，生姜自然汁浸，蒸饼丸绿豆大。每服五丸，龙脑、牛黄、生姜、蜜水下，压躁也。若阳毒，枣汤下，阴毒，桂汤下。慎不得于屋底炒。\n海藏云：此丸为阴阳二毒相伏匿，故用脑子、牛黄、蜜水调下。若明见只是阴证，别无伏阳，不宜用此下之。若有伏阳，当以仲景翕奄沉脉法责之。在许学士破阴丹条下。叔和云：短脉阴中有伏阳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 210,
+      "source_path": [
+        "活人陰脈例",
+        "丹砂丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "a8725bd0955d0b004ace7d942932219bcaea76d806ecc64783220b22531a44a9",
+      "content_sha256": "0698a8aee0dfef81ccf103d77ffe1a527f25834cd052a34322fbf1d3732ed708",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        211,
+        212,
+        213,
+        214
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "e8f2f8cfbee9883fbf006b3d",
+      "title": "肉桂散",
+      "volume": "活人阴脉例",
+      "content": "治伤寒服冷药过度，心腹胀满，四肢逆冷，昏沉不识人，变为阴毒恶证。\n肉桂（三分） 赤芍药（一两） 陈皮（一两） 前胡（一两） 附子（一两，炮） 当归（一两）白术（三分） 吴茱萸（半两，洗，炒） 木香（三分） 厚朴（三分） 制良姜（三分） 人参（一两）\n上粗末，每服五钱，水一中盏，枣三枚，煎至六分，去滓，不拘时候，稍热服。\n上此一条，以其先是阳证，为服凉药过多，变为阴毒，故内有前胡一味。知少阳不止，乃用药之过也，与泻心汤加附子相似。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 215,
+      "source_path": [
+        "活人陰脈例",
+        "肉桂散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "b318cc2d8fa3bd829fc3f452e358d00e55ead6fb1f7ff3a37c68db858062b71a",
+      "content_sha256": "859d8e70e322e4376eab39cba4386738ac124c4a8f744dc73bbb361a8df1a9f2",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        216,
+        217,
+        218,
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 216,
+        "simplified_codepoints": 216
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "fb386a363cfe97bfc0a5bab9",
+      "title": "回阳丹",
+      "volume": "活人阴脉例",
+      "content": "治阴毒伤寒，面青，手足逆冷，心腹气胀，脉沉细。\n硫黄（半两，研） 木香（半两） 荜澄茄（半两） 附子（半两，制） 干姜（一分） 干蝎（半两，炒） 吴茱萸（半两，汤洗，炒）\n上细末，酒煮糊为丸桐子大。每服三十丸，生姜汤下，频服，复以热酒一盏投之，以衣盖取汗。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "活人陰脈例",
+        "回陽丹"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2fab7493a32466601d2e6b0d3393ffc537df7d20fbc2b3f6d8627f6cd63c77bb",
+      "content_sha256": "0de1dada07cc134cf18cdc315014a574343770aacfae477fe64882c1b9b7f36a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        221,
+        222,
+        223
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "a15b28d688458c61d0bb2cde",
+      "title": "返阴丹",
+      "volume": "活人阴脉例",
+      "content": "治阴毒伤寒，心神烦躁，头痛，四肢逆冷。\n硫黄（三两） 太阴玄精石 硝石（各二两） 附子（半两，炮） 干姜（半两） 桂心（半两）\n上件药，用生铁铫铺玄精石末一半，次铺硝石一半，中间下硫黄末，著硝石盖硫黄，都以玄精盖上，讫用小盏合著，以三斤炭末，烧令得所，勿令烟出，直俟冷取出，细研如面，后三味捣罗为末，与前药同研令匀，软饭和丸桐子大。每服十五丸，艾汤下，频服，汗出为度。重则加三十丸。此方甚验，喘促吐逆者，入口便止。\n上此一条，与丹砂丸中药味相似，当从阴阳二毒相伏匿法用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 224,
+      "source_path": [
+        "活人陰脈例",
+        "返陰丹"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "715c692eee86eddadce615767491f68edfbcca1b8e36551829567982f5889ad2",
+      "content_sha256": "ea028c579980017de019bc0f67fbd6946b5bfcbe6c333dbb5a46e2fed92be7b0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        225,
+        226,
+        227,
+        228
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 236,
+        "simplified_codepoints": 236
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "ea6d2b30017989ae7c97a3bb",
+      "title": "天雄散",
+      "volume": "活人阴脉例",
+      "content": "治阴毒伤寒，身重背强，腹中㽲痛，咽喉不利，毒气攻心，心下坚强，短气呕逆，唇青面黑，四肢厥逆，其脉沉细而疾。\n天雄（一两，炮，去皮脐） 麻黄（半两，去根节） 当归（半两） 白术（半两） 半夏（半两，洗） 肉桂（一两） 川椒（一分，去目，炒） 生姜（二钱） 厚朴（一两，去皮，姜制） 陈皮（一钱，去白）\n上粗末，每服五钱，水一盏，入生姜半钱，枣三枚，煎至五分，去滓。无时，稍热服，如人行十里，未汗再服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 229,
+      "source_path": [
+        "活人陰脈例",
+        "天雄散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "4e2174c73e7489bae9439cd86a1121bc7a9029357eaf2ad0b0be5866b963e30b",
+      "content_sha256": "aacc32f7b7fbb40649a8e5c23cd0206b22a444aeea0babf78e23c1ebb74c3f35",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        230,
+        231,
+        232
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "01203e71df108a0bc921f913",
+      "title": "白术散",
+      "volume": "活人阴脉例",
+      "content": "治阴毒伤寒，心间烦躁，四肢逆冷。\n川乌头（一两，炮，去皮脐） 桔梗（一两） 附子（一两，炮） 白术（一两） 细辛（一两，去苗） 干姜（半两，炮）\n上细末，每服一钱，水一中盏，煎至六分，稍热服，和滓，无时。\n海藏云：仲景白通汤、通脉四逆汤用猪胆汁苦寒，人溺咸寒。成无己云：所以去格拒之寒也。孙兆霹雳散用蜜水，《活人》霹雳散、火焰散用腊茶，返阴丹用硝石，许学士正元散用大黄，此数法与白通汤、通脉四逆汤用猪胆汁、人溺同意，皆所以去格拒之寒也。以上诸热药等，或用麻黄，或用升麻，或用前胡，皆所以随经而用之也。明汤液善加减者，要当识此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 233,
+      "source_path": [
+        "活人陰脈例",
+        "白朮散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "b9b7daf50bed04f12748ee15f27cd9ed756ebae35e10df90422850175797fce5",
+      "content_sha256": "b4fbb8ab92cf3e505b539c4deb57e4168a5caf9a76f2da253855c10167fa33cd",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        234,
+        235,
+        236,
+        237
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 263,
+        "simplified_codepoints": 263
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "0c7d10d5fc972434c966166a",
+      "title": "许学士阴证例",
+      "volume": null,
+      "content": "始得阴毒候 阴毒本因肾气虚寒，因欲事或食冷物，而后伤风，内既伏阴，外又伤寒，或先感外寒而后伏阴，内外皆阴，则阳气不守，遂发头痛腰重，眼睛疼，身体倦怠而甚热，四肢厥逆冷，额上及手背冷汗不止，或多烦渴，精神恍惚，如有所失，三二日间或可起行，不甚觉重。诊之六脉沉细而疾，尺部短小，寸口或大（六脉俱浮大，或沉取之大而不甚疾者，非阴证也。）若服凉药，则渴转甚，躁转急。有此病证者，急服还阳退阴之药即安。惟补虚和气而已，宜服正元散、退阴散、五胜散。阴证不宜发汗，如气正脉大身热而未瘥，用药发汗无妨。\n阴毒渐深候 或寸口小而尺脉微大，亦同积阴感于下则微阳消于上，故其候沉重，四肢逆冷，腹痛转甚，或咽喉不利，或心下胀满，结硬躁渴，虚汗不止，或时狂言，爪甲面色青黑，六脉沉细而一息七至以来。有此证者，速宜于气海或关元二穴灸三二百壮，以手足和暖为效，仍服金液丹、来复丹、玉女散、还阳散、退阴散之类，随证选用之。\n阴毒沉困候 沉困之候与前渐深之候皆同，而更加困重。六脉附骨取之方有，按之即无，一息八至以上，或不可数，至此则药饵难为攻矣！但于脐中灼艾半枣大，三二百壮以来，手足不和暖不可治也。偶复和暖，则以硫黄及热药助之。若阴气散，阳气来，渐减热药而和治之以取瘥也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 238,
+      "source_path": [
+        "許學士陰證例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1129f3751983a3fecef8ee8e5aa5c6cda7e8713cd8bf98d0ebbb834843ce51bf",
+      "content_sha256": "341e2ffe007949574f0396d83c1f0eb1d6285faf65922d0572cc15d92301e2d9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        239,
+        240,
+        241
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 521,
+        "simplified_codepoints": 521
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "e126f3760cf15f2686fa2e75",
+      "title": "正元散",
+      "volume": "许学士阴证例",
+      "content": "治伤寒始觉始吹冻著四肢头目，百节疼痛，急煎此服，如人行五里再服，或连三服，汗出立瘥。若患阴毒伤寒，入退阴散半钱同煎。或伤冷伤食，头昏气满，及心腹诸疾，服之无有不效。\n麻黄 陈皮 大黄 甘草 干姜 肉桂 白芍药 附子 半夏 吴茱萸（以上皆可制者制之，各等分。）\n上麻黄加一半，茱萸减一半，同为末，每服一大钱，水一盏，生姜五片，枣一枚，煎至七分，热呷出汗，以衣被覆盖，汗出候干，解去衣。如是阴毒，不可用麻黄出汗。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 242,
+      "source_path": [
+        "許學士陰證例",
+        "正元散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "073ff1c33d360b9bc7282d1916cd98153fb70722978c83b13028c9732f63559e",
+      "content_sha256": "0aae6c8ab4c2f7646867207262984661285db207e5b379f24c38a1f36ef758dc",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        243,
+        244,
+        245
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 204,
+        "simplified_codepoints": 204
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "a17411f127a7bd119509d31d",
+      "title": "元阳丹",
+      "volume": "许学士阴证例",
+      "content": "乌头 干姜（等分）\n并生用，酒面糊丸桐子大。每服用十丸，生姜汤下，食前。治气痛，亦治阴毒。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 246,
+      "source_path": [
+        "許學士陰證例",
+        "元陽丹"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1011192b336684b26b70d64c85c50ec8e205895dd0d8f955f53918fdbeed7525",
+      "content_sha256": "e4aa6206adae38215d5e693baccd37fbc24af241ea916fd7dff3155c3c018903",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        247,
+        248
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "abfb7c2e1d2ccbfcb9a18256",
+      "title": "退阴散",
+      "volume": "许学士阴证例",
+      "content": "治阴毒伤寒，手足逆冷，脉沉细，头痛腰重。\n连三服。小背伤冷，每服一字，入正元散同煎，入盐一捻。阴毒证咳逆，煎汤，细细热呷之便止。\n川乌头 干姜（等分）\n上为粗末，炒令转色，放冷为细末，每服一钱，水一盏，盐一捻，煎半盏，去滓，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 249,
+      "source_path": [
+        "許學士陰證例",
+        "退陰散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "05fc06dce5dd8593ebccb32b0efa0af947a19de1d1c5fd6fd0b321844f91605f",
+      "content_sha256": "a3b3ac591e929c49047c6b223dd7d0687760cfe62f01e0649c6b12f344af049a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        250,
+        251,
+        252,
+        253
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "b17ab00c16240964c732671d",
+      "title": "五胜散",
+      "volume": "许学士阴证例",
+      "content": "治伤寒头痛壮热，骨节疼痛，昏沉困倦，咳嗽鼻塞，不思饮食。兼治伤寒夹冷气慢阴毒。\n甘草 五味子 石膏（各一两） 干姜（三两半） 白术（一两半）\n上为末，每服二钱，水一盏，入盐少许，煎七分，通口服。如冷气相夹，入姜枣煎。若治阴毒，入艾叶少许同煎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 254,
+      "source_path": [
+        "許學士陰證例",
+        "五勝散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2660ba7d470408636d4e725d16e5b24fc3632728fea56da613e1018ee4bf24c3",
+      "content_sha256": "48333caf24a98344c5d1f71584ddd62c1993eefaba6f6dbd7408f07e629778e6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        255,
+        256,
+        257
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "de2117d2de9d6d1e1098c795",
+      "title": "玉女散",
+      "volume": "许学士阴证例",
+      "content": "治阴毒气攻上腹痛，四肢逆冷恶候。\n川乌头去皮脐，冷水浸七日后，薄切曝干，纸袋盛。遇有患者，取为细末一大钱，盐一小钱，水一盏半，煎至七分，通口服。压下阴毒，所便后如猪血相似。未已，良久再服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 258,
+      "source_path": [
+        "許學士陰證例",
+        "玉女散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "a3adf651cca7103a83d803cb78af472d186e23d6668470124beed115ae18272d",
+      "content_sha256": "43b6f7a78644fd4600c479ad1f84645bc842d881d80302d8c1ef353a6909fe0d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        259,
+        260
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "8eae936eb8fed83afa6ece52",
+      "title": "运阳散",
+      "volume": "许学士阴证例",
+      "content": "治阴毒面色青，四肢逆冷，心躁腹痛。\n硫黄（为末）\n上用新汲水调二钱，良久或寒一起，或热一起便看紧慢，汗出瘥。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 261,
+      "source_path": [
+        "許學士陰證例",
+        "運陽散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "d36e9fe91ebf0493d41580ac32f47e929f06a1b290b55755b87d7399bd1ceab4",
+      "content_sha256": "3739d1837baa7d4f3f867983d9e1cecbf7893dfbddb2de21747bbeabd67e305c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        262,
+        263,
+        264
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 54,
+        "simplified_codepoints": 54
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "1feb9d6c6009b3c82c0fd0be",
+      "title": "辨少阴紧脉证",
+      "volume": null,
+      "content": "有人患伤寒六七日，心烦昏睡多吐，小便白色自汗。予诊之，寸口尺中俱紧。予曰： 寒中少阴之经，是以脉紧。仲景云：病人脉紧而汗出者，亡阳也。属少阴，法当咽痛而复下利，盖谓此也。或曰：脉紧属七表，仲景紧脉属少阴，紧脉属阳邪属阴邪？予曰：仲景脉寸口俱紧者，清邪中于上焦，浊邪中于下焦。又云：阴阳俱紧者，口中气出，唇口干燥，倦卧足冷，鼻中涕出，舌上滑胎，勿妄治也。又云：紧则为寒。又云：诸紧为寒。又云：或难曰紧脉从何而来？师曰：假令已汗若吐，以肺里寒，故令脉紧；假令咳，坐饮冷水，故令脉紧；假令下利胃虚，故令脉紧。又曰：寸口脉微，尺脉微，尺脉紧，其人虚损多汗。由是观之，则是寒邪之气，入人经络所致，毕虚寒之脉也。其在阳经则浮而紧；在阴经则沉而紧。故仲景云：浮紧者名为伤寒。又曰：阳明脉浮而紧者，必潮热。此在阳则浮而紧也。在阴则沉而紧，故仲景云：寸口脉微，尺脉紧，至七八日自下利，脉暴微，手足反温，脉紧反出去者，此欲解也。此在阴则沉而紧也。仲景云：浮为在表，沉为在里；数为在腑，迟为在脏。欲知表里脏腑，先以浮沉迟数为定，然后兼于脉而别阴阳也。故论伤寒，当以仲景脉法为准。伤寒之必本仲景，犹兵家之必本孙吴也。舍是而之他者，是犹舍规矩而求方圆，舍律吕而正五音，可乎？\n《活人》丹砂丸论阴阳二毒相伏，破阴只是伏阳一脉，阴中伏阳，脉即翕奄沉也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 265,
+      "source_path": [
+        "辨少陰緊脈證"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "7329594be4646cce99baa0f8eaed2775912bf2c23ab43aa4b66a89f9daef8dc2",
+      "content_sha256": "b1965dcb5a26d9ffcc9633e68e0db0aedf69dd05c0ee60c790431ade477c89bd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        266,
+        267
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 561,
+        "simplified_codepoints": 561
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "2cd8787f3af0627a1c00c7d0",
+      "title": "破阴丹",
+      "volume": "辨少阴紧脉证",
+      "content": "硫黄 水银（各一两） 青皮 陈皮（各半两，为末）\n上将硫黄铫子内熔，次下水银，用铁杖打匀，令无星，倾入黑茶盏内，研细，入末二味匀研，用厚面糊丸桐子大。每服三十丸。如烦躁，冷盐汤下；阴证，冷艾汤下。\n此一条与杨氏五神丹相若。\n此证六脉沉不见，深按至骨则弱紧有力，头痛身温，烦躁，指不皆冷，中满恶心，医多不识。学士脉曰：此阴中伏阳也，脉之当矣。学士却云仲景无此证，非无此证也。用热药则阴邪隔绝，反生客热；用寒药则阳气销铄，愈益毒气。必须散阴导火之剂，使火出水平，上下升降，大汗而解，或躁扰不宁，勿惊可也。《活人》例后，举前贤诸去格拒之寒，大热药中，佐以人溺、胆汁、茶、蜜、盐之类，虽各随经，大抵与学士破阴导阳之意同。吾是以知仲景有此证也，但言简而意有余矣。明者当识！\n有人初得病，四肢逆冷，脐下筑痛，身疼如被杖，盖阴证也。急服金液、破阴等丹。其脉遂沉而滑，沉者阴也，滑者阳也，病虽阴而见阳脉，有可生之理，仲景所谓阴病见阳脉者生也。仍灸气海、丹田百壮，手足温，阳回得汗而解。或问滑脉之状，如何便有生理？予曰：仲景云翕奄沉？曰何谓也？沉为纯阴，翕为正阳，阴阳和合，故名曰滑。古人论滑脉，虽云往来前却流利，展转替替，然与数相似，仲景三语而尽也。此三字极难晓会。然翕合也，言张而复合也，故曰翕为正阳；沉言忽降而下也，故曰沉为正阴；方翕而合，俄降而下，奄谓奄忽之间。仲景论滑脉，可谓谛当矣。其言皆有法，故读者极难晓会。\n浮大数动滑阳脉，阴病见阳生可得。\n沉涩弦微弱属阴，阳病见阴终死厄。\n阴阳交互最难明，轻重斟量当别白。\n轻手脉微为在表，表实浮而兼有力。\n但浮无力表中虚，自汗恶风常淅淅。\n重手脉沉为在里，里实脉沉为亦实。\n重手无力大而虚，此是里虚理审的。\n风则虚浮寒牢坚，水停水蓄必沉潜。\n动则为痛数为热，支饮应须脉急弦。\n太过之脉为可见，不及之脉亦如然。\n荣卫太甚名高章，高章相搏名曰纲。\n荣卫微时名卑惵，卑惵相搏名捐阳。\n荣卫既和名缓迟，缓迟名沉此最良。\n九种脉中辨疾证，长沙之脉妙难量。\n阳结蔼蔼如车盖，阴结循竿亦象之。\n阳盛则促来一止，阴盛则结缓而迟。\n纵横逆顺宜审察，残贼灾怪要须知。\n右手气口当主气，主血人迎在其位。\n气口紧盛伤于食，人迎紧盛风邪炽。\n数为在腑迟为脏，浮为在表沉为里。\n脉浮而缓风伤荣，浮坚涩坚寒伤卫。\n脉微大忌令人吐，欲下须防虚且细。\n沉为气弱汗为难，三者须要当审记。\n阳加于阴有汗证，左手沉微却应未。\n趺阳胃脉定死生，太溪肾脉为根蒂。\n脉来六至或七至，邪气渐深须用意。\n浮大昼加病属阳，沉细夜加分阴位。\n九至以上来短促，状若涌泉无入气。\n更加悬绝渐无根，命绝天真当死矣。\n病人三部脉调匀，大小浮沉迟速类。\n此是阴阳气已和，勿药自然应有喜。\n学士脉歌一篇，即仲景评辨二章也，要当识之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 268,
+      "source_path": [
+        "辨少陰緊脈證",
+        "破陰丹"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "afb21f374aa781b4bb223f0d72c85d895f7b047b7aa2e1b829f3eab1e7df8e25",
+      "content_sha256": "0f34be5df88cf7ce6209479fa362f9a063d7718b03555a7353478ee50e638797",
+      "paragraph_count": 37,
+      "paragraph_ordinals": [
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1151,
+        "simplified_codepoints": 1151
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "233a8a0052133798e1b68927",
+      "title": "韩祗和温中例",
+      "volume": null,
+      "content": "夫伤寒病之说，始自黄帝已开其端，主仲景方陈其条目，后世肤浅之学莫知其数。立言者只云：病在表可发汗，病在里可下之，或云：不可汗，或云：不可下，即未尝有温中之说。仲景《伤寒例》云：尺寸俱沉细，太阴受病也；尺寸俱沉，少阴受病也；尺寸俱微缓，厥阴受病也。又辨太阴证云：太阴病，脉浮，可发汗，宜桂枝汤。又手足温，自利不渴，宜四逆汤。又腹满时痛，桂枝加芍药汤。辨少阴证云：少阴证，始得之，发热脉沉，麻黄细辛附子汤。又少阴病二三日，麻黄附子甘草汤。又少阴病，身体疼痛，手足寒，骨节痛，脉沉，附子汤。又厥阴病，吐利，手足逆冷，烦躁欲死，吴茱萸汤。又少阴病，脉沉，急温之，宜四逆汤。今举仲景论中数条，最是治三阴病之良法。今世之用，尚有未尽证者。愚尝校自至和初岁，迄于今三十余年，不以岁之太过不及为则，每至夏至以前，有病伤寒人十中七八，两手脉俱沉细数，多是胸膈满闷，或呕逆，或气塞，或腹鸣，或腹痛，与仲景三阴病说，脉理同而证不同，因兹不敢妄投仲景三阴药。才见脉沉及胸膈满，便投下药下之，往往不救。尝斟酌仲景理中丸与服之，其病势轻者，即胸中便快，其病势重者，半日许满闷依然。或有病人脉沉细迟，投仲景四逆汤温之，多药力太热，后必发烦躁。因较量此形证，今别立方以治之，得多对证之药，不可不传焉。\n上此一条，非四逆热而不当也，仲景当汉之末，韩氏当宋之隆，时世异也。病人但两手脉沉细数，或有力，或无力，或关脉短及力小，胸膈塞闷，气短不能相接者，便可随脉证投温中药以治之。此一法甚活。\n病人两手脉沉迟，或缓或紧，皆是胃中寒也。若寸脉短及力小于关尺者，此阴盛阳虚也。或胸膈塞闷，腹中胀满，身体拘急者，手足逆冷，急宜温之。\n若立春以后至清明以前，宜温中汤主之；清明以后至芒种以前，宜橘皮汤主之；芒种以后至立秋以前，宜七物理中丸主之。此皆随时也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 306,
+      "source_path": [
+        "韓祗和溫中例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "bda70831391a3d703de949527e4ceeb1fec8f9adfd8aeec0491ca14898b64857",
+      "content_sha256": "eee566bd1e0d63d112f2a362508365b76f85a68113fdb67289a51f33ceac7374",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        307,
+        308,
+        309,
+        310
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 754,
+        "simplified_codepoints": 754
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "5719ce42882d282892d799dd",
+      "title": "温中汤",
+      "volume": "韩祗和温中例",
+      "content": "丁皮（一两） 干姜（二钱） 白术（二钱） 陈皮（二钱） 丁香（二钱） 厚朴（一两，姜制）\n上为末，每服二钱，水一盏，葱白三寸，荆芥五穗，煎至七分，去滓热服。三服未快，手足尚逆，呕吐，更加舶上丁皮二钱，干姜二钱，炮用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 311,
+      "source_path": [
+        "韓祗和溫中例",
+        "溫中湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2e688b441cd675d2af97844ad6fd855ddb50dc132c80cd8c15372dd443540fe2",
+      "content_sha256": "8eaa28c62c5fe0671481fd5d94dde4a1be385c58de8e130779d51266e3615ba8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        312,
+        313
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "5890ff6a24c69c0bb59a6a5f",
+      "title": "橘皮汤",
+      "volume": "韩祗和温中例",
+      "content": "陈皮（一两） 藿香（三钱） 白术（二钱） 葛根（二钱） 厚朴（一两，姜制）\n上为末，每服二钱，水一盏，生姜一块，枣大破，同煎至七分，去滓，热服。如三服未快，手足尚逆，呕吐不定，加半夏三钱，丁香、枝杖半两，每服加葱白三寸煎服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 314,
+      "source_path": [
+        "韓祗和溫中例",
+        "橘皮湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "3231d705ccbca7bbb59ab5dbaecf42be93fdc2d7e6148bcf05388946ec0e10d0",
+      "content_sha256": "87a3950d2604f6082dce4ea8fe9cb7cae80693e5a9beb221afd6a12b98d6c2ed",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        315,
+        316
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "c2d2650e17f0eee64c6e1dc0",
+      "title": "七物理中丸",
+      "volume": "韩祗和温中例",
+      "content": "白术（二钱） 干生姜（一钱） 人参（三钱） 桔梗（三钱） 葛根（三钱） 藿香叶（二钱）\n上细末，炼蜜为丸弹子大。每服一丸，水一盏，煎至七分，和滓热服。如三服未快，手足尚逆，呕者，加半夏二钱，干姜二钱，炮。\n病人两手脉沉细无力，虽三部脉力停，亦是阴气盛也，更不须候寸脉短治之，或胸胁满闷，身体拘急疼痛，手足逆冷，速宜温中药和之。\n上此一条，不须候寸脉短一句。然当不若曰三部既沉，便是无寸口也。若立春以后至清明以前，宜厚朴丸主之；清明以后至芒种以前，宜白术汤主之；芒种以后至立秋以前，宜橘皮汤主之。\n上此一条，李思训举和解因时一说，与韩氏相似。然汤液仲景四时之法，固以备矣，以其后人不识，故韩、李为是丁宁也，此亦大概耳。若应见违时，只可随应见而治之。\n海藏云：仲景既言春为温病，夏为热病，长夏为大热病，随经之药，加减轻重，便为因时和解也。正治应见，便是活法，韩、李因时定药，是则然矣！证复违时，定药难用，若用定药，却是不因时也。假令立春、清明、芒种、立秋，即岁之主气也。定时也，若岁之客气，司天在泉，太过不及，胜复淫，至而不至，未至而至，岂可定时为则邪？主气为病，则只论主气；客气为病，则只论客气；主客相胜，上下相召，有万不同之变。人之禀受虚实，亦犹是也。以此言之，则仲景大经之言尽矣。但患世之医者不知耳！此亚圣言简而意有余也。后之贤者，辞多而意少，务救一时之弊，云此韩、李为是因时一说也。是说也，又为庸医执方疗病者设，非敢为仲景别立一法也。噫！二公虽不足为汉之仲景，亦足以为今之仲景也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 317,
+      "source_path": [
+        "韓祗和溫中例",
+        "七物理中丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "e178d44424e903508bef25d65885cb4dbff5a988d137bfff9960374bbdae2f00",
+      "content_sha256": "866f82a69bb016e210d7af279203c0454c7e4792e19ef4d77695cecbcaec6a0e",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        318,
+        319,
+        320,
+        321,
+        322,
+        323
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 642,
+        "simplified_codepoints": 642
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "eecf86a2ec89c8aa958fe031",
+      "title": "厚朴丸",
+      "volume": "韩祗和温中例",
+      "content": "当归（半两） 丁香枝杖（半两） 厚朴（一两，姜制） 细辛（一钱） 人参（三钱） 甘草（半两，炙） 干姜（半两，炮）\n上为末，炼蜜为丸，弹子大。每服一丸，水一盏，煎至六分，和滓热服。三服后脉尚细，及寸脉尚细无力，每服加葱白三寸，同煎服。\n此一条言寸脉小者，阳不及九天也，加葱以通经。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 324,
+      "source_path": [
+        "韓祗和溫中例",
+        "厚朴丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "610dcfb7d129e5c3a73321eb73c9e695179bd499911702babe6e17ad5071bcf1",
+      "content_sha256": "21f8824f437c1f1831a7bcec342a9ca9456bf6a29aca20424d4d66533bbb3e0e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        325,
+        326,
+        327
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "f676e6e44c09ca95b6bb0db6",
+      "title": "白术汤",
+      "volume": "韩祗和温中例",
+      "content": "白术 半夏 当归 厚朴 制干生姜（以上各半两） 丁香（三钱）\n上为末，每服三钱，水一盏，姜一枣大，打破同煎，至七分，去滓热服。三五服后脉未有力，寸脉尚小，加细辛半两，每服加葱白三寸，同煎服之。寸口小，加细辛散阴升阳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 328,
+      "source_path": [
+        "韓祗和溫中例",
+        "白朮湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "8608875e04083abbe62298625f661a4a40fec9fd98dfe9c83ef91b9d726668b9",
+      "content_sha256": "9db9eeb88687da6e84a504e26f9d66a12f7bc95c6effda558b4f087258ff0d96",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        329,
+        330
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "659a1d965365db547358d3b5",
+      "title": "橘皮汤",
+      "volume": "韩祗和温中例",
+      "content": "橘叶（半两） 藿香（三钱） 葛根（三钱） 半夏（半两） 厚朴（姜制）\n上为末，每服三钱，水一盏，生姜一如枣大，同煎至七分，去滓热服。三五服后脉尚小，手足逆冷，加细辛三钱。\n病人胸膈满闷，时时呕逆，肢节疼，两胁下痛，腹中鸣。此是有停饮，宜二苓汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 331,
+      "source_path": [
+        "韓祗和溫中例",
+        "橘皮湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "f44d2afb897beb9fc059e625f604b14261d205747d34053b4cd57f399405aa16",
+      "content_sha256": "66f5fa6d99c3416239946cf463c92bf80182445d10987827bcd44d98a44dc9bb",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        332,
+        333,
+        334
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 122,
+        "simplified_codepoints": 122
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "f00e9a60d8d303c5b2d5dc2e",
+      "title": "二苓汤",
+      "volume": "韩祗和温中例",
+      "content": "赤茯苓 木猪苓 白术（各半两） 滑石（一两） 通草（一钱） 白豆蔻（一钱） 丁皮（三钱） 陈皮（二钱） 桂枝（半两）\n上为末，每服三钱，水一盏，煎至七分，去滓热服。小便未快，加瞿麦三钱。呕未止，加半夏半两。淅淅恶寒甚，每服加葱白三寸。\n上此一条，举李思训调小便例同。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 335,
+      "source_path": [
+        "韓祗和溫中例",
+        "二苓湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "b44e34a986fe3816850fd68628e28642181f768cf0cfa5db9eec2c68e1f59155",
+      "content_sha256": "6ae91441c07c1d4598c451f352a1a90956318b746a40dd0fdc90f78ef0358fea",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        336,
+        337,
+        338
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 133,
+        "simplified_codepoints": 133
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "2280ac3ae94551c8acb567dd",
+      "title": "灰包熨法",
+      "volume": null,
+      "content": "病人服前药，胸膈不满闷者，此上焦有阳也，或药力太过，上焦有热，腹满虚鸣，时时㽲痛。此是被阳药消逐，得上焦阴气并入下焦也。虽是下焦积寒冷，上焦阳盛，更难投温下焦药也。当用灰包法：炭灰或桑柴灰二三升许，入好醋拌和，干湿得所，铫内炒令灰热，以帛包里，置脐下熨之，频换灰包令常热，以腹不满痛为度。或初熨时，病人不受者，勿听，但令极熨之，不住灰包可也。如灰包熨后，得下利一两行，或小便二三升，或微似有汗，此是阴气外出，或下泄也，勿疑之，病轻者乃得愈也。后出余气而解，举此为例。\n病人三部脉沉，寸脉力小于关、尺，此为阴盛，当投温中药以消阴气。温中药者厚朴汤，陈皮、人参、白术、藿香、当归、干姜、细辛之类是也。\n海藏云：霜露山岚雨湿雾露之气与饮冷，寸口脉小，同诊一法，神术汤后举。此韩氏三部脉沉，寸口小于关、尺，为证一体。\n病人若因服下药太过，两手脉沉细数，肢体逆冷，烦躁而渴者，此是阳气下陷入丹田，阴气厥逆满上二焦，故令人躁，此名下阴躁也。医者见病人烦躁，又不询其端由，亦不详其脉理，便用凉药治之。凉药既下，病势愈甚，至于困极不救者多矣！\n病人因下之太过，两手脉沉迟细而无力，或遍身及四肢逆冷，烦躁而渴，或引饮不休，好泥水中卧者，须用性热药治之。凡投性热药，皆须冷服，何故如是？今谓病人腹中阴气太盛，若投汤济，即阴阳相系，药下即吐，须候汤剂极冷即投之。投之不吐者，盖腹中阴气与冷饮相逢，即同气相从尔，故药下不吐也。药虽冷，久则必热，所谓始同而终异也。故醇酒冷饮，久即发热。假令投仲景四逆汤之类，一依前说。若病人不烦躁，即热药可温服之，下后躁渴引饮不休，与伤冷只好饮冷同意。\n上此一条，本是阳证下之成阴，非阳气上行而躁，乃阳气下陷而躁，即同伏阴脉也。叔和云：短脉阴中有伏阳。\n海藏云：热药冷服，内有伏阳则可，若脉已虚，按之全无力，或病人素无所养，只可温服，不然阴气必不能酝酿回阳，利害非轻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 339,
+      "source_path": [
+        "灰包熨法"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "04a402accc028bb255122219746aab03c5ac71ea250ceb09f37661e18f93ea3b",
+      "content_sha256": "498f82e7bcfd9a482ebf3cb257cb0e59c01b83b2b6dcd1687b85954579dc53ad",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 788,
+        "simplified_codepoints": 788
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "39cfae550c25237fcf7d7ebf",
+      "title": "神术汤",
+      "volume": "海藏老人阴证例总论",
+      "content": "治内伤饮冷，外感寒邪无汗者。\n苍术（制，二两） 防风（二两） 甘草（炒，一两）\n上㕮咀，生姜水煎，加葱白三寸，治吹奶如神。一调六三钱。\n太阳证，发热恶寒，脉浮而紧者，加羌活。\n太阳证，脉浮紧中带弦数者，是有少阳也，加柴胡。弦为弦而有力。\n太阳证，脉浮紧中带洪者，是有阳明也，加黄芩。\n以上三证，约量每服加二钱匕。不论三阳，妇人服者，加当归尤佳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 348,
+      "source_path": [
+        "海藏老人陰證例總論",
+        "神術湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "756b83f0e59514bf3051c830948a4075802409a1a1da7ed15cd3870a745e7fb8",
+      "content_sha256": "32f4eff4933316e3ad47bfd3cde70a06ffd58506feca71bd15d021280f58b6c2",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 172,
+        "simplified_codepoints": 172
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "0e5320243cec10dcad1e9950",
+      "title": "神术汤六气加减例",
+      "volume": null,
+      "content": "太阳寒水司天，加桂枝、羌活。\n阳明燥金司天，加白芷、升麻。\n少阳相火司天，加黄芩、地黄（生）。\n太阴湿土司天，加白术，藁本。\n少阴君火司天，加细辛、独活。\n厥阴风木司天，加川芎、防风。\n上神术汤六气加减法，非止为司天之气设也。至于岁之主气，与月建日时同，前应见者，皆当随所应见，依上例而加减之。\n《日华子》云：滑石治乳痈，利津液。《生气通天》。云：平旦人气生，日中而阳气隆，日西而阳气已虚，气门乃闭。是故暮而收拒，无扰筋骨，无见雾露，反此三时，形乃困薄。\n王氏云：阳气出则出，阳气藏则藏。晚阳气衰，内行阴分，故宜收敛以拒虚邪。动筋骨则逆阳精耗，见雾露则寒湿交侵，顺此三时，乃天真久远。\n扁鹊云：脉一呼一吸皆四至而涩者，邪中雾露之气。仲景云：清邪中于上焦。又云：霜降以后，春分以前，中雾露者，皆为伤寒。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 356,
+      "source_path": [
+        "神術湯六氣加減例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "d661f8c98f4463e9efbe5546fdfc81cd4bb481637024c200b555ab2ba0ec264d",
+      "content_sha256": "3b956da02a80822b475af07ccef5eda705a45f6540e6a2a3a63ce407ff4a60ac",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        357,
+        358,
+        359,
+        360,
+        361,
+        362,
+        363,
+        364,
+        365,
+        366
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 350,
+        "simplified_codepoints": 350
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "9353a31c1d8574129db68732",
+      "title": "神术加藁本汤",
+      "volume": "神术汤六气加减例",
+      "content": "每服内加二钱匕，以意消息。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 367,
+      "source_path": [
+        "神術湯六氣加減例",
+        "神術加藁本湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "d4e1cf94dd613f4e986277c8859a638459fafbccd8cc6ce594784e91b5ff96dc",
+      "content_sha256": "5e1a00e17e1c290a51f74029307575205f593405bc8a9386f4403e14c8f91b77",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        368
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 13,
+        "simplified_codepoints": 13
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "823650368977d4c0841c1baf",
+      "title": "神术加木香汤",
+      "volume": "神术汤六气加减例",
+      "content": "每服内加二钱匕，以意消息。\n问病人中霜露山岚雨湿之气，头项身体不甚痛，但四肢沉困，饮食减少，或食已痞闷，寸脉隐小，与内伤饮冷相似，何也？\n答曰：此膏粱少有，贫素气弱之人多有之，以其内阴已伏，或空腹晨行，或语言太过，口鼻气消，阴气复加，所以成病。经云：天之邪气，感则害人五脏。虽不饮冷，寸口亦小。又云：伤于湿者，下先受之。故从内感而求其类也。仲景云：浊气中于下焦，以此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 369,
+      "source_path": [
+        "神術湯六氣加減例",
+        "神術加木香湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1e60683667d0bfe688a8ff890b8afb3136c5e3e1a2685723a2d00f015ddbde8b",
+      "content_sha256": "b45e92c80c9fe0c5bc9bc94cd9f735c17df1a4b473c79e28ee224d8ccd1d42d9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        370,
+        371,
+        372
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "e9508b4793cee46430011afe",
+      "title": "论雾露饮冷同为浊邪",
+      "volume": null,
+      "content": "经云：清邪中于上焦。浊邪中于下焦。均雾露也。故寸口小，内伤饮冷寸口亦小。雾露入腹虽不饮冷与饮冷同，内伤饮冷虽非雾露与雾露同，何哉？脉皆阴而寸口小耳。此云岐子复断浊邪中于下为饮冷同伤也。韩氏言寸口脉微而小，即不可下，则阴盛阳气不能升于九天可知矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 373,
+      "source_path": [
+        "論霧露飲冷同為濁邪"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "0dc8afd3bbdaa020e4199290fe904c5516037766a24bf86f63ef193aa93d80d1",
+      "content_sha256": "e8a3fb43a7adf758e0d8f3b983f9d52d398dafd53a9c72eca7ee10d081ee46ec",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        374
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 122,
+        "simplified_codepoints": 122
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "56e4b469da704c423a624ecd",
+      "title": "白术汤",
+      "volume": "论雾露饮冷同为浊邪",
+      "content": "治内伤冷物，外感风邪有汗者。\n白术（二两） 防风（二两） 甘草（一两，炙）\n上㕮咀，每服称三钱，水一盏，生姜三片，同煎至七分，去滓温服，无时一口，止一二服，待二三日渐渐汗少为解。《活人》防风白术牡蛎汤当在此下。\n风温证，面赤自汗，嘿嘿不欲语，但欲寐，两手脉浮而缓，或微弱，此证不宜发汗。若汗之，似令人筋惕肉瞤，或谵言独语，或烦躁不卧。若下之，直视失溲便。若火之，发狂似惊痫，一逆尚引日，再逆促命期。《活人》本方葳蕤汤，以有麻黄，故不敢用，宜用上白术汤主之。\n头眩汗出，筋惕肉瞤者，加牡蛎。\n腰背强硬者，加羌活。\n舌干发渴者，加人参。\n身灼热甚者，加知母。若内伤冷者不加。\n体重多汗者，加黄耆。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 375,
+      "source_path": [
+        "論霧露飲冷同為濁邪",
+        "白朮湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "21318c48e0513b93064457e29562d39e32e8e438cbdad64539a6f7581c875b6a",
+      "content_sha256": "037aef1ad8fcd793fff3212070f4a65d5694bccf36f87f18de324cd072396648",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        376,
+        377,
+        378,
+        379,
+        380,
+        381,
+        382,
+        383,
+        384
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 296,
+        "simplified_codepoints": 296
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "6d715b36cacf8e58c7aaf4df",
+      "title": "黄耆汤",
+      "volume": "论雾露饮冷同为浊邪",
+      "content": "治伤寒内感拘急，三焦气虚自汗，及手足自汗，或手背偏多，或肢体振摇，腰腿沉重，面赤目红，但欲眠睡，头面壮热，两胁热甚，手足自温，两手心热，自利不渴，大便或难，或如常度，或口干咽燥，或渴欲饮汤，不欲饮水，或少欲饮水，呕哕间作，或心下满闷，腹中疼痛，或时喜笑，或时悲哭，或时太息（去声，）或语言错乱失志。世疑作谵语狂言者，非也，神不守室耳！始得病，寤寐之间，或恐或悸，头项不甚痛，行步只如旧，阴气盛阳气走也。两手脉浮沉不一，或左右往来无定，便有沉涩弱弦微五种阴脉形状，举按全无力，浮之损小，沉之亦损小，皆阴脉也。宜先缓而后急，缓宜黄耆汤。\n人参 黄耆（味甘者） 白茯苓 白术 白芍药（以上各一两） 甘草（七钱半，炒）\n呕吐者，加藿香半两，生姜半两，如无，干者代之。\n上㕮咀，生姜水煎。量证大小，加减多少用之可也。如大便结者，宜调中丸主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 385,
+      "source_path": [
+        "論霧露飲冷同為濁邪",
+        "黃耆湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c9a4e6da4e7a730a99b5dfdcdf0761b5712c99ecf3f6598bfc73170b6d5bd6d7",
+      "content_sha256": "9116d3a6ca968b83e0982c7692143b3d049f4879aed5ae51bc2a3469fbfc0501",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        386,
+        387,
+        388,
+        389
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 366,
+        "simplified_codepoints": 366
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "7b6e5f39902dfd684dc53add",
+      "title": "调中丸",
+      "volume": "论雾露饮冷同为浊邪",
+      "content": "白术 白茯苓（去皮） 干生姜 人参 甘草（炙）\n上等分，为极细末，炼蜜丸，每两作十丸或五丸。每服一二丸，水少许，煎服之。\n问三四日后渐重，必躁乱不宁者，何也？\n经云：阳盛则发厥，阴盛则发躁，物极则反也。《外台秘要》云：阴盛发躁，名曰阴躁，欲坐井中。然阴躁一证，汗下后多有之。仲景云：汗下后仍不解，烦躁者，茯苓四逆汤主之。内感阴证，饮冷胃寒而躁者，与汗下后烦躁同。厥阴热上冲胸而发躁者，火独炎上故也。\n若病重急治者，宜黄耆汤内每服加干姜重一钱，与仲景理中汤同意。大便结者，理中丸主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 390,
+      "source_path": [
+        "論霧露飲冷同為濁邪",
+        "調中丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "5865f04c6e0b8698a47f7f3bd36aae1fb1ed5223987cd530db70dca7e093ede2",
+      "content_sha256": "4f370beb80b705444b048413817fe919f7e55d41f4a6d7f1b7664dacc7152491",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        391,
+        392,
+        393,
+        394,
+        395
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 241,
+        "simplified_codepoints": 241
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "72a46de0899b686e88ec3696",
+      "title": "理中丸",
+      "volume": "论雾露饮冷同为浊邪",
+      "content": "人参 白术 甘草（炙） 干姜（炮，恐热，以干生姜代之）\n上等分，炼蜜丸，每两作五丸。白汤化下，水煎服之亦得。缓后失治，急也。\n尤急者，若无汗，宜附子干姜甘草汤。若自汗者，宜附子白术甘草汤。量脉证，可宜四逆汤、真武汤、通脉四逆汤等，宜选用治之。至于用附子，不得已也。若身与四肢俱热，不至于凉，或厥逆，不宜用附子，故理中有四顺。理中汤、丸之名。四顺者，手足自温不厥逆是也。\n急则失治，尤急也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 396,
+      "source_path": [
+        "論霧露飲冷同為濁邪",
+        "理中丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "8b36dc9ff9b05b21972dcb0393397ea35f3621cc2b23094c8d9d847772f716b2",
+      "content_sha256": "4204c497f364ab354ce31f9ebcbc790654530aecf6a76afb16360488d652c8f4",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        397,
+        398,
+        399,
+        400
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 194,
+        "simplified_codepoints": 194
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "35cbfd44b20535d1c1f8ac35",
+      "title": "论阴证躁不躁死生二脉",
+      "volume": null,
+      "content": "阴证阳从内消，服温热药烦躁极甚，发渴欲饮，是将汗也，人不识此，反以为热，误矣！热上冲胸，服温热药烦躁少宁，反不欲饮，中得和也。人若识此，续汤不已愈矣！一则始病不躁，药而躁，脉当浮之实大，阳气充也。手足温和则生；若浮之损小，阳气走也，手足厥逆则死。一则始病躁，药而不躁，脉沉之实大，阳气回也。手足温和则生；沉之损小，阳气消也，手足厥逆则死。二证服温热药，阳气不能充与不能回者，经云：责其无火也。\n问：下之，而其脉反大者，何也？\n答云：下之而脉小者，理所当然。小犹可生，生之则易。仲景云：下之而脉反大者，虚也，阳将走而变。医若不识而复下之，则气消而成大阴矣！亦有阴躁发热不止，大渴欲饮冷，热上冲胸，火独炎上，亦将尽也。以阴遍身皆寒，惟存胸中火，阴独持权，不相管辖，迫而至此，与下之而脉大同意。下之脉大，别不见热处，阴躁发热，但脉小耳！一则见脉不见证，一则见证不见脉。又经云：下利脉大者，虚也，以其强下之故也。设脉浮革，固卤肠鸣者，属当归四逆汤。革为寒，寒虚相搏则肠鸣。\n发汗病不解，反恶寒者，虚故也，芍药甘草附子汤主之。发汗若下之，病仍不解，反烦躁，茯苓四逆汤主之。汗下后，白日烦躁不得眠，夜而安静，不呕不渴，无表证，脉沉微，身无大热者，干姜附子汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 401,
+      "source_path": [
+        "論陰證躁不躁死生二脈"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c80c7410c1859f5549a688ccf437ae2d732b34a6c4bb0bf6c30c103fe2ed9ecc",
+      "content_sha256": "ea99f764cf868a55be66fc51f1792f5007b1f8aa909b0d213b399224428c2072",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        402,
+        403,
+        404,
+        405
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 525,
+        "simplified_codepoints": 525
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "03fc635124132bc1618bee2b",
+      "title": "举古人论阴证辨",
+      "volume": null,
+      "content": "若病在少阴，则有面赤，默默不欲语，但欲寐，或四肢厥逆，或身表如冰石，脉沉细。\n若病在厥阴，则四肢厥逆，爪甲青，面黧目黑色，或自汗不止，脉沉弦无力。\n若病阴毒证，身表如冰石，四肢厥逆，体如被杖，脉沉细而微，或六至以至八至、九至、十至而不可数，此等阴证，易为明辨。\n惟太阴一证，手足自温，自利不渴，尺寸脉俱沉而弱。仲景云：宜温之，重则四逆汤。若脉浮者桂枝汤。惟此一证，与内感外阳内阴相似。外阳内阴者，即前黄耆理中等汤，理中、调中等丸所治者是也。此等阴证，非古人不言。仲景评脉，首言大浮数动滑，此名阳也；沉涩弱弦微，此名阴也。非止为外感设，内感之理在其中矣。又云：阳涩而阴弦，腹中急痛者，小建中汤主之，则内外所感明矣！至如所言阴病见阳脉者生，阳病见阴脉者死，此一句即圣人大概之言也。以其阳病见阴脉，故有外阳内阴者，与阳药俱得其生矣。药当从温，不可遽热，黄耆汤之类是也。\n上此一条，说古人不尽之意。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 406,
+      "source_path": [
+        "舉古人論陰證辨"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "6f73545227da763c3cb816d1b37e84e57aa6b4a8723d84553092185946fd5342",
+      "content_sha256": "6c42291814a69d4f4331f48f9870c5bf79852e03feb45bc2a812e48cbe6c9bcf",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        407,
+        408,
+        409,
+        410,
+        411
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 395,
+        "simplified_codepoints": 395
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "1abb155b765f576d9abc3021",
+      "title": "论元阳中脱有内外",
+      "volume": null,
+      "content": "或有人饮冷内伤，一身之阳便从内消，身表凉，四肢冷，脉沉细，是谓阴证，则易知之。若从外走，身表热，四肢温，头重不欲举，脉浮弦，按之全无力。医者不察，便与表药双解等，复使汗出，三焦之气绝，以此杀人者多矣！或自服蜜茶及沐浴盖覆，强令汗出，以致变证不救，如此自杀者亦多矣！身冷脉沉，服调中药，阳自内之外，身体温和而愈。脉浮弦细者，服调中药，阳从内生，唤入外热，复得脉平温和而愈。此证不可不察也。故仲景云：太阳病发热恶寒，热多寒少，脉微弱者，此无阳也，不可发汗。\n上此一条，双解、蜜茶、沐浴，阴证皆不可用。\n又经云：脉濡而紧，濡则胃气微，紧则荣中寒，阳微卫中风，发热而恶寒，荣紧卫气冷，微呕心内烦。医为有大热，解肌又发汗，亡阳虚烦躁，心下苦痞坚，表里俱虚渴，卒起而头眩，客热在皮肤，怅怏不得眠，不知胃气冷，紧寒在关元。\n上此仲景濡紧二脉，即外热内寒证也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 412,
+      "source_path": [
+        "論元陽中脫有內外"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "a3bba2b6cf0432ecd0fec44b529fde6b2f03114ac1d1dbddc5e6a2158c10c7e7",
+      "content_sha256": "02debb6998cd49a1d99d2239ed54185ab6e983d8d7f3c1c972c3786c1d8e554c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        413,
+        414,
+        415,
+        416
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 372,
+        "simplified_codepoints": 372
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "324d016b311b83600ebbea8c",
+      "title": "论宜灸不宜灸并汤沐四肢法",
+      "volume": null,
+      "content": "古人谓少阴、厥阴、阴毒三证则宜灸，或用葱熨等法，皆为身表凉故也。若阴气在内，阳气在外，身表壮热，手足大温或热不等，则不宜灸之。若遇前三证，用热醋炒麸注布袋中，脐下熏蒸熨极妙。又云：三阴证陷骨、歧骨间，三五七壮灸，足温生。\n《活人》阴证，诸药不效，并汤水不下，身冷脉绝，气息短，不知人，用葱熨法。本为上热下寒也，二法虽妙。莫若用上醋拌麸炒热，注布袋中，脐下熏蒸，比上二法尤速。若更以葱白煎浆作汤，以沐四肢亦可。若病人服药后，欲作汗时，用汤沐以接四肢阳气尤佳。\n外接法\n干姜二，炮为细末，石决明一，另研细，称拌匀，每服二三钱匕，手心中以津唾调如泥，以手奄其阴，至暖汗出为度。以牡蛎代决明亦可，牡蛎烧粉用。\n一法：丁香、荜茇、干姜、牡蛎。\n一法：治水㿗偏大，上下不定，疼痛不止，牡蛎不以少多，盐泥固济，炭三斤，煅令火尽，冷取二两，干姜一两，炮为细末，二味和匀，冷水调得所，涂病处，小便大利即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 417,
+      "source_path": [
+        "論宜灸不宜灸並湯沐四肢法"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "d890b978e311491cfe155713c2f9ce36f6172c30cc301069441d299926f13287",
+      "content_sha256": "db0edf05b11ab8658b0570c9c119f454a9d5b1cf6204fa715d39c442b007fcc8",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        418,
+        419,
+        420,
+        421,
+        422,
+        423
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 394,
+        "simplified_codepoints": 394
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "55d55ac4877ae3252ff796b1",
+      "title": "脐下六穴",
+      "volume": "论宜灸不宜灸并汤沐四肢法",
+      "content": "神阙一穴，脐中，禁针，刺之令人出恶汁不止。\n阴交一穴，脐下一寸。\n气海一穴，一名孛央，阴交下五分。\n石门一穴，脐下二寸，三焦之募，女子禁灸，恐绝产也。\n关元一穴，脐下三寸，小肠之募，为下纪三阴，任脉会。\n中极一穴，脐下四寸，为气原。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 424,
+      "source_path": [
+        "論宜灸不宜灸並湯沐四肢法",
+        "臍下六穴"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "d31cafdcffc8556e1e751da8d4f44ad33ad52d8baa4e97f45cf88a73818a62cf",
+      "content_sha256": "eec8bf0a19677e5105d5dc62f6facad223ee737c7b6dda780c85aeb594b1adb3",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        425,
+        426,
+        427,
+        428,
+        429,
+        430
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 116,
+        "simplified_codepoints": 116
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "2e31032074c4416e688aa6a9",
+      "title": "论谵言妄语有阴阳",
+      "volume": null,
+      "content": "举阳证《活人》云：发躁，狂走妄言，面赤咽痛，身斑斑若锦文，或下利黄赤为阳毒者，以其脉洪大而实，或滑或促，故用酸苦之药治之。\n成无己云：有汗出谵语，有下利谵语，有下血谵语，有热入血室谵语，有三阳合病而谵语，有过经不解而谵语，皆阳证也。惟有发汗过多，亡阳谵语者，不可下，柴胡桂枝汤主之。此外感汗多亡阳谵语也。\n海藏云：有内感伤冷，语言错乱，世疑作谵语者，神不守舍也，止是阴证，此特脉虚而不实耳！\n《内经》云：谵妄悲笑，皆属于热。《难经》谓：面赤，喜笑，烦心，亦属于热。大抵此等证脉皆洪实，按之有力。若此等证脉按之无力，即阴气内充，阳气外游于皮肤之间，是无根之火也。阳气及心火，入于皮肤之间，肺主皮毛，故有谵妄悲笑及面赤喜笑烦心之证。岂特是哉！所有胸背两手斑出者，有唾血丝者，有鼻中微衄者，不当作阳证，当作阴证治之。故《活人》辨证，不取诸于他，而独取诸脉，无如此最为验也。其言可谓尽善矣，可谓尽美矣！\n《本草》云：干姜止唾血，硫黄治衄血。孙真人用桂心治唾血。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 431,
+      "source_path": [
+        "論譫言妄語有陰陽"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "7372d65fdacdfcfb0229971c61ef1b879499debb938c7bbfadcee03ce990c912",
+      "content_sha256": "d457fc170392ecd6dc0f9412d6249f9365b3a95ed49f59aae0f8e94fa945b9ff",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        432,
+        433,
+        434,
+        435,
+        436
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 426,
+        "simplified_codepoints": 426
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "d6017d4e2e2115dfc04fd5fc",
+      "title": "论下血如豚肝",
+      "volume": null,
+      "content": "下血如豚肝者，饮冷太极，脾胃过寒，肺气又寒，心包凝泣，其毒浸渗入于胃中，亦注肠下，所以便血如豚肝，非若热极妄行下血而为鲜色也。此中气分而下行，故令人便血。若中气逆而上行，故令人呕血吐血也。亦非若阳证上行而溢出鲜血也。大抵阴阳二证，上行者为呕为吐为溢，顺行者为下为便为泻，其名虽异，其实则同。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 437,
+      "source_path": [
+        "論下血如豚肝"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "82300cf5dfafc3f74dda2356e02b22061713dab136b6bb6b78ff318c6b4b46c9",
+      "content_sha256": "debf031d7391427f903318957fb23c902cb758b80689595b2b0268554724e0bd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        438
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "5098a88ccaad31f61e6db7eb",
+      "title": "论阴阳二络",
+      "volume": null,
+      "content": "《甲乙经》云：经者所不可见者也，络者所可见者也，外之沟渠是已。然络亦有不可见者乎？曰：六腑连及五脏，是为所不可见之络也。阳络泛溢，《难经》云宜砭射之。阴络为病，何以知之？黄帝曰：邪热入于阳络，则为鼻血；邪热入于阴络，则为后血。以是知阴络病也。鼻血者在上，溺与后血者在下也，若吐呕者，是知在中也。至于伤寒上厥下竭之证，或从耳目，或从口鼻，血俱出于上窍，然各随其脏与经也。\n扁鹊云：病若谵言妄语，身常有热，脉当洪大而反手足厥逆，脉沉细而微者死也。\n又云：假令心病，何以知伤寒得之？然当谵言妄语。何以言之？肺主声，故知肺邪入心，为谵言妄语也。其病身热，洒洒恶寒，甚则唾咳。其脉浮大而涩。\n仲景云：谵言妄语，身微热，脉浮大，手足温者生，逆冷脉沉细者，不过一日死矣！\n又云：谵言妄语，脉涩者死。\n以上皆阳证得阴脉也。\n又云：发汗多，重发汗者必亡其阳，谵语脉短者死。\n上此重发汗亡阳者，变阴也，又得阴脉死也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 439,
+      "source_path": [
+        "論陰陽二絡"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "39cfe439769a86c790d09e90af4c75bde2bd5713c99f0c0bb106101980c3063e",
+      "content_sha256": "4bb61cd606bf0add3cd454dd46ff3c86f38f26b9200092686b95bfe865651d85",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 398,
+        "simplified_codepoints": 398
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "d54d8bff741106bfd3e6f512",
+      "title": "论自汗分阴阳",
+      "volume": null,
+      "content": "成无己云：伤风自汗，汗出恶风寒者，有表也。汗出不恶风寒者，表解里未和也。有阳明发热汗出，此为热越。有阳明发热汗多者，下之。\n海藏云：内感伤冷，自汗，大恶风寒，汗出身凉不热者，阴证也；汗出身热得阴脉者，亦阴证也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 448,
+      "source_path": [
+        "論自汗分陰陽"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "32d5be5596a83ae9d2d974849309492b3641341d72f2e32dfb91b1bf19cdddd0",
+      "content_sha256": "97e591a31854b59c8b6c553338e1309146063e1e2174b820ccb7d5d050d3bb02",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        449,
+        450
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 105,
+        "simplified_codepoints": 105
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "f944d8c9f9bae9014d29d0e2",
+      "title": "论手足自汗",
+      "volume": null,
+      "content": "手少阳之脉，三焦之经，起于小指次指之端，上出两指之间，循手表腕，出臂外两骨之间，上贯肘云云。手背遍多者，三焦之气脱也。经云：手足濈然汗出，大便硬而谵语，下之则愈。以其热聚胃，津液旁达，故手足漐漐汗出也。成无己云：寒聚于胃，有手足汗出者乎？经云：阳明中寒者不能食，小便不利，手足濈然汗出，欲作痼瘕，即是中寒也。\n海藏云：故内感阴证，有手足逆冷而自汗者，手足自温而自汗者，厥阴、太阴之异也。\n上此一条，虽是三焦四逆温和，关他二经，不可不知。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 451,
+      "source_path": [
+        "論手足自汗"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "accfda03bf67181f38dd224d5c4fab0970a88f5067f7776b0256ec3df857b870",
+      "content_sha256": "3c745d6c5783b28e8b21895ae9783147475128745a761d647737edcdf67dd083",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        452,
+        453,
+        454
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 218,
+        "simplified_codepoints": 218
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "9c14853820595e2949457f7a",
+      "title": "论四肢振摇",
+      "volume": null,
+      "content": "成氏责其为虚寒，欲汗之，其人必虚蒸而振，下后复汗而振者，表里俱虚也，亡血发汗则寒栗而振，气血俱虚也。有振振欲擗地者，有振振动摇，二者皆汗多亡阳，经虚不能自主持，故振也，非振栗之可比也。\n经曰：若吐下后，心下逆满，气上冲胸，起则头眩，发汗则动经，身为振摇者，茯苓桂枝白术甘草汤主之。\n太阳病发汗不解，其人仍发热，心下悸，头眩，身瞤动，振振欲擗地者，真武汤主之。二药皆温经益血助气之剂。\n海藏云：惟好饮房室之人，真元耗散，血气俱虚，或因劳而振，或不因劳而振，或因内感阴盛阳脱而振者，皆阴证也。\n若因房室而得，便有阴阳易条中形状，头重不欲举，目暗生花，热上冲胸，少气，声不出，少腹小腹痛引阴中，或阴入于里，胫寒而痛。此等阴证，四肢故多振摇。始得此病时，脉虽举按有力，不可作阳证治之，若与阴药，变寒必矣！亦不可用太热之药，作阴极治之，热过则转生他证。当以补气温血之药调之，元气渐生，可得而愈。若脉已微，面色眉间变黑，唇吻不收，爪甲微青，当用热药攻之。若经汗下，热药不可热服，当令似温，则阴气不拒。经云热因寒用，此之谓也。\n上此一论，自为颇有理，可以发明古人所不言处。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 455,
+      "source_path": [
+        "論四肢振搖"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "5b9dcd850d63cf2867a56cde8427d0d571d7fbb8b814c9f098cd63d4511d7543",
+      "content_sha256": "cd229730afb914ae70084567a21a7e3b31e5ab71fedee6589b45581f5ba763a3",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        456,
+        457,
+        458,
+        459,
+        460,
+        461
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 479,
+        "simplified_codepoints": 479
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "5a33aa8acb3bf375f8321702",
+      "title": "论阴证始终形状杂举例",
+      "volume": null,
+      "content": "若病人面赤者，下虚也。手足振摇者，为元气无主持也。腰腿沉重者，三阴经受寒湿也。或恐或悸者，知阴寒之邪在手足少阴也。喜笑则为痴，悲怡则为惨，手少阴、太阴也。头项不甚痛，行步只如旧，知寒邪之气不在经而在里也。若头项痛者，内之外逆上行而至于经矣！或已有冬伏寒邪，始得内感便发，头项痛亦无定也。或时太息者，《灵枢》云：心不足则心系急，心系急故太息以舒之，是知手少阴心火不足也。前人云去声是已。\n以上初病时，多有形状如此等类。\n身如被杖者，阳气尽而血脉凝涩，不能荣于身也。色青黑，肾肝子母二色，真脏见也。手足倦而卧者，四肢之阳气尽，而阴气贵收也，卧而面壁者，阴欲静也。恶闻人与语者，阴欲默也。昏昏欲寐者，元气杂绝，邪热攻肺也：或欲寐以自养，及目白睛而赤者，肺受火邪也。三四日之间，或可行步，不甚觉重者，阳犹在外也。五六日阴盛，热药不能回者，阴主杀而暴绝，非若阳气徘徊不已，而欲其生生也。初病面赤胀者，下虚故也。至于死，先青而后赤者，阳气不生，温令不行而就北方寒也，其逆行如此 。经云：阳气前绝，阴气后竭者，其人死身色必青；阴气前绝，阳气后竭者，其人死，身色必赤。若阴阳二毒相匿，或只伏阳，此等阴证，或身半以上经汗死，即不青黑者亦有之。\n厥阴有遍身青黑如花厥状，何也？\n答曰：阳气不能营运于四肢，身表经络遏绝，气欲行而不得行，及其得行而遽止之，故行处微紫色，不得行而止处不青则黑也。所以身如被杖，有有处，有无处也。遍身俱黑，阳气全无也。故经络论云：寒多则疑泣，凝泣则青黑；热多则淖泽，淖泽则黄赤。此之谓也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 462,
+      "source_path": [
+        "論陰證始終形狀雜舉例"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "8f3cce7821253cd15f0f66fb5fb511e53c8e3a0e5b24f1cef83a3c4e023fc6d1",
+      "content_sha256": "129414831000fe955f66b702b2b41c321b26449c48c5373b29e5eb1c1b4b582d",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        463,
+        464,
+        465,
+        466,
+        467
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 647,
+        "simplified_codepoints": 647
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "b978dc16d058b34db09d5795",
+      "title": "伤寒发厥有阴阳",
+      "volume": null,
+      "content": "夫厥者，有阴有阳。初得病身热，三四日后，热气渐深，大便秘结，小便黄赤，或语言谵妄而反发热者，阳厥也。初得病，身不热，三四日后，阳气渐消，大便软利，小便清白，或语言低微而不发热者，阴厥也。二证人多凝之，以脉皆沉故也。然阳厥而沉者，脉当有力；阴厥而沉者，脉当无力也。若阳厥，爪指有时而温；若阴厥，爪指时时常冷也。仲景云：伤寒三二日、四五日厥者，必发热，前热者后必厥，厥深者热亦深，当下之，宜承气汤。又云：伤寒脉滑而厥者，里有热也，白虎汤主之。仲景云：伤寒下利清谷，里寒外热，手足厥而脉微微者。里有寒也，汗出而厥者同。又云：阴病下利而脉微者，里有寒也，白通汤主之。\n一法无脉利不止，白通加猪胆汁，以其咽干而烦也。\n以上病急，或尤急，多有此形状等类。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 468,
+      "source_path": [
+        "傷寒發厥有陰陽"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "0637ed013d6ed86ade4aa3f153d67358c7b5e5ad3d76c063cded142c66689582",
+      "content_sha256": "f56de14d14b8d0a81152c5bff197d47df824a6272e23671824f7d2d9bc0f72b1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        469,
+        470,
+        471
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 321,
+        "simplified_codepoints": 321
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "74529757369b65faba8c7d77",
+      "title": "论阴证发渴",
+      "volume": null,
+      "content": "夫足少阴肾经，其直行者，上贯肝膈入肺中，系舌本，肾恶燥，故渴而引饮。经云：口燥舌干而渴，尺寸脉俱沉，则知肾受热邪，为阳证也，当下之。\n阴证口干舌燥，非热邪侵凌肾经也，乃嗜欲之人，耗散精气，真水涸竭，元气阳中脱（坎内阳爻是也。）饮食伤冷，变为枯阴，阳从内消者，或不渴，阳游于外者，必渴而欲饮也。然欲饮，则饮汤而不饮水，或有饮水者，纵与不任，若不忍戒，误多饮者，变由是而生矣。此等舌干欲饮冷水，抑而与之汤，及得饮汤，胸中快然，其渴即解。若以渴为热，汤能解之乎？不惟不能解其渴，其热从而愈甚矣。以是知为阴证也，夫何疑之有！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 472,
+      "source_path": [
+        "論陰證發渴"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1275dc0d345f237e25e4ad19773f8790e142e27a9c2da03a2743378787cb8f58",
+      "content_sha256": "42f2f4838c1930b351a184b7eff5e3569969958a6a3d125932ff07ec34a87aa0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        473,
+        474
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 258,
+        "simplified_codepoints": 258
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "b8773dae369e59703da6d4a3",
+      "title": "论阴证咳（一作吃）逆",
+      "volume": null,
+      "content": "（许学士退阴与正元同煎，以治阴证咳逆）\n夫逆病咳逆，火炎上使阴气不内也。阴气者，即吸入之阴气也。阴证内寒，与吸入之阴同类，当气顺下而无咳逆也。今阴证咳逆，吸入之阴不得内者，何气使然哉？（举阳证）且阳证咳逆者，胃热失下也。阴气先绝，阳气后亦将竭，火独炎上，逆出阴气而为咳逆也。阴证者，内已伏阴，阴气太甚，肾水擅权，肝气不生，胃火已病，丁火又消，所有游行相火，寒邪迫而萃集于胸中，亦欲尽也。故令人发躁，大渴引饮，并去盖覆，病人独觉热，他人按执之，身体肌肉骨髓血脉皆寒。此火即无根之火也，故用丁香、干姜之类热药温胃，其火自下，咳逆方止。非若凉膈、泻心，以治阳证，自上而下，泻退其火，阴气乃生。阴证咳逆，从呕哕而生，胃寒呕哕不已，咳逆继之，其声怏怅连续不已，声末而作咳逆，古人云烦冤是也。烦冤者，有情不能诉，有怀不能吐，故为怏怅，唯阴证阳脱而咳逆者，其状似之。阳证咳逆，内热与上热相接，咳逆止在喉中；阴证咳逆，呕从内出，或先作去声，或与去声相并而至喉中，故用温胃益肺之药主之。中既温，天五之气与残火自下，又与胃中温药相接，变而阳气生也。殆无异丧家之人，遑遑无依，契昔挽留，故都是反与相并立而干成其事，阴气始退，阳气渐生，脉亦从之而得以获生也。\n《灵苑》治阴咳逆， 匀气散\n川乌头（尖者三个，炮制，去皮脐）\n上为细末，每服二钱，黑豆二十一粒，糖沙鸡头入大水一盏，同煎至六分，承热细细饮之。\n《本事》治阴毒吃逆。\n川乌头 干姜 附子（俱炮） 肉桂 芍药 甘草（炙） 半夏 吴茱萸 陈皮 大黄\n上各等分，为末。每服一钱，水一盏，生姜三五片，煎至七分，去浊滓取清，热呷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 475,
+      "source_path": [
+        "論陰證咳（一作吃）逆"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "4696c834f192df0356cfe5f2f93732c25029bb2b63d0a1c0b671051a25392734",
+      "content_sha256": "117fdfa533b8b235b694c6053316b2239642c93b46481b7056c8d790d475e212",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 677,
+        "simplified_codepoints": 677
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "3c161f9a1195e6c74473a840",
+      "title": "论阴证发热",
+      "volume": null,
+      "content": "《活人》云：发热恶寒者，太阴也；身热汗出濈濈然者，阳明也；脉细头痛呕而发热者，少阳也。\n问：阴证有发热者，何也？\n答曰：太阴、厥阴皆不发热，只少阴有发热二条，仲景谓之反发热也。少阴始得之，发热脉沉者，麻黄附子细辛汤主之。少阴病下利清谷，里寒外热，手足厥逆，脉不出者，通脉四逆汤主之。断云：大抵阴证发热，终是不同，须脉沉细，或下利，手足厥。另有阴躁发热，欲坐井中一条。此例当在少阴条下。\n仲景云：吐利汗出，发热恶寒，四肢拘急，手足厥逆，四逆汤主之。又云：吐利，小便复利而大汗出，下利清谷，内寒外热，脉微欲绝者，四逆汤主之。病发热头痛，身体不痛疼，当救里，四逆汤主之。下利清谷，里寒外热，汗出而厥者，通脉四逆汤主之。大汗出，热不去，内拘急，四肢疼，又下利厥逆而恶寒者，四逆汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 484,
+      "source_path": [
+        "論陰證發熱"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "29a99ecfe9203a970247a45feecad84fd35c49cdc2ef64d32ce1bf47481f3054",
+      "content_sha256": "d5ad96a913298ae1ad73e89844bf985e90ea6b92d3401b6fa119c575803b4210",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        485,
+        486,
+        487,
+        488
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 338,
+        "simplified_codepoints": 338
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "609f4127288c9bc4e64cffe4",
+      "title": "论阴证大便秘",
+      "volume": null,
+      "content": "阴阳二结，寒热不同，为躁一也。盛暑烁金，严冬凝海是也。\n举阳证经云：其脉浮而数，能食不大便者，此为实，名阳结；其脉沉而迟，不能食，身体重，大便反硬者，名曰阴结。又云：无阳阴强，大便硬者，不可下，下之则清谷满腹，宜理中丸主之。叔和云：弦冷肠中结。洁古云：脉沉弦，不能食而不大便，则为阴冷结也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 489,
+      "source_path": [
+        "論陰證大便秘"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "a33744e3e6e72ef081db0aba073f3750ed1bfe9db36258a38e15edf66f1fc98a",
+      "content_sha256": "537cbb232eece218300ace8acffbad3eab3a3f8d2074a780e9a0ff173af946f1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        490,
+        491
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "67258c3e7c5a0fb6e07e8d63",
+      "title": "论阴脉小便不通",
+      "volume": null,
+      "content": "举阳证 假令阳病者，太阳之标不解，复入于本，发热恶寒而渴，五苓散主之。是湿热在下，故令秘而不通。余证不通者，随经而治之。若阴证不通者，脉迟细，浮中沉不一，阴气已盛，阳气欲绝，小便当自利，而色白反不通者，阴无以化，凝泣枯涸，如水之结冰，津液不行，故闭而不通也，当用热药主之。阴得阳而化，津液乃行，所以便也。大不可用利小便之药利之，四逆汤加茯苓是也，与仲阳硫黄丁香豆蔻散，内有滑石同意。大抵非茯苓、滑石二药利小便也，盖二味引热药下行，不入他经，为效速也。\n经云：阳明中寒者不能食，小便不利，手足然濈汗出，欲作痼瘕，即是中寒，与此同意。《内经》云：诸寒收引，皆属肾水，引而下之者，小便自利，收而闭之者，小便不通也。又经曰：肾主大小二便难。阴阳二证，在其中矣！\n成无己云：阴阳相杂为之和，阴阳相离为之结。火亦有下收字处，以其心虚也。\n仲景真武汤加减例云：小便自利者，去茯苓一味。四逆散加减法：小便不利者，加茯苓。小柴胡加减法，小便不利者，加茯苓。（《活人》云：阴证腹痛，小便不利者，真武汤也。）\n《活人》云：若阴证加以小便不通，及阴事缩入小腹，绞痛欲死者，更以脐下二寸石门穴，大假急灸之，仍须与返阴丹、当归四逆加吴茱萸生姜汤，慎勿与寻常利小便药也。寻常利小便药，多用冷滑之剂。此是阴毒气在小腹所致也，当知。\n仲景风湿相搏，骨节疼烦，不得屈伸，近则痛转剧，汗出短气，小便不便，恶风不欲去衣，或身肿者，甘草附子汤主之。\n海藏云：加茯苓尤佳。发汗病不解，反恶寒者，虚也，芍药甘草附子汤主之。\n海藏云：加大黄耆尤佳。若腹痛者，尤宜此汤。仲景云：阳明中寒者不能食，小便不利，手足濈然汗出，欲作痼瘕，即是中寒也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 492,
+      "source_path": [
+        "論陰脈小便不通"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "aab88f001a85be6c000a87ca6891833dea260467315e64ca501158b398634d94",
+      "content_sha256": "d169777450588e7548fb43787e6141d74963e4871678d5cbf6bee202ab403bc6",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 696,
+        "simplified_codepoints": 696
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "711f8a11c6a49ec7b656b170",
+      "title": "论阴证小便赤",
+      "volume": null,
+      "content": "举阳证，伤寒外感，四肢微厥，邪热入里，大便燥，小便赤而涩少，是谓热也。惟阴证内感，阳走于外，虚热在皮毛之间，肺气受邪，下输于膀胱，故令小便如灰汁，兼胃虚不能食。戊与癸合，虚邪所化，赤如灰汁，色虽如此，但溺时或剂茎中不涩而快利也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 501,
+      "source_path": [
+        "論陰證小便赤"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "dd20583101df235a18a164f5fdb4a08a566096f4a785ba894e14c9f24a1810e7",
+      "content_sha256": "388521d506e5e43b0db1efa7ee3e6e0c37a24f21774e481381ac9fbe8b86e6e7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        502
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "9b9f316fc986993194248082",
+      "title": "论后出余气而解",
+      "volume": null,
+      "content": "病人服温热之药，时有下气者，知阴气出也。韩氏治下焦寒，用灰包熨法，得下利一两行，小便一两次，及少有汗，阴气出而下泄，知其为必解也。予以是知服调中、理中及诸附子等药后，时有下气者，阴化而出，即为解。若遇外阳内阴之证，身表四肢尽热，语言错乱，疑作谵语，阳证者当去盖覆，令胸臆两手微露见风，以手按执之，久之肌肉骨间不热者，即非阳证，真阴证也。\n上此一条，后辨谵语形状。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 503,
+      "source_path": [
+        "論後出餘氣而解"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "e51a7906b11fdc5e3c6269fcbbf5b278fecc83b18a2255a0e0b43d729386ef28",
+      "content_sha256": "e56abdd0313f1fa30370868a31c33bef9568afdb3c6a2255e68f2a5ff0f7403c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        504,
+        505
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "10d520d4ea1c601ddb0361c2",
+      "title": "论狂言若有所失",
+      "volume": null,
+      "content": "恍惚狂言，若有所遗，妄闻妄见，意有所期，及从而叩，或忘或知，神去而溃，命将何依！世人不识，反作热疾，以脉别之，自然不疑。故经曰：数问其情，以从其意，得神者生，失神者亡。正谓是也。\n问：内感阴证，有汗而解，有无汗而解者，何也？\n答曰：有汗而解者，或壮年津液尚全，或温之早而得治，或传不逆而顺经，或素得养而强本，所以俱汗而解也。无汗而解者，或老年血气俱衰，或温之迟而失治，或经过期而不传，或素无养而亏本，所以俱无汗而解也。有汗而解者，间有所遗；无汗而解者，邪岂能尽？故神痴而弱，不能复旧，须待饮食渐增，因食微润，然后定其中外，各守其乡。医者不可不知！\n《衍义》曰：太阴元精石合他药，涂大风疾，别有法。阴证伤寒，指甲面色青黑，六脉沉细而疾，心下胀满结硬，躁渴，虚汗不止，或时狂言，四肢逆冷，咽喉不利，腹疼痛，亦须佐他药兼之。《图经本草》已有法，惟出解州者良。\n古方不用，今《活人伤寒》其著者，治伤寒三日，头痛壮热，四肢不利，正阳丹。\n太阴元精石 硝石 硫黄（各二两） 硇砂（一两）\n四物都细研，入瓦瓶子固济，以火半斤，于瓶子周一寸协之，约近半日，令药青紫色，住火待冷，取出，用腊月雪水拌匀，湿入瓷瓶子中，屋后北阴下阴干，又入地埋二七日，取出细研，以面糊为丸鸡头实大。先用热水浴，后以艾汤研下一丸，以衣盖取汗出为瘥。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 506,
+      "source_path": [
+        "論狂言若有所失"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2d5d73e5703f8f9b89631464b195381602d994f5b9b41a836605f135ae4c3367",
+      "content_sha256": "34de2a00f3094792b7960aa56a3ce2a6c080e4705320c766ae295785fd79ffd7",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 554,
+        "simplified_codepoints": 554
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "3df42ee26d58fb414febd583",
+      "title": "论脉次第",
+      "volume": null,
+      "content": "外感者，先太阳，次阳明，次少阳，次太阴，次少阴，次厥阴；内感者，先三阴而无定，次少阳，次阳明，次太阳，为极高之分。\n阳从内消，从右手脉先陷，左手浮，右手沉。\n阳从外走，从左手脉先陷，右手浮，左手沉。\n其脉或有不然者，阴阳之变易无定也。许学士云：阴阳交互最明，正坐此耳！\n阳脉沉而滑，若浮者，欲升而汗也。\n阴脉沉而细，本体也。\n若浮而有力者，阳气生也。\n若浮而无力者，阳气走也。\n若浮若沉，或有力，或无力，阴阳交争而未定也，惟外热内寒者，多有此脉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 514,
+      "source_path": [
+        "論脈次第"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "5034eab9fd2cc1edc2aacd273398ac5426334d87bcb34efdd93bec4d990f2879",
+      "content_sha256": "d8892925e2b87f28490344973ada582a50ffa239e979f695850f7f2d7089aa3c",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 223,
+        "simplified_codepoints": 223
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "f8b6b644d486d47dcbe13d1a",
+      "title": "用附子法",
+      "volume": null,
+      "content": "古人用附子，不得已也，皆为身凉脉沉细而用之。若里寒身表大热者不宜用，以其附子味辛热，能行诸经而不止，身尚热，但用干姜之类，以其味苦，能止而不行，只是温中一法。若身热消而变凉，内外俱寒，姜附合而并进，温中行经，阳气俱生，内外而得可保康宁，此之谓也。若身热便用附子，切恐转生他证，昏冒不止。可慎！可慎！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 524,
+      "source_path": [
+        "用附子法"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1a622e8e0ebccfcaa3fecbe93765dc52719be4853293be0894da1e13dcc954fe",
+      "content_sha256": "6b39ab5619f8ce72db18cf08fe564d7e249a796965b041e0c3f4a4f98322d23d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        525
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 149,
+        "simplified_codepoints": 149
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "7bd2109bcb13cc7cfaec2e3a",
+      "title": "论阴阳易分热寒",
+      "volume": null,
+      "content": "阴阳各相易证，仲景止用烧裈散，言至简而意至有余也。故朱奉议立阴阳易证为二条，后人始知有寒热之别也。故热者有上烧裈散，而又有竹皮茹汤，寒者有豭鼠粪汤，而又有当归白术汤。至于枝正方妙香丸条下，治杂病阴阳易，药中有牛黄、脑、麝之类，是知治热证也，岂可一涂而取哉？学者详之。\n圣人立阴阳易条，虽不尽言，特举其宏纲而已，是以后之述者，尽心焉尔矣可也。\n海藏云：若阴阳易证，果得阴脉，当随证用之。\n若脉在厥阴，当归四逆汤送下烧裈散。\n若脉在少阴，通脉四逆汤送下烧裈散。\n若脉在太阴，四顺理中汤送下烧裈散。\n所用之药，各随其经而效为之速也，宜矣！\n上此一条，随经药下烧裈散，所以补古人所不完处。\n扁鹊云：治阴阳易伤寒，烧妇人月经衣，热水服方寸匕。仲景云：伤寒阴阳之为弱，其人身体重，少气，少腹里急，或引阴中拘挛，热上冲胸、头重不欲举，眼中生花，膝胫拘急者，烧裈散主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 526,
+      "source_path": [
+        "論陰陽易分熱寒"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2447156f4f3ccee44091997cbaf764c4b70636e31b96dd9e025855e1a64a6469",
+      "content_sha256": "e912dc87edc52f91df420831e21e0b2886e9cb15dee685b07c38f48ee061c177",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 377,
+        "simplified_codepoints": 377
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "6b2411d24be74527c72d8062",
+      "title": "烧裈散",
+      "volume": "论阴阳易分热寒",
+      "content": "上取妇人中裈近隐处剪烧灰，以水和服方寸匕，日三服，小便即利，阴头微肿则愈。妇人病取男子裈裆，烧灰用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 536,
+      "source_path": [
+        "論陰陽易分熱寒",
+        "燒褌散"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "0d60ef3682c412512e1b9f3494b1230f679d23362c260c1e1c50a6987f853a96",
+      "content_sha256": "e7c0daa428ef1f4186f0ca81aaa10f4371ec7b697d5594d3317a5f7e14bae5d9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        537
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "2d0f9260c76286803c7f1def",
+      "title": "《活人》豭鼠粪汤",
+      "volume": "论阴阳易分热寒",
+      "content": "疗伤寒病后男子阴易。\n韭白根（一把） 豭鼠粪（一十四枚）\n上二味，以水二升，煮取半升，去滓，再煎三沸，温温尽服。必有黏汗出为效，未汗再服。亦理诸般劳复。鼠屎，两头尖者是也。\n海藏云：经不言豭鼠粪，只言牡鼠粪两头尖，治劳复。文具鼹鼠条下，又分鼠也，并不见豭鼠之名。晏鼠大兽如猪，分鼠之形，以其肥亦如猪形，豭之名想亦出此。牡即父也，雄也，在野难得，在人家诸物中遗下两头尖者，亦可用。豭，牡豕也，子路佩豭。\n许慎云：菜一名久者，谓之韭，园人种之，岁三四割，其根不伤，冬培之，先春复生，信乎其久者也。\n《易稽览图》云：政道得则阴物变阳。郑康成云：若葱变韭是也，然则葱冷而韭温可验。\n《活人》治阴阳易证，豭粪汤用韭白根，非独取其性温也，盖亦取其阴物变阳之意，述类象形，古人以至于此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 538,
+      "source_path": [
+        "論陰陽易分熱寒",
+        "《活人》豭鼠糞湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "6353a1da68c2c204d35ef350cec5c95f06399f86a2bb0a4a0e2e68907b4b42bc",
+      "content_sha256": "2946389acaa7e6f27507c5fd3223a24286c24d8dc01a4394e992fe38963bd6f3",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        539,
+        540,
+        541,
+        542,
+        543,
+        544,
+        545
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 336,
+        "simplified_codepoints": 336
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "2b3a4324b54ccf66d2e80f89",
+      "title": "竹皮汤",
+      "volume": "论阴阳易分热寒",
+      "content": "疗交接劳复，卵肿，腹中绞痛，便绝。\n竹皮（青刮，一升。）\n上一味，以水三升，煮一升半，绞去滓，分服立愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 546,
+      "source_path": [
+        "論陰陽易分熱寒",
+        "竹皮湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "37bd6d1fe8b09fcf318714fb0237706255d19aea9e1a412d7b49e96b6b8f2b65",
+      "content_sha256": "35f9dedcd4dc51878fcdb68ef5889dfe7f9f5afe5e690019988d4fb32b57ed4b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        547,
+        548,
+        549
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 52,
+        "simplified_codepoints": 52
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "bf31c27814eefcd993aea738",
+      "title": "青竹茹汤",
+      "volume": "论阴阳易分热寒",
+      "content": "妇人病未平复，因有所动，致热气上冲胸，手足拘急搐搦，如中风状，宜青竹茹汤。\n栝蒌根（无黄者，一两） 青竹茹（刮，半斤，淡竹是也）\n上以水二升半，煮取二合，去滓，分二三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 550,
+      "source_path": [
+        "論陰陽易分熱寒",
+        "青竹茹湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "2c94646902fb37b115a5e9f9cf52d2b0e431d93dfd0a8f17fc52ae0afdadf885",
+      "content_sha256": "4e0d0d6700f55611598bfa0a7fff39b8d716c054757ea215295e63acdc23e578",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        551,
+        552,
+        553
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 85,
+        "simplified_codepoints": 85
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "cfad4781749e85f2c24ca6cd",
+      "title": "当归白术汤",
+      "volume": "论阴阳易分热寒",
+      "content": "妇人病未平复，因有所动，小腹急痛，腰胯疼，四肢不住举动，无热发者，宜当归白术汤。\n白术（一分） 当归（一分） 桂枝（一分） 附子（一分） 生生姜（半两） 甘草（一分） 芍药（一分） 人参（一分） 黄耆（一分）\n上锉如麻豆大，以水三升，煮取一升半，去滓，通口服一盏，食顷，再服，温覆微汗瘥。\n海藏云：四肢不住举动，振摇即反复，皆是。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 554,
+      "source_path": [
+        "論陰陽易分熱寒",
+        "當歸白朮湯"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "5d165d4b44d521f7e7962d735684f2fe3f1920f5277b141d325fd7c289d38003",
+      "content_sha256": "09673549825617f452d5739b8c27e7d9680757c13900d0a527b3133805fd640e",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        555,
+        556,
+        557,
+        558
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "6ebbec4510ffe166fc17649d",
+      "title": "发明仲景活人",
+      "volume": null,
+      "content": "烧裈散灰性虽无寒热，只是推出阴中外来著人邪气，述类象形之法，圣人以至于此。故成无已云：烧裈散导出阴气是也。若阳脉用竹皮、青竹茹汤，若阴脉用豭鼠粪、当归白术等汤。此朱公出人意表，而后之述者之不可及也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 559,
+      "source_path": [
+        "發明仲景活人"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "c5f030ec1aed0ab24f1876b77bd3489535526b7aa722b6a3c635bef54cee3566",
+      "content_sha256": "03d64c16aa1a75c8ba15e7f26585df092f5724a0d4725a787b5cecf04e153f25",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        560
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "0da0adf5264ff13022f707b0",
+      "title": "妙香丸",
+      "volume": "发明仲景活人",
+      "content": "辰砂（飞研，九两） 龙脑 腻粉（研） 麝香（研，各三分） 牛黄（三钱） 金箔（九十个，研） 巴豆（三百一十五个，去皮心膜，炒热，研如面，去油）\n上合研匀，炼蜜出净黄蜡六两，入白沙蜜三分同炼，令匀为丸，每两作三十丸。\n若男子妇人因病伤寒时疾，阴阳气交，结伏毒气，胃中喘躁，眼赤，潮发不定，再经日数七八日以下，至半月日未安，医所不明证候，脉息交乱者，可服一丸，或分作三丸亦可，并用龙脑、腻粉、米饮调半盏已来，下此一服，每丸上用针投一眼子。如有余说，尽依《局方》法。\n仲景《活人》举阴阳易证，若脉果阴，当用烧裈散下之，入三经药内调服，最为的当。其余杂阴证内，但有腰膝冷痛，宜各本经药内加丁香、沉香二味，不惟腰膝得暖，抑亦沉坠峻下入于阴部，为效速也。兼二药《本经》所言，治肾气壮阳，与诸姜、桂乌、附、茱萸等药，佐使相助，为效大倍，不可不知。\n医书辞藻比之儒书，甚不美于观览，非若嘲风弄月之篇之畅怀也，非若礼义廉耻之典之壮志也，又非若忠节孝行之传之耸动人之奇称也，故士宦恶其技之末而不之学焉。是以世人所重者鲜，一旦抱疾，委命他人，岂其智邪？况伤寒古今为一大病，阴证一节，害人为尤速。予因暇日，集此《略例》，庶几有望于好生之君子者，或有人焉！读是书也，当反复披玩，前后贯通，但云此非空谈，施于实用可也。若悟则康宁可期，味则疾横继至，利害天壤，可不畏欤！知乎此，则畅怀之乐，壮志之快，奇称之美，悉备于我，味孰大焉？既足以却疾活命，又足以保命延年，其乐宁有涯涘哉！范文正公云：不为名相，当为名医。意亦不出此耳！七月十三日再题\n予作《阴证论》一书，其本有三，有多寡之异焉，非固如是之不同也。大抵圣贤之言，非一读而能尽，故每有所得，不敢以前说为已定为已足，而不为之增益也。故初本在河南，傅梦臣辈所录，则简而少；次本在吾乡，寄北京时，颇增三二论；自壬辰至丙申几五载，而复增随条，并药后断例。前人所言本意，与其所从来，或为之是，或为之小异，或又有言外不尽之机，一一具陈之。欲质之明者，则求之诸郡而不可得，但读之既笑且嘻，长叹而已，不知何日得吾东垣李先生一问之，吾之心始可以少安矣！吾之所以书此者，犹恐其未尽前人之意耳！丙申秋二十有一日再题",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 561,
+      "source_path": [
+        "發明仲景活人",
+        "妙香丸"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "952470d04b98c4fe7c7633f9851bcd1d5740570a8b7b290ae0acdfc0e353e262",
+      "content_sha256": "b5c695afd0294ed8795e6026249975b85a2d15a3c51156667d4b2dca155ad82c",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        562,
+        563,
+        564,
+        565,
+        566,
+        567
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 907,
+        "simplified_codepoints": 907
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "f8f23a3cb0f15281e9d72cb0",
+      "title": "外阳内阴",
+      "volume": "海藏治验录",
+      "content": "脾印将军完颜公之子小将军病伤寒六七日，寒热间作，腕后有癍三五点，鼻中微血出，医以白虎汤、柴胡等药治之不愈。及余诊之，两手脉沉涩，胸膈间及四肢按执之殊无大热，此内寒也。问其故，因暑热卧殿角之倾，先伤寒，次大渴，饮冰酪水一大碗，外感者轻，内伤者重，外从内病，俱为阴也。故先癍衄，后显内阴，寒热间作，脾亦有之，非往来少阳之寒热也。与调中汤数服而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 569,
+      "source_path": [
+        "海藏治驗錄",
+        "外陽內陰"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "1a1aacf5d3c12945df14f01fde976733d34d591616337b433e516359098d9a4d",
+      "content_sha256": "766bef29904ec3856db370a56f068af19e525c99db487a99ef4de4c9a88a549c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        570
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 171,
+        "simplified_codepoints": 171
+      },
+      "order": 111
+    },
+    {
+      "chapter_key": "036fed13b3a356979118600d",
+      "title": "阳狂",
+      "volume": "海藏治验录",
+      "content": "彰德张相公子谊夫之妻许氏，乃状元许先之之女绍明之妹也，病阳厥怒狂，发时饮食四五倍，骂詈不避亲疏，服饰临丧，或哭或歌，或以刃伤人，不言如哑，言即如狂，素不知书识字便读文选，人皆以为鬼魔。待其静诊之，六脉举按皆无，身表如水石，其发也叫呼声声愈高。余昔闻洁古老人云：《本经》言夺食则已，非不与之食，而为夺食也。当以药大下之而使不能食，为之夺食也。予用大承气汤下之得脏垢数升，狂稍宁，待一二日复发，又下之，得便数升，其疾又宁，待一二日又发，三下之，宁如旧，但不能食，疾稍轻而不已。下之，又五七次，计大便数斗，疾缓身温脉生，至十四日，其疾愈，脉如旧，困卧三四日后起苏，饮食微进，又至十日后安得。始得病时，语言声怒非常，一身诸阳尽伏于中隐于胃，非大下之可乎？此易老夺食之意也。右阳狂一条，本不当例阴证中。今暨阴狂证并列，其狂则一，其为寒热二也。差之毫厘，缪以千里。读者至此，其三复之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 571,
+      "source_path": [
+        "海藏治驗錄",
+        "陽狂"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "01d3f0bc225da766d35c05acb3f5c40f406750f49f7278b8d87316acbf408625",
+      "content_sha256": "f2b543b3241ecc3b9f10ddf0e9ddafc1e1a6958f9045cf73032f2e79d6121593",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        572
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 386,
+        "simplified_codepoints": 386
+      },
+      "order": 112
+    },
+    {
+      "chapter_key": "b3382a4ac1498870a46e8d15",
+      "title": "阴狂",
+      "volume": "海藏治验录",
+      "content": "宝丰阿磨堆侯君辅之县丞为亲军时饮食积寒所伤久矣，一日病其脉极沉细易辨，即阴证无疑。内寒外热，故肩背胸胁癍出十数点，语言狂乱，家人惊曰：发癍谵语，莫非热乎？余曰：非也。阳为阴逼，上入于肺，传之皮毛，故癍微出，神不守舍，故错言如狂，非谵语也。肌表虽热，以手按执，须臾冷透如水。余与姜附等药，前后数日，约二十余两后中大汗而愈。及见庭中物色，儿童鸡犬，指之曰：此正我二三日间梦中境物也。然则神不守舍信矣。愈后起行，其狂又发，张目而言曰：今我受省札为御马，群大使如何不与我庆？及诊之，脉又沉退，三四日不大便。余与理中丸，三日内约半斤，其疾全愈。侯公之狂，非阳狂之狂，乃失神之狂，即阴也，但脉阴为验，学者当审，独取诸脉，不凭外证可也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 573,
+      "source_path": [
+        "海藏治驗錄",
+        "陰狂"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "0432d86290750696e1cb7e174f0bad8f50efb4d1d6f7e451dd36b64bb2729e70",
+      "content_sha256": "7eaee8e9c2ff1b8468542c4b8e1282baa331f078a2320c0134cacf510d573d62",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        574
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 311,
+        "simplified_codepoints": 311
+      },
+      "order": 113
+    },
+    {
+      "chapter_key": "b6cb4e7af87147d60b1e6d48",
+      "title": "阴易",
+      "volume": "海藏治验录",
+      "content": "宝丰侯八郎外感风，内伤冷，自服通圣散，大汗出，内外阳气俱脱，不及治而死。其子国华又病伤寒四五日，身微癍，渴饮水。及诊之，沉弦欲绝，厥阴脉也。温药数日不已，又以姜附等药微回脉生，因渴私饮水一盂，脉复退，但见头不举，目不开，问之则犯阴易。若只与烧裈散则寒而不济矣。遂煎吴茱萸汤一大服调烧裈散连进二服，作大汗两昼止。何以然？以其至阴汗从骨髓中得温而出，所以液汗两昼夜方止。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 575,
+      "source_path": [
+        "海藏治驗錄",
+        "陰易"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "893ae9687496a2b72850c4a9bbd8ec04abb523f8ff7db5c6e61b0bebe286a292",
+      "content_sha256": "54730742a00846c1bbbf645cac122fa9ac0c410e3096781911eac92dbff3108b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        576
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 183,
+        "simplified_codepoints": 183
+      },
+      "order": 114
+    },
+    {
+      "chapter_key": "3966b937852671ff940269e9",
+      "title": "夜服",
+      "volume": "海藏治验录",
+      "content": "宝丰弋唐臣时始冠，平日饮食嗜冷，久遂成阴证，脉迟七八至一止，二三日后脉仅三至。余亟进温热之剂数服，四五日不解，遂续夜半一服，昼三夜一，脉颇生。一夕误阙其药，明旦证遂增剧，复连进前药七日兼夜，脉生大汗而解。人问其故，余曰：人与天地同一气耳。阳病昼剧而夜宁，阴病夜剧而昼宁，各从其类而化也。今病阴极至夜尤甚，故令夜半服药。何以然？所以却类化之阴而接子后所生之阳，则阴易退而阳易生矣。此一条具见前章。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 577,
+      "source_path": [
+        "海藏治驗錄",
+        "夜服"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "dc26b51b5f7b1f88b17464f21e466d18f559b24062c6de202dd92053ab5b7726",
+      "content_sha256": "6f7274a9a30687f531b946c78ead814d85319b554643a558e4dfae48e23aebc1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        578
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 197,
+        "simplified_codepoints": 197
+      },
+      "order": 115
+    },
+    {
+      "chapter_key": "5e06342da3f7abd339afdf37",
+      "title": "阴血",
+      "volume": "海藏治验录",
+      "content": "潞州义井街北浴堂秦二母病太阴证，三日不解，后呕逆恶心，而脉不浮。文之与半硫丸二三服不止，复与黄耆建中等药，脉中得之极紧，无表里，胸中大热，发渴引饮，众皆疑为阳证，欲饮之水。余与文之争不与，又一日与姜附等药，紧脉反细沉，阳犹未生。以桂、附、姜、乌之类，酒丸，每百丸接之，二日中凡十余服，渴止脉尚沉细，以其病人身热燥烦不宁，欲作汗，不禁其热，去其衣被盖覆，体之真阳营运未全，而又见风寒，汗不能出，神愦不醒，家人衣之装束甚厚，以待其毙，但能咽物，又以前丸接之，阳脉方出，而作大汗。盖其人久好三生茶，积寒之所致也。愈后元秘大小始得通利，翌日再下瘀血一盆如豚肝。然文之疑不能判，余教以用胃风汤加桂附，三服血止。其寒甚如此，亦世之所未尝见也，治宜详之。大抵前后证变之不同，以脉别之，最为有准，不必求诸外证也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 579,
+      "source_path": [
+        "海藏治驗錄",
+        "陰血"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "3bac88660929a59f5b7b4810a033e6b0228a0fb315624e1160635a4b2370379d",
+      "content_sha256": "100883e15835ce2344def5af71c5c5c2750731853ac13b2352b7608a81917512",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        580
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 348,
+        "simplified_codepoints": 348
+      },
+      "order": 116
+    },
+    {
+      "chapter_key": "c46a8dc9ebea10ed05e45902",
+      "title": "鼓击脉",
+      "volume": "海藏治验录",
+      "content": "子秦二又病，太阳证悉具，其脉浮数，初为阳证，经所受邪也。神术汤解之，未三日变为阴证。何以然？旺火投盛水也。以其素服三生茶及好食诸冷物，数年来脏腑积而为痼疾，一身之经皆凝寒浸渍酝酿而成太阴，脉亦从此，而变其状，非浮非沉，上下内外举按极有力，坚而不柔。非若阳脉来之有源，尺以下至宛中全无，惟三部中独见鼓击，按之触指，突出肤表，异常紧为甚，所禀元阳无，一身游行之火独萃于胸中，寒气逼之，故搏而大，有加数倍，往来不可以至数名，纵横不可以巨细状。五日后，文之与姜附等剂而复振摇，又与真武、四逆等汤，烦躁大渴不止。若更接姜附，其汗必作，其人自疑为热而益饮水，及得水稍苏，斯须脉陷沉而紧，厥逆神瞆。至六日晡前后大便秘结，小便赤色而少，强溲得涓滴，时手冷至肘，足冷至膝，脉将绝而不可救。欲复与四逆等汤，恐烦躁思饮而生变。文之请曰：何法以治？余教以乌、附、姜、桂、良姜等佐以芍药，茴香之类，酒糊丸，引而下之，而使不僭。急服之百丸，昼夜相接，八九阳气从下复生，胸膈不烦躁，不思水，与温剂则微咽，大便软，屡下气，阴得以出，小便通快成剂如灰汁，脉微生。服丸至千半阳气遍体，作汗而愈。后神又不全，少气乏力，又与温中等药数服，然后良愈。非平昔饮冷肠胃积寒之久者，脉不如此之鼓击也。鼓击者何？虽可谓大非大也，忿怒也，宜详审辨认，世罕有之。大抵此脉属紧，比紧为尤甚，故名鼓击也。仲景云：诸紧为寒。又云：脉浮而紧寒在表也，脉沉而紧寒在里也。紧似弦而非，有如牵绳之状，即为紧也，非带洪而有源也。成无己云：累累如循长竿，连连而强直也。通真子歌云：紧若牵绳转索初。海藏云：牵绳之紧，循竿之直，二者皆近于鼓击，鼓击者尤甚于二脉数倍。启玄子云：盛脉同阳四倍以上，阴之极也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 581,
+      "source_path": [
+        "海藏治驗錄",
+        "鼓擊脈"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "e5d40b860c0bc2c944e440b5d19a8a5b50e0a768a80eca21923735a0d742184d",
+      "content_sha256": "9bb92408602e48617566021afd5862b78f5cc311d4401ac500f1676088913b39",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        582
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 714,
+        "simplified_codepoints": 714
+      },
+      "order": 117
+    },
+    {
+      "chapter_key": "ba8577df70129ceabd6c735e",
+      "title": "腹痛",
+      "volume": "海藏治验录",
+      "content": "潞州提领姬世英，平昔好冷物凉药，自谓膏粱充肥必多热，因眼疾又并寒剂数日，遂得阴病。脉紧而无力，自胸至脐腹下大痛剧甚，凡痛则几至于毙。去岁已尝有此证，求治于宋文之，得愈。今复病，尤甚于去年。又亟命文之，文之与姜附等剂虽稍苏，痛不已，遂以文之所用方内倍芍药，令服之。予谓病者曰：良久痛当自胸中下，节次至腹，或大便得利，或后出余气，则寒毒得以出矣。后果如其言。翌日愈后，令常服神应丸，以断其积寒之根。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 583,
+      "source_path": [
+        "海藏治驗錄",
+        "腹痛"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "a41863004547acac199557ad3e44e09af0781eda1a74c873b8b1ae29fe75f3c0",
+      "content_sha256": "0afc16374a2ffd0b35e0bb5acb2554078399c648d4eb0e80b04e42cbe213a911",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        584
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 197,
+        "simplified_codepoints": 197
+      },
+      "order": 118
+    },
+    {
+      "chapter_key": "2de8a2bfe53dace8cdae93e0",
+      "title": "跋",
+      "volume": null,
+      "content": "《阴证略例》一册，元海藏老人王好古撰，以伤寒阴证较阳证尤难辨，故作专书以发明之。审证用药具有条理，前有麻革信之序。考《四库》著录海藏医书有《医垒元戎》十二卷，《此事难知》二卷，《汤液本草》三卷，独无此书，盖当时尚未出也。而明人编《东垣十书》者，亦未见此书，知为罕觏之秘笈矣。此本前有虞山钱会遵王藏书一印，又有惠定宇手定本一印，又有孙印从沾庆增氏二印，中有惠栋之印，字曰「定宇」。二印后有孙庆增家藏一印。近为吾友震泽吴君晓钲所得，真旧钞也。好古字进之，赵州人，以进士官本州教授。自金入元，少时与李杲东垣同游张元素洁古之门，而年辈较晚，其后复学于东垣，故《医垒元戎》称先师洁古老人，又称东垣李明之先生，而此书麻序但云海藏先生王君进之，家世赵人，早以通经举进士，晚独喜言，医始从东垣李明之，尽传其所学。册末自题亦云不知何日复得吾东垣李先生一问之，并不及洁古何欤？然书中首列岐伯阴阳脉例，即次以洁古老人内伤三阴例，乃次以海藏老人内伤三阴例，而伊尹、扁鹊、仲景诸例俱编于后，虽不称先师而尊师之意已隐然见于言外矣。或有訾其用药过于温热者，不知专论阴证，何可杂入阳证治法。海藏著述具存，岂但能治阴证不能治阳证者，安得以后入不辨阴阳，偏执贻误，追咎古人哉！自序题壬辰岁为金哀宗天兴元年，即蒙古太宗四年。册末自题称丙申秋，乃蒙古太宗八年，金亡已三年矣。麻序题岁癸卯，则太宗后乃马真氏称制之二年也。《医垒元戎》成于丁酉，岁在此书后一年，唯《此事难知》自序题至大元年，则上距金亡已七十余年，岂海藏享上寿至武宗时犹存耶？抑至大当是至元刊本之讹耶？并书以俟考。\n同治三年岁在甲子秋七月乌程汪日桢书于上海寓舍",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E9%99%B0%E8%AD%89%E7%95%A5%E4%BE%8B/index.html",
+      "source_ordinal": 585,
+      "source_path": [
+        "跋"
+      ],
+      "source_sha256": "f0290af6afbfe55469abc908c0b160a6a794767d8754754dac224e850fda11fd",
+      "original_sha256": "848ff189887bbe3db558ec8c32d6cb1d970620a60e88701a44ef31d29779118e",
+      "content_sha256": "7b5c5591a9584cc9ba583a1719e70a2f3ec30cbdefa26a11434d6b2bb2b3150d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        586,
+        587
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 690,
+        "simplified_codepoints": 690
+      },
+      "order": 119
+    }
+  ]
+}

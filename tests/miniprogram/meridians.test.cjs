@@ -5,11 +5,12 @@ const path = require('node:path');
 const vm = require('node:vm');
 const root = path.resolve(__dirname, '../..');
 const meridianUtils = require('../../miniprogram/utils/meridians');
+const locationUtils = require('../../miniprogram/utils/acupoint-location');
 const { meridians, getGroup, findMeridian, pointRows, pointRowsFromPoints } = meridianUtils;
 
 function pageContext(file, modules = {}) {
-  modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, ...modules };
-  let definition; const navigation = []; const toasts = [];
+  modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, 'acupoint-location': locationUtils, ...modules };
+  let definition; const navigation = []; const toasts = []; const previews = [];
   vm.runInNewContext(fs.readFileSync(path.join(root, file), 'utf8'), {
     Page(value) { definition = value; },
     require(name) {
@@ -20,6 +21,7 @@ function pageContext(file, modules = {}) {
     },
     wx: {
       navigateTo(value) { navigation.push(value.url); },
+      previewImage(value) { previews.push(value.current); },
       showToast(value) { toasts.push(value); },
       getWindowInfo() { return { statusBarHeight: 24 }; },
       getMenuButtonBoundingClientRect() { return { top: 30, height: 32 }; }
@@ -33,7 +35,7 @@ function pageContext(file, modules = {}) {
     data: JSON.parse(JSON.stringify(definition.data)),
     setData(value, callback) { Object.assign(this.data, value); if (callback) callback(); }
   };
-  return { page, navigation, toasts };
+  return { page, navigation, toasts, previews };
 }
 
 const flush = async () => {
@@ -160,7 +162,7 @@ test('meridian detail validates IDs, loads clean sections and opens database acu
   page.openAcupoint({currentTarget:{dataset:{id:1}}});assert.equal(navigation[0],'/pages/acupoints/detail/detail?id=1');
 });
 
-test('acupoint detail validates IDs and hides empty sections and pictures', async () => {
+test('acupoint detail validates IDs and shows a location diagram in the locate section', async () => {
   const item={id:1,title:'中府（LU1）',pinyin:'Zhōng Fǔ',meridian:'手太阴肺经',pulse:'',position:'胸腹部穴位',fivepoint:'',specificpoint:'募穴',five:'',abbreviation:'zf',alias:'府中俞',adscription:'归属',indications:'主治',locate:'定位',acupoints:'取穴',acupuncture:'针三分',precautions:'',points:'',notes:''};
   const modules={'acupoints-api':{getAcupointDetail:async()=>item}};
   const invalid=pageContext('miniprogram/pages/acupoints/detail/detail.js',modules).page;
@@ -168,8 +170,42 @@ test('acupoint detail validates IDs and hides empty sections and pictures', asyn
   const {page}=pageContext('miniprogram/pages/acupoints/detail/detail.js',modules);
   page.onLoad({id:'1'});await flush();
   assert.equal(page.data.item.title,'中府（LU1）');assert.equal(page.data.sections.length,6);
+  assert.equal(page.data.locationDiagram.label,'前胸部');
   const markup=fs.readFileSync(path.join(root,'miniprogram/pages/acupoints/detail/detail.wxml'),'utf8');
   assert.equal(markup.includes('pictures'),false);
+});
+
+test('acupoint locations cover the national standards and recognize legacy codes', () => {
+  const { meridian_points, extra_points } = require('../../database/acupoints-standard-2021.json');
+  for (const point of meridian_points) assert.ok(locationUtils.createLocationDiagram(point), point.code);
+  for (const point of extra_points) {
+    for (const code of point.codes.length ? point.codes : ['']) {
+      assert.ok(locationUtils.createLocationDiagram({ name: point.name, code }), point.name);
+    }
+  }
+  const fromTitle = (title) => locationUtils.createLocationDiagram({ title });
+  assert.equal(fromTitle('和髎（SJ22）').label, '头部');
+  assert.equal(fromTitle('印堂（EX-HN3）').label, '头部');
+  assert.equal(fromTitle('风府（DU16）').view, '背面');
+  assert.equal(fromTitle('外劳宫（EX-UE８）').label, '手背');
+  assert.ok(fromTitle('合谷（LI4）').pointImage.endsWith('acupoint-hegu.png'));
+  assert.equal(locationUtils.createLocationDiagram({ name: '示例', position: '腰背部穴位' }).view, '背面');
+  assert.equal(locationUtils.createLocationDiagram({ name: '示例' }), null);
+});
+
+test('a location image opens in preview and falls back to the diagram if it fails', async () => {
+  const url = 'https://images.example.org/upload/material/image/2015/10/14/1444794331858228.jpg';
+  const { page, previews } = pageContext('miniprogram/pages/acupoints/detail/detail.js', {
+    'acupoints-api': { getAcupointDetail: async () => ({ id: 1, title: '中府（LU1）', location_image: url }) }
+  });
+  page.onLoad({ id: 1 }); await flush();
+  assert.equal(page.data.sections[0].key, 'locate');
+  assert.equal(page.data.locationImage, url);
+  page.previewLocationImage();
+  assert.deepEqual(previews, [url]);
+  page.onLocationImageError({ currentTarget: { dataset: { url } } });
+  assert.equal(page.data.locationImage, '');
+  assert.equal(page.data.locationDiagram.label, '前胸部');
 });
 
 test('homepage search returns database acupoints and opens their detail page', async () => {

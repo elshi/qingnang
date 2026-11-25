@@ -104,9 +104,9 @@ export async function planBook(db,schema,dataset,{lock=false}={}){
   }else result.action='conflict';
   return result;
 }
-async function insertRow(db,schema,tableName,values,idState){
+async function insertRows(db,schema,tableName,rows,idState){
   const target=table(schema,tableName);
-  let explicitId;
+  let firstExplicitId;
   if(schema.manualIds[tableName]){
     const id=tableName==='t_books'?'id':schema.fields.id;
     const columns=tableName==='t_books'?schema.books:schema.chapters;
@@ -114,17 +114,24 @@ async function insertRow(db,schema,tableName,values,idState){
       const [rows]=await db.query(`SELECT ${ident(id)} AS last_id FROM ${target} ORDER BY ${ident(id)} DESC LIMIT 1 FOR UPDATE`);
       idState[tableName]=rows.length?Number(rows[0].last_id):0;
     }
-    explicitId=++idState[tableName];
-    checkValue(columns.get(id),explicitId);
-    values={...values,[id]:explicitId};
+    firstExplicitId=idState[tableName]+1;
+    rows=rows.map(values=>{
+      const explicitId=++idState[tableName];
+      checkValue(columns.get(id),explicitId);
+      return {...values,[id]:explicitId};
+    });
   }
-  const keys=Object.keys(values);
-  const [result]=await db.execute(`INSERT INTO ${target} (${keys.map(ident).join(',')}) VALUES (${keys.map(()=>'?').join(',')})`,keys.map(k=>values[k]));
-  return explicitId??Number(result.insertId);
+  const keys=Object.keys(rows[0]);
+  const placeholder=`(${keys.map(()=>'?').join(',')})`;
+  const [result]=await db.execute(`INSERT INTO ${target} (${keys.map(ident).join(',')}) VALUES ${rows.map(()=>placeholder).join(',')}`,rows.flatMap(values=>keys.map(k=>values[k])));
+  if(result.affectedRows!==rows.length)throw new Error('Insert count mismatch');
+  return firstExplicitId??Number(result.insertId);
 }
+async function insertRow(db,schema,tableName,values,idState){return insertRows(db,schema,tableName,[values],idState);}
 function publicResult(plan){const {chapters_to_insert,...rest}=plan;return {...rest,planned_chapters:chapters_to_insert.length,inserted_books:0,inserted_chapters:0,committed:false};}
 
-export async function importDatasets(db,database,datasets,{apply=false,beforeChapterInsert=null}={}){
+export async function importDatasets(db,database,datasets,{apply=false,beforeChapterInsert=null,chapterBatchSize=1}={}){
+  if(!Number.isInteger(chapterBatchSize)||chapterBatchSize<1||chapterBatchSize>100)throw new Error('Chapter batch size must be 1–100');
   const schema=await inspectSchema(db,database);
   const report={mode:apply?'apply':'preflight',database,started_at:new Date().toISOString(),books:[]};
   const lockName=`qingnang.classic-books.${database}`;
@@ -140,12 +147,25 @@ export async function importDatasets(db,database,datasets,{apply=false,beforeCha
         let bookId=plan.book_id;
         const idState={};
         if(!plan.existing_book){bookId=await insertRow(db,schema,'t_books',bookValues(dataset.book,schema),idState);result.inserted_books=1;}
+        let chapterRows=[],chapterBytes=0;
+        async function flushChapters(){
+          if(!chapterRows.length)return;
+          await insertRows(db,schema,'t_book_chapters',chapterRows,idState);
+          result.inserted_chapters+=chapterRows.length;
+          chapterRows=[];
+          chapterBytes=0;
+        }
         for(const chapter of plan.chapters_to_insert){
           if(beforeChapterInsert)await beforeChapterInsert(chapter);
           const values=chapterValues(chapter,bookId,schema);
           for(const [key,value]of Object.entries(values))checkValue(schema.chapters.get(key),value);
-          await insertRow(db,schema,'t_book_chapters',values,idState);result.inserted_chapters++;
+          const rowBytes=Object.values(values).reduce((sum,value)=>sum+(typeof value==='string'?Buffer.byteLength(value):8),32);
+          if(chapterBytes+rowBytes>512*1024)await flushChapters();
+          chapterRows.push(values);
+          chapterBytes+=rowBytes;
+          if(chapterRows.length===chapterBatchSize)await flushChapters();
         }
+        await flushChapters();
         // Verify actual inserted text and association before commit (truncation,
         // charset coercion, triggers and accidental ID mapping are caught here).
         const after=await planBook(db,schema,dataset,{lock:true});

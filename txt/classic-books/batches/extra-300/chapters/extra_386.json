@@ -1,0 +1,4554 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_386",
+    "name": "扁鹊神应针灸玉龙经",
+    "summary": "《扁鹊神应针灸玉龙经》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“一百二十穴玉龙歌”、“中风”、“口眼㖞斜”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "元",
+    "author": "王国瑞",
+    "jp": "BQSYZJYLJ",
+    "aliases": [
+      "扁鵲神應針灸玉龍經"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "aaec929ea357a250f722cde6",
+      "title": "一百二十穴玉龙歌",
+      "volume": null,
+      "content": "扁鹊授我玉龙歌，玉龙一试痊沉疴。\n玉龙之歌世罕得，研精心手无差讹。\n吾今歌此玉龙诀，玉龙一百二十穴。\n行针殊绝妙无比，但恐时人自差别。\n补泻分明指下施，金针一刺显良医。\n伛者立伸患者起，从此名驰湖海知。\n（曲池补，人中泻；风池补，绝骨泻）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "一百二十穴玉龍歌"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "64475f68016913584f113e34161924cdf9a91b20d9ba6064bed3e4df25fa6d7d",
+      "content_sha256": "958c5d4d657f28a10068bff7ba66f6e45785a3621c80a29d4c23e456e945813e",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "94a4086e71b79a5b74da7931",
+      "title": "中风",
+      "volume": "一百二十穴玉龙歌",
+      "content": "中风不语最难医，顶门发际亦堪施。\n百会穴中明补泻，即时苏醒免灾危。\n顶门：即囟会穴。上星后一寸。禁不可刺，灸七壮，针泻之。\n百会：顶中央旋毛中，取眉间印堂至发际折中是穴。针一分许。中风，先补后泻，多补少泻。灸七壮，无补。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 9,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "中風"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "172ffb479a40d5a0b4d445de0af63d7fcf7cf4d2d83983c407001e7a8866d0fc",
+      "content_sha256": "a2c3861bbf134412d66b06ceb770b328e3ac553dc6f8a7fa2d46ec6cc5345d81",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        10,
+        11,
+        12,
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "bc57958fbd3a697294b7789f",
+      "title": "口眼㖞斜",
+      "volume": "一百二十穴玉龙歌",
+      "content": "中风口眼致㖞斜，须疗地仓连颊车。\n㖞左泻右依师语，㖞右泻左莫教差。\n地仓：在口傍直缝带路下，针一分。\n颊车：在耳后坠下三分，沿皮向下透地仓一寸半，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "口眼喎斜"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4e6613319b3685623011e0c27d80cf8b0bf52f41c6b969711031bd9d736d9d01",
+      "content_sha256": "65ff7f0582ad26c30fee8e3042a27d72931f22b494118c78bb9a2019ada39f70",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        15,
+        16,
+        17,
+        18
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "10b00c35e034ac2af4a84675",
+      "title": "头风",
+      "volume": "一百二十穴玉龙歌",
+      "content": "头风呕吐眼昏花，穴在神庭剌不差。\n子女惊风皆可治，印堂剌入艾来加。\n神庭：在鼻直上入发际五分。针三寸，先补后泻，泻多补少。\n印堂：在两眉间宛宛中。针一分，沿皮先透左攒竹，补泻后转归原穴；退右攒竹，依上补泻。可灸七壮。小儿惊风灸七壮，大哭者为效，不哭者难治。随症急慢补泻，急者慢补，慢者急补，通神之穴也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 19,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "頭風"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "b396291a175141e3d53dafbdd01977e319f8140d8c3f2ef09a20b2e3d3c604e2",
+      "content_sha256": "465808645d0564c3b35d2af8b7ec40dce049a0830ab0c800e78dba4beddcbd66",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 151,
+        "simplified_codepoints": 151
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "8c8d7869e560864af9625b15",
+      "title": "偏正头风",
+      "volume": "一百二十穴玉龙歌",
+      "content": "头风偏正最难医，丝竹金针亦可施。\n更要沿皮透率谷，一针两穴世间稀。\n丝竹：在眉后入发际陷中，沿皮向后透。\n率谷：在耳尖上一寸。针三分，灸七壮。开口剌，痛则泻，眩晕则补。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "偏正頭風"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "350aeb9c34888d1dc4aee347cd96ad959766b1f2b2d32124737bd48547b233a0",
+      "content_sha256": "3af9fa820042d7ad24d2cb0d149460d05eca01ae983e346b6f0936247fade2e1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        25,
+        26,
+        27,
+        28
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "dcf3f22ddaa6f6e7f6dd373a",
+      "title": "头风痰饮",
+      "volume": "一百二十穴玉龙歌",
+      "content": "宜泻风池穴。\n偏正头风有两般，风池穴内泻因痰。\n若还此病非痰饮，合谷之中仔细看。\n风池：在耳后颞颥骨筋下入发际，横针一寸半入风府。先补后泻，可灸七壮、二七壮。\n合谷：一名虎口。在手大指次指岐骨缝中，脉应手。直剌入一寸半，看虚实补泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 29,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "頭風痰飲"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "7a34416700fb8e58329e58f9d4098db459cd9b4d46d078589d26bdd63ee6c024",
+      "content_sha256": "cdaf803ce376c17f0d1dd62c68f1dd3944f7857c0f319f829f78dd6c3629e470",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 116,
+        "simplified_codepoints": 116
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "bc9112eba860c3b18ea47973",
+      "title": "头项强痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "项强兼头四顾难，牙疼并作不能宽。\n先向承浆明补泻，后针风府即时安。\n承浆：在唇下宛宛中。直针三分，可灸七壮，泻之。\n风府：在项后入发际一寸，两筋间，言语则起，不言语则陷下处是穴。针三分，不可深，深则令人哑噤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 35,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "頭項強痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "7e67c9d1dc1259a36e91c917f1b8c2d04336e4351bbd9fa051868c1c9e6f9c0e",
+      "content_sha256": "638e14b3d3064f9b00f327750cdfe45997f65fd37fb62bb6151e685b28556563",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 104,
+        "simplified_codepoints": 104
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "d715c2b3a4f17a3c9d004d45",
+      "title": "牙疼",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（附：呕吐）\n牙疼阵阵痛相煎，针灸还须觅二间。\n翻呕不禁兼吐食，中魁奇穴试看看。\n二间：在手大指次指骨缝中。针一分，沿皮向后三分。灸七壮，看虚实补泻。\n中魁：在中指第二节尖。灸二七壮，泻之。禁针。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 40,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "牙疼"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "cf3eda4ad60b8c3ef0e3c77c0c58e49644dbf60a9db13419849368ca3f0cacd6",
+      "content_sha256": "d070575cf09e3aea020dd2654639a5c83ba63204012031d95d4c8fc558562291",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 98,
+        "simplified_codepoints": 98
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "8f61195c617699e98fdd2f3d",
+      "title": "乳蛾",
+      "volume": "一百二十穴玉龙歌",
+      "content": "乳蛾之症更希奇，急用金针病可医。\n若使迟延难整治，少商出血始相宜。\n少商：在大指甲边内侧端，去爪甲如韭叶。针入一分，沿皮向后三分，泻之，三棱针出血。应合谷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 46,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "乳蛾"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4a8de4c0f44470b6a5bd4cb040cee869e38c5c8eb73033a179126e6dd94ff682",
+      "content_sha256": "9170e3ebfeeac944ae7b751f541c1380f8a11b3fa20927707c2a0f3c1fd2ea55",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        47,
+        48,
+        49
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "41b150c3709e27dcc95e8733",
+      "title": "鼻渊",
+      "volume": "一百二十穴玉龙歌",
+      "content": "鼻流清涕名鼻渊，先泻后补疾可痊。\n若更头风并眼痛，上星一穴刺无偏。\n上星：在发际一寸半，取穴以手掌后横纹按鼻尖，中指头尽处是穴。直针三分，灸七壮。鼻渊则补，不闻香臭则泻。应太渊穴，见后痰嗽歌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 50,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "鼻淵"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "b7ea6bb09efc5425234cd06df0b571d32106aa338041082a337862f967b69199",
+      "content_sha256": "e9cd9be3c2f8eb5ef4105f5d8cbaa59219a7d421b97aa4a6311f1d9010e5cb4b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        51,
+        52,
+        53
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 96,
+        "simplified_codepoints": 96
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "188279391a946b60e3094f8a",
+      "title": "不闻香臭",
+      "volume": "一百二十穴玉龙歌",
+      "content": "不闻香臭从何治，须向迎香穴内攻。\n先补后泻分明记，金针未出气先通。\n迎香：在鼻孔旁五分缝中，直针一分，沿皮向后上三分，泻多补少。禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "不聞香臭"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f7d1b59f09dc6b6a9cde06d01f855c01e9e66f08a66ff858919d29142c003c4a",
+      "content_sha256": "8c1ce033cb02f157691dd83d86248e453799543c35ac8576e66c5996981d7cc8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        55,
+        56,
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "9e9562022ef05f1a8ca341e2",
+      "title": "眉目间痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "眉目疼痛不能当，攒竹沿皮刺不妨。\n若是目疼亦同治，剌入头维疾自康。\n攒竹：在眉尖陷中。针二分，沿皮向鱼腰，泻多补少。禁灸。\n头维：在额角发际，沿皮向下透至悬厘，是穴在额角。疼痛泻，眩晕补。灸二七壮愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 58,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "眉目間痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "c51988753f8444892e8695f923b738d27be74d440542f2234162c2613233e750",
+      "content_sha256": "58bbd505e9092563586599e6f30b6095b112af00cdf2b19aa6246c6e4a81d5cd",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        59,
+        60,
+        61,
+        62
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 100,
+        "simplified_codepoints": 100
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "c0e6b06853e209ee19de42ff",
+      "title": "心痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "九般心痛及脾痛，上脘穴中宜用针。\n脾败还将中脘泻，两针成败免灾侵。\n上脘：在脐上五寸。直刺三寸半，看虚实补泻。\n中脘：在脐上四寸。法用草从鸠尾下至脐，折中是穴。直刺二寸五分，灸五十壮止。补多泻少。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 63,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "心痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "2ff2b2b5ac8e2ec74a21a4d23f08f8b3e5a5c39673388f57639b4eb929b39adf",
+      "content_sha256": "911223693dbf00697489575b7b0fec680f59e0c513f4a7b7b5564d7f30ad8d32",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 98,
+        "simplified_codepoints": 98
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "2e17be3c87fef9568218abce",
+      "title": "三焦",
+      "volume": "一百二十穴玉龙歌",
+      "content": "三焦邪气壅上焦，舌干口苦不和调。\n针刺关冲出毒血，口生津液气俱消。\n关冲：在手小指次指内侧端，如韭叶大。针一分，沿皮向后三分，泻。禁灸。（小指次指者，无名指也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 68,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "三焦"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "601531bd6836d3e6452d63213ba90e25f7d91973a68e4414dafdbd8ac1e3f5a1",
+      "content_sha256": "2bfb0c1625ed6357628edc81b04f670073e61f018482e62c5abffddbeb375e59",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        69,
+        70,
+        71
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 81,
+        "simplified_codepoints": 81
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "f9896c06f7065b1e16a0955f",
+      "title": "上焦热",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（附：心虚胆寒）\n少冲穴在手少阴，其穴功多必可针。\n心虚胆寒还补泻，上焦热涌手中寻。\n少冲：在手小指内侧端，去爪甲如韭叶大。直刺一分，沿皮向后三分，看虚实补泻。禁灸。\n通里：在腕后起骨上一寸。直针一分，宜泻不宜补，愈补愈发。禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 72,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "上焦熱"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "2f4e86cfdac0f77262a1b8f3fe5b0165a5f0ff1b48387ee30bf704e017125ce3",
+      "content_sha256": "2c8ec80796f94da95f5362683b174c4670ae6440138d761db355528f6ddf144a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        73,
+        74,
+        75,
+        76,
+        77
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "73a93fd88543373207649be3",
+      "title": "痴呆",
+      "volume": "一百二十穴玉龙歌",
+      "content": "痴呆一症少精神，不识尊卑最苦人。\n神门独治痴呆病，转手骨开得穴真。\n神门：在手掌后，高骨陷中。针入三分，灸七壮。应后溪穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 78,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "癡呆"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "aaece93574a73f5dc66ed95287a3e3209e83bf97434fd56c24250080eb7a87d7",
+      "content_sha256": "ff72e8fa4fd2b4cfa7c676840b53738dece6f0b79e7bd90128a8f57486f8d8d0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        79,
+        80,
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 61,
+        "simplified_codepoints": 61
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "e1ceb99d477640abb7cbd89e",
+      "title": "赤目",
+      "volume": "一百二十穴玉龙歌",
+      "content": "眼睛红肿痛难熬，怕日羞明心自焦。\n但刺睛明鱼尾穴，太阳出血病全消。\n睛明：在目内眦泪孔中。针入一分半，略针向鼻，泻。禁灸。\n鱼尾：即瞳子髎，在目上眉外尖。针一分，沿皮向内透鱼腰，泻。禁灸。太阳，在额紫脉上。可出血。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "赤目"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "cd23ffb97db2482aa24326c1e2ef347a812d76c10ac1b1ed3251e4c99e11d1d5",
+      "content_sha256": "f3288828ab8bd0457088781cf362b91b4c557539ddd11d3dccd3e7802d603c68",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        83,
+        84,
+        85,
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "5014af88f57cee6153d8b0e0",
+      "title": "目病隐涩",
+      "volume": "一百二十穴玉龙歌",
+      "content": "忽然眼痛血贯睛，隐涩羞明最可憎。\n若是太阳出毒血，不须针刺自和平。\n太阳：在额紫脉上，出血，三棱针刺之。应睛明穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "目病隱澀"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "db29edef7cfc712f03e549f5a70517d0cbc818ba940ff3aa863016cd6de22c44",
+      "content_sha256": "b7b92e6e290eba295f49be01b3aa44720d073fe4e5c40cd67e1a059d5a85c071",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        88,
+        89,
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 57,
+        "simplified_codepoints": 57
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "bec677d22179a43c4f4213ab",
+      "title": "目热",
+      "volume": "一百二十穴玉龙歌",
+      "content": "心血炎上两眼红，好将芦叶搐鼻中。\n若还血出真为美，目内清凉显妙功。\n内迎香：在鼻孔内，用芦叶或箸叶作卷，搐之，血出为好。应合谷穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "目熱"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "7ab80e1dbc87ab9f8b4f66d84d7dbb9dfe940d40622e9910d013c312e1a3db27",
+      "content_sha256": "b2010ac013c95f151a106a5557d126b61be3d797b89a97bb74cc517a9910a966",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        92,
+        93,
+        94
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 65,
+        "simplified_codepoints": 65
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "3a79bb69c83a0f5ae33e5136",
+      "title": "目烂",
+      "volume": "一百二十穴玉龙歌",
+      "content": "风眩烂眼可怜人，泪出汪汪实苦辛。\n大小骨空真妙穴，灸之七壮病除根。\n大骨空：在手大拇指第二节尖上。灸七壮。\n小骨空：在手小指第二节尖上。灸七壮，禁针。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 95,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "目爛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "0bcef0647148eb9944dd64cba689d88eb547e255b5b84c5e2e57971bade2918f",
+      "content_sha256": "e2b3ced0def5c2700d4fa77f8d4853e734cf9eb7a131c81d78410543b80579fc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "cd4c1db4e8ba2ff95f83d3e2",
+      "title": "目昏",
+      "volume": "一百二十穴玉龙歌",
+      "content": "肝家血少目昏花，肝俞之中补更佳。\n三里泻来肝血益，双瞳朗朗净无瑕。\n肝俞：在背九椎两旁各一寸半。灸七壮，针入二分。\n三里：在膝下三寸，贴骨外廉。针三分，泻之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "目昏"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "446d8e51404f07dd682a5062ab27facb751292113cf42aec4944aca262feca03",
+      "content_sha256": "2db6baebdfb3ee72ccf33e46d5f9661d3e1f82fd7b6d6f98ad79e1a222a2cd67",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        101,
+        102,
+        103,
+        104
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 79,
+        "simplified_codepoints": 79
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "40e88a17d99dcab111ed65d6",
+      "title": "耳聋",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（附：红肿生疮）\n耳聋气闭不闻音，痛痒蝉吟总莫禁。\n红肿生疮须用泻，只从听会用金针。\n听会：在耳珠前陷中，口开方可下针。横下针刺半寸，灸二七壮。应合谷、足三里。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "耳聾"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "9f6e924343d77c2eb94d801d2abdd1ff62076fdca1e3ac44df3bfd80c6d059ab",
+      "content_sha256": "f74947b648387502603fce7f462c9429c8b7d69263dbd8fb218c94c815b122f6",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "6e7dd72ffb66055fbdb27358",
+      "title": "聋疠",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（二症）\n若人患耳即成聋，下手先须觅翳风。\n项上倘然生疠子，金针泻动号良工。\n翳风：在耳后陷中，开口得穴。针入半寸，泻之，灸七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 110,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "聾癘"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "680c35166d5779cf1796384c0bbfbafc5227563206be8aa0aa7511e08ec007cb",
+      "content_sha256": "3560f7d4c816bf8b043376bd79a0e4f485f56ba67277418952cc520a69fbd445",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        111,
+        112,
+        113,
+        114
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 65,
+        "simplified_codepoints": 65
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "26c2a4841edd23b1364a4df3",
+      "title": "喑痖",
+      "volume": "一百二十穴玉龙歌",
+      "content": "哑门一穴两筋间，专治失音言语难。\n此穴莫深惟是浅，刺深反使病难安。\n哑门：在项后入发际五分，直针三分，莫深，深则令人哑。泻之，不补，灸七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 115,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "喑瘂"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "93c4b050ae35246a3873c823f84fa798d98d6348aa5155b6a89fcd3091d7d408",
+      "content_sha256": "a01671927785d08252c3fa1963f214a86d4ebd56e3972af0b9326d1b7cc63a4c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        116,
+        117,
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "b8d2edd43d3ccf30c59af5f3",
+      "title": "痰嗽喘急",
+      "volume": "一百二十穴玉龙歌",
+      "content": "咳嗽喘急及寒痰，须从列缺用针看。\n太渊亦泻肺家疾，此穴仍宜灸更安。\n列缺：在大指直上，叉手中指尽处是穴。针入三分，横针向臂，泻之。\n太渊：在掌后陷中三分。泻之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "痰嗽喘急"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a652c38fe6f1db9dfdc239683b9ceb87556dabea2de618ca02fa02d98f36cbef",
+      "content_sha256": "2ee06f1eba1039e1c8638a6a5510cb1e6bfed0ff604a45a34a8e18bbe852323a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        120,
+        121,
+        122,
+        123
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "3f7fe2c0023a2220e199b75a",
+      "title": "咳嗽腰痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（附：黄疸）\n忽然咳嗽腰膂痛，身柱由来穴更真。\n至阳亦医黄疸病，先泻后补妙通神。\n身柱：在背第三椎骨节。针三分，灸七壮，泻之。\n至阳：在背第七椎骨节尖。针三分，灸七壮，看虚实补泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 124,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "咳嗽腰痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "842f798fc06ab856575e25384c035e95d6dcefd984383085bcf9eec146b58e93",
+      "content_sha256": "87b5b3c2dc636b84493211d84838b985ef9ca21af347e006245c305548908e6c",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        125,
+        126,
+        127,
+        128,
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 90,
+        "simplified_codepoints": 90
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "b3afb93a831f1b363fe38023",
+      "title": "伤风",
+      "volume": "一百二十穴玉龙歌",
+      "content": "伤风不解咳频频，久不医之劳病终。\n咳嗽须针肺俞穴，痰多必用刺丰隆。\n肺俞：在第三椎下，两旁各一寸半宛宛中。灸三壮。\n丰隆：在足腕解溪上八寸。直针二分半，看虚实补泻，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "傷風"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "670aa9d0c1f25e6b606cb027d268032922b0897e0fd7991d5c9275d0f42a4469",
+      "content_sha256": "a23de0d561bdf81e115a83cca4f1bc26d4f8b4400b3e3b5e78214519ceaa3e6a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        131,
+        132,
+        133,
+        134
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "79365e6f33af093e902e546a",
+      "title": "咳嗽鼻流清涕",
+      "volume": "一百二十穴玉龙歌",
+      "content": "腠理不密咳嗽频，鼻流清涕气昏沉。\n喷嚏须针风门穴，咳嗽还当艾火深。\n风门：在第二椎下，两旁各一寸半陷中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 135,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "咳嗽鼻流清涕"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "ef5d33c0d913b3f3da536a57fd9c00e2db9325b8477388a5163bf9046d950f28",
+      "content_sha256": "d173c0ead54da863a1d58faf162d30205f14ffd05f1467e455c19a4e97edc9af",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        136,
+        137,
+        138
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 52,
+        "simplified_codepoints": 52
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "9e60e79b1e08dfbc50605b8e",
+      "title": "喘",
+      "volume": "一百二十穴玉龙歌",
+      "content": "哮喘一症最难当，夜间无睡气惶惶。\n天突寻得真穴在，膻中一灸便安康。\n天突：在结喉陷中。针可斜下半寸，灸七壮，泻之。\n膻中：在两乳中间。可泻，灸七壮，禁针。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 139,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "喘"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a253143b63eebe4a8c7f34dc70c73dc2cb007b51dd6e4f6b81e1d8626314b742",
+      "content_sha256": "f80795282b3dffc0ff74b3c749dd582897bc0f0ad9bc68100851f7fd1315f548",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        140,
+        141,
+        142,
+        143
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "8a102b62f705cbad667f6afe",
+      "title": "气喘",
+      "volume": "一百二十穴玉龙歌",
+      "content": "气喘吁吁不得眠，何当日夜苦相煎。\n若取璇玑真个妙，更针气海保安然。\n璇玑：在天突下一寸。直针入三分，泻之，灸七壮。\n气海：在脐下一寸五分宛宛中。刺入三分，灸七壮，看病补泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 144,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "氣喘"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "95a32724584f7e8fd2966ab61eb65ed1038bf595cacd21aab0af94122f592c27",
+      "content_sha256": "6989b72bdb7f3cddc1210e8521e3eb87fe789adcdf8c88bdc3e3ba5c765414dc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        145,
+        146,
+        147,
+        148
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "2a44725dd45aaa9052a9a3af",
+      "title": "哮喘痰嗽",
+      "volume": "一百二十穴玉龙歌",
+      "content": "哮喘咳嗽痰饮多，才下金针疾便和。\n俞府乳根一般刺，气喘风痰渐渐磨。\n俞府：在巨骨下，璇玑旁二寸陷中。针三分，灸三壮，看虚实补泻。\n乳根：在乳下一寸六分陷中，仰而取之。针一分。灸五壮至七壮，看病补泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 149,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "哮喘痰嗽"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "afb7958f7f31e9655672e7d831e6f53d11027b24b087e5c44d402bde05b238c7",
+      "content_sha256": "a8708d8736452f3f67ed52ab501b3e3d6c12fba7e1f5fb9bb57eb5a2884c6fb0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        150,
+        151,
+        152,
+        153
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "e36828173b19924bf061cfee",
+      "title": "口气",
+      "volume": "一百二十穴玉龙歌",
+      "content": "口气由来最可憎，只因用意苦劳神。\n太陵穴共人中泻，心脏清凉口气清。\n太陵：在掌后横纹中。针三分，泻之。\n人中：在鼻下三分陷中。针三分，直针向上。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 154,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "口氣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "747d82cf72e31ae3ab7c5b7e36e8e652b64382bcefecfd7ae86821726e137006",
+      "content_sha256": "d3bc86684a00a8c1d62560cd337764e5ecb8379b7cb1c37965ee0eaaa06ee1f0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        155,
+        156,
+        157,
+        158
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "8a04d5a2d4ba2c145457107d",
+      "title": "气满",
+      "volume": "一百二十穴玉龙歌",
+      "content": "小腹胀满气攻心，内庭二穴刺须真。\n两足有水临泣泻，无水之时不用针。\n内庭：在足两趾歧骨间。直刺三分，可泻补，灸二七壮。\n临泣：在侠溪上三趾四趾间。针三分，禁灸。可以出一身之水，泻用香油抹孔穴则针孔不开。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 159,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "氣滿"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "1c2d53aeeb69db016574709fd012ddaff500c6d5ee141c24e1d4e1f66854858e",
+      "content_sha256": "399f3cd2a177fe33864c145e28ea1a5ea10f18ca58c28fa0781ceebd0a611d54",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        160,
+        161,
+        162,
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 101,
+        "simplified_codepoints": 101
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "435b307ec0fd5e4243bda468",
+      "title": "气",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（附：心闷、手生疮）\n劳宫穴在掌中心，满手生疮不可禁。\n心闷之疾大陵泻，气攻胸腹一般针。\n劳宫：在掌心，屈无名指，尽处是穴。针三分，灸七壮。太陵见前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "氣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4f66291b8331002c5cf6437934773ecd50ca65030909d445ca460293f0669bd5",
+      "content_sha256": "860bcd48e093bdba98493a63737e445fb82b8254b1aabc46a91e830f639b6ac4",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        165,
+        166,
+        167,
+        168
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "42da3d411c2a6bb6cd8cacc0",
+      "title": "肩肿痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "肩端红肿痛难当，寒湿相搏气血狂。\n肩髃穴中针一遍，顿然神效保安康。\n肩髃：在肩端上，举手陷中。针二寸半。若手臂红肿疼痛，泻之；寒湿麻木，补之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 169,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "肩腫痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "e3f8fae6ce169665e91f250a860e1f9a09d8ec7c927836793fff8c07023b1571",
+      "content_sha256": "dfdea958ad7f04a2fa2356bfed5e20e6dd811df2f3519ba11ec1681ae190bf8c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        170,
+        171,
+        172
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 71,
+        "simplified_codepoints": 71
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "79049179f3c0a66bed0e5c96",
+      "title": "肘挛筋痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（二首）\n两手拘挛筋骨痛，举动艰难疾可增。\n若是曲池针泻动，更医尺泽便堪行。\n曲池：在肘后外辅。\n尺泽：在肘中大筋外陷中。用手如弓，方可下针。先补后泻，针半寸，禁灸。\n筋急不和难举动，穴法从来尺泽真。\n若遇头面诸般疾，一针合谷妙通神。\n尺泽、合谷：见前文。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 173,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "肘攣筋痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f2c1bfc9db33f2ebc10906a6ffadfa07627827e285b8d35943913d21d49b9883",
+      "content_sha256": "a3c59432eaca32088d6cb1d532ed78181c2678971d96a29eb0e5a213091ae00c",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "62a3fc7372c08c4973f244f3",
+      "title": "臂痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "两胛疼痛气攻胸，肩井二穴最有功。\n此穴由来真气聚，泻多补少应针中。\n肩井：在肩端上，缺盆尽处。直针寸半停针。此穴五脏真气聚，不宜补，不宜久停针。气虚人多晕乱，急泻之三里。应支沟穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 182,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "臂痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f0a04e50ad828568126696e3810e165ab3b65f765aece3e4eaaeaca6d7ffaabe",
+      "content_sha256": "3cfae0d002613915b179d700fe8ba9b372bfa504459fb4720e208c0a039f1e23",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        183,
+        184,
+        185
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 90,
+        "simplified_codepoints": 90
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "8444e240676ac1f66196fc54",
+      "title": "肩背痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "肩臂风连背亦痛，用针胛缝妙通灵。\n五枢本治腰疼病，入穴分明疾顿轻。\n五枢：在臂部肩端骨下直缝尖。针入二寸半，灸二七壮，看虚实补泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 186,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "肩背痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "b7184966139fe9339d88d7f9f7c4f16bfce325ad93c107b58bf02f8af2b80082",
+      "content_sha256": "10f756c6c30c8be30c10c1ec1d7289f42c5494c1ae502d4c55a4243621ab51ba",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        187,
+        188,
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 65,
+        "simplified_codepoints": 65
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "50424f12c000275ebc2feb6d",
+      "title": "虚",
+      "volume": "一百二十穴玉龙歌",
+      "content": "虚羸有穴是膏肓，此法从来要度量。\n禁穴不针宜灼艾，灸之千壮亦无妨。\n膏肓：在背骨四椎下，微约五椎上，微少四肋之间是穴，各三寸。用竹杖、两手撑开，陷中是穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 190,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "虛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4feb15481b3265be7c0a9746e63948f05e71f24fdaaf71c06a02d74113c84dc8",
+      "content_sha256": "f1488c4aebdf39b718e0d28eab2cd485a8964d93aaee54728855d3dc2ebbd28f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        191,
+        192,
+        193
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "d9e04f190f7e9c6fd466e042",
+      "title": "虚弱夜起",
+      "volume": "一百二十穴玉龙歌",
+      "content": "老人虚弱小便多，夜起频频更若何。\n针助命门真妙穴，艾加肾俞疾能和。\n命门：在背骨十四椎下，与脐平。灸二七壮，禁针，针则愈甚，宜补不宜泻。\n肾俞：在命门两旁各一寸半。灸法依前，针法依前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 194,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "虛弱夜起"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a495a86118a44ec12a63ce2e93d5cd7b6b42332ab9a95c81e6dd7196176bef71",
+      "content_sha256": "1c37be175e55bb6e78bba19670f8ef1bf8b1835b2386b0e09570c7d0125aa9bc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        195,
+        196,
+        197,
+        198
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "10a63fd7ec11936841a5e260",
+      "title": "胆寒心惊鬼交白浊",
+      "volume": "一百二十穴玉龙歌",
+      "content": "胆寒先是怕心惊，白浊遗精苦莫禁。\n夜梦鬼交心俞泻，白环俞穴一般针。\n心俞：在背五椎两旁一寸半，沿皮向外一寸半。灸七壮，不可多，先补后泻，亦不宜多补。\n白环俞：在二十一椎两旁一寸半。直针一寸半，灸五十壮。夜梦鬼交，妇人白浊，宜补多。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 199,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "膽寒心驚鬼交白濁"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "878662b09c590d11163e6ac67e41cb0289380afcc674ee7183b1fdb169bd2eb3",
+      "content_sha256": "2683757428b92acddab0888a35ced21b9d3a3c68da8d321c11c1be69d41c9f1a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        200,
+        201,
+        202,
+        203
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "b24e698ec7958560e4d41a9e",
+      "title": "劳证",
+      "volume": "一百二十穴玉龙歌",
+      "content": "传尸劳病最难医，涌泉穴内莫忧疑。\n痰多须向丰隆泻，喘气丹田亦可施。\n涌泉：在脚底心，转足三缝中，又以二指至足跟尽处折中是穴。直针三分。伤寒劳瘵，有血可疗，无则危。先补后泻。\n丹田：在脐下三寸。针八分，补多泻少，可灸百壮。丰隆见前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 204,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "勞證"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "b87236fca9b246527c2bf8704f749ef8dcfd2575c1e7ab043e7895b243c90df0",
+      "content_sha256": "1d750fa003889a9a5c76b415a57f8830f52596e85f78c3d61e9ecb3ab0f4dbea",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        205,
+        206,
+        207,
+        208
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "28f0ca21be116e77b1eba16e",
+      "title": "盗汗",
+      "volume": "一百二十穴玉龙歌",
+      "content": "满身发热病为虚，盗汗淋漓却损躯。\n穴在百劳椎骨上，金针下著疾根除。\n百劳：在背第一椎骨穴上。针三分，灸二七壮，泻之。应肺俞穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 209,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "盜汗"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "12d14da738f96bd071ee221ea09fe9f93943da9ebf60557955206999619c63a6",
+      "content_sha256": "d387550784ac81dc782386d187da05408b4eadac9b70ea5b78ec393ce90497e1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        210,
+        211,
+        212
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "2cf8e7f0ecde0ec2e0df2700",
+      "title": "肾虚腰痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "肾虚腰痛最难当，起坐艰难步失常。\n肾俞穴中针一下，多加艾火灸无妨。\n肾俞：见前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 213,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腎虛腰痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "c00657f74a46edc34c71c89f5b2a964f0e4c9b2da4a11152859fb4c4e61d1379",
+      "content_sha256": "a0d68eac56a0cfe246fe0a1d9f50268f8dab074bd954524bfc83acbaf934511c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        214,
+        215,
+        216
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 40,
+        "simplified_codepoints": 40
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "ff10d4b7b0aef884c1714c6c",
+      "title": "腰脊强痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "脊膂强痛泻人中，挫闪腰疼亦可针。\n委中亦是腰疼穴，任君取用两相通。\n人中：即水沟穴，在鼻下三分衔水突起处是穴。针三分，向上些，少泻无补，法灸七壮。\n委中：在膝后腘纹动脉中。针一寸，见血即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 217,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腰脊強痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "95d0c9cbea421b2b2930a51c45af978f55aeba34f4c7c187cae6f233700ca68c",
+      "content_sha256": "2f8e482762af068fea802f819e8fbf2ae0d7f853b2539bd4e9e5c9124cbf4429",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        218,
+        219,
+        220,
+        221
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "7eb0a2885f585fe3c2ced50d",
+      "title": "手腕疼",
+      "volume": "一百二十穴玉龙歌",
+      "content": "腕中无力或麻𤸷，举指酸疼握物难。\n若针腕骨真奇妙，此穴尤宜仔细看。\n腕骨：在手腕起骨前陷中，翻手得穴。针入三分，灸二七壮，泻之。手麻木则补，可灸三七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 222,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "手腕疼"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a59d65ff0469dd37e847ccc0af12b769272d691c438acc817c2dd07b05f17236",
+      "content_sha256": "7cd45e98012f0e7ce45a597cc830313e1bb3efdd086f8773bcc071de89ad9584",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        223,
+        224,
+        225
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 76,
+        "simplified_codepoints": 76
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "69ff4846480a99ef87c671fd",
+      "title": "臂腕痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "手臂相连手腕疼，液门穴内下针明。\n更有一穴名中渚，泻多勿补疾如轻。\n液门：在手小指次指本节后。针入一分，沿皮向后透入阳池，泻之。\n中渚：在小指次指岐骨间，本节后。针入一分，沿皮向后透腕骨，泻之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 226,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "臂腕痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "c2f99deca96aa3dc35baaa651f14797cd0160e528d47738fd5f1388a23dec3c6",
+      "content_sha256": "be37d8584878c2160b7de1fc08caa4389aa8c12e8b6c29b37a2bf21437a6e99d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        227,
+        228,
+        229,
+        230
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 97,
+        "simplified_codepoints": 97
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "57ef11ccc5c47520a0930330",
+      "title": "虚烦",
+      "volume": "一百二十穴玉龙歌",
+      "content": "连月虚烦面赤妆，心中惊恐亦难当。\n通里心原真妙穴，神针一刺便安康。\n通里：在腕后侧，起骨后一寸。直针半寸，泻之，禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 231,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "虛煩"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "fe9ffb131e64b4fded174c296a261409f89f45e5eb09f8e8901271c6b50edf3b",
+      "content_sha256": "bbfb70679cd7ad44ef236a8bb6c8ba55f24a56457a070fe1924bffb0eaa6e9d6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        232,
+        233,
+        234
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "c656effbd4e75f74d753196d",
+      "title": "腹中气块",
+      "volume": "一百二十穴玉龙歌",
+      "content": "腹中气块最为难，须把金针刺内关。\n八法阴维为妙穴，肚中诸疾可平安。\n内关：在手掌后横纹二寸，两筋间。直刺，透外关，先补后泻。名阴维穴，禁灸。应照海穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 235,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腹中氣塊"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "eb089e412eb90e163b5c4cbc3e4f8ca08d918d57cec7a05a9dfdce4cc96f9629",
+      "content_sha256": "7c9e8c5b31a7737c7bcc47a3c2458d028929c15bcdf5c8bc6f62b5d788262ec9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        236,
+        237,
+        238
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "972f6e8643a83d4f77116a35",
+      "title": "腹痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "腹中疼痛最难当，宜刺太陵并外关。\n若是腹痛兼闭结，支沟奇穴保平安。\n外关：在腕后骨上二寸。直针透内关，先补后泻，灸七壮。太陵见前。\n支沟：在腕后三寸，对间使。针三分，透间使，灸七壮。间使见后疟疾下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 239,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腹痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "0cae358971296d9ad2e64595c764aac94f88d0371e3bbfeadfd7e4f6c6e8d1f8",
+      "content_sha256": "9e748478eb97e97df381792512c29fef431bac3bb5f102e628e324f10a1271b3",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        240,
+        241,
+        242,
+        243
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "a9436ab66e9ace3ee1a29479",
+      "title": "吹乳",
+      "volume": "一百二十穴玉龙歌",
+      "content": "妇人催乳痛难熬，吐得风痰疾可调。\n少泽穴中明补泻，金针下了肿全消。\n少泽：在手小指端外侧，去爪甲如韭叶大。刺一分，沿皮向后三分。乳疽疾疼痛补，以吐为效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 244,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "吹乳"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "625d287817a8b12b6e3467d5e73cc3b3c48bb6618e8f9937b87bebb6288db810",
+      "content_sha256": "8e507df982783bef201a651fa2ab2d640b464d7a8d5ab9d82ec4f458a114343c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        245,
+        246,
+        247
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 76,
+        "simplified_codepoints": 76
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "af8152fe6de0e6fc7f87f156",
+      "title": "白带",
+      "volume": "一百二十穴玉龙歌",
+      "content": "妇人白带亦难治，须用金针取次施。\n下元虚惫补中极，灼艾尤加仔细推。\n中极：在脐下四寸。直针二寸半，灸五十壮。妇人无子，宜刺灸，则有子，先泻后补。血气攻心，先补后泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 248,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "白帶"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "48cddd532dfec693f675dfff16469092f39ee34f1ea2238e7f15bc29155531db",
+      "content_sha256": "1fbd7c97efef90b4429e4201163cfab2d59e5199ef6bfb0eaa3eda3b071cc1fa",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        249,
+        250,
+        251
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 82,
+        "simplified_codepoints": 82
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "d97bccdb4281c9ada889788b",
+      "title": "脾疾反胃",
+      "volume": "一百二十穴玉龙歌",
+      "content": "脾家之疾有多般，反胃多因吐食餐。\n黄疸亦须腕骨灸，金针中脘必痊安。\n腕骨：在手腕侧，起骨前陷中。针二分，看虚实补泻，灸三七壮。\n中脘：在脐上四寸。针二寸五分，灸五十壮，补多泻少。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 252,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "脾疾反胃"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a821281f877092b056130caaa4c1669ee175df5a021b2f12cc1d5370c681269a",
+      "content_sha256": "a6c0760794257fba8ca95f3e1ae80d073df0d249ef736536501ff52f3ca41c42",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        253,
+        254,
+        255,
+        256
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "fce86a9ac3d23f8a1cbfca86",
+      "title": "腿风",
+      "volume": "一百二十穴玉龙歌",
+      "content": "环跳为能治腿风，居髎二穴亦相同。\n更有委中出毒血，任君行步显奇功。环跳：在髀枢研骨下一指，侧卧，伸下足，屈上足方可。针三寸半，补少泻少，可灸。\n委中：见前。\n居髎：在环跳上一寸，取法如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 257,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腿風"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a70f184449bca3747610e8ad792c99f3d403cfc67837ebac07cc6a689282981a",
+      "content_sha256": "7954be32aa1b688350ebd7ff9ac64f6db3d243db8ce190272f7934b2d44618ef",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        258,
+        259,
+        260,
+        261
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 94,
+        "simplified_codepoints": 94
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "c3f5b3b018bce25f539ea9f6",
+      "title": "膝腿无力",
+      "volume": "一百二十穴玉龙歌",
+      "content": "膝疼无力腿如瘫，穴法由来风市间。\n更兼阴市奇妙穴，纵步能行任往还。\n风市：在膝外廉上七寸，垂手中指尽处是穴。针入半寸，多补少泻，灸七壮。\n阴市：在膝上正七寸，垂手中指点穴。针入半寸，先补后泻，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 262,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "膝腿無力"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "ce0d20ebe6e20ad7a1aaca42c4e731c675e640ae92733474f202a62ce6d85416",
+      "content_sha256": "35dc348a62f454a80d0f3ea0a36db05cab357e80457b8396b1199b68ed12d8fe",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        263,
+        264,
+        265,
+        266
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 101,
+        "simplified_codepoints": 101
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "ff26a1ea926e3d9996499657",
+      "title": "腿痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "髋骨能医两腿痛，膝头红肿一般同。\n膝关膝眼皆须刺，针灸堪称劫病功。\n髋骨：在膝盖上一寸，梁丘穴两旁各五分。直针半寸，灸二七壮，随病补泻。\n膝关：在膝盖骨下，犊鼻穴旁。横针透膝眼，灸二七壮，随病补泻。\n膝眼：在膝下是穴，针三分，禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 267,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腿痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "8a0b8154a5eb633c46eed8940900c1a3263b15d38230de5f46f842765cbab6e2",
+      "content_sha256": "ca6cf91df6aa244c7a9c0fc2ca0763d1e715d2ae83e46233c50da24a786d133a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        268,
+        269,
+        270,
+        271,
+        272
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 116,
+        "simplified_codepoints": 116
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "3565c9b9f4a182ea14be1dd6",
+      "title": "膝风",
+      "volume": "一百二十穴玉龙歌",
+      "content": "红肿名为鹤膝风，阳陵二穴便宜攻。\n阴陵亦是神通穴，针到方知有俊功。\n阳陵泉：在膝外辅骨下一指陷中。横针透阴陵泉，针入二寸，看病补泻。\n阴陵泉：在膝内辅骨下空陷中。横针透阳陵泉。又法：取曲膝之横纹尖头是穴。针二寸五分。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 273,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "膝風"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "68b22715372d8ca295a50076b678916d3fe4cb07f1d0bc568c55a69dfb76aaf6",
+      "content_sha256": "2e1a7f262fba269c542b9fb69b2e096136630ffa30cf9d45047aa8234ad1beec",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        274,
+        275,
+        276,
+        277
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "aeda4205a413a084719934b5",
+      "title": "脚气",
+      "volume": "一百二十穴玉龙歌",
+      "content": "寒湿脚气痛难熬，先针三里及阴交。\n更兼一穴为奇妙，绝骨才针肿便消。\n三里：见前。\n三阴交：在内踝上三寸，取中骨陷中。又云，在内踝上八寸。脚气，三寸，泻；妇人鬼胎，八寸，针三分。\n绝骨：在足外踝上三寸。横针二分半，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 278,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腳氣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "7abcb8111340e09ffce75949d794204c7012f391255e7ed611d68d509b50b1b0",
+      "content_sha256": "c467cd660663e7d731598194154fc9f963f0561c03f015bf17157bb08c94770e",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        279,
+        280,
+        281,
+        282,
+        283
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "49d319dd93dadf19891d8d1a",
+      "title": "脚肿",
+      "volume": "一百二十穴玉龙歌",
+      "content": "脚跟红肿草鞋风，宜向昆仑穴上攻。\n再取太溪共申脉，此针三穴病相同。\n昆仑：在足外踝后陷中。横针透吕细穴，灸二七壮，泻多补少。\n太溪：在内踝后，跟骨上动脉陷中。\n申脉：在足外踝骨节下，赤白肉际横纹。刺半寸，泻多补少，禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 284,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腳腫"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4d2ae761bad59f452150be4580c00cbc23c2707e5f3ecf47afcfcc604d2b8ceb",
+      "content_sha256": "0aef69f857058abd976ac76177551d16235cf819b83644b1a18252e7db75c919",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        285,
+        286,
+        287,
+        288,
+        289
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "18117af201a46f0cd6502231",
+      "title": "脚背痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "丘墟亦治脚跗疼，更刺行间疾便轻。\n再取解溪商丘穴，中间补泻要分明。\n丘墟：在足外踝前三分。麻木补之，如脚背红肿，出血甚妙。\n行间：在足大趾次趾虎口两岐骨间。针半寸，灸二七壮，疼痛泻之，痒麻补之。\n解溪：在足腕上大筋外宛宛中。针半寸，灸七壮，如头重、头风，先补后泻，此即草鞋带穴也。\n商丘：在足内踝下，微前三寸。斜针三分，后透昆仑。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 290,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腳背痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "061e1d6038859a917c50bb205548805a2b7c910ea79e642a6d4e7b408dd7df91",
+      "content_sha256": "565beaa7c6ee6539b03f0ca4c3908b093bfe3bd1995b79aebb0970e07617ad12",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        291,
+        292,
+        293,
+        294,
+        295,
+        296
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "240a484feeb76bc7f5f31bef",
+      "title": "脚疾",
+      "volume": "一百二十穴玉龙歌",
+      "content": "脚步难移疾转加，太冲一穴保无它。\n中封三里皆奇妙，两穴针而并不差。\n太冲：在行间上二寸。直针半寸，禁灸。\n三里：见前。\n中封：在足腕上，筋内宛宛中。针半寸，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 297,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腳疾"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "c470ac1859c06ee8e860f5f4b75cc2ee09ad622a139dc961a129286d5e5149b5",
+      "content_sha256": "aa47913753ad43ebaaed7af6694836abf206fa96f1085ac4ae9dd610d18df2ce",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        298,
+        299,
+        300,
+        301,
+        302
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 83,
+        "simplified_codepoints": 83
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "f227c41f26ab759830518e38",
+      "title": "疟疾",
+      "volume": "一百二十穴玉龙歌",
+      "content": "疟疾脾寒最可怜，有寒有热两相煎。\n须将间使金针泻，泻热补寒方可痊。\n间使：在掌后横纹直上三寸，两筋间。直透支沟，灸二七壮，热多泻，寒多则补，针入半寸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 303,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "瘧疾"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "b71c076d8c3b130f2fccc29d41d898d4fa6929db7ef2700c8cd87f12dae99874",
+      "content_sha256": "7b5a832b6da8d288310761dda70ccdc0a6224e562db908acfb8be3d5415cf66a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        304,
+        305,
+        306
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "31dd8f1d3c0a2b9b50dcefae",
+      "title": "时疫疟疾",
+      "volume": "一百二十穴玉龙歌",
+      "content": "时疫疟疾最难禁，穴法由来用得明。\n后溪一穴如寻得，艾火多加疾便轻。\n后溪：在手小指本节后，握拳横纹尖。针半寸，灸七壮，同间使补泻法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 307,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "時疫瘧疾"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "3f5dd7d3639e62a64e6037fa2a2531ddb70b645d0bc6361788acb3dea5e4b4b4",
+      "content_sha256": "3c1cb15e11f03ca00a68bb3ad9768cae0d80076aba8da9636300108c771cd607",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        308,
+        309,
+        310
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 66,
+        "simplified_codepoints": 66
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "19da841d1e56e5f5e63e7249",
+      "title": "瘰疬",
+      "volume": "一百二十穴玉龙歌",
+      "content": "瘰疬由来隐疹同，疗之还要择医工。\n肘间有穴名天井，一用金针便有功。\n天井：在肘尖骨上陷中。取法用手叉腰方可下针，内少海穴，外小海穴。针三分，泻之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 311,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "瘰癧"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "9ef1849cc67ea8168edca0677711feff68fd54d2585db2a3cef796c5b7184aa3",
+      "content_sha256": "d7b9701fad42c4049eb3354af0afe2eed9ea2ffdba41727c1274fb20aa0422b2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        312,
+        313,
+        314
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 73,
+        "simplified_codepoints": 73
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "a1762176f829b3bdfb59e786",
+      "title": "痔瘘",
+      "volume": "一百二十穴玉龙歌",
+      "content": "九般痔疾最伤人，穴在承山妙如神。\n纵饶大痛呻吟者，一刺长强绝病根。\n承山：在仆参上八寸，腿肚下分肉间。\n长强：在二十一椎下，尾闾大骨当中是穴。针一寸，大痛方是穴。灸二七壮，泻之。又治胡孙痨。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 315,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "痔瘻"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "7f2eea3c0931a871ff4aa049f3d4fb4d1f2d81988b8e56d55ff44836b695dc44",
+      "content_sha256": "6a8f7ad1554e746f9bbbc9d7e19e1cce20c0e501611876b64b5d343569261ea0",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        316,
+        317,
+        318,
+        319
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "8f173af11fc9862666d67b43",
+      "title": "大便闭塞",
+      "volume": "一百二十穴玉龙歌",
+      "content": "大便闭塞不能通，照海分明在足中。\n更把支沟来泻动，方知医士有神功。\n照海：足内踝下白肉际。针四分，泻之。\n支沟：见前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 320,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "大便閉塞"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "9f2ee1da067cf22cf90239ead594530f83ddddd0860f2cdde3ecb08939bae6b9",
+      "content_sha256": "c0a495164468378ee70d499f327f25152a6669990f7f33b46f29a7900e2fbb01",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        321,
+        322,
+        323,
+        324
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "374c1cf2e9ea6270cc377e8a",
+      "title": "身痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "浑身疼痛疾非常，不定穴中宜细详。\n有筋有骨须浅刺，灼艾临时要度量。\n不定穴：又名天应穴，但疼痛便针，针则卧，针出血无妨，可少灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 325,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "身痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "352b3350831538c043678c6b458153c3e85aaf9a4e273b8f2ccf661c05f40c02",
+      "content_sha256": "3105d9660d7f9f586a20bb0594f4d794f27a0d66f2bb603f1bc41d683ea0f915",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        326,
+        327,
+        328
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 64,
+        "simplified_codepoints": 64
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "47531d40fbc8312d7b0249fd",
+      "title": "惊痫",
+      "volume": "一百二十穴玉龙歌",
+      "content": "五痫之症不寻常，鸠尾之中仔细详。\n若非明师真老手，临时尤恐致深伤。\n鸠尾：在胸前鸠尾骨下五分。针二寸半，不宜多灸，灸多令人健忘，灸一七壮。非老师高手不可下针，至嘱至嘱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 329,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "驚癇"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "102a70ceb31a5fdb6c7cc35349ea4cd0d67c4972222b1046e39177c34f53bc61",
+      "content_sha256": "8c552f1cdac6f87dfb8f66b74d26a8fe95ad8f2a0a694d60326fa124ccf290c5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        330,
+        331,
+        332
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "fa3fff45c32966d39aff4498",
+      "title": "水肿",
+      "volume": "一百二十穴玉龙歌",
+      "content": "病称水肿实难调，腹胀膨脝不可消。\n先灸水分通水道，后针三里及阴交。\n水分：在脐上五分。灸五十壮。单腹胀宜泻，气满腹疼先补后泻。\n三里：见前。\n三阴交：见前。与绝骨相对，灸一七壮，治法同水分。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 333,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "水腫"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f06d29c6fd5ed5198fddf1807c797bf37ebcb1bf24e0684e37760d79c24dae3e",
+      "content_sha256": "3daa28400fa930107079fc1ec1f01218b8ec7fed96fc682933c45ae3a9692085",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        334,
+        335,
+        336,
+        337,
+        338
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "e047489f500e1c6cc9086530",
+      "title": "疝气",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（三首）\n由来七疝病多端，偏坠相兼不等闲。\n不问竖痃并木肾，大敦一泻即时安。\n大敦：在足大趾端，去爪甲如韭叶大及三毛中。针三分，沿皮向后三分，有泻有补。此穴亦治足寒湿脚气。\n竖痃疝气发来频，气上攻心大损人。\n先向阁门施泻法，大敦复刺可通神。\n阁门：在玉茎毛际两旁各三寸。针一寸半，泻之，灸五十壮。\n冲心肾疝最难为，须用神针病自治。\n若得关元并带脉，功成处处显良医。\n关元：在脐下三寸。针二寸，灸随年壮。即丹田也。补，不泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 339,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "疝氣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "d9c5099b114b12029113474e9c2afb7e95783b51e9d7ea425c405d278625cd72",
+      "content_sha256": "da0b8ae37af5ce1d19b115b02e7bea7b9aaef48f61838f4c0877db8f18f629c2",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347,
+        348,
+        349
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 211,
+        "simplified_codepoints": 211
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "9b72980eb000e5faa376d0e0",
+      "title": "痔漏",
+      "volume": "一百二十穴玉龙歌",
+      "content": "痔漏之疾亦可针，里急后重最难禁。\n或痒或痛或下血，二白穴从掌后寻。\n二白：在掌后横纹上四寸，两穴对并，一穴在筋中间，一穴在大筋外。有一法用草从项后转至结喉骨尖，骨尽折了，将草折于两，中对大指虎口缝，双圈转，两头点掌后臂上，草尽处是穴。灸二七壮，泻之，禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 350,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "痔漏"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "97d3ebab384e23b5b526f47f35b2046f1c5b5b05d1c3be3740b18b829d7928c3",
+      "content_sha256": "63c172cf57654f96311efbc20bbf66a35fb32e715d637940e6c0069f551b39f9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        351,
+        352,
+        353
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "d7bc44fc9f3eedc88aceeac6",
+      "title": "泻泄",
+      "volume": "一百二十穴玉龙歌",
+      "content": "脾泄为灾若有余，天枢妙穴刺无虞。\n若兼五脏脾虚证，艾火多烧疾自除。\n天枢：在脐两旁各二寸。针一寸，灸五十壮，宜补。应脾俞穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 354,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "瀉泄"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "1c27567e950413ba0464c08196d6d9a083693f83020439203881dcdc3d702c56",
+      "content_sha256": "1cd7593bab1a95c8fab5f13a7b1e4a47fb361d8c1e4394889e788b2621cd962a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        355,
+        356,
+        357
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 62,
+        "simplified_codepoints": 62
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "18859cd73b117bc47369ee4e",
+      "title": "伤寒",
+      "volume": "一百二十穴玉龙歌",
+      "content": "伤寒无汗泻复溜，汗出多时合谷收。\n六脉若兼沉细证，下针才补病痊瘳。\n复溜：在足内踝上二寸。针一分，沿皮向骨下一寸半，灸二七壮。神效。\n合谷：在手虎口陷中。寒补，热泻。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 358,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "傷寒"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "c551cdaccb52f7f044a4f477c7a79124521068513fb6670c5188c8746155769d",
+      "content_sha256": "a0e697cba3650bbb7cfbd64c52305122508669da9348b2cd54d57590ba0694fe",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        359,
+        360,
+        361,
+        362
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 83,
+        "simplified_codepoints": 83
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "9de1b9e590f9dc2d8b6dff58",
+      "title": "伤寒过经",
+      "volume": "一百二十穴玉龙歌",
+      "content": "过经未解病沉沉，须向期门穴上针。\n忽然气喘攻心胁，三里泻之须用心。\n期门：在乳下四寸第三肋端。针一分，沿皮向外一寸五分。先补后泻，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 363,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "傷寒過經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "fee72e04d41e25a11aac6235d9d1a23ece58306ec5dea5afb1c415ddc72223e1",
+      "content_sha256": "a9db85cecd44e1892112d7d9e2fab13dfa8b0a4ccffc32a0aef2b7d50f04ab54",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        364,
+        365,
+        366
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "001720e29c6f99f9c54f448f",
+      "title": "脚细筋疼",
+      "volume": "一百二十穴玉龙歌",
+      "content": "脚细拳挛痛怎行，金针有法治悬钟。\n风寒麻痹连筋痛，一刺能令病绝踪。\n悬钟：在足外踝三寸。针三分。应环跳穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 367,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "腳細筋疼"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "34bfc9b72c5de5ede6bba752af75e38f6842b413938c8548a2ec977455e9a036",
+      "content_sha256": "cdafff769e26a3f6c9b9bca7ba979769fd96f8d23497c960f7fe5d2020810c05",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        368,
+        369,
+        370
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 53,
+        "simplified_codepoints": 53
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "1a44726951b99dfaba7a2104",
+      "title": "牙痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "风牙虫蛀夜无眠，吕细寻之痛可蠲。\n先用泻针然后补，方知法是至人传。\n吕细：在足内踝骨肉下陷中。针三分，大泻尽方补，痛定出针，灸二七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 371,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "牙痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "6ca5012a3d088497eb6e0d51d7b14ec2a18faae95be5dc9a10e348211bb60ab5",
+      "content_sha256": "9ad18a2818157164d9a6edf67fd9781cf97d10263478e7a6bfd3bc421ab15dc1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        372,
+        373,
+        374
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "30e4ededdeacd76abd7cc810",
+      "title": "心腹满痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（附：半身麻痹、手足不仁）\n中都原穴是肝阴，专治身麻痹在心。\n手足不仁心腹满，小肠疼痛便须针。\n中都：在足内踝上七寸。针一寸半，沿皮向上一寸，灸七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 375,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "心腹滿痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "71dcc6534d050a20539d639813bcb2623fb2b34d3f280bdcfd8facf46cd34a55",
+      "content_sha256": "7b97b03db2bdbd1895028b17ad18bf1b8bf5949a4be828a691eb9f52ebe85147",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        376,
+        377,
+        378,
+        379
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "c4a03e96438e557c9009d3f8",
+      "title": "头胸痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "（呕吐、眩晕）\n金门申脉治头胸，重痛虚寒候不同。\n呕吐更兼眩晕苦，停针呼吸在其中。\n金门：在足外踝跗骨下陷中。针三分，透申脉，泻实补虚，灸二七壮。\n申脉：在足外踝骨下赤白肉际横纹。刺入半寸，泻多，补少，禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 380,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "頭胸痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "bcd1d248716d337a6e716cfd4f682c35b4b7dbe7c5149146aaf03b0e56eb6fa4",
+      "content_sha256": "8542ce6d7e40d132a2c4f4cd225e82e8b313fe42f4bd6deee11b6b51236ecff7",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        381,
+        382,
+        383,
+        384,
+        385
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 104,
+        "simplified_codepoints": 104
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "d20a5156b35cac81daf45e1b",
+      "title": "小肠疝气连腹痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "水泉穴乃肾之原，脐腹连阴痛可蠲。\n更刺大敦方是法，下针速泻即安然。\n水泉：在足内踝跗骨横量一寸，直下一寸。针五分，泻之，灸七壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 386,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "小腸疝氣連腹痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f9b73fdc7ebc26ef7bb9fe1c8d5f004b9589c751fafc2cf8e9bd155431653e78",
+      "content_sha256": "a8403e202c5b3f54e54fabefdb273a9be902b9a63cc1fa18f15ce117972923f5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        387,
+        388,
+        389
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 64,
+        "simplified_codepoints": 64
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "0b46205b1e5764879c2f357f",
+      "title": "脾胃虚弱",
+      "volume": "一百二十穴玉龙歌",
+      "content": "咽酸口苦脾虚弱，饮食停寒夜不消。\n更把公孙脾俞刺，自然脾胃得和调。\n公孙：在足内侧本节后一寸陷中。蜷两脚底相对。针一寸三分。\n脾俞：在背脊十一椎两旁一寸半。针三分，灸三壮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 390,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "脾胃虛弱"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "8d40ab52ff09236aa4c18f0360fa072ed7e8348df69e9d9a8b5dd2c957712055",
+      "content_sha256": "87333341d5f707825f3d21807ab155e92af7eb066cce3a3d139c8ffdadc1c91a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        391,
+        392,
+        393,
+        394
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "c7db110fcc63c708d5e542ac",
+      "title": "臂细筋寒骨痛",
+      "volume": "一百二十穴玉龙歌",
+      "content": "臂细无力转动难，筋寒骨痛夜无眠。\n曲泽一针依补泻，更将通里保平安。\n曲泽：在肘横纹筋里，与尺泽穴对，筋外尺泽穴，筋内曲泽穴，陷中。针三分，痛，泻，禁灸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 395,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "臂細筋寒骨痛"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "31f2fcb326c5923c6d5af323ceca6b94f2edb5e5ad996f65e67e7ebc73bd2d37",
+      "content_sha256": "f815d0261b822814879fb35f99303a6d896a96b88a72159346e4aadf2d538fb8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        396,
+        397,
+        398
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 76,
+        "simplified_codepoints": 76
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "9f16a72e026da309564ce87f",
+      "title": "穴法歌",
+      "volume": "一百二十穴玉龙歌",
+      "content": "穴法浅深随指中，砭焫尤加显妙功。\n劝君若治诸般病，何不专心记《玉龙》。\n圣人授此《玉龙歌》，泻补分明切莫差。\n祖师定穴通神妙，说与良医慎重加。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 399,
+      "source_path": [
+        "一百二十穴玉龍歌",
+        "穴法歌"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4d7247fb2ee4f28893caf2ba86bf31de89d49086899fe69a50e755087365b68d",
+      "content_sha256": "aeac26e4b094b233a600372b88f7292964aa595afe0b3f61c207d4f247030c6a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        400,
+        401,
+        402,
+        403
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 71,
+        "simplified_codepoints": 71
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "3ab00f05487f8cc6d4fe4089",
+      "title": "穴法相应三十七穴",
+      "volume": null,
+      "content": "承浆应风府 风池应合谷 迎香应上星 翳风应合谷 听会应合谷 哑门应人中 攒竹应太阳 太阴应合谷、睛明内迎香应合谷 人中应委中 肾俞应委中 髋骨应风市 足三里应膏肓□肩井应足三里 阳陵泉应支沟 昆仑应命门 昆仑应行间 申脉应合谷 太冲应昆仑 髋骨应曲池 肩井应支沟 尺泽应曲池 肩髃应髋骨 间使应百劳 关冲应支沟 中渚应人中 少冲应上星 后溪应百劳 神门应后溪 通里应心俞 百劳应肺俞 膏肓应足三里 风门应列缺 照海应昆仑 鸠尾应神门 中极应白环俞 天枢应脾俞。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 404,
+      "source_path": [
+        "穴法相應三十七穴"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "ff7a9f661476328fe703a71a2f0f33e4284981527033adf2bf8824d4feea9f8c",
+      "content_sha256": "d1d58c045cf05a003bd586ddfc99cb1e129f3064824c890d64b57238496687fc",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        405
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "bc81a2d8e098c709e7d6727b",
+      "title": "注解标幽赋",
+      "volume": "穴法相应三十七穴",
+      "content": "「拯救之法，妙用者针，察岁时于天道，定形气于人心。春夏瘦而刺浅，秋冬肥而刺深。不穷经络阴阳，多逢刺禁。既论脏腑虚实，须向经寻。」\n第一韵专论针刺之当谨慎，不可造次，须辨经络阴阳、脏腑虚实而行补泻也。「原夫起自中焦，水初下漏，太阴为始，至厥阴而方终；穴出云门，抵期门而最后。」\n第二韵专明十二经脉常行之度。一日一周，自寅手太阴之脉，穴出云门也，至丑足厥阴之脉，穴出期门也，为终。周而复始循环，与滴漏天度无差，号曰斗合人统也。\n「正经十二，别络走三百余支。」\n十二经络、督任两经贯串三百六十余穴，以同日度并诸络。十二经、奇经八脉、皇络、孙络、横络、丝络，末取尽名。然不过一昼夜脉行一万三千五百息，血行八百一十丈，一周而已矣。\n「正侧偃伏，气血有六百余候。」\n背为阳，行于阴俞；腹为阴，行于阳俞，总三百六十余穴，左右胁肋合穴六百余候。\n「手足三阳，手走头而头走足；手足三阴，足走腹而胸走手」。\n手三阳，从手走至头；足三阳，从头走至足；足三阴，从足走至腹；手三阴，从胸走至手，《难经》所载明矣。\n「要识迎随，须明逆顺。」\n顺经络而刺是谓补，逆经络而刺是谓泻。手法在人，依经用度。\n「况乎阴阳气血多少为最，厥阴、太阳，少气多血；太阴、少阴，少血多气；而又气多血少者，少阳之分；气盛血多者，阳明之位。先详多少之宜，次察应至之气」。\n气血多少，已注经络，不必重论。\n「轻滑慢而未来，沉涩紧而已至。」\n指弹其穴，穴下气轻、滑、慢，气未至也，勿刺，待气至方可刺也。穴下气来沉、涩而急，即可刺也。\n「既至也，量寒热而留疾。未至者，据虚实而候气。」\n气至也，可留则留，可速则速。寒则留，热则速，不可失时。候气未至，或进或退，或按或提等，引气至方可刺也。\n「气之至也，若鱼吞钩饵之浮沉。」\n气至穴下，若鱼吞钩，若蚁奔走，或浮或沉也。\n「气未至也，似潜处幽堂之深邃。」\n穴下气不至，若虚堂无人，刺之无功，不可刺也。\n「气至速而效速，气至迟而不治。」\n气之至也，刺之即愈。气未至也，如刺绣工，徒劳人尔。\n「观夫九针之法，毫针最微，七星可应，众穴主持。」\n古针有九名，毫针按七星斡运璇玑，最为常用也。\n「本形金也，有蠲邪扶正之道。」\n金者，刚健中正之性，可以去邪，扶持正气也。本形言针之为物。\n「短长水也，有决凝开滞之机。」\n水有开山穿石之力，以润下为功。针之短长深浅，如水之用也。\n「定刺象木，或斜或正。」\n斜刺，可曲，可直，可斜，可正，犹木之曲直也。\n「口藏比火，进阳补羸。」\n口温针热，补调荣卫，毋令冷热相伤，犹火之能炎上也。\n「循机扪而可塞，以象土。实应五行而可知。」\n土可以塞水，针可以塞病，源是以象土也。一针之用，五行俱全。\n「然是一寸六分，包含妙理。虽细桢于毫发，同贯多岐。」\n恒所用者毫针也。按黄帝铜人流注之法，肘前膝下一寸六分，只有八分为针柄，是针二寸四分也。按气血、经络变化无方，惟针所治。\n「可平五脏之寒热，能调六脏之虚实。」\n脏腑要分表里、虚实、寒热，针法在斯矣。\n「拘挛闭塞，遣八邪而去矣；寒热痛痹，开四关而已之。」\n太乙移宫之日，八风之邪。主人寒热头痛，若开辟四关，病可除也。四关者，两手、两足，刺之而已矣。正所谓六十六穴之中也。\n「凡刺者，使本神朝而后入；既刺也，使本神定而气随。神不朝而勿刺，神已定而可施。」\n神者脉也。脉息见于穴下，气至可刺之，脉息不至则不均，不全则不定，穴下气分不可刺也。至慎、至慎。\n「定脚处取气血为主意，下手处认水土是根基。」\n先占口鼻，呼吸匀者可刺。水土者，太溪、冲阳也。绝则勿刺焉。\n「天、地、人，三才也，涌泉同璇玑、百会。」\n百会在顶，应天主乎气；涌泉在足底，应地主乎精；璇玑在胸，应人主乎神。得之者生，失之者亡，应乎三才者也。\n「上中下三部也，大包与天枢、地机。」\n上中下三部，谓之三要。大包在腋下三寸，主脾之大络，一要也；天枢者，挟脐旁二寸，谓之关，二要也；地机者，脾舍之郄，在膝下五寸，下部之总，三要也。\n「阳跷、阳维并督脉，主肩背腰腿在表之病。」\n督脉起下极之俞，主肩背夹脊之病。阳跷在足外踝下白肉际，足太阳膀胱穴。阳维在膀胱下命门穴，与督脉皆属阳，为补泻兼治胫酸、身颤、癫痫之疾。督脉为阳脉之海。\n「阴跷、阴维、任、带、冲，去心腹胁肋在里之疑。」\n任脉起中极之俞，上毛际曲骨俞。冲脉起气冲并足阳明至胸，散诸部中。带脉起于季胁下一寸八分，周回一身，与任脉同治，阴脉之海也。阴跷起于跟中。阴维起于诸阴交会处，所治腹里诸疾也。\n「二陵、二跷、二交，似续而交五太。两间、两商、两井，相依而列两肢（两肢当作四肢。）」\n阳陵泉、阴陵泉、阳跷、阴跷，交信、交仪。五太者，相接太冲、太白、太溪、太渊、太陵，商丘、商阳，二间、三间，天井、肩井相依乎手足四肢也。上下左右，前后内外交平而百病可治也。\n「足见取穴之法，必有分寸。先审自意，次观肉分。或伸屈而得之，或平直而安定。在阳部筋骨之侧，陷下为真；在阴分郄腘之间，动脉相应。」\n取穴莫熟于分寸，详字意最紧。手背、足背、脊背，阳部在两筋之旁，以指按陷下者是穴。手心、脚底、腹肚，阴之分，在筋骨郄腘之间，以指下动脉应之是穴也。\n「取五穴用一穴而必端，取三经使一经而可正。」\n取五穴者，谓如阳经用甲、丙、戊、庚、壬时，取一时，分井、荥、输、经、合，五穴既定，然后取一穴，得时刺之。三经者，假令胆经受病，宜取肝经拘关，又取脾经，甲胆与乙脾为奇偶，三经只取一经。余同此例。\n「头部与肩部详分，督脉与任脉异定。」\n此言经络须要精熟，督脉、任脉，一阳一阴，在明师手指，不可造次。\n「明标与本，论刺深刺浅之经；住痛移疼，取相交相贯之径。」\n日法寅、卯、辰，上为标；申、酉、戌，下为本。巳、午、未，上为标；亥、子、丑，下为本。故知标病大，本病轻浅也。交贯之路，谓阴交阳会、走经去络配合之处也，皆可互标而刺之。\n「岂不闻脏腑病，而求门、海、俞、募之微。」\n门、海出入之道，俞、募终始之处，五脏各有俞、募。\n「经络滞，而求原、别、交、会之道。」\n阴俞阴，谓之交；阳原阳，谓之会。\n「更从四根，三结，依标本而刺无不痊。」\n《素问》云：太阳根于至阴，结于命门；阳明根于厉兑，终于颃颡；少阳根于窍阴，结于窗笼；太阴根于隐白，结于太仓；少阴根于涌泉，结于廉泉；厥阴根于大敦，结于玉英，此谓三结四根。有足太阳根于复溜，溜于京骨，注于昆仑，入于天柱、飞扬也；足少阳根于窍阴，溜于丘墟，注于阳辅，入于光明、天容也；足阳明根于厉兑，溜于冲阳，注于下陵，入于人迎、丰隆也；手太阳根于少泽，溜于阳谷，注于少海，入于天窗、支正也；手少阳根于关冲，溜于阳池，注于支沟，入于天牖、外关也；手阳明根于商阳，溜于合谷，注于阳溪，入于天突、偏历也；手太阴根于少商，溜于太渊，注于列缺，入于迎香；手少阴根于少冲，溜于神门，注于通里，入于极泉；手厥阴根于中冲，溜于太陵，注于内茎，入于天池、郄门也。按：《素问》此篇不载后一段。\n「但用八法、五门，分主客而针无不效。」\n用针八法者，迎随一也，转针二也，指法三也，针头四也，虚实五也，阴阳六也，提按七也，呼吸八也。补虚泻实，损益在此八法。\n五门者，井、荥、输、经、合也。春刺井，夏刺荥，秋刺经，冬刺合，四季月刺输穴。五门一月一同一日，亦有五门同年辰例。客者，客邪也；主者，主气也。知之者，刺之无有不效。\n「八脉始终连八会，本是纪纲；十二经络十二原，是为枢要。」\n甲光明走乙肝，乙蠡沟走甲胆，丙腕骨走丁心，丁通里走丙小肠，戊丰隆走巳脾，巳公孙走戊胃，庚偏历走辛肺，辛列缺走庚大肠，壬飞扬走癸肾，癸大钟走壬膀胱，三焦与包络相为表里，此为十二原穴。八脉者，奇经也。有督脉、任脉、冲脉、带脉、阴维、阳维、阴跷、阳跷，是为八脉也。八会者，腑会中脘，脏会章门，筋会阳陵泉，髓会阳辅，血会膈俞，骨会大杼，脉会太渊，气会膻中，此八穴阴通八脉，相辅而用。一日刺六十六穴之法，方见幽微；一时取十二经之原，始知要妙。\n一日刺六十六穴之法，用甲、丙、戊、庚、壬五穴，每时相配乙、丁、己、辛、癸。一时十穴，五六三十，两手两足相对，共计六十穴。一时平取十二经之原，亦可遍经而已矣。\n「原夫补泻之法，非呼吸而在手指；速效之功，要交正而识本经。」\n《经》云：宁失其穴，勿失其经；宁失其时，勿失其气。古人云：有八法：弹、捻、循、扪、摄、按、爪、切，用此如神，故不再执呼吸也。\n「交经缪刺，左有病而右畔取；泻络远针，头有病而脚上针。」\n手足大病，左因右侵凌，右因左攻击。黄帝云：是动则病经气，更取所生者，病血络更然，故上下、前后、左右、腹背，交经平刺也。\n「巨刺与缪刺各异，微针与妙刺相通。」\n巨、微、妙，毫针之刺；缪，交平而刺；巨，随气色而针之，故不同也。\n「观部分而知经络之虚实；视浮沉而辨脏腑之寒温。」\n此言三部九候，刺虚实、寒热、表里也，而后刺法行焉。\n「且夫先令针耀，而虑针损；次藏口内，而欲针温。」\n古人云：口温针暖，毋令针冷，与皮肉相合，故不损折也。\n「目无外视，手如握虎，心无内慕，如待贵人。左手重而多按，欲令气散；右手轻而徐入，不痛之因。」\n手法之原，先要左手在穴重按有准，右手轻捻至分寸，自不痛也。\n「空心恐怯，直立侧而多晕；背目沉掐，坐卧平而没昏。」\n此明用针规矩法式也。\n「推于十干、十变，知孔穴之开合；论其五行、五脏，察日时之旺衰。伏如横弩，应若发机。阴交、阳别而定血晕，阴跷、阳维而下胎衣。」\n三阴之交与三阳别走阴跷、阳维，皆治产难、下胎、血晕，此之谓也。\n「痹厥偏枯，迎随俾经络接续；漏崩带下，温补使气血依归。」\n风科有一痹，言风寒湿冷而为痹也。接续，刺包、焦诸穴。女人血下有四：崩者急下，漏者点滴下，渗者浸浸而下，带者随便溺而下。荣卫气息安定，方可刺也。\n「静以久留，停针候之。」\n用针刺产难、崩漏淹涎等病，皆可停针留法，罔不效也。\n「必准者，取照海治喉中之闭塞；端的处，用大钟治心内之呆痴。」\n照海通阴跷，足少阴经也，可刺喉闭。大钟走足太阳，可刺失心之病。\n「大抵疼痛实泻，痒麻虚补。体重节痛而俞居，心下痞满而井主。」\n百病麻痒不仁、清冷者，虚也，可补之；疼痛者，实也，可泻之。五门所主不同，井主心下满闷；荥主气热恍惚；俞主体节疼痛；经主寒热喘嗽；合主气逆泄利也。\n「心胀咽痛，针太冲而必除；脾痛胃疼，泻公孙而立愈。胸满腹痛刺内关，胁疼肋痛刺飞虎。筋挛骨痛而补魂门，体热劳嗽而泻魄户。头风头痛刺申脉与金门，眼痒眼疼，泻光明与地五。泻阴郄止盗汗，治小儿骨蒸。刺偏历利小便，医大人水蛊。中风环跳而宜刺，虚损天枢而可补。」\n此一节俞穴明注，不必重解。\n「由是午前卯后，太阴生而疾温；离左酉南，月朔死而速冷。」\n子、丑、寅三时，阴中之少阳不足为用也。午前卯后，乃辰巳之时，阳中之老阳，可治万病之虚寒。酉、戌、亥三时，阴中之老阴，不足生发也。离左酉南，乃未申之时，阳中之少阴，可治万病之烦躁者。温其虚寒则针而补之，灸而呵之；冷其烦躁则针而泻之，灸而吹之。以丈夫同室女、妇人，比童子治之。\n「循扪弹努，留吸母以坚长。爪下伸提，疾呼子而嘘短。」\n此言八法，虚补其母，实泻其子也。\n「动退空歇，迎夺右而泻凉；推内进搓，随济左而补暖。」\n此明左右转针补泻，取手俯、手仰法也。\n「慎之！大危疾患，色脉不顺而莫针；寒热风阴，饥饱醉劳而切忌。」\n天有六气，阴、阳、风、雨、晦、明；地有六邪，风、寒、暑、湿、温、燥；人有六情，喜、怒、哀、乐、好、恶。共十八事，皆禁忌，不可针也。\n「望不补而晦不泻，弦不夺而朔不济。」\n望日魂魄皆满，血气坚盈，不可补也。晦日月空已尽，人气已衰不可泻也。朔日月会也，月之阴魄未成，日之阳魂始生，人气亦然，故不可泻也。上弦月始生，气血始结，卫气始行，不可夺也。下弦月始减，人气血亦空，不可迎也。\n古圣有云，针刺之法大禁，一月之内晦、朔、弦、望四日，谓之四忌。\n「精其心而穷其法，无灸艾而坏其皮；正其理而求其原，免投针而失其位。」\n「位」者，胃也。灸不当其穴，损伤荣血，肝也。刺不中其法，丧败卫气，胃也。\n「避灸处而和四肢，四十有九；禁刺处而除六俞，一十有二。」\n忌针之穴，见《针经》第四卷。\n「抑又闻高皇抱疾未瘥，李氏刺巨阙而得苏；太子暴死为厥，越人针维会而复醒。肩井、曲池，甄权刺臂痛而复射；悬钟、环跳，华佗刺躄足而立行。秋夫针腰俞而鬼免沉疴，王纂针交俞而妖精立出。刺肝俞与命门，使瞽士视秋毫之末；取少阳与交别，俾聋夫听夏蚋之声。嗟夫！去圣愈远，斯道渐坠，或不得意而散其学，或炫其能而犯禁忌。愚庸志浅，难契于元言，至道渊深，得之者有几？偶述斯言，不敢示诸明达者焉，庶几乎童蒙之心启。」",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 406,
+      "source_path": [
+        "穴法相應三十七穴",
+        "註解標幽賦"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f013d095941737d5cfb97e9dded991537b05739285e695aa7602f337b91b3e1d",
+      "content_sha256": "623f1fac238b0a5e19f579dbd24377628c861d32d74f9c466f0b20ee59f9c988",
+      "paragraph_count": 117,
+      "paragraph_ordinals": [
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415,
+        416,
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430,
+        431,
+        432,
+        433,
+        434,
+        435,
+        436,
+        437,
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445,
+        446,
+        447,
+        448,
+        449,
+        450,
+        451,
+        452,
+        453,
+        454,
+        455,
+        456,
+        457,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        464,
+        465,
+        466,
+        467,
+        468,
+        469,
+        470,
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481,
+        482,
+        483,
+        484,
+        485,
+        486,
+        487,
+        488,
+        489,
+        490,
+        491,
+        492,
+        493,
+        494,
+        495,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503,
+        504,
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 5124,
+        "simplified_codepoints": 5124
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "73e5d7090cca61bec3fb45f3",
+      "title": "天星十一穴歌诀",
+      "volume": null,
+      "content": "三里内庭穴，曲池合谷彻。\n委中配承山，下至昆仑绝。\n环跳与阳陵，通里与列缺。\n合担用法担，合截用法截。\n专心常记此，莫与闲人说。\n三百六十穴，不如十一穴，\n此法少人知，金锁都门𫔎。\n将针治病人，有如汤沃雪。\n非人莫传与，休把天机泄。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 524,
+      "source_path": [
+        "天星十一穴歌訣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "dd5cb537ff6686908a4677e2982976cc978f3ec45d425cd03dc94a0935f64029",
+      "content_sha256": "f5bcbf80457a852a55381af67ce2b5cbc8bd0f1626726fddb8c43f456c9ec1d5",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        525,
+        526,
+        527,
+        528,
+        529,
+        530,
+        531,
+        532,
+        533
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 116,
+        "simplified_codepoints": 116
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "1b4a330488af584353a3a2a3",
+      "title": "三里",
+      "volume": "天星十一穴歌诀",
+      "content": "三里在膝下，三寸两筋间，能除心腹胀，善治胃中寒，肠鸣并积聚，肿满膝胫酸，劳伤形瘦损，气蛊病诸般。人过三旬后，针灸眼能宽。取穴当举足，得法不为难。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 534,
+      "source_path": [
+        "天星十一穴歌訣",
+        "三里"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "a7b892854ae4580765d927a81c995c6d36316a2f82599fd760688502aba25c70",
+      "content_sha256": "c51cd1dd1733bf4832da1337f0f3de9099f9019a7fa65afb725f49a47bcecb0b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        535
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "c1450253d4cf16155b63a4f7",
+      "title": "内庭",
+      "volume": "天星十一穴歌诀",
+      "content": "内庭足两间，胃脉是阳明，针治四肢厥，喜静恶闻声，遍身风隐疹，伸欠及牙疼，疟病不思食，针著便惺惺。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 536,
+      "source_path": [
+        "天星十一穴歌訣",
+        "內庭"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "602e56c431ef8f1549dc7c824321d845a8c98feffa8d1f35aaa167e38f8f7a1b",
+      "content_sha256": "8f5ea7106b9ddcffcdf14f0dba2eb0460436caaac7273b6b57901b847f8a6306",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        537
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "c9d180bfb031e9e1e09601ad",
+      "title": "曲池",
+      "volume": "天星十一穴歌诀",
+      "content": "曲池曲肘里，曲著陷中求，善治肘中痛，偏风手不收，挽弓开未得，筋缓怎梳头，喉闭促欲绝，发热竟无休，遍身风隐疹，针灸必能瘳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 538,
+      "source_path": [
+        "天星十一穴歌訣",
+        "曲池"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "872d5999b20f92d069e3b301456c18d662279d74fe355d21c1d4c258035c4e2f",
+      "content_sha256": "59d6bc12e706dfe04b1156f950910486e76d7131567eb83cca1f3dcdf069f6f6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        539
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "4babed09cf88c4ee7521d4ab",
+      "title": "合谷",
+      "volume": "天星十一穴歌诀",
+      "content": "合谷名虎口，两指岐骨间，头痛并面肿，疟疾病诸般，热病汗不出，目视暗漫漫，齿龋鼻鼽衄，喉禁不能言，针著量深浅，令人便获安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 540,
+      "source_path": [
+        "天星十一穴歌訣",
+        "合谷"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "e4688310ee21a6fa6279bf10eda27624701f597363175549f8f7799100394c88",
+      "content_sha256": "e8951ae747ce749a50d309b05cee7fd777c7195e10d2603a1a6f1d1f6443a38d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        541
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "a34cc1621b3f940c7c5282c8",
+      "title": "委中",
+      "volume": "天星十一穴歌诀",
+      "content": "委中曲腘里，动脉偃中央，腰重不能举，沉沉压脊梁，风痹髀枢痛，病热不能凉，两膝难伸屈，针下必安康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 542,
+      "source_path": [
+        "天星十一穴歌訣",
+        "委中"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "af7c5c0c3abaf3a3506daf934a7be61b620d9a8246dc311894e93327b3fc69b7",
+      "content_sha256": "7fb2c51976bb8cb0233c4a9e80f60a927f7a58bcff54277532439ff94ac76b5b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        543
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "ddf50e42d7f266734e78d182",
+      "title": "承山",
+      "volume": "天星十一穴歌诀",
+      "content": "承山名鱼腹，腨下分肉间，可治腰背痛，久持大便难，脚气膝下肿，战栗腰疼酸，霍乱转筋急，穴中刺必安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 544,
+      "source_path": [
+        "天星十一穴歌訣",
+        "承山"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "49bceb4cdeb0b06fdfba8ba2a640a742e24e6ac51f125a190deddc945921087d",
+      "content_sha256": "348f4e6c67354df5ba7396110de653ce39fbfb1915964de0fe034c2592c8cdd7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        545
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "48fc3c8b942fc25d650ed918",
+      "title": "昆仑",
+      "volume": "天星十一穴歌诀",
+      "content": "昆仑足外踝，后向足跟寻。腨肿腰尻痛，脚胯痛难禁，头痛肩背急，气喘上冲心，双足难行履，动作即呻吟，要得求安乐，须将穴下针。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 546,
+      "source_path": [
+        "天星十一穴歌訣",
+        "崑崙"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "161c9688dd110c0f19fbb0d0f32fabc77701a81a2b1101d53c939d2fffa5cdd6",
+      "content_sha256": "68c4b132dc54ffc4603583b64aca41e1901965313ceaf7fd615d2803d26b2576",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        547
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "6d650ecf743ad7a1652b23cb",
+      "title": "环跳",
+      "volume": "天星十一穴歌诀",
+      "content": "环跳在髀枢，侧身下足舒，上足曲求得，针得主挛拘，冷风并湿痹，身体或偏枯，呆痴针与灸，用此没疏虞。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 548,
+      "source_path": [
+        "天星十一穴歌訣",
+        "環跳"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "623b837401dbeb4b093d84c2931dd1a20e5ffaedf029991bdaa24c1a6747cc4f",
+      "content_sha256": "c576fd958826f7c13e6a9f5037407916269254c559f696c590a66e40f92bf7b6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        549
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "cfbd33221cd27f187128cbd0",
+      "title": "阳陵",
+      "volume": "天星十一穴歌诀",
+      "content": "阳陵居膝下，一寸外廉中。膝腿难伸屈，拘挛似老翁，欲行行不得，冷痹及偏风，诚记微微刺，方知最有功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 550,
+      "source_path": [
+        "天星十一穴歌訣",
+        "陽陵"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "6d1051615343e7444d8975d889197423ecc0790cf1cd4f0e2c8c0e192f5facdc",
+      "content_sha256": "3e9ed5fb1f20b6538a45563ae15be9284313f3ceaacfabf2147678a74ecb11c1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        551
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "c3fd581dc88f8204d06f3155",
+      "title": "通里",
+      "volume": "天星十一穴歌诀",
+      "content": "通里腕侧后，度量一寸中，善呻并数欠，懊憹及心忪，实在四肢肿，喉间气难通，虚则不有语，苦呕痛连胸，肘膊连臑痛，头腮面颊红，针入三分妙，神功甚不穷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 552,
+      "source_path": [
+        "天星十一穴歌訣",
+        "通里"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4ffe01b004cdf9699d72eafafa8a5fb800f324c5ab38181b584b04cde4e3f916",
+      "content_sha256": "26025ffefcdd9ca1016f4e9c6be51963dca74b739ae0545b19af3a93668720fd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        553
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "938f8d61dedaa85fc585dfa5",
+      "title": "列缺",
+      "volume": "天星十一穴歌诀",
+      "content": "列缺腕侧上，手指头交叉，主疗偏风患，半身时木麻，手腕全无力，口噤不开牙，若能明补泻，诸病恰如拿。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 554,
+      "source_path": [
+        "天星十一穴歌訣",
+        "列缺"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "0f1d24d5f0bb8d08dec2d7cd7ee690b2403cc67232f27a95a91e95d9090fa636",
+      "content_sha256": "128c01586f9116e194429fa64b6ed71b6ccbc6de707e175f432c7bc223b3388a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        555
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "8f8c6186322dc0bb95970800",
+      "title": "九部人神歌诀",
+      "volume": "人神尻神歌诀",
+      "content": "一脐二心三到肘，四咽五口六在手，\n七脊八膝九在足，轮流顺数忌针灸。\n〔图版未收录：九部人神禁忌图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 557,
+      "source_path": [
+        "人神尻神歌訣",
+        "九部人神歌訣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "30e3c5bf8cbb65269381a9b02428751ee309921b8d2b969a966541fd54e5d97b",
+      "content_sha256": "140672680b78362562944182601f2ffd7d131d155651e007718a866d84c140f5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        558,
+        559,
+        560
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 49,
+        "simplified_codepoints": 49
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "d9586e650558f09c57695058",
+      "title": "九宫尻神歌诀",
+      "volume": "人神尻神歌诀",
+      "content": "针家若要辨尻神，一岁坤宫外踝轮，\n二震还当牙共腨，三头口乳巽宫陈，\n四中肩尾并穷骨，五耳干宫背面循，\n六管兑宫当手膊，七为腰项艮之门，\n八离膝肋毋轻视，九坎当脐肘脚存，\n十岁依前零顺走，明医仔细与评论。\n其法一岁起坤宫，二岁震宫，若一十岁仍在坤宫，二十岁震宫，三十岁巽宫，零年随顺，一岁一宫，顺行矣。\n〔图版未收录：九部尻神禁忌图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 561,
+      "source_path": [
+        "人神尻神歌訣",
+        "九宮尻神歌訣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "b3e299d63c4e532c6aa3c601ff972d32fde1b22c3a183cc33d2d8211fea08321",
+      "content_sha256": "64fd0d8958e70fa274aa13c450a49701eeb22ea99f17b47479d86994f902d961",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        562,
+        563,
+        564,
+        565,
+        566,
+        567,
+        568,
+        569
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 166,
+        "simplified_codepoints": 166
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "95458dca5c2818fbfe8f541b",
+      "title": "太乙日游九宫血忌诀",
+      "volume": null,
+      "content": "凡八节之日，各依其宫，起一日、二日，顺数一十日，仍在本宫。二十日、三十日，零数一例，顺至四十五日止。假如夏至日，一日在离宫，二日在坎，三日在坤，四日在震，五日在巽……至十日复至离宫。二十日在坎，三十日在坤，四十日在震，四十一日在巽，不宜针灸左肩也。余并同用此例。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 570,
+      "source_path": [
+        "太乙日遊九宮血忌訣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "9049f52bf09a1edcd86219404150c05716edf88167fb85204c2999173101ab86",
+      "content_sha256": "1c7bcb4251e109f5f65b63f577dde1c8d6f3507da27152c707eede52cbd3466c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        571
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "fb10dadc8a8d044e649272b1",
+      "title": "六十六穴治证",
+      "volume": null,
+      "content": "（通支别，共九十四穴）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 572,
+      "source_path": [
+        "六十六穴治證"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "d904a5d906befa397e9d5c920c97f5199420aaf39dbd519e7b353cf85854026f",
+      "content_sha256": "be61a282b5f83193c12e9f403b81fcee4d513aaa99f3e513d6198e2c0cbaf75e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        573
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 11,
+        "simplified_codepoints": 11
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "976d5702db403aa6450cc70b",
+      "title": "辛手太阴肺经",
+      "volume": "六十六穴治证",
+      "content": "（凡五穴为井、荥、输、经、合，后二穴为支别，共七穴）\n少商 为井木。在大指端内侧，去爪甲如韭叶大，与爪甲根齐，白肉际宛宛中。禁灸，宜刺血，针三分，向上三分。治咳嗽喘逆，咽喉壅闭，双蛾，枯楼风。\n鱼际 为荥火。在大指本节后内散脉，屈指大维尖。针三分。治伤风咳嗽，头疼目眩，咽干呕吐，少气，掌心、大指发热痛。\n太渊 为输土。在掌后横纹头陷中。治咳嗽、腹胀、心疼，呕吐上气，眼疾。\n经渠 为经金。在寸口陷中，脉会处。禁灸，伤神。针向太渊穴。治热病、喘逆，心痛，呕吐。\n尺泽 为合水。在肘中纹上动脉，臂屈伸横纹筋骨罅中。禁灸。治五般腰疼，手臂风痹。肘疼筋急，咳嗽上气，口干痛，癫痫。\n列缺 通任脉，别走阳明。针一分，向下。在腕侧，以手交叉取食指尽处，两筋骨罅中。治伤寒，发热无汗，气喘寒热，诸嗽有痰，心满腹胀，食噎，游走气，七症八瘕，肠风，脏毒，小便五淋，半身不遂，腕劳臂痛，痎疟，妇人血气不和，胎衣不下，小儿脱肛。\n孔最 抵手阳明，在腕上一寸宛宛中。治太阴热病无汗，肘臂屈伸难。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 574,
+      "source_path": [
+        "六十六穴治證",
+        "辛手太陰肺經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "ad6e7ff1e04f7c04733d7ae343e0d3c86f1d4200b453a47634a00ac7dafeb990",
+      "content_sha256": "c6ad34799f118afca371f0baa4873537502f12782603cfa846511bd9d2eefe2f",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        575,
+        576,
+        577,
+        578,
+        579,
+        580,
+        581,
+        582
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 436,
+        "simplified_codepoints": 436
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "0636cec7fb8aabf8de1aaa33",
+      "title": "庚手阳明大肠经",
+      "volume": "六十六穴治证",
+      "content": "（正六穴，其支二穴，共计八穴）\n商阳 为井金。在大指次指内侧，去爪甲如韭叶。针一分，向上三分。治喘急气上，牙痛，耳聋，目赤肿。\n二间 为荥水。在大指次指第二节后，内侧陷中。针入一分，向后三分。治肩背强痛以惊，喉痹，鼻衄，牙痛。\n三间 为输木。在大指次指第三节后内侧，捻拳横纹头中。针一分，沿皮向后透合谷穴。治胸满，肠鸣泄泻，喉痹咽干，气喘唇焦，牙痛齿龋。孕妇勿用。\n合谷 为原。在大指次指虎口岐骨间动脉中。治头面耳目鼻颊口齿诸疾，伤寒发热无汗，小儿疳气，眼疾。\n阳溪 为经火。在腕中上侧，两筋间陷中。直刺下。治热病心烦，头风目痛，癫痫喜笑。如神。\n曲池 为合土。在肘外辅骨，屈伸、曲手横纹头，以手拱胸取之。治中风半身不遂，遍身风痛，疮疥，两手拘挛红肿，伤寒发热，过经不除。\n偏历 手阳明络，别走太阴。在腕后三寸。治疟寒热无汗，目昏耳鸣，口㖞，手痛，喉痹，鼽衄，水蛊，小便不利。\n肩髃 两手关系肩头膊骨正中，两骨间，举臂取之。治中风半身不遂，手臂挛急，筋骨酸痛，风热隐疹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 583,
+      "source_path": [
+        "六十六穴治證",
+        "庚手陽明大腸經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "1b22cd28b2a3350370461ab710616efba537ad6e1f4ffc313d43dbe9982230d8",
+      "content_sha256": "8acd205d9f976b97db9bdcf43b051056cba0f5e838768faf2678010ca265b63a",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        584,
+        585,
+        586,
+        587,
+        588,
+        589,
+        590,
+        591,
+        592
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 435,
+        "simplified_codepoints": 435
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "529854e48babed12b98843fb",
+      "title": "丁手少阴心之经",
+      "volume": "六十六穴治证",
+      "content": "（正五穴，其支二穴，共计七穴）少冲 为井木。在手小指内侧，去爪甲如韭叶。治五痫，心痛，热病，胸满气急，手挛臂痛，掌热。虚悲惊；实喜笑。\n少府 为荥火。在小指本节，直劳宫中。治虚悲忧少气，心痛；实癫痫，谵语，臂痛，背疽初发。\n神门 为俞土。在掌后兑骨端。治疟恶寒发热，咽干身热，狂言，胸满腹痛，减食，心惊，少气喘嗽，唾红吐血，遗尿，手臂难举，五痫之疾。\n灵道 为经金。在掌后一寸。治心疼悲恐，暴喑难言。\n少海 为合水。在肘内廉节后大骨外，去肘端五分，横纹动脉中，屈肘向头取之。忌灸。治头疼，项急，胸满，心烦及肩膊手臂麻木难举。\n阴郄 在掌后去腕五分，动脉中。治胸满心痛，气逆，失音难言，衄血，洒淅恶寒，霍乱，惊恐，盗汗，小儿骨蒸。\n通里 别走太阳，在腕上后一寸。治心惊怔忡，烦闷，腹胀减食，头面赤，四肢不遂，酸痛，气不和。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 593,
+      "source_path": [
+        "六十六穴治證",
+        "丁手少陰心之經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "9cb5afeb25280ff1e2eaa339848189237344e4e64e85bea50c5d993365c0ed9c",
+      "content_sha256": "309975d48e15014771368b6f1a7285f92d4f2faff9473d08068e26476a164cb2",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 360,
+        "simplified_codepoints": 360
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "a4202abfac8861293dbde16b",
+      "title": "丙手太阳小肠经",
+      "volume": "六十六穴治证",
+      "content": "（正六穴，其支二穴，共计八穴）\n少泽 为井金。在小指端，去爪甲下一分。治项急，咳嗽、喉痹、舌疮，目赤，妇人无乳并乳痈。\n前谷 为荥水。在手小指外侧，本节前陷中。治伤风，发热无汗，项急背强，颌肿，咽干口渴，目赤，五指热痛。\n后溪 为输木，通督脉。在手小指外侧，本节后，外腕起骨前，拳尖上，治伤寒头痛，身浮肿，中风身体不遂，腰脚沉重，项急膊痛，臂挛筋急，疟疾寒热，胸满腹胀，盗汗难卧，耳聋目痛，喉痹，五痫，五淋。\n腕骨 为原。在手外侧，腕前起骨下陷中。治热病无汗，偏枯臂痛，失饥伤饱，浑身黄肿，饮食无味，目翳冷泪。\n阳谷 为经火。在外侧腕中，兑骨下陷中。治热病过时无汗，颠狂乱语，耳聋，齿痛，目眩红肿，内障。\n少海 为合土。在肘内大骨外，去肘端五分陷中，屈肘向头取。治头痛项急，四肢无力，手臂外廉肿痛，小肠气，妇人经脉不行。\n养老 抵少阴络，在踝骨上一寸，沿皮向下至阳谷。治肩背强急，眼痛。\n支正 别走太阳，在腕后五寸，去养老穴四寸。治五劳七伤，四肢虚乏，惊恐，肘挛指痛。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 601,
+      "source_path": [
+        "六十六穴治證",
+        "丙手太陽小腸經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "fd7b27d0b00cd0ada7ed7b8a58d0cf0db2df5ffa1cc726f95ed0b1cca6435a51",
+      "content_sha256": "2d27a8a380bdcb10833a169be3bab27e7af85a043f2688950d3d16b4539fd897",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 434,
+        "simplified_codepoints": 434
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "de1eefee2ae4a12f77b836a9",
+      "title": "乙手厥阴心包络经",
+      "volume": "六十六穴治证",
+      "content": "（正五穴，其支二穴，共计七穴）\n中冲 为井木。在中指端，去爪甲如韭叶陷中。无病不用，用则令人闷。治热病无汗，九种心痛，烦闷，中风舌强，头疼掌热。\n劳宫 为荥火。在掌中横纹动脉中，屈无名指是穴。勿多用。治中风身体不遂，癫痫狂笑，心痛，气喘，口臭。\n大陵 为输土。在掌后两筋间陷中。治心膈痛，喜笑悲哀，头痛目赤，小便不利。\n间使 为经金。在掌后三寸，两筋间陷中。治癫发狂，疟生寒热，心疼惊悸，呕逆胸满，咽痛、臂疼。\n曲泽 为合水。在肘内廉陷中，屈肘取之。治心痛呕血，胸满口干，肘臂筋挛。\n郄门 手厥阴郄。去腕五寸。治神气不足，惊恐畏人，心痛呕血，鼻衄。\n内关 通阴维，别走少阳，在掌后去腕二寸，两筋中，仰手取之。治伤寒发热，胸满腹胀，心痛，肠鸣冷痛，脾黄，癖块，泻利，食积，咳嗽哮喘，肠风痔漏，五淋。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 611,
+      "source_path": [
+        "六十六穴治證",
+        "乙手厥陰心包絡經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "9e020ec853d7be69c19f74ff43b90c8220a7eb7c26b2a00b385546a97088a417",
+      "content_sha256": "c0e27ab4f2ce83a3031e5f17f923d0975e9932fc8106291ca0f3fbf21da9bdc1",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        612,
+        613,
+        614,
+        615,
+        616,
+        617,
+        618,
+        619
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 348,
+        "simplified_codepoints": 348
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "2573fd29c9932947b64169cf",
+      "title": "甲手少阳三焦经",
+      "volume": "六十六穴治证",
+      "content": "（正六穴，其支二穴，共计八穴）\n关冲 为井金。在小指次指端，去爪甲角如韭叶。治头痛、喉痹，目痛，臂急肘疼。\n液门 为荥水。在小指次指间陷中，握拳取。治五痫，惊悸，头痛目赤，齿出血，手臂肿痛。\n中渚 为输木。在小指次指本节后间陷中。治脊间心后疼，头痛，耳聋，目赤，喉痹，肘臂挛急，五指难伸及小儿目涩羞明。\n阳池 为原。在手表腕上陷中。治疟疾寒热，心痛，胸满，臂疼，身沉步难，腕劳。\n支沟 为经火。在腕后三寸，两骨间陷中。治伤寒无汗，胸满，肩背胁肋疼痛，口噤，暴哑，霍乱吐泻。\n天井 为合土。在肘后大骨一寸，两筋骨间，叉手按膝上取。治五噎十膈，翻胃吐食，风痹筋挛骨痛，咳嗽上气，心疼惊悸，小腹胀疼及羊痫。\n外关 通阳维，少阳络。在腕后二寸，前踝骨尖后，两筋中，覆手取。治伤寒，自汗盗汗，发热恶风，百节酸疼，胸满，拘急，中风半身不遂，腰脚拘挛，手足顽麻冷痛，偏正头风，眼中冷痛冷泪，鼻衄，耳聋，眼风。\n会宗 通支沟，三阳络，在腕后三寸空中。治风痫，肌肤痛，耳聋。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 620,
+      "source_path": [
+        "六十六穴治證",
+        "甲手少陽三焦經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "cd99cc1eccac8ff9d9e6efb0b6a296e5b779aab34c3d190ac57ec02ba1d74433",
+      "content_sha256": "5cd16630a7cec5d49ae21c86e8f37df71c70c3bf938a214bd77a0844c3b928a7",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        621,
+        622,
+        623,
+        624,
+        625,
+        626,
+        627,
+        628,
+        629
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 428,
+        "simplified_codepoints": 428
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "d6b839808610f9a43537c086",
+      "title": "乙足厥阴肝之经",
+      "volume": "六十六穴治证",
+      "content": "（正五穴，其支二穴，共计七穴）\n大敦 为井木，在足大趾端，去爪甲如韭叶，及三毛中。治七疝，阴肝心痛，腹胀，脐下急，中热，尸厥，血崩。\n行间 为荥火。在足大趾间动脉中。治水蛊、胀满，心疼咳逆，吐血咽干，寒疝，溺难，腰痛，脚气红肿。\n太冲 为输土。在足大趾本节后二寸骨罅间，动脉中，系太冲脉。治腹中诸疾，胸胁支满，面黄肌瘦，腰脊跗肿，足膝冷痛，大便闭涩，卒疝，恶心，发热发寒，遗精，五淋，妇人月水不通，漏下，贲中疼，阴挺出，马刀腋肿。\n中封 为经金。在踝内前一寸。斜行小脉上，伸足仰趾取。治疟寒热，腹痛寒疝，足痛步难，草鞋风。\n曲泉 为合水。在膝内辅骨下两筋间，屈膝横纹头中。治中风、腰脚冷痛，腹痛，泄利脓血，妇人血瘕。\n蠡沟 别走少阳，在内踝五寸。治项急，腹痛，足寒腿酸，卒疝，小便不利，肾脏风痒，妇人月水不调，赤白带下，脐下积疼。\n中都 在内踝上七寸，䯒骨中，与少阴相直。治肠癖，遗疝，小腹疼，足寒胫寒，行难，妇人血崩，恶露不止。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 630,
+      "source_path": [
+        "六十六穴治證",
+        "乙足厥陰肝之經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "3fc30ee425d864cfd9303a3aacd0a7b0ca7fb96fa7135d02fb0101b568b67243",
+      "content_sha256": "b3214aac6b4bfdd9d4dfcc6b36f39c6fcae04d7c6ae51cc1ba4e7b5657611deb",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        631,
+        632,
+        633,
+        634,
+        635,
+        636,
+        637,
+        638
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 415,
+        "simplified_codepoints": 415
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "a0c2195906b5d51000cea107",
+      "title": "甲足少阳胆之经",
+      "volume": "六十六穴治证",
+      "content": "（正六穴，支别四穴，共计十穴）\n窍阴 为井金。在小趾次趾岐骨间，本节前陷中。治头昏项疼，胁痛，目赤耳聋。\n侠溪\n临泣 为输木，通带脉。在小趾次趾本节后间陷中，去侠溪寸半，垂足取。治癫痫，中风身足不遂，腰腿难辛，寒湿脚气，手足顽麻，偏正头风，面痒，目赤眵泪，耳聋，喉痹牙痛，失饥伤饱，四肢浮肿，面黄肌瘦，气血不和，伤寒解利后多汗。\n丘墟 为原。在外踝下如前陷中，去临泣三寸。治头项强，胸满腹胀，上气喘促，霍乱转筋，卒疝，疟寒热，腋肿，腰胯腿膝脚寒湿，酸疼红肿，草鞋风，目生翳。\n阳辅 为经火。在外踝上四寸，辅骨前，绝骨端，如前三分，去丘墟七寸。治胃弱减食，肠鸣腹胀，筋挛骨痛，足肿。\n阳陵泉 为合土。在膝下一寸外廉，䯒骨下，微侧陷中。治筋病，中风半身不遂，腰腿膝脚诸病，喉痹，风痰，便毒。\n绝骨 在足外踝上三寸动脉中。治伤寒大热无汗，心疼腹胀，中焦寒热，减食吐水，腰胯急痛寒湿，遍身疮疥，脚气。光明 走厥阴。在外踝五寸。治热病无汗，中风身体不遂，与阳辅治同。虚则腿脚痿痹，䯒酸，眼痒；实则䯒热膝痛。\n阳交 在外踝上七寸，斜属三阳分，内同。治寒厥惊狂，胸满，面肿喉痹，膝䯒麻痹，寒热不仁。\n环跳 在髀枢中，丸子骨下。两腿间系，侧卧，伸下足，屈上足取。治中风，身体不遂，血凝气滞，浑身、腰腿风寒湿痹，生疮肿癞。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 639,
+      "source_path": [
+        "六十六穴治證",
+        "甲足少陽膽之經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "411284fccb9401537a288da80ee4d1986820dc0647164737da4581db41edbfa4",
+      "content_sha256": "56b289cdccf27649416b605bf662fbfd633855d5bf351b486468bb3f8532237e",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646,
+        647,
+        648,
+        649
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 552,
+        "simplified_codepoints": 552
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "e97d8bea39d39aff3a049100",
+      "title": "巳足太阴脾之经",
+      "volume": "六十六穴治证",
+      "content": "（正穴五，支穴二，共计七穴）\n隐白 为井木。在大趾端内侧，去爪甲如韭叶。治腹胀，喘吐血衄，肠滑，食不化，月经不止，血崩。\n大都 为荥火。在大趾本节内侧白肉际。治热病遗热不解，足心发热，脾胃不和，胸膈痞闷，腹痛吐逆。\n太白 为输土。在大趾内侧，核骨下陷中。治热病无汗，脾胃虚弱，腹肠鸣，呕吐，泻泄，霍乱，不思饮食，身热，腿疼，手足冷，腰尻痛，大便难。\n商丘 为经金。在内踝下微前陷中。治身体拘急，腿脚内廉疼，腹胀肠鸣，身寒气逆，绝子。\n阴陵泉 为合水。在膝下内侧辅骨下陷中，屈膝伸足取。治霍乱，腹胀喘逆，七疝八瘕，腰落，小便不利。\n公孙 通冲脉，别走阳明，在大趾本节后，去太白一寸。治妇人诸疾，产后血晕，胎衣不下，五癫，胸膈不利，胁肋膨胀，痃癖积块，肠鸣泻泄，里急后重，酒疸食黄，翻胃痰涎，肠风，七疝，脱肛。\n三阴交 通三阴聚会处，在内踝上三寸，骨下陷中。孕妇勿用。治身重足痿，膝内廉疼，七疝，小肠气，便毒，小便不利，五淋。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 650,
+      "source_path": [
+        "六十六穴治證",
+        "巳足太陰脾之經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "8e05bcbcbc57ec7e6148bf2c4e0c7b3245d21e0e9c8925545ba89a7e4703c11c",
+      "content_sha256": "37e20b6ee0ddf86ac24e075710f806f8518c8e4f86205da6fcf6a455a0dc728a",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        651,
+        652,
+        653,
+        654,
+        655,
+        656,
+        657,
+        658
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 411,
+        "simplified_codepoints": 411
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "6a16a99a203dab71635a35f4",
+      "title": "戊足阳明胃之经",
+      "volume": "六十六穴治证",
+      "content": "（正六穴，其支一穴，共计七穴）\n厉兑 为井金。在大趾次趾端，去爪甲如韭叶。治热病无汗如疟，尸厥、口噤，腹胀，多睡，面肿，喉痹牙疼。\n内庭 为荥水。在大趾次趾外陷中。治腹胀久疟，四肢厥逆，牙疼，腿膝足跗红肿。\n陷谷 为输木。在大趾次趾外间本节后陷中，去内庭二寸。治久疟无汗，面肿，腹胀肠鸣，腿膝肿痛。\n冲阳 为原。在足跗骨上，去陷谷三寸动脉。治偏风，口眼㖞斜，寒热如疟，牙疼。\n解溪 为经火。在冲阳后一寸半，腕口系鞋处。治喘嗽上气，腹中积气游走，头昏目翳，眉棱疼。\n三里 为合土。在膝下三寸，䯒骨外廉两筋间，以大指次指圈其膝盖，中指尽处是穴，举足取。治男女百病，五劳七伤，脾胃诸气、诸疾，诸蛊，诸眼疾，喉痹，风寒诸疼痛。\n丰隆 别走太阳，外踝上八寸下廉，䯒外廉陷中。治身体倦怠，腿膝酸痛，四肢不收，心腹气痛，大小便难，寒喘嗽急，喉痹气逆。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 659,
+      "source_path": [
+        "六十六穴治證",
+        "戊足陽明胃之經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "3123153dcb57bba20bb7f4e337f2da792d1c3aa2352c390c8847b3c8d5119338",
+      "content_sha256": "878f503ef3d2e2067d660020d0f16c34482c38d5a6b82862288de04088dedc2f",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        660,
+        661,
+        662,
+        663,
+        664,
+        665,
+        666,
+        667
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 368,
+        "simplified_codepoints": 368
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "a09ddb46c2a2b22068ec1f4e",
+      "title": "癸足少阴肾之经",
+      "volume": "六十六穴治证",
+      "content": "（正五穴，其支三穴，共计八穴）涌泉 为井木。在足心近大趾大筋白肉际，屈足卷趾取。治男子如蛊，女子如狂，身热头痛，气喘足寒，大便闭结。\n然谷 为荥火。在内踝前起，直下一寸，大骨下陷中。勿见血。治寒湿脚气，疮疥癣痛，小儿脐风口噤。\n太溪 为输土。在内踝后，跟骨下，动脉陷中。治疟寒热，咳逆心烦，鼻衄吐血，牙疼，胫寒，小便黄赤。\n复溜 为经金。在内踝上二寸，动脉陷中。治浑身疼，盗汗，腰痛引脊，腹胀肠鸣，四肢浮肿，胫寒足痿，小便杂色。\n阴谷 为合水。在膝内辅骨后，大筋下，小筋上，屈膝按之，应手取。治伤寒小便不通，腹疼，漏下赤白，小便黄赤。\n水泉 在内踝下，太溪下一寸。治月事不来，来即心闷，阴挺出，小便淋，腹痛，目昏。\n照海，通阴跷，在内踝四分，赤白肉际。治伤寒发热，咽喉肿痛，头风胸满，腹胀恶心，翻胃吐食，酒积食癖，血瘕气块，肠风漏血，大便闭结，小肠疝气，遗尿，女人产后血晕，经水不调。\n大钟 走太阳，在足跟冲中，当踝后，绕跟取。治胸腹喘逆少气，惊恐，口燥咽干，咳吐，喉中呜，食噎烦闷，呕，腰疼，大便秘，嗜卧，口中热，小便不利。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 668,
+      "source_path": [
+        "六十六穴治證",
+        "癸足少陰腎之經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "065af98748a4c8a5cfdc5f796340a74504aff7947fb0caa5ddd05a72f1436ef3",
+      "content_sha256": "cf2bc4fc88ec9e9d2f6bb2cdce2cde35a7591e1856d16f493b4407dfe67e1f67",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        669,
+        670,
+        671,
+        672,
+        673,
+        674,
+        675,
+        676
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 463,
+        "simplified_codepoints": 463
+      },
+      "order": 111
+    },
+    {
+      "chapter_key": "b4b908cd64b369721974b513",
+      "title": "壬足太阳膀胱经",
+      "volume": "六十六穴治证",
+      "content": "（正六穴，支穴有四，凡十穴）\n至阴 为井金。在小趾外侧，去爪甲角如韭叶。治头风，目昏晕，鼻衄，腹胀减食，胸满，小便难。\n通谷 为荥水。在小趾外侧，本节前陷中。治头疼目赤，鼻衄，腹胀减食。\n束骨 为输木。在小趾外侧，本节后陷中。治头痛项急，目昏烂眩，小儿诸痫。\n京骨 为原。在外侧大骨下，赤白肉际中，按之得。治头项腰胯筋挛骨痿诸疾，目病，鼻疾。\n昆仑 为经火。在外踝后腿骨上，大筋后五分，细脉应手。治腰尻膝足，风寒湿痹，肿痛，暴喘上气，诸痫，便毒。\n委中，为合土。在腘中央，踿内筋骨约纹中动脉。治身重腰痛，膝劳髀疼，四肢无力，失尿。\n申脉，通阳跷。在外踝下容爪甲，白肉际。治一身，四肢拘挛痛肿，麻痹疼痛，历节风，头风，眉棱疼痛，目赤，鼻衄，耳聋。女人吹乳。\n跗阳 在外踝上三寸，阳跷郄，太阳后，少阳前，筋骨间。治腰腿胯胫急，酸痛，四肢不举。\n承山 在兑端腨肠腿肚下，分肉间，离足跟上八寸。治腰脊腿足拘挛，寒湿脚膝肿痛，大便难，痔疮、肠风，脏毒，便痈，霍乱，转筋。\n飞扬 别走少阴。在踝上九寸。治诸癫，头目昏沉，颈项强痛，腰腿手足历节风，鼻鼽衄血，疟寒热，痔疮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 677,
+      "source_path": [
+        "六十六穴治證",
+        "壬足太陽膀胱經"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "3f93ac6529481b1cbf7905788c9f7ceb715d020f8f871a122ddcdb258ce188e5",
+      "content_sha256": "a853c21cc776da1c812601e519e49c17c1d4dda6ae2c12af0ba682c5fac3f5b8",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        678,
+        679,
+        680,
+        681,
+        682,
+        683,
+        684,
+        685,
+        686,
+        687,
+        688
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 479,
+        "simplified_codepoints": 479
+      },
+      "order": 112
+    },
+    {
+      "chapter_key": "bafcfe73a159b97afca6ad77",
+      "title": "流注序",
+      "volume": null,
+      "content": "天有十干，地支十二。以干加支，常遗其二。二一合化，五运六气，是以甲、乙、丙、丁、戊、己、庚、辛，一而不重壬癸，壬癸乃重其位。阴阳不质，五行质气，气质既形，胎生墓死，所以甲犹草木，原因壬癸。气行于天，质具于地。质气之分阴质、阳气，故阳主变化，阴主专静，而莫自制。是以阳府示原，阴藏隐秘。然夫自子至巳，六阳化合；自午至亥，六阴变化。惟壬得一，癸二从之，为阴阳动静之枢纽，气数欲兆之时。故气运一周，一会于壬癸，交接挥持，莫为其纪，故子午流注真诀，甲始于戌而壬亥为终，壬子、癸丑为终始之地。一顺一逆，一纵一横，一起一止，一变一互，一合一化，一君一臣，一佐一使，一生一克，一母一子，一夫一妇，交神合气，变化无穷。所以一岁总六十穴，月、日、时，刻，一刻备六十穴，岁明，月、日如之，其何以然哉！日、月，三十日则一会于壬，河图一穴居北而括万极，此皇极先天之数所由起，五行五气，所由化合，子午流注针法之心要也，神之变化渊乎哉！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 689,
+      "source_path": [
+        "流注序"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "56c764f059a764d650cebca17990d2a4e7a7ef19d969843455cd178d6701d10a",
+      "content_sha256": "390922584ed0c9d92957e6f8897d338a7c823f06beaf3a5fa4f61e29fd9f5e98",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        690
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 404,
+        "simplified_codepoints": 404
+      },
+      "order": 113
+    },
+    {
+      "chapter_key": "ba5e91952ec5986292e8795f",
+      "title": "诗曰",
+      "volume": "流注序",
+      "content": "甲胆乙肝丙小肠，丁心戊胃己脾乡，\n庚是大肠辛是肺，壬属膀胱癸肾详。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 691,
+      "source_path": [
+        "流注序",
+        "詩曰"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "1ba6f459dd1d71577798adce159f40f4b6ecc8dc3a439a05592554ea8abe39d3",
+      "content_sha256": "b0d442eaef86758995867d16e7db3cb9d77e0995c85f7a849bb96816e10cdf41",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        692,
+        693
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 114
+    },
+    {
+      "chapter_key": "78f0c6c61d25a0e752780e98",
+      "title": "地支十二属",
+      "volume": "流注序",
+      "content": "十二经行十二时，子原是胆丑肝之，\n肺居寅位大肠卯，辰胃流传巳在脾，\n午字便随心脏定，未支须向小肠宜，\n申膀酉肾戌包络，惟有三焦亥上推。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 694,
+      "source_path": [
+        "流注序",
+        "地支十二屬"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "7214dca4cdfd41a09cd4d5fc76276277bc007a77c971d2f330f6dda63133d0ef",
+      "content_sha256": "090f8a183c23b1ad1ed73f02a8e32f9c15de596ecb907cebbf11ce6118cddaed",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        695,
+        696,
+        697,
+        698
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 115
+    },
+    {
+      "chapter_key": "74f78f6839e16ed6aeede5e8",
+      "title": "阴阳经络所属",
+      "volume": "流注序",
+      "content": "手之三阴：肺，太阴；心，少阴；心包，厥阴。\n足之三阴：脾，太阴；肾，少阴；肝，厥阴。\n手之三阳：小肠，太阳；三焦，少阳；大肠，阳明。\n足之三阳：膀胱，太阳；胆，少阳；胃，阳明。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 699,
+      "source_path": [
+        "流注序",
+        "陰陽經絡所屬"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "cc4a7440ce315078c4bd2419679531cb53d6a74ce7d7551f3055517d4c6634ec",
+      "content_sha256": "f7fcd326a95c3d0bbd0e94b4b498383df18aa1d9ef3fc731eb29fd0de0818d59",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        700,
+        701,
+        702,
+        703
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 116
+    },
+    {
+      "chapter_key": "25997b4e76a1bf1358a1ec63",
+      "title": "直年司天歌",
+      "volume": "流注序",
+      "content": "子午少阴居，心肾共相宜，卯酉阳明胃，大肠当共知，寅申少阳胆，三焦自有期，巳亥厥阴肝，心包脉细微，辰戌行太阳，膀胱及小肠，丑未太阴土，脾肺是其乡。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 704,
+      "source_path": [
+        "流注序",
+        "直年司天歌"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "66853d558e164056a52a6163a754d1bd86af5bb1f509a3190d4f1e34f0cc4d3f",
+      "content_sha256": "387a82177e449958e40469e6bf61accf87cf62627d474c120965ed2e8ce5c6bd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        705
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 117
+    },
+    {
+      "chapter_key": "2accda183917054cab56ef30",
+      "title": "司天诀",
+      "volume": "时日配合穴法图",
+      "content": "〔图版未收录：司天诀图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 707,
+      "source_path": [
+        "時日配合穴法圖",
+        "司天訣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "102a38eff6d55f248c9b9023140e800c1b82959f0002be7a642cf6a412af34c9",
+      "content_sha256": "78ddab1807146452f1460f0f1bb23af4011538b525f3bd3e3e368d9b5d320b62",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        708
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 12,
+        "simplified_codepoints": 12
+      },
+      "order": 118
+    },
+    {
+      "chapter_key": "4e812d4089b8d96574361ee7",
+      "title": "手指诀",
+      "volume": "时日配合穴法图",
+      "content": "〔图版未收录：手指诀图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 709,
+      "source_path": [
+        "時日配合穴法圖",
+        "手指訣"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "2165ea726dbe255064d5078b7081c80f10d12d9b0870e2f9ed6c62863d24f9aa",
+      "content_sha256": "96dba07a810ea468e503d4862f8c580512d5c44364133de83c87b344737dc8d2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        710
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 12,
+        "simplified_codepoints": 12
+      },
+      "order": 119
+    },
+    {
+      "chapter_key": "ca596a573d1e3e77f4f9e16a",
+      "title": "十二经原穴",
+      "volume": "时日配合穴法图",
+      "content": "手阳明大肠，合谷庚；手少阴心，通里丁；手太阴肺，列缺辛；手太阳小肠，腕骨丙；手厥阴心包，内关己；足厥阴肝，中都乙；手少阳三焦，阳池戊；足少阳胆，丘墟甲；足太阴脾，公孙己；足太阳膀胱，京骨壬；足阳明胃，冲阳戊；足少阴肾，水泉癸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 711,
+      "source_path": [
+        "時日配合穴法圖",
+        "十二經原穴"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f4c6e5c13d3773e9c0189f10ec89fb5446a379776acb81b309a9a1d07a03a253",
+      "content_sha256": "dd925e5186c0dd89f14e680bf1afe84a6c387261f336ffb86d178a31563627e7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        712
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 113,
+        "simplified_codepoints": 113
+      },
+      "order": 120
+    },
+    {
+      "chapter_key": "ba0c5441232a3e2d999e6bfc",
+      "title": "夫妇配合原穴",
+      "volume": "时日配合穴法图",
+      "content": "大肠金 合谷庚 合 肝 木 中都乙\n心 火 通里丁 合 膀胱水 京骨壬\n心 包 内关己 合 三 焦 阳池戊\n小肠火 腕骨丙 合 肺 金 列缺辛\n胆 木 丘墟甲 合 脾 土 公孙己\n胃 土 冲阳戊 合 肾 水 水泉癸",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 713,
+      "source_path": [
+        "時日配合穴法圖",
+        "夫婦配合原穴"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "f78e1f0cb272af9eb9bb289ef0538e64af2cc65affd1c96ac7145c9c1333f5ff",
+      "content_sha256": "84d0a2ad5cee7654f852d426fcd17e46b60f0f8cb3152feae09e2bcd38caa5e9",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        714,
+        715,
+        716,
+        717,
+        718,
+        719
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 121
+    },
+    {
+      "chapter_key": "2ff41999c790a608e7ae5b17",
+      "title": "六脉次第",
+      "volume": "时日配合穴法图",
+      "content": "手太阴肺丑，手阳明大肠卯，\n手厥阴心主亥，手少阳三焦申，\n手少阴心午，手太阳小肠戌，\n足厥阴肝巳，足少阳胆寅，\n足太阴脾未，足阳明胃酉，\n足太阳膀胱辰，足少阴肾子。\n〔图版未收录：六脉次第图一〕\n〔图版未收录：六脉次第图二〕\n另有壬子、癸丑二日在外不同，此二日，计二十四日图，逐日配合刺，切要。\n阳日阳时针阴穴，阴日阴时针阳穴；阳日阴时针阳穴，阴日阳时针阴穴。\n针有劫病之功，其言信矣。移疼住痛，在乎捻指。经云：医疗有方，针灸有法。得师径路，补泻分明，疾无不愈也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 720,
+      "source_path": [
+        "時日配合穴法圖",
+        "六脈次第"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "09e313cae1d642fa2bc446e7f5208789f5247a10d673c99020610c6f196d21c8",
+      "content_sha256": "63d516e00d16cc94626f0c14733a042d02575a5228034e2fb43803fe3a09cc27",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        727,
+        728,
+        729,
+        730,
+        731
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 232,
+        "simplified_codepoints": 232
+      },
+      "order": 122
+    },
+    {
+      "chapter_key": "5b424d5f12a47ed7601afdbe",
+      "title": "磐石金直刺秘传",
+      "volume": null,
+      "content": "中风半身不遂，左瘫右痪，先于无病手足针，宜补不宜泻；次针其有病足手，宜泻不宜补：合谷一 手三里二 曲池三 肩井四 环跳五 血海六 阳陵泉七 阴陵泉八 足三里九 绝骨十 昆仑十一\n风毒瘾疹，遍身搔痒，抓破成疮：曲池（灸，针泻）绝骨（灸，针泻）委中（出血）\n天吊风，手足拽牵：曲池 足三里（并泻）肺风满面赤疮暴生者：少商 委中（泻）。其疮年深者，合谷泻。\n中风后头痛如破：百会（炙，次用三棱针四旁刺之血出）合谷（泻）\n伤寒有阴有阳，用意参详，不问阴阳，七日过经不汗：合谷（补） 复溜（泻，汗出立愈，此穴解表发汗神妙）\n伤寒一、二日，发热如火：曲池（泻）委中\n伤寒一、二日，头目、腰背，面节疼痛不可转侧，气喘，睡卧不安，虚汗不止，上体热，下体寒战：曲池（泻）复溜（补） 委中（刺不愈） 合谷（泻）\n伤寒战汗不已：曲池（补） 关元（灸，针补）\n伤寒咳嗽寒痰：少商 列缺（泻）\n伤寒结胸，气攻胁肋，同治：支沟（泻）\n伤寒小便不通：支沟（泻）；水通：阴谷（泻）\n头风偏痛，不可忍，半边口燥热：合谷（泻） 解溪（左疼取右，右疼取左）\n口风头晕面赤，不欲人言：攒竹（泻） 三里（泻）。未愈泻合谷、风池。\n头风如破，眉目间痛：阳白 解溪 合谷（并泻）\n眼目暴赤肿痛，眼巢红：太阳（出血） 大小骨空（灸）\n青盲，雀目，视物不明：丘墟（灸，针泻） 足三里 委中（出血）\n耳聋气闭，肾家虚败，邪气攻上：肾俞（灸） 听会（泻）\n鼻中生疮：少商（出血）\n鼻酸多嚏，流清涕：囟会 风门（灸）\n上牙生疮：人中（泻）\n下牙生疮：承浆（泻）\n口舌生疮：委中（泻）\n双乳蛾：少商 委中\n缠喉风：少商（灸）\n喉闭：少泽 中冲 委中\n急喉闭，舌根强痛，言语不能：少商 三里 合谷（泻）\n挫枕项强，不能回顾：少商 承浆 后溪 委中\n寒气攻注心脾疼，发时口吐清水，饮食不进：中脘（灸） 大陵\n一切游走气攻胸胁疼痛，语言、咳嗽难，不可转侧：支沟（右疼泻左，左疼泻右） 委中（出血）\n脾湿气伤，不思饮食：公孙（补）\n腰背杂证：人中 委中\n肾虚腰疼：肾俞（灸） 委中\n气攻腰背脊疼：肩井 委中\n腰胯疼痛，转侧难，痛则补曲池、泻环跳；麻木则泻曲池、补环跳。\n腰膂反折强，疼连两臂或风劳气：人中 肩井\n风湿相搏，脊膂连腰强痛，痛则灸筋缩，麻木补肩井。\n五种腰疼：尺泽\n乳疽：委中（泻）\n手臂膊痛红肿：合谷\n小便不通：支沟（泻）\n手臂挛不能握物：合谷（痛泻之，麻补之）\n腿行步难：髋骨（痛泻之，拘挛补之）\n腰股瘫痪痛，内痛针血海，外疼针风市。\n脚步难行：曲池 承山，痛则针太冲。\n脚背红肿，疼入风：委中\n尸厥：中极（补） 关元（灸）\n水蛊四肢浮肿：支沟（泻） 水分 关元\n疝气：足三里 关元（灸） 中极（灸） 三阴交 大敦\n五种疟疾：间使（寒补热泻），未愈者百劳。\n黄疸四肢无力：中脘（灸） 三里（泻）\n浑身发黄：至阳（灸） 委中（出血）\n妇人经血不通：三阴交（泻）\n妇人血气痛：合谷（补） 三阴交（泻）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 732,
+      "source_path": [
+        "磐石金直刺秘傳"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "ed95cdc38a83649664fe1e18e00bd7a9ce91a9bac5447978f2ef37406fff7cab",
+      "content_sha256": "3cccad07ea08613cbab9e757d6c3cdd3001e7a35c35b2b65f8500665ea228412",
+      "paragraph_count": 53,
+      "paragraph_ordinals": [
+        733,
+        734,
+        735,
+        736,
+        737,
+        738,
+        739,
+        740,
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        749,
+        750,
+        751,
+        752,
+        753,
+        754,
+        755,
+        756,
+        757,
+        758,
+        759,
+        760,
+        761,
+        762,
+        763,
+        764,
+        765,
+        766,
+        767,
+        768,
+        769,
+        770,
+        771,
+        772,
+        773,
+        774,
+        775,
+        776,
+        777,
+        778,
+        779,
+        780,
+        781,
+        782,
+        783,
+        784,
+        785
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1223,
+        "simplified_codepoints": 1223
+      },
+      "order": 123
+    },
+    {
+      "chapter_key": "6b0ee560b7749ea5c8235aa7",
+      "title": "针灸歌",
+      "volume": null,
+      "content": "中风瘫痪经年月，曲鬓七处艾且热。\n耳聋气闭听会中，百会脱肛并泻血。\n承浆暴哑口㖞斜，耳下颊车并口脱。\n偏正头疼及目眩，囟会神庭最亲切。\n风劳气嗽久未痊，第一椎下灸两边。\n肺疼喘满难偃仰，华盖中府能安然。\n喉闭失音并吐血，细寻天突宜无偏。\n瘰疬当求缺盆内，紫宫吐血真秘传。\n霍乱吐泻精神脱，艾灸中脘人当活。\n食积脐旁取章门，气癖食关中脘穴。\n脐上一寸名水分，腹胀更宜施手诀。\n关元气海脐心下，虚惫崩中真妙绝。\n呕吐当先求膈俞，胁痛肝俞目翳除。\n肩如反弓臂如折，曲池养老并肩髃。\n泄泻注下取脐内，意舍消渴诚非虚。\n气刺两乳中庭内，巨阙幽门更为最。\n忽然下部发奔豚，穴号五枢宜灼艾。\n肺俞魄户疗肺痿，疟灸脾俞寒热退。\n膏肓二穴不易求，虚惫失精并上气。\n五痔只好灸长强，肠风痔疾尤为良。\n肠痛围脐四畔灸，相去寸半当酌量。\n赤白带下小肠俞，咳逆期门中指长。\n大敦二穴足大趾，血崩血衄宜细详。\n项强天井及天柱，鼻塞上星真可取。\n人门挺露号产㿉，阴跷脐心二穴主。\n妇人血气痛难禁，四满灸之效可许。\n脐下二寸名石门，针灸令人绝子女。\n肩髃相对主痿留，壮数灸之宜推求。\n腹连殗殜骨蒸患，四花一灸可无忧。\n环跳取时需侧卧，冷痹筋挛足不收。\n转筋速灸承山上，太冲寒疝即时瘳。\n脚气三里及风市，腰痛昆仑曲踿里。\n复溜偏治五淋病，涌泉无孕须怀子。\n阴中湿痒阴跷间，便疝大敦足大趾。\n癫邪之病及五痫，手足四处艾俱起。\n风拄地痛足䯒疼，京历胕阳与仆参。\n心如锥刺太溪上，睛痛宜去灸拳尖。\n历节痛风两处灸，飞扬绝骨可安痊。\n脾虚腹胀身浮肿，大都三里艾宜燃。\n赤白痢下中膂取，背脊三焦最宜主。\n臂痛手疼手三里，腕骨肘髎与中渚。\n巨骨更取穴噫嘻，肩背痛兼灸天柱。\n腰俞一穴最为奇，艾灸中间腰痛愈。\n醉饱俱伤面目黄，但灸飞扬及库房。\n额角偏头痛灌注，头风眼泪视䀮䀮。\n伤寒热病身无汗，细详孔最患无妨。\n寒气绕脐心痛急，天枢二穴夹脐旁。\n女人经候不匀调，中极气海与中髎。\n月闭乳痈临泣妙，瘕聚膀胱即莫抛。\n乳汁少时膻中穴，夜间遗尿觅阴包。\n足疼足弱步难履，委中更有三阴交。\n心悸怔忡多健忘，顶心百会保安康。\n两丸牵痛阴痿缩，四满中封要忖量。\n四直脐心灸便沥，胞转葱吹溺出良。\n忽然梦魇归泉速，𧿹趾毛中最可详。\n脑热脑寒并脑溜，囟会穴中宜著灸。\n鼻中息肉气难通，灸取上星辨香臭。\n天突结喉两旁间，能愈痰涎并咳嗽。\n忽然间发身旋倒，九椎筋缩无差瘳。\n痈疽杂病能为先，蒜艾当头急用捻。\n犬咬蛇伤灸痕迹，牙痛叉手及肩尖。\n噎塞乳根一寸穴，四椎骨下正无偏。\n大便失血阳虚脱，脐心对脊效天然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 786,
+      "source_path": [
+        "針灸歌"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "4952ca52626cb3004b947552937ddb6c1ed838bf08f90f499b10327a5b9ae22d",
+      "content_sha256": "206187267cd9fb88d0873d52bbc8a0a75b6bd7e8a5140885be91a2ae663c7d02",
+      "paragraph_count": 63,
+      "paragraph_ordinals": [
+        787,
+        788,
+        789,
+        790,
+        791,
+        792,
+        793,
+        794,
+        795,
+        796,
+        797,
+        798,
+        799,
+        800,
+        801,
+        802,
+        803,
+        804,
+        805,
+        806,
+        807,
+        808,
+        809,
+        810,
+        811,
+        812,
+        813,
+        814,
+        815,
+        816,
+        817,
+        818,
+        819,
+        820,
+        821,
+        822,
+        823,
+        824,
+        825,
+        826,
+        827,
+        828,
+        829,
+        830,
+        831,
+        832,
+        833,
+        834,
+        835,
+        836,
+        837,
+        838,
+        839,
+        840,
+        841,
+        842,
+        843,
+        844,
+        845,
+        846,
+        847,
+        848,
+        849
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1070,
+        "simplified_codepoints": 1070
+      },
+      "order": 124
+    },
+    {
+      "chapter_key": "b7c97786819f106521677213",
+      "title": "又歌曰",
+      "volume": "针灸歌",
+      "content": "心疼巨阙穴中求，肩井曲池躯背痛。\n眼胸肝俞及命门，足躄悬钟环跳中。\n阴跷阳维治胎停，照海能于喉闭用。\n大钟一穴疗心痴，太冲腹痛须勤诵。\n脾胃疼痛泻公孙，胸腹痛满内关分。\n劳嗽应须泻魄户，筋挛骨痛销魂门。\n眼痛睛明及鱼尾，阴郄盗汗却堪闻。\n若也中风在环跳，小儿骨蒸偏历尊。\n行步艰难太冲取，虚损天枢实为主。\n要知脊痛治人中，痴呆只向神门许。\n风伤项急风府寻，头眩风池吾语汝。\n耳闭听会眼合谷，承浆偏疗项难举。\n胸结身黄在涌泉，眼昏目赤攒竹穿。\n两肘拘挛曲池取，转筋却先承山先。\n宣导气冲与太白，开通水道阴陵边。\n脚腕痛时昆仑取，股膝疼痛阴市便。\n癫痫后溪疟间使，心痛劳宫实堪治。\n胸满胁胀取期门，大敦七疝兼偏坠。\n怯黄偏在腕骨中，五劳羸瘦求三里。\n膝肿目疾行间求，肘痛筋挛尺泽试。\n若也鼻塞取迎香，两股酸痛肩井良。\n偏头风痛泻攒竹，咳唾寒痰列缺强。\n迎风冷泪在临泣，委中肾俞治腰行。\n三阴交中死胎下，心胸如病大陵将。\n肩背患时手三里，两足冷痹肾俞拟。\n胁下筋边取阳陵，脊心如痛针中渚。\n头强项硬刺后溪，欲知秘诀谁堪侣？\n此法传从窦太师，后人行知踏规矩。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 850,
+      "source_path": [
+        "針灸歌",
+        "又歌曰"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "880895ea585b5c6b549d5d20fe0239efbc1dd7b5623d17f28f34640f77715877",
+      "content_sha256": "9c7091dab0bd398b1d884c9108bd5c39af89c43d703b1b654f477f2c5fd9c911",
+      "paragraph_count": 28,
+      "paragraph_ordinals": [
+        851,
+        852,
+        853,
+        854,
+        855,
+        856,
+        857,
+        858,
+        859,
+        860,
+        861,
+        862,
+        863,
+        864,
+        865,
+        866,
+        867,
+        868,
+        869,
+        870,
+        871,
+        872,
+        873,
+        874,
+        875,
+        876,
+        877,
+        878
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 475,
+        "simplified_codepoints": 475
+      },
+      "order": 125
+    },
+    {
+      "chapter_key": "de559b5b024a6223b1856c6f",
+      "title": "灸法杂抄切要",
+      "volume": null,
+      "content": "食多而身瘦者，名食晦，宜灸脾俞。\n食罢而贪睡卧者，名脾困，宜灸中脘。\n脑虚冷衄，风入脑久远成疾，宜灸囟会。\n饮食不消，心腹胀，面色萎黄，世谓之脾肾病，宜灸中脘。\n久冷伤惫脏腑，泻利不止，中风不省人事等疾，宜灸神门。\n脏气虚惫，真气不足，一切气疾久痞老者，宜灸气海。\n脏腑虚乏，下元冷惫等疾，宜灸丹田。\n阳气虚惫，失精绝子，宜灸中极。\n十二经脉皆有俞、原，手足阴阳之交会，气血之流通，外营筋节，内连脏腑。经云：手三阳之脉，从手至头；手三阴之脉，从胸至手；足三阳之脉，从头至足；足三阴之脉，从足至胸，日夜循环，阴阳会合。又曰：春夏刺浅，秋冬刺深。缘春、夏阳气在上，人气亦在上，所当浅刺之；秋、冬阳在下，人气亦在下，所当深取之。\n所谓井、荥、输、原、经、合者，凡孔穴流注，所出为井，所流为荥，所注为输，所过为原，所行为经，所入为合，此针之大法也。春刺井，夏刺荥，季夏刺输，秋刺经，冬刺合也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 879,
+      "source_path": [
+        "灸法雜抄切要"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "dfc10e7a9c35fdbd2ffb33e5faeaab94ee3970c9d279f58ab77490d360b14e8d",
+      "content_sha256": "d38a3678863408669ca644128c159d6a6e9dba7962ba8dd6a179ad09f0d3305b",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        880,
+        881,
+        882,
+        883,
+        884,
+        885,
+        886,
+        887,
+        888,
+        889
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 392,
+        "simplified_codepoints": 392
+      },
+      "order": 126
+    },
+    {
+      "chapter_key": "f443fb5a749c62f8f901d9b7",
+      "title": "飞腾八法起例",
+      "volume": null,
+      "content": "甲巳子午九，乙庚丑未八，丙辛寅申七，丁壬卯酉六，戊癸辰戌五，己亥属之四。\n上并以日时、天干、地支配合，得数以九除之，取零数合卦定穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 890,
+      "source_path": [
+        "飛騰八法起例"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "49411aa70850bffdf4947cea41b5f7b9f3b719d9de699787b5feb7147db903b6",
+      "content_sha256": "088e938d45b5207908f005f14f4039936de3fa13f269b80796afb4a2dcc30389",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        891,
+        892
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 66,
+        "simplified_codepoints": 66
+      },
+      "order": 127
+    },
+    {
+      "chapter_key": "fbfd938cbb0e9911d8365e63",
+      "title": "八卦例数",
+      "volume": "飞腾八法起例",
+      "content": "一坎 二坤 三震 四巽 五中（男寄坤，女寄艮） 六干 七兑 八艮 九离\n上以干支九数除，零合卦。\n干属公孙艮内关，震宫居外巽溪关（外关、后溪），离居列缺坤申脉，照海临泣兑坎观（兑照海，坎临泣）。\n上以九除，零数合卦定穴。\n合穴：公孙 临泣 后溪 照海\n内关 外关 申脉 列缺",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 893,
+      "source_path": [
+        "飛騰八法起例",
+        "八卦例數"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "22e755953e3fbfc9c7496423e6bd8bc11edad04fdd43329f3d60ffc11850259e",
+      "content_sha256": "f767120b51bac7c9012d00639fd43fe3df0d95e17fe576a37a965b7b6d4335ff",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        894,
+        895,
+        896,
+        897,
+        898,
+        899
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 137,
+        "simplified_codepoints": 137
+      },
+      "order": 128
+    },
+    {
+      "chapter_key": "f350e2d47b7c03eb7ad1ffe9",
+      "title": "定八穴所在",
+      "volume": "飞腾八法起例",
+      "content": "公孙二穴，足太阴脾之经。在足大趾内侧本节后一寸陷中，令病人坐，卷两足度，相取之。合内关穴。\n内关二穴，手厥阴心之经。在手掌后二寸。令病人稳坐，仰手取之。\n临泣二穴，足少阳胆之经。在足小趾次趾本节后一寸陷中，一云去侠溪一寸五分。令病人垂足取之。亦合于外关。\n外关二穴，手少阳三焦经。在手腕后二寸，别起心主。令病人稳坐，覆手取之。\n后溪二穴，手太阳小肠之经。在手小指外侧本节后陷中。令病人稳坐，覆手取之。合申脉。\n申脉二穴，足太阳膀胱经。在足外踝下，赤白肉际陷中。令病人垂脚，坐而取之。合于后溪。\n照海二穴，足少阴肾之经。在足内踝下，赤白肉际陷中，令病人稳坐，足底相对取之。合列缺。\n列缺二穴，手太阴肺之经，在腕后一寸半，两手相叉，食指尽处。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 900,
+      "source_path": [
+        "飛騰八法起例",
+        "定八穴所在"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "0f31de7e1181f62526a89730e7ba1dce26f6e0653095d53824f885b4e76b2164",
+      "content_sha256": "b01950a0ae45c5b58c8148b8b3f33268845d6580c2387c314aa9110ceef7751d",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        901,
+        902,
+        903,
+        904,
+        905,
+        906,
+        907,
+        908
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 319,
+        "simplified_codepoints": 319
+      },
+      "order": 129
+    },
+    {
+      "chapter_key": "b72395230885bad0535c7c99",
+      "title": "后序",
+      "volume": null,
+      "content": "《玉龙经》者，婺源王先生所传针灸之书也。其所托名扁鹊者，重其道而神其书也。名曰玉龙者，盖以玉为天地之精，龙之神变极灵，此书之妙用亦犹是也。愚自上岁，蒙亲授以来，游艺于七闽两浙之间者，凡四十年，遇病则医，医必见效，信此书之道，犹玉之孚尹旁达，光焰愈久而不磨；龙之行天，施泽之无穷，变化愈神，而人莫得而测也。由是拜手述其所以，指用识于卷之末云。\n天历二年，岁在己巳，武林后学周仲良书于锦山跻寿堂",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%89%81%E9%B5%B2%E7%A5%9E%E6%87%89%E9%87%9D%E7%81%B8%E7%8E%89%E9%BE%8D%E7%B6%93/index.html",
+      "source_ordinal": 909,
+      "source_path": [
+        "後序"
+      ],
+      "source_sha256": "1320a50727db8405c7cc35f9283107e07a8c3a1726a9908e2c85efda56a99d3d",
+      "original_sha256": "944d6e5dcdc031426c178b7fc37f2c1a85ab264ba5ba92757b03a170041eeb72",
+      "content_sha256": "99d77781983212285537aa31a682fb5db9004b88283c9ab158b14c67560ba2f7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        910,
+        911
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 195,
+        "simplified_codepoints": 195
+      },
+      "order": 130
+    }
+  ]
+}

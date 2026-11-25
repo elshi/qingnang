@@ -1,0 +1,828 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E5%A4%A7%E7%99%BD/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 1,
+        "title": "總論",
+        "path": [
+          "總論"
+        ]
+      },
+      {
+        "ordinal": 11,
+        "level": 2,
+        "title": "傷寒熱病總論",
+        "path": [
+          "總論",
+          "傷寒熱病總論"
+        ]
+      },
+      {
+        "ordinal": 13,
+        "level": 2,
+        "title": "驗舌色論",
+        "path": [
+          "總論",
+          "驗舌色論"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 2,
+        "title": "驗口唇論",
+        "path": [
+          "總論",
+          "驗口唇論"
+        ]
+      },
+      {
+        "ordinal": 17,
+        "level": 2,
+        "title": "驗二便論",
+        "path": [
+          "總論",
+          "驗二便論"
+        ]
+      },
+      {
+        "ordinal": 19,
+        "level": 2,
+        "title": "辨脈論",
+        "path": [
+          "總論",
+          "辨脈論"
+        ]
+      },
+      {
+        "ordinal": 21,
+        "level": 2,
+        "title": "南北方宜發表不同論",
+        "path": [
+          "總論",
+          "南北方宜發表不同論"
+        ]
+      },
+      {
+        "ordinal": 23,
+        "level": 2,
+        "title": "南北方宜清裡相同論",
+        "path": [
+          "總論",
+          "南北方宜清裡相同論"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 2,
+        "title": "三陰經熱病論",
+        "path": [
+          "總論",
+          "三陰經熱病論"
+        ]
+      },
+      {
+        "ordinal": 27,
+        "level": 2,
+        "title": "三陰經寒病論",
+        "path": [
+          "總論",
+          "三陰經寒病論"
+        ]
+      },
+      {
+        "ordinal": 29,
+        "level": 2,
+        "title": "陰症似陽論",
+        "path": [
+          "總論",
+          "陰症似陽論"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 2,
+        "title": "陽症似陰論",
+        "path": [
+          "總論",
+          "陽症似陰論"
+        ]
+      },
+      {
+        "ordinal": 33,
+        "level": 2,
+        "title": "宜發表論",
+        "path": [
+          "總論",
+          "宜發表論"
+        ]
+      },
+      {
+        "ordinal": 35,
+        "level": 2,
+        "title": "忌發表論",
+        "path": [
+          "總論",
+          "忌發表論"
+        ]
+      },
+      {
+        "ordinal": 37,
+        "level": 2,
+        "title": "宜清裡論",
+        "path": [
+          "總論",
+          "宜清裡論"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "忌清裡論",
+        "path": [
+          "總論",
+          "忌清裡論"
+        ]
+      },
+      {
+        "ordinal": 41,
+        "level": 2,
+        "title": "宜和解論",
+        "path": [
+          "總論",
+          "宜和解論"
+        ]
+      },
+      {
+        "ordinal": 43,
+        "level": 2,
+        "title": "忌和解論",
+        "path": [
+          "總論",
+          "忌和解論"
+        ]
+      },
+      {
+        "ordinal": 45,
+        "level": 2,
+        "title": "宜吐法論",
+        "path": [
+          "總論",
+          "宜吐法論"
+        ]
+      },
+      {
+        "ordinal": 47,
+        "level": 2,
+        "title": "忌吐法論",
+        "path": [
+          "總論",
+          "忌吐法論"
+        ]
+      },
+      {
+        "ordinal": 49,
+        "level": 2,
+        "title": "宜溫經論",
+        "path": [
+          "總論",
+          "宜溫經論"
+        ]
+      },
+      {
+        "ordinal": 51,
+        "level": 2,
+        "title": "忌溫經論",
+        "path": [
+          "總論",
+          "忌溫經論"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 2,
+        "title": "宜攻下論",
+        "path": [
+          "總論",
+          "宜攻下論"
+        ]
+      },
+      {
+        "ordinal": 55,
+        "level": 2,
+        "title": "忌攻下論",
+        "path": [
+          "總論",
+          "忌攻下論"
+        ]
+      },
+      {
+        "ordinal": 57,
+        "level": 2,
+        "title": "宜消導論",
+        "path": [
+          "總論",
+          "宜消導論"
+        ]
+      },
+      {
+        "ordinal": 59,
+        "level": 2,
+        "title": "忌消導論",
+        "path": [
+          "總論",
+          "忌消導論"
+        ]
+      },
+      {
+        "ordinal": 61,
+        "level": 2,
+        "title": "宜補虛論",
+        "path": [
+          "總論",
+          "宜補虛論"
+        ]
+      },
+      {
+        "ordinal": 63,
+        "level": 2,
+        "title": "忌補虛論",
+        "path": [
+          "總論",
+          "忌補虛論"
+        ]
+      },
+      {
+        "ordinal": 65,
+        "level": 2,
+        "title": "誤下不宜再下論",
+        "path": [
+          "總論",
+          "誤下不宜再下論"
+        ]
+      },
+      {
+        "ordinal": 67,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 68,
+        "level": 2,
+        "title": "惡寒",
+        "path": [
+          "卷一",
+          "惡寒"
+        ]
+      },
+      {
+        "ordinal": 158,
+        "level": 2,
+        "title": "發熱",
+        "path": [
+          "卷一",
+          "發熱"
+        ]
+      },
+      {
+        "ordinal": 277,
+        "level": 2,
+        "title": "寒熱",
+        "path": [
+          "卷一",
+          "寒熱"
+        ]
+      },
+      {
+        "ordinal": 302,
+        "level": 2,
+        "title": "身痛",
+        "path": [
+          "卷一",
+          "身痛"
+        ]
+      },
+      {
+        "ordinal": 358,
+        "level": 2,
+        "title": "頭痛",
+        "path": [
+          "卷一",
+          "頭痛"
+        ]
+      },
+      {
+        "ordinal": 425,
+        "level": 2,
+        "title": "項強",
+        "path": [
+          "卷一",
+          "項強"
+        ]
+      },
+      {
+        "ordinal": 483,
+        "level": 2,
+        "title": "咽痛",
+        "path": [
+          "卷一",
+          "咽痛"
+        ]
+      },
+      {
+        "ordinal": 545,
+        "level": 1,
+        "title": "卷二",
+        "path": [
+          "卷二"
+        ]
+      },
+      {
+        "ordinal": 546,
+        "level": 2,
+        "title": "似瘧",
+        "path": [
+          "卷二",
+          "似瘧"
+        ]
+      },
+      {
+        "ordinal": 576,
+        "level": 2,
+        "title": "潮熱",
+        "path": [
+          "卷二",
+          "潮熱"
+        ]
+      },
+      {
+        "ordinal": 613,
+        "level": 2,
+        "title": "煩躁",
+        "path": [
+          "卷二",
+          "煩躁"
+        ]
+      },
+      {
+        "ordinal": 669,
+        "level": 2,
+        "title": "譫語",
+        "path": [
+          "卷二",
+          "譫語"
+        ]
+      },
+      {
+        "ordinal": 718,
+        "level": 2,
+        "title": "發狂",
+        "path": [
+          "卷二",
+          "發狂"
+        ]
+      },
+      {
+        "ordinal": 761,
+        "level": 2,
+        "title": "嘔吐",
+        "path": [
+          "卷二",
+          "嘔吐"
+        ]
+      },
+      {
+        "ordinal": 824,
+        "level": 2,
+        "title": "喘逆",
+        "path": [
+          "卷二",
+          "喘逆"
+        ]
+      },
+      {
+        "ordinal": 889,
+        "level": 2,
+        "title": "身重",
+        "path": [
+          "卷二",
+          "身重"
+        ]
+      },
+      {
+        "ordinal": 917,
+        "level": 2,
+        "title": "身癢",
+        "path": [
+          "卷二",
+          "身癢"
+        ]
+      },
+      {
+        "ordinal": 931,
+        "level": 2,
+        "title": "頭眩",
+        "path": [
+          "卷二",
+          "頭眩"
+        ]
+      },
+      {
+        "ordinal": 966,
+        "level": 2,
+        "title": "口渴",
+        "path": [
+          "卷二",
+          "口渴"
+        ]
+      },
+      {
+        "ordinal": 1031,
+        "level": 2,
+        "title": "口燥",
+        "path": [
+          "卷二",
+          "口燥"
+        ]
+      },
+      {
+        "ordinal": 1033,
+        "level": 2,
+        "title": "唇焦",
+        "path": [
+          "卷二",
+          "唇焦"
+        ]
+      },
+      {
+        "ordinal": 1035,
+        "level": 2,
+        "title": "衄血",
+        "path": [
+          "卷二",
+          "衄血"
+        ]
+      },
+      {
+        "ordinal": 1068,
+        "level": 2,
+        "title": "蓄血",
+        "path": [
+          "卷二",
+          "蓄血"
+        ]
+      },
+      {
+        "ordinal": 1102,
+        "level": 2,
+        "title": "下血",
+        "path": [
+          "卷二",
+          "下血"
+        ]
+      },
+      {
+        "ordinal": 1138,
+        "level": 1,
+        "title": "卷三",
+        "path": [
+          "卷三"
+        ]
+      },
+      {
+        "ordinal": 1139,
+        "level": 2,
+        "title": "無汗",
+        "path": [
+          "卷三",
+          "無汗"
+        ]
+      },
+      {
+        "ordinal": 1182,
+        "level": 2,
+        "title": "自汗",
+        "path": [
+          "卷三",
+          "自汗"
+        ]
+      },
+      {
+        "ordinal": 1266,
+        "level": 2,
+        "title": "頭汗",
+        "path": [
+          "卷三",
+          "頭汗"
+        ]
+      },
+      {
+        "ordinal": 1300,
+        "level": 2,
+        "title": "盜汗",
+        "path": [
+          "卷三",
+          "盜汗"
+        ]
+      },
+      {
+        "ordinal": 1320,
+        "level": 2,
+        "title": "懊憹",
+        "path": [
+          "卷三",
+          "懊憹"
+        ]
+      },
+      {
+        "ordinal": 1346,
+        "level": 2,
+        "title": "不得臥",
+        "path": [
+          "卷三",
+          "不得臥"
+        ]
+      },
+      {
+        "ordinal": 1389,
+        "level": 2,
+        "title": "發黃",
+        "path": [
+          "卷三",
+          "發黃"
+        ]
+      },
+      {
+        "ordinal": 1448,
+        "level": 2,
+        "title": "面赤色",
+        "path": [
+          "卷三",
+          "面赤色"
+        ]
+      },
+      {
+        "ordinal": 1484,
+        "level": 2,
+        "title": "胸滿",
+        "path": [
+          "卷三",
+          "胸滿"
+        ]
+      },
+      {
+        "ordinal": 1528,
+        "level": 2,
+        "title": "脅滿",
+        "path": [
+          "卷三",
+          "脅滿"
+        ]
+      },
+      {
+        "ordinal": 1567,
+        "level": 2,
+        "title": "心下滿",
+        "path": [
+          "卷三",
+          "心下滿"
+        ]
+      },
+      {
+        "ordinal": 1588,
+        "level": 2,
+        "title": "結胸",
+        "path": [
+          "卷三",
+          "結胸"
+        ]
+      },
+      {
+        "ordinal": 1628,
+        "level": 2,
+        "title": "痞滿",
+        "path": [
+          "卷三",
+          "痞滿"
+        ]
+      },
+      {
+        "ordinal": 1670,
+        "level": 2,
+        "title": "咳逆",
+        "path": [
+          "卷三",
+          "咳逆"
+        ]
+      },
+      {
+        "ordinal": 1687,
+        "level": 2,
+        "title": "呃逆",
+        "path": [
+          "卷三",
+          "呃逆"
+        ]
+      },
+      {
+        "ordinal": 1730,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "卷三",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 1776,
+        "level": 1,
+        "title": "卷四",
+        "path": [
+          "卷四"
+        ]
+      },
+      {
+        "ordinal": 1777,
+        "level": 2,
+        "title": "下利",
+        "path": [
+          "卷四",
+          "下利"
+        ]
+      },
+      {
+        "ordinal": 1881,
+        "level": 2,
+        "title": "小便不利",
+        "path": [
+          "卷四",
+          "小便不利"
+        ]
+      },
+      {
+        "ordinal": 1941,
+        "level": 2,
+        "title": "大便秘結",
+        "path": [
+          "卷四",
+          "大便秘結"
+        ]
+      },
+      {
+        "ordinal": 2000,
+        "level": 2,
+        "title": "合病",
+        "path": [
+          "卷四",
+          "合病"
+        ]
+      },
+      {
+        "ordinal": 2002,
+        "level": 2,
+        "title": "並病",
+        "path": [
+          "卷四",
+          "並病"
+        ]
+      },
+      {
+        "ordinal": 2004,
+        "level": 2,
+        "title": "壞症",
+        "path": [
+          "卷四",
+          "壞症"
+        ]
+      },
+      {
+        "ordinal": 2006,
+        "level": 2,
+        "title": "昏冒",
+        "path": [
+          "卷四",
+          "昏冒"
+        ]
+      },
+      {
+        "ordinal": 2008,
+        "level": 2,
+        "title": "熱入血室",
+        "path": [
+          "卷四",
+          "熱入血室"
+        ]
+      },
+      {
+        "ordinal": 2028,
+        "level": 2,
+        "title": "不語",
+        "path": [
+          "卷四",
+          "不語"
+        ]
+      },
+      {
+        "ordinal": 2045,
+        "level": 2,
+        "title": "發癍",
+        "path": [
+          "卷四",
+          "發癍"
+        ]
+      },
+      {
+        "ordinal": 2080,
+        "level": 2,
+        "title": "溫病",
+        "path": [
+          "卷四",
+          "溫病"
+        ]
+      },
+      {
+        "ordinal": 2095,
+        "level": 2,
+        "title": "疫病",
+        "path": [
+          "卷四",
+          "疫病"
+        ]
+      },
+      {
+        "ordinal": 2129,
+        "level": 2,
+        "title": "夾食",
+        "path": [
+          "卷四",
+          "夾食"
+        ]
+      },
+      {
+        "ordinal": 2138,
+        "level": 2,
+        "title": "痙病",
+        "path": [
+          "卷四",
+          "痙病"
+        ]
+      },
+      {
+        "ordinal": 2140,
+        "level": 2,
+        "title": "陰厥陽厥",
+        "path": [
+          "卷四",
+          "陰厥陽厥"
+        ]
+      },
+      {
+        "ordinal": 2173,
+        "level": 2,
+        "title": "足冷",
+        "path": [
+          "卷四",
+          "足冷"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 91,
+      "paragraph_blocks": 2090,
+      "nonempty_paragraph_blocks": 2090,
+      "represented_paragraph_blocks": 2090
+    }
+  }
+]

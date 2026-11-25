@@ -2,7 +2,7 @@
 
 ## 数据源与边界
 
-接口只读访问既有的 `qingnang.t_meridians` 和 `qingnang.t_acupoints`，不运行迁移、不导入示例数据，也不按 `status` 过滤。`pictures` 字段不参与 SELECT、API 响应或小程序展示。
+接口只读访问既有的 `qingnang.t_meridians` 和 `qingnang.t_acupoints`，不运行迁移、不导入示例数据，也不按 `status` 过滤。穴位列表保持纯文本。穴位详情可返回经配置解析的 `location_image`，原始 `pictures` HTML 保留在数据库。
 
 默认复用 Laravel 的 MySQL 连接，可通过环境变量覆盖：
 
@@ -52,3 +52,19 @@ ACUPOINTS_TABLE=qingnang.t_acupoints
 php vendor/phpunit/phpunit/phpunit
 node --test tests/miniprogram/*.test.cjs
 ```
+
+## 穴位位置图
+
+小程序在「定位」卡片中绘制体表部位参照图。现行国标中的穴位按编码或穴名匹配解剖区域，历史条目可根据已有部位字段展示。合谷使用依据经穴国标第 5.2.4 节绘制的手背示意。 [经穴名称与定位](https://www.ntcamsac.ac.cn/cms/content?id=353) · [经外奇穴名称与定位](https://www.ntcamsac.ac.cn/cms/content?id=264)
+
+如已将旧图迁到有权使用的 HTTPS 图源，可在 Laravel 环境变量中设置 `ACUPOINT_IMAGE_BASE_URL`。详情接口优先读取 `locate` 内的图片，再查 `pictures`。两者都只接受 `/upload/material/image/年/月/日/数字.扩展名` 格式的原始资源路径，并与该图源拼接。点按图片可放大，图源缺失或加载失败时显示本地示意。
+
+## 2026-11-24 穴位数据校订
+
+线上 `qingnang.t_acupoints` 校订 143 条，追加安眠、牵正、新设、血压点、提托、接脊、肩前、里内庭 8 条，新增 ID 为 409–416。提交后通过新连接回读，共 416 条，字段摘要为 `babb1fd3f47ff3bb2c5f629e6ccf6275f2713ccb1563b8f8fe023c80ff910055`。
+
+现行国标的 362 个经穴和 51 个经外奇穴条目均可在表内对应。印堂使用原 ID 161，归入督脉，旧编码 `EX-HN3` 存入别名。金津、玉液各用原 ID，共用标准合列名称。下极俞和腰奇作为旧目录条目保留。标准节号及本次定位摘要见[校订来源数据](acupoints-standard-2021.json)。[经穴名称与定位](https://www.ntcamsac.ac.cn/cms/content?id=353) · [经外奇穴名称与定位](https://www.ntcamsac.ac.cn/cms/content?id=264)
+
+气冲和头维的交会归属参照医院公开资料。灵台补录《针灸问答》所载内容并注明书名。[奇经八脉](https://www.zyxyfy.com/zywh/zyzs/qjbm/content_2968) · [《针灸问答》](https://jicheng.tw/tcm/book/%E9%87%9D%E7%81%B8%E5%95%8F%E7%AD%94/index.html)
+
+`scripts/repair-acupoints.mjs` 使用 `ACUPOINTS_DB_HOST`、`ACUPOINTS_DB_PORT`、`ACUPOINTS_DB_USER` 和 `ACUPOINTS_DB_PASSWORD`。支持设置 `ACUPOINTS_DB_SSL_CA`。`--check` 预览，`--verify` 只读复核。`--apply` 在事务内导出操作前的完整穴位表备份，写入后核对全部行，并用新连接复验。

@@ -1,0 +1,3754 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_228",
+    "name": "孙真人海上方",
+    "summary": "《孙真人海上方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“暑月伤热”、“伤寒咳嗽”、“鱼脐疮”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "唐",
+    "author": "题孙思邈（一说宋钱竽）",
+    "jp": "SZRHSF",
+    "aliases": [
+      "孫真人海上方"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "236592f6bec3684fda290907",
+      "title": "重刻《海上方》序",
+      "volume": null,
+      "content": "《孙真人海上方》，洞有旧石刻，第以碑小方多，字画伤于琐屑，不便检阅，且舛讹太甚，乃令生员谢沾细加订正，砻石大书。旧有木刻，病证列于目录，诗首止列号数，读者须寻病于前，而求方于后，尤为不便，兹将病证即列诗首，似亦省目。其他风药论及九转灵丹诸方，洞前已有楷书大碑，兹不复赘及之。\n隆庆六年岁在壬申三月之吉秦王守中识",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "重刻《海上方》序"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "872ad2b01adef2e2e8eb80636a4da8ea4a52aed85ef8faaaf5baba1566889725",
+      "content_sha256": "63c9ab2cf5fd4012b034e2f67bf01fb3218bc98ae6884ec412a3b3391aa50e95",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 155,
+        "simplified_codepoints": 155
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "b6bcd2c7c62fed029df92ded",
+      "title": "暑月伤热",
+      "volume": null,
+      "content": "途中大暑最堪怜，急取车轮土五钱，\n盏内澄清汤服尽，身轻体健即安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "暑月傷熱"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "730c6d1ddd3d39dbd00eb2f4344271fea9d1ba5fab1b7e64cf7567d3029c2c5d",
+      "content_sha256": "9a402c3c2171a4d94ef6df42ee033b62896f524f95a4f595c6362b79b9be3eef",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        5,
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "f93f684b83c48bc91f5c2e8e",
+      "title": "伤寒咳嗽",
+      "volume": null,
+      "content": "伤寒咳嗽夜无眠，细碾明矾末一钱，\n半夏橘皮姜共煮，煎汤调下化黏涎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "傷寒咳嗽"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "3581bf0785f6fd1803c4c4fb12638fd9958cd17fd4df739f28fb92677c5eb75b",
+      "content_sha256": "6bbae1086b3bd8b5f587723ad60eeafb6207f5a829e2ff98e64db18c612ee3ed",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "3e42b1f84f97684cec79791c",
+      "title": "鱼脐疮",
+      "volume": null,
+      "content": "鱼脐疮毒为难治，火内飞矾地上摊，\n寒食面糊才贴上，生肌退肿即时安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "魚臍瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "ed71c2655abc84cff04314ada839725b31513c08d83da8c5ae3b25dfa56f39c4",
+      "content_sha256": "6b13a7d0715b7ddffcbec7628f83ad02a41757b5d75cd569bad6a1dc21f06ac7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        11,
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "f357dbbb0417ec7d854da969",
+      "title": "口疮",
+      "volume": null,
+      "content": "口疮发作痛难言，香麝铜青一处研，\n干捻些儿频掺上，不逾时刻自安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "口瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "10a1201c344aa0d90b7286657deb86cece85350586202172c082fcc89e9ffa47",
+      "content_sha256": "ed7c980090b66e892ec20e373dd7ba404068b68d32559238ec71f92303025d12",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        14,
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "0dd334b275d78b66e0643fa4",
+      "title": "产难",
+      "volume": null,
+      "content": "妇人临产十分难，若得良方也不艰，\n寻取路傍草鞋鼻，烧灰酒下即时安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "產難"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "96a81f4c9fd985df7284d46192a5e588cc6c45e3ee4d3d20594c4b31ccf67c89",
+      "content_sha256": "3af75083126e7678219e159b091dd6b116d1380f65481ac5c6a3079add5357e7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        17,
+        18
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "eadd41f2f161420a0016ae86",
+      "title": "妇人口干",
+      "volume": null,
+      "content": "妇人口舌并焦干，不治如何得暂安，\n寻取黄鸡肝一具，烧灰调酒似灵丹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 19,
+      "source_path": [
+        "婦人口乾"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "6ca17c50c59ad047d8d01bf9175ccaac46dcada0827c819bfb6926bbd5bda50b",
+      "content_sha256": "96ca8aa52b2cd3eeed76a2d907f41ef13dbe5f33c4319589079918f000c1b183",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        20,
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "409ab7679c8767f29186faa4",
+      "title": "眼中流泪",
+      "volume": null,
+      "content": "迎风冷泪听根原，腊月寻桑不等闲，\n若得梢头不落叶，煎汤频洗自然安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "眼中流淚"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "105058f8f476a9bbb339e0d46502ca091a2ae808ce62d289ff10134c546f08dd",
+      "content_sha256": "ef1d20467ab26fffeb363bdf5ef27baf578031f8db50ccb7b59522838ba9c303",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        23,
+        24
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "89715adb650f2a5a86f3f11f",
+      "title": "小便不快",
+      "volume": null,
+      "content": "小便不快有何难，不用庸医说再三，\n匾竹水煎连口咽，方知此法不虚传。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 25,
+      "source_path": [
+        "小便不快"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "b370635a14d84aae353852e816cfdc3b20cb53a47c70a7e944dea52e06d320ae",
+      "content_sha256": "559ead6ce82caf5c249896c7213e56a149a8108e8518ea91982d84e572ecfc5a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        26,
+        27
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "22f2b9dfd959bfe38f14fe69",
+      "title": "大便不快",
+      "volume": null,
+      "content": "大便不快听吾言，腹满如山起坐难，\n用水来研麻子汁，一时吃了自然安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 28,
+      "source_path": [
+        "大便不快"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "388dd85e56591654845323fc8c86ee8de235f799338588a73946ff3ce527ab06",
+      "content_sha256": "099117b8c6b4d1cc9dcd4faac5dc8fc5485135700291fafb34605d40d66fba14",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        29,
+        30
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "bd44cc9d365367d59a50a98c",
+      "title": "鼻中出血",
+      "volume": null,
+      "content": "鼻中衄血涌如泉，乱发烧灰有甚难，\n竹管吹将鼻内去，时间恰似遇神仙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 31,
+      "source_path": [
+        "鼻中出血"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "74feb2c198835cd03939b256582485476d0d493d2c5cda7280d5bd706d498534",
+      "content_sha256": "52f362f6d575081c27c644a596e6c6fa53714f9c08014157c9874c3a2724ff5c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        32,
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "5fdd6198b13aca449d6cad8a",
+      "title": "牙疼",
+      "volume": null,
+      "content": "牙疼齿痛不堪言，得法犹如遇列仙，\n大戟烧来疼处咬，名方留下岂虚传。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "牙疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "2db808ad75c336d40c6d008fa903cd5e0316dfd0df4b2f48ee2d2bb1146c6f5f",
+      "content_sha256": "af76e883dd6775cdfd4fe002095c094258fe5236c2c9fc270267b17da4605190",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        35,
+        36
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "3387b2cb7d5ccbbfd9137b9c",
+      "title": "远年咳嗽",
+      "volume": null,
+      "content": "远年咳嗽最难痊，休要求人枉费钱，\n但用款冬花作末，烧香一吸便安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 37,
+      "source_path": [
+        "遠年咳嗽"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "b352091f82212444982ec02073e3537f62e61cd4e875dc442687c401643d694c",
+      "content_sha256": "40a6c5befb2afc1f836b7fe2632d052dd13eff390095e4db27bdfa0274e16625",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        38,
+        39
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "623ea0ab8d32147cd3ccfa03",
+      "title": "刺毒肿痛",
+      "volume": null,
+      "content": "刺毒肿痛叫声连，无血无脓不得眠，\n研烂松脂为细末，帛封其上免灾愆。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 40,
+      "source_path": [
+        "刺毒腫痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "156de8666956a7f2302b3011f0983424c75b148157c1b4013689694c3bd04f1e",
+      "content_sha256": "f40ffda92b0460c0715abaef2654fc4907be54937f171ba3d83fdc6034ac09c0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        41,
+        42
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "940b6849daf94fd531417eef",
+      "title": "刀伤出血",
+      "volume": null,
+      "content": "刀伤出血不能停，下子秋蛾效最灵，\n研碎烧灰伤处贴，即时定止见安平。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 43,
+      "source_path": [
+        "刀傷出血"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "da54f5a97f1febabd27546dc02690ef970f3d986754ba95eb58e5fb6ef506440",
+      "content_sha256": "c7711cf76245e344bdd901f4a8471890a0c76401a957c70b939296ade6d6b58e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        44,
+        45
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "6ebacb6829ca367622081e3b",
+      "title": "小儿骨痛",
+      "volume": null,
+      "content": "小儿骨痛不能言，出血流脓实可怜，\n寻取水蛇皮一个，烧灰油拌贴疼边。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 46,
+      "source_path": [
+        "小兒骨痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "7656ed7e382ac9c4ad469a1d60902cd483bb8f5c007ca3538e4232fce531990c",
+      "content_sha256": "bba82f76990b465cb48ac03827fa6941d2adb0f7a77f34aa539acc3afa7b89c1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        47,
+        48
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "3ef31479ac6ec6f15a6790c7",
+      "title": "水泻",
+      "volume": null,
+      "content": "曾闻水泻有何方，焦炒车前子最良，\n细末一钱调米饮，只消七剂即安康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 49,
+      "source_path": [
+        "水瀉"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "9b344af35f3b28030591df0b6bd873371b443dca1081e50ed8dcbf71e3d14a42",
+      "content_sha256": "9a3dde9099c335404a14528f086290a018680c1a133ceeb39407c2378177ad3a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        50,
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "a5de3987b665e3e25d828daf",
+      "title": "臁疮",
+      "volume": null,
+      "content": "里外臁疮久不痊，令人行动痛如煎，\n如君会取牛蹄甲，油拌烧灰敷患边。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "臁瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "0bd0b482395d7ac4684a505fbe733a0802a9a8257f9e93772441365598cc38e8",
+      "content_sha256": "f96346ae3b0345335d832d9f58e75225d8cb00414c67a9a436e40c7a88b71e7f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        53,
+        54
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "2b55b8b23fd1727d16fbba53",
+      "title": "痼冷",
+      "volume": null,
+      "content": "人身痼冷夜无眠，生用川乌细细研，\n好醋拌调摊绢上，贴于冷处暖如绵。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 55,
+      "source_path": [
+        "痼冷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "8d92962e038879b648eeadd4a88c09f392956c8d787860706170d2fd76d49c82",
+      "content_sha256": "818d9c2ea5a80b0eb5a2687a65b7c2ce2996b995208f14da7a9c39a0d34e452e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        56,
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "2c2d70b2331b93a4676d68af",
+      "title": "蝇子入肠",
+      "volume": null,
+      "content": "忽遭蝇子入咽喉，苦恼心肠吐不休，\n寻取世间虾蟆眼，烂研咽下解君愁。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 58,
+      "source_path": [
+        "蠅子入腸"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "f77b0450547ab500fadac8b957e0d4b6e3ec2a44f06a8b75eef2bd319c857c24",
+      "content_sha256": "feea452485fe8182aabe55246eefecbcb0242376350575e0591f84a9d6b7441e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        59,
+        60
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "476a05375a45077fb487d2ee",
+      "title": "蚊虱",
+      "volume": null,
+      "content": "木鳖川芎二味均，雄黄减半共调匀，\n用蜜为丸烧一粒，自然蚊虱不相侵。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "蚊蝨"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "82939a9a62e726e43b80dca60382b7a185d3eab9d58f00507b463ac2c362274e",
+      "content_sha256": "3d80434ea48e2ffc1cce370360b982daafc6d76caddfe6bb1778ed18db410923",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        62,
+        63
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "ca352cbc8bec0f9387c7c6fe",
+      "title": "破伤风",
+      "volume": null,
+      "content": "破伤风病莫迟延，脱壳秋蝉三二钱，\n紧了牙关难治矣，烧灰酒下便安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 64,
+      "source_path": [
+        "破傷風"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "65e342f22bf3f7506d485625f7f85133c995a7d63feadbe531ce923668abe436",
+      "content_sha256": "636af8b07631ae63217555c8f7be621e022f14defc8a13f00a163c73446db516",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        65,
+        66
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "6a4966437f1cc51e4b0a07db",
+      "title": "急伤寒",
+      "volume": null,
+      "content": "急伤寒气听人言，此法谁知有圣传，\n半夏酒姜煎一处，时间服了即安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 67,
+      "source_path": [
+        "急傷寒"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "263cc3bc58916c0afa1fa1ba35afd84fcaaa28695b0723766ea8546d633c958d",
+      "content_sha256": "5899ecee71533b5ceadf060c8f5c3c7b627f6f35ee072848eaeea7343ad2b08b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        68,
+        69
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "3c0d17db80302c14fb45a8f6",
+      "title": "蛇伤",
+      "volume": null,
+      "content": "若人苦被毒蛇伤，独蒜原来力甚良，\n切作片儿遮患处，艾烧七炷便安康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 70,
+      "source_path": [
+        "蛇傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "0fad42538cca84ed1ef82f19e018e5a80ef667470f241c86692bbf7cb4aecae2",
+      "content_sha256": "2e4f40d02dcfb6a246085e25de4101b8f2e0fd0615cbd01bcca416b049e580fc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        71,
+        72
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "9ee3551fd9735502da53c410",
+      "title": "犬伤",
+      "volume": null,
+      "content": "犬伤何必苦忧煎，我有仙方只口传，\n刮取砖青和牛粪，敷于伤处即时痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 73,
+      "source_path": [
+        "犬傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "6565b489b8472a97191da11d5a7f526dd4a8100853dd1d37da91c28612bf7b6a",
+      "content_sha256": "d0b8281a9b49585dbd32c52d64aec0b87c9dd0144674d9666096260c48199025",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        74,
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "50fe07d790e8b35ff8a5d60f",
+      "title": "心头疼",
+      "volume": null,
+      "content": "心头疼苦不堪当，急看仙传海上方，\n匾竹水煎连口咽，教人服已便安康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "心頭疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "da9dc80e7362dee3a3f5dfc4a27b43495097205fcb6b1826c20320a36fc14d8a",
+      "content_sha256": "a79ec85b3aba33bb24811683946f56ff1f6c9e73688d5078f9176bebc73bafc4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        77,
+        78
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "82d425a8036ecf0629394d2c",
+      "title": "龟病",
+      "volume": null,
+      "content": "腹中龟病不能言，肚里生来硬似砖，\n自死僵蚕白马尿，不过时刻软如绵。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 79,
+      "source_path": [
+        "龜病"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "eaf75f1b75db80d55b422492da95ae52c1e6e42507db08dce594c1bf07d29a2e",
+      "content_sha256": "0615812e51504a6da7f2b0a3804d4d5c372e8a9eea250f0cbe326b6e15d55741",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        80,
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "d288a63fa259e6a79e1814e1",
+      "title": "内瘴",
+      "volume": null,
+      "content": "眼睛内瘴泪涟涟，且莫将心苦自煎，\n但取鲤鱼用胆脑，和调相拌贴安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "內瘴"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "92fb61c79a04972189f4ec0102e5edbdc7a9e5f40519aacea5e60e59145e5740",
+      "content_sha256": "15b16c543d5e9f7cb00ae01e8f15492b7f7fea67b8a9145a9a97faccba20e152",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        83,
+        84
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "bc949f4008f93d5e037cbd01",
+      "title": "骨头疼",
+      "volume": null,
+      "content": "骨头打碎最艰难，寻破山鞋莫等闲，\n火里烧灰油和贴，管教哭脸变欢颜。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 85,
+      "source_path": [
+        "骨頭疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "26f290bf3ad18399dfd1f733371a24830814f1065958e96e62473931b918403c",
+      "content_sha256": "61718c8011dd08099c4687692ffd277c18aba2fb454a74ed1dfc511bd0c0c52e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        86,
+        87
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "3f2c1eae9db8d077c235e551",
+      "title": "汤火烧",
+      "volume": null,
+      "content": "汤火浇烧不可当，肉皮溃烂痛非常，\n鸡清好酒来淋洗，信是神仙海上方。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 88,
+      "source_path": [
+        "湯火燒"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "cd286c653fd3f2d3d15129aad08185128f789cd8f5e1c7fae1ff4701dc1c3400",
+      "content_sha256": "b8d3d35ba9b30c271d6512ba2ff10a06e3a27e429aef80879e2ee587e2b4a9a7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        89,
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "244f4fa6988553011b2237e6",
+      "title": "咽喉",
+      "volume": null,
+      "content": "咽喉闭塞不能言，幸有硼砂可保全，\n捣和盐梅如枣大，口中噙化即时宽。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "咽喉"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "244f41a7d0e00c0477aa3cde7236f0426416b691cb31994963f2db2ebdffa892",
+      "content_sha256": "fbc64c205cc0df276de72cec94c751b92f3b3cfd3a950ec59c98823f38fe9e7e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        92,
+        93
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "fff8d31d0283920f70d0f371",
+      "title": "胡臭",
+      "volume": null,
+      "content": "身边胡臭不能堪，授汝良方用小便，\n夜静频频承热洗，子孙后世免流传。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 94,
+      "source_path": [
+        "胡臭"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "22016ef6647bb0304a84dd5b963e94e57b1d007fe39d806f732582b3c76576d7",
+      "content_sha256": "f2124e3ef1b76e9673304e452f57d2efd9f1844fdb10dc33c5f3322eb635333f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        95,
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "f2a87139ccad290d3a5395ed",
+      "title": "血痢",
+      "volume": null,
+      "content": "要医血痢莫迟延，湿纸包盐火内燃，\n研碎分为三处用，白调粥饮即时安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "血痢"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "15669dd5ab3027cfbe8941b8c550d12ba8c6624e1fe10002381160bd566b2eb3",
+      "content_sha256": "e587d1a4961cea0e1be1b1248fe306fa5980e30c65e8323d56dc9d959dae27a6",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        98,
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "a6c8d8c10c816370791cac29",
+      "title": "自缢",
+      "volume": null,
+      "content": "悬梁自缢听根源，急急扶来地上眠，\n皂角细辛吹鼻内，须臾魂魄自还元。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "自縊"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "cd957a34ae56a647bff2c700b5d7fa6cab610ef0b8f1e740c7d649d48c65b49c",
+      "content_sha256": "4334e72e08c97049bbc31e49d31424f7ef59a96a63c107f2ff69ed35dd49ac63",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        101,
+        102
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "81de5076528254a5398fd84b",
+      "title": "耳聋",
+      "volume": null,
+      "content": "耳聋久矣不闻言，那怕成灾三五年，\n鼠胆寻来倾耳内，真如顷刻遇神仙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 103,
+      "source_path": [
+        "耳聾"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "4ee3e8c9a08c5a33943dc31b665abfed3fbfde442d5106ab809fb55cf6abe63c",
+      "content_sha256": "d0b8c84e944f371fa24ab62406026da1c514d781ea2dfab96b38144e8705f9d2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        104,
+        105
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "c65d8c67e609603d17a478a0",
+      "title": "小儿夜哭",
+      "volume": null,
+      "content": "小儿夜哭最堪怜，彻夜无眠苦逼煎，\n牛甲末儿脐上贴，清清悄悄自然安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 106,
+      "source_path": [
+        "小兒夜哭"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "09479cc348b47f92875d07e656c3014d1a873cbb4a9b279984597e4a8d6f43d3",
+      "content_sha256": "f3d998c32afab08e01e26e5f552a9c29dc15c891cad4f8d5b53c3619ece14c86",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        107,
+        108
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "581e3a9b68800920cf5533c5",
+      "title": "耳疼",
+      "volume": null,
+      "content": "耳中疼痛似刀剜，出血流脓久不干，\n鸠屎夜明吹入耳，除脓消肿便安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "耳疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "43d8116cdfab758994c7a89fe2f69410787270e2639efa3aee80cb4af345294a",
+      "content_sha256": "98a118ff38788da431be5ea0659d60ad9d042138587398a625dc2fbc9764b2ca",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        110,
+        111
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "17c6b2f7d307b88a9fb82755",
+      "title": "牙疼",
+      "volume": null,
+      "content": "一撮黑豆数枝葱，熟艾川椒共有功，\n半碗水煎勤自漱，牙疼立止显神通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 112,
+      "source_path": [
+        "牙疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "c74804144bb5d2cc94963e61bcf4ecd718135d764b323f291fdd92851cce3468",
+      "content_sha256": "fcb04c8eae0fc8ad4a8557ba1b02df867494b548904ed9663c77a93cce1215ff",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        113,
+        114
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "e73a8a612c764246f9e77de8",
+      "title": "赤鼻",
+      "volume": null,
+      "content": "肺风赤鼻最难医，幸有良方好受持，\n但用硫矾为细末，和调茄汁最相宜。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 115,
+      "source_path": [
+        "赤鼻"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "fd080032aaf33f4415cd02591808842f426f534e9e8bd3792966c3170700952c",
+      "content_sha256": "fc88591ccbabe29d27487359fbdcd0fd18e81765fb575b7c1a786e8fb86d2c81",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        116,
+        117
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "d0e3d898c790f6fdafbc94f8",
+      "title": "重舌",
+      "volume": null,
+      "content": "小儿重舌最难熬，锈锁将来火内烧，\n打落屑儿为细末，水调吃下即时消。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 118,
+      "source_path": [
+        "重舌"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "da6d4d0f6b17d1a35d8dbf8792adc1af74c87c2d5849e49e0d14c5fb5ae92c9a",
+      "content_sha256": "d07d2966124d8ec1fbf5ecc792e8948e0eed0d8e8cbc74b859ad8cd702476902",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        119,
+        120
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "1ab87ffb644779978b563307",
+      "title": "阴脱子肠不收",
+      "volume": null,
+      "content": "脱肛阴脱两般忧，寻取鲫鱼只用头，\n火上烧干为细末，半搽半服自然收。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 121,
+      "source_path": [
+        "陰脫子腸不收"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "640e1aede47b4aa01f1512d9679621c687959835a98ab18503b80766806cafd0",
+      "content_sha256": "6aa21bf47216a95720f2a8b35a4f1e3180db7975841334787248b1a4c296ad00",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        122,
+        123
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "c4a7478a85ba4083d8959b7c",
+      "title": "脱肛",
+      "volume": null,
+      "content": "脱肛不止久难安，真个仙方遇有缘，\n寻取蜘蛛烧得烂，抹于肛上应时痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 124,
+      "source_path": [
+        "脫肛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "20532e2ebc9e5eebd1e7ec6786064d6daff718c46c6372a0c40629aa72b1914a",
+      "content_sha256": "e64c947dccd71a35decd6ee3bb31261e791eff6ffcf001b77796945a5019a241",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        125,
+        126
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "3de60991a3b8721fceeff6ae",
+      "title": "乍寒乍热",
+      "volume": null,
+      "content": "乍寒乍热却淹延，反复犹如鬼祟缠，\n道上喜蛛寻数个，将来系在脉门边。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 127,
+      "source_path": [
+        "乍寒乍熱"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "daaf531f5e6c6c28868b80148da3ceba3887c7e890e60e7524b515cbf2b80e98",
+      "content_sha256": "262d750f8e74d853060365296d074de6692942c1a57707aba075cbc62494efc5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        128,
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "207f8b3e9b2315d4de5660ef",
+      "title": "咽喉",
+      "volume": null,
+      "content": "咽喉急闭莫因循，快取芦都草的根，\n好酒煎来三四滚，竹筒灌入妙通神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "咽喉"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "52b8ec5eea204f46a4777ca7325c35811acfa80aaa802379fec083bae3f45fcf",
+      "content_sha256": "72efed55b27340a4eb92209a47e1454fb114e870b8507283533a2fd1459a3465",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        131,
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "54f3f8b26be315a9e441229b",
+      "title": "双蛾",
+      "volume": null,
+      "content": "牛膝生根取汁擂，男左女右鼻中吹，\n不怕双蛾来势急，酒调一服自然回。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 133,
+      "source_path": [
+        "雙蛾"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "f6b424c081b9a915855e772e116c2f05c13508e5dd50eb3da26bdd28d190e7af",
+      "content_sha256": "370862487fa169402c77d9bcb88057c61dabd3889ffab1e400beed24deeffe7a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        134,
+        135
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "2bf50fcefc4e8a732d0a8ade",
+      "title": "痢",
+      "volume": null,
+      "content": "七个乌梅七个枣，七个栗壳七寸草，\n更加灯心共酒煎，赤白痢疾登时好。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 136,
+      "source_path": [
+        "痢"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "ab67c741a38349822e4fa8fddb998f78eb53fb361bd107887177843ce8388f9d",
+      "content_sha256": "1f675d6ea11e073e795c2ff2949ec58f76bed35cee0ed226509390bda5bcdfa1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        137,
+        138
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "22ab5390dc66cc7e313c7187",
+      "title": "月水不通",
+      "volume": null,
+      "content": "妇人月水不能通，鼠粪烧灰立见功，\n热酒调时逢扁鹊，只消一服显神通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 139,
+      "source_path": [
+        "月水不通"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "c8bd9bc63843126eec1aa5dba189521e4ba2b1f633e5564d47dcdaac6f4029e1",
+      "content_sha256": "3aa629b65329e760f64efef18e2ed56c7e9bfe4b1e3d86b94a70086b949e0235",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        140,
+        141
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "8368534245070144d74e58a3",
+      "title": "乳少",
+      "volume": null,
+      "content": "妇人乳少听吾言，只用穿山甲五钱，\n研碎米泔连夜饮，乳流恰似井中泉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 142,
+      "source_path": [
+        "乳少"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "2e69a1de88d8ff44c1ba08e4fece89f7ef8d24aa00e1f19d905967a0061b377c",
+      "content_sha256": "6d6a60dce5b05199cb889ff7240c4fae4721c1244b90fbb2d9caab40565d3e07",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        143,
+        144
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "2e003a66ab904f458209bd31",
+      "title": "乳疮",
+      "volume": null,
+      "content": "奶疮肿痛叫声连，焦炒芝麻细细研，\n灯盏油调涂上面，除脓消肿即时痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 145,
+      "source_path": [
+        "乳瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "c25096e01decd33825b8d4bce5f1f94ff8ef2a3e893de7365f61b379030cb4a1",
+      "content_sha256": "719cc4566e09d87a014137e8b44649362f938ce7633e4db9382afaeeb18a9ebe",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        146,
+        147
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "89f3024abe5722d379f9c250",
+      "title": "产多",
+      "volume": null,
+      "content": "麝香肉桂及红花，冰水为丸共一家，\n牛膝煎汤来送下，断胎绝产定无差。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 148,
+      "source_path": [
+        "產多"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "4c84f4bc2aa32d19fe08d129741df98a4ba732e5affcc48e78e9225d41ea3042",
+      "content_sha256": "a1aa2765b86c1a291822fd978d6606bcad3e3da1d38e653db66bb00d22e46a35",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        149,
+        150
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "3a3485f8b927fd5b4aa193e5",
+      "title": "来溺",
+      "volume": null,
+      "content": "小便不禁有何难，寻取天台乌药研，\n饭后服时宜米饮，日须两次每三钱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 151,
+      "source_path": [
+        "來溺"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "a6d2a44f91dd90f9a38102bec358d9a6ab123a014e64c64569c596a194bfb110",
+      "content_sha256": "7738a3d5036cb2152953c4b1e368993c3720ccf161afd4b1460b8678297a64ad",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        152,
+        153
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "70aa1483aa4bb342fb35b542",
+      "title": "骨鲠",
+      "volume": null,
+      "content": "骨鲠难医苦叫天，金樱根用醋来煎。\n入喉切莫沾牙上，骨出令人体自便。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 154,
+      "source_path": [
+        "骨鯁"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "1ab5c8a52e7992d4408b4327b373c4b5ed8290056d27a5678311b9018841bd8c",
+      "content_sha256": "46582e4dae053a792aa52856122f36bc61c81d8cfc886680e52e6e01956c1601",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        155,
+        156
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "793d5cb342cc81ce3e447ab0",
+      "title": "胎前发疟",
+      "volume": null,
+      "content": "胎前发疟苦难言，寒热交攻最可怜，\n急取夜明三钱整，空心茶服自安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 157,
+      "source_path": [
+        "胎前發瘧"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "160d2c4696a8f191254c0e2528585491a9896fe058ff6ff299cc834beae02fa4",
+      "content_sha256": "ae9fea47cbc17d9d6e59e6f148a09aa78229f743f543a01530ea654b4427ca26",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        158,
+        159
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "20ada4459e751295491341c1",
+      "title": "血崩",
+      "volume": null,
+      "content": "妇人崩漏血何多，管仲还同米炒和，\n每服两钱酒醋下，应知此证自消磨。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 160,
+      "source_path": [
+        "血崩"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "36ad63ee1ade99e581917e7b5d84291559c61cfbe843527c96791f31cf035a30",
+      "content_sha256": "2e5ac69f13cde8d77cf98f781a3a91d0708bbf9a84ef8d7141e67cb2a9ae1d10",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        161,
+        162
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "97b8fd3f76da8b3a6a20f454",
+      "title": "牙疳",
+      "volume": null,
+      "content": "走马牙疳齿动摇，枣中包信火中烧，\n更将黄柏同为末，患处捻些立便消。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 163,
+      "source_path": [
+        "牙疳"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "176524093e9605a8e283b9874a93d982d0732806908a5003b3aa93e8c4844ef5",
+      "content_sha256": "4a97c0d4a9928f3f232897f6ac7edb3e75ddb17bef5bde5f9c7b200c42fdc615",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        164,
+        165
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "4f98fdcb932c34fc4d85960f",
+      "title": "妇人五心热",
+      "volume": null,
+      "content": "五心发热欲如何，赤芍药同水薄荷，\n等分研细白汤下，自尔清凉转见多。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 166,
+      "source_path": [
+        "婦人五心熱"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "5b2ad2f31b8e2ee62cc18c9c019a0c04f74dff947e16fa246eccde4b96056b35",
+      "content_sha256": "e7108465f142c7c36d2b4e3ee0618773d3048eccab40ba544a25159ffd36f538",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        167,
+        168
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "795b9c70a37ae3585d64e123",
+      "title": "口疮",
+      "volume": null,
+      "content": "满口生疮痛可怜，干姜急取共黄连，\n口中细嚼流涎出，从此疮灾永不缠。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 169,
+      "source_path": [
+        "口瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "66d83d52547d1d2c4134394a4de410f07a5bfc2d240fed65a99862766d409098",
+      "content_sha256": "577a2a420761580096ec9d648eac7b38edc6c620457217d9b9d685dbe5780f56",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        170,
+        171
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "c60d74633524b0299b9c3e81",
+      "title": "小儿吐泻",
+      "volume": null,
+      "content": "小儿吐泻怎能安，滑石硫黄一处研，\n每服一钱饮调下，方知妙药属神仙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 172,
+      "source_path": [
+        "小兒吐瀉"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "ea4649e494d93a026d9734b4cd630d0f756a2ad53fba0426d62a28502e14bf64",
+      "content_sha256": "a11ad70c0cd2e37374a0b5e0556de3b2f311f4b416be69d0faedc19cfd538ba8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        173,
+        174
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "666c4ca9671f5a2a657881c4",
+      "title": "头风痛",
+      "volume": null,
+      "content": "头风头痛太阳间，芎芷石膏三味全，\n细末三钱茶送下，当时吃了效无前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 175,
+      "source_path": [
+        "頭風痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "06d9c5f15cb6d7df6aa0e49e54175021377ca0eb6d29338714df955d8cf6c1fc",
+      "content_sha256": "06285c92a8eb01f9791f66100a114cef0ca1b955fcaed856f7f91077c470657d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        176,
+        177
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "2a7e71d38fd0eca4b7c399ed",
+      "title": "耳聋",
+      "volume": null,
+      "content": "耳聋终日不闻言，细辛为末蜡熔丸，\n入耳绵包如鼠粪，始信却灾似解悬。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 178,
+      "source_path": [
+        "耳聾"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "a2568b047bca91cc30ceb8cd9c316536c8dc513fc7396d55c9ab6f3ce52af19d",
+      "content_sha256": "0c42a4747d192e9bd405183555078f97ec0bb33f73f3b4d05abd995640e48d65",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        179,
+        180
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "4acf61a90d578c2944f04e78",
+      "title": "自汗",
+      "volume": null,
+      "content": "自汗不止防风末，浮麦煎汤服二钱；\n不效还将牡蛎散，二方经验可流传。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 181,
+      "source_path": [
+        "自汗"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "1f23b9ff5fafa41bb93dda69ed56311a01bb3b264d857f717dd6f5854d4948d8",
+      "content_sha256": "bdf08487185159d5c9f5ce4a9683057718e6b1c150c0fa460b4358504f71df93",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        182,
+        183
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "24006b587f31c08ae2082ad0",
+      "title": "犬伤",
+      "volume": null,
+      "content": "人遭犬咬痛堪怜，去壳萆麻五十圆，\n烂捣成膏伤处贴；又方虎骨可同传。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 184,
+      "source_path": [
+        "犬傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "61b5eedfc78665de1a27f45da30da6e51182a74091d76687a05add86feadf317",
+      "content_sha256": "3f0ce0a7ae4ec4f7afa9272a9abfe59558cdf31d38890c6ed9fd20578b05f0c0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        185,
+        186
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "cd8487d2b12261b4a2ff5642",
+      "title": "手足厥冷",
+      "volume": null,
+      "content": "四肢厥冷腹中难，热水蘸来拍膝弯，\n紫黑点儿针刺破，去些恶血就安痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 187,
+      "source_path": [
+        "手足厥冷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "1949435a0ee02dae5c1ea1646aa13432d8ee96a54b0754c9d1280ef31031305e",
+      "content_sha256": "7d18759c53ee443a768fd257cc32c94c637d9a7c70eafeb1487abd88c005df66",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        188,
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "b1762a7d4862120e83031e96",
+      "title": "汤火烧",
+      "volume": null,
+      "content": "汤火烧淋痛可怜，杨梅皮末使油抟，\n又将好酒调来洗，目下应知即便安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 190,
+      "source_path": [
+        "湯火燒"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "8f12989e8f2d079b9de1e3846cecb6e56f2583aa92531c9de2c10bac2cf5b13b",
+      "content_sha256": "7279b4ecfd3423ced60178482f1a038aa0049b466e975f310c6d281bf69f157c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        191,
+        192
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "3b6caf83afa8d439fe4af1c0",
+      "title": "转筋吐泻",
+      "volume": null,
+      "content": "转筋吐泻实难当，艾叶木瓜煎冷汤，\n急取食盐安口内，方才咽下即平康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 193,
+      "source_path": [
+        "轉筋吐瀉"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "1e4f6b90f0d9cb5fb9cda41cc989ceccf2d025c26dd58ba61c1dacd0f7f83038",
+      "content_sha256": "c91013109e2147bbe62a87c712a7423d79cc63228e2fdfc8fad778c440ba5e04",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        194,
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "99cd2f8b16549316f30deb6c",
+      "title": "痹癖",
+      "volume": null,
+      "content": "大人小儿患痹癖，肠间一块硬如砖，\n捣将大蒜硝黄共，敷贴患处软如绵。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "痹癖"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "8b0cc95fa300591295f89afae278a8a2cd404a49d8c40584bd994804c7304308",
+      "content_sha256": "eb9f9be33f844f26c4f3e2735333c4cfe27a5641e74d7fae65aab99c17ccca6a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        197,
+        198
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "d408091c6301593d36e090dd",
+      "title": "臁疮",
+      "volume": null,
+      "content": "黄柏相将轻粉末，再加猪胆调膏药，\n敷贴仍将帛紧缠，一旬再易疮拈却。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 199,
+      "source_path": [
+        "臁瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "355b87b240a55896e51834690788919d3751cb6963d732ea2d5f233ce651a789",
+      "content_sha256": "86c97e1d2907ca8ecc5e5ecefa5b4449754ed327d6a089294bdbd2fce9099c65",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        200,
+        201
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "d0e2bfe9f659d59d1c8ba27a",
+      "title": "骨鲠",
+      "volume": null,
+      "content": "骨鲠单方野苎根；又方甘草对砂仁；\n金凤花实根并用，三般治法尽通神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 202,
+      "source_path": [
+        "骨鯁"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "3f577206dd357b21dbfe8dd781caca1b2596fba2c5808412dce4d32a95679ae6",
+      "content_sha256": "7154d46faaed0796e6f2de43d906ef8a47d4f08a908ef5049184da1ee2d7cd17",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        203,
+        204
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "1f9a877628e1301da760b292",
+      "title": "催生",
+      "volume": null,
+      "content": "黄葵子炒七十粒，烂研酒服济人急，\n妇人产难即全生，免得合家共忧戚。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 205,
+      "source_path": [
+        "催生"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "fa6569740904d0c9b8ea5e0b831325b6ba2c64098a97ef32b2892e14991a4355",
+      "content_sha256": "20cf4c716406d976846e647d1998205d9dbad874c035efc2c724fc5dc75b31ac",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        206,
+        207
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "fc9102bc08e0cbb83d2ddcad",
+      "title": "吹乳",
+      "volume": null,
+      "content": "妇人吹乳最难当，急用男梳百齿霜，\n取下饭丸桐子大，三丸酒下不成伤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 208,
+      "source_path": [
+        "吹乳"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "274aa15983b397ab0cb4aa5c258fdaa290eaf56c36fd882675a2b9ebaf7e284b",
+      "content_sha256": "3a3ef17aa2021cedbd9a93c51521d8b7ed4a4adc2678ba9828f198d02667c685",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        209,
+        210
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "6935a7a5adc7847620558c1b",
+      "title": "痔漏脱肛",
+      "volume": null,
+      "content": "痔漏脱肛人受苦，疼痛之时面如土，\n急取川椒可二钱，空心水送免凄楚。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 211,
+      "source_path": [
+        "痔漏脫肛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "abc9765e70e4dc1d0d804431fecf208255e0e3b5fb069dce6c0687777c9ab534",
+      "content_sha256": "8e06db40f4e7075d1c83d10bf7be409fb9d4554bda4459bc096b7f3d8a5421bc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        212,
+        213
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "8853310e8216da3ed8392efb",
+      "title": "吹乳",
+      "volume": null,
+      "content": "妇人吹乳意如何，皂角烧灰蛤粉和，\n好酒将来调八字，立时痊疴效诚多。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 214,
+      "source_path": [
+        "吹乳"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "e39beeef9d2330bbf020387ad7aa01f30bf4525ab3e8a424ad84bc67267e3049",
+      "content_sha256": "5a31afcf0f9b587fb8f4e11933333388b9de976c10c3f037ce0daacc81be9f4e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        215,
+        216
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "fe6fa9b72d5557b9fd72bed8",
+      "title": "疔疮",
+      "volume": null,
+      "content": "疔疮神效豨莶草，五月五日午时讨，\n细末酒调半两余，服讫汗出果然好。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 217,
+      "source_path": [
+        "疔瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "1e80d064ce1b704e2d4d1bc2ede42e04560741636244755386d007b467cb1cad",
+      "content_sha256": "a58863192c8f50f22eb72814b82bd9a202b0a5e39b7b35ebfa9326140fbff67a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        218,
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "a240e3518fcdc8fb142956ee",
+      "title": "蛇犬伤",
+      "volume": null,
+      "content": "细辛荜拨及雄黄，用酒研来入麝香，\n不问蛇伤并犬咬，当时吃了便安康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "蛇犬傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "36a2a55b27c46f589cf0c9ec1d9dcb7e7d3b574c09bf1f5a8a2bfec65f1e5baf",
+      "content_sha256": "0f215f4a77b9fea0139c333681e581e4a4d9dcb29a1cb2c3c83c1138d504da65",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        221,
+        222
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "3a6362413316c40f9caad677",
+      "title": "安胎",
+      "volume": null,
+      "content": "紫苏陈皮橘皮葱，细末砂仁煎酒同，\n胎气不安心下揍，腹中胀痛有神功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 223,
+      "source_path": [
+        "安胎"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "487ceb26c95d7068aae865ce47b6d0e2b39186731e3e653df40240c881e1b199",
+      "content_sha256": "645aed238358fe14c3f60604c1adf012b369ab3b44b0fed46730c992d7fcfbe3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        224,
+        225
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "897791aa1ee5c1b73e7d83c4",
+      "title": "颠犬伤",
+      "volume": null,
+      "content": "颠犬所伤人最苦，雄黄五钱麝五钱，\n酒调二钱作二服，不服灌鼻亦安然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 226,
+      "source_path": [
+        "顛犬傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "b1a237164bef5a8ae8d61bce440146a3d794b7853ad913b749a63985eb56fdea",
+      "content_sha256": "62b3cc38d282133499fc8449819dddb352d630d5c88db2bd509a53da5455ddd9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        227,
+        228
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "d27898c99721802a20205ba0",
+      "title": "止痛",
+      "volume": null,
+      "content": "草果玄胡索最先，灵脂没药乳香联，\n酒调一盏宜温服，腹痛心疼似手拈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 229,
+      "source_path": [
+        "止痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "f3e2b7db6ee6a5025feecdc2a5f0e3b826426b62618c3bafd7766f6d04c6610e",
+      "content_sha256": "1b23c83741bc2a1cf86b5a307d91e3a9cb206f6998fce2f6a07faac4797552ea",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        230,
+        231
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "536742afc6a1c319c97945cd",
+      "title": "痔漏",
+      "volume": null,
+      "content": "凡人痔漏痛成疮，遗种蚕蛾纸半张，\n碗内烧灰调好酒，服之去病水浇霜。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 232,
+      "source_path": [
+        "痔漏"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "511029172709ef72daa1090314584a6512fffa8a538af1f2d07d3fb7b821c3ff",
+      "content_sha256": "f51829dadaf55d42d4024d24122e1daadbb32e5237efe2bcc10dde6b4f7af524",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        233,
+        234
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "ca0dfa5893186ec7e5443cc3",
+      "title": "牙疼",
+      "volume": null,
+      "content": "寒菊花儿五七团，雪花同捣饭为丸，\n搐入鼻中如枣大，去疼真似手来拈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 235,
+      "source_path": [
+        "牙疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "c017573f1dc28167df446afb8e55449e76b87557ce7f306414aaf772ff7ec5fc",
+      "content_sha256": "2470f4a20763995b28eab7161bec9e8f6e910aa156850f9455bf2b27dd86d3a8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        236,
+        237
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "c58501429264a5ca6555b0c2",
+      "title": "接骨",
+      "volume": null,
+      "content": "接骨谁知甚药佳，急须觅取大虾蟆，\n生捣如泥涂患处，杉皮夹定甚堪夸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 238,
+      "source_path": [
+        "接骨"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "ff8b26f488597481f91ff1dd15410204a408a22e1afb165abea3bfe6d8add307",
+      "content_sha256": "b837063aee6ef1b048a8820e2e43ec66187338e01bea72c0882b0e535a3b44e9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        239,
+        240
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "f69ce9a5b1363cf7fb80c57e",
+      "title": "解酒",
+      "volume": null,
+      "content": "酒能醒酒不寻常，草果加煎干葛汤，\n解毒频频三四盏，醒前醉后并宜尝。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 241,
+      "source_path": [
+        "解酒"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "71b2137533f275a299805f427959f519ca982a6627165a3832a0885e40f2ff00",
+      "content_sha256": "ba753d92e37f6ce959c87cceca3e7ae6df2b2e302e46dc1d6deef2e2300dbde9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        242,
+        243
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "b9efccc9fc4fd11d0a9b4c2c",
+      "title": "忘事",
+      "volume": null,
+      "content": "凡人日夜事多忘，远志菖蒲煮作汤，\n每旦空心服一碗，诗书如刻在心肠。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 244,
+      "source_path": [
+        "忘事"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "41d153b653e2865c2fceab095e1d2277f28d3ed30ebfd7efbeca0b4804256245",
+      "content_sha256": "34bed50a4e525d2c1d9595b778a65217cb4427631edbcc2194ffb426b6a6f9ee",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        245,
+        246
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "801162238a890efb509dfb1b",
+      "title": "果毒",
+      "volume": null,
+      "content": "世间果品甚多般，性毒有无冷与寒，\n误食中伤何可解，朴硝加麝即时安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 247,
+      "source_path": [
+        "果毒"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "2010fec190f6783b417458ffc4f67fe1739a0276b7ef71a369b13a0100b5e870",
+      "content_sha256": "6e88e3e6d839bd2a6045fe2699789d2b79a1957647280910842f3526bec04c44",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        248,
+        249
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "24a2ff5f88f858f2a3907ed1",
+      "title": "吃噫",
+      "volume": null,
+      "content": "老幼忽然吃噫连，川椒生面和为丸，\n醋汤十粒梧桐大，信是仙方不妄传。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 250,
+      "source_path": [
+        "吃噫"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "8e337f1b328fe6b555c2bd8ca43379c42d8f7ccb7c7cdfa91eac3a37575701ec",
+      "content_sha256": "c2e5e531c36d92308f881b9f1e53d0cd3e3d1ecd1730a98a713890bd0890ba35",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        251,
+        252
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "ebd7a7e255b4b335e7b62f5e",
+      "title": "伤寒",
+      "volume": null,
+      "content": "伤寒忽觉苦难医，半两茱萸不用余，\n用水煎来空腹服，管教所患当时除。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 253,
+      "source_path": [
+        "傷寒"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "7c57f1b578ec214048c7eb480e79f4fe4eb3d9176940e81ddac6ddb6cf46ccb5",
+      "content_sha256": "5e93140426db7e253a2a44a9ffb766e005a9c8b646f69bc35a5f29ccd51ae7e7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        254,
+        255
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "7ce353722e4ffe102e10088a",
+      "title": "头空痛",
+      "volume": null,
+      "content": "脑痛悬空在顶高，急宜细碾马牙硝，\n好把酥来同捣合，暂安鼻上自逍遥。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 256,
+      "source_path": [
+        "頭空痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "2e2ff5273f07e1faf3d7e2687735a749b3d7ea69927ef4541f71f532465be969",
+      "content_sha256": "8dedf7b03486dca4bb414cd0b8316120373e9397f8b275e8b637751a9cba5c99",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        257,
+        258
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "5478de353a1b209ce8e32be8",
+      "title": "赤眼",
+      "volume": null,
+      "content": "赤眼难开不见天，宣州土产好黄连，\n便将驴乳淹三宿，点上光明即豁然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 259,
+      "source_path": [
+        "赤眼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "26d3ef22660bebd1d6d6be684c09c0e4ae08fbeab8e32734c89b9661e34fe2cd",
+      "content_sha256": "56c7ac09107e00412d45d5bf363eaa6395da1f5711456ced7c461e976568e7fa",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        260,
+        261
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "b29f11d6b6a23a7c03bf175a",
+      "title": "翳眼",
+      "volume": null,
+      "content": "眼中生翳莫能窥，想是肝经蕴热虚，\n快取兰香七个子，煎汤一服病消除。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 262,
+      "source_path": [
+        "翳眼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "66610eb49c7b16b3fb2d93ed7918c94296432c4ad918e52f93d3aba48f8d8bac",
+      "content_sha256": "7fc4e938a3bcaa80962a3735eeaa26891ea6f7d1c8a8bf25dc19b4d152352d00",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        263,
+        264
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "72ecf9ba014fa2e0b805c120",
+      "title": "小儿疟",
+      "volume": null,
+      "content": "幼小孩儿抱疟疾，乌猫取粪最相宜，\n桃仁七个同煎服，病前一盏显良医。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 265,
+      "source_path": [
+        "小兒瘧"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "47de05d70796e7359b817fd4429fd97dc9b5f0584a0a552d13085087e9b64c1a",
+      "content_sha256": "21b3234309a2a9db24a37d50b56d077fc61b10a2198efe0a6e1400e3c84fc641",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        266,
+        267
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "faba2cc6685a5a301b4df4bc",
+      "title": "咳嗽不止",
+      "volume": null,
+      "content": "咳嗽多时如不止，谁知只用好浮萍，\n干时烂捣浓煎服，一夜安眠直到明。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 268,
+      "source_path": [
+        "咳嗽不止"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "500fe59130de6b87cc1b050f452383ee3818740e9995bc8c1da795e58cc4cb3e",
+      "content_sha256": "9b0d40680a86ee4ef894547143f3511a6e32542622e0a54496d88b8a888618cc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        269,
+        270
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "b584d6a40fc3381dc9af2489",
+      "title": "刀斧伤",
+      "volume": null,
+      "content": "金疮刀斧偶伤残，只用黄丹对白矾，\n最好生肌兼止痛，即时伤处见平安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 271,
+      "source_path": [
+        "刀斧傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "2a0f4f6a8928a79edd6a6d76bfd5bb113aebd85cc80e6954e131b3801f3c5e26",
+      "content_sha256": "eb76fad10b194e729cf16e424e65d8845fa7a86e3cff3af892a1d721b8b4b823",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        272,
+        273
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "a64f3457fdd2f264fb95a7bb",
+      "title": "疟疾",
+      "volume": null,
+      "content": "常山捣末取三钱，四个乌梅去核研，\n疟疾未来调酒服，须臾得吐去痰涎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 274,
+      "source_path": [
+        "瘧疾"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "de77630ba842734cc57f95d7692f6cba223e980d10c46d03c5ba07484079a895",
+      "content_sha256": "3123d33c7d4295222e50f60964e5d2db95e5b3ff97bbdd06471393fe59ce2787",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        275,
+        276
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "5efed3c55b792e70e0c7f44d",
+      "title": "恶癣疮",
+      "volume": null,
+      "content": "世上诸般恶毒疮，更兼疥癣有良方，\n好将驴粪烧灰掺，日见皮肤复得常。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 277,
+      "source_path": [
+        "惡癬瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "b7e66b3e60c7c4ba72bce11b2fa15f979bd67ec2b48e93706052c1aeeba4a38a",
+      "content_sha256": "a0b7ecaa81427dfef56dc920799a0753fd96cac42f0c6d775fe7034874cf823a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        278,
+        279
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "189397ac4acf0b4025e01f2e",
+      "title": "足筋急痛",
+      "volume": null,
+      "content": "两脚筋疼拘急挛，不分昼夜动移难，\n快捣生姜膏子剂，薄摊其上覆如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 280,
+      "source_path": [
+        "足筋急痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "956f50b4a2945fadb5e8cbdd5dc713e0d6dfdfe08a839eccd57a30db4fbdb609",
+      "content_sha256": "379459782dae59614b0473eb217fc8defdab992a6978f0d2fc8e2930df9b3470",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        281,
+        282
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "35e11cee9ec4fa77f9fd8c81",
+      "title": "小便不下",
+      "volume": null,
+      "content": "小便终朝难得下，莴苣一味捣成泥，\n将来作饼脐中贴，能使泉流得应时。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 283,
+      "source_path": [
+        "小便不下"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "50276592dcd916fb697b6054ba7cc9227df4d179839c74c98b18adb87ab5a1bb",
+      "content_sha256": "c321a99d193d3ad97e1c74223400dffc5fe0f1ef3be068fc3f00fc2032ff11f4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        284,
+        285
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "507c0a0e7949646612aa2f49",
+      "title": "蛔虫寸白",
+      "volume": null,
+      "content": "虚胃自然成节病，多生寸白与蛔虫，\n蜂窝收采烧存性，酒调一匕有神功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 286,
+      "source_path": [
+        "蛔蟲寸白"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "4eb756bcd7667325b4ae96367c20a9a7c033bb29e30317a10043a81476dedb86",
+      "content_sha256": "57d76fda44350994b7bacd947ca870845aa8631d9ec279065aab9ffbc20aceb2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        287,
+        288
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "0ecb5e35944fc97a68cdad60",
+      "title": "干湿癣",
+      "volume": null,
+      "content": "头面若生干湿癣，半生半炟与明矾，\n酒调涂上登时愈，管取皮肤日下痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 289,
+      "source_path": [
+        "乾濕癬"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "98254323bd41ce90e6791ec70bd126979abecfa695b95a896f8d0afe41b6a82b",
+      "content_sha256": "948275d61df526bf2ab017dd594a637e3281622bc48fb703c504facce60dcceb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        290,
+        291
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "e4b7b0548bd5f677a36ac6ef",
+      "title": "翻胃",
+      "volume": null,
+      "content": "病来翻胃几多时，干柿三枚捣似泥，\n好酒调开乘热服，此方效验少人知。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 292,
+      "source_path": [
+        "翻胃"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "0f09711f03adea0855f2e6efe8e99aab05334c19577ae6349fb37bc04e27ff7b",
+      "content_sha256": "46e85b2e0c3122a4429571c39057a85f094dd31454a888a8a8998d7e1f379653",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        293,
+        294
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "6f4a4e8505663c2834d046cb",
+      "title": "血流不止",
+      "volume": null,
+      "content": "血流不止是如何，驴粪烧灰不用多，\n但取些儿吹鼻内，须知此病即消磨。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 295,
+      "source_path": [
+        "血流不止"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "8782ba0890a15da182591487a264a8541ecf51e21ff47c3f36c2ecf06028f92c",
+      "content_sha256": "7dd6301df93783dd0f7d1b43587033ba7d10b30624ce08f31154b2030e9e4494",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        296,
+        297
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "c861001dc5bc013ca9a4bb4c",
+      "title": "口臭",
+      "volume": null,
+      "content": "如人口气臭难当，但取明矾共麝香，\n两件相交搽齿上，言谈呵笑不闻扬。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 298,
+      "source_path": [
+        "口臭"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "678177046c57cab43a9c88ed0872cf1335eb28e1b1e42f8409363a7334ad3391",
+      "content_sha256": "698d7fd47506ffd0c116d695f020aebbc4cc0de2b9ede11887348af4306d215a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        299,
+        300
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "0a6e164d58e7d7af83576d5d",
+      "title": "鼠咬",
+      "volume": null,
+      "content": "鼠咬肉皮最不良，毒攻疼痛肿难当，\n急将猫粪填痕内，端的公然不作疮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 301,
+      "source_path": [
+        "鼠咬"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "55659b350cff6ef9214f69e45470443474c15dc385dfb7a44ca37e81b20a5c49",
+      "content_sha256": "b427d724afb2848083026e3b2ffdf36bdb5d15a374734192ba07dfe1a54112a3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        302,
+        303
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "33edeaa6352a84dcdd41f44f",
+      "title": "痔",
+      "volume": null,
+      "content": "肛门痔病苦恓惶，炒过胡荽子最良，\n细碾酒调三五服，自然动履得如常。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 304,
+      "source_path": [
+        "痔"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "367e8d83542ecf604afe7c26c5e13dacf9aafcf84cac4062e70bd4dd95d94573",
+      "content_sha256": "c2b169d2cc2a18cce7f986b2628bfd37e6ff7b765fc0b3d220d0abf8da8fd804",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        305,
+        306
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "f59b1424b3f3c91c231c6ee9",
+      "title": "蜈蚣蛇蝎伤",
+      "volume": null,
+      "content": "蜈蚣蛇蝎毒非常，咬著人时痛莫当，\n我有灵丹随手好，自然姜汁和雄黄。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 307,
+      "source_path": [
+        "蜈蚣蛇蠍傷"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "e05641cc6e7a0dc0eff2c9c1b20d5ffae2d6ec9f3ce3a30a6f2a9f6a822f70e6",
+      "content_sha256": "21cde15270e2eccfa101868b5e98ab2a3c0bb1b1ef12f17f8a77859145dc9ae9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        308,
+        309
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "18c9aa20f76dd4f4f61c7b04",
+      "title": "消渴",
+      "volume": null,
+      "content": "栝蒌根是天花粉，消渴能令目下痊，\n采得无时煎白水，服之口内似生泉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 310,
+      "source_path": [
+        "消渴"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "999f0997d630a7a2bce38f2a1d99352bbe599183389aeb853403b685b0dab658",
+      "content_sha256": "5bd5dd27da2b35cb97bfd766ca305c3bb77c8a6a0d494d25a8df9dc132a28639",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        311,
+        312
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "c196dbb88a812d4f32c7507e",
+      "title": "小便血",
+      "volume": null,
+      "content": "小肠尿血不曾疏，采取新鲜刘寄奴，\n为末茶调空腹服，便中赤色自然无。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 313,
+      "source_path": [
+        "小便血"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "ac6db27514bdd7141482992eabbb255722cee844adf0b153c5502d9884f7bb4b",
+      "content_sha256": "b783c1191e407679f43c50ae352abd7d8d97e41a780ba8fa88b3f832d9733f91",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        314,
+        315
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "1a727acb0e3f5503c2828a41",
+      "title": "胎衣不下",
+      "volume": null,
+      "content": "灶中土是伏龙肝，药贱功殊不等闲，\n为末酒调温口服，胎衣不下是灵丹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 316,
+      "source_path": [
+        "胎衣不下"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "10ba571e9fffee38c27042c9ef9e535b56683c6c085f72b356283acf45f94a83",
+      "content_sha256": "681f34927392950d27f5b61e00f249658f98d3456b37c35c1ca778315ba88363",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        317,
+        318
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "729b5624ce2313aa52d8ea4e",
+      "title": "倒生",
+      "volume": null,
+      "content": "儿在腹中将倒生，浑家惊恐计无从，\n寻取伏龙肝末服，酒调一剂便分生。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 319,
+      "source_path": [
+        "倒生"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "30bfdd9de94ba1749bf145ce2c40a8a9f6469ae80ddbc3655fe59c9c05a0d3f6",
+      "content_sha256": "ece2f2443f91ec1f7f3c5aff3b088c1ba4de797d27d2cf1e02d3f04ef41a029f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        320,
+        321
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "853af59ebbe62b169dc27ae5",
+      "title": "产后无乳",
+      "volume": null,
+      "content": "妇人乳汁不行时，莴苣三枚研作泥，\n好酒调开通口服，任他石女也淋漓。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 322,
+      "source_path": [
+        "產後無乳"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "e2676faff12c03bdda25838377cc2803ec914f7f6471487b32aa377defef8c66",
+      "content_sha256": "b882d834931538154d958ec667ce96ffca0c3bc696a1ad1064658b3ec7527b02",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        323,
+        324
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "a5209dbb49ca64c2337b6b78",
+      "title": "产后咽干",
+      "volume": null,
+      "content": "产后咽喉又苦干，更兼咳嗽不能安，\n猪脂胡粉同交和，熟水调开服自痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 325,
+      "source_path": [
+        "產後咽乾"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "83cec816dd04a03a82354770b71766c673382e309f99f0f5b1b1ab352de1e66e",
+      "content_sha256": "15705fa4b41ac44dd5b04aa88a9012b5f3837b455d1fc5bce8ae24cf8f00d667",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        326,
+        327
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "d10ff9b38900bc06ad058864",
+      "title": "阴中肿",
+      "volume": null,
+      "content": "妇人忽患阴中肿，葱白研膏入乳香，\n贴敷逾时休洗去，原来海上有奇方。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 328,
+      "source_path": [
+        "陰中腫"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "fd6fea735b7b10490c4218964dc79acd43e7595794e56462f52d2ab7e007d36e",
+      "content_sha256": "3e3cfd1f853c6dec00649d0cd5bcfd5b97688d67e00de9f3b023ef2ed4f68cd0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        329,
+        330
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "fd83a7a4e61f94bb82f172c7",
+      "title": "阴疮",
+      "volume": null,
+      "content": "妇人阴内忽生疮，痛痒无时不可当，\n寻取鲫鱼将胆抹，不逾时刻便清凉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 331,
+      "source_path": [
+        "陰瘡"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "7c17684495b4dc54798716848b1f76ac9776f558d33b78162670f7a0eb39fabb",
+      "content_sha256": "0543ed4275af14377dae97ba8badfb54d0050b479c8b17685417dc8d1a8a3079",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        332,
+        333
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 111
+    },
+    {
+      "chapter_key": "8083db759d8b123e874c3894",
+      "title": "月信不调",
+      "volume": null,
+      "content": "阿胶灰炒成珠颗，乘热将来即便研，\n月信不调宜此末，酒调一服应时痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 334,
+      "source_path": [
+        "月信不調"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "5f756a8d72471ff590a0eea96d028691152859e98e4ea010914393ea2d22735b",
+      "content_sha256": "c3f1c64bbc2bb72b1d0e1b3da13c39500be216da95b2c850275448712c84f3d6",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        335,
+        336
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 112
+    },
+    {
+      "chapter_key": "f954c4e3f15dcd136b457969",
+      "title": "产难",
+      "volume": null,
+      "content": "铁锤火炼透中红，淬酒乘温饮一钟，\n专保妇人临产难，即时分娩喜相逢。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 337,
+      "source_path": [
+        "產難"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "56993656d9ddab07752f3c3208c5bcdaf6244060f86ed05f038c294a9092d171",
+      "content_sha256": "b20b54f5218f612d64f48b287ef4659a9a9659ba61ea2c297b517ce0ed31ca08",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        338,
+        339
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 113
+    },
+    {
+      "chapter_key": "7b7748e6c815f94ef83b1751",
+      "title": "产后心痛",
+      "volume": null,
+      "content": "产后妇人心气痛，叫声切切手摩拈，\n酒调鸡子空心服，一夜能教肃静眠。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 340,
+      "source_path": [
+        "產後心痛"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "9538dba3a2013233704caba394fe4a2ac2574bab13b77e9c717ec6a0f34c815f",
+      "content_sha256": "2e4501cb83a49756da85b00fc642dab5d82f0a8faaed2fb3d764f1bdaff37d0a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        341,
+        342
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 114
+    },
+    {
+      "chapter_key": "622112f84d4b30b5fa5fac86",
+      "title": "产后血不止",
+      "volume": null,
+      "content": "妇人产后血难住，诸药无如百草霜，\n为末酒调乘暖服，明朝立马见平康。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 343,
+      "source_path": [
+        "產後血不止"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "dfefb8516bbe90e0aeca2cd5b683dcc70eb4e3e97f764cffa38ac1bc426b3d69",
+      "content_sha256": "dc67fbaacc34b5e6d6999bb04240bf5116c9f0d8cd3bbc2c00d0c33cc042c239",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        344,
+        345
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 115
+    },
+    {
+      "chapter_key": "7f7fcf7c802a36d992073b61",
+      "title": "胎衣不下",
+      "volume": null,
+      "content": "产后胎衣不落身，惶惶惊动一家人，\n蓖麻去壳十四个，白面同研敷足心。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 346,
+      "source_path": [
+        "胎衣不下"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "b86ae684fa38b1509287ae62be8b85330805bbc585d4501cfb243e42b1340393",
+      "content_sha256": "6d5ec500043287032454252f8bea58c3169da23cbbebcbac844a5f657dbd2b90",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        347,
+        348
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 116
+    },
+    {
+      "chapter_key": "0c7d22633c51edfcf605900e",
+      "title": "小儿惊风",
+      "volume": null,
+      "content": "急惊风与漫惊风，夺命方知有大功，\n水磨但得青礞石，调下痰涎主便通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 349,
+      "source_path": [
+        "小兒驚風"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "3d885e41ca27f740826ef63e23b47a1fd1b16b09eb169f9160d162c1b20b464e",
+      "content_sha256": "3f8813d2ffb33a44267e7f601ca33189e2883c249caa98837db861162718374c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        350,
+        351
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 117
+    },
+    {
+      "chapter_key": "80d7279ed8cdc90daef5dc43",
+      "title": "小儿喘嗽",
+      "volume": null,
+      "content": "咳嗽小儿多气喘，石膏火内慢飞炟，\n研为细末蜜汤调，一夜分明减一半。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 352,
+      "source_path": [
+        "小兒喘嗽"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "a67b48427ebb5ef54558b84c86b48f1ade15dd4c0e67b4e1a982631dc1f68ac2",
+      "content_sha256": "f29ab3debb6199b82bb2b351b019d2fdc499acfb8748f1982bc91e7f27bdf454",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        353,
+        354
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 118
+    },
+    {
+      "chapter_key": "84b526283cacae6042d744c1",
+      "title": "小儿夜啼",
+      "volume": null,
+      "content": "小儿夜哭不能眠，收拾灯花四五圆，\n捻烂灯心汤化下，一宵肃静到明天。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 355,
+      "source_path": [
+        "小兒夜啼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "c6e1037a1e0adb5819d6eda5924a73a1b890a4da5460a9f1298ab9b97c5ef105",
+      "content_sha256": "5b040feb26b709055ad21d8ec2ac13a1e8ef1d8d284867a2d095ceb3f85d4a11",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        356,
+        357
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 119
+    },
+    {
+      "chapter_key": "9924477dda4382c0c67ef129",
+      "title": "小儿撮口",
+      "volume": null,
+      "content": "撮口脐风总一般，十儿难得两三痊，\n快觅僵蚕为细末，蜜调涂向口中安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 358,
+      "source_path": [
+        "小兒撮口"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "37f336c7351e32f1cbd63a5688ff6a247653db8fc462987204fae383ac954098",
+      "content_sha256": "c2e0fa19617b4be5ea9a787fd49cdb5fd791827d96c9c5e800367fd2ef045aeb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        359,
+        360
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 120
+    },
+    {
+      "chapter_key": "a179c229c29f0ce4118d8577",
+      "title": "小儿泻痢",
+      "volume": null,
+      "content": "泻痢脱肛不用焦，槐花为末米汤调，\n食前一盏频频进，效验如同鼓应枹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 361,
+      "source_path": [
+        "小兒瀉痢"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "5c3cb4a6f2db044845beab66f4b19ef2de9c697fad90a082cb320896597cb75d",
+      "content_sha256": "0cc38e9216accd9429fab5e6312c845f10c38f466ba31319505f8dced2754dbf",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        362,
+        363
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 121
+    },
+    {
+      "chapter_key": "92fb651a756871e41380ef82",
+      "title": "牙疼",
+      "volume": null,
+      "content": "牙疼鹤虱共甘松，白芷细辛分两同，\n为末少将牙上擦，煎汤灌漱自安宁。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 364,
+      "source_path": [
+        "牙疼"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "c09136d32faedd870535b40c5dba162ff098dc992b2e41ca723cfe97cc4efe2b",
+      "content_sha256": "4b76887abc7a236bafda3498c8cf15664d1b1035a77a63d41fb96a9fe24845c2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        365,
+        366
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 33,
+        "simplified_codepoints": 33
+      },
+      "order": 122
+    },
+    {
+      "chapter_key": "4ec91ff328b10db4e69a1537",
+      "title": "孙真人枕上记",
+      "volume": null,
+      "content": "侵晨一碗粥，夜饭莫教足。\n撞动景阳钟，扣齿三十六。\n大寒与大热，且莫贪色欲。\n醉饱莫行房，五脏皆翻覆。\n艾火漫烧身，争如独自宿。\n坐卧莫当风，频于暖处浴。\n食饱行百步，常以手摩腹。\n莫食无鳞鱼，诸般禽兽肉。\n自死兽与禽，食之多命促。\n土木为形象，求之有恩福。\n父精母血生，那忍分南北。\n惜命惜身人，六白光如玉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 367,
+      "source_path": [
+        "孫真人枕上記"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "89014123b8dd9bbbe092be1ca18b6ea5e93bacea6959c27a83027c6f85950118",
+      "content_sha256": "cd22ea60bcf99b1b51259089d2bbd3a6324c48ea34fc3d57b747cf309bad0942",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        368,
+        369,
+        370,
+        371,
+        372,
+        373,
+        374,
+        375,
+        376,
+        377,
+        378,
+        379
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 155,
+        "simplified_codepoints": 155
+      },
+      "order": 123
+    },
+    {
+      "chapter_key": "c8ff4eaa3038da6b1d88fbdf",
+      "title": "孙真人养生铭",
+      "volume": null,
+      "content": "怒甚偏伤气，思多太损神。\n神疲心易役，气弱病相侵，\n勿被悲欢极，当令饭食均。\n再三防夜醉，第一戒晨嗔。\n亥寝鸣云鼓，寅兴漱玉津。\n妖邪难犯己，精气自全身。\n若要无诸病，常当节五辛，\n安神宜悦乐，惜气保和纯。\n寿夭休论命，修行本在人。\n若能遵此理，平地可朝真。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%AD%AB%E7%9C%9F%E4%BA%BA%E6%B5%B7%E4%B8%8A%E6%96%B9/index.html",
+      "source_ordinal": 380,
+      "source_path": [
+        "孫真人養生銘"
+      ],
+      "source_sha256": "c4dce7efcab944797708906187ad3ac05dd38ee2b1a44162f918f3af4862694f",
+      "original_sha256": "90b50e5d151558e63b2160b0f4fd2aa41713a00c93974d3ce663341ad84f201a",
+      "content_sha256": "e0507055070194057cefbf18d2d298652c70652e03f269f702bdd7f9ced82b9c",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 124
+    }
+  ]
+}

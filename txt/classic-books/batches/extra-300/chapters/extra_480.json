@@ -1,0 +1,552 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_480",
+    "name": "河间伤寒心要",
+    "summary": "《河间伤寒心要》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒心要论”、“第一双解散”、“第二小柴胡凉膈天水合服”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "金",
+    "author": "镏洪",
+    "jp": "HJSHXY",
+    "aliases": [
+      "河間傷寒心要"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "7abb18b1992096235878c29f",
+      "title": "伤寒心要论",
+      "volume": null,
+      "content": "夫伤寒者，前三日在表，法当汗，可用双解散，连进数服必愈。若不解者，病已传变。后三日在里，法当下。殊不知下之太早，表热乘虚入里，遂成结胸、虚痞、懊憹、斑疹、发黄之证，轻者必危，危者必死。但当以平和之药，宣散其表，和解其里，病势或有汗而愈，或无汗而愈。当用小柴胡、凉膈、天水。三药，合而服之。病若半在表、半在里，法当和解，小柴胡、凉膈主之。若里热微者，则当微下，大柴胡合解毒汤。主之。热势未退，又以大柴胡合三一承气汤。下之，两除表里之热。病至七八日，里证已甚，表热渐微，脉虽浮数，则以三一承气合解毒。下之。其病胸膈满闷，或喘或呕，阳脉紧甚者，可用瓜蒂散。涌之。汗吐下三法之后，别无异证者，凉膈散。调之。大热已去，微热者，以益元散。服之，无令再病，此伤寒治法之大要也。\n或伤风自汗，脉浮缓者，双解去麻黄。以汗之。其病半表半里，白虎汤。和解之。病在里，脉沉细者，无问风寒暑湿，或表里证俱不已，或内外诸邪所伤，有汗无汗，心腹痛满，谵语烦躁，蓄热内盛，但是脉沉者，并用承气合解毒下之。\n或中暑自汗，解以白虎汤。（《直格》云：夏至前为热，夏至后为暑，是以至后而用白虎，宜乎？《局方》：立秋后不用白虎。子和云：若有白虎证，亦不用乎？却用，详审之耳。）白虎解后，以五苓合天水。调之。多进数服无妨。或腹满脉沉者，亦当承气合解毒。微下之。或发汗之后，热不解，脉尚浮者，白虎加苍术。再解之。或里热内盛，阳厥极深，皆因失下而成此证，以致身冷脉微，昏懵将死。切不得以寒药下之，误下即死。又，一辈庸医，妄言是阴厥，便欲易换，用真武、四逆温热之剂投之，下咽立死。殊不知此证乃阴耗阳竭，阴气极弱谓之耗，阳厥极深谓之竭。蓄热怫郁，将欲死者。凡此之证，寒剂热剂俱不可投，但进凉膈、解毒。以养阴退阳，宣散蓄热，脉气渐生，得大汗而愈。（使汗气和而愈者。）未愈，却解毒合承气。下之，次以解毒、凉膈、天水。合而为一，调合阴阳，洗涤脏腑，则其他别证，自不生矣。有大下之后，热不退，再三下之，热愈盛。若下之不愈，脉微气虚力弱，不加以法，则无可生之理。若辍而不下，则邪热盛极，阴气极衰，脉息断绝，必不可救，似此之证，是下之亦死，不下亦死。医者至此，活人杀人，一弹指间，其不至手足失措者，几希矣。（《直格》云：伤寒汗后，汗出不解，或反不汗，脉尚浮，白虎加苍术汤再解之。又按，余论云：伤寒下后，自汗，虚热不已，白虎加苍术、人参，一服如神，汗止身凉，此通仙之法也。如此则汗下之后热不退，无问有汗无汗，通宜白虎加苍术解之，又加人参亦妙。仍服凉膈、解毒调之。）经云三下而热不退者即死，后人有四五次下，以至十数行而生者，此乃误中耳，活者未一二，死者千百，后学切不可以为法。但当依前，用解毒合凉膈调之，使阳热除退，阴气渐生，庶不失命。\n若伤饮，不解散，或结胸之证，临时择用大小陷胸汤丸。累下之。脉浮者，不可下，是表证未除，小柴胡合小陷胸汤。投之。脉虽浮而热太极者，大承气。徐徐疏利之。或有留饮过度，湿热内生，小便自利，湿热未退，以解毒汤。治之。\n阳证生斑，凉膈加当归。\n怫郁热盛在表，燥而无汗，湿热在里，不能发于外，相搏遂成发黄，茵陈蒿汤调五苓散、茵陈合承气下之。\n心烦，不得眠，栀子豉汤。\n误下太早，遂成结胸、虚痞，凉膈加枳壳、桔梗。\n刚柔二痓，谵语发狂，逾垣赴井，皆阳热极盛者，承气合解毒。下之。\n汗下后，烦渴饮水，则凉膈减桂、五苓、桂苓甘露饮、益元，选而用之。\n小便不通，五苓泄之。大便闭结，承气下之。更有外证，加减防风通圣散方内随证用药。\n妇人证治皆然，惟三四月并七八月不用硝，其余月分、用之无妨。\n小儿减剂服之。\n此中有古人治伤寒不传之妙，后之学者，其慎宝之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "傷寒心要論"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "83eed6534eeb50c74a899d34ed372b275c4634d16d8177c5ab8af4f91f934add",
+      "content_sha256": "ea8fc3884cff7a2d08fc537ace9b9147e37eec9b081b35886e4514e2054c490c",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1502,
+        "simplified_codepoints": 1502
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "f026ef9d867fac48327fafce",
+      "title": "第一双解散",
+      "volume": "伤寒心要论 / 寒",
+      "content": "防风通圣散\n防风（去芦） 川芎 当归（焙） 赤芍药 大黄 麻黄 连翘 芒硝（各半两） 石膏 黄芩（去枯） 桔梗（各一两） 甘草（二两） 滑石（三两） 荆芥 白术 栀子（各二钱半） 薄荷叶（半两）\n上为末，每服三钱，水一盏，姜三片，煎至六分，温服。大黄、芒硝、麻黄三味，对证旋入。自利，去大黄、芒硝。自汗，去麻黄。\n天水散（益元散、六一散）。\n滑石（六两） 甘草（一两）\n上为末，每服三钱，温水蜜调下，暑月冷水。亦可和解。伤寒、伤风，发汗，加葱白五寸、豆豉五十粒，煎一盏，调四五钱，并三服。解利为度。加薄荷尤妙。\n通圣合益元。\n上七两，和匀，每服三钱，水一盏半，葱白五寸、豆豉五十粒、姜三片，煎至一盏，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 17,
+      "source_path": [
+        "傷寒心要論",
+        "寒",
+        "第一雙解散"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "59939a6eb1891c238bef0e6105f1b19e7cb474cc3402e09e5a8fafb9216b3cac",
+      "content_sha256": "36e96dca30254bdf8f682050a82af67eb030591782abcc3d1f528bff597f04ea",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 303,
+        "simplified_codepoints": 303
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "34e78a9bf2fc3ed915336fc9",
+      "title": "第二小柴胡凉膈天水合服",
+      "volume": "伤寒心要论 / 寒",
+      "content": "小柴胡汤\n北柴胡（三两） 黄芩 人参 半夏 生姜 甘草（各一两） 大枣（四枚）\n上为散，每服五钱。\n凉膈散\n连翘（二两） 栀子 大黄 薄荷 黄芩 甘草 芒硝（各一两）\n上为散，每服三钱，水一盏，煎至七分，入蜜少许，竹叶五片。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "傷寒心要論",
+        "寒",
+        "第二小柴胡涼膈天水合服"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "bb2b758ba39db5345bab6c77342017681c5fbd4d46218a7ddc2b99120aeed225",
+      "content_sha256": "fa603fcef8eee22b7fb79452b4ba701ee6b34a6726604a0cd2055f8bee90fa3e",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "772634e8e1882a1c7c62d854",
+      "title": "第四大柴胡合黄连解毒汤",
+      "volume": "伤寒心要论 / 寒",
+      "content": "大柴胡汤\n柴胡（去苗） 大黄（各半两） 黄芩 白芍药（各一分） 半夏（泡水饮，二钱） 枳实（生，三钱）\n上为散，分三服，水一盏半，生姜三片、大枣一枚，煎至半盏，温服。\n黄连解毒汤\n黄连 黄柏 黄芩 栀子（各等分）\n上为散，每服一两，水一盏，煎至五分，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "傷寒心要論",
+        "寒",
+        "第四大柴胡合黃連解毒湯"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "aa6f7ead5e64d4a5161c33ac42c327f271f9578c646ae133cae48a7744c96dcb",
+      "content_sha256": "67575f53e227d484976563e624c8e76ff31672e690c564319bc846fcd1f592c1",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "809bb33e276fea08762b0030",
+      "title": "第五大柴胡合三一承气汤",
+      "volume": "伤寒心要论 / 寒",
+      "content": "三一承气汤\n大黄 芒硝 厚朴 枳实（各半两） 甘草（一两）\n上锉，每服二钱半，水一大盏，姜三片，煎至六分，入硝，再煎一二沸服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 41,
+      "source_path": [
+        "傷寒心要論",
+        "寒",
+        "第五大柴胡合三一承氣湯"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "63d4d9a92886aab236ce546dba628e222942f1ac7106c64e637dc8ff68dae501",
+      "content_sha256": "a430c60746ffd65dc4d50254174386d3b8059f64281eb95e6e76dc51ce3450ef",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        42,
+        43,
+        44
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "6182d91e951f266ad3c2b215",
+      "title": "第七瓜蒂散",
+      "volume": "伤寒心要论 / 寒",
+      "content": "瓜蒂散\n瓜蒂 赤小豆（各等分）\n上为末，豆豉汤调下一钱。未吐，再服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 46,
+      "source_path": [
+        "傷寒心要論",
+        "寒",
+        "第七瓜蒂散"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "609c0f1a6342ef35f6cdc66231860b818b79eb769abe73fce842dc004a44c33d",
+      "content_sha256": "b3787effb24a647e7cff7e0632c0cfc4ca00ec622f82d40159bb134a3dc611ca",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        47,
+        48,
+        49
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 34,
+        "simplified_codepoints": 34
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "b5b919d67c61f795f13d4a56",
+      "title": "第十一白虎汤",
+      "volume": "伤寒心要论 / 风",
+      "content": "白虎汤\n知母（一两半） 甘草（一两） 粳米（一合） 石膏（四两）\n上锉，每服五钱，水一盏，煎至六分，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "傷寒心要論",
+        "風",
+        "第十一白虎湯"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "822c63d9b522064bc71fc90a7cb258858196e8c048a41590d2b5e4c143586d87",
+      "content_sha256": "62947ca50285e7f88991d6c5727536a432e8d2181bef41e591c9d61732876eec",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        55,
+        56,
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 53,
+        "simplified_codepoints": 53
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "5db028b1bd12b6989de266e8",
+      "title": "第十四五苓散合天水散",
+      "volume": "伤寒心要论 / 暑",
+      "content": "五苓散\n猪苓 茯苓（去皮。各三钱） 官桂（一分） 泽泻（一两） 白术（一钱。《活人书》三分，《宣明论》半钱）\n上为末。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "傷寒心要論",
+        "暑",
+        "第十四五苓散合天水散"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "36d4565b02c407a85d8b1b0c44d002ae12e47108c1220528a53d4eb48f9e290a",
+      "content_sha256": "b4327beaf472a10c94aebcff3ff47a4751ce74d36c36243dd7d4edcc5e45c4ba",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        62,
+        63,
+        64
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "c7932c66f86a530fceb3d662",
+      "title": "第二十大小陷胸汤丸",
+      "volume": "伤寒心要论 / 结胸",
+      "content": "大陷胸汤\n大黄 芒硝（各二钱） 甘遂（三字匕）\n上锉，四钱，水一盏，煎大黄至六分，纳硝，再煎二沸，纳甘遂，温服。未利，再与。\n小陷胸汤\n半夏（四两） 生姜（切） 黄连（各二钱） 栝蒌实（半个，全锉）\n上锉，水三盏，煎栝蒌至盏半，纳药，煎至一盏，分作两服。\n大陷胸丸\n大黄（半两） 葶苈（二钱，微炒） 芒硝（一钱） 杏仁（十二枚，去皮尖，柴炭炒变色）\n上，大黄为末，研葶苈、杏仁为膏，丸如弹子大，甘草末三字、蜜半盏，水一盏，煎至半盏，纳硝温服一丸，一宿下。若未利，再与。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 71,
+      "source_path": [
+        "傷寒心要論",
+        "結胸",
+        "第二十大小陷胸湯丸"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "6e672c4de4b0ad45e0d82b4b7f0d8b75a8b319be7e542e02d7ecef9e3c5055bd",
+      "content_sha256": "70ac89b6ec4271afda4d8f4efa2fce8352b172680a49dd8bd8ebf278ec9cd75c",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 234,
+        "simplified_codepoints": 234
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "95c234eb02eaa5a5f4d5e676",
+      "title": "第二十二大承气汤",
+      "volume": "伤寒心要论 / 结胸",
+      "content": "大承气汤\n大黄（锦纹者） 芒硝（朴硝有芒头者） 厚朴（去丝） 枳实（各半两）\n上锉如麻豆大，分一半，用水一碗，加生姜三片，煎至六分，纳硝，煎一二沸，绞去滓，热服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "傷寒心要論",
+        "結胸",
+        "第二十二大承氣湯"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "a951b2a770ad2c6c09f38992ce1fe20e8aefeb23eb0eabfca433097be62166a1",
+      "content_sha256": "a6be255540288d4977466c3320b2c1703fd64c725f719f51bb89516c9d71da06",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        83,
+        84,
+        85
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 81,
+        "simplified_codepoints": 81
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "386930f304c8bd5ada56055d",
+      "title": "第二十五茵陈蒿汤调五苓散",
+      "volume": "伤寒心要论 / 发黄",
+      "content": "茵陈蒿汤\n茵陈（一两） 大黄（半两） 栀子（十枚）\n上锉，水二盏，煎至一盏，温服。利为度。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 90,
+      "source_path": [
+        "傷寒心要論",
+        "發黃",
+        "第二十五茵陳蒿湯調五苓散"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "edec0f6d5107172d487978cdd86d337f01133fcdb3bc0cab1864c2a7b339d9d6",
+      "content_sha256": "acbca3c9d084b0e35e1c0324c0f617c3f2803830ba7560a2e6bc6df6f21e0d93",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        91,
+        92,
+        93
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "f5aaae9f6b81d0898a9d0ef3",
+      "title": "第二十七栀子豉汤",
+      "volume": "伤寒心要论 / 心烦不眠",
+      "content": "栀子豉汤\n栀子（七个，锉） 豆豉（二合）\n上，水二盏，先煮栀子，至一盏半，纳豉，煮至半盏，绞汁，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 96,
+      "source_path": [
+        "傷寒心要論",
+        "心煩不眠",
+        "第二十七梔子豉湯"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "eea314690bf158d4b961ec1b636349d3c004e2836de7b3191a88acfbc66599ae",
+      "content_sha256": "7f108a97e5be54edb7ddb540f937f234bf0c229e6d3f60103caa48d1115e6e03",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        97,
+        98,
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "0a6b3da8631986cb9126c7cd",
+      "title": "第三十凉膈减桂五苓桂苓甘露饮益元散",
+      "volume": "伤寒心要论 / 汗后烦渴",
+      "content": "桂苓甘露饮\n茯苓（一两，去皮） 泽泻（一两） 甘草（二两，炙） 石膏（二两） 寒水石（二两） 白术（半两） 桂枝（半两，去皮） 猪苓（半两） 滑石（四两）\n上为末，每服三钱，温汤调下，或新汲水、生姜汤尤妙。\n上共十七方。如无大承气，系第五三一承气代之亦妙，通三十九件药味，调理伤寒，曲尽其妙，百发百中。后之学者，详辨脉证，审而用之，起沉疴于指掌，策奇功以活人，方知其妙也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "傷寒心要論",
+        "汗後煩渴",
+        "第三十涼膈減桂五苓桂苓甘露飲益元散"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "68038b0f0a26cf560a31d1111fe45a1cb2bba82960b65de8db41299862b03931",
+      "content_sha256": "e67bb0966b291875cead118eb5b8fdf5db583c397d7c70e0cac7e9ee7611f558",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 186,
+        "simplified_codepoints": 186
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "33d5d95d0f0cfba68eaed4f2",
+      "title": "新增病后四方",
+      "volume": "伤寒心要论 / 汗后烦渴",
+      "content": "小半夏汤 治汗下后呕吐不已。\n半夏（五两） 赤茯苓（三两）\n上锉，每服半两，水二盏，煎至一盏半，纳姜汁，更煎一二沸，温服。\n五味子汤 治汗下后气闭咳嗽。\n五味子（半两） 麦门冬 人参 杏仁 陈皮 生姜（各一钱） 枣子（二枚）\n上锉，每服二钱，水二盏，煎至一盏，作二服。\n大橘皮汤 治汗后胃虚。\n陈皮 甘草（各一两） 人参（二两）\n上锉，每服五钱，水一盏半，姜二片，煎至一盏，温服。\n赤茯苓汤 治胸膈满闷，头痛，已得汗者。\n陈皮 甘草 人参 半夏 川芎 白术（各等分） 赤茯苓\n上锉，每服五钱，水一盏半，姜三片，煎至一盏，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 110,
+      "source_path": [
+        "傷寒心要論",
+        "汗後煩渴",
+        "新增病後四方"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "cc80081fee4f61fa6e9155e115afe86acb7db79f40d2fb36efdd88d056a88584",
+      "content_sha256": "d6fac52d2f19e04339b17dedf36140d558b742e79ad0a3f2f464a7859c8d2e60",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 263,
+        "simplified_codepoints": 263
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "1a814301179a738fd344d0ea",
+      "title": "伤寒心要余论",
+      "volume": null,
+      "content": "五脏六腑，应五运六气，凡病微则当其本化，甚则兼其鬼贼之化，亢则害，承乃制。微则是其本经、本腑之本化，造化之化也，病甚则如金衰不能制木，木则生火，木火者，皆阳也，故风火多，兼化则风热相搏，贼其金也。脏腑之气，应乎三阴三阳，实则行乎本化之气，泻之衰则行其胜己之气，泻之是为杀其鬼贼也。如诸阳蓄热，以凉膈合解毒服之，解散极热。如泻火热，解毒、调胃承气是也。如吐法，用二仙散。如调理伤寒，白虎、凉膈合服解之。\n伤寒三日以里，连进双解。如无汗，必是传变，待三四日之间，以小柴胡解表里之热，仍间服白虎、凉膈。蕴热，七八日之间，欲下，而表证犹在，以大承气汤、大柴胡汤双行并煎，攻里发表，最为隐当。若是温热内甚，自利者，止凉膈，却进解毒、白虎服之。或恶心、干呕、吐者，白虎作一大剂，调解毒末五钱，服之即止。大小便不通，并有腹痛不能忍者，以无灰酒煎朴硝三两热服，即愈，亦按从治之法也。热中伏寒，下之矣，或大承气汤加木香泻之，尤妙。\n伤寒失下，始病时又误服麻黄热剂太甚，必致热极，或有阳厥极深，身冷脉微，阳极似阴之证，庸医以为阴证是也。须当急救其阴，以白虎、凉膈，日进三服。脉气渐生，身体渐温，然后以大承气下之。夫大承气，救急之妙剂。如咽膈吐逆不利，当令热服，开其热结，利而即愈也。\n如伤寒汗下之后，自汗虚热不止，于白虎汤内加人参、苍术，一服如神，汗止身凉。此法至妙，无庸详尽。\n如赤白痢，先服黄连阿胶丸，次服解毒汤。\n伤寒疮疡、破伤风，与伤寒治法一同，但以双解教与白虎、承气、临时斟酌用之。\n双解、凉膈、白虎、泻心，此理伤寒之妙剂。\n孕妇临月，可服益元凉胎，产后仍服。如血不尽，则以凉膈与四物合煎，调理经血。甚者，大承气合四物，乃泻中之有补也。凉膈同四物，名玉烛散，妇人产后之妙剂。凉膈、四物合大承气汤，名三和汤。大承气合四物，治妇人一切血积血聚等疾，加红花尤妙。\n初生儿五七日，有热证，不得已，只用益元散，时时灌之。如小儿夜啼，用凉膈调之，肚饥。临睡服。\n凡疮疡瘾疹，凉膈加当归治之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B2%B3%E9%96%93%E5%82%B7%E5%AF%92%E5%BF%83%E8%A6%81/index.html",
+      "source_ordinal": 123,
+      "source_path": [
+        "傷寒心要餘論"
+      ],
+      "source_sha256": "b923c73b9575925db6fed49f75e62ad3a6cf4f57858cad42f0981d9ed8bc2214",
+      "original_sha256": "39a06f09cd15914532725260266583acaeba3c23e19c330435f3e0dc89b242cb",
+      "content_sha256": "ea27834cc328ca358e8cee7e99b77b7a5a31d63a305d405d7e209b9c3783ab28",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 834,
+        "simplified_codepoints": 834
+      },
+      "order": 15
+    }
+  ]
+}

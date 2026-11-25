@@ -1,0 +1,510 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_584",
+    "name": "温疫明辨歌诀",
+    "summary": "《温疫明辨歌诀》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“辨温疫初起气色舌神脉”、“辨温疫与风寒异治”、“辨温疫兼风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "王旭高",
+    "jp": "WYMBGJ",
+    "aliases": [
+      "溫疫明辨歌訣"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "8b3326b81067af7ecca87d6a",
+      "title": "辨温疫初起气色舌神脉",
+      "volume": null,
+      "content": "温疫邪从胃达外，臭气蒸腾如腐败。（风寒从表入里，初起内无郁蒸，故无臭气，必待传阳明而后有汗屁之臭。温疫吸自口鼻，初起从中达外，便在阳明，即有臭气触人也。）望其面色如烟熏，垢晦油红非一派。（邪热蒸淫津液，上溢于面，油红者阳气胜，垢晦者湿浊盛也。）更观其舌必多苔，白如积粉黄如埃。（风寒在表，舌多无苔，即有白苔，亦薄而滑；渐传入里，方黄而燥，燥而黑。温疫一见头痛发热，舌即有厚白苔，或如积粉，或兼淡黄；又有苔白即燥，或灰黄而燥，此皆温疫初起之舌，所当详辨。）神识瞀乱如酣醉，烦躁胸痞闷即来。（风寒初起，神情清楚；及至传里，始见神昏，若温疫初起，即便瞀乱如醉，问其所苦而不自知也。）其脉不浮而但数，或见模糊勿疑猜。（风寒初起，其脉多浮。温疫初起，其脉必数；亦有模糊不清者。）沉迟莫作阴寒看，数而无力非虚灾。（郑氏曰：温疫初起脉沉迟，勿作阴寒断。沉者邪在里也，迟者邪在阴分也。或数而无力，亦勿作虚视，缘热蒸气散，不能鼓指也。但辨其气色神形舌合温疫者，即依疫法施治无疑。）气色舌神明辨的，温疫入手理无违。（气色舌神脉五者，辨之既明，知为温疫，而非伤寒，则凡于头疼发热诸表证，不得误用辛温发散；于诸里证，当清当下者。则清之下之，而无疑惑矣。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "辨溫疫初起氣色舌神脈"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "50b811c93d21055d1cf81c0fbda8ba7cc99f1b95f631b53ad5d61afed8bc863e",
+      "content_sha256": "657ecabb975001723bc6564a7e6a72b06f4242862fb00d5ef81f4246eab58374",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        2
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 515,
+        "simplified_codepoints": 515
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "cfd9f89f11ccd0efe0fee0b5",
+      "title": "辨温疫与风寒异治",
+      "volume": null,
+      "content": "风寒以温散为先，（羌活、紫苏、荆芥、防风之类。）时疫以凉解为要。（薄荷、牛蒡、豆豉、葛根之类。）风寒攻下不厌迟，风寒从表入里，直待里热里实，方可清凉攻下。若下之早，反引表邪内陷，而成结胸痞利等症。）时疫攻下不厌早。（温疫虽有表症，不得误用辛温发散，于诸里证，当清当下者，当即用之。伤寒汗不厌早，下不厌迟，温疫则反是。古但有温证禁汗之戒，而无禁下之律可考也。盖时疫邪气，自里出表，其气属热，故可早清早下，若必待痞燥实坚全而后下之，必致斑衄狂喘昏沉厥逆之险矣，医者可不知之乎？）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 3,
+      "source_path": [
+        "辨溫疫與風寒異治"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "c191646fe60f76e444f0630f6edd69dc208d06b5280a830ba474f98dbfb32bb6",
+      "content_sha256": "4ce934659d4c359f70198c3c49ce6873c6411eb6fad13b042b2831724f0f7caa",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        4
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 237,
+        "simplified_codepoints": 237
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "30fca142f8372372f7361c3f",
+      "title": "辨温疫兼风",
+      "volume": null,
+      "content": "时疫兼风表证同，喷嚏咳嗽此为风。（初起头痛发热恶寒，鼻塞喷嚏咳嗽，是伤风之见证，与时证伤风无异也。）因其脉亦多浮象，（风寒之脉多浮。）前（胡）桔（梗）荆（芥）防（风）苏（叶）杏（仁）松。（疫证兼寒能令病势增重，兼风反令病势轻松，因寒主收束，风主疏泄之故。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 5,
+      "source_path": [
+        "辨溫疫兼風"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "d8b7a6902f8bf2c9ac7b52dea6266de434ba7f62fe74f2cada690d7ff637f8d1",
+      "content_sha256": "c23d31caddeb1492a2998504e60834da894d8394031983167d528dbddff87dfb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "8f26aaab8ff64be3fa247528",
+      "title": "辨温疫兼寒",
+      "volume": null,
+      "content": "时疫兼寒散表先，头痛发热恶寒全。脉浮而数知为表，（时疫之脉但数不浮，若兼风寒必兼浮脉。）苏（叶）荆（芥）羌（活）防（风）柴（胡）葛（根）拈。寒重只须败毒散，（寒重疫轻者，无汗而恶寒盛，烦躁轻者可用之。）疫重加入达原（饮）宣。（疫重寒轻者，烦躁口臭证多，无汗恶寒证少，但取苏、荆、羌、防、柴、葛一二味，加入达原饮中可也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "辨溫疫兼寒"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "23b32d1375c81a9ff6d13fa588eed1864998938942b2288ae6e05044485ca536",
+      "content_sha256": "772ae6c9473fb8913754f643886d7bb5a5d5700e15d1900129585b9a5c7be671",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        8
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "a3e5f1da8e4f727e7645ab00",
+      "title": "辨温疫兼暑",
+      "volume": null,
+      "content": "时疫兼暑惟长夏，（时疫兼寒兼风，四时皆有；若兼暑，则惟长夏有之也。）脉细弦濡多吐泻。（弦细芤濡暑脉也。吐泻伤于暑湿也。）藿茹（汤）平胃（散）或四苓（散），燥脾利水随宜写。吐泻烦渴舌苔黄，方为兼疫无假借。（长夏吐泻，伤于暑湿为多，必烦渴苔黄有热象者，方为兼疫。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 9,
+      "source_path": [
+        "辨溫疫兼暑"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "5144aa4b1c17eb4db32e78808786615f38c9e3e25b10bef3644218af2eca409e",
+      "content_sha256": "73a7d32c920c7ff63c758fb98b0e845a731dfb8ffd3e80a6834ea393b2be2f7f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        10
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 130,
+        "simplified_codepoints": 130
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "b2cd0254d98829845f4b75aa",
+      "title": "辨温疫兼疟",
+      "volume": null,
+      "content": "时疫兼疟有三种，说与君家须记诵。似疟寒热无定时，达原饮内柴胡供。（邪伏膜原，欲达不达，欲陷不陷，故见半表里证，寒热无定时，一日或一次，或二三次。故曰似疟，宜达原加柴胡治之。）时疫转疟属余邪，参胡三白汤 为佳。（似疟在时疫证前属实，疫后转疟，虚中夹痰实也。）时疫兼疟最难治，吴氏书中颇详议。见疫当清当下之，疫退治疟斯无弊。（吴又可《温疫论》云：「疟疾二三发或七八发后，忽然昼夜发热，烦渴不恶寒，舌生苔刺，心腹痞满，饮食不进，下证渐具，此时疫已著，疟疾隐也，用疫法治之。时疫昼夜纯热，胸腹痞满，饮食不进，下后脉静身凉，或间日或每日，时恶寒而复发热如期者，此温疫解而疟邪未尽也，以疟法治之。」）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 11,
+      "source_path": [
+        "辨溫疫兼瘧"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "5e08c420189987990e9b661bc4fef0921fb12ba5e01d4271327e8c76c12d8b90",
+      "content_sha256": "b13443bc764dbc1f3d77871aab8aa345a7166f539210db8d17d7b7da75350bb5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 294,
+        "simplified_codepoints": 294
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "272beeb5148f25d7862a2158",
+      "title": "辨温疫兼痢",
+      "volume": null,
+      "content": "春夏之交时疫起，下痢红白为疫痢。发热头痛表里兼，人参败毒加陈米。不但香连不可加，淡渗分利亦须忌。（发热头痛为表，下痢为里；表里同病，法当先解其表，表解而里自和，多有不治痢而痢自愈者。古人于疫痢初起专主仓廪汤、即败毒散加陈仓米。疫痢初起不但香、连、芍药治痢之药不可用，即二苓、泽泻淡渗分利之品，亦不可施之表证未解之先也。）若夫疫毒势如焚，下痢纯红或纯紫，烦躁热渴或昏谵，芩连大黄急煎饵。（又不可拘先表后里之法也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "辨溫疫兼痢"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "ad6d4cbeed24bf21dd5d5e9f8fc9707536a86e999ef44329cf68dae64088ae66",
+      "content_sha256": "84713167f32b25b05185d362d659087de2c13eac2e12080638dd065388559900",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        14
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 206,
+        "simplified_codepoints": 206
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "d170c8cbd864b5f25faeca97",
+      "title": "辨温疫夹痰",
+      "volume": null,
+      "content": "时疫夹痰痰热燔，痰能生热热生痰。竹油栝（蒌）贝（母）牛黄等，清火消痰见一斑。时疫夹痰，其热愈甚，治法大略相同。但治疫法中加栝蒌、竹沥、贝母、姜汁，甚则神昏加牛黄。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 15,
+      "source_path": [
+        "辨溫疫夾痰"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "568f42a7bf51d142e31e1a9efe64dd739a8b6644c61475b7c6d65b2d2ee6e448",
+      "content_sha256": "fb13b8e0c7378c9ec1e131586871997c74e1def84a45704d7fa86e62b26d8228",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        16
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 82,
+        "simplified_codepoints": 82
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "2017ff7be8dd138b8de7581c",
+      "title": "辨温疫夹水（水即饮也）",
+      "volume": null,
+      "content": "时疫夹水证如何，满闷心胸常欲摩。以手按之无硬痛，揉之漉漉响声过。（水在胸膈，心下虽满，按之不硬，揉之漉漉有声，不比结胸硬满手不可按为辨。）脉迟而缓舌苔白，与疫相违治莫讹。（时疫之脉必数，而夹水之脉反见迟缓，治法亦异，不可不辨。）即见昏狂将化燥，舌仍白润渴无多。（时疫化燥苔必黄黑，若水在胸膈，即见昏狂诸证，而舌仍白腻，口不甚渴。）间有转黄见黑者，半边中段白仍铺。（时疫夹水化燥，间有苔转黄黑者，然必仍有白苔，或满舌黄黑，半边夹一二条，或舌尖舌本俱黄，中夹一段白色，此时疫夹水舌之辨也。）二陈（汤）平胃（散）四苓（散）辈，淡渗辛通两法和。（时疫夹水，虽有表证脉，不宜纯用辛凉散表；纯用辛凉，表必不解，转增沉困。虽有里证，不可遽用苦寒清里；早用苦寒，里必不除，转加昏愦，此水气郁遏热邪，宜于散解清里药中加辛燥利水理气之品，以祛水气。水气去，郁热得发，然后议清议攻，施无不效矣。如苍术、厚朴、半夏、茯苓之类，皆必用之药。余加芫花、大戟、甘遂，乃千中一试耳。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 17,
+      "source_path": [
+        "辨溫疫夾水（水即飲也）"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "0d9b7d050b1d7c33c9219cf71b372c82ec6cdd69eab5c3a340fb1073d62644ad",
+      "content_sha256": "21a53463f4033cd076ceb6cf5374ec479057b19bd6e7d6c067f9b11274b5e10a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        18
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 426,
+        "simplified_codepoints": 426
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "77add9e05eef50729a0e52d3",
+      "title": "辨温疫夹食",
+      "volume": null,
+      "content": "时疫恒多夹食成，在肠（在）胃（在）膈辨须明。胃宜消导肠宜下，在膈须将吐法行。（温邪夹食在胃，但须枳朴以消之；在肠则用硝黄以下之。胃肠俱实大承气，胃多肠少小承气，胃少肠多调胃承气。若食填胸膈，未入于胃，则宜吐之为捷也。）食填胸膈最难辨，往往肢寒脉反沉。但察胸痞苔黄白，急将枳（实）桔（梗）菔 莱菔（子）楂（山楂）烹。误投温剂邪深入，必致凶危烦躁增。（食填胸膈，阳气不得越达，往往脉沉肢冷，若误认三阴，投以温剂，必致躁烦倍增，然仍无热渴见象，若一误再误，必危。盖食填胸膈，气闭热郁，故外无大热，口不甚渴，此时但察其色气神舌为疫证，急于治疫方中加消食之药，甚则用吐法以宣之，使之气通热达。然后当表则表，当清则清，自无误治矣。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 19,
+      "source_path": [
+        "辨溫疫夾食"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "5ea7bfb103ac09809937afaf2a5bb73bcc87bac08a36ec02ee3d95e816ec6bc9",
+      "content_sha256": "f51d845d9a0005bbd8d10d6e26d2104d6395d4d522e054c74691d5f3294672f6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        20
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 310,
+        "simplified_codepoints": 310
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "3bc4602b31b99d0af8428918",
+      "title": "辨温疫夹郁",
+      "volume": null,
+      "content": "平时气郁感时温，痞呕肢寒脉亦沉。郁属无形胸可按，不同夹食满而疼。（夹郁之证，痞满呕逆，手足冷而脉沉，颇类夹食；但夹食胸满痛不可按，而夹郁则胸膈痞闷串痛而可按）夹食舌苔厚（厚白微黄，）夹郁舌苔薄（薄白）。舒郁必疏通，郁（金）贝（母）香（附）苏（梗）属。（疫邪夹郁，先宜疏通其郁，如郁金、贝母、香附、苏梗之属，然后解表清里，自无不效矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 21,
+      "source_path": [
+        "辨溫疫夾郁"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "759883ddbbea49fc50fe165641e77ffb4c1fca8e97909a6e2f0043747da37dc0",
+      "content_sha256": "1c1c1aeab20809793b0bf8bb169454c7b3146941b0d7cc3f803632888339c3cb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        22
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 166,
+        "simplified_codepoints": 166
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "39dcf56add91d3d58c8fccfb",
+      "title": "辨温疫夹血及蓄血",
+      "volume": null,
+      "content": "蓄血结于时疫后，（热邪传里，与血相结而后蓄血。）夹血伤于时疫先。（先有内伤，后感时疫谓之夹血。）蓄血消瘀攻下合，夹血消瘀解表联。（消瘀虽同，但蓄血宜下，而夹血宜兼解表，夹血热邪初起，尚未入于血分，故于消瘀中当解表实，表法中兼消瘀，恐热与瘀著，增其势也。蓄血热邪并归于里，与血相结，故消瘀攻下并施，去其附丽者也。）热邪入里与血结，少腹硬满蓄血诠。喜忘如狂小便利，大便光滑黑且坚。（此蓄血证的据。）疫邪夹血在初时，脉涩或芤舌暗紫。胸腹胁肋与四肢，按之濡软痛不止。（此夹血证的据）桃（仁）红（花）归尾 芍（赤芍）延胡，解表方中加味使。（治夹血用桃仁、延胡等一二味加入解表方中。）若夫治蓄血，当分上下焦。上焦（喜忘如狂或衄血。）犀角地黄（汤）好，下焦（少腹硬满，小便自利如血。）桃仁承气（汤）调。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 23,
+      "source_path": [
+        "辨溫疫夾血及蓄血"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "cb522b4161d13aa42c9171fc5f7d64589e4b058dc62dbda0e2307c40ed83ea56",
+      "content_sha256": "f65126c19e6b94c1688ad24ed55e7c05763459910707228249916b9c52393e2d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        24
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 344,
+        "simplified_codepoints": 344
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "57e3b5ae13bcc44708728b88",
+      "title": "辨温疫夹脾虚",
+      "volume": null,
+      "content": "疫夹脾虚最难治，汗下必兼扶正气。发表人参败毒散，攻里黄龙汤法宜。神情倦怠气息微，面色痿黄耳鸣（心）悸。（皆脾虚之见象。）要知时疫实热多，独于虚处须留意。（如通体皆见实象，而有一二处虚象，则虚象反为吃紧。通体见虚象，而有一二处实证，则实者又为吃紧。到此虚实关头，必须留意也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 25,
+      "source_path": [
+        "辨溫疫夾脾虛"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "f559d64b9e0850a685854468e6bd62c8e9bb6534e014a3a6b60017aa8a96e2f6",
+      "content_sha256": "ed9fd98976c6e1a72909a7f5a11f9a95a656d2d7c385494a878b74427562472f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        26
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 137,
+        "simplified_codepoints": 137
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "0715c580d0d8d9e3022168fc",
+      "title": "辨温疫夹肾虚",
+      "volume": null,
+      "content": "疫夹肾虚见机早，十中仅许二三好。（见机早治，十许二三。）救阴犹易阳虚难，（热病救阴犹易，通阳最难。救阴不在补血，而在养津以渍汗；通阳不在温补，而在化气以利小便。）脾肾二虚一不保。（肾虚感疫，若更脾虚胃败，呕恶，呃忒、下利，汤药不纳者，百难救一。）平日腰痛淋浊遗（精），肾虚感疫莫迟疑。初投表剂加（人）参（白）芍，（平日有肾虚腰疼，遗精淋浊等证，感受疫邪，初时投表散药中即便加入人参芍药，照顾肾气之本。）清里人参白虎（汤）施。（当清必以人参白虎为主。）攻下黄龙汤合法，（当下必以黄龙汤为主。）救阴六味地黄（汤）宜。屡清屡下热更甚，生脉（散）六味（地黄汤）二方随。必须大剂方能救，杯水车薪难解危。（屡清屡下而热更甚，舌上燥无苔；或有黑苔，愈清而愈长；或有燥苔，愈下而愈燥，此系水亏火旺。察其阳明无实热可据，当用大剂六味地黄汤，壮水之主，以制阳光。若仍不应，合生脉散以滋水源，必须大剂与之，方克有济也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 27,
+      "source_path": [
+        "辨溫疫夾腎虛"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "f0a6260c52638ddea6553a72486e44678720bde4bbac0e1d24b68a8b520d8e10",
+      "content_sha256": "a33b2cf435080f3b7b2fc9eec690768ee61ae0f14bbc099832acebb7cb35f011",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        28
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 399,
+        "simplified_codepoints": 399
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "44c6540506499deb253f34f8",
+      "title": "辨温疫夹亡血",
+      "volume": null,
+      "content": "疫夹亡血证有三，病前初病病中间。先亡血而后患疫，清解之中养血参。（散表清里药中，步步照顾其阴，如生地、玉竹、人参、白芍之类。）若夫疫病方初起，吐衄崩红忽然至。庸师但晓用清滋，讵识祛邪血自止。神（烦躁）气（臭秽）分明现疫邪，舌苔（黄白）脉（数）色（油垢）更无乖。虽然亡血休惊怕，加减达原饮最佳。（有疫象可凭，虽见亡血之证，仍以达原饮为主。衄血加山栀、茅根；吐血加三七、丹皮、银花；血崩加茜草、丹参、地榆炭。）脱血过多须益气，人参加入用无差。（脱血过多，气欲绝者，急用人参。）更有疫邪深入里，伤阴动血血如沸。鲜红为热紫为瘀，犀角地黄（汤）加味使。（清热加黄芩、黄连，逐瘀加桃仁、赤芍。）便血如注身热除，神昏舌燥为难治。生脉（散）六味（地黄汤）龟（版）阿胶，峻补真阴救一二。（热邪炽盛伤阴，便血如注，身热反除，而神昏舌燥者，最为难治。惟有峻补真阴，如生脉散，六味地黄汤加龟版阿胶等，或十中救其一二。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 29,
+      "source_path": [
+        "辨溫疫夾亡血"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "f9e337177f6002100513e34f7db74b61c76134c7d6724dcb94edef0c04f56a54",
+      "content_sha256": "e1ee0c323abf4e6fc131a12a82a82e2bf2ceb6597a7656e08b43a5b6370c7f20",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        30
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 397,
+        "simplified_codepoints": 397
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "c5ade2c725e95f105cd07293",
+      "title": "辨温疫夹心胃痛（附疝气）",
+      "volume": null,
+      "content": "心痛疝气本宜温，一感疫邪温更疼。气色舌苔皆疫象，疏通仍宜达原（饮）君。（心胃痛与疝气皆喜温通，如姜、桂、吴萸之类。若一受疫邪发热，仍以达原饮开达膜原，若用温药，反致危殆。时疫夹疝，但治疫而疝自消，若兼心胃痛，亦当治时疫为主，可于达原饮中加木香、苍术，以开通郁疫，邪达而痛即止。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 31,
+      "source_path": [
+        "辨溫疫夾心胃痛（附疝氣）"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "c3f15dce3aadc496f11571147418575a6741a99215214893069fd6d63ae0c35d",
+      "content_sha256": "80e0d928506e19de3aaceca2fd665e5ee683e0423289010ffe6600a3495f4a78",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        32
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "deed2cfdae97a607991679c1",
+      "title": "辨温疫夹哮喘",
+      "volume": null,
+      "content": "素患哮喘肺有痰，疫邪触发便生喘。（一受疫邪其喘便发。）桑皮栝（蒌）贝（母）苏（子）前（胡）豉（豆豉），解散（疫邪）消痰喘自安。\n旭高按：以上兼证五条，夹证十条。兼者疫邪兼他邪，皆自外来者也；夹者疫邪夹内病，内外二病并发也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%BA%AB%E7%96%AB%E6%98%8E%E8%BE%A8%E6%AD%8C%E8%A8%A3/index.html",
+      "source_ordinal": 33,
+      "source_path": [
+        "辨溫疫夾哮喘"
+      ],
+      "source_sha256": "751a77a4776ad05f9e86e4015b92fa7e886e078d244f65ec81d21fe0f081857e",
+      "original_sha256": "d448aa2947f1802e6ac55bb425325d1ace3d8d75cbec08dce34f7f1f519cc120",
+      "content_sha256": "a6cb8e4235db5c68a9eff7aff417874d6dc5c8f574855c6fbf8a3fc76ad2eb24",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        34,
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 17
+    }
+  ]
+}

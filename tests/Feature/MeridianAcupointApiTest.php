@@ -126,6 +126,50 @@ class MeridianAcupointApiTest extends TestCase
             ->assertJsonCount(1, 'data.items')->assertJsonPath('data.items.0.id', 1);
     }
 
+    public function test_acupoint_titles_support_the_gv24_plus_and_extra_point_codes()
+    {
+        DB::table('t_acupoints')->insert([
+            ['acupoint_id' => 161, 'name' => '印堂（GV24+）', 'pulse' => '督脉'],
+            ['acupoint_id' => 138, 'name' => '外劳宫（EX-UE8）', 'pulse' => ''],
+        ]);
+
+        $this->getJson('/api/acupoints?channel=' . urlencode('督脉'))->assertOk()
+            ->assertJsonPath('data.items.0.name', '印堂')
+            ->assertJsonPath('data.items.0.code', 'GV24+');
+        $this->getJson('/api/acupoints/138')->assertOk()
+            ->assertJsonPath('data.name', '外劳宫')
+            ->assertJsonPath('data.code', 'EX-UE8');
+    }
+
+    public function test_acupoint_location_image_is_resolved_only_from_the_configured_image_origin()
+    {
+        $locationPath = '/upload/material/image/2015/10/14/1444794331858228.jpg';
+        $picturePath = '/upload/material/image/2015/10/14/1444793825601930.jpg';
+        DB::table('t_acupoints')->where('acupoint_id', 1)->update([
+            'locate' => "云门下一寸<img src=\"{$locationPath}\">",
+            'pictures' => "<img src=\"{$picturePath}\">",
+        ]);
+
+        config(['database.acupoint_image_base_url' => null]);
+        $this->getJson('/api/acupoints/1')->assertOk()->assertJsonPath('data.location_image', null);
+
+        $base = 'https://images.example.org';
+        config(['database.acupoint_image_base_url' => $base . '/']);
+        $response = $this->getJson('/api/acupoints/1')->assertOk()
+            ->assertJsonPath('data.location_image', $base . $locationPath)
+            ->assertJsonPath('data.locate', '云门下一寸');
+        $this->assertArrayNotHasKey('pictures', $response->json('data'));
+
+        DB::table('t_acupoints')->where('acupoint_id', 1)->update([
+            'locate' => '<img src="https://other.example.org/untrusted.png">',
+        ]);
+        $this->getJson('/api/acupoints/1')->assertOk()->assertJsonPath('data.location_image', $base . $picturePath);
+        $this->assertArrayNotHasKey('location_image', $this->getJson('/api/acupoints')->assertOk()->json('data.items.0'));
+
+        config(['database.acupoint_image_base_url' => 'http://images.example.org']);
+        $this->getJson('/api/acupoints/1')->assertOk()->assertJsonPath('data.location_image', null);
+    }
+
     public function test_acupoint_detail_returns_all_clean_business_fields_without_pictures()
     {
         $response = $this->getJson('/api/acupoints/1')->assertOk()

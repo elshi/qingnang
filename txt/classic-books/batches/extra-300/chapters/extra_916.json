@@ -1,0 +1,3073 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_916",
+    "name": "喉科指掌",
+    "summary": "《喉科指掌》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“叙”、“咽喉大纲论”、“喉舌分经说”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "张宗良",
+    "jp": "HKZZ",
+    "aliases": []
+  },
+  "chapters": [
+    {
+      "chapter_key": "403fc46faf7a8ae52cd58294",
+      "title": "叙",
+      "volume": null,
+      "content": "夫医之为类最繁，其为道甚难，而于咽喉一科则尤难之难者也。咽以纳食，喉以纳气。纳食者，为胃脘，下通于脾，从土化，纳气者，为肺脘，下通于心，从金化。金性燥，其变动为涩，涩则闭塞而不仁，故喉病谓之痹。土性湿，其变动为泥，泥则壅胀而不通，故咽病谓之肿。治咽喉者，夫人能知之，而至其证之虚实寒热，与夫治法之攻补升降，所为剖析于毫芒，折衷于疑似者，非聆音切脉、辨气察形，鲜不以铢黍之差，成淄渑之判，即或兢兢栗栗，试探揣摩，恐不得当。顾势急而救之以缓，伤重而扶之以轻，因循之害，其去谬戾几何，故曰难之难者也。吾郡留仙张先生素精医理，其于咽喉一科，究心益深且久，采缉成方，参以己见，条例详细，裒集成编。自神气脉理，以及色之青红紫白，音之高下沉浮，一一皆有注释，了然指掌，较答列眉，合诸所治之症，如灯取影，百无一失。真济阨之慈航，拯危之宝筏。其所经验取效，盖不可胜纪。同人咸怂恿付剞劂，俾远近之习是道者，流传其说，发挥其蕴，其为功于世宙也，何可涯量。是为序。\n乾隆丁丑春王二月赐进士及第浙江提督学院共部左侍郎长洲彭启丰芷庭氏拜撰",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "敘"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "dc529c3700dd3ce3719b6540cf8288699c769ee9d7d6f50f950ae4871237475b",
+      "content_sha256": "dbd04d4dec04e5d75464f8a3765bee9b6c7b0d6b7195a37b666b0e1cef284e83",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 455,
+        "simplified_codepoints": 455
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "4836b265225d1b5d1ddcd344",
+      "title": "咽喉大纲论",
+      "volume": "卷之一",
+      "content": "夫咽喉者，左为咽，右为喉。咽属胃，喉属肺，乃一身之总要，百节之关防，呼吸出入之所也。经云：一阴一阳结而为喉痹。痹者闭也。有风、有寒、有火、有湿、有毒、有虚，或风火相传，或寒湿相聚，其症不一，变幻不测。故漫肿而痰多者风也，淡白而牙紧者风寒也，紫色不肿而烂者伏寒也，红肿而脉浮者风火也，脉沉实烂而不肿者毒也，脉细数而浮者虚火也，细迟者虚寒也。风火寒湿毒虚，皆类而推之可也。大凡初起之症，胗右寸洪紧者，肺风也；两关浮数者、胃火肝风也；左寸浮洪者，心火也；右寸沉迟者，□伏寒也；沉数者，伏热也，右尺洪大者，三焦火旺也；左尺洪而有力者，肾虚火也。此数部脉者，乃大略也。可总用六味汤加减治之。若凶险等症，须胗其脉、相其形，再详其受病之源，细诘其所起之端，而用药对病自然愈之速矣。故凡治咽喉之症，其要在于脉与形名耳。经云：神圣工巧，不过望闻问切，以此推详，庶无差误。余习几十年来□□□□□见其效，今谨集要方九方，制药法、看治法临症□□□□□□诸其人也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 5,
+      "source_path": [
+        "卷之一",
+        "咽喉大綱論"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "d0e3867ffeb9fd4cd51e67b0eceb26e172713fac137180996b9ca899e1bce20a",
+      "content_sha256": "b0759a889a26d7d0e6b71acde56f9aeca9e9e5d4a477f0e13fbe52834d967f07",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 419,
+        "simplified_codepoints": 419
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "aee56fa788889402c3e07eea",
+      "title": "喉舌分经说",
+      "volume": "卷之一",
+      "content": "喉有二孔，左为咽，属胃（纳食之关。）右为喉、属肺（纳气之关。）口内上腭属胃（阴分），下腭属脾（阳分），舌之中心属心，四围属脾，舌根亦属心经，小舌名帝丁属胃。喉之左右通舌根者肝经，外两耳垂下肝经。舌白苔属寒，黄苔者属热，如焦黄者热甚，黑者热之极。凡舌苔不论黄焦黑，以指摸之而滑有津者，非真热也，不可一味凉药，用八味丸引火归原之法。大舌边红，脾之火也，可用清凉之剂。喉痈地位属肝，再进内寸许，或烂或肿，俱属脾胃火毒之症。结毒者亦有之，但两关脉浮者，非结毒也，沉者为真。此乃分经之大略，若喉舌诸症，另后分形，细查无谬。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "卷之一",
+        "喉舌分經說"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "935b0d57239a259e17e6ebb52c08c57ca50c9ae092a280d201006c0f49896910",
+      "content_sha256": "6bac0d2e6e5522f58ee69e94fd25742ba476f1a5cf260745ad460df284e79ad9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        8
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 256,
+        "simplified_codepoints": 256
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "ff099fc98acc8223e32a237b",
+      "title": "咽喉看治法总要",
+      "volume": "卷之一",
+      "content": "（共十四条）\n凡治毒症之法，须看其气血壮盛者，多服凉药不妨。如气血衰弱者，凉药不可多用，多则气血愈衰，即用十八味神药为妥。\n凡治喉中红肿者，须视或痈、或蛾，认症不真不可下他药。先用六味汤一服，吹金不换。然后查清，加减可也，切不可轻易加减。急者先针患上出血亦可。\n凡帝丁在咽喉当中，为人一身之主宰，动刀针时切宜防犯，犯则血出不止。痼肿极难治也。\n凡夜深看症，须得细照，再三推详。如见症不真，不可轻用刀针，乱投药石，先服六味汤一帖，令患者漱吃，以俟天明再看。\n凡看症或病者痛肿，口不能开，吹药不得者，灸颊车穴三、五壮，或用通关散吹鼻内，或煎水灌于鼻中亦可，令病者连连咽下，开口为度。\n凡针舌下两边青筋，血出鲜者易治，成块黑者死。若痰血热结于胸中，连服凉膈散，消痰解毒为妙。\n凡诸药料，必须拣道地者预备，俱为细末，临期急用，将白滚水泡一刻，去渣，频漱咽下为度。如煎，不可多煎，数滚为准，多煎则不效矣。\n凡每年有时疫喉风，俗名鳗鲤瘟。两腮肿胀，沿街遍巷有一门传染者，此症乃少阳经之患。用六味汤加苏叶、羌活、牛蒡、柴胡各一钱，服之可愈。如一门人多，用十服之料，煎一大锅，每人分吃。\n凡针必须以银打就，细如大引针，头上一粒如菜子样，略凿一小缺。有用针头灸之法，取其易放艾员耳。\n凡艾要陈者为妙，员如小绿豆大，置于针头缺处，以香燃之灸，或多少不一，看症之轻重耳。（此为针头灸。）\n凡喉枪不可用钢阔头长大者。近来病人多畏用手法，况喉间地步窄侧，如动手之时，病者或摇头退缩，恐伤他处。必要或铜，或金银，外打一小筒，中藏利刃，收放在手，捺出则锋露，收之则藏，不伤别处矣。\n凡针身、首、四肢之穴必用细针，惟十指五穴，可用三棱针针之，以血多为妙。\n凡看症，若病者以舌叠起，则不见喉间矣。必须以物压之，则舌不叠起矣。或骨，或牙，或角皆可，压舌之具。\n凡治应病方药，必须依此分量，不可因药味太重，以大黄等为峻利，心生疑忌，不敢服之。余存心济世，决不用重剂误人。古云：有病则病当之，岂有害于患者哉。更不可轻听人之言，反误其事。惜乎！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 9,
+      "source_path": [
+        "卷之一",
+        "咽喉看治法總要"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "2144cdaac6a7a2716a790e235f420436ed4a9316e5e88c762c616c4e74a2a69b",
+      "content_sha256": "0357a80c32ab899b3d446952c365c1798089baceff8ecdcf49dd4b8238658978",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 851,
+        "simplified_codepoints": 851
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "4d4ee23fca5c2cf9da93aa59",
+      "title": "十六绝症",
+      "volume": "卷之一",
+      "content": "舌卷囊缩 油汗如珠 哑喉呛食\n吐血喉癣 声如锯错 鼻扇唇青\n脉细身凉 角弓反张 十指无血\n喉干无痰 六脉沉细 大便十日不通\n天柱倒折 两目直视 壅痰气塞\n喉菌不治",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 25,
+      "source_path": [
+        "卷之一",
+        "十六絕症"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "d3ff2ff3cbdfaa4e154274e61358a1a2d715164fd67a751d808a64b6bbea74f7",
+      "content_sha256": "4abf21d5ac1a6170c318f52ee374750e94518098159e7ae5d80740c67ebed588",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 81,
+        "simplified_codepoints": 81
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "89b94cb8b6ce5b0404dcf4cb",
+      "title": "又四绝症",
+      "volume": "卷之一",
+      "content": "走马喉风 锁喉风 走马牙疳\n缠喉风\n（此四症皆凶险之症。若不吐、不泻、针之无血、药不能入，俱为不治，医者慎之！）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "卷之一",
+        "又四絕症"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "6260f1633f7432b8ea11bf781b0ed4014879b0538743ec6ed54ad9181914a508",
+      "content_sha256": "0daa021c4b7f616b171deb423f8fde6b6696f92dc9c9a9f89e70eb5eb210696a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        33,
+        34,
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 56,
+        "simplified_codepoints": 56
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "42e5031e1b312336136b3386",
+      "title": "右手图",
+      "volume": "卷之一",
+      "content": "〔图版未收录：右手图〕\n肺脉浮涩而短，脾脉缓而散大，命门脉缓而悠洋。三部之脉，呼吸四至为平，反此则病。迟则寒，数则热，细缓则虚寒，细数虚热。\n（右手三部：寸属肺与大肠、关属脾与胃、尺属命门三焦。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 36,
+      "source_path": [
+        "卷之一",
+        "右手圖"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "54c861ba5f6fff70d3c05bc90390b2ecf7cb8022876d203feb449c2712cb3f7f",
+      "content_sha256": "ef1a661f4f147f7bcb5d85f7e97fc50b59f7ec2b21fe19eba95315d75044941f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        37,
+        38,
+        39
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 98,
+        "simplified_codepoints": 98
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "85eba33328aed4ec893a1597",
+      "title": "左手图",
+      "volume": "卷之一",
+      "content": "〔图版未收录：左手图〕\n心脉悠洋缓散，肝脉沉而弦长，肾脉虚细（女尺宜大，四至为平，反之则病。）病脉同前。\n（左手三部：寸属心与小肠，关属肝与胆，尺属肾与膀胱。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 40,
+      "source_path": [
+        "卷之一",
+        "左手圖"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "d06fd44ffa6e65eebd12efe964cb2b772e9a59eb0ab5357ab7251c6cbafcfaed",
+      "content_sha256": "ac9139e034932b3cd5bcdff43c8344c919e9b758a2815bf243d74164e2ad8004",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        41,
+        42,
+        43
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "ca91f73b2cbbcadaa32e7101",
+      "title": "针穴图",
+      "volume": "卷之一",
+      "content": "〔图版未收录：针穴图〕\n颊车穴：足阳明胃经\n少商穴：手太阴肺经\n商阳穴：手阳明大肠经\n中冲穴：手厥阴心胞络\n关冲穴：手少阳三焦经\n少冲穴：手少阴心经\n凡六穴应病行针。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "卷之一",
+        "針穴圖"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "ae321cea8e910ee0cc5f7f37fcb4d0901fc2efd99a28aecd73adb4c0ba642f27",
+      "content_sha256": "36eabfbe6f533f08784b06e5864fe81ee75a17b55ad222e06efa5876d6eb64e2",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 83,
+        "simplified_codepoints": 83
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "031c4468eef6e65b73a96416",
+      "title": "精选应用诸方",
+      "volume": "卷之二",
+      "content": "（九方）\n漱咽喉七十二症总方——六味汤（治一切咽喉不论红白，初起之时，漱一服可愈。）\n荆芥穗（三钱） 薄荷（三钱，要二刀香者妙） 炒僵蚕（二钱） 桔梗（二钱） 生粉草（二钱） 防风（二钱）\n上药俱为末，煎数滚去渣，温好，连连漱下，不可大口一气吃完。如煎不得法，服不得法，则难见效。须依如此为度。倘要紧之时，煎及白滚水，泡之亦可。（此乃总方，看症之形名，然加减他味后临症可细查。）\n雄黄退肿消痰药（凡初起之症，风痰上壅者，吹之即退。）\n银硝（一两二钱，水飞过用） 玄明粉（二钱） 白硼砂（二钱） 雄黄（八钱，拣上好红明大块者。）\n上俱为细末吹用。若伤者、烂斑者，恐太痛，不可轻用。\n金不换吹药（治火症痘疳、牙疳、喉间溃烂者，吹之甚妙。）\n人中白（五钱，煅存性用） 细柏末（三钱） 青黛（六钱） 玄明粉（三钱） 白硼砂（三钱） 西瓜硝（八钱，制法在后） 冰片（三分）\n上为细末吹用。若烂斑有深潭者加龙骨、象皮、赤石脂（各三钱），同研吹之。痘疳加川连、胡连、甘草、人中黄、银粉雪（即瓜硝之飞出者也。）每金不换重一钱，五味各加（五分），合搽之。喉癣、喉疳加银粉雪每钱（三分）。\n烂喉八仙散（凡咽喉溃烂者服此药。）\n人中白（一两，煅存性用） 生大黄（一两二钱） 生石膏（五钱） 玄参末（六钱，盐水炒） 黄芩（一两四钱，酒炒） 玄明粉（七钱） 僵蚕末（三钱） 瓜硝（八钱） 轻粉（一钱）\n共九味研末，每服二钱，放舌上，津化咽下，连连不断，则烂斑自去矣。\n散痰珠黄散（治风痰上壅之症，每服三钱。）\n金星礞石（一两五钱，同硝炒） 生大黄（一两五钱，末用） 白硼砂（一两） 玄明粉（六钱） 瓜硝（八钱） 真川郁金（六钱） 海浮石（六钱）\n共研为末用。若痰多者，用五钱生大黄泡汤送下。如不然，即六味汤药水送下亦可，淡姜汤亦妙。\n通关散吹药（治咽喉急症。）\n细辛末（一钱） 猪牙皂（三钱） 藜芦（二钱） 白矾末（一钱）\n俱为细末，冲滚水，灌喉间。淡姜汤亦可。\n十八味神药（治一切烂喉毒症。）\n川黄连（一钱） 白藓皮（二钱） 黄芩（二钱，酒炒） 紫地丁（二钱） 当归（二钱） 赤芍（二钱） 河车（二钱） 山栀（一钱五分，生） 生龟板（三钱） 木通（一钱） 甘草（二钱，生） 川芎（一钱五分） 连翘（二钱） 乳香（五分） 金银花（二钱） 花粉（二钱） 皂角刺（一钱五分） 知母（二钱，盐水炒）\n以上诸药滚水煎服。结毒加土茯苓（四两）、何首乌（四两），煎汤代水服。火症烂喉加生大黄（四钱）、生石膏（四钱）为妙。\n灵保玉枢丹（治一切毒症，兼毒喉。）\n山慈菇（洗去毛，净末焙，二两） 文蛤（一名五倍子，净焙二两） 麝香（三钱） 雄黄（五钱，红明大块者） 千金子（四两净去油壳一两） 红牙大戟（四两五钱为净末一两五钱） 草河车（二两五钱为净末二两）\n以上诸品共为细末，择天德月德天医黄道吉日，或五月五日午时亦妙，斋戒焚香洁净，用浓米饮汤调和打成千余下为度。每服五、六分，甚者一钱，可查《外科正宗》上乃见其神效。\n结毒紫金丹（此方治杨广疮毒喉症，唇鼻破坏，并下疳等症，服之可痊。服者必须土茯苓汤送此药下，余作茶。凡毒气随经络而结，恐喉间小舌皆能结聚。故治咽喉者，不可不知。）\n龟板（五两炙焦，浸酒浆内，再炙，反复炙之，涂酒三次，焦黄为度。即研成细末净二两。龟自死为败，大者更妙） 石决明（九孔者佳，童便浸一次炙净末二钱） 朱砂（大块者佳，净末二钱）\n以上其研极细，烂米饭捣为丸，小绿豆大，每服一钱。若病在上，饭前食，病在下，饭后食。若满身筋骨痛，用酒服。腐烂者，土茯苓、何首乌同煎服。其功胜于五宝散。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "卷之二",
+        "精選應用諸方"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "88fb8a4b43c168114f9231460e6722069763fe10ff6f72bfae2bea5b9eb3c6c2",
+      "content_sha256": "3937ff6addd54962779cedea8f49406903114270e0c21fcde08d755dae935850",
+      "paragraph_count": 28,
+      "paragraph_ordinals": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1482,
+        "simplified_codepoints": 1482
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "13d2455b872315a5f8b51aef",
+      "title": "制药法",
+      "volume": "卷之二",
+      "content": "（四法）\n制西瓜硝\n觅上号头藤西瓜，或一个，或二个，用稻柴垫好，放在干燥厨内。至立冬日，将瓜盖捥去，腹中瓤取去七分，皮上肉剩三分，用皮硝二斤或斤半，看瓜之大小，盖好，用线络之，悬向背阴屋檐下，至冷冻之期，其硝自飞出瓜皮外，颜色如霜。用刷帚轻轻拂下，以盘盛之，包好，至三、五日一取。至春间将瓜内所剩之硝安好，候到立冬，将新鲜瓜盛之，再加半斤或一斤，仍旧悬好，皮外飞出取之，如此二次，中间之硝亦好，不必再做。可治喉癣，喉疳诸火症。溃烂者吹之不痛。外皮飞出者名银粉雪，其功可并紫雪。\n制人中黄\n将大毛竹筒一个，两头留节，凿一圆眼，用大粉草不拘多少，为末细填满为度，用生漆将眼针好。刮去竹皮，通身钻满细眼。抛入大坑中，十年止好，六、七年亦可用得，能治结毒、咽喉烂、牙疳、伤寒发斑，俱称圣药。\n制篇柏汁\n用柏叶嫩头摘在井水内，浸一次，即带水捞入石臼中打烂，若干，冲白矾水少许，出汁收在瓷器中。用时再冲白矾汤，连漱喉间。能治一切火症郁热、烂喉、烂疳。其性凉血润燥、清肝胃之火。况得松柏之气，医方珍之，不可轻忽。\n制胆矾\n用鲭鱼胆，不拘几个和白矾拌之，入猪尿胞内，挂在背阴之所。明年再入胆汁，仍旧风干。如此三次，遇急症泡汤灌吐。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 83,
+      "source_path": [
+        "卷之二",
+        "製藥法"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "1570970e09c41f2a6801af40b0332d513fc58d8dd93c7d2aaf662f2cdf933a53",
+      "content_sha256": "218da6e8e57976f7616b729b4c8e3f3fd555c0fcc0cdb31295483bebe5089b28",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 507,
+        "simplified_codepoints": 507
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "775ccf1fcdec606bd9aeed2e",
+      "title": "爰采应用诸方",
+      "volume": "卷之二",
+      "content": "（十二方）\n知柏地黄汤（肾虚门）\n六味地黄汤加 知母 黄柏（各五钱）\n三黄汤（火症门）\n黄连 黄芩 黄柏（各盐水炒钱半）\n三黄石膏汤 （表里门）\n三黄汤加 石膏（五钱） 山栀（钱半）\n犀角地黄汤 （胃火门）\n六味地黄汤加 犀角（二钱） 石膏（四钱）\n凉隔散 （《外科正宗》）\n连翘（一钱） 大黄（三钱） 芒硝（一钱） 甘草（一钱） 黑山栀（一钱五分） 黄芩（一钱五分） 薄荷（一钱） 加竹叶\n四物汤 （血虚门）\n川芎 当归 地黄 芍药（各二钱）\n八味丸 （肾虚门）\n六味地黄丸加 附子 肉桂（各三分冷服）\n大承气汤 （伤寒门）\n大黄（五钱） 芒硝（三钱） 厚朴（钱半） 枳实（钱半）\n黄连解毒汤 （火症门）\n黄连（一钱） 黑山栀（一钱） 黄柏（钱半） 黄芩（一钱）\n龙骨生肌散（外科门）\n龙骨 赤石脂 血衄 孩儿茶 象皮 朱砂 熟石膏\n大柴胡汤（中风门）\n大黄 枳实 黄芩 半夏 白芍 柴胡（等分）煎加姜枣\n万灵丹（《外科正宗》）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 93,
+      "source_path": [
+        "卷之二",
+        "爰採應用諸方"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "a80d5b36bc1f625b3ad229d96481f16580eef7a9e65eb37d32247f79c9188a56",
+      "content_sha256": "05e36639261729affbd3c2edbb487c1a9817b2b8b9c78e8f2edd9895986a5458",
+      "paragraph_count": 24,
+      "paragraph_ordinals": [
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 415,
+        "simplified_codepoints": 415
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "3e8b02136c09346a55d23cd0",
+      "title": "咽喉门第一",
+      "volume": "卷之三",
+      "content": "（十一症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "2836be256ab715ade291b08f15bd16de20059876e499714318f702b127b12523",
+      "content_sha256": "8de063090c3f4e419b243877ea4ea50ce417af2c71e87029aa38e86cdfb71316",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        120
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 7,
+        "simplified_codepoints": 7
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "eee41e67c4311e0a84dcc1d9",
+      "title": "帘珠喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：帘珠喉〕\n帘珠喉，满喉如白网油状，两边微肿，根有白点，带红色，小舌红肿，咽水大痛。此症因郁积热毒而发，其脉两寸浮洪，两尺亦洪大，上盛下虚之症也。治宜清火，用六味汤加：盐水炒黄柏（二钱） 酒炒黄芩（二钱） 盐水炒知母（二钱） 熟石膏（五钱） 山豆根（二钱）盐水炒玄参（二钱） 生山栀（一钱） 木通（一钱） 生地（二钱） 服一帖明日再加：连翘（二钱） 紫地丁（三钱） 大熟地（三钱） 牡丹皮（一钱） 草河车（二钱） 川连（一钱） 用金汁一钟或制柏枝汁一钟，冲服皆妙。吹紫雪、金不换，六、七日而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 121,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "簾珠喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "47c89a52fd802709161060df8326e4ee35da4b1abc9a282d0c075f22e1e31506",
+      "content_sha256": "54bdd55a044f6fb2ce6cc77d3f0de5b836d955c31ed943dfad9a92d0329d2d2a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        122,
+        123
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 253,
+        "simplified_codepoints": 253
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "9ebefdcfc8d5d0c942620e56",
+      "title": "呛食哑喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：呛食哑喉〕\n此症因伏邪在肺，声哑呛食，六脉迟细，甚属险症。余曾治一人，年近二十，患此三年。饭食少进，日惟吃粥，病在将危，就医于余。余胗其脉，病虽常久，脉尚有根，或可治之。用六味汤加：麻黄（二钱） 桂枝（一钱） 苏叶（二钱） 木通（一钱） 细辛（一钱） 白芷（一钱） 诃子（二钱） 皂核（二钱） 姜汁炒半夏（二钱） 连吃五六日，饭进三碗，声哑未除，换加：桔梗（一两四钱半，童便炒） 诃子（七钱半，童便炒） 甘草（七钱半，童便炒） 薄荷（一钱） 麻黄（一钱） 煎数滚漱而且吃十帖乃愈，后服补药健脾收功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 124,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "嗆食啞喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "4e88f2b2ded65be991a3a08d39d835da76bbbaf207664fc4cb638186b22e9c40",
+      "content_sha256": "a1088bd2428eb94bf0bc002aa3df3e6ec1ca95a536c966483a2ac5953a282642",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        125,
+        126
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 256,
+        "simplified_codepoints": 256
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "75f3c997797b8d36b5eebe0e",
+      "title": "内外肿喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：内外肿喉〕\n此症生于关内下部，阴阳相结，内外皆肿，或有烂斑、火郁之症。用六味汤加：酒炒黄芩（三钱） 熟大黄（五钱） 海浮石（二钱） 吹紫雪金不换。明日换加：丹皮（一钱五分） 生地（二钱） 酒炒黄芩（二钱） 生石膏（三钱） 山栀（一钱） 木通（一钱）即针：少商、商阳两手四穴。如背寒加羌活，胃泛加葛根、柏枝汁亦可漱之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 127,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "內外腫喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "9c962d8be510e2dc0925910db79753caee23f5b2db2a35cf4634bbb8c8059a5c",
+      "content_sha256": "36471ff4174f0b0b0fbd05f9d44be1e902ea1d37d165ca4144bd86d4780b7acb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        128,
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "cdd493e417f8f6490c84a7ad",
+      "title": "风热喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：风热喉〕\n此症感风热而起。满喉发细红点，根带淡白，舌下两边三四块，六脉洪紧。用六味汤加：盐水炒玄参（二钱） 酒炒黄芩（二钱） 山栀（一钱） 花粉（一钱） 一服即愈。吹金不换，兼服八仙散。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "風熱喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "a5b8cc3ffc0c84b9b719feef3a75da214d3d37f94384ac56389f45d7d49fb56a",
+      "content_sha256": "1da9a108262b0d2e055a2dc1cfadff9ce37aac2cde44a68556b6cc09e3a4ecc4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        131,
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 100,
+        "simplified_codepoints": 100
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "91433978fca026f0df1b7262",
+      "title": "紫色虚喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：紫色虚喉〕\n喉间紫红，久之变烂。如生漆色。因初起早服寒凉故也。此症肺胃伏寒，平而不肿，饮食难进，吐出腐肉者，急治之。如见此症认为火症，反用三黄汤、犀角、羚羊角等药，吃成死症，惜哉！余凡见紫色之症，不论名式，喉间绝无形迹，满喉皆紫，脉缓身凉者，用六味汤加：细辛（五分） 葛根苏叶（各二钱） 白芷 川芎 麻黄（各一钱） 服后紫变为红换加：盐水炒玄参（二钱） 酒炒黄芩（二钱） 花粉（一钱）即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 133,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "紫色虛喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "a96a04542930d1b44d50cc787b86f4029789069594e733bfcd263a470c0bd88b",
+      "content_sha256": "f5a05a840a2385ccc230d564cf4f4fff5b11ac4a220ff7ba06e1de441ae7e0e8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        134,
+        135
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 202,
+        "simplified_codepoints": 202
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "29f88152cc18315181cdc63f",
+      "title": "喉癣",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：喉癣〕\n此症因肾虚火旺，发癣于喉，不肿而微红，上有斑点，青白不一，如芥子大，或绿豆大，每点生芒刺，入水大痛，喉干声哑，咳嗽无痰，六脉细数者是，用知柏地黄汤兼四物汤加：麦冬 盐水炒玄参 女贞（盐水炒） 枸杞 首乌 阿胶（各二钱） 等服十服后，用八味丸加女贞枸杞 人参 洋参俱盐水炒，淡盐汤每早服四五钱，如服前知柏地黄汤、四物汤不应，加：桂附每帖各三分，水煎冷服，此引火归原之法也。玄武膏亦可服，如六脉洪数，恐难脱体。吹紫雪、金不换。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 136,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "喉癬"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "dde4b1c23f205ceeb369709cfb5d480444cddaf926a3900f76980a981479942e",
+      "content_sha256": "a5df55190321495bb355b15f60aeed9c4a0092f26464305a66bb08170cde227b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        137,
+        138
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 222,
+        "simplified_codepoints": 222
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "b5bb323b743ef21ca74e224a",
+      "title": "喉疳",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：喉疳〕\n此症肾虚火旺，沸腾上部而发，喉间上腭有青白红点，平坦无刺，故名喉疳。声不哑，不咳嗽，两尺脉虚者是也。先用六味汤去荆、防、蚕三味加：盐水炒玄参（二钱） 酒炒黄芩（二钱） 丹皮（二钱） 生地（二钱） 山栀盐水炒（一钱） 盐水炒女贞（一钱五分） 盐水炒知母（一钱五分） 男加龟板（五钱） 女加鳖甲（五钱） 服五剂或十剂，如不愈再加附子（三分） 肉桂（三分） 二味 另煎冲前药内冷服，愈后合八味丸加：盐水炒玄参 知母 女贞 枸杞一料全愈。吹金不换。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 139,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "喉疳"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "f9f539fb88085a229f0772320a444aa76a25517fa5c0d12147c3a505448803ce",
+      "content_sha256": "26ce832161d756a4daa90f187c71d18c7408832b0d09a854356de51c1e3e4ea8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        140,
+        141
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 231,
+        "simplified_codepoints": 231
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "9430d965e31f1d4361d65513",
+      "title": "飞扬喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：飞扬喉〕\n此症风热上壅，上腭红肿，气不能通，咽物不下，从小舌中飞扬满口，此系凶恶之症。急针患上出血泄气。吹金不换，用六味汤加：连翘 葛根 黄柏 山栀 木通（各一钱） 生石膏（四钱） 一、二服愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 142,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "飛揚喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "cd90155c251acfd6cc8343c77667317c4ef053cba000c386b37abe9cf8cb6e5a",
+      "content_sha256": "d993119fd6b858fdba0cf7e2e8b5ed78be7161a2ad07e45dc66d7765b20a31c4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        143,
+        144
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 104,
+        "simplified_codepoints": 104
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "82b78df1d1d21c4728088907",
+      "title": "虚哑喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：虚哑喉〕\n虚哑喉，喉间不肿，两边关内少有红点，声哑不明，牙关不开，此内火外风之症。因喜食酸涩之物，肺气不清故也。用六味汤加：细辛（三分） 苏叶（二钱）服一帖。声音不哑，换加：生地（二钱） 丹皮（二钱） 盐水炒山栀（一钱） 木通（一钱） 花粉（一钱） 再二帖而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 145,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "虛啞喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "fbde124f5563b80259021cc1b3467b719bc8de9652fdeddd135fcf95bd7a96c9",
+      "content_sha256": "3ce7f296c78b8b2e4e9a6b22677fba2091193700b79af6c2d10eae78a40393bf",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        146,
+        147
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 138,
+        "simplified_codepoints": 138
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "2db9bfbdaed230a62c23e5fa",
+      "title": "声哑喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：声哑喉〕\n此症寒伏肺家，不肿不红，又无烂点，惟觉干痛，但食米粥；不能吃饭。用六味汤加：苏叶（二钱） 麻黄（二钱） 细辛（五分） 二服后麻黄、苏叶各减一钱。再二日换加花粉（一钱） 黄芩（一钱） 羌活（一钱） 姜汁制半夏（一钱） 皂核（二十粒） 诃子（二钱半，童便炒，半生用） 桔梗（五钱半，童便炒，半生用） 甘草（五钱半，童便炒，半生用） 四五帖乃痊。初起不可用凉药（四月之症而愈）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 148,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "聲啞喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "4ecffb29dce8f8c3282981c495c91dcb9edf794519ec9c68dcb387c63cbb5106",
+      "content_sha256": "eda8a3b4b27fd9d75260bc143e1f4012888652850e1193f67bf81ede4345a687",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        149,
+        150
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 198,
+        "simplified_codepoints": 198
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "6a30cfa2a0ecfe9ef17023da",
+      "title": "烂沙喉",
+      "volume": "卷之三 / 咽喉门第一",
+      "content": "〔图版未收录：烂沙喉〕\n此症发于寒伤之后，表邪未尽，生在关内肿烂，右关脉急，肺脾之毒可知。六味汤半服加：酒炒黄芩（二钱） 花粉（一钱） 盐水炒玄参（二钱） 葛根（一钱） 生石膏（二钱五分） 淡竹叶（二钱） 河车（二钱五分）连服三四剂。如烂斑不退加：生大黄（三钱） 津化八仙散、玉枢丹，每服五分，三服可收功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 151,
+      "source_path": [
+        "卷之三",
+        "咽喉門第一",
+        "爛沙喉"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "a23899f530941780529e192415e25793e1cb0bfb1045ffde0f1a7771f6685e56",
+      "content_sha256": "b7c93154ac0d5eb7f282babd6268f40a74487d3d6a451fc94a3c4c21f63b0ed1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        152,
+        153
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 153,
+        "simplified_codepoints": 153
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "c6abc15b1ef218345ceb4c03",
+      "title": "乳蛾门第二",
+      "volume": "卷之三",
+      "content": "（七症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 154,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "049b5264ebabb5f3a71e8dd2fbc665f19c88d52c62bb40343223a47788e5533b",
+      "content_sha256": "2d57643b28e25295c8c43a6c5d59d083011c69e7c93dd9eaad700a3690a20deb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        155
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 6,
+        "simplified_codepoints": 6
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "a7863c19e06ead8c50f2f025",
+      "title": "双乳蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：双乳蛾〕\n此症感冒时邪而发，生于关口上部，两边如樱桃大，肺胃之症也。身发寒热，六脉弦数。先针：少商、商阳（两手四穴），或挑破患上出血亦妙，先用六味汤加：陈皮 海浮石 苏叶 羌活（各钱半） 两服可愈。如肿不退，六脉有力可加生大黄（三钱）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 156,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "雙乳蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "ed18ffeb7b76ee0bc01790d2070fb2b1928e4259b59f1a29d02823f7b9d42cb1",
+      "content_sha256": "4fba2018799dc742cd421a084bb5e3e9df009b3cec650515d7c0aa559477399b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        157,
+        158
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 125,
+        "simplified_codepoints": 125
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "29b9002a6f8daf70a5806751",
+      "title": "单乳蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：单乳蛾〕\n此症因伤寒后发散未尽，身热恶心，恐见痧疹，六脉浮数，生于双蛾之旁，或左或右，用六味汤加：苏叶（一钱） 羌活（二钱） 鲜新芫荽（五钱） 如无新者用子（三钱） 一服退半，明日再加：黄芩（酒炒三钱） 花粉（二钱） 山栀（一钱） 赤芍（一钱） 木通（一钱）全愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 159,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "單乳蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "2bd683508d0e108317e46f2bb21f82d6bfdee59341338851328739f560f158b8",
+      "content_sha256": "51936b69a61a93a3e4580f054667b3ba664c8ae5704fa310f2354101e8685eeb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        160,
+        161
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "6d54e286cff01acf09fa07d9",
+      "title": "烂乳蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：烂乳蛾〕\n此症因肺胃郁热、红肿烂斑大痛，难于饮食，六脉弦紧，急针：少商、商阳左右四穴。用六味汤加：葛根（二钱） 苏叶（一钱） 盐水炒玄参（一钱） 酒炒黄芩（二钱） 冲柏枝汁一钟，漱喉间咽下。再用八仙散一服，津化咽之，明日去苏、葛二味，加：山栀 木通 生地 丹皮 浮石 花粉（各二钱） 如脉大有力加：生大黄（三钱），脉虚用八仙散同柏枝汁照前吃法，三四日可愈。如声哑背寒，六味汤加，苏叶（二钱） 羌活（二钱） 细辛（三分）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 162,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "爛乳蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "92818a7c159ef9f274d58af1e014a2b9e7cd8105b17410fc4ff0d939adffca19",
+      "content_sha256": "403129850e1f0fbdb5a2dc96cecab65fda3f2448856b479a11903f12ae5b693f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        163,
+        164
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 216,
+        "simplified_codepoints": 216
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "5ce5fb0b964c35e6276923a2",
+      "title": "风寒蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：风寒蛾〕\n此症因风寒而起，肿大如李，头不能下视，气塞不通，寸关之脉浮紧，肺胃之症也。即针：少商、商阳、少冲（两手六穴）。用六味汤加：苏叶（二钱） 羌活（二钱）一服而愈。若早用寒凉则不能退矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 165,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "風寒蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "3681a3da6116f8dc0cf29a44c3823372526d386138c7412840c4432b2791a3f1",
+      "content_sha256": "e70ea59d813017d022998f520e9c6ccb41b3b3765b2d334c56048021534d600a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        166,
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 102,
+        "simplified_codepoints": 102
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "1c54c567ec14bdcf4ae066e9",
+      "title": "白色喉蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：白色喉蛾〕\n白色乳蛾，肿塞满口，身发寒热，六脉浮弦。此症因肺受风寒，用六味汤加：苏叶（二钱） 细辛（三分） 羌活（二钱） 一服可愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "白色喉蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "1e5dfffdb6c440e145f15885ceded2f9b905b69fd3f73eee314ad585b1e94a72",
+      "content_sha256": "52957057539b67da7e1df3aec82ba5d9686b9afef9748e57fd8535dc02afd3da",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        169,
+        170
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 73,
+        "simplified_codepoints": 73
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "64c9aac0890aabe979ae94fe",
+      "title": "石蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：石蛾〕\n此症或胎生，或因本原不足。生于乳蛾地位，少进半寸。初起切不可用寒凉，不必用刀针。此乃肝火老痰结成恶血，凡遇辛苦风热即发。用六味汤加：川贝（一钱）生地（二钱） 蒡子（一钱） 丹皮（一钱五分） 麦冬（一钱） 木通（一钱） 煎服四五帖，如不退去，六味汤用生地（钱半） 丹皮（一钱） 象贝（钱二分） 甘草（一钱） 牛蒡（一钱） 桔梗（八分） 麦冬（一钱） 木通（六分） 薄荷叶（一钱） 加灯心（二分）煎服，以愈为止。吹雄黄退肿药。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 171,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "石蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "5106d86f7b7a790d1e927569f79984bafcdaeaf9cc2aac9b21e7a7bba181c3b2",
+      "content_sha256": "fcb561aa9749f50e2f1b4fa05faddab743715b698c5dadec17fb2c2734f69d54",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        172,
+        173
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 222,
+        "simplified_codepoints": 222
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "f71432a25aef5a224f6dcd9a",
+      "title": "伏寒乳蛾",
+      "volume": "卷之三 / 乳蛾门第二",
+      "content": "〔图版未收录：伏寒乳蛾〕\n凡伏寒之症，其色必紫。治法同紫色喉痈门。\n凡遇孕妇喉痈，用药有碍，将喉痈药煎浓漱喉间，吐去，亦可全愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 174,
+      "source_path": [
+        "卷之三",
+        "乳蛾門第二",
+        "伏寒乳蛾"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "93a3800349b5217e47a6cc6f712722f17774a067e0ea4c9771a34735058348cb",
+      "content_sha256": "4e6a67238909d51748eeb6068d231a0b4fa16cf1a1bb88121664c728b0ce8b3e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        175,
+        176,
+        177
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 64,
+        "simplified_codepoints": 64
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "0d87ba0a5a52db11133944ac",
+      "title": "喉痹门第三",
+      "volume": "卷之四",
+      "content": "（七症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 179,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "049b5264ebabb5f3a71e8dd2fbc665f19c88d52c62bb40343223a47788e5533b",
+      "content_sha256": "2d57643b28e25295c8c43a6c5d59d083011c69e7c93dd9eaad700a3690a20deb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        180
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 6,
+        "simplified_codepoints": 6
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "4436bf52987098f8092cd104",
+      "title": "烂喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：烂喉痹〕\n此症因肝胃热毒，外感时邪而发。形如花瓣，烂肿白斑，痛叫不食，眼睛泛上，六脉洪大，即针：少商、商阳、关冲、少阴（两手八穴），有血则生，无血者死。用六味汤加：生大黄（五钱） 盐水炒玄参（二钱） 酒炒黄芩（二钱） 生地（二钱） 丹皮（二钱） 浮石（二钱） 山栀（一钱） 木通（一钱。）两服后去大黄并六味汤再加：生石膏（三钱） 诃子（一钱五分） 柏子仁（二钱囫囵用） 冲制柏枝汁半杯四服而愈。口吹金不换，兼服八仙散，每日二钱、津化咽下。此症□□身凉不治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 181,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "爛喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "de98e154e8a29b91a602a12276c1602847ff06446591aa049e393444fc8139d5",
+      "content_sha256": "2b655d7b2b303bf4ba7888a2e5ce8ab48d021511d9a896ae1fc1a2a69b9ba2b9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        182,
+        183
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 235,
+        "simplified_codepoints": 235
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "daee625da0928cc040411552",
+      "title": "白色喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：白色喉痹〕\n此症因肺胃受寒，脉迟身热，六味汤加：细辛（三分） 羌活（二钱） 苏叶（二钱） 陈皮（一钱） 二服可愈。或二服后变红色干痛，去前四味换加：山栀木通 酒炒黄芩 生地 黄柏（各一钱）、痰多加浮石 制半夏 天花粉（各一钱。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 184,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "白色喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "88ce9e7b262ff87ae6c3de1e182ffb6bb1eeba2aefab1325f8e29c23d3278649",
+      "content_sha256": "3fb48c50a1fb42bd4998f986ea77c76320891a2c4f86d725eaed5f25dc681412",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        185,
+        186
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "a8661028f3c7d941a7be476c",
+      "title": "寒伏喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：寒伏喉痹〕\n此症肺经脉缓，寒重色紫，亦不太肿，因服凉剂，久之必烂，凡遇此紫色者，不可作火治。六味汤加：细辛（五分） 麻黄（一钱） 桂枝（一钱） 苏叶（一钱） 瓜蒌（一钱） 诃子（一钱） 牛蒡（一钱）甚者或吐出紫血块者，亦如此吃法，未烂者加：苏叶（二钱） 细辛（三分） 柴胡（一钱） 海浮石（钱半。）肿与不肿同治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 187,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "寒伏喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "8c2397d720ef4b1303d3b55f291d651f3ee5280d7c12b1d75567044d1c8c6dbe",
+      "content_sha256": "91df46eca7b18cf6d330d95f805e30db88d271550f826aa9d35636ce09f663ee",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        188,
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 163,
+        "simplified_codepoints": 163
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "d7532df43c3c70847aa051ba",
+      "title": "双喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：双喉痹〕\n双喉痹，生于上腭，关内两旁形如橄榄，痛而难食，胃家积热所致，或发寒热，两关洪大者是也。即针患处或商阳穴针之亦可，先用六味汤一服，明日再加：黄芩（酒炒） 山栀 木通 元参（盐水炒各钱半） 再服而退。（烂者不可针，患上吹金不换。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 190,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "雙喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "4e411fcffa000b3b484cb01604943cf645a070ef8c60e89d8d315b21d7417f16",
+      "content_sha256": "739ce0929d4eb11d5fc1967ed77db832341a0f31227499b5eb9ac68fa2d93eee",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        191,
+        192
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 125,
+        "simplified_codepoints": 125
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "724661358f3b86c846bc6ea1",
+      "title": "单喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：单喉痹〕\n单喉痹，或左或右。治同前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 193,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "單喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "3cb978153ee444953bb74fdbd7e26e2fac8b7cda1d298da1a2e621221a834d89",
+      "content_sha256": "92a09db094ee349b73ff97111e7611914553292e5fcce51d61adb4381dbdb175",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        194,
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 25,
+        "simplified_codepoints": 25
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "e911ca125f5efdb61922154c",
+      "title": "淡红喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：淡红喉痹〕\n淡红喉痹，肿如鸡子，饮食不下，身发寒热，眼红呕吐，恐有斑毒在内，急针：少商、少阴、商阳、关冲（左右八穴。）或患上挑破，六味汤加：苏叶 羌活 葛根（各二钱） 鲜芫荽（五钱），服一帖，满身发出痧疹，呕吐即止。或身热不退，喉外亦肿，此内火外泄也，换加：生大黄（三钱） 葛根 黄芩 山栀 玄参 花粉（各二钱） 生石膏（五钱） 滑石（二钱） 木通（一钱）服二帖后去大黄、石膏再用前药，照方四五帖乃痊。有烂斑用八仙散一服，津化咽下，兼吃柏枝汁。此症因伤寒时邪未清之故，两关沉细，两寸尺四脉虚数是也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "淡紅喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "6a55dbc5e2c4a871766f7b2a83729d4e0519ba2e1b2da026205d3afb83c9518e",
+      "content_sha256": "9cf424ca76df3974b0a2b6660d07a91573c1e221599d1015a4033d51016d2412",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        197,
+        198
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 256,
+        "simplified_codepoints": 256
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "717a67e3ca3eadfe1b8dc2ee",
+      "title": "走马喉痹",
+      "volume": "卷之四 / 喉痹门第三",
+      "content": "〔图版未收录：走马喉痹〕\n此系急症。肝脾火闭不通，而为痹。或发寒热，脉洪大者生，沉细者死。用六味汤加：葛根（二钱） 柴胡（一钱） 细辛（五分漱之）再加：角刺（二钱） 归尾（二钱） 赤芍（二钱） 河车（二钱） 生大黄（五钱），痰多加浮石（三钱） 制半夏（二钱） 身热背寒加 羌活（一钱） 苏叶（一钱） 即针：少商、商阳、关冲（两手六穴），血多为妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 199,
+      "source_path": [
+        "卷之四",
+        "喉痹門第三",
+        "走馬喉痹"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "63aa4195a5160972d115d1a7259cf05244a21d4c5b16059af227b546db60e20e",
+      "content_sha256": "8bf71174d5793d214339248e8f4822b4b2d1297e224bd65719ea0e6b78e6c8de",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        200,
+        201
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 173,
+        "simplified_codepoints": 173
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "43277744162c9b1ec007f783",
+      "title": "喉风门第四",
+      "volume": "卷之四",
+      "content": "（十二症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 202,
+      "source_path": [
+        "卷之四",
+        "喉風門第四"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "66d3f01ac03107a7169a2407c3696fb9295c4a3ea25bdac602e28d940e3f0315",
+      "content_sha256": "78f0151378c3324eccb0f22d73a1ebb8f3df6a66d0359a3b8118aac678fba437",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        203
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 7,
+        "simplified_codepoints": 7
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "000e7a6308fae79ab059d842",
+      "title": "内肿锁喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：内肿锁喉风〕\n此症因肺胃两经阴阳相结，内塞不通，外无形迹，喉间痰喘，先用吐痰法（见缠喉风门）灌吐，再用六味汤加：麻黄（二钱） 生大黄（五钱） 细辛（一钱） 苏叶（二钱） 桂枝（一钱） 羌活（二钱） 煎数沸服之，或泻或吐为妙。如不吐泻，针：少商、商阳、关冲、曲池、合谷、两手十穴，有血则生，无血则死。左右寸关弦紧洪大者生，沉迟者难治。吹雄黄消痰药。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 204,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "內腫鎖喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "b071951b000cc8e567296e98b04e71c4a0753c39095c506689de08b5b52cc077",
+      "content_sha256": "0f5d366dbf348b6c3a46c3cbd618c11017de44c2becc672e1460ec18485a7cd2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        205,
+        206
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 180,
+        "simplified_codepoints": 180
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "684670bc80ed5f5f88f4a763",
+      "title": "缠喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：缠喉风〕\n缠喉风，因肺感时邪，风痰上壅，阴阳闭结，内外不通，如蛇缠头，关下壅塞，甚者角弓反张，牙箝紧闭，先用开关散：皂角刺（一钱） 细辛（五分） 冰片（二分）共研细末，吹入鼻内，再用针，颊车左右两穴，点艾数壮，牙关可开，用鸡蛋白冲白矾汤灌吐，或用桐油蘸鹅毛吐之，或用胆矾法吐之，以吐为度。如不吐即针十指五穴，（少商、商阳、关冲、少阴、少冲。）取血为度，无血难治。用六味汤加生大黄（一两） 麻黄（二钱） 羌活（二钱） 苏叶（二钱） 诃子（二钱），同煎数沸灌下，或泻，或吐，皆为大妙，如不吐不泻，针之无血，六脉沉细者不治。吹胆矾消痰药。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 207,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "纏喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "7e4a9271743523761f63838bec4291aa902f64fb805e5449a438b835afb25c86",
+      "content_sha256": "9fcfc850c999befeca98170add6a72901a5ff5ff511f2b10b0e34e57da2d3e85",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        208,
+        209
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 273,
+        "simplified_codepoints": 273
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "dfca12f5f3708ea40a27c447",
+      "title": "匝舌喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：匝舌喉风〕\n此症生于喉之上下两旁，近小舌小有泡，或红，或紫，外脸皆肿，喉内不肿，舌卷粗大，此恶症也。看治几症，好者甚少。用六味汤加：黄连（一钱） 黄芩（二钱） 大黄（生用四钱） 连翘（二钱） 冲玉枢丹（一钱） 急进三四服，或有可生，如牙关黑肿，摇头齿落者难治。此症，乃肺肝积毒所致。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 210,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "匝舌喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "75f5b89dd0773a1ab8afef557f07917aca0bea88820de1a3555294e1fa5edf16",
+      "content_sha256": "631adbc1450ddffc62be1aea204f53bab835bb896b71dcf304415d4fbf777687",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        211,
+        212
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 148,
+        "simplified_codepoints": 148
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "34cdd63afde3453f126f5465",
+      "title": "虚烂喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：虚烂喉风〕\n此症因本原不足，虚火上炎，生于喉之关内，上下红色，白斑痛烂，不肿，六脉细数者是也。初起用六味汤加：盐水炒玄参（二钱） 酒炒黄芩（二钱） 盐水炒山栀（一钱） 花粉（一钱） 生地（三钱） 丹皮（二钱） 连进二服后去六味汤加：盐水炒知母 黄柏（各钱半） 服五帖，如两关沉大，作结毒治，用药照胃热毒门。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 213,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "虛爛喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "474eb6e550b5b3ec1e1401857348c3053dbd80fc4cd15d16cb99602b110824fe",
+      "content_sha256": "7fafe5c56c401119c1d1c62d56e6db9bb7dacee859dc3a5da236813f074b7ac5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        214,
+        215
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "3821294f98ea11ce1e9dfeac",
+      "title": "白色喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：白色喉风〕\n此症因寒包火伏于肺经，白而不肿，上有红紫烂斑，脉象不数，身热怕寒，火欲外发。用六味汤加：葛根（二钱） 麻黄（一钱） 苏叶（一钱） 柴胡（钱半） 细辛（五分） 花粉（钱半） 桂枝（一钱） 羌活（钱半） 服一二帖兼八仙散一服（津化咽下），变红色换加：玄参（盐水炒二钱） 黄芩（酒炒二钱） 山栀（一钱） 木通（一钱），二帖可愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 216,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "白色喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "548a02da7548aadbaef02a13b63f929b63dd53e5b44edd6fd7075925dcea385d",
+      "content_sha256": "60a78351ae2e8ab562d12f66a0bb4cda256bba14b5013813e4cbd766e1d59912",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        217,
+        218
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 174,
+        "simplified_codepoints": 174
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "f366bdeadf6debdb47d98524",
+      "title": "酒毒喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：酒毒喉风〕\n此症因醇酒厚味，生于关内，红肿痰多，咽物不下，肺脉独迟，两关皆大。用六味汤加：生甘草（一两） 葛根（一钱） 浮石（三钱） 枳椇子（二钱） 花粉（二钱） 山栀（一钱漱之）明日再加：盐水炒玄参 生地 丹皮（各二钱）四帖而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 219,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "酒毒喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "2f74030c1ae7a67d8ae51c675dbd6b65b2075577ead33bd5a34237217d6dd9a6",
+      "content_sha256": "a29dd58ec35e7abbfd1afd2ab77219fc6ad9684d33de4125b79f0a907c0ebdac",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        220,
+        221
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 123,
+        "simplified_codepoints": 123
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "4b2dcb41f43ea7fd9679f2e7",
+      "title": "劳碌喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：劳碌喉风〕\n此症肝肾两虚，发于关内，满喉少有红点，根白不肿，常有血腥气，劳碌即发。六味汤加：盐水炒玄参（二钱） 盐水炒知母（二钱） 生地（二钱） 丹皮 木通（各一钱） 明日再加：连翅（二钱） 酒炒黄芩（二钱） 花粉（二钱） 山栀（盐水炒一钱）再两日后去六味汤，换煎方：盐水炒玄参（二钱） 女贞（钱半） 生地（钱半） 麦冬（一钱去心） 酒炒黄芩（一钱） 丹皮（二钱） 枸杞（二钱） 龟板（三钱） 生首乌（五钱） 生甘草（一钱） 再两帖而愈。其脉象六部数而中空者，此为芤脉是也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 222,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "勞碌喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "fc84a89a9ce3fae0492e14fd16fe8a3901e74cbd767e88b0ade0245e1a638e73",
+      "content_sha256": "3ed70e3f9c23522e8541dd9e6c7435a3e43169a73bb123c6b9a0bbf455e28402",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 244,
+        "simplified_codepoints": 244
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "4d506d33282278646f6b2dfb",
+      "title": "酒寒喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：酒寒喉风〕\n酒寒喉风，因酒后遇寒，关内两边平而不肿，有淡红块四五粒，咽物觉痛，身无寒热，六脉洪大。用六味汤加：花粉（二钱） 枳椇子（二钱） 黄芩（酒炒二钱） 干葛（一钱） 一二服而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "酒寒喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "ec0d0ffbcec5a953a3e98fd998e74996a3d95b7e2271deaf0dd25c5cda1d8048",
+      "content_sha256": "f8fbfd0f910cce7f04fd338eb994aedd5a7a17ca6fc764cb3b64c9ab347822b1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        226,
+        227
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "1b0844b2aa359b9e333fed22",
+      "title": "肿烂喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：肿烂喉风〕\n此症因风火内炽肺胃，初脉洪。用六味汤加：葛根花粉（各一钱）。如红烂不退，药不能入，再用六味汤加：淡豆豉 木通 山栀 盐水炒知母（各一钱） 花粉 当归 柏子仁（各钱半） 丹皮（二钱） 生地（钱半） 浮石（三钱。）连服二帖兼用柏枝汁一钟，冲药漱之，六剂乃安。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 228,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "腫爛喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "b0a15c4ed5d4424d16fc302241c1e61aaa8ee26578c0a5a29bdb341477f0f597",
+      "content_sha256": "3c78da03e4a164cfc7975555752b603283a69a78ab375b733340e3b877673826",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        229,
+        230
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "736531212fb5b908073dbf32",
+      "title": "肺寒喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：肺寒喉风〕\n此症因肺受重寒，生在关内下部，两边如扁豆壳样，右寸关弦紧，平而不肿，大痛难食，不穿不烂，背寒怕冷，六味汤加：羌活，苏叶（各二钱） 当归 柴胡 牛蒡 桂枝（各一钱） 细辛（五分） 二服而痊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 231,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "肺寒喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "5dbef479fb7eff98b15bf4fdf2bab65ca76507b2fe61cce4eb05661a8a0024e3",
+      "content_sha256": "e4db470af0767e9010da5cc4bb5ac51c0f232ab6ca804fdcccf6296ae425dcbc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        232,
+        233
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "ed564346a03cd905936d5c75",
+      "title": "辛苦喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：辛苦喉风〕\n此症因日夜辛苦而发，不肿红痛，小舌左右常出血，上部之脉洪紧，用六味汤加：盐水炒玄参 酒炒黄芩（各二钱） 山栀（一钱） 木通（一钱） 连翘（二钱） 火重者加：生地（二钱） 盐水炒知母（二钱） 丹皮（一钱） 泽泻（一钱） 花粉（一钱） 二三帖全愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 234,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "辛苦喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "d115492c6553ec778d975cf760eda8ba6d7077bf40a5de1d0ff4c5ea4e0dfb5b",
+      "content_sha256": "107b1fb4797cd2855bf547e9bfd160f7ae784cd72878cee10bb3f782a9f958f9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        235,
+        236
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 135,
+        "simplified_codepoints": 135
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "77b418a2391efc430ee57dfd",
+      "title": "淡红喉风",
+      "volume": "卷之四 / 喉风门第四",
+      "content": "〔图版未收录：淡红喉风〕\n此症肺脾感冒风邪而发，肿连小舌，喉塞不通，声音不清，右寸关脉弦紧。针少商、少冲、关冲（两手□穴。）急者患上亦可挑破。用六味汤加：苏叶 羌活 葛根（各二钱） 一服而退。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 237,
+      "source_path": [
+        "卷之四",
+        "喉風門第四",
+        "淡紅喉風"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "183b0a0d92ef0238d53453551ba82de7ed18a1030621103720a1f88320f03380",
+      "content_sha256": "30382c0f32b9b8d88889f1ef2747bfba03dc44132317adbb467c01f5e444870a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        238,
+        239
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 96,
+        "simplified_codepoints": 96
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "379a7b956a1aa4e57908da7a",
+      "title": "喉痈门第五",
+      "volume": "卷之五",
+      "content": "（十一症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 241,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "2836be256ab715ade291b08f15bd16de20059876e499714318f702b127b12523",
+      "content_sha256": "8de063090c3f4e419b243877ea4ea50ce417af2c71e87029aa38e86cdfb71316",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        242
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 7,
+        "simplified_codepoints": 7
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "cd5986caf6120ce5e87914ff",
+      "title": "伏寒喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：伏寒喉痈〕\n伏寒喉痈，因积寒在内，外感时邪而发。其色红肿紫色，脉浮不数。六味汤加：羌活 葛根 河车 山甲 赤芍 归尾（各二钱） 角刺 苏叶 木通（各一钱） 细辛（三分） 两日后加山栀（一钱） 去羌、葛二味，余药照前，四五日可愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 243,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "伏寒喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "aabdb2d8b94d806c4f5e025b7fe9b7aebb2025272deb73b9f1a75a261ac09df4",
+      "content_sha256": "9754a727e0c7f758c9ac2a32f616d84f9a3d65b825c46f9fb5c9a210d006212a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        244,
+        245
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "6cd64023940b6c9fd362a7bf",
+      "title": "肿烂喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：肿烂喉痈〕\n此症脾家积热而生，红肿溃烂，两寸关脉洪大者是也。针少商、商阳、关冲、少冲（两手四穴），血多为妙。先服八仙散（放于舌上津化咽下），再用六味汤加：盐水炒玄参（二钱） 盐水炒黄柏（一钱） 酒炒黄芩（钱半） 生大黄（三钱） 山栀 木通（各一钱） 河车（二钱），如一服后泻过，可去大黄。三日后，用十八味神药，柏枝汁咽漱即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 246,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "腫爛喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "a06f3bc55590e57683018641f00c30f12216d6ed5054b2db30ddbaa3fde277f6",
+      "content_sha256": "36642097b641200f133bef4b2549441329c2a79a41b48dbed0ee1c41924e3a81",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        247,
+        248
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "6b5fbb30fce7bddee426723e",
+      "title": "淡白喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：淡白喉痈〕\n此症因脾肺受寒，其色不红，若用寒凉之剂，七日之内必成脓溃，有脓即用针挑破患处。初起肿，针少商、商阳（两手四穴），出其紫血，六味汤加：苏叶 赤芍 归尾（各钱半），一服后，明日再加：山甲 角刺 河车（各二钱）乃愈。六脉弦紧，身发寒热者是也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 249,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "淡白喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "22a959883c2014be922f5ad3557cc975173af006fccccb36fa8faacc4548fccf",
+      "content_sha256": "9b0d143d7bc61327ee1add67c0f9e31108659a06aa53ae1cd62792469d54b53e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        250,
+        251
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "588a4a0e796a768f58aede53",
+      "title": "大红喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：大红喉痈〕\n此因肺脾积热，其色鲜红，肿胀关内，六脉洪大，身发寒热，急针少商、商阳，或针患上肿处出恶血。用六味汤加：山栀 木通（各一钱） 浮石 生大黄（各三钱） 归尾 角刺 山甲 河车（各二钱） 黄芩 花粉 赤芍（各钱半）。用河水将加药十一味先煎二、三十沸后，下六味汤同煎数滚即起，二帖可愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 252,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "大紅喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "272a7cbb551e4d8af4bc9c40dd50c594adee0114f39d693ed50ef585794d04f5",
+      "content_sha256": "26d51651fc64a8a8b7ade2a4a7a9af359988003870683fef8910eb6b30622e2a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        253,
+        254
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 152,
+        "simplified_codepoints": 152
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "8390a149136a87f22b7b15d3",
+      "title": "声哑喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：声哑喉痈〕\n此症因著寒太重，肺脏闭塞，以致声哑，汤水难入，或有烂斑。肺脉沉涩，脾胃脉洪大，背寒身热。用六味汤加：羌活（二钱） 葛根 苏叶（各一钱）一服漱之，二日后声音不哑，去前三味，换加：花粉（一钱） 乳香（五分） 葛根黄芩（酒炒） 归尾 赤芍 山甲 角刺（各二钱） 再服八仙散、玉枢丹，二帖全愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 255,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "聲啞喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "e09d4c97d906dfea77e2bafa36688e538c5c26e563d6636d34688d4a81755905",
+      "content_sha256": "02ff0c8dbd1e84ff68617ef2172651b0ccf8ce1b4c05dbf8e62ac56e8c7fb33c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        256,
+        257
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 156,
+        "simplified_codepoints": 156
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "e8105aabb0dcdba3a1c98c60",
+      "title": "单喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：单喉痈〕\n单喉痈，或左或右。身热背寒，脾肺之症也。有红点者，风火；无红点者，风寒。脉象如前。六味汤加：苏叶 羌活（各二钱） 漱一服，明日再加：赤芍 归尾 豆根 山栀（各钱半），服一帖即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 258,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "單喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "8e63463d693c53a1adb1d5dbf10e2441563a8187632acf1bf687a1581545f6b7",
+      "content_sha256": "ce3c16c29a7a62648e089c839a7595e16b7f86d8008d84fee095bf99472b54ac",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        259,
+        260
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 101,
+        "simplified_codepoints": 101
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "8e0958bbe95d8832720a15d3",
+      "title": "外症喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：外症喉痈〕\n此症生于含下，天突穴之上，内外皆肿，饮食有碍，初起无痰涎，内不见形迹，此风毒喉痈也。六味汤加：黄耆角刺山甲 归尾 赤芍 河车（各二钱） 红花 葛根（各一钱） 乳香（五分），连进三服，以消为止。如已成出脓，必成漏管。用十全大补汤收功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 261,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "外症喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "957334ca02b1a8d0bdb196fae2583dc38f873fbf9261599be04dfac605cd7a7b",
+      "content_sha256": "0dc303558db143b1956ed7b0645ba687dd5b195159ce58500664172e1c08959c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        262,
+        263
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "a34551e0124c410b1ab51d04",
+      "title": "兜腮喉痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：兜腮喉痈〕\n此痈生于腮下，其名悬痈，因郁积寒气而发。外用宫炙之法二壮。用六味汤加山甲 归尾 角刺 川芎 白芷（各一钱） 升麻（三分） 红花 乳香（各五众），以消为度。有脓即针之，成漏者多用参、耆内托，或可收功。遇症不可轻忽。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 264,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "兜腮喉癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "f37bf1be8855903fbc0efe29a1b0e06e37e4de46248059cd22bced938fd62d60",
+      "content_sha256": "8fed1d86edac3e9bc74f95993ce04ec979d0fa9c14d0597934adb5c9a4c5255b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        265,
+        266
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "a086944789f21ad08e89b1b1",
+      "title": "舌上痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：舌上痈〕\n舌上痈，生于舌中心，如梅子大，不能言语。此症因热入心胞络而发，左寸脉宜洪大而数，不宜细缓，形症红肿者可治，黑者不治。用六味汤加：川连（二钱） 连翘（五钱） 河车（五钱） 生大黄（四钱） 地丁（三钱）。吹金不换，重加瓜硝搽之，或加牛黄（三二分）更妙，以愈为度。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 267,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "舌上癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "e6d2ee319e41ab811b3a75094b39f2ecab1e8f9fe2204906969bfd16eebecdd9",
+      "content_sha256": "d5ebd262bfd0a46a1edba4cd961cadae04da138ddf3a058d53b58e938937e746",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        268,
+        269
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "1c4969d3d1f9b7ab6fe142b5",
+      "title": "舌下痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：舌下痈〕\n此乃脾肾积热，故发症于舌下。然舌下金津、玉液二穴通于肾经，肾水枯竭生于此穴。胗其左尺洪数者是也。用六味汤加：生地（二钱） 河车（二钱） 葛根（一钱） 丹皮（一钱） 花粉（一钱） 玄参（三钱）。二服后用十八味神药收功，吹药如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 270,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "舌下癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "f7596b181b4eb86c17b30a119b30c1cced27fee65bbf5a78ee222a93ac299531",
+      "content_sha256": "83774a9608c7c64356c8dfc7b68493341a83033e51df9257bfe653f2c1031d3f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        271,
+        272
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 125,
+        "simplified_codepoints": 125
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "662d883118945b7d64fdbec9",
+      "title": "上腭痈",
+      "volume": "卷之五 / 喉痈门第五",
+      "content": "〔图版未收录：上腭痈〕\n上腭痈，高如梅核挂下，不能饮食。此症因胃家炙煿之毒，积久而发，用宜解毒；之剂。草河车（三钱） 石膏（五钱） 地丁 生地（各二钱） 归尾 赤芍 山甲 角刺（各钱半） 丹皮 花粉 葛根（各一钱），服四五帖或十帖。兼用玉枢丹，每日服五分。吹紫雪、金不换。此症非小，二、三月收功者亦有之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 273,
+      "source_path": [
+        "卷之五",
+        "喉癰門第五",
+        "上齶癰"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "f8da711cc6854c553bafba6f95a8e363bfde7ec92e238886675faeb9e05b8630",
+      "content_sha256": "b58be7eee4f5231d80dfd62dd3f5f15f5a61a24bceefd21912a0ec569ffa8ef8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        274,
+        275
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 152,
+        "simplified_codepoints": 152
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "cf919de358273561e04d677f",
+      "title": "大舌门第六",
+      "volume": "卷之五",
+      "content": "（十三症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 276,
+      "source_path": [
+        "卷之五",
+        "大舌門第六"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "85c418593fe463fca7ccbaa3d78d55784c3f38f35e90c893f865fa9d8bfb8529",
+      "content_sha256": "7b9a0074baba35b4f7e945e4398b5526f9673e85bf77e86bfdaa1ea809fb91c4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        277
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 7,
+        "simplified_codepoints": 7
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "0deb51bc99127faace000605",
+      "title": "木舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：木舌〕\n此症心脾肝三脏积热而发。舌粗紫胀，食滞中宫，不能言语。因多食炙煿所致。急砭出紫血，搽金不换，服大承气汤兼黄连解毒汤加：山栀 木通连翘 花粉（各二钱） 赤芍 草河车（各三钱）。服二帖不应，重加生大黄以泻热毒。再用六味汤漱口（不必咽下）。左右寸关之脉俱洪大者，实症，宜用前药。六脉细者，虚症，难治。大承气汤、黄连解毒汤（俱在二卷精选应用方内可查。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 278,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "木舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "c45215c418b8f5faf55b2bb4fe186af5e9b30e8aac4f9b9366504e18aec64b66",
+      "content_sha256": "eb5d298bfd75854fa65eb3cba76a19feacf77d9785ec97168bcb9c39450f42a2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        279,
+        280
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 183,
+        "simplified_codepoints": 183
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "d7e8c4568de98bd0655b3b94",
+      "title": "白肿舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：白肿舌〕\n此症因风寒郁积于内。六脉弦紧，舌肿硬痛。先用六味汤加：细辛（三分） 苏叶（一钱五分） 白芷（一钱） 当归（一钱五分） 川芎（一钱） 葛根（一钱）。若白苔上有黑点而滑者，用淡附子 干姜（各五分）煎服，再用干姜 冰片 麝香 青皮（等分） 共为细末，时搽舌上即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 281,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "白腫舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "f5a4442084d33255187b42e9b54a8ef774f621a983c5a3a1c0f108ffc77ed992",
+      "content_sha256": "f5b319dcd40eb518448fb381cb054087a173e421c938bd3cd5843fd6a715dc4d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        282,
+        283
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "1175715c83526883ddb3942f",
+      "title": "烂边舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：烂边舌〕\n此症脾家湿热不清，大舌四边发疳，白点而烂。用六味汤加：小生地（二钱） 滑石（三钱） 淡竹叶（一钱） 薏仁米（一钱五分） 猪苓（一钱五分） 泽泻（一钱） 车前（一钱） 甘草梢（一钱），二服而愈。口唇牙肉烂肿，同此治法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 284,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "爛邊舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "c6ad8c516b17752d23969af946fdb406ddfa2fb0580b6228f0b5d85de76f21dc",
+      "content_sha256": "dd95ea73c5325de8fdb3390e98210c5cec2378196639e3a2b50386ec7ae1df5d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        285,
+        286
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 120,
+        "simplified_codepoints": 120
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "26fd3f92693fc4daf2012040",
+      "title": "红点紫舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：红点紫舌〕\n此症因心脾二经热极所致。满口红点紫色，作烂而痛，或身有赤斑。用六味汤加熟石膏（一两） 葛根（一钱五分） 川连（一钱） 青黛（一钱） 黄芩（酒炒二钱） 黄柏（一钱） 木通（一钱） 山栀（一钱），甚者加大黄（生用三钱）。如六脉不数者，不照此方。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 287,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "紅點紫舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "45cf2fe0e8579b4950496fa21851b324391bb8b1ff88078eca88ae0b26b2f90b",
+      "content_sha256": "61c4dd4be361d64f4d524b72ee600d84919bedcf6656b73b36e204e5831ad776",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        288,
+        289
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 133,
+        "simplified_codepoints": 133
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "498a59714ae639997277025c",
+      "title": "纯紫舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：纯紫舌〕\n此症因伤寒用葱酒发汗，酒毒入心，以致大舌纯紫。宜用升麻（一钱） 葛根（一钱） 枳椇子（二钱） 石膏（二钱） 川连（一钱五分） 滑石（三钱） 木通（一钱） 人中黄（三钱） 如心烦不安加：山栀（一钱） 淡豆豉（一钱），恶心欲吐者，恐防发斑加芫荽（一两），外用芫荽冲烧酒揩背心为妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 290,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "純紫舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "0b47cd387dd8719bb60682376a8d385a040cfba7cc059c61cf06b0472a55ef47",
+      "content_sha256": "828afba14414f08343b53a5e3f5744d4f12889fda54c785ae4f5a05e40759e77",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        291,
+        292
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 150,
+        "simplified_codepoints": 150
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "9341ea07d08cce28b9ef94ba",
+      "title": "座莲花舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：座莲花舌〕\n此症因脾家热毒积久而发，生于牙根内面，走窜如莲花一座。患上即针出血搽金不换药。再针两手商阳穴，用六味汤加：河车（二钱） 归尾（一钱） 赤芍（一钱） 川连（一钱） 连翘（一钱） 大黄（三钱） 山栀（一钱） 木通（一钱） 生地（二钱） 山甲（一钱） 石膏（生者五钱），连服二服，如不退，用十八味神药收功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 293,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "座蓮花舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "c8e02fb11af8d184fed778d7c5f76466de532f27666c5adf7e5fbec48b6ae01a",
+      "content_sha256": "8e275ead90337cf7178eafaeaa6ffbb3c66ebcc54f66b371fc72bc729ab6ba52",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        294,
+        295
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 163,
+        "simplified_codepoints": 163
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "4fc0d899f213b61befd8a1da",
+      "title": "重舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：重舌〕\n重舌者，大舌之下，又生一小舌，以致大舌反粗短，小舌长痛。此心脾之毒也。左寸右关两部之脉洪数者是。久之必烂，烂则难痊。初起即针出恶血，搽金不换，重加银粉霜。服黄连解毒汤加生大黄（五钱），如泻之五、六次，即服玉枢丹，十八味神药亦可服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 296,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "重舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "557d1ae007e57bb7e1a6e329a04d4e837227d41dbacf396ea4656428e5c09687",
+      "content_sha256": "56572b5b79f7e756f1ddc08f994d0412619ff2d7379d64765f0295428039b8d7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        297,
+        298
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "8d46fe263ad5b30ea6bc7eca",
+      "title": "莲花舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：莲花舌〕\n此症心胃之火飞腾舌底。即针小舌上出血，吹金不换，用三黄石膏汤加：甘草（五分） 河车（二钱）。针商阳穴即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 299,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "蓮花舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "772b91e9eb56db70873b9acc5110f6dcd7096a4756e9f0c6da6bb1e44f649976",
+      "content_sha256": "ec952f98348f2f70d7be58902f458e7ac818c453c8279a660b4adad72b71413d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        300,
+        301
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 65,
+        "simplified_codepoints": 65
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "e58ac125adb0060db712582e",
+      "title": "黄焦舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：黄焦舌〕\n此症因嗜酒太多，遇寒而起，大舌干黄。用三黄汤加：枳椇 生石膏 人中黄，身发寒热用大柴胡汤加羌活（一钱五分） 治之，如呕恶心烦，脉象洪大加生大黄（四钱），佐以牛蒡 赤芍 干葛之类，再无不应。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 302,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "黃焦舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "377152d3a8a0fc6eb8faf3f6c2d013e6b15699cf20e7ff57f7cbf06eefff3697",
+      "content_sha256": "b4b79438c2c70b9bcf0d0f0ad0d818da151305247f9b9dfed9f4770d583bcfd9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        303,
+        304
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 106,
+        "simplified_codepoints": 106
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "cf3c46848b9c47cf2c1ed777",
+      "title": "舌上珠",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：舌上珠〕\n此症因心脾积热，舌生白泡，大小不一，六脉洪大。急挑破出血，搽金不换，服三黄汤加：石膏（五钱） 河车（二钱） 地丁草（一钱），兼服玉枢丹（五分）一服。如六脉迟细者，不可用前药。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 305,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "舌上珠"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "157e151d4c27b5dd596e535a5179a302630e0f5dfc7aa63ab9428338828df015",
+      "content_sha256": "2ee25c5cdbf833eb835e6ae02f1ecd3730598874735eeba66395f3d4c8b8ae2b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        306,
+        307
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "9c23ac6eaf6c116da51f3e13",
+      "title": "舌下珠",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：舌下珠〕\n舌下珠，因脾肾两虚之症。六味汤加：盐水炒玄参生地 盐水炒知母 黄柏 木通等分治之，搽金不换，余药照前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 308,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "舌下珠"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "4f96bf361d01e173dc7e200303d13b8311d7226d9f72989533292c2561cf86f4",
+      "content_sha256": "0b9ca83257b05f2334da38ecaf44b8a7af95506c61aad1dcd9db2934f644f8fb",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        309,
+        310
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "d1de2041e95480d45a8cb7c2",
+      "title": "左雀舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：左雀舌〕\n左雀舌，因多食煎炒炙煿之物，所以积热毒于胃，故发于舌之旁生一小舌，相近牙根。初起将针挑破，以去其血，吹金不换。六味汤加三黄汤、凉膈散治之。如久之必烂，用龙骨生肌散收功。（三黄汤、凉膈散、龙骨生肌散三方，俱第二卷查用。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 311,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "左雀舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "43d6acecfee04799691f7082d49fa4bd15b033e2b857cd168bae6445e15f9269",
+      "content_sha256": "b3b458cb9d4ab82049f75ac703564f069c39199243cd9b4615065c928f446842",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        312,
+        313
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "be353a9d2166603f68251e21",
+      "title": "右雀舌",
+      "volume": "卷之五 / 大舌门第六",
+      "content": "〔图版未收录：右雀舌〕\n此症起亦积毒，治法于前，大同小异，用六味汤加犀角地黄汤治之。（犀角地黄汤在第二卷查用，搽药同前。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 314,
+      "source_path": [
+        "卷之五",
+        "大舌門第六",
+        "右雀舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "2c832848cddff7699a65a2197a346423d70b78965b709ffd35f939fcb6a7199c",
+      "content_sha256": "d2afb59b731d7d1345260bcb220304f5734fd45e8e31aaf6059e82e18850a7dd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        315,
+        316
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 61,
+        "simplified_codepoints": 61
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "5200a239bbc110b666629599",
+      "title": "小舌门第七",
+      "volume": "卷之六",
+      "content": "（五症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 318,
+      "source_path": [
+        "卷之六",
+        "小舌門第七"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "40e9a7ffe474256b1b5e9432a5432b6822b038a6e3b4e047fbb62c79cebc2c9d",
+      "content_sha256": "ef0f63fe28dbf2159cf3c498534731e6973b32b58ed05f28816fb1c2afe68a41",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        319
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 6,
+        "simplified_codepoints": 6
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "27eec06e05db5219badf9501",
+      "title": "胃火小舌",
+      "volume": "卷之六 / 小舌门第七",
+      "content": "〔图版未收录：胃火小舌〕\n此症因脾家火毒郁久而发。小舌白点烂，胃脉浮洪。治用六味汤加：生石膏（四两） 酒炒黄芩（二钱） 花粉（三钱） 葛根（二钱） 山栀（一钱） 一二服无有不愈。吹金不换药，兼服柏枝汁法。此乃多食炙煿醇酒厚味，或鱼骨刺伤。非结毒之比也。惟胗脉之时，胃部浮洪者火症，沉实者毒，须明辨之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 320,
+      "source_path": [
+        "卷之六",
+        "小舌門第七",
+        "胃火小舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "8d84c6b500e1133bab33b64a674965edd03769d0511949bdbfa07f2cc16a6a3e",
+      "content_sha256": "1e97f21c33c25cec3d0707589078694946755e352c7129e9348d9215c80f5625",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        321,
+        322
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 150,
+        "simplified_codepoints": 150
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "0d31ee9cb3f575a5e840f904",
+      "title": "胃毒小舌",
+      "volume": "卷之六 / 小舌门第七",
+      "content": "〔图版未收录：胃毒小舌〕\n此症因毒结胃家。发于小舌、形如前症。胃脉沉而洪大者，真结毒也，临症者不可忽之。亦有红肿烂者，治法亦同。用十八味神药同玉枢丹，每日一钱。土茯苓每日用四两，煎汤代水，多吃为贵。服一月后，如不愈，合结毒紫金丹一料，冲玉枢丹同服，亦用土茯苓汤下。早晚各三钱收功。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 323,
+      "source_path": [
+        "卷之六",
+        "小舌門第七",
+        "胃毒小舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "252e47c466af37a9870c855832a06b3eb990c6b5fc13917d13d1fdb8e0faac21",
+      "content_sha256": "dccdb71cd1f11ee9eafcf5e75eb0a3fc02ed65506650222cc60621fdb0dd064c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        324,
+        325
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "d5900f7914ed12386a591af6",
+      "title": "积热小舌",
+      "volume": "卷之六 / 小舌门第七",
+      "content": "〔图版未收录：积热小舌〕\n此症因肝胃二经火毒飞腾。所以小舌长硬，白衣裹满，咽物不下，右关之脉浮大者也。用六味汤加：山栀（一钱） 连翘（二钱） 酒炒黄芩（二钱） 黄柏（钱八分） 生石膏（三钱） 滑石（二钱） 赤芍（一钱） 葛根（一钱） 木通（一钱） 河车（二钱）。吹金不换，后服玉枢丹，二、三服无有不愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 326,
+      "source_path": [
+        "卷之六",
+        "小舌門第七",
+        "積熱小舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "0f455ad5db8b16a7ac4ed4e33f1f0c7318fe0afdeb9a0d8009761e2001a06125",
+      "content_sha256": "870eae5e4bd528debb857bdc612b1ea8cf148cc508ed10c28129a6bb35616642",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        327,
+        328
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 151,
+        "simplified_codepoints": 151
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "3bd20bf13bab678972a51385",
+      "title": "纯白小舌",
+      "volume": "卷之六 / 小舌门第七",
+      "content": "〔图版未收录：纯白小舌〕\n此症因胃家积毒，小舌忽变白色，软大而痛。右关之脉洪沉。先用玉枢丹，每服七分，十服或五服。再用土茯苓煎汤代水，后用广疮药二十一服，银花汤送下。如胃脉不沉，反浮洪者，作火症治。用六味汤加：生石膏（三钱） 酒炒黄芩（二钱） 山栀（一钱） 车前子（二钱） 木通（一钱） 滑石（二钱） 葛根（二钱二分） 天花粉（一钱五分） 山豆根（二钱二分），二三服。即此一症，两治之法也。临症必详脉理，然后下药为妥。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 329,
+      "source_path": [
+        "卷之六",
+        "小舌門第七",
+        "純白小舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "6d256f7765a6bf785ba9da5a42144efc4e897ecd5dff7baaab8b5d6a64f6f8a8",
+      "content_sha256": "9af46125e84c89c9796371fdb8543ebdb198fdf0d897eb1382835ec259f79bec",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        330,
+        331
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 209,
+        "simplified_codepoints": 209
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "48e348ed984e82dcbbd930e7",
+      "title": "悬旗小舌",
+      "volume": "卷之六 / 小舌门第七",
+      "content": "〔图版未收录：悬旗小舌〕\n悬旗风，生于小舌下垂，尖头变圆粗，如桂圆核大，红如樱桃。此因多食厚味燥酒，以致胃火郁盛而发。用六味汤加：甘草（五分） 枳椇子（二钱） 赤芍（一钱八分） 河车（二钱），二服乃痊。或肿处出血，吹金不换亦好。胃脉浮洪者是。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 332,
+      "source_path": [
+        "卷之六",
+        "小舌門第七",
+        "懸旗小舌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "eadcd7bfe34307b1be2c51397a3ccdd606ae75cad5cf5677e334e017d98de852",
+      "content_sha256": "5bb3cf30a47b0812a80d3c40f81e06225460d39cd57ea37f41705ee0a81b9e30",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        333,
+        334
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "9bd99d7e53c46e6da6c7873b",
+      "title": "杂喉门第八",
+      "volume": "卷之六",
+      "content": "（七症图说）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 335,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "049b5264ebabb5f3a71e8dd2fbc665f19c88d52c62bb40343223a47788e5533b",
+      "content_sha256": "2d57643b28e25295c8c43a6c5d59d083011c69e7c93dd9eaad700a3690a20deb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        336
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 6,
+        "simplified_codepoints": 6
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "919c9a5ab0415a2a13ecac3f",
+      "title": "松子喉疔",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：松子喉疔〕\n松子疔，生于关内、小舌两旁或左或右，形如松子，淡红而硬，大痛艰食，背寒身热，两寸关脉紧盛，乃风火郁积之症也。用六味汤加：苏叶 羌活 赤芍 连翘 山甲 河车（各二钱），明日去羌活 苏叶二味，再加乳香（三分） 玉枢丹（一钱） 研细，药水冲服，二日而愈。吹金不换药亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 337,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "松子喉疔"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "b1cb6af31a9473446c8e358f3b600077cb3f7d540ce38bae3f7b7a3763f58d50",
+      "content_sha256": "f5185e62f8c092fce16dfd47edb8a70a3e4dfa403bc3deec06d21a1a7280bd70",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        338,
+        339
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "dd4bc9fe8ae93c777ac2ad3b",
+      "title": "走马牙疳",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：走马牙疳〕\n此症因脾胃积受热毒太重，初起牙肉先肿，日久腐烂，此为急症。齿落肉黑者不治，脉浮洪者生、沉细者死。如脉大有力，尚可用重剂救之，脉迟虚细，药石难投。故临症须详脉治之。初起未烂者，即针肿处出血，搽金不换。已烂者，不必行针，搽药照上，用川连 葛根 连翘 犀角 生地（各二钱） 白藓皮 甘草 象贝母 天花粉（各钱半） 生石膏（一两） 草河车（一两），入大锅内，煎服三四碗，连服三剂。如脉数、便结加：生大黄（五钱） 生石膏（一两），或者有救，迟则不治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 340,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "走馬牙疳"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "442f8d2f2e6de83385ca01c55fa0e25d11f74d4d70b12481c42c415c4b949882",
+      "content_sha256": "92f6c3e815667755bce76ef8791dda2879b8292787679e0cf81ebf86838c4ecd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        341,
+        342
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 233,
+        "simplified_codepoints": 233
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "ca23014e2aae4111f52b2d20",
+      "title": "喉单",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：喉单〕\n此症因肝风郁热动气而生，关口上部下垂，根大头小，红色大痛。先针两边患上出血，吹金不换、漱六味汤一服，明日加柴胡 钩藤 赤芍 生地 丹皮 河车（各二钱） 连翘 黄芩（酒炒） 黄连（各一钱）。多煎数滚，服即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 343,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "喉單"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "32dbab6ccaf19d9bc211f2daafa946bb17902b46d496d959315ab35d05ef1735",
+      "content_sha256": "5b0b3dba9fe69ddf12b90bdd7476b166e6a08c6dfac51bb324ac4ed61f180d35",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        344,
+        345
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "d291d6a0936b203941258c7e",
+      "title": "喉菌",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：喉菌〕\n此症因胎毒所致，或因心胃火邪，生于喉内如菌样，故名喉菌。不可用刀针。服黄连解毒汤、玉枢丹可使其不发，然未见全退者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 346,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "喉菌"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "e3965b67be977256986a8e28e0afcdb8249c15201ff970ae05abd874b923cb7e",
+      "content_sha256": "55a1f04e60720247b5f8793b394a501a8e28150574bbe427e30461c1d9908c25",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        347,
+        348
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "72f7ba8c646febc29000ddc9",
+      "title": "喉瘤症",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：喉瘤症〕\n此症因恼怒伤肝，或迎风高叫，或本源不足，或诵读太急，以致气血相凝，生于关内，不时而发，治以调本养源之药，玉枢丹、地黄丸俱可常服，难许速痊，外吹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 349,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "喉瘤症"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "8ec442b46df92318dfdfd9193c3a0813fc8a63af51ecf27e0498d18d09884946",
+      "content_sha256": "299e6a45ed9e177d5dcbdb27adc7ae7d42d783321ce9c383babc44560c79772a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        350,
+        351
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "96a0348a6e8250196400667b",
+      "title": "叉喉瘤",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：叉喉瘤〕\n喉瘤亦有生于关外，亦名曰瘤，故法□以著症同，而地部异耳。治法如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 352,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "叉喉瘤"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "f014832fc48c60d557559c00b14e38bd39e945ba345878769eb1a521a60549df",
+      "content_sha256": "cdb936585a2b40307ef0475eac33951c8519d9989e61d73c7e04ff28698d4395",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        353,
+        354
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "8c70a1d99bbdc11f48966707",
+      "title": "左阴疮",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：左阴疮〕\n左阴疮，生于颊车之下，内热外寒，皮色不变，身发寒热，肿大如鳗鲤，俗名鳗鲤瘟也。用六味汤加：万灵丹一服，同药化下，如变红色，用喉痈药治。便结加生大黄（三钱），玉枢丹亦可服。症属少阳，用柴胡、牛蒡子汤兼六味汤漱之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 355,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "左陰瘡"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "1f21771d407ae839fcfe86567ad51cc459704cf46379f58774d019ceae5fecff",
+      "content_sha256": "6379456251138fcfcf4c347e469fcb436cc986f2cd22ff8dc27c79cb8559dce4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        356,
+        357
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "b095752a898888f3c29d2987",
+      "title": "右阴疮",
+      "volume": "卷之六 / 杂喉门第八",
+      "content": "〔图版未收录：右阴疮〕\n右阴疮，治法同前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+      "source_ordinal": 358,
+      "source_path": [
+        "卷之六",
+        "雜喉門第八",
+        "右陰瘡"
+      ],
+      "source_sha256": "b78e3234d5fb00f021dd43f7ccc248e361a999f229aabb221ffc4ab655f4bda4",
+      "original_sha256": "e706d620bbc9ff9af01be71b0f9981debccd7f83f220907d0319a2cce2b74901",
+      "content_sha256": "943e5a8c6e2fa20507981ba4ac19ade985de4dc353d1c2ceaf90b236d174c817",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        359,
+        360
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 21,
+        "simplified_codepoints": 21
+      },
+      "order": 94
+    }
+  ]
+}

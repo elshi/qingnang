@@ -1,0 +1,1405 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%96%89%E7%A7%91%E6%8C%87%E6%8E%8C/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "敘",
+        "path": [
+          "敘"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "卷之一",
+        "path": [
+          "卷之一"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 2,
+        "title": "咽喉大綱論",
+        "path": [
+          "卷之一",
+          "咽喉大綱論"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 2,
+        "title": "喉舌分經說",
+        "path": [
+          "卷之一",
+          "喉舌分經說"
+        ]
+      },
+      {
+        "ordinal": 9,
+        "level": 2,
+        "title": "咽喉看治法總要",
+        "path": [
+          "卷之一",
+          "咽喉看治法總要"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 2,
+        "title": "十六絕症",
+        "path": [
+          "卷之一",
+          "十六絕症"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 2,
+        "title": "又四絕症",
+        "path": [
+          "卷之一",
+          "又四絕症"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 2,
+        "title": "右手圖",
+        "path": [
+          "卷之一",
+          "右手圖"
+        ]
+      },
+      {
+        "ordinal": 40,
+        "level": 2,
+        "title": "左手圖",
+        "path": [
+          "卷之一",
+          "左手圖"
+        ]
+      },
+      {
+        "ordinal": 44,
+        "level": 2,
+        "title": "針穴圖",
+        "path": [
+          "卷之一",
+          "針穴圖"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 1,
+        "title": "卷之二",
+        "path": [
+          "卷之二"
+        ]
+      },
+      {
+        "ordinal": 54,
+        "level": 2,
+        "title": "精選應用諸方",
+        "path": [
+          "卷之二",
+          "精選應用諸方"
+        ]
+      },
+      {
+        "ordinal": 83,
+        "level": 2,
+        "title": "製藥法",
+        "path": [
+          "卷之二",
+          "製藥法"
+        ]
+      },
+      {
+        "ordinal": 93,
+        "level": 2,
+        "title": "爰採應用諸方",
+        "path": [
+          "卷之二",
+          "爰採應用諸方"
+        ]
+      },
+      {
+        "ordinal": 118,
+        "level": 1,
+        "title": "卷之三",
+        "path": [
+          "卷之三"
+        ]
+      },
+      {
+        "ordinal": 119,
+        "level": 2,
+        "title": "咽喉門第一",
+        "path": [
+          "卷之三",
+          "咽喉門第一"
+        ]
+      },
+      {
+        "ordinal": 121,
+        "level": 3,
+        "title": "簾珠喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "簾珠喉"
+        ]
+      },
+      {
+        "ordinal": 124,
+        "level": 3,
+        "title": "嗆食啞喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "嗆食啞喉"
+        ]
+      },
+      {
+        "ordinal": 127,
+        "level": 3,
+        "title": "內外腫喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "內外腫喉"
+        ]
+      },
+      {
+        "ordinal": 130,
+        "level": 3,
+        "title": "風熱喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "風熱喉"
+        ]
+      },
+      {
+        "ordinal": 133,
+        "level": 3,
+        "title": "紫色虛喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "紫色虛喉"
+        ]
+      },
+      {
+        "ordinal": 136,
+        "level": 3,
+        "title": "喉癬",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "喉癬"
+        ]
+      },
+      {
+        "ordinal": 139,
+        "level": 3,
+        "title": "喉疳",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "喉疳"
+        ]
+      },
+      {
+        "ordinal": 142,
+        "level": 3,
+        "title": "飛揚喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "飛揚喉"
+        ]
+      },
+      {
+        "ordinal": 145,
+        "level": 3,
+        "title": "虛啞喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "虛啞喉"
+        ]
+      },
+      {
+        "ordinal": 148,
+        "level": 3,
+        "title": "聲啞喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "聲啞喉"
+        ]
+      },
+      {
+        "ordinal": 151,
+        "level": 3,
+        "title": "爛沙喉",
+        "path": [
+          "卷之三",
+          "咽喉門第一",
+          "爛沙喉"
+        ]
+      },
+      {
+        "ordinal": 154,
+        "level": 2,
+        "title": "乳蛾門第二",
+        "path": [
+          "卷之三",
+          "乳蛾門第二"
+        ]
+      },
+      {
+        "ordinal": 156,
+        "level": 3,
+        "title": "雙乳蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "雙乳蛾"
+        ]
+      },
+      {
+        "ordinal": 159,
+        "level": 3,
+        "title": "單乳蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "單乳蛾"
+        ]
+      },
+      {
+        "ordinal": 162,
+        "level": 3,
+        "title": "爛乳蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "爛乳蛾"
+        ]
+      },
+      {
+        "ordinal": 165,
+        "level": 3,
+        "title": "風寒蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "風寒蛾"
+        ]
+      },
+      {
+        "ordinal": 168,
+        "level": 3,
+        "title": "白色喉蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "白色喉蛾"
+        ]
+      },
+      {
+        "ordinal": 171,
+        "level": 3,
+        "title": "石蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "石蛾"
+        ]
+      },
+      {
+        "ordinal": 174,
+        "level": 3,
+        "title": "伏寒乳蛾",
+        "path": [
+          "卷之三",
+          "乳蛾門第二",
+          "伏寒乳蛾"
+        ]
+      },
+      {
+        "ordinal": 178,
+        "level": 1,
+        "title": "卷之四",
+        "path": [
+          "卷之四"
+        ]
+      },
+      {
+        "ordinal": 179,
+        "level": 2,
+        "title": "喉痹門第三",
+        "path": [
+          "卷之四",
+          "喉痹門第三"
+        ]
+      },
+      {
+        "ordinal": 181,
+        "level": 3,
+        "title": "爛喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "爛喉痹"
+        ]
+      },
+      {
+        "ordinal": 184,
+        "level": 3,
+        "title": "白色喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "白色喉痹"
+        ]
+      },
+      {
+        "ordinal": 187,
+        "level": 3,
+        "title": "寒伏喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "寒伏喉痹"
+        ]
+      },
+      {
+        "ordinal": 190,
+        "level": 3,
+        "title": "雙喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "雙喉痹"
+        ]
+      },
+      {
+        "ordinal": 193,
+        "level": 3,
+        "title": "單喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "單喉痹"
+        ]
+      },
+      {
+        "ordinal": 196,
+        "level": 3,
+        "title": "淡紅喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "淡紅喉痹"
+        ]
+      },
+      {
+        "ordinal": 199,
+        "level": 3,
+        "title": "走馬喉痹",
+        "path": [
+          "卷之四",
+          "喉痹門第三",
+          "走馬喉痹"
+        ]
+      },
+      {
+        "ordinal": 202,
+        "level": 2,
+        "title": "喉風門第四",
+        "path": [
+          "卷之四",
+          "喉風門第四"
+        ]
+      },
+      {
+        "ordinal": 204,
+        "level": 3,
+        "title": "內腫鎖喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "內腫鎖喉風"
+        ]
+      },
+      {
+        "ordinal": 207,
+        "level": 3,
+        "title": "纏喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "纏喉風"
+        ]
+      },
+      {
+        "ordinal": 210,
+        "level": 3,
+        "title": "匝舌喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "匝舌喉風"
+        ]
+      },
+      {
+        "ordinal": 213,
+        "level": 3,
+        "title": "虛爛喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "虛爛喉風"
+        ]
+      },
+      {
+        "ordinal": 216,
+        "level": 3,
+        "title": "白色喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "白色喉風"
+        ]
+      },
+      {
+        "ordinal": 219,
+        "level": 3,
+        "title": "酒毒喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "酒毒喉風"
+        ]
+      },
+      {
+        "ordinal": 222,
+        "level": 3,
+        "title": "勞碌喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "勞碌喉風"
+        ]
+      },
+      {
+        "ordinal": 225,
+        "level": 3,
+        "title": "酒寒喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "酒寒喉風"
+        ]
+      },
+      {
+        "ordinal": 228,
+        "level": 3,
+        "title": "腫爛喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "腫爛喉風"
+        ]
+      },
+      {
+        "ordinal": 231,
+        "level": 3,
+        "title": "肺寒喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "肺寒喉風"
+        ]
+      },
+      {
+        "ordinal": 234,
+        "level": 3,
+        "title": "辛苦喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "辛苦喉風"
+        ]
+      },
+      {
+        "ordinal": 237,
+        "level": 3,
+        "title": "淡紅喉風",
+        "path": [
+          "卷之四",
+          "喉風門第四",
+          "淡紅喉風"
+        ]
+      },
+      {
+        "ordinal": 240,
+        "level": 1,
+        "title": "卷之五",
+        "path": [
+          "卷之五"
+        ]
+      },
+      {
+        "ordinal": 241,
+        "level": 2,
+        "title": "喉癰門第五",
+        "path": [
+          "卷之五",
+          "喉癰門第五"
+        ]
+      },
+      {
+        "ordinal": 243,
+        "level": 3,
+        "title": "伏寒喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "伏寒喉癰"
+        ]
+      },
+      {
+        "ordinal": 246,
+        "level": 3,
+        "title": "腫爛喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "腫爛喉癰"
+        ]
+      },
+      {
+        "ordinal": 249,
+        "level": 3,
+        "title": "淡白喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "淡白喉癰"
+        ]
+      },
+      {
+        "ordinal": 252,
+        "level": 3,
+        "title": "大紅喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "大紅喉癰"
+        ]
+      },
+      {
+        "ordinal": 255,
+        "level": 3,
+        "title": "聲啞喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "聲啞喉癰"
+        ]
+      },
+      {
+        "ordinal": 258,
+        "level": 3,
+        "title": "單喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "單喉癰"
+        ]
+      },
+      {
+        "ordinal": 261,
+        "level": 3,
+        "title": "外症喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "外症喉癰"
+        ]
+      },
+      {
+        "ordinal": 264,
+        "level": 3,
+        "title": "兜腮喉癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "兜腮喉癰"
+        ]
+      },
+      {
+        "ordinal": 267,
+        "level": 3,
+        "title": "舌上癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "舌上癰"
+        ]
+      },
+      {
+        "ordinal": 270,
+        "level": 3,
+        "title": "舌下癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "舌下癰"
+        ]
+      },
+      {
+        "ordinal": 273,
+        "level": 3,
+        "title": "上齶癰",
+        "path": [
+          "卷之五",
+          "喉癰門第五",
+          "上齶癰"
+        ]
+      },
+      {
+        "ordinal": 276,
+        "level": 2,
+        "title": "大舌門第六",
+        "path": [
+          "卷之五",
+          "大舌門第六"
+        ]
+      },
+      {
+        "ordinal": 278,
+        "level": 3,
+        "title": "木舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "木舌"
+        ]
+      },
+      {
+        "ordinal": 281,
+        "level": 3,
+        "title": "白腫舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "白腫舌"
+        ]
+      },
+      {
+        "ordinal": 284,
+        "level": 3,
+        "title": "爛邊舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "爛邊舌"
+        ]
+      },
+      {
+        "ordinal": 287,
+        "level": 3,
+        "title": "紅點紫舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "紅點紫舌"
+        ]
+      },
+      {
+        "ordinal": 290,
+        "level": 3,
+        "title": "純紫舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "純紫舌"
+        ]
+      },
+      {
+        "ordinal": 293,
+        "level": 3,
+        "title": "座蓮花舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "座蓮花舌"
+        ]
+      },
+      {
+        "ordinal": 296,
+        "level": 3,
+        "title": "重舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "重舌"
+        ]
+      },
+      {
+        "ordinal": 299,
+        "level": 3,
+        "title": "蓮花舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "蓮花舌"
+        ]
+      },
+      {
+        "ordinal": 302,
+        "level": 3,
+        "title": "黃焦舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "黃焦舌"
+        ]
+      },
+      {
+        "ordinal": 305,
+        "level": 3,
+        "title": "舌上珠",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "舌上珠"
+        ]
+      },
+      {
+        "ordinal": 308,
+        "level": 3,
+        "title": "舌下珠",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "舌下珠"
+        ]
+      },
+      {
+        "ordinal": 311,
+        "level": 3,
+        "title": "左雀舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "左雀舌"
+        ]
+      },
+      {
+        "ordinal": 314,
+        "level": 3,
+        "title": "右雀舌",
+        "path": [
+          "卷之五",
+          "大舌門第六",
+          "右雀舌"
+        ]
+      },
+      {
+        "ordinal": 317,
+        "level": 1,
+        "title": "卷之六",
+        "path": [
+          "卷之六"
+        ]
+      },
+      {
+        "ordinal": 318,
+        "level": 2,
+        "title": "小舌門第七",
+        "path": [
+          "卷之六",
+          "小舌門第七"
+        ]
+      },
+      {
+        "ordinal": 320,
+        "level": 3,
+        "title": "胃火小舌",
+        "path": [
+          "卷之六",
+          "小舌門第七",
+          "胃火小舌"
+        ]
+      },
+      {
+        "ordinal": 323,
+        "level": 3,
+        "title": "胃毒小舌",
+        "path": [
+          "卷之六",
+          "小舌門第七",
+          "胃毒小舌"
+        ]
+      },
+      {
+        "ordinal": 326,
+        "level": 3,
+        "title": "積熱小舌",
+        "path": [
+          "卷之六",
+          "小舌門第七",
+          "積熱小舌"
+        ]
+      },
+      {
+        "ordinal": 329,
+        "level": 3,
+        "title": "純白小舌",
+        "path": [
+          "卷之六",
+          "小舌門第七",
+          "純白小舌"
+        ]
+      },
+      {
+        "ordinal": 332,
+        "level": 3,
+        "title": "懸旗小舌",
+        "path": [
+          "卷之六",
+          "小舌門第七",
+          "懸旗小舌"
+        ]
+      },
+      {
+        "ordinal": 335,
+        "level": 2,
+        "title": "雜喉門第八",
+        "path": [
+          "卷之六",
+          "雜喉門第八"
+        ]
+      },
+      {
+        "ordinal": 337,
+        "level": 3,
+        "title": "松子喉疔",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "松子喉疔"
+        ]
+      },
+      {
+        "ordinal": 340,
+        "level": 3,
+        "title": "走馬牙疳",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "走馬牙疳"
+        ]
+      },
+      {
+        "ordinal": 343,
+        "level": 3,
+        "title": "喉單",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "喉單"
+        ]
+      },
+      {
+        "ordinal": 346,
+        "level": 3,
+        "title": "喉菌",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "喉菌"
+        ]
+      },
+      {
+        "ordinal": 349,
+        "level": 3,
+        "title": "喉瘤症",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "喉瘤症"
+        ]
+      },
+      {
+        "ordinal": 352,
+        "level": 3,
+        "title": "叉喉瘤",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "叉喉瘤"
+        ]
+      },
+      {
+        "ordinal": 355,
+        "level": 3,
+        "title": "左陰瘡",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "左陰瘡"
+        ]
+      },
+      {
+        "ordinal": 358,
+        "level": 3,
+        "title": "右陰瘡",
+        "path": [
+          "卷之六",
+          "雜喉門第八",
+          "右陰瘡"
+        ]
+      }
+    ],
+    "images": [
+      {
+        "ordinal": 37,
+        "label": "右手圖",
+        "source": "urn:270:05017.jpg"
+      },
+      {
+        "ordinal": 41,
+        "label": "左手圖",
+        "source": "urn:270:05018.jpg"
+      },
+      {
+        "ordinal": 45,
+        "label": "針穴圖",
+        "source": "urn:270:05019.jpg"
+      },
+      {
+        "ordinal": 122,
+        "label": "簾珠喉",
+        "source": "urn:270:05020.jpg"
+      },
+      {
+        "ordinal": 125,
+        "label": "嗆食啞喉",
+        "source": "urn:270:05021.jpg"
+      },
+      {
+        "ordinal": 128,
+        "label": "內外腫喉",
+        "source": "urn:270:05022.jpg"
+      },
+      {
+        "ordinal": 131,
+        "label": "風熱喉",
+        "source": "urn:270:05023.jpg"
+      },
+      {
+        "ordinal": 134,
+        "label": "紫色虛喉",
+        "source": "urn:270:05024.jpg"
+      },
+      {
+        "ordinal": 137,
+        "label": "喉癬",
+        "source": "urn:270:05025.jpg"
+      },
+      {
+        "ordinal": 140,
+        "label": "喉疳",
+        "source": "urn:270:05026.jpg"
+      },
+      {
+        "ordinal": 143,
+        "label": "飛揚喉",
+        "source": "urn:270:05027.jpg"
+      },
+      {
+        "ordinal": 146,
+        "label": "虛啞喉",
+        "source": "urn:270:05028.jpg"
+      },
+      {
+        "ordinal": 149,
+        "label": "聲啞喉",
+        "source": "urn:270:05029.jpg"
+      },
+      {
+        "ordinal": 152,
+        "label": "爛沙喉",
+        "source": "urn:270:05030.jpg"
+      },
+      {
+        "ordinal": 157,
+        "label": "雙乳蛾",
+        "source": "urn:270:05031.jpg"
+      },
+      {
+        "ordinal": 160,
+        "label": "單乳蛾",
+        "source": "urn:270:05032.jpg"
+      },
+      {
+        "ordinal": 163,
+        "label": "爛乳蛾",
+        "source": "urn:270:05033.jpg"
+      },
+      {
+        "ordinal": 166,
+        "label": "風寒蛾",
+        "source": "urn:270:05034.jpg"
+      },
+      {
+        "ordinal": 169,
+        "label": "白色喉蛾",
+        "source": "urn:270:05035.jpg"
+      },
+      {
+        "ordinal": 172,
+        "label": "石蛾",
+        "source": "urn:270:05036.jpg"
+      },
+      {
+        "ordinal": 175,
+        "label": "伏寒乳蛾",
+        "source": "urn:270:05037.jpg"
+      },
+      {
+        "ordinal": 182,
+        "label": "爛喉痹",
+        "source": "urn:270:05038.jpg"
+      },
+      {
+        "ordinal": 185,
+        "label": "白色喉痹",
+        "source": "urn:270:05039.jpg"
+      },
+      {
+        "ordinal": 188,
+        "label": "寒伏喉痹",
+        "source": "urn:270:05040.jpg"
+      },
+      {
+        "ordinal": 191,
+        "label": "雙喉痹",
+        "source": "urn:270:05041.jpg"
+      },
+      {
+        "ordinal": 194,
+        "label": "單喉痹",
+        "source": "urn:270:05042.jpg"
+      },
+      {
+        "ordinal": 197,
+        "label": "淡紅喉痹",
+        "source": "urn:270:05043.jpg"
+      },
+      {
+        "ordinal": 200,
+        "label": "走馬喉痹",
+        "source": "urn:270:05044.jpg"
+      },
+      {
+        "ordinal": 205,
+        "label": "內腫鎖喉風",
+        "source": "urn:270:05045.jpg"
+      },
+      {
+        "ordinal": 208,
+        "label": "纏喉風",
+        "source": "urn:270:05046.jpg"
+      },
+      {
+        "ordinal": 211,
+        "label": "匝舌喉風",
+        "source": "urn:270:05047.jpg"
+      },
+      {
+        "ordinal": 214,
+        "label": "虛爛喉風",
+        "source": "urn:270:05048.jpg"
+      },
+      {
+        "ordinal": 217,
+        "label": "白色喉風",
+        "source": "urn:270:05049.jpg"
+      },
+      {
+        "ordinal": 220,
+        "label": "酒毒喉風",
+        "source": "urn:270:05050.jpg"
+      },
+      {
+        "ordinal": 223,
+        "label": "勞碌喉風",
+        "source": "urn:270:05051.jpg"
+      },
+      {
+        "ordinal": 226,
+        "label": "酒寒喉風",
+        "source": "urn:270:05052.jpg"
+      },
+      {
+        "ordinal": 229,
+        "label": "腫爛喉風",
+        "source": "urn:270:05053.jpg"
+      },
+      {
+        "ordinal": 232,
+        "label": "肺寒喉風",
+        "source": "urn:270:05054.jpg"
+      },
+      {
+        "ordinal": 235,
+        "label": "辛苦喉風",
+        "source": "urn:270:05055.jpg"
+      },
+      {
+        "ordinal": 238,
+        "label": "淡紅喉風",
+        "source": "urn:270:05056.jpg"
+      },
+      {
+        "ordinal": 244,
+        "label": "伏寒喉癰",
+        "source": "urn:270:05057.jpg"
+      },
+      {
+        "ordinal": 247,
+        "label": "腫爛喉癰",
+        "source": "urn:270:05058.jpg"
+      },
+      {
+        "ordinal": 250,
+        "label": "淡白喉癰",
+        "source": "urn:270:05059.jpg"
+      },
+      {
+        "ordinal": 253,
+        "label": "大紅喉癰",
+        "source": "urn:270:05060.jpg"
+      },
+      {
+        "ordinal": 256,
+        "label": "聲啞喉癰",
+        "source": "urn:270:05061.jpg"
+      },
+      {
+        "ordinal": 259,
+        "label": "單喉癰",
+        "source": "urn:270:05062.jpg"
+      },
+      {
+        "ordinal": 262,
+        "label": "外症喉癰",
+        "source": "urn:270:05063.jpg"
+      },
+      {
+        "ordinal": 265,
+        "label": "兜腮喉癰",
+        "source": "urn:270:05064.jpg"
+      },
+      {
+        "ordinal": 268,
+        "label": "舌上癰",
+        "source": "urn:270:05065.jpg"
+      },
+      {
+        "ordinal": 271,
+        "label": "舌下癰",
+        "source": "urn:270:05066.jpg"
+      },
+      {
+        "ordinal": 274,
+        "label": "上齶癰",
+        "source": "urn:270:05067.jpg"
+      },
+      {
+        "ordinal": 279,
+        "label": "木舌",
+        "source": "urn:270:05068.jpg"
+      },
+      {
+        "ordinal": 282,
+        "label": "白腫舌",
+        "source": "urn:270:05069.jpg"
+      },
+      {
+        "ordinal": 285,
+        "label": "爛邊舌",
+        "source": "urn:270:05070.jpg"
+      },
+      {
+        "ordinal": 288,
+        "label": "紅點紫舌",
+        "source": "urn:270:05071.jpg"
+      },
+      {
+        "ordinal": 291,
+        "label": "純紫舌",
+        "source": "urn:270:05072.jpg"
+      },
+      {
+        "ordinal": 294,
+        "label": "座蓮花舌",
+        "source": "urn:270:05073.jpg"
+      },
+      {
+        "ordinal": 297,
+        "label": "重舌",
+        "source": "urn:270:05074.jpg"
+      },
+      {
+        "ordinal": 300,
+        "label": "蓮花舌",
+        "source": "urn:270:05075.jpg"
+      },
+      {
+        "ordinal": 303,
+        "label": "黃焦舌",
+        "source": "urn:270:05076.jpg"
+      },
+      {
+        "ordinal": 306,
+        "label": "舌上珠",
+        "source": "urn:270:05077.jpg"
+      },
+      {
+        "ordinal": 309,
+        "label": "舌下珠",
+        "source": "urn:270:05078.jpg"
+      },
+      {
+        "ordinal": 312,
+        "label": "左雀舌",
+        "source": "urn:270:05079.jpg"
+      },
+      {
+        "ordinal": 315,
+        "label": "右雀舌",
+        "source": "urn:270:05080.jpg"
+      },
+      {
+        "ordinal": 321,
+        "label": "胃火小舌",
+        "source": "urn:270:05081.jpg"
+      },
+      {
+        "ordinal": 324,
+        "label": "胃毒小舌",
+        "source": "urn:270:05082.jpg"
+      },
+      {
+        "ordinal": 327,
+        "label": "積熱小舌",
+        "source": "urn:270:05083.jpg"
+      },
+      {
+        "ordinal": 330,
+        "label": "純白小舌",
+        "source": "urn:270:05084.jpg"
+      },
+      {
+        "ordinal": 333,
+        "label": "懸旗小舌",
+        "source": "urn:270:05085.jpg"
+      },
+      {
+        "ordinal": 338,
+        "label": "松子喉疔",
+        "source": "urn:270:05086.jpg"
+      },
+      {
+        "ordinal": 341,
+        "label": "走馬牙疳",
+        "source": "urn:270:05087.jpg"
+      },
+      {
+        "ordinal": 344,
+        "label": "喉單",
+        "source": "urn:270:05088.jpg"
+      },
+      {
+        "ordinal": 347,
+        "label": "喉菌",
+        "source": "urn:270:05089.jpg"
+      },
+      {
+        "ordinal": 350,
+        "label": "喉瘤症",
+        "source": "urn:270:05090.jpg"
+      },
+      {
+        "ordinal": 353,
+        "label": "叉喉瘤",
+        "source": "urn:270:05091.jpg"
+      },
+      {
+        "ordinal": 356,
+        "label": "左陰瘡",
+        "source": "urn:270:05092.jpg"
+      },
+      {
+        "ordinal": 359,
+        "label": "右陰瘡",
+        "source": "urn:270:05093.jpg"
+      }
+    ],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "4836b265225d1b5d1ddcd344",
+        "title": "咽喉大纲论",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "也；左寸浮洪者，心火也；右寸沉遲者，□伏寒也；沉數者，伏熱也，右尺洪大者，",
+          "切，以此推詳，庶無差誤。余習幾十年來□□□□□見其效，今謹集要方九方，製藥",
+          "法、看治法臨症□□□□□□諸其人也。"
+        ]
+      },
+      {
+        "chapter_key": "4436bf52987098f8092cd104",
+        "title": "烂喉痹",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "兼服八仙散，每日二錢、津化嚥下。此症□□身涼不治。"
+        ]
+      },
+      {
+        "chapter_key": "77b418a2391efc430ee57dfd",
+        "title": "淡红喉风",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "寸關脈弦緊。針少商、少衝、關衝（兩手□穴。）急者患上亦可挑破。用六味湯加："
+        ]
+      },
+      {
+        "chapter_key": "96a0348a6e8250196400667b",
+        "title": "叉喉瘤",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "喉瘤亦有生於關外，亦名曰瘤，故法□以著症同，而地部異耳。治法如前。"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 100,
+      "paragraph_blocks": 260,
+      "nonempty_paragraph_blocks": 260,
+      "represented_paragraph_blocks": 260
+    }
+  }
+]

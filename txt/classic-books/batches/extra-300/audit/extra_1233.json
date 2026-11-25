@@ -1,0 +1,138 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E9%86%AB%E5%A3%98%E5%85%83%E6%88%8E/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "傷寒不可汗不可下不可吐諸證",
+        "path": [
+          "傷寒不可汗不可下不可吐諸證"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "太陽證",
+        "path": [
+          "太陽證"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 1,
+        "title": "易簡建中加減法",
+        "path": [
+          "易簡建中加減法"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 1,
+        "title": "陽明證",
+        "path": [
+          "陽明證"
+        ]
+      },
+      {
+        "ordinal": 45,
+        "level": 1,
+        "title": "少陽證",
+        "path": [
+          "少陽證"
+        ]
+      },
+      {
+        "ordinal": 50,
+        "level": 1,
+        "title": "活人治婦人傷寒妊娠服藥例",
+        "path": [
+          "活人治婦人傷寒妊娠服藥例"
+        ]
+      },
+      {
+        "ordinal": 56,
+        "level": 1,
+        "title": "太陰證",
+        "path": [
+          "太陰證"
+        ]
+      },
+      {
+        "ordinal": 62,
+        "level": 1,
+        "title": "少陰證",
+        "path": [
+          "少陰證"
+        ]
+      },
+      {
+        "ordinal": 81,
+        "level": 1,
+        "title": "厥陰證",
+        "path": [
+          "厥陰證"
+        ]
+      },
+      {
+        "ordinal": 92,
+        "level": 1,
+        "title": "三焦熱用藥大例",
+        "path": [
+          "三焦熱用藥大例"
+        ]
+      },
+      {
+        "ordinal": 105,
+        "level": 1,
+        "title": "發癍諸藥",
+        "path": [
+          "發癍諸藥"
+        ]
+      },
+      {
+        "ordinal": 147,
+        "level": 1,
+        "title": "發黃兼諸雜證",
+        "path": [
+          "發黃兼諸雜證"
+        ]
+      },
+      {
+        "ordinal": 170,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 173,
+        "level": 1,
+        "title": "聖世無補",
+        "path": [
+          "聖世無補"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "e8e0aae7e234d231fddac0f5",
+        "title": "活人治妇人伤寒妊娠服药例",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "子等炙） 桂枝 乾薑（炮） 黃連（去□八錢） 蜀椒（去目及開口微炒去汗） "
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 14,
+      "paragraph_blocks": 161,
+      "nonempty_paragraph_blocks": 161,
+      "represented_paragraph_blocks": 161
+    }
+  }
+]

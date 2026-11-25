@@ -1,0 +1,1889 @@
+{
+  "digital_text": {
+    "site": "中医笈成",
+    "license": "CC0",
+    "statement": "https://jicheng.tw/tcm/copyright.html"
+  },
+  "sources": [
+    {
+      "key": "shanghanlun",
+      "bookname": "伤寒论",
+      "edition": "傷寒論（宋本）",
+      "edition_basis": "《仲景全書·傷寒論》，明萬曆二十七年趙開美刊本（國立中央圖書館典藏國立北平圖書館善本：平圖011603–011604）；日本安政三年覆刊明萬曆間趙開美本（故宮善本：故觀003364–003367）；日本鈔本（國家圖書館掃描本）；舊鈔本（國家圖書館掃描本）",
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+      "snapshot_sha256": "fb02503bc9323eea9ca377603ffb5de61defa8bb212c4fb1e6b97ac2c5635f72",
+      "scans": [
+        {
+          "label": "國立中央圖書館典藏國立北平圖書館善本",
+          "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/4076997z8=b=J"
+        },
+        {
+          "label": "故宮善本",
+          "url": "https://rarebooks-maps.npm.edu.tw/index.php?act=Display/image/407700Fw7xCAN"
+        },
+        {
+          "label": "國家圖書館掃描本",
+          "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=e668c4ba9def4310bd6fce38d33333c3fDcyMTI40&SourceID=0"
+        },
+        {
+          "label": "國家圖書館掃描本",
+          "url": "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?item=cdb6175100b64d5f9f3fa37532fe91c8fDcyMTI30&SourceID=0"
+        }
+      ],
+      "selected": 47
+    }
+  ],
+  "records": [
+    {
+      "diseases": "太阳中风",
+      "symptoms": "发热/自汗/恶风/恶寒/鼻鸣/干呕",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "桂枝汤：桂枝（三两，去皮） 芍药（三两） 甘草（二两，炙） 生姜（三两，切） 大枣（十二枚，擘）",
+      "content": "太阳中风，阳浮而阴弱，阳浮者，热自发，阴弱者，汗自出。啬啬恶寒，淅淅恶风，翕翕发热，鼻鸣干呕者，桂枝汤主之。",
+      "modern_prescription": "[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文并列阳浮、阴弱及汗出恶风等表现，归为太阳中风，原载桂枝汤。\n文献出处：《伤寒论》（宋本）卷第二 · 辨太阳病脉证并治上第五，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "9c1268251ed1c60f4daa233b",
+        "chapter": "辨太阳病脉证并治上第五",
+        "volume": "卷第二",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          12
+        ],
+        "prescription_paragraph": 12,
+        "sha256": "17519c0f84cb1898ba565c835c3cd5b259e6b4cb20e59aad5d15da9fb3d7be5f",
+        "chapter_sha256": "2b437e5625583e1d24a19816c3cb65d79eb41a6631e76608132f69e82a569eeb",
+        "formulas": [
+          {
+            "name": "桂枝汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 14,
+            "composition_line": 15,
+            "composition_sha256": "a578bdeef1fb1dcf80d310eb708eb6a8d78a70ecff218866af3c2f3b544dd43a"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病发汗后漏汗",
+      "symptoms": "汗出不止/恶风/小便难/四肢拘急",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "桂枝加附子汤：桂枝（三两，去皮） 芍药（三两） 甘草（三两，炙） 生姜（三两，切） 大枣（十二枚，擘） 附子（一枚，炮，去皮，破八片）",
+      "content": "太阳病，发汗，遂漏不止，其人恶风，小便难，四肢微急，难以屈伸者，桂枝加附子汤主之。",
+      "modern_prescription": "[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"附子\",\"note\":\"炮、去皮、破八片\",\"dose\":\"\"}]",
+      "summary": "辨证条文。辨治起于发汗后漏汗不止，兼见恶风、小便难及四肢屈伸不利，原载桂枝加附子汤。\n文献出处：《伤寒论》（宋本）卷第二 · 辨太阳病脉证并治上第五，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "9c1268251ed1c60f4daa233b",
+        "chapter": "辨太阳病脉证并治上第五",
+        "volume": "卷第二",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          28
+        ],
+        "prescription_paragraph": 28,
+        "sha256": "4f14235ac5c4c08b05e0e0dbc6bc37dc75b323ddfb438aeb73d36ba11865efd9",
+        "chapter_sha256": "2b437e5625583e1d24a19816c3cb65d79eb41a6631e76608132f69e82a569eeb",
+        "formulas": [
+          {
+            "name": "桂枝加附子汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 30,
+            "composition_line": 31,
+            "composition_sha256": "5b980d7771f6e462fc8432587465139d1aea0ab63fd05e88f2d8a159e6f545bb"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病如疟状",
+      "symptoms": "发热恶寒/身痒/热多寒少",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "桂枝麻黄各半汤：桂枝（一两十六铢，去皮） 芍药 生姜（切） 甘草（炙） 麻黄（去节，各一两） 大枣（四枚，擘） 杏仁（二十四枚，汤浸，去皮尖及两仁者）",
+      "content": "太阳病，得之八九日，如疟状，发热恶寒，热多寒少，其人不呕，清便欲自可，一日二三度发。脉微缓者，为欲愈也；脉微而恶寒者，此阴阳俱虚，不可更发汗、更下、更吐也；面色反有热色者，未欲解也，以其不能得小汗出，身必痒，宜桂枝麻黄各半汤。",
+      "modern_prescription": "[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"麻黄\",\"note\":\"去节\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"杏仁\",\"note\":\"汤浸、去皮尖及两仁者\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文先列脉微缓及脉微恶寒两种转归，再以面有热色、身痒辨其未解，原载桂枝麻黄各半汤。\n文献出处：《伤寒论》（宋本）卷第二 · 辨太阳病脉证并治上第五，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "9c1268251ed1c60f4daa233b",
+        "chapter": "辨太阳病脉证并治上第五",
+        "volume": "卷第二",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          43
+        ],
+        "prescription_paragraph": 43,
+        "sha256": "c77e1115e10d59462874f4b6a23b1bcfbe85fcd0413986f9d0716d59a307ba92",
+        "chapter_sha256": "2b437e5625583e1d24a19816c3cb65d79eb41a6631e76608132f69e82a569eeb",
+        "formulas": [
+          {
+            "name": "桂枝麻黄各半汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 45,
+            "composition_line": 46,
+            "composition_sha256": "f0241b30a9464364a51e6d9a61b4993732f7d550b97500c1fcb8d627ffac5b8c"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "桂枝汤后烦渴",
+      "symptoms": "大汗/烦渴/脉洪大",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "白虎加人参汤：知母（六两） 石膏（一斤，碎，绵裹） 甘草（二两，炙） 粳米（六合） 人参（三两）",
+      "content": "服桂枝汤，大汗出后，大烦渴不解，脉洪大者，白虎加人参汤主之。",
+      "modern_prescription": "[{\"name\":\"知母\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"石膏\",\"note\":\"碎、绵裹\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"粳米\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以服桂枝汤后大汗出、烦渴不解和脉洪大为辨治要点，原载白虎加人参汤。\n文献出处：《伤寒论》（宋本）卷第二 · 辨太阳病脉证并治上第五，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "9c1268251ed1c60f4daa233b",
+        "chapter": "辨太阳病脉证并治上第五",
+        "volume": "卷第二",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          54
+        ],
+        "prescription_paragraph": 54,
+        "sha256": "2f3f2bc4dae31a123e724ac6574cc2a482ea4af83052382fdd31f0aceff1a218",
+        "chapter_sha256": "2b437e5625583e1d24a19816c3cb65d79eb41a6631e76608132f69e82a569eeb",
+        "formulas": [
+          {
+            "name": "白虎加人参汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 56,
+            "composition_line": 57,
+            "composition_sha256": "ee0d3dceaf89f23875d39609e49916f94ce61ef473affaeb405036daa198b7c2"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病项背强",
+      "symptoms": "项背强/无汗/恶风",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "葛根汤：葛根（四两） 麻黄（三两，去节） 桂枝（二两，去皮） 生姜（三两，切） 甘草（二两，炙） 芍药（二两） 大枣（十二枚，擘）",
+      "content": "太阳病，项背强𠘧𠘧，无汗恶风，葛根汤主之。",
+      "modern_prescription": "[{\"name\":\"葛根\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"麻黄\",\"note\":\"去节\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。项背强而无汗、恶风，是本条列举的辨治要点，原载葛根汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          1
+        ],
+        "prescription_paragraph": 1,
+        "sha256": "0497cd0c505e38c02cf9e10424f677361789884d3e7ef6ab2ce6c2ea6f206da2",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "葛根汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 3,
+            "composition_line": 4,
+            "composition_sha256": "4d0b8b8b2b75096e9d468c63ecea685ab9609f3d3db64bd82691d6e636d9136f"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病误下后下利",
+      "symptoms": "下利不止/脉促/喘/汗出",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "葛根黄芩黄连汤：葛根（半斤） 甘草（二两，炙） 黄芩（三两） 黄连（三两）",
+      "content": "太阳病，桂枝证，医反下之，利遂不止。脉促者，表未解也。喘而汗出者，葛根黄芩黄连汤主之。",
+      "modern_prescription": "[{\"name\":\"葛根\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文从桂枝证误下后下利叙起，以脉促说明表未解，并在喘而汗出一支列葛根黄芩黄连汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          12
+        ],
+        "prescription_paragraph": 12,
+        "sha256": "096bff2e0f5c3c41e2f10e6c0c4bcfe9a213bdded35623952e78ac0a7709e319",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "葛根黄芩黄连汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 14,
+            "composition_line": 15,
+            "composition_sha256": "de8a5262179e6167e681e42d1ca20b13f76c5baca1422d6ac2fcb30a34ae8c46"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病无汗而喘",
+      "symptoms": "头痛/发热/身疼/腰痛/骨节疼痛/恶风/无汗/喘",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "麻黄汤：麻黄（三两，去节） 桂枝（二两，去皮） 甘草（一两，炙） 杏仁（七十个，去皮尖）",
+      "content": "太阳病，头痛，发热，身疼，腰痛，骨节疼痛，恶风，无汗而喘者，麻黄汤主之。",
+      "modern_prescription": "[{\"name\":\"麻黄\",\"note\":\"去节\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"杏仁\",\"note\":\"去皮尖\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文同列发热、周身疼痛、恶风及无汗而喘，原载麻黄汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          17
+        ],
+        "prescription_paragraph": 17,
+        "sha256": "1232ef02dfcd3f4b3e08253f78aebf659ebed59d4e07e0708875a8a068c7ae51",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "麻黄汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 19,
+            "composition_line": 20,
+            "composition_sha256": "2ba92c2b46baf51d3c54c8bcdba0ea69834861a3f6fdd6d3f52dcc315103f42e"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病无汗烦躁",
+      "symptoms": "脉浮紧/发热/恶寒/身疼/无汗/烦躁",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "大青龙汤：麻黄（六两，去节） 桂枝（二两，去皮） 甘草（二两，炙） 杏仁（四十枚，去皮尖） 生姜（三两，切） 大枣（十枚，擘） 石膏（如鸡子大，碎）",
+      "content": "太阳中风，脉浮紧，发热恶寒，身疼痛，不汗出而烦躁者，大青龙汤主之。若脉微弱，汗出恶风者，不可服之，服之则厥逆，筋惕肉瞤，此为逆也。",
+      "modern_prescription": "[{\"name\":\"麻黄\",\"note\":\"去节\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"杏仁\",\"note\":\"去皮尖\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"石膏\",\"note\":\"碎\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以脉浮紧、无汗烦躁等表现列大青龙汤，并另列脉微弱、汗出恶风时的禁例。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          24
+        ],
+        "prescription_paragraph": 24,
+        "sha256": "58276193636c855e807b76b049747f5ea0fb97adf86a1f82b8bdc8773bc5e47b",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "大青龙汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 26,
+            "composition_line": 27,
+            "composition_sha256": "eb12a1b77805b06fe3a9d4a87572e6231af64ed5bd47adad0502fa7cebdd5adc"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "伤寒表不解兼水气",
+      "symptoms": "干呕/发热/咳嗽/喘",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "小青龙汤：麻黄（去节） 芍药 细辛 干姜 甘草（炙） 桂枝（去皮，各三两） 五味子（半升） 半夏（半升，洗）",
+      "content": "伤寒表不解，心下有水气，干呕，发热而欬，或渴，或利，或噎，或小便不利，少腹满，或喘者，小青龙汤主之。",
+      "modern_prescription": "[{\"name\":\"麻黄\",\"note\":\"去节\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"细辛\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"五味子\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文并述表未解与心下有水气，以干呕、发热咳嗽为主述，另列渴、下利等或见表现，原载小青龙汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          30
+        ],
+        "prescription_paragraph": 30,
+        "sha256": "549868e2c752cf36f7deaba1e5c406556fee4a398ce31ac9b192a4ef74d47336",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "小青龙汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 32,
+            "composition_line": 33,
+            "composition_sha256": "1dc823d2cb79f13f83abc8003784afcfa69ca7e3ef547453f9e02a5a89c70d60"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "伤寒吐下后气上冲",
+      "symptoms": "心下逆满/气上冲胸/头眩/脉沉紧",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "茯苓桂枝白术甘草汤：茯苓（四两） 桂枝（三两，去皮） 白术 甘草（炙，各二两）",
+      "content": "伤寒，若吐若下后，心下逆满，气上冲胸，起则头眩，脉沈紧，发汗则动经，身为振振摇者，茯苓桂枝白术甘草汤主之。",
+      "modern_prescription": "[{\"name\":\"茯苓\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"白术\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文记吐下后心下逆满、气上冲胸及起身眩晕，原载茯苓桂枝白术甘草汤，并记再发汗之变。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          90
+        ],
+        "prescription_paragraph": 90,
+        "sha256": "b3e6dece4e43c29514b94ee78cf658997b0314424cb885ff6a8ab82508696660",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "茯苓桂枝白术甘草汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 92,
+            "composition_line": 93,
+            "composition_sha256": "8650df3ce1b870f12bbe980f7949c5d4bdfbfd23850d7a7245b03a8b4e4681e9"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳病水逆",
+      "symptoms": "发热/烦/口渴/水入则吐",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "五苓散：猪苓（十八铢，去皮） 泽泻（一两六铢） 白术（十八铢） 茯苓（十八铢） 桂枝（半两，去皮）",
+      "content": "中风发热，六七日不解而烦，有表里证，渴欲饮水，水入则吐者，名曰水逆，五苓散主之。",
+      "modern_prescription": "[{\"name\":\"猪苓\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"泽泻\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"白术\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"茯苓\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"}]",
+      "summary": "辨证条文。渴而欲饮、饮水即吐在条文中定名水逆，原载五苓散。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          117
+        ],
+        "prescription_paragraph": 117,
+        "sha256": "c70aa3417e721512dad2c5404a5d84dbcc1b4173cc0ba88bae53af93d706d5c1",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "五苓散",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 108,
+            "composition_line": 109,
+            "composition_sha256": "97d7db10f2917dcee99eb7763c150780ccc38e17e0c2b636133aad84ef771629"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "汗下后烦热胸窒",
+      "symptoms": "烦热/胸中窒",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "栀子豉汤：栀子（十四个，擘） 香豉（四合，绵裹）",
+      "content": "发汗，若下之，而烦热，胸中窒者，栀子豉汤主之。",
+      "modern_prescription": "[{\"name\":\"栀子\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"香豉\",\"note\":\"绵裹\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以发汗或下后出现烦热、胸中窒为辨治要点，原载栀子豉汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          132
+        ],
+        "prescription_paragraph": 132,
+        "sha256": "ea7adf329849891b1f8c78e3b27149cb91e107020e6b5b264078cf3c54a50d57",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "栀子豉汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 121,
+            "composition_line": 122,
+            "composition_sha256": "2e43bac2eec587daa2524b86673a35f67647fe37c93d4d7c4c76be0fba74fa2c"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "小柴胡汤所载寒热证",
+      "symptoms": "往来寒热/胸胁苦满/不欲饮食/心烦/喜呕",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "小柴胡汤：柴胡（半斤） 黄芩（三两） 人参（三两） 半夏（半升，洗） 甘草（炙） 生姜（切，各三两） 大枣（十二枚，擘）",
+      "content": "伤寒五六日，中风，往来寒热，胸脇苦满，嘿嘿不欲饮食，心烦喜呕。或胸中烦而不呕，或渴，或腹中痛，或脇下痞鞕，或心下悸、小便不利，或不渴、身有微热，或欬者，小柴胡汤主之。",
+      "modern_prescription": "[{\"name\":\"柴胡\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文列往来寒热、胸胁苦满、不欲饮食和心烦喜呕等主述，继列数种或见表现，原载小柴胡汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          165
+        ],
+        "prescription_paragraph": 165,
+        "sha256": "e61e5c9d35a0acfb50709df567eed794d7c83178b82e13c86032d633a34584e6",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "小柴胡汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 167,
+            "composition_line": 168,
+            "composition_sha256": "4e671df424b8b4295cd231ec0571feecd21e64110c889fac081ceac6037ec140"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "伤寒心悸而烦",
+      "symptoms": "心悸/烦",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "小建中汤：桂枝（三两，去皮） 甘草（二两，炙） 大枣（二十枚，擘） 芍药（六两） 生姜（三两，切） 胶饴（一升）",
+      "content": "伤寒二三日，心中悸而烦者，小建中汤主之。",
+      "modern_prescription": "[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"胶饴\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以伤寒二三日、心中悸而烦为辨治要点，原载小建中汤。\n文献出处：《伤寒论》（宋本）卷第三 · 辨太阳病脉证并治中第六，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "c758ac1a235a52e38d3e465c",
+        "chapter": "辨太阳病脉证并治中第六",
+        "volume": "卷第三",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          179
+        ],
+        "prescription_paragraph": 179,
+        "sha256": "6fbd0273a76d6c66e59403b2dab8e60df3791d6447b01fb4bc5c12da39ff290f",
+        "chapter_sha256": "b1f242ff78e7e8f6c901f48b982e45d465ba35b762ba83e01a5d95faaaeaaafa",
+        "formulas": [
+          {
+            "name": "小建中汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 175,
+            "composition_line": 176,
+            "composition_sha256": "7ff8013a727fdef13be1fca159cfb78819a030c3c732995227d3226349f89ce7"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "结胸热实",
+      "symptoms": "心下痛/按之石硬/脉沉紧",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "大陷胸汤：大黄（六两，去皮） 芒硝（一升） 甘遂（一钱匕）",
+      "content": "伤寒六七日，结胸热实，脉沈而紧，心下痛，按之石鞕者，大陷胸汤主之。",
+      "modern_prescription": "[{\"name\":\"大黄\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芒硝\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘遂\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文定名结胸热实，并列脉沉紧、心下痛和按之石硬，原载大陷胸汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          16
+        ],
+        "prescription_paragraph": 16,
+        "sha256": "17146de5c4567ef17ad2ab1e0be974f06828df5fc03fe02a77be8d8fb3c517f9",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "大陷胸汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 13,
+            "composition_line": 14,
+            "composition_sha256": "953addcebd2724872ee2e82b3730803566dbdbe0c52224b61386a1c3100f0d99"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "小结胸",
+      "symptoms": "心下按痛/脉浮滑",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "小陷胸汤：黄连（一两） 半夏（半升，洗） 栝蒌实（大者一枚）",
+      "content": "小结胸病，正在心下，按之则痛，脉浮滑者，小陷胸汤主之。",
+      "modern_prescription": "[{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"栝蒌实\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以病位在心下、按之则痛、脉浮滑辨小结胸，原载小陷胸汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          19
+        ],
+        "prescription_paragraph": 19,
+        "sha256": "a7575782e4a9fc8490911f1a7b26917469ced091e31c3f4a4ddbb2b9fa27d140",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "小陷胸汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 21,
+            "composition_line": 22,
+            "composition_sha256": "9a019b3f7e3a50827b14ade3c078f2ebef469dd4b9a9d3a505db251a6037e7f3"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "误下后心下痞",
+      "symptoms": "心下满而不痛",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "半夏泻心汤：半夏（半升，洗） 黄芩 干姜 人参 甘草（炙，各三两） 黄连（一两） 大枣（十二枚，擘）",
+      "content": "伤寒五六日，呕而发热者，柴胡汤证具，而以他药下之，柴胡证仍在者，复与柴胡汤。此虽已下之，不为逆，必蒸蒸而振，却发热汗出而解。若心下满而鞕痛者，此为结胸也，大陷胸汤主之。但满而不痛者，此为痞，柴胡不中与之，宜半夏泻心汤。",
+      "modern_prescription": "[{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文区分误下后柴胡证仍在、心下硬痛的结胸及心下满而不痛的痞。本条整理痞的一支，原载半夏泻心汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          51
+        ],
+        "prescription_paragraph": 51,
+        "sha256": "5f001ff57e3135dfdd20b10342ea4b6edecc51d6b60a3c3fb241c96a5265ef9c",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "半夏泻心汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 53,
+            "composition_line": 54,
+            "composition_sha256": "a02a840347df9f5705e41e48fa52f152307ea4b4e1ad0d793b7baab80d273f21"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "汗解后胃中不和",
+      "symptoms": "心下痞硬/干噫食臭/腹中雷鸣/下利",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "生姜泻心汤：生姜（四两，切） 甘草（三两，炙） 人参（三两） 干姜（一两） 黄芩（三两） 半夏（半升，洗） 黄连（一两） 大枣（十二枚，擘）",
+      "content": "伤寒汗出，解之后，胃中不和，心下痞鞕，干噫食臭，脇下有水气，腹中雷鸣，下利者，生姜泻心汤主之。",
+      "modern_prescription": "[{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以汗出解后胃中不和为背景，合述心下痞硬、干噫食臭、腹鸣和下利，原载生姜泻心汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          75
+        ],
+        "prescription_paragraph": 75,
+        "sha256": "595aed49f217fc80f8d64ccb45683c19109e6ed270a63cb00bfdbf4f1cbafefe",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "生姜泻心汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 77,
+            "composition_line": 78,
+            "composition_sha256": "db87ee2590f5c3ae7e966e0ea3946ff77452ddaa4a90a9d2ac32dc9e7ec4acd2"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "误下后胃虚痞利",
+      "symptoms": "下利/谷不化/腹中雷鸣/心下痞硬/干呕/心烦",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "甘草泻心汤：甘草（四两，炙） 黄芩（三两） 半夏（半升，洗） 大枣（十二枚，擘） 黄连（一两） 干姜（三两）",
+      "content": "伤寒中风，医反下之，其人下利，日数十行，谷不化，腹中雷鸣，心下痞鞕而满，干呕，心烦不得安。医见心下痞，谓病不尽，复下之，其痞益甚，此非结热，但以胃中虚，客气上逆，故使鞕也，甘草泻心汤主之。",
+      "modern_prescription": "[{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文记屡下而痞益甚，并以胃中虚、客气上逆解释其痞，原载甘草泻心汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          81
+        ],
+        "prescription_paragraph": 81,
+        "sha256": "7a8379c9f01e382f5a604e89a4aafd459dcb977cc603b9cade31dc64019a7758",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "甘草泻心汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 83,
+            "composition_line": 84,
+            "composition_sha256": "d65702434c495b7c52ea8509a6f83ec80a160e2caf5bb5b5f6fd6ad80c323dfa"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "汗吐下后痞硬噫气",
+      "symptoms": "心下痞硬/噫气",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "旋覆代赭汤：旋覆花（三两） 人参（二两） 生姜（五两） 代赭（一两） 甘草（三两，炙） 半夏（半升，洗） 大枣（十二枚，擘）",
+      "content": "伤寒发汗，若吐若下，解后，心下痞鞕，噫气不除者，旋覆代赭汤主之。",
+      "modern_prescription": "[{\"name\":\"旋覆花\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"代赭\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。汗、吐或下后，条文以心下痞硬、噫气不除为辨治要点，原载旋覆代赭汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          92
+        ],
+        "prescription_paragraph": 92,
+        "sha256": "cd17a6aa6b5686a6abc381255c1b6e08cad141f0b0c5dfdf1761e0773305d9c4",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "旋覆代赭汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 94,
+            "composition_line": 95,
+            "composition_sha256": "3a615780473fc1bdbc093347275fbdcbbca26c2f198ec03107855d4df37000f1"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "伤寒脉结代心动悸",
+      "symptoms": "脉结代/心悸",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "炙甘草汤：甘草（四两，炙） 生姜（三两，切） 人参（二两） 生地黄（一斤） 桂枝（三两，去皮） 阿胶（二两） 麦门冬（半斤，去心） 麻仁（半升） 大枣（三十枚，擘）",
+      "content": "伤寒，脉结代，心动悸，炙甘草汤主之。",
+      "modern_prescription": "[{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生地黄\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"阿胶\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"麦门冬\",\"note\":\"去心\",\"dose\":\"\"},{\"name\":\"麻仁\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文将脉结代与心动悸并列，原载炙甘草汤。\n文献出处：《伤寒论》（宋本）卷第四 · 辨太阳病脉证并治下第七，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "0c1081f1220b2aa7264bda90",
+        "chapter": "辨太阳病脉证并治下第七",
+        "volume": "卷第四",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          148
+        ],
+        "prescription_paragraph": 148,
+        "sha256": "8bd4bab06374042e92a73f7d685f1c9a6816314ac0dc90911011c5a28a63d912",
+        "chapter_sha256": "e27299fba2b2585595ae2a467a39d714fc965a7c89878e085693ed9517fc6fee",
+        "formulas": [
+          {
+            "name": "炙甘草汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 150,
+            "composition_line": 151,
+            "composition_sha256": "aa9d19f8f771a1e8890a46170c67545c8d97871f0d44fe0ad044ee0f04c0272b"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "阳明病未吐下而心烦",
+      "symptoms": "心烦",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "调胃承气汤：甘草（二两，炙） 芒硝（半升） 大黄（四两，清酒洗）",
+      "content": "阳明病，不吐不下，心烦者，可与调胃承气汤。",
+      "modern_prescription": "[{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"芒硝\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"大黄\",\"note\":\"清酒洗\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文特指未经过吐下而心烦的阳明病，原载可与调胃承气汤。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          29
+        ],
+        "prescription_paragraph": 29,
+        "sha256": "e2f977021b740934fa1c069a1f14cb044642491f7980ea0c13ebef6b2ad0e1a7",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "调胃承气汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 79,
+            "composition_line": 80,
+            "composition_sha256": "c04d7138847493da6b53b27686f8e41278f8fcd5338790d6ff20d32301bdc24f"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "阳明病多汗谵语",
+      "symptoms": "多汗/大便硬/谵语",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "小承气汤：大黄（四两，酒洗） 厚朴（二两，炙，去皮） 枳实（三枚，大者，炙）",
+      "content": "阳明病，其人多汗，以津液外出，胃中燥，大便必鞕，鞕则谵语。小承气汤主之。若一服谵语止者，更莫复服。",
+      "modern_prescription": "[{\"name\":\"大黄\",\"note\":\"酒洗\",\"dose\":\"\"},{\"name\":\"厚朴\",\"note\":\"炙、去皮\",\"dose\":\"\"},{\"name\":\"枳实\",\"note\":\"炙\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以多汗、津液外出说明胃燥便硬，并联系谵语，原载小承气汤。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          43
+        ],
+        "prescription_paragraph": 43,
+        "sha256": "92a2484465b130512fc278ab3cce75450ef726edbf26ff905087151223a94ea4",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "小承气汤",
+            "chapter_key": "87197fc277a4e19d366042fa",
+            "chapter": "辨阳明病脉证并治第八",
+            "volume": "卷第五",
+            "heading_line": 36,
+            "composition_line": 37,
+            "composition_sha256": "08a010bb208ca7245f98709dfab3cf8bbbe371cbe12e12e8f02b5719b026f0f4"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "二阳并病表证已罢",
+      "symptoms": "潮热/手足汗出/大便难/谵语",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "大承气汤：大黄（四两，酒洗） 厚朴（半斤，炙，去皮） 枳实（五枚，炙） 芒硝（三合）",
+      "content": "二阳并病，太阳证罢，但发潮热，手足漐漐汗出，大便难而谵语者，下之则愈，宜大承气汤。",
+      "modern_prescription": "[{\"name\":\"大黄\",\"note\":\"酒洗\",\"dose\":\"\"},{\"name\":\"厚朴\",\"note\":\"炙、去皮\",\"dose\":\"\"},{\"name\":\"枳实\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"芒硝\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。辨治以太阳证已罢为前提，合看潮热、手足汗出、大便难和谵语，原载大承气汤。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          50
+        ],
+        "prescription_paragraph": 50,
+        "sha256": "ec3c7ff91ba01fd47a6a8efbf422d03232ea3541e845314e44b2408aa0969d6a",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "大承气汤",
+            "chapter_key": "87197fc277a4e19d366042fa",
+            "chapter": "辨阳明病脉证并治第八",
+            "volume": "卷第五",
+            "heading_line": 32,
+            "composition_line": 33,
+            "composition_sha256": "727532ede8029929acd517b82ced8f05cb1e20e85b1eae7ee70ca03ad161a915"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "阳明病渴而小便不利",
+      "symptoms": "脉浮/发热/口渴/小便不利",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "猪苓汤：猪苓（去皮） 茯苓 泽泻 阿胶 滑石（碎，各一两）",
+      "content": "若脉浮，发热，渴欲饮水，小便不利者，猪苓汤主之。",
+      "modern_prescription": "[{\"name\":\"猪苓\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"茯苓\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"泽泻\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"阿胶\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"滑石\",\"note\":\"碎\",\"dose\":\"\"}]",
+      "summary": "辨证条文。本条位于阳明篇辨治条文中，以脉浮、发热、口渴及小便不利并见为要点，原载猪苓汤。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          53
+        ],
+        "prescription_paragraph": 53,
+        "sha256": "d4f32ba0d6aa7357b755d720351ec5dc188f106b500e0da84ab7ba8b7ff69e03",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "猪苓汤",
+            "chapter_key": "87197fc277a4e19d366042fa",
+            "chapter": "辨阳明病脉证并治第八",
+            "volume": "卷第五",
+            "heading_line": 55,
+            "composition_line": 56,
+            "composition_sha256": "9b74780723fdd3e0788881d5143fd9b39cb2874283df9efc19f548842f66f0a1"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "阳明病瘀热发黄",
+      "symptoms": "头汗出/身无汗/小便不利/口渴/发黄",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "茵陈蒿汤：茵陈蒿（六两） 栀子（十四枚，擘） 大黄（二两，去皮）",
+      "content": "阳明病，发热汗出者，此为热越，不能发黄也；但头汗出，身无汗，剂颈而还，小便不利，渴引水浆者，此为瘀热在里，身必发黄，茵陈蒿汤主之。",
+      "modern_prescription": "[{\"name\":\"茵陈蒿\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"栀子\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"大黄\",\"note\":\"去皮\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文对举发热有汗与仅头汗出的两种情形，以后者兼小便不利、渴饮辨为瘀热在里，原载茵陈蒿汤。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          80
+        ],
+        "prescription_paragraph": 80,
+        "sha256": "02c5483405aa1ea8ecb6a50386298bd5f74f0b2c33ba7bf1114dbbd5832207d8",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "茵陈蒿汤",
+            "chapter_key": "87197fc277a4e19d366042fa",
+            "chapter": "辨阳明病脉证并治第八",
+            "volume": "卷第五",
+            "heading_line": 82,
+            "composition_line": 83,
+            "composition_sha256": "2ebc08ca1f1e43bfad74ebb555766e833cbd4ef0c1ef236613c7a9b574dbdc07"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "阳明病食谷欲呕",
+      "symptoms": "食谷欲呕",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "吴茱萸汤：吴茱萸（一升，洗） 人参（三两） 生姜（六两，切） 大枣（十二枚，擘）",
+      "content": "食谷欲呕，属阳明也，吴茱萸汤主之；得汤反剧者，属上焦也。",
+      "modern_prescription": "[{\"name\":\"吴茱萸\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文先将食谷欲呕归入阳明并列吴茱萸汤，继以服汤反剧辨属上焦。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          91
+        ],
+        "prescription_paragraph": 91,
+        "sha256": "10a5dfcf0e1b9d351c892a4ce55bd3b923af1080b05a61bfd4545fad42a1c1c7",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "吴茱萸汤",
+            "chapter_key": "87197fc277a4e19d366042fa",
+            "chapter": "辨阳明病脉证并治第八",
+            "volume": "卷第五",
+            "heading_line": 93,
+            "composition_line": 94,
+            "composition_sha256": "0b1838b4c7a2813394b4ba3a96bb43bb6676d2baf43f70298c2ca18f31e9c83b"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "阳明脾约",
+      "symptoms": "趺阳脉浮涩/小便数/大便硬",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "麻子仁丸：麻子仁（二升） 芍药（半斤） 枳实（半斤，炙） 大黄（一斤，去皮） 厚朴（一尺，炙，去皮） 杏仁（一升，去皮尖，熬，别作脂）",
+      "content": "趺阳脉浮而濇，浮则胃气强，濇则小便数，浮濇相抟，大便则鞕，其脾为约，麻子仁丸主之。",
+      "modern_prescription": "[{\"name\":\"麻子仁\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"枳实\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"大黄\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"厚朴\",\"note\":\"炙、去皮\",\"dose\":\"\"},{\"name\":\"杏仁\",\"note\":\"去皮尖、熬、别作脂\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以趺阳浮涩、小便数与大便硬辨脾约，原载麻子仁丸。\n文献出处：《伤寒论》（宋本）卷第五 · 辨阳明病脉证并治第八，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "87197fc277a4e19d366042fa",
+        "chapter": "辨阳明病脉证并治第八",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          99
+        ],
+        "prescription_paragraph": 99,
+        "sha256": "60bf18f4aa506a87ac008c9e6a4ba95c8a014bffd1aa33eee8192acf6a0ce89c",
+        "chapter_sha256": "3ccdec832fddb5a304e8b7b004113c2fb55184330854a5328e6e6d1a6b4df001",
+        "formulas": [
+          {
+            "name": "麻子仁丸",
+            "chapter_key": "87197fc277a4e19d366042fa",
+            "chapter": "辨阳明病脉证并治第八",
+            "volume": "卷第五",
+            "heading_line": 101,
+            "composition_line": 102,
+            "composition_sha256": "f243efc909701d1b168cb730908a68efedb18c06312bf633285693d30ffdea0f"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳转少阳",
+      "symptoms": "胸胁硬满/干呕/不能食/往来寒热/脉沉紧",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "小柴胡汤：柴胡（半斤） 黄芩（三两） 人参（三两） 半夏（半升，洗） 甘草（炙） 生姜（切，各三两） 大枣（十二枚，擘）",
+      "content": "本太阳病不解，转入少阳者，脇下鞕满，干呕不能食，往来寒热，尚未吐下，脉沈紧者，与小柴胡汤。",
+      "modern_prescription": "[{\"name\":\"柴胡\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文记太阳未解而转少阳，在未经吐下的前提下列胁下硬满、干呕不能食和往来寒热，原载小柴胡汤。\n文献出处：《伤寒论》（宋本）卷第五 · 辨少阳病脉证并治第九，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "a553e86c5b99bec5c787d9b9",
+        "chapter": "辨少阳病脉证并治第九",
+        "volume": "卷第五",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          4
+        ],
+        "prescription_paragraph": 4,
+        "sha256": "9c2326e3ab9414441298eeacb7ace96d37a3e3b8dcb2feaf9f02573b0228af57",
+        "chapter_sha256": "6b96d51c36a1ea629ab4f271f543be5d13648baae323ac7c42664cf93da39c05",
+        "formulas": [
+          {
+            "name": "小柴胡汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 167,
+            "composition_line": 168,
+            "composition_sha256": "4e671df424b8b4295cd231ec0571feecd21e64110c889fac081ceac6037ec140"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阴病脉浮",
+      "symptoms": "脉浮",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "桂枝汤：桂枝（三两，去皮） 芍药（三两） 甘草（二两，炙） 生姜（三两，切） 大枣（十二枚，擘）",
+      "content": "太阴病，脉浮者，可发汗，宜桂枝汤。",
+      "modern_prescription": "[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。本条从太阴病见脉浮这一条件论发汗，原载桂枝汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨太阴病脉证并治第十，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "5cc0b9c6ecb0ee584aa0a752",
+        "chapter": "辨太阴病脉证并治第十",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          4
+        ],
+        "prescription_paragraph": 4,
+        "sha256": "29272a15f32aaddd9ec3c321c9fa553e459c153b6805d58b3919b0a315c89ec9",
+        "chapter_sha256": "ac65751b02fc68adb9ff37a787ef27315018effae1becd007aeb0d4c0c05b813",
+        "formulas": [
+          {
+            "name": "桂枝汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 14,
+            "composition_line": 15,
+            "composition_sha256": "a578bdeef1fb1dcf80d310eb708eb6a8d78a70ecff218866af3c2f3b544dd43a"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "太阳误下后太阴腹痛",
+      "symptoms": "腹满/腹痛",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "桂枝加芍药汤：桂枝（三两，去皮） 芍药（六两） 甘草（二两，炙） 大枣（十二枚，擘） 生姜（三两，切）\n桂枝加大黄汤：桂枝（三两，去皮） 大黄（二两） 芍药（六两） 生姜（三两，切） 甘草（二两，炙） 大枣（十二枚，擘）",
+      "content": "本太阳病，医反下之，因尔腹满时痛者，属太阴也，桂枝加芍药汤主之；大实痛者，桂枝加大黄汤主之。",
+      "modern_prescription": "[[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"}],[{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"大黄\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]]",
+      "summary": "辨证条文。条文将太阳病误下后腹满时痛归太阴，列桂枝加芍药汤。大实痛另列桂枝加大黄汤，两方对应不同表现。\n文献出处：《伤寒论》（宋本）卷第六 · 辨太阴病脉证并治第十，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "5cc0b9c6ecb0ee584aa0a752",
+        "chapter": "辨太阴病脉证并治第十",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          7
+        ],
+        "prescription_paragraph": 7,
+        "sha256": "3d52ec4c97dbf137d776f0cf12250fb2adad598491cd41476ea93aef5f4140ff",
+        "chapter_sha256": "ac65751b02fc68adb9ff37a787ef27315018effae1becd007aeb0d4c0c05b813",
+        "formulas": [
+          {
+            "name": "桂枝加芍药汤",
+            "chapter_key": "5cc0b9c6ecb0ee584aa0a752",
+            "chapter": "辨太阴病脉证并治第十",
+            "volume": "卷第六",
+            "heading_line": 9,
+            "composition_line": 10,
+            "composition_sha256": "458ded23845a3e7cecf490da5b2b76d6052c9cf17c78d3d87069e6a3d4c230f0"
+          },
+          {
+            "name": "桂枝加大黄汤",
+            "chapter_key": "5cc0b9c6ecb0ee584aa0a752",
+            "chapter": "辨太阴病脉证并治第十",
+            "volume": "卷第六",
+            "heading_line": 13,
+            "composition_line": 14,
+            "composition_sha256": "876c23e66f507676c7bbca0d39308777b13a0d9288933ee57cc64514b44fb46e"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "少阴初病反发热",
+      "symptoms": "发热/脉沉",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "麻黄细辛附子汤：麻黄（二两，去节） 细辛（二两） 附子（一枚，炮，去皮，破八片）",
+      "content": "少阴病，始得之，反发热，脉沈者，麻黄细辛附子汤主之。",
+      "modern_prescription": "[{\"name\":\"麻黄\",\"note\":\"去节\",\"dose\":\"\"},{\"name\":\"细辛\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"附子\",\"note\":\"炮、去皮、破八片\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以少阴初病反见发热、脉沉为辨治要点，原载麻黄细辛附子汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨少阴病脉证并治第十一，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "d4f827ca0f10e0c881b10d0e",
+        "chapter": "辨少阴病脉证并治第十一",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          21
+        ],
+        "prescription_paragraph": 21,
+        "sha256": "06660d3c6ed9448ae563565e27de68b3b2e45919cec95009a61ddaf11d3d3a7d",
+        "chapter_sha256": "e3807895b981639e73ac04d425697d4e5589cd42e5db93727511227e36cf1458",
+        "formulas": [
+          {
+            "name": "麻黄细辛附子汤",
+            "chapter_key": "d4f827ca0f10e0c881b10d0e",
+            "chapter": "辨少阴病脉证并治第十一",
+            "volume": "卷第六",
+            "heading_line": 23,
+            "composition_line": 24,
+            "composition_sha256": "d8977b01e22aeff9e56342240878ef2562617012f1cd297c226d554894f8f263"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "少阴病心烦不得卧",
+      "symptoms": "心烦/不得卧",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "黄连阿胶汤：黄连（四两） 黄芩（二两） 芍药（二两） 鸡子黄（二枚） 阿胶（三两）（一云三挺）",
+      "content": "少阴病，得之二三日以上，心中烦，不得卧，黄连阿胶汤主之。",
+      "modern_prescription": "[{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"鸡子黄\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"阿胶\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文记少阴病二三日以上出现心中烦、不得卧，原载黄连阿胶汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨少阴病脉证并治第十一，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "d4f827ca0f10e0c881b10d0e",
+        "chapter": "辨少阴病脉证并治第十一",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          31
+        ],
+        "prescription_paragraph": 31,
+        "sha256": "1a27e5abb61c13c883b1904ad5ab806a0c25eed1752bb5a9c1114dbdeac82c01",
+        "chapter_sha256": "e3807895b981639e73ac04d425697d4e5589cd42e5db93727511227e36cf1458",
+        "formulas": [
+          {
+            "name": "黄连阿胶汤",
+            "chapter_key": "d4f827ca0f10e0c881b10d0e",
+            "chapter": "辨少阴病脉证并治第十一",
+            "volume": "卷第六",
+            "heading_line": 33,
+            "composition_line": 34,
+            "composition_sha256": "a1c13edc696f571bd63f0b45a22d5a350bfb8cdc65f03bb9783e072d232154c4"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "少阴病身痛手足寒",
+      "symptoms": "身痛/手足寒/骨节痛/脉沉",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "附子汤：附子（二枚，炮，去皮，破八片） 茯苓（三两） 人参（二两） 白术（四两） 芍药（三两）",
+      "content": "少阴病，身体痛，手足寒，骨节痛，脉沈者，附子汤主之。",
+      "modern_prescription": "[{\"name\":\"附子\",\"note\":\"炮、去皮、破八片\",\"dose\":\"\"},{\"name\":\"茯苓\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"白术\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文同列身体痛、骨节痛、手足寒及脉沉，原载附子汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨少阴病脉证并治第十一，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "d4f827ca0f10e0c881b10d0e",
+        "chapter": "辨少阴病脉证并治第十一",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          41
+        ],
+        "prescription_paragraph": 41,
+        "sha256": "11e6ede62c505d78ac32097a01b95db13f5b783b42f7bc4b6d14803f3ce6594b",
+        "chapter_sha256": "e3807895b981639e73ac04d425697d4e5589cd42e5db93727511227e36cf1458",
+        "formulas": [
+          {
+            "name": "附子汤",
+            "chapter_key": "d4f827ca0f10e0c881b10d0e",
+            "chapter": "辨少阴病脉证并治第十一",
+            "volume": "卷第六",
+            "heading_line": 38,
+            "composition_line": 39,
+            "composition_sha256": "a0b114caafa3eb351235e39f69d240402cf54946c38c0c8e54bd173d4a26d119"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "少阴病下利便脓血",
+      "symptoms": "腹痛/小便不利/下利不止/便脓血",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "桃花汤：赤石脂（一斤，一半全用，一半筛末） 干姜（一两） 粳米（一升）",
+      "content": "少阴病，二三日至四五日，腹痛，小便不利，下利不止，便脓血者，桃花汤主之。",
+      "modern_prescription": "[{\"name\":\"赤石脂\",\"note\":\"一半全用、一半筛末\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"粳米\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以腹痛、小便不利而持续下利、便脓血为辨治要点，原载桃花汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨少阴病脉证并治第十一，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "d4f827ca0f10e0c881b10d0e",
+        "chapter": "辨少阴病脉证并治第十一",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          47
+        ],
+        "prescription_paragraph": 47,
+        "sha256": "177c557534b2554c2308a71bef37ed007bc009597a859b2560b9123174b46c49",
+        "chapter_sha256": "e3807895b981639e73ac04d425697d4e5589cd42e5db93727511227e36cf1458",
+        "formulas": [
+          {
+            "name": "桃花汤",
+            "chapter_key": "d4f827ca0f10e0c881b10d0e",
+            "chapter": "辨少阴病脉证并治第十一",
+            "volume": "卷第六",
+            "heading_line": 44,
+            "composition_line": 45,
+            "composition_sha256": "1cc040064c7f5538918e3827327c15ba499c937c08f8e5eaca47b6542fd7a175"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "少阴病水气",
+      "symptoms": "腹痛/小便不利/四肢沉重疼痛/下利",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "真武汤：茯苓 芍药 生姜（切，各三两） 白术（二两） 附子（一枚，炮，去皮，破八片）",
+      "content": "少阴病，二三日不已，至四五日，腹痛，小便不利，四肢沉重疼痛，自下利者，此为有水气。其人或欬，或小便利，或下利，或呕者，真武汤主之。",
+      "modern_prescription": "[{\"name\":\"茯苓\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"生姜\",\"note\":\"切\",\"dose\":\"\"},{\"name\":\"白术\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"附子\",\"note\":\"炮、去皮、破八片\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以腹痛、小便不利、四肢沉重疼痛和自下利推为有水气，并另列或见表现，原载真武汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨少阴病脉证并治第十一，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "d4f827ca0f10e0c881b10d0e",
+        "chapter": "辨少阴病脉证并治第十一",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          83
+        ],
+        "prescription_paragraph": 83,
+        "sha256": "d7263042e29f7043daacb8eaa238b13bad0feed9ee823ed5a0ca580c9d3c5440",
+        "chapter_sha256": "e3807895b981639e73ac04d425697d4e5589cd42e5db93727511227e36cf1458",
+        "formulas": [
+          {
+            "name": "真武汤",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 147,
+            "composition_line": 148,
+            "composition_sha256": "d1809a40777ed3e3fb9b0e6ad7ce6df6c9759c81fd16fd26091f60d10e6edd01"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "少阴病四逆",
+      "symptoms": "手足逆冷",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "四逆散：甘草（炙） 枳实（破，水渍，炙干） 柴胡 芍药",
+      "content": "少阴病，四逆，其人或欬，或悸，或小便不利，或腹中痛，或泄利下重者，四逆散主之。",
+      "modern_prescription": "[{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"枳实\",\"note\":\"破、水渍、炙干\",\"dose\":\"\"},{\"name\":\"柴胡\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以四逆为主述，咳、悸、小便不利、腹痛与泄利下重分列为或见表现，原载四逆散。\n文献出处：《伤寒论》（宋本）卷第六 · 辨少阴病脉证并治第十一，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "d4f827ca0f10e0c881b10d0e",
+        "chapter": "辨少阴病脉证并治第十一",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          93
+        ],
+        "prescription_paragraph": 93,
+        "sha256": "e5b725321ef612eae9ad6a5f26afdc42b13dcd19d05bf7d350c9d2c14da90945",
+        "chapter_sha256": "e3807895b981639e73ac04d425697d4e5589cd42e5db93727511227e36cf1458",
+        "formulas": [
+          {
+            "name": "四逆散",
+            "chapter_key": "d4f827ca0f10e0c881b10d0e",
+            "chapter": "辨少阴病脉证并治第十一",
+            "volume": "卷第六",
+            "heading_line": 95,
+            "composition_line": 96,
+            "composition_sha256": "d4e5c3ff8d0aa2a9b7f4e6354f909e6dd2ed6cebcc1424110fe70a0b1b96d408"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "厥阴篇蛔厥",
+      "symptoms": "手足厥冷/时烦/食后呕/吐蛔",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "乌梅丸：乌梅（三百枚） 细辛（六两） 干姜（十两） 黄连（十六两） 附子（六两，炮，去皮） 当归（四两） 黄檗（六两） 桂枝（六两，去皮） 人参（六两） 蜀椒（四两，出汗）",
+      "content": "伤寒，脉微而厥，至七八日，肤冷，其人躁无暂安时者，此为藏厥，非蚘厥也。蚘厥者，其人当吐蚘，令病者静而复时烦者，此为藏寒。蚘上入其膈故烦，须臾复止，得食而呕，又烦者，蚘闻食臭出，其人常自吐蚘。蚘厥者，乌梅丸主之。又主久利。",
+      "modern_prescription": "[{\"name\":\"乌梅\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"细辛\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"附子\",\"note\":\"炮、去皮\",\"dose\":\"\"},{\"name\":\"当归\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄檗\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"蜀椒\",\"note\":\"出汗\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文对举脏厥烦躁无暂安与蛔厥时静时烦、食后呕及吐蛔，蛔厥一支原载乌梅丸。\n文献出处：《伤寒论》（宋本）卷第六 · 辨厥阴病脉证并治第十二，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "6a116f2739e5b8ebbe1d619b",
+        "chapter": "辨厥阴病脉证并治第十二",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          13
+        ],
+        "prescription_paragraph": 13,
+        "sha256": "1bbb8e81a7a1046aa80e4f2d6f5bf8c6e053db159e7967a4d2cc9f97905d4f4e",
+        "chapter_sha256": "58b32420227367f24d636a97f19ca7f11cc11526c8027a0ef66aef829f0cd654",
+        "formulas": [
+          {
+            "name": "乌梅丸",
+            "chapter_key": "6a116f2739e5b8ebbe1d619b",
+            "chapter": "辨厥阴病脉证并治第十二",
+            "volume": "卷第六",
+            "heading_line": 15,
+            "composition_line": 16,
+            "composition_sha256": "9ed7c084f37b25bb72220548b8535f20daf542ee9b080ffe5983d39c023f5c25"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "厥阴篇脉滑而厥",
+      "symptoms": "脉滑/手足厥冷",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "白虎汤：知母（六两） 石膏（一斤，碎） 甘草（二两，炙） 粳米（六合）",
+      "content": "伤寒，脉滑而厥者，里有热，白虎汤主之。",
+      "modern_prescription": "[{\"name\":\"知母\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"石膏\",\"note\":\"碎\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"粳米\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文将脉滑而厥辨为里有热，原载白虎汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨厥阴病脉证并治第十二，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "6a116f2739e5b8ebbe1d619b",
+        "chapter": "辨厥阴病脉证并治第十二",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          29
+        ],
+        "prescription_paragraph": 29,
+        "sha256": "c6e14bfa32bb77f4fd92b8004d95731b8ef991614f49fd1b823afc9739827b21",
+        "chapter_sha256": "58b32420227367f24d636a97f19ca7f11cc11526c8027a0ef66aef829f0cd654",
+        "formulas": [
+          {
+            "name": "白虎汤",
+            "chapter_key": "0c1081f1220b2aa7264bda90",
+            "chapter": "辨太阳病脉证并治下第七",
+            "volume": "卷第四",
+            "heading_line": 145,
+            "composition_line": 146,
+            "composition_sha256": "0fe14451a685dfdef017d4d56c5082bb695fe9bbfe592860af3a543e1d2c6f75"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "厥阴篇手足厥寒",
+      "symptoms": "手足厥寒/脉细欲绝",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "当归四逆汤：当归（三两） 桂枝（三两，去皮） 芍药（三两） 细辛（三两） 甘草（二两，炙） 通草（二两） 大枣（二十五枚，擘，一法十二枚）",
+      "content": "手足厥寒，脉细欲绝者，当归四逆汤主之。",
+      "modern_prescription": "[{\"name\":\"当归\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"芍药\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"细辛\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"通草\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"大枣\",\"note\":\"擘\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以手足厥寒、脉细欲绝为辨治要点，原载当归四逆汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨厥阴病脉证并治第十二，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "6a116f2739e5b8ebbe1d619b",
+        "chapter": "辨厥阴病脉证并治第十二",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          30
+        ],
+        "prescription_paragraph": 30,
+        "sha256": "461d6fd2b138dbf63752b00eb9738480c2737063c5ca53b443551e5758cdb175",
+        "chapter_sha256": "58b32420227367f24d636a97f19ca7f11cc11526c8027a0ef66aef829f0cd654",
+        "formulas": [
+          {
+            "name": "当归四逆汤",
+            "chapter_key": "6a116f2739e5b8ebbe1d619b",
+            "chapter": "辨厥阴病脉证并治第十二",
+            "volume": "卷第六",
+            "heading_line": 32,
+            "composition_line": 33,
+            "composition_sha256": "399966575aca2411e7a5ef44fca42ac2ca1986dcbbf2b68f89bdf18c7384d8be"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "厥阴篇寒格",
+      "symptoms": "寒下/食入即吐",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "干姜黄芩黄连人参汤：干姜 黄芩 黄连 人参（各三两）",
+      "content": "伤寒本自寒下，医复吐下之，寒格，更逆吐下，若食入口即吐，干姜黄芩黄连人参汤主之。",
+      "modern_prescription": "[{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄芩\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以本有寒下、又经吐下为背景，列寒格而食入即吐的表现，原载干姜黄芩黄连人参汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨厥阴病脉证并治第十二，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "6a116f2739e5b8ebbe1d619b",
+        "chapter": "辨厥阴病脉证并治第十二",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          50
+        ],
+        "prescription_paragraph": 50,
+        "sha256": "e9c374dcdc8637d896f4094590993b7ec051fc5f69c9e87fd5254317d22b8c75",
+        "chapter_sha256": "58b32420227367f24d636a97f19ca7f11cc11526c8027a0ef66aef829f0cd654",
+        "formulas": [
+          {
+            "name": "干姜黄芩黄连人参汤",
+            "chapter_key": "6a116f2739e5b8ebbe1d619b",
+            "chapter": "辨厥阴病脉证并治第十二",
+            "volume": "卷第六",
+            "heading_line": 52,
+            "composition_line": 53,
+            "composition_sha256": "d6fb7e3207a38beec954b860755415db7cff1004fa287322371db9d1b55c71bf"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "厥阴篇热利下重",
+      "symptoms": "热利/下重",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "白头翁汤：白头翁（二两） 黄檗（三两） 黄连（三两） 秦皮（三两）",
+      "content": "热利下重者，白头翁汤主之。",
+      "modern_prescription": "[{\"name\":\"白头翁\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄檗\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"黄连\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"秦皮\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以热利、下重为辨治要点，原载白头翁汤。\n文献出处：《伤寒论》（宋本）卷第六 · 辨厥阴病脉证并治第十二，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "6a116f2739e5b8ebbe1d619b",
+        "chapter": "辨厥阴病脉证并治第十二",
+        "volume": "卷第六",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          66
+        ],
+        "prescription_paragraph": 66,
+        "sha256": "e636fd41c33eac9af0fad276f034571190577cf67493438904f5692efa684f1b",
+        "chapter_sha256": "58b32420227367f24d636a97f19ca7f11cc11526c8027a0ef66aef829f0cd654",
+        "formulas": [
+          {
+            "name": "白头翁汤",
+            "chapter_key": "6a116f2739e5b8ebbe1d619b",
+            "chapter": "辨厥阴病脉证并治第十二",
+            "volume": "卷第六",
+            "heading_line": 68,
+            "composition_line": 69,
+            "composition_sha256": "31c74e38db81aaed32c2c728d8092dcde99a554afd112a6deb18401a6d61035d"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "霍乱篇寒热分治",
+      "symptoms": "头痛/发热/身疼痛",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "五苓散：猪苓（十八铢，去皮） 泽泻（一两六铢） 白术（十八铢） 茯苓（十八铢） 桂枝（半两，去皮）\n理中丸：人参 干姜 甘草（炙） 白术（各三两）",
+      "content": "霍乱，头痛，发热，身疼痛，热多欲饮水者，五苓散主之。寒多不用水者，理中丸主之。",
+      "modern_prescription": "[[{\"name\":\"猪苓\",\"note\":\"去皮\",\"dose\":\"\"},{\"name\":\"泽泻\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"白术\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"茯苓\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"桂枝\",\"note\":\"去皮\",\"dose\":\"\"}],[{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"白术\",\"note\":\"\",\"dose\":\"\"}]]",
+      "summary": "辨证条文。这里的霍乱是原书病类。条文在头痛、发热、身痛的背景下，以热多饮水和寒多不用水分列五苓散与理中丸。\n文献出处：《伤寒论》（宋本）卷第七 · 辨霍乱病脉证并治第十三，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "b5b960e77adfb7c5861e26e4",
+        "chapter": "辨霍乱病脉证并治第十三",
+        "volume": "卷第七",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          9
+        ],
+        "prescription_paragraph": 9,
+        "sha256": "0f4bb47b14af096119024c7d347f7a4c5487e28f7ad92e109298b1f2afc226df",
+        "chapter_sha256": "cf91291cc5f4d1599c70fa110c0473b1ff460e6d6fd0cc937c0ea7671ba898b4",
+        "formulas": [
+          {
+            "name": "五苓散",
+            "chapter_key": "c758ac1a235a52e38d3e465c",
+            "chapter": "辨太阳病脉证并治中第六",
+            "volume": "卷第三",
+            "heading_line": 108,
+            "composition_line": 109,
+            "composition_sha256": "97d7db10f2917dcee99eb7763c150780ccc38e17e0c2b636133aad84ef771629"
+          },
+          {
+            "name": "理中丸",
+            "chapter_key": "b5b960e77adfb7c5861e26e4",
+            "chapter": "辨霍乱病脉证并治第十三",
+            "volume": "卷第七",
+            "heading_line": 11,
+            "composition_line": 12,
+            "composition_sha256": "13de8f1ebb5394a58600f43dad9ef3f0669d9c1430da7cd2f970a94c2ad3a2a6"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "霍乱篇吐利兼厥冷",
+      "symptoms": "吐利/汗出/发热/恶寒/四肢拘急/手足厥冷",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "四逆汤：甘草（二两，炙） 干姜（一两半） 附子（一枚，生用，去皮，破八片）",
+      "content": "吐利，汗出，发热，恶寒，四肢拘急，手足厥冷者，四逆汤主之。",
+      "modern_prescription": "[{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"干姜\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"附子\",\"note\":\"生用、去皮、破八片\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文并载吐利、汗出、发热恶寒及四肢拘急厥冷，原载四逆汤。\n文献出处：《伤寒论》（宋本）卷第七 · 辨霍乱病脉证并治第十三，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "b5b960e77adfb7c5861e26e4",
+        "chapter": "辨霍乱病脉证并治第十三",
+        "volume": "卷第七",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          15
+        ],
+        "prescription_paragraph": 15,
+        "sha256": "d299c88390e70fe89d7173a841b690aa8621b64c737cad03b73d9cca7ebbefaf",
+        "chapter_sha256": "cf91291cc5f4d1599c70fa110c0473b1ff460e6d6fd0cc937c0ea7671ba898b4",
+        "formulas": [
+          {
+            "name": "四逆汤",
+            "chapter_key": "9c1268251ed1c60f4daa233b",
+            "chapter": "辨太阳病脉证并治上第五",
+            "volume": "卷第二",
+            "heading_line": 83,
+            "composition_line": 84,
+            "composition_sha256": "649e0ce2a6d0a060d573eca572944a0d8aa3f34231370715be6b1f356f81f86d"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "大病差后劳复",
+      "symptoms": "劳复",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "枳实栀子豉汤：枳实（三枚，炙） 栀子（十四个，擘） 香豉（一升，绵裹）",
+      "content": "大病差后，劳复者，枳实栀子豉汤主之。",
+      "modern_prescription": "[{\"name\":\"枳实\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"栀子\",\"note\":\"擘\",\"dose\":\"\"},{\"name\":\"香豉\",\"note\":\"绵裹\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文以大病初愈后因劳而复为辨治背景，原载枳实栀子豉汤。\n文献出处：《伤寒论》（宋本）卷第七 · 辨阴阳易差后劳复病脉证并治第十四，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "99618e23e94e9248559ad0ab",
+        "chapter": "辨阴阳易差后劳复病脉证并治第十四",
+        "volume": "卷第七",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          6
+        ],
+        "prescription_paragraph": 6,
+        "sha256": "3fbd90109585e6b64f3346e5040d3c7af9417f0739e0d0268a83127429067695",
+        "chapter_sha256": "c7aab8a7ac0d34516c32531442c44bf93e73b86f8be94ba7e35b29742b24ab95",
+        "formulas": [
+          {
+            "name": "枳实栀子豉汤",
+            "chapter_key": "99618e23e94e9248559ad0ab",
+            "chapter": "辨阴阳易差后劳复病脉证并治第十四",
+            "volume": "卷第七",
+            "heading_line": 8,
+            "composition_line": 9,
+            "composition_sha256": "e9e1e1f9764414d363139c21c3dbc942d5899c5aa51b519750e840b94dfffafd"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "大病差后腰下水气",
+      "symptoms": "腰以下有水气",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "牡蛎泽泻散：牡蛎（熬） 泽泻 蜀漆（暖水洗去腥） 葶苈子（熬） 商陆根（熬） 海藻（洗去咸） 栝蒌根（各等分）",
+      "content": "大病差后，从腰以下有水气者，牡蛎泽泻散主之。",
+      "modern_prescription": "[{\"name\":\"牡蛎\",\"note\":\"熬\",\"dose\":\"\"},{\"name\":\"泽泻\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"蜀漆\",\"note\":\"暖水洗去腥\",\"dose\":\"\"},{\"name\":\"葶苈子\",\"note\":\"熬\",\"dose\":\"\"},{\"name\":\"商陆根\",\"note\":\"熬\",\"dose\":\"\"},{\"name\":\"海藻\",\"note\":\"洗去咸\",\"dose\":\"\"},{\"name\":\"栝蒌根\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文所载水气位于腰以下，见于大病差后，原载牡蛎泽泻散。\n文献出处：《伤寒论》（宋本）卷第七 · 辨阴阳易差后劳复病脉证并治第十四，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "99618e23e94e9248559ad0ab",
+        "chapter": "辨阴阳易差后劳复病脉证并治第十四",
+        "volume": "卷第七",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          12
+        ],
+        "prescription_paragraph": 12,
+        "sha256": "fc537b5eca655257e06a16ea4fba4bd98c2a5ed89191d6911025ea6f566c0750",
+        "chapter_sha256": "c7aab8a7ac0d34516c32531442c44bf93e73b86f8be94ba7e35b29742b24ab95",
+        "formulas": [
+          {
+            "name": "牡蛎泽泻散",
+            "chapter_key": "99618e23e94e9248559ad0ab",
+            "chapter": "辨阴阳易差后劳复病脉证并治第十四",
+            "volume": "卷第七",
+            "heading_line": 14,
+            "composition_line": 15,
+            "composition_sha256": "0076f26d19d3488da12c01daaa8a4173a1f1f8737393cd590d1f001e2d4c2008"
+          }
+        ]
+      }
+    },
+    {
+      "diseases": "伤寒解后虚羸",
+      "symptoms": "虚羸/少气/气逆欲吐",
+      "subject": "内科",
+      "doctor": "张仲景",
+      "dynasty": "东汉",
+      "bookname": "伤寒论",
+      "treatment": "方药",
+      "prescription": "竹叶石膏汤：竹叶（二把） 石膏（一斤） 半夏（半斤，洗） 麦门冬（一升，去心） 人参（二两） 甘草（二两，炙） 粳米（半升）",
+      "content": "伤寒解后，虚羸少气，气逆欲吐，竹叶石膏汤主之。",
+      "modern_prescription": "[{\"name\":\"竹叶\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"石膏\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"半夏\",\"note\":\"洗\",\"dose\":\"\"},{\"name\":\"麦门冬\",\"note\":\"去心\",\"dose\":\"\"},{\"name\":\"人参\",\"note\":\"\",\"dose\":\"\"},{\"name\":\"甘草\",\"note\":\"炙\",\"dose\":\"\"},{\"name\":\"粳米\",\"note\":\"\",\"dose\":\"\"}]",
+      "summary": "辨证条文。条文记伤寒解后仍见虚羸、少气、气逆欲吐，原载竹叶石膏汤。\n文献出处：《伤寒论》（宋本）卷第七 · 辨阴阳易差后劳复病脉证并治第十四，中医笈成电子整理本。",
+      "method": null,
+      "course_days": null,
+      "source": {
+        "book": "shanghanlun",
+        "chapter_key": "99618e23e94e9248559ad0ab",
+        "chapter": "辨阴阳易差后劳复病脉证并治第十四",
+        "volume": "卷第七",
+        "url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E8%AB%96%EF%BC%88%E5%AE%8B%E6%9C%AC%EF%BC%89/index.html",
+        "paragraphs": [
+          18
+        ],
+        "prescription_paragraph": 18,
+        "sha256": "2ae45f0f124ad8ca1fd941c3fbdd08b598f57078d31940d31abcab3dfa6a3360",
+        "chapter_sha256": "c7aab8a7ac0d34516c32531442c44bf93e73b86f8be94ba7e35b29742b24ab95",
+        "formulas": [
+          {
+            "name": "竹叶石膏汤",
+            "chapter_key": "99618e23e94e9248559ad0ab",
+            "chapter": "辨阴阳易差后劳复病脉证并治第十四",
+            "volume": "卷第七",
+            "heading_line": 20,
+            "composition_line": 21,
+            "composition_sha256": "9687d2d43cbf32801eadb6fa38f7a23f6f2340054f9989916c7283adec4dc109"
+          }
+        ]
+      }
+    }
+  ]
+}

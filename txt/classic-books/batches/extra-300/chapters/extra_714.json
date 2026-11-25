@@ -1,0 +1,1928 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_714",
+    "name": "经效产宝",
+    "summary": "《经效产宝》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“妊娠安胎方论第一〔凡十一道〕”、“妊娠食诸物忌方论第二〔凡五道〕”、“益气滑胎令易产方论第三〔凡一道〕”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "唐",
+    "author": "昝殷",
+    "jp": "JXCB",
+    "aliases": [
+      "經效產寶"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "fe9fc7745c47f3559c3e8263",
+      "title": "妊娠安胎方论第一〔凡十一道〕",
+      "volume": "卷上",
+      "content": "疗妊娠三四个月，腹痛，时时下血。\n续断〔八分〕、艾叶〔六分炒〕、当归〔六分〕、竹茹〔四分〕、干地黄〔六分〕、\n阿胶〔四分炙〕、鸡苏〔四分〕，右以水一升，煎取六合，去滓，空心再服，\n隔日更服。\n治妊娠六七个月，忽胎动下血，肠痛不可忍。\n芎䓖〔八分〕、桑寄生〔四分〕、当归〔十二分〕，右以水一升，煎取八合，\n下清酒半升，同煎取九合，分作三服，如人行五六里，\n再温服。治妊娠下血，时时漏血，血尽子死。\n生地黄汁〔三合〕、清酒〔三合〕，\n右相和，煎三四沸，空腹分温，温服。\n治妊娠心头烦懑，两胁胀，不下食。\n槟榔〔三个〕、人参〔四分〕、柴胡〔五分〕、枳壳〔四分炙〕、肉豆蔻〔二分〕、\n生姜〔二分〕、桑寄生〔四分〕，右以水二升，煎取六合，分温三服。\n治妊娠身伤寒，头痛壮热，肢节烦痛。\n前胡〔六分〕、石膏〔十二分〕、大青〔四分〕、子苓〔五分〕、知母〔四分〕、\n山栀〔四分〕、葱白〔七茎〕、甜竹茹〔三分〕，右以水二升，煎取八合，\n食后分温三服。\n治妊娠胎动腰痛，及下血，安胎。当归〔四分〕、芎䓖〔四分〕、葱白〔二七茎〕、\n艾叶〔二分〕、茅根〔六分〕、鹿角胶〔六分炙为末〕，右以水二升，煎取八合，\n空心热吃三服。\n治妊娠损动，安胎。\n鲤鱼〔一斤〕、粳米〔一升〕，右作矔食之佳。\n治妊娠呕吐不食，兼吐痰水。\n生芦根〔十分〕、橘皮〔四分〕、生姜〔六分〕、槟榔〔二分〕，右以水二升，\n煎取七合，空腹热服。治妊娠胁满腹胀，心胸烦，见即吐，渐加羸瘦。\n赤茯苓〔四分〕、前胡〔四分〕、小半夏〔四分汤洗〕、生姜〔三分〕、白术〔一分〕\n、大腹子〔五个〕、麦门冬〔六分去心〕、槟榔〔五枚〕、紫苏〔四分〕，右水二升，\n煎取八合，空心分温三服。\n治妊娠常苦烦闷，此是子烦，宜服此方。\n茯苓〔八分〕、防风〔六分〕、知母〔六分〕、竹沥〔三合温用〕、生门冬〔十二分〕\n，右水二升，煎取七合，下竹沥后作两服。\n治妊娠胎动不安，烦闷。\n当归〔四分〕、芎䓖〔三分〕、阿胶〔二分炙临时入〕、葱白〔十四茎〕、豉〔八合〕\n、桑寄生〔四分〕，右水二升，煎取八合，下阿胶，空腹分两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 2,
+      "source_path": [
+        "卷上",
+        "妊娠安胎方論第一〔凡十一道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "4d7e653e108791f5f9fe38b4876b22fedb8f0c3280b1c4104a8002bf4c0caf0f",
+      "content_sha256": "82d67f6c76bcfe985fcea4786aa3210d7aab3493d3b99f4a20d06559424422a6",
+      "paragraph_count": 34,
+      "paragraph_ordinals": [
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 863,
+        "simplified_codepoints": 863
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "4269aed42df9af3a045db689",
+      "title": "妊娠食诸物忌方论第二〔凡五道〕",
+      "volume": "卷上",
+      "content": "食鸡肉与糯米共食，令子生白虫。\n食鲤鱼柔鸡子，令子多疳。\n食羊肝，令子多厄。\n食鸭子，令子倒生。\n食兔肉犬肉，令子缺唇无音声。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "卷上",
+        "妊娠食諸物忌方論第二〔凡五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "213b39dd52cf730d412e7cb6303a910f92f9ade6a7956448a390f41f2b3c15b2",
+      "content_sha256": "c4b8a1c500ab33fed51bac44dee6e8baf3ca17436d4e0bbad586a7e198d9945d",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        5
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 63,
+        "simplified_codepoints": 63
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "8b10eff5cfbcef617e57d891",
+      "title": "益气滑胎令易产方论第三〔凡一道〕",
+      "volume": "卷上",
+      "content": "润胎益气，令子易生，诃子丸。\n槟榔〔八分〕、芎䓖〔二分〕、吴茱萸〔三分〕、诃子皮〔三分蒸〕，右为细末，\n炼蜜为丸，如绿豆大，空心酒下十九丸，自七八个月，服至分解。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 6,
+      "source_path": [
+        "卷上",
+        "益氣滑胎令易產方論第三〔凡一道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "1098e581c39603747f39a733fee29a44e82c4647aa7b401a15f6b0f95ba18830",
+      "content_sha256": "01ae5538e1950c9e98ca7ea54366d78eda9f777bc4487849b49f5d32b829e712",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        7
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 81,
+        "simplified_codepoints": 81
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "30ebcc7ddd2a864d83b12a0a",
+      "title": "妊娠恶阻吐不食方论第四〔凡四道〕",
+      "volume": "卷上",
+      "content": "论曰：夫阻病之候，心中溃溃，头旋眼眩，四肢沉重懈怠，恶闻食气，好吃酸咸果实。\n多卧少起，三月四月多呕逆，肢节不得自举者，以此治之。\n人参〔八分〕、厚朴〔六分炙〕、茯苓〔十三分〕、葛根〔八分〕、白术〔十二分〕、\n橘皮〔六分〕、生姜〔十一分切〕，右水七升，煮二合，分温三服，忌桃李醋等物。\n治妊娠三四月，呕吐恶闻食气。\n橘皮、青竹茹、生姜、茯苓、白术〔各二两〕，右水六升，煎二升，分温三服，\n忌同前。\n治妊娠薤病，心中溃闷，见食呕吐，憎闻食气，肢节烦疼，身体沉重，\n多卧嗜睡黄瘦方。\n人参〔八分〕、橘皮〔八分〕、茯苓〔十二分〕、生姜〔十二分〕、甘草〔十二分〕、\n大枣〔十二枚〕、生麦门冬子〔十二分去心〕，右水五升，煎取二升，分温三服，\n忌菘菜醋等。凡妊娠恶食者，以所思食，任意食之，必愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 8,
+      "source_path": [
+        "卷上",
+        "妊娠惡阻吐不食方論第四〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "edfc690ee3a2a8e8eb8ffda583099d5051452092fb8894f415e74dd1715b75ab",
+      "content_sha256": "269e910f49fe68525b6b0b1e3337ec8f69f2b821e2d623d58f2d6acf46e90299",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 342,
+        "simplified_codepoints": 342
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "6cceaab12ea8202724b9bb51",
+      "title": "胎动不安方论第五〔凡十八道〕",
+      "volume": "卷上",
+      "content": "论曰：安胎有二法，因母病以动胎，但疗母疾，其胎自安，又缘胎有不坚，\n故致动以病母，但疗胎则母瘥，其理甚效，不可违也，胎不动，不知子死生者，\n但看母唇口青者，儿死母活，口中青沫出者，子母俱死，口舌赤青沫者，母死子活也。\n疗胎数落而不结实，或冷或热。\n甘草〔三两〕、黄耆、人参、白术、芎䓖、干地黄、吴茱萸〔各二两〕，右为末，\n空腹酒调二钱，忌菘菜醋等物。\n治胎动不安。\n好银〔煮取水〕。\n右著葱白，作羹食之佳。\n治胎动下血，心腹绞痛，儿在腹死活未分，服此药死即下，活即安，极妙。\n当归〔三两〕、芎䓖〔六两〕，右水四升，酒三升，煮取三升，为三服。\n治妊娠三二月，及七八月，胎动不安，或腰肚痛，有血下。\n芎䓖、当归各四两、艾叶〔二两〕、甘草〔一两〕、阿胶〔二两炙〕，右水五升，\n煮取二升，分温三服〔古方无艾叶〕。\n治妊娠抢心，下血不止，腰腹痛不可忍。\n上银〔一斤水一斗煎取七升〕、芎䓖〔四两〕、当归〔四两〕、阿胶〔三两〕、\n生地黄〔五两〕，右以前银水煮取二升，分三服。\n治妊娠无故胎动不安，腹内绞痛。\n葱白〔切一升〕、阿胶〔三两炙〕、当归〔四两〕、川芎〔四两〕、桑寄生，\n右取银水七升，煮药取二升半，分三服。\n治妊娠五六月，胎犹不安，不常处。\n白术〔三两〕、厚朴〔二两〕、旋覆花〔一两〕、黄芩〔二两〕、茯苓〔三两〕、\n生姜〔二两〕、枳壳〔二两〕、芍药〔二两炙令黄色〕，右以水七升，煮取二升半，\n食后分温五服。\n治胎动不安。\n熟艾〔二两〕、葱白〔切一升〕、阿胶〔二两炙〕，右以水四升，煮取一升半，\n分温两服。\n又方\n芎䓖〔二两〕、葱白〔切一升〕，右水七升，煮取二升半，分温三服。\n治妊娠冷热，腹内不调，致胎不安。\n当归〔三两〕、干姜〔三两〕、芎䓖〔四两〕、艾叶〔二两〕，右水四升，煎取二升，\n分为四服。治妊娠经八九个月，或胎动不安，因用力劳乏，心腹痛，面目青，冷汗出，\n气息欲绝，由劳动惊胎之所致。\n钓藤〔二两〕、伏神〔二两〕、人参〔二两〕、当归〔二两〕、桔梗〔三两〕、\n寄生〔一两〕，右水五升，煎取二升，分为三服，忌猪肉菘菜，若烦热加石膏五两，\n临月加桂心二两。\n治妊娠因夫所动困绝。\n右取竹沥，饮一升，立愈。\n疗妊娠被惊恼，胎向下不安，小腹痛连腰，下血。\n当归、芎䓖各八分、阿胶〔六分炙〕、人参〔六分〕、艾叶〔四分〕、大枣〔十二枚〕\n、茯苓〔十分〕，右水四升，煮取二升，分为三服。\n治堕胎忽倒地，举动擎促损腹中不安，及子死腹中不出。\n芎䓖〔一两〕\n右为末，服寸匕，须臾三服，立出。\n治胎动冲心，烦闷欲死，安胎止痛。\n甘草〔炙〕、当归、芎䓖、人参、阿胶〔各二两〕、葱白〔切一升〕，右以水七升，\n煎取二升，分为三服。\n疗妊娠忽黄汁下如胶，或如小豆汁。\n粳米〔五升〕、黄耆〔五两〕，右以水七升，煎取二升，分为四服。\n治妊娠胎动欲落，肚痛不可忍。\n上银〔一斤〕、茅根〔去黑皮切二升〕，右以水九七升，煮银取二升，入清酒一升，\n同煎茅根取一二升，分为三服，立安。\n疗妊娠腹内冷痛，忽胎动。\n薤白〔切一升〕、当归〔四两〕，右以水五升，煎取二升，作三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "卷上",
+        "胎動不安方論第五〔凡十八道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "10bda1318be3bc86768ed7ac66940727abee498ba1ba13ea6de58938c777429d",
+      "content_sha256": "55973ec4225582918c79a3a51b786189391a73727fb204cf4f81f622bc240d89",
+      "paragraph_count": 54,
+      "paragraph_ordinals": [
+        11
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1266,
+        "simplified_codepoints": 1266
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "e1283e265fd535444c94b746",
+      "title": "妊娠漏胞下血方论第六〔凡五道〕",
+      "volume": "卷上",
+      "content": "疗漏胎下血不止，胞干即死，宜急治之。\n生干地黄〔为细末〕，右酒服方寸匕，日三服，夜一服，即愈。\n治妊娠下血不止，及腹内冷者。\n生地黄、干姜，右两味等分，同煎服。\n治妊娠无故，卒下血不绝。\n阿胶〔三两炙〕，右清酒一升半，煎取一升，顿服。\n又方\n生地黄〔八两〕，右捣碎，以酒浸，绞去滓，分两服，以止为度。\n疗妊娠下血如月信来，若胞干则损子伤母。\n干地黄〔五两〕、干姜〔五两〕，右以水六升，煎取二升，下蜜少许，更煎两沸，\n分二服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 12,
+      "source_path": [
+        "卷上",
+        "妊娠漏胞下血方論第六〔凡五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "71dbab359e29619cf06e433b4efd8790659818a2ea94d8dab1e9a2924b478c82",
+      "content_sha256": "c791ecfde1302e5926d2b81bac4ec32d8793e1ae84ea144d4fd89752804a236c",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 212,
+        "simplified_codepoints": 212
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "df58d11ba7b5ba9b2b23ef83",
+      "title": "妊娠心腹腰痛方论第七〔凡十一道〕",
+      "volume": "卷上",
+      "content": "治妊娠二三月，腹痛腰痛。\n当归〔三两〕、阿胶〔炙〕、甘草〔各二两〕、葱白〔切一升〕，右水七升，\n煮取二升，分三服，忌猪肉菘菜醋等物。\n治妊娠三五月已来，忽心腹绞痛。\n大枣〔十四枚烧令焦〕，右取小便调服之。\n治妊娠心腹痛不可忍。\n盐〔一斤烧令赤〕，右以两指取一撮，酒调服之。\n治妊娠遍身痛，或冲心欲死，不能饮食。\n白术〔五两〕、黄苓〔二两〕、芍药〔四两炙令黄〕，\n右以水六升，煮取二升半，为三服，缘胎有水致痛，兼易产。\n治妊娠卒心痛，气欲绝。\n芎䓖、当归、茯苓各三两、厚朴〔三两炙〕，右水六升，煎取二升，分为两服，\n忌食如前。\n治妊娠腰背痛，反复不得。\n鹿角〔一枚长五六寸烧令赤酒中淬之冷又烧之更淬以角碎为度〕，右取酒饮之，\n作散服，鹿角亦得。\n疗妊娠先患冷气，忽冲心腹，痛如刀刺。\n芎䓖、人参、茯苓、吴茱萸、桔梗、当归各三两、厚朴〔炙〕、芍药〔炙〕各二两，\n右水九升，煎取三升，分三服，气下即瘥。\n治妊娠患腹痛，并胎动不安。\n葱白〔切一升〕、人参、厚朴〔炙〕、阿胶〔炙〕、芎䓖各二两、当归〔三两〕，\n右水七升，煎取三升，分作三服。\n治妊娠疼痛不可忍，或连胯痛。先服此散。\n杜仲〔四两〕、五加皮、阿胶〔炙〕、狗脊、防风、川芎、细辛、芍药各三两、萆薢\n〔三两〕、杏仁〔八十枚去尖〕，右水九升，煮取二升，去滓，下胶，作三服。\n治妊娠三两月，腰痛不可忍者。先服前散后服此丸\n续断、杜仲各十分、芎䓖〔三两〕、独活〔三两〕、狗脊、五加皮、萆薢、芍药、\n薯药、诃子已上各八两，右为末，蜜和为丸，梧桐大，空心，酒下四十九丸，日再服。\n治触动胎，以致腰痛背痛。\n杜仲、五加皮、当归、芍药〔炙〕、芎䓖、人参、萆薢各三两，右以水七升，\n煎取二升半，分温三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "卷上",
+        "妊娠心腹腰痛方論第七〔凡十一道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "56805a5524f8f04612146f1dfa7f28f00e3149e4cc81e34960d210efbf2791db",
+      "content_sha256": "a9f2c9f7a78a52e72e428388c38abe6b1f65ea92f1f0b59118b234869fac5878",
+      "paragraph_count": 31,
+      "paragraph_ordinals": [
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 718,
+        "simplified_codepoints": 718
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "18e249b6c7bbd68d9ba7f804",
+      "title": "妊娠伤寒热病防损胎方论第八〔凡五道〕",
+      "volume": "卷上",
+      "content": "论曰：非即之气，伤折产妇，热毒之气，侵损胞胎，遂有堕胎漏血，俱害子母之命。\n治妊娠伤寒，骨节疼痛，壮热，不急治，则胎落。\n葱白〔切一升〕、前胡、葛根、石膏各十分、青黛六分、升麻〔八分〕、栀子仁\n〔十二分〕，右以水七升，煮取二升半，分三服。\n治妊娠头痛壮热，呕吐不下食，心烦热。\n青竹茹、葛根、知母各三两、芦根〔一升〕、生麦门冬〔四两去心〕，右水七升，\n煎取三升，分三服。\n治妊娠时气头痛，腰背强，壮热。\n升麻、黛青、前胡、黄芩、山栀各二两、葛根〔三两〕、石膏〔八分〕，\n右水五升，煎取三升半，分为三服。\n治妊娠六七月，伤寒热入腹，大小便秘结不通，蒸热。\n前胡〔十分〕、大黄、石膏各二十分、栀子仁〔十枚〕、知母、黄芩、伏苓、生姜\n〔各八分〕，右水八升，煎取二升半，后下大黄，更煎三五沸，分作三服。\n治妊娠伤寒，苦热不止，身上斑出，忽赤忽黑，小便如赤血，气欲绝，胎欲落。\n栀子仁、升麻〔各四两〕、黛青〔二两〕、石膏〔八两碎〕、葱白〔切一升〕、\n生地黄〔二十分〕、黄芩〔三两〕，右水九升，煎取三升，作三服，忌热物。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "卷上",
+        "妊娠傷寒熱病防損胎方論第八〔凡五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "179ebe36607ac860a51898f60449454f2b5d98f7979a70df8dfebc635d1720cc",
+      "content_sha256": "3c49024b29f4fed22e559e941c1923b3af56ce463cab3b409b9d6a68dff9b434",
+      "paragraph_count": 16,
+      "paragraph_ordinals": [
+        17
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 454,
+        "simplified_codepoints": 454
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "e8eab242a42194aa84be4cf4",
+      "title": "妊娠患淋小便不利方论第九〔凡二道〕",
+      "volume": "卷上",
+      "content": "治妊娠患淋，小便涩不利，小腹水道热痛。\n冬葵子〔一升〕、芍药〔二两炙〕、黄芩、茯苓、车钱子〔各三两〕，右以水七升，\n煎取二升，分温三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "卷上",
+        "妊娠患淋小便不利方論第九〔凡二道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "c0ad162ec3dc6be6606d727ca7b3f3fd081773185ddcb57f76884d38195d28ec",
+      "content_sha256": "38be7f386fecc98f5c27fa7f29fabaae2f259af7c46a66972df767bb0f2f7dc1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "856dd87d097f89276254298e",
+      "title": "妊娠下痢黄水赤白方论第十〔凡七道〕",
+      "volume": "卷上",
+      "content": "论曰：妊娠下痢，皆因误食生冷肥腻，冷即色白，热即黄赤，气不和，赤白相兼，\n搅刺疼痛，脾胃不调之所致也。\n治妊娠患痢脓血，状如鱼髓，小腹绞痛难忍。\n薤白〔切一升〕、地榆、醋榴皮、黄连各三两、阿胶〔二两炙〕，右水七升，\n煎取二升半，分三服，忌生冷肥腻。\n治妊娠痢白脓，腹内冷。\n干姜〔四两〕、赤石脂〔六两〕、粳米〔一升炒令黄色〕，右水七升，煎取二升，\n分三服，忌如前。\n疗妊娠腹痛，下痢不止。\n黄连、石榴皮、当归〔各三两〕、阿胶〔二两炙〕、艾〔一两半〕，\n右水六升，煎至二升，分为三服，忌如前。\n疗妊娠下痢，腹内痛，脓血不止。\n黄连〔八分〕、厚朴〔炙〕、阿胶〔炙〕、当归〔各六分〕、艾叶、黄柏〔各四分〕、\n干姜〔五分〕，右为末，空心，米饮调下一匙，日进三服。\n疗妊娠膝下刺痛，大便白，昼夜三五十行。\n根黄〔厚者涂蜜炙令焦〕、大蒜〔炮令烂熟〕，右大蒜去皮，研如膏，和根黄末为丸，\n如梧桐子大，空心粥饮下三十丸，日进三服妙。\n疗娠痢，黄水不绝。\n厚朴〔三两炙〕、黄连〔二两〕、豆蔻〔五枚连皮〕，\n右水二升，煮取一升，频服，忌如前。\n治妊娠忽被惊奔走，堕胎，下血不止兼痛。\n干地黄〔四两〕、当归、艾叶各二两、阿胶〔炙〕、芎䓖各三两，右水七升，\n煮取二升半，分作三服，痛加杜仲、五加皮各三两。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "卷上",
+        "妊娠下痢黃水赤白方論第十〔凡七道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "c3eae7e0cdf9c0d7f068b9d989eb060df4eaf0131694808410f01e0d13dcf213",
+      "content_sha256": "915ed4fafb511e99a6e3f0f4709e7b43b790e6ae7390523f9aee7acb6aa902c6",
+      "paragraph_count": 23,
+      "paragraph_ordinals": [
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 540,
+        "simplified_codepoints": 540
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "49ca50ff5c528aa894da6f6b",
+      "title": "治妊娠水气身肿腹胀方论第十一〔凡四道〕",
+      "volume": "卷上",
+      "content": "论曰：脏气本弱，因产重虚，土不克水，血散入四肢，遂致腹胀，手足面目皆浮肿，\n小便秘涩。\n治妊娠身肿有水气，心腹胀满，小便少。\n茯苓〔四两〕、杏仁〔尖去〕、槟榔〔三两〕、旋覆花、郁李仁各一两，右水六升，\n煮取二升，分温温服，小便通即瘥。\n治妊娠四肢皮肉拘急及肿。\n桑白皮〔切二升〕、樟桂根〔一两〕、赤小豆〔二升〕，右水一斗二升，煮二味，\n取七升，下小豆，煮令熟，先食豆，候渴即饮其汁，\n小便利即瘥。\n治妊娠遍身洪肿方。\n葶苈子〔十分〕、白术〔二十分〕、茯苓〔二两〕、桑白皮〔二两〕、郁李仁〔八分〕\n，右水六升，煎取二升，作两服，小便利即瘥。\n又方\n泽泻〔三两〕、葶苈子〔三两〕、白术〔六两〕、枳壳〔炙〕、茯苓〔各六两〕，\n右制度服，食如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "卷上",
+        "治妊娠水氣身腫腹脹方論第十一〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "2130a798af4142af9ed910f24f95784b6d39c9b90eb1e83f850ea32b50659738",
+      "content_sha256": "7efadddcd0936c4ae03d073ea5eb907178c6010fd9d6ef99c682369c1ed7eeca",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 319,
+        "simplified_codepoints": 319
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "5899b397cd0293e33362b3da",
+      "title": "妊娠千金易产方论第十二〔凡六道〕",
+      "volume": "卷上",
+      "content": "论曰：夫妇人特将产至重者，胞衣也，凡胞衣不出者，世谓之息胞，由产时用力过度，\n已产而体已疲顿，不能更用气，经停之间，而外冷气乘之，则血涩逆否，\n故令胞衣不出，则不得断脐沐浴，冷气伤儿则成病也。\n旧方胞衣不损儿者，依法截脐。而以物系其带一头，所有产时看生人，不用意谨謢，\n而率挽胞系断其胞，上掩心而夭命也，凡欲产时，必先脱常所著衣裳，以笼神验。\n胞衣不出血\n灶下土〔一大寸研碎〕，\n右用好醋调令相和，内于脐中，续取生干草汤三四合服。\n又方\n槐子〔十四枚〕、蒲黄〔一合〕，右酒煎温服，须臾末效，更进一服。\n又方\n生地黄汁〔五合〕、生姜汁〔半大合〕，右煎三四沸，顿服之。\n又方\n槐子〔槐枝切一升最好〕、瞿麦〔八分〕、牛膝〔八分〕、通草〔十二分〕、\n白榆〔切一大升〕、冬麦仁〔一大升研〕，右水五升，煎二大升，去滓，下麻仁，\n分三服。\n小品颜服散，令易产，母疾病，未生一月已前，预服，过三十日，行步不觉儿生。\n甘草〔八分〕、粳米〔一合〕、大豆黄〔炒〕、黄芩、干姜、桂心、吴茱萸、\n冬麦仁〔研如泥〕各二分，右为末，空腹煖酒，服方寸匕，忌生冷肥腻。\n又易产方\n飞生鸟〔一只烧〕、槐子〔十四枚〕、故箭羽〔十四片烧〕，右为末，蜜为丸，\n大觉痛，服三十丸，未产须臾再服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "卷上",
+        "妊娠千金易產方論第十二〔凡六道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "3577f9815c841c421e1f325999e91b4437fdd4dae0ab39d01f7b7424b3e7a147",
+      "content_sha256": "975a09764578e372333c38599f6ba09cd7878725bae4677b55c24407fa41e08b",
+      "paragraph_count": 22,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 526,
+        "simplified_codepoints": 526
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "832dbfec10a102270fef01e7",
+      "title": "治产难诸疾方论第十三〔凡十二道〕",
+      "volume": "卷上",
+      "content": "易产方\n榆白皮〔十四分〕、通草〔十二分〕、葵子〔三合〕、滑石、瞿麦〔各八分〕，\n右水二升，煎取八合，分温三服。\n又方\n羚羊角〔一枚烧刮取末〕，右以酒调方寸匕服。\n又方\n滑石〔八分〕、葵子〔一合〕、榆皮〔十二分〕、牛膝〔六分〕，右水一升八合，\n煎取六合，再服。\n又方\n含醋噀面，闷即噀之。\n又方\n吞槐子七枚，即下。\n又方\n吞鸡子白两枚即产。\n又方\n两手各把一石燕，立产。\n又方\n兔皮和毛〔烧灰研〕，右以酒调两钱匕即产，衣不下，服之即下。\n又方\n大麻根三茎，右水一升，煎取半升，顿服立产，衣不下，服之即下。\n又方\n弓弩弦烧灰，右为末，酒调方寸匕，服之即下。\n又方\n铜弩牙，右烧赤，投于醋三合内，良久顿服，立产。\n又方\n麝香〔一钱〕，右研水调服之，立产。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "卷上",
+        "治產難諸疾方論第十三〔凡十二道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "c71cdcd123b567bc2018753bd094c7126814267127b065e17eaae46210638011",
+      "content_sha256": "88aa86ade934f96f728dfe1a5d760edaff4e70411c0230a2fec4b63046a080a5",
+      "paragraph_count": 26,
+      "paragraph_ordinals": [
+        27
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 324,
+        "simplified_codepoints": 324
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "ddbddb5e642ff49860f7974b",
+      "title": "难产死生方论第十四〔凡八道〕",
+      "volume": "卷上",
+      "content": "疗胎死腹中不出，母气欲绝。\n水银〔二两〕，\n右顿吞之，儿立出。\n治产横倒不出。\n右令夫唾口中二七遍，立出。\n疗产经数日不出，或子死腹。\n瞿麦〔六两〕、通草〔三两〕、桂心〔三两〕、榆白皮〔切一升〕，右水九升，\n煎取三升，分三服。\n又方\n瞿麦，右水煮取浓汁，服之佳。\n疗子死腹中不出。\n伏龙珠〔为末三钱〕，右酒调服之，土当儿顶上戴出妙。\n又方\n朱砂〔一两〕，右水煎数沸，然后取酒和服之。\n又方\n水银〔二两〕，右水煮二三十沸，服之立产。\n滑胎易产。\n白蜜、苦酒、猪脂〔各一升〕，右相和，煎三四沸，临腹痛时，以热酒调下三四钱匕，\n不过五六服即出。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 28,
+      "source_path": [
+        "卷上",
+        "難產死生方論第十四〔凡八道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "be9fd852cce44e29a343a60a3686a097ded4675f48babab04af73f02b1c0c9bc",
+      "content_sha256": "e21c43f570983eb9ce930c761426349b5656b7cf6f358b3876a7292ddc486575",
+      "paragraph_count": 19,
+      "paragraph_ordinals": [
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 269,
+        "simplified_codepoints": 269
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "653b265bcce56476dfe18c09",
+      "title": "难产令易产方论第十五〔凡七道〕",
+      "volume": "卷上",
+      "content": "论曰：夫难产者，内宜用药，外宜用法，盖多门救疗，以取其安也，疗产难坐草数日，\n困乏不能生，此为母先有病，经络俱闭所然。\n赤小豆〔二升〕、胶〔三升〕，右水九升，煎令熟，去豆内胶，烊令清服之，\n须臾更一服。\n又方\n右令夫从外含水，吐著产妇口中，即出。\n疗难产，疑胎在腹已死。\n当归〔四分〕、芎䓖〔六分〕，右水六升，煎取二升，分作两服，便安胎，死即出，\n酒煎亦得，神验。\n治难产困乏腹痛，有所见，儿及衣不出。\n蒺藜子〔四两〕、贝母〔四两〕，右为末，每服一匙，酒调服之，时再服，以出为度，\n熟水调下，亦得。\n治难产\n箭〔一只烧为末〕，右以水调服之。\n又方\n鳖甲〔烧为末〕，\n右服方寸匕立出，未生更服。\n治疗落胎腹痛。\n芍药、当归、牛膝、瞿麦〔各五分〕、桂心、芎䓖〔各四分〕，\n右以水一升七合，煎取八合，空心温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "卷上",
+        "難產令易產方論第十五〔凡七道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "8a4cd2bfcb9a0869e581de98c311af9914c668dc204943b2334f0c46100d1eb2",
+      "content_sha256": "c62e89bf237c6f9ef334525c7968c78989a38940083752aa0969c4bf90f1ebf0",
+      "paragraph_count": 20,
+      "paragraph_ordinals": [
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 352,
+        "simplified_codepoints": 352
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "998526022c609e5d6844c090",
+      "title": "胎死胞衣不出方论第十六〔凡十八道〕",
+      "volume": "卷上",
+      "content": "疗妊娠经五六月，胎死腹中，或胞衣不出。\n生地黄〔五两〕、牛膝、朴硝〔各八分〕、桂心、芎䓖、大黄各〔六分〕、蒲黄\n〔五分〕，右水二升，煎取八合，入蒲黄，空心作二服。\n疗子死腹中不出。\n雄鸡粪〔二十一枚〕，右水二升，煎取五合，以米作粥食，胎即出。\n治妊娠经六七月，子死腹中不出。\n黑豆三合，右醋一升，煎取八合，空心，分温三服。\n治子死腹中，母闷绝。\n水银〔十二分〕，右取井底土，如鸡子黄，水研服之。\n又方\n赤小豆，右生吞七枚出，若是女，即二七枚出。\n经效理胎衣不出令烂。\n牛膝、瞿麦〔各四两〕、滑石〔研八分〕、当归〔二两〕、通草〔六两〕、葵子\n〔一升〕，右方五升，煎取二升，分三服，温服。\n又方\n灶突土三撮，右和煖水服之。\n崔氏治胎胞不出。\n大豆〔一升〕，右苦酒五升，煮取三升，分为三服。\n又方\n右吞鸡子两三只，解发刺喉中令呕，若因热，以水煮蝼蛄一枚，三四沸，\n泻口中汁下，即出。\n又方\n大麦、小麦、小豆，右等分相和，煮取浓汁，饮之出。\n又方\n赤朱〔一两〕，右研为粉，以苦酒和服之，即出。\n又方\n皂荚，右为末，著鼻中两度，自出。\n疗胞衣久不出，腹满即杀人，服此方即烂。\n桂心、牛膝、通草各三两、滑石〔二两〕、葵子〔一升〕、瞿麦〔四两〕，右水九升，\n煎取三升，分三服，甚效。\n又方\n瞿麦〔四两〕、桂心〔三两〕、通草〔三两〕、牛膝〔五两〕、葵子〔一升〕，\n右水三升，煎取一升半，分为三服。\n又方\n真珠〔一两〕，右研细，苦酒调服之。\n又方\n洗儿水，右取半碗，服之即出。\n治胞衣不出。\n牛膝〔八两〕、葵子〔二升〕，右水七升，煮取三升，分三服。\n胞衣半出半不出，或子死腹中，著脊不下，数日不产，血气上冲。\n牛膝〔六两〕、葵子〔一升〕、榆白皮〔四两〕、地黄汁〔八合〕，右水九升，\n煎取三升，分三服即出。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "卷上",
+        "胎死胞衣不出方論第十六〔凡十八道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "443f0fade49b59567bf1874d154159c09b035fc55dfc2ce0c738b1992ce6dbe7",
+      "content_sha256": "80bd67aac1b5a581afcabefed45febdd42d0e9846ab577085e230132da269b2d",
+      "paragraph_count": 42,
+      "paragraph_ordinals": [
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 743,
+        "simplified_codepoints": 743
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "18a7abd42fcfe258d2236cdb",
+      "title": "产后心惊中风方论第十七〔凡七道〕",
+      "volume": "卷中",
+      "content": "论曰：产后心闷气绝，眼张口噤，通身强直，腰背反偃，状如癎疾，心忪惊悸，\n言语错乱，皆是宿有风毒，因产心气虚弱，风因产发成风疰。\n防风、当归、茯苓、汉防己、麻黄〔去节各八分〕、秦艽、人参、芎䓖、独活、\n白鲜皮、甘草〔炙〕、白微各六分、石膏〔十二分〕、竹沥〔二升〕，右水七升，\n先煮麻黄掠去沫下诸药，入竹沥，煎取二升半，去滓，三服，忌菘菜猪肉生冷。\n疗产后狂语，志意不定，精神昏乱，心气虚，风邪所致。\n茯苓、干地黄〔各十二分〕、远志〔十分〕、白微、龙齿〔各十分〕、甘草〔炙〕、\n人参、防风、独活〔各八分〕，右以银一大斤，水一斗五升，煎取七升，下诸药，\n煎取三升，分温三服，忌如前。\n疗产后心虚，忪悸不定，乱语谬说，精神恍惚不定，当由心虚所致。\n人参、甘草〔炙〕、芍药、当归、生姜〔各八分〕、远志、茯苓〔各十分〕、桂心\n〔六分〕、门冬〔去心〕、大枣〔各十二分〕，右水八升，煎取三升，去滓，分温三服。\n疗产后心气虚损，卒惊强语，或歌哭嗔笑，性气不定。\n上银〔一斤〕、桂心、甘草〔各六分〕、细辛〔四分〕、人参、生姜、远志、茯神\n〔各八分〕、生地黄〔二十分〕、龙骨〔一分〕、大枣〔一枚〕，右水八升，\n煮银取一升半，入诸药煎，分三服，温温进。\n疗产后多虚弱羸瘦，苦大汗痢，皆至于死，此重虚故，故患中风谬语，昏闷不知人者。\n人参、茯苓、羌活、桂心、大枣、远志〔各十分〕、竹沥〔一升半〕，右水六升，\n煮取三升，下竹沥，更煎取二升，分为三服。\n疗产后身忽痓，口噤面青，手脚强急。\n右竹沥二升，饮之最佳。\n产后恶寒壮热，一夜三五度发恶语，口中疮生，时时干呕，困乏欲绝。\n人参、独活、白鲜皮、葛根、防风、青竹茹、远志各六分、茯神〔八分〕、白歛\n〔十分〕、玄参〔十二分〕、竹沥〔二升半〕，右银一斤水，一斗五升，煎取七升，\n下诸药，重煎取三升，分温三服，忌鱼酒面等物。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 35,
+      "source_path": [
+        "卷中",
+        "產後心驚中風方論第十七〔凡七道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "1397109f20ca7c0faef88a6e9d9ecb8a063f5f5734a2d61a3720386e4a7b5aef",
+      "content_sha256": "912c265d1b6aa7ca9ab8efefa49344be5da03d0f5961ad00f5d435d6891399dd",
+      "paragraph_count": 25,
+      "paragraph_ordinals": [
+        36
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 770,
+        "simplified_codepoints": 770
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "ec3de878f6288a01da0f29ef",
+      "title": "产后余血奔心烦闷方论第十八〔凡十五道〕",
+      "volume": "卷中",
+      "content": "论曰：余血奔心，盖是分娩不了解，便与童子小便并捍心下，及卧太早，\n兼食不相宜之物所致，但能依方疗之，无不痊可。\n疗产后心中虚热烦闷，气欲绝。\n大枣〔十二分〕、茯苓〔十二分〕、生姜〔八分〕、甘草〔五分〕、竹沥〔一升〕、\n人参〔六分发热方用〕、粳米〔若食小加三合〕、生麦门冬〔二十分〕，右水六升，\n煎取三升，方下竹沥，更煎取二分，分温三服。\n余产后余血不尽奔冲，心烦闷腹痛。\n生地黄、芎䓖〔各三两〕、枳壳〔炒〕、芍药〔各三两〕，右捣筛为末，酒服方寸匕，\n日进二服。又方\n生藕〔研汁〕，\n右饮二升甚效。\n又方\n清酒〔一升〕、生地黄汁〔一升〕，\n右相和，煎一沸，分为两服。\n疗产后腹内块痛不止。\n芎䓖、当归、芍药、干姜〔各二两〕，\n右捣罗为末，酒调方寸匕，日三服。\n疗产后下血不尽，腹内坚痛不可忍。\n当归、芍药、桂心各三两、桃仁〔一百二十枚〕，\n右水六升，煮取二升，分温二服，如未瘥，加大黄三两。\n疗产后血结下不尽，腹绞痛不止。\n大黄〔别浸〕、当归、干地黄各十分、芎䓖、芍药、桂心〔各八分〕、甘草炙、黄芩\n〔各六分〕、桃仁〔四十九枚〕，右水七升，煮取二升半，下大黄，更煎三沸，\n分为三服。\n疗先患冷气，因产后发腹痛。\n芎䓖、桂心、当归、茱萸、茯苓、芍药、\n甘草〔各六分〕、桃仁〔十分去尖〕，\n右水七升，煮取二升，分三服。\n治产后心腹切痛，不能食，乏气忽热。\n当归、芎䓖、黄芩、人参、甘草、芍药、防风、生姜〔各三分〕、桃仁〔八十枚〕，\n右水七升，煮取二升，下大黄，更煎三沸，分作三服。\n疗产后血不尽，腹中除痛无计。\n青木香、当归、牛膝、芎䓖、黄耆、芍药〔各八分〕、大黄〔十三分浸〕、芒硝\n〔十二分〕，右水七升，煎取二升，后下大黄，更煎三沸，分三服。\n疗产后血下不止，虚羸迨死。\n蒲黄〔二两〕，右水二升，煎取八合，顿服。\n疗产后血泄不止，无禁度。\n干地黄末，\n右酒服匙头，日三四服。\n疗产后余血攻心，或下血不止，心闷面青，冷气欲绝。\n羊血，右以一盏顿服，如不定，更服立效。\n疗气痛欲死。\n槐鸡〔半两〕，右为末，用酒浓煎，顿服立愈。\n疗产后余血作痛兼块者。\n桂心、姜黄，右等分为末，酒服方寸匕，血下尽妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 37,
+      "source_path": [
+        "卷中",
+        "產後餘血奔心煩悶方論第十八〔凡十五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "e3435b0fc8e869dca33219b156b490e327116a0be09b6fe050a5f274aadf4932",
+      "content_sha256": "01ffd0ee3690600191837400defcdcbfeceb731535926825a8a35327ff7f0afe",
+      "paragraph_count": 45,
+      "paragraph_ordinals": [
+        38
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 895,
+        "simplified_codepoints": 895
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "6ff4aee96bfc74642313ac36",
+      "title": "产后渴不止方论第十九〔凡二道〕",
+      "volume": "卷中",
+      "content": "疗产后渴不止，饮水，小便数多。\n土瓜根、栝蒌根、人参、甘草、牡蛎粉〔各二两〕、大枣〔十二枚〕，右水九升，\n煮取三升，分温三服。\n疗产后大渴不止。\n芦根〔切一升〕、栝蒌〔三两〕、人参、甘草、茯苓各三两、大枣〔十二枚〕、\n生麦门冬〔四两〕，右水九升，煮取三升，分为三服，顿服，四剂即瘥，忌菘菜。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 39,
+      "source_path": [
+        "卷中",
+        "產後渴不止方論第十九〔凡二道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "50407c7b5489b0c273b3400f68ff459489a6c95f085e7a43256d2a5c40c8efd8",
+      "content_sha256": "024d3ba8f20b9f43633e4007b6d482e841d7dcca3c0d6678e24dc3e32d866bce",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        40
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "ae349aa2f493e2d2e62c2088",
+      "title": "产后淋病诸方论第二十〔凡六道〕",
+      "volume": "卷中",
+      "content": "论曰：产后患淋，因虚损后有热气客于胞中，内虚则起数，热则小便涩痛，故谓之淋，\n又有因产损血气，血气虚则挟热，热搏于血，血即流渗于胞中，\n故血随小便出为血淋者，如雨之淋也。\n疗产后淋病小便涩痛或血淋者。\n瞿麦、黄芩、冬葵子各二两、通草〔三两〕、大枣〔十二枚〕，右水七升，\n煮取二升半，分作两服。\n疗产后血淋。\n车前子、睢麦各四两、黄芩〔三两〕、郁金〔一两末〕，右水六升，取二升，\n下郁金末分三服\n广济疗产后卒患淋穴便涩痛及血淋。\n冬葵子〔三合〕、石苇〔二两炙去毛〕、通草、黄芩、滑石、茯苓〔各三两〕，\n右水二升，煎取一升，下滑石空心服。\n集验疗产患淋小便痛。\n石苇〔炙去毛〕、黄芩〔各二两〕、通草、芍药、甘草、冬葵子〔各三两〕、榆白皮\n〔五合〕，右水二升，煎取一升，空心温温服。\n经效疗产后气淋热淋。\n贝齿〔两枚烧作末〕、葵子〔二两〕、石膏〔五两〕、阳石末三两，右水二升，\n煎取一升，下两般末空心服。\n疗产后淋小便痛及血淋。\n黄茅〔五两〕、瞿麦〔二两〕、车前子〔二两〕、通草〔三两〕、冬葵子〔二合〕、\n鲤鱼齿〔一百枚为末〕，\n右水二升，煎取一升，入齿末，空心分两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 41,
+      "source_path": [
+        "卷中",
+        "產後淋病諸方論第二十〔凡六道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "888e8a751e50e028548cac84544e443a1f2e71f19cac60adec4085ae848345e3",
+      "content_sha256": "b4e18805a5adcd74a19240661c7d427dfbc5d55862626ccc95a974a51b1c6b83",
+      "paragraph_count": 22,
+      "paragraph_ordinals": [
+        42
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 482,
+        "simplified_codepoints": 482
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "07ac4cc4eaccffbca5656779",
+      "title": "产后虚羸下痢方论第二十一〔凡三道〕",
+      "volume": "卷中",
+      "content": "论曰：产后本虚患痢，更加羸弱，饮食不进，便痢无常，赤白不定，\n盖因饮食伤于生冷之致。\n疗产后虚羸，下痢脓血腹痛。\n黄连、芍药、甘草、当归、干姜、人参〔各八分〕、艾叶〔三分〕，右水七升，\n煮取二升，分为三服，忌猪鹿肉。\n疗产后痢不禁止，因乏气欲绝，无问赤白水谷。\n黄连、厚朴各三两、芍药、黄柏〔各二两〕，右水六升，煮取二升，分为二服。\n疗产痢赤白，心腺绞痛羸困。\n地榆、石榴皮、黄连各三两、当归〔二两〕、薤白〔切一升〕，右水七升，\n煮取二升半，分为三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 43,
+      "source_path": [
+        "卷中",
+        "產後虛羸下痢方論第二十一〔凡三道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "28248168edc0ed69e205aef3cf4692cee65696a99f64fe1af83e623a8bfbbdcd",
+      "content_sha256": "549dcae1fc7d52370ffaf6ea6b8f7aeb38dac68b88c0899e2de4b0c66cd36d37",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        44
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 226,
+        "simplified_codepoints": 226
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "bd18b716df0ba8f24fefc985",
+      "title": "产腰痛羸瘦补益玉门不闭方论第二十二",
+      "volume": "卷中",
+      "content": "疗产后少气，困乏虚烦。\n人参〔十二分〕、甘草、桂心、茯苓、芍药〔各八分〕、生地黄、生麦门冬\n〔各十二分〕，右水九升煮取二升，分温三服。\n疗产后喘乏气羸，腺内绞痛，血汗出。\n黄耆、人参、茯苓、甘草、当归、芎䓖五味子、白术〔各八分〕、泽兰叶、\n橘皮各六分、诃子、麦门冬〔各十二分〕、桂心、干地黄〔各十二分〕，右捣罗为散，\n炼蜜和丸，如梧桐子，空心酒下三十丸，日再服。\n疗产后风虚，羸弱劳瘦，不生肌肉。\n黄耆、当归、芍药、人参〔各二两〕、桂心、甘草〔炙〕、芎䓖、生姜各八分、大枣\n〔十二枚〕，右水七升，煮取三升，分温三服。\n疗产后虚劳，骨节疼痛，头疼汗不出。\n当归、人参、生姜各二分、黄耆〔三两〕、豉〔五合〕、粳米〔三合〕、猪肾\n〔一对切〕、薤白〔切三合〕，右水一斗五升，先煮猪肾取六升，后下诸药，煎至二升，\n分为三服。\n又方\n猪肾一对，右入葱豉作臛，如常食之。\n疗产大虚，心腺急痛，血气上抢心，气息乏补益方。\n黄耆、白术、当归、甘草〔炙〕、人参各二两、生姜〔四两〕、白羊肉，\n右水一斗九升，煮肉取五升，后下诸药更煎取三升为三服。\n疗产后阴肿，下脱肉，出玉门不闭。\n石灰〔一斤炒令色黄〕，右水二升，投灰中，停冷澄清，重烧以浸玉门，\n斯须平后如故。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 45,
+      "source_path": [
+        "卷中",
+        "產腰痛羸瘦補益玉門不閉方論第二十二"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "e0da12535fdc5a0127a9987c9e9cee404ad52bf155a18258b61e0d236417efd3",
+      "content_sha256": "d4843722cf9e51858f2f97aeedcf187b1753f9ed2cee2b78132f9d96bfdc19f8",
+      "paragraph_count": 22,
+      "paragraph_ordinals": [
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 520,
+        "simplified_codepoints": 520
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "aee4f04dc7101eac1be5adbb",
+      "title": "产后中风方论第二十三〔凡十五道〕",
+      "volume": "卷中",
+      "content": "论曰：产后中风，由产伤动血气，劳损脏腑，未平复起，早劳动，气虚而风邪气乘之，\n故中风，风邪冷气，客于皮肤经络，但疼痹羸乏，不任少气，\n若又筋脉挟寒则姅急㖞僻，挟温则弛纵缓弱，若入诸藏，恍惚惊悸，\n随其所伤脏腑经络而生病。疗产后中风口噤，不任大小独活汤。\n独活〔四分〕、干姜〔六分〕、甘草〔二分〕、生姜〔六分〕，\n右水二大升，煎取一大升，分为两服。\n小品大豆汤，主产后中风困笃，或背强口噤，或但烦躁，或头身皆重，或身痒，\n剧者呕吐直视，此皆虚冷中风直饵此。\n大豆〔三升炒令极熟〕，右以铜器盛清酒五升沃之，密封良久，去豆分为三服，\n服了覆衣取微汗，身才润即愈，产后皆宜服，一则防风，二乃消血。\n张仲文疗产后中风受寒，遍身冷直，口噤不识人等方。\n白术〔四两〕，右酒三升，煎取一升，顿服之效。\n千金鸡粪酒，疗产后中风，及男子诸中风，井产后百疾神效方。\n乌鸡粪〔三升〕、大豆〔二升〕，右先炒豆令声绝，次炒鸡粪令黄，以酒一升，\n先淋鸡粪，取汁淋大豆，每服一升。\n重者凡四五日，服之极妙。\n经效疗产后风虚头痛，语言时僻。\n干葛、防风、茯苓、麦门冬〔各八分〕、芍药、芩〔各六分〕、犀角〔四分〕、甘草\n〔三分炙〕，右水二升，煎取七合，分为两服。\n疗产后中风心忪悸，或志意不定恍惚，言语错乱方。\n人参〔六分〕、茯神、麦门冬、羚羊角〔各八分〕、黄芩白鲜皮、甘草〔各四两〕、\n石膏〔十二分〕，淡竹沥〔两大合〕，\n右水二大升，煎取七合，煎取七合，下竹沥分为三服。\n疗产后中风，身背拘急如束，并渴。\n芎䓖、芍药、羌活、羚羊角、酸枣仁〔各四两〕、桑白皮〔六分〕、防风〔五分〕，\n右水四升，煎取二升，分温三服。\n疗产后中风，四肢拘束筋节掣痛，不得转侧，角弓反张。\n麻黄〔八分去节〕、生姜、桂心、白术各四分、防风、芍药〔各六分〕、芎䓖〔五分〕\n、甜竹沥〔二合〕，右水三升，先煎麻黄掠去沬，下诸煎取七合，方下竹沥，\n更煎三沸，食后分三服，取微汗为度。\n疗产后中风，血气不散，邪气入藏，狂言妄语，精神错乱，腰痛骨疼。\n麻黄、茯神各八分、防风、白鲜皮〔各六分〕、杏仁、当归、桂心〔各四分〕、芍药、\n独活〔各五分〕，右水二升五合，煎取九合，空腹热服。\n疗产后中风，身体疼痛，四肢痿弱不遂，羌活汤。\n羌活、芍药、黄耆〔各六分〕、干葛、麻黄、干地黄〔各八分〕、甘草、桂心\n〔各四分〕，右水二升，先煎麻黄去沬，后下诸药，取八合，食后热服，覆衣出汗愈。\n疗产后中风，烦渴。\n红花子〔五合微热研碎〕，右水一升，煎一匙头，取七合，徐徐呷之。\n疗产后中风，口噤四肢顽痹不仁，或如角弓张。\n羌活、防风〔各三两〕、大豆〔一升炒令皮拆〕，右酒五升，先浸两味，经宿，\n将炒豆热投酒中，搅匀，蜜封一日，以汤煮瓶良久，服八合，覆衣取汗急速，\n且以豆淋，服羌活、防风亦佳。\n疗产后中风，腰背强直，时时反张名风痉。\n防风、葛根、芎䓖、干地黄〔各八分〕、麻黄〔去节〕、甘草、桂心、独活、汉防己\n〔各六两〕、杏仁〔五枚去尖〕，右水八升，煮麻黄去沫，后下诸药，煎取三升，\n分温三服。\n疗产后中风口噤，溃闷不能言，身体痉直。\n羌活、防风、秦艽、桂心、甘草、葛根〔各三分〕、生姜〔八分〕、附子〔一只炮〕、\n杏仁〔八十枚去尖〕、麻黄〔十分去筛〕，右水九升，先煮麻黄去沫，后下诸药，\n取二升，分为三服。\n疗产后中风口噤，拘急困笃，腰背强直时反张。\n大豆〔二升炒令声绝〕，右清酒六升投之，煮三四沸，去滓饮之，令微醉，如汗出瘥，\n切勿触风，如已成风者，加鸡粪白和豆炒，同吃，兼饮竹沥佳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "卷中",
+        "產後中風方論第二十三〔凡十五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "c80ebf755930babd67b8ab94d2808d8277508f60cc696899592eb22bdc14c960",
+      "content_sha256": "8c43acdfc7e40baad40fc215422cd72ed7c74008d7ebeed247e3b6f1348fdeb4",
+      "paragraph_count": 53,
+      "paragraph_ordinals": [
+        48
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1448,
+        "simplified_codepoints": 1448
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "cc6f0f1203646d48403f5f2e",
+      "title": "产后余血上抢心痛方论第二十四〔凡六道〕",
+      "volume": "卷中",
+      "content": "论曰：夫产后血上抢心，由产后气虚挟宿冷，冷搏于血，则凝结不消，气逆上者，\n则血随上冲击而心痛也，凡产后余血不尽，得冷则结，与气相搏则痛困，重遏于寒，\n血结尤甚。\n干地黄、当归、独活、吴茱萸、芍药、干姜、甘草〔各三两〕、细辛〔一两〕，\n右水三升，煎取一升，空心分三服，忌生冷。\n经效疗产后气虚，冷搏于血，血气结滞，上冲心满胀，当归汤。\n当归、桂心、芎䓖、橘皮、生姜、吴茱萸各二两、芍药〔三两〕，右水三升，\n煮取一升，空心服。\n千金治产后内虚，寒气入腹，腹中绞痛，下赤白痢，妄言见鬼，羊肉汤。\n甘草炙、当归、芍药〔各一两〕、肥羊肉〔一斤去脂〕，\n右水六升，先煮肉取二升，去肉入诸药，更煎取一升，分作两服。\n千金翼茱萸酒，论心腹内外痛。\n吴茱萸〔十二分〕，右酒二大升，煎取一升，空心分两服。\n必效疗腹中绞刺痛方。\n羌活〔二大两〕，右酒二升，煎取一升，去滓，分为两服。\n千金治产后渴少气。\n麦门冬、淡竹叶〔各十二分〕、大枣〔七枚〕、生姜、甘草、人参〔各六分〕、小麦\n〔五合〕，右水二升半，煎取一大升，去滓分两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 49,
+      "source_path": [
+        "卷中",
+        "產後餘血上搶心痛方論第二十四〔凡六道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "6824681b6d08083a5791f50ea59716f33fa0a42726fbcbfc58b9ba255e9c8b2c",
+      "content_sha256": "2818ee4a14ac77c06d7d4309ea5716e7315519d6392ba98a908fcea74de15dab",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        50
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 452,
+        "simplified_codepoints": 452
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "1185c2d665d70f49fbb81aa7",
+      "title": "产后汗不止方论第二十五〔凡五道〕",
+      "volume": "卷中",
+      "content": "论曰：产后汗不止，夫汗由阴虚而得，又加之里虚表实，阳气发于外，故汗出为阴虚，\n是令汗出，为阴气虚弱未平复也，凡产后皆血气虚，故多汗，因遇风邪，则变为疾也。\n千金治产后风虚，汗出不止，小便难，四肢微急，难以屈伸。\n大枣〔十二枚〕、附子、桂心〔各四两〕、芍药〔八分〕、生姜〔六分〕，右水三升，\n煎取七合，空腹分为两服，忌猪肉冷水生葱等物。\n经效疗产后汗不止。\n黄耆〔十二分〕、白术、牡蛎、茯苓、防风、干地黄、麦门冬各八分、大枣〔七枚〕，\n右水二升，煎取七合，空心分为两服。\n千金治产后余疾，腹中绞痛，不下食，瘦乏。\n当归、黄耆、芍药〔各六分〕、干地黄、白术〔各八分〕、桂心、甘草〔各四分〕、\n大枣〔十四枚〕，右水二升，煎取八合，空心作两大服，忌生葱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 51,
+      "source_path": [
+        "卷中",
+        "產後汗不止方論第二十五〔凡五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "f2457910539a8548469b41f1b62ecf9fb8321bdd164eed3edb3ee91475606dca",
+      "content_sha256": "f8cef41f85addd6b8fded61923cc901d9b7e55f8a859104ff3e13ef3b6630df4",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        52
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 323,
+        "simplified_codepoints": 323
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "0bc92396a48f9fab6ec39a9a",
+      "title": "产后冷热痢方论第二十六〔凡二道〕",
+      "volume": "卷中",
+      "content": "疗产后骤血不止，续命汤。\n白蜜〔一匙头〕、生姜〔一片〕，右同煎候蜜色赤，投童子小便一升，去姜，\n更煎两沸，分为三服，顿服之。\n广济治产后腹痛气胀，胁下闷，不下食，兼微痢。\n茯苓、人参、当归、甘草〔各六分〕、生姜、陈橘皮〔各四分〕、厚朴〔八分炙〕，\n右水二升，煎取七合，空心分为两服，忌如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 53,
+      "source_path": [
+        "卷中",
+        "產後冷熱痢方論第二十六〔凡二道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "4c14faf59c6898435132fa093beaf4b3645a96516b2d26c504aef2e9befa11ef",
+      "content_sha256": "56a2389e0bc72ffb4264eade80de75ac384264f86b9da2f5dd3a35436212d170",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        54
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "d9acd9479896af625fb265d4",
+      "title": "产后虚羸方论第二十七〔凡三道〕",
+      "volume": "卷中",
+      "content": "论曰：产后虚羸者，因产损伤脏腑，劳侵气血，轻者将养满日即瘥，重者日月虽满，\n气血犹不调和，故患虚羸也。\n广济治产后风虚冷气，腹肚不调，补益悦泽。\n泽兰、桂心、远志、厚朴〔炙〕、石斛、白芷、续断、防风、干姜〔各三分〕、芎䓖、\n白术、柏子仁、黄耆〔各四分〕、甘草、当归〔各五分〕、赤石脂、干地黄〔各六分〕\n、人参〔三分〕，右捣罗为末，炼蜜为丸，如梧桐子大，空心酒下五十丸，忌如前。\n桃仁煎，疗产后百病，及诸气，补益悦泽。\n桃仁〔一千二百枚去皮尖炒熟研如膏〕，右酒一斗五升，研滤三四遍，如作麦粥法，\n以极细为佳，内长颈小瓶中，密封头，内汤中，煮一日一夜，使瓶口常出汤上，\n勿令没，熟后以酒服一合，日再服。\n千金增减泽兰丸，疗产后百病，治血补虚劳。\n泽兰、防风、甘草、当归、芎䓖〔各七分〕、干姜、麦门冬〔各八分〕、附子、白术、\n桂心、细辛〔各四分〕、柏子仁、干地黄、石斛〔各六分〕、人参、牛膝〔各五分〕、\n厚朴、叶本〔各二分〕，右为末，蜜丸，梧桐子大，空心酒下二十丸，忌如前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 55,
+      "source_path": [
+        "卷中",
+        "產後虛羸方論第二十七〔凡三道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "1c6f79ecf9154575ff0829c44516595e6d41a4d8377d8035cfa9a47ead9b1fa1",
+      "content_sha256": "fa08769cd460abdb4d64c9134ea8191b6ca1b7e7e9312bcb15d9eca726de1414",
+      "paragraph_count": 14,
+      "paragraph_ordinals": [
+        56
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 434,
+        "simplified_codepoints": 434
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "546b293c494150f5393d73a3",
+      "title": "产后烦渴方论第二十八〔凡二道〕",
+      "volume": "卷中",
+      "content": "经效理产后血气心烦渴。\n紫葛〔三大两〕，右水二升，煎取一升，去滓，呷之效。\n集验疗产后心烦渴。\n瓜蒌根、人参、甘草炙各六两、麦门冬〔二分〕、大枣〔七枚〕、生地黄〔十二分〕，\n右水二大升，煎取八合，食后分为两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 57,
+      "source_path": [
+        "卷中",
+        "產後煩渴方論第二十八〔凡二道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "cce484315d45562f899acd4268e54517d9d726b593f91fdafa37f1b3440b18c7",
+      "content_sha256": "160a3d61dd241117908d0763068dd3e842955089155eefd6fda6251538dd9699",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        58
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 105,
+        "simplified_codepoints": 105
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "62cea91c21d1eb1f2427556b",
+      "title": "产后烦闷虚热方论第二十九〔凡六道〕",
+      "volume": "卷中",
+      "content": "论曰：产后烦闷虚热，夫产即脏腑劳伤，血气伤而风邪乘之，搏于血，使气不宣，\n而痞涩则生热，或肢节烦疼口干，但因生热，其烦闷由产后血气虚弱未复，\n而气逆乘之，故烦闷也，其气故令胁满，妨不下食。\n生地黄汁〔一升〕、当归〔一两半〕、清酒〔五升〕、生姜汁〔三合〕、童子小便\n〔二升〕，右相和合煎三四沸，分温四服，中间药消进食，食消更进药。\n经效理血气烦闷，胁肋胀满及痛。\n芍药、蒲黄、延胡索各四分、当归〔六分〕、荷叶蒂三枚炙，右水二升，煎七合，\n后入蒲黄，空心服两服。\n又方\n生藕，右取汁，煎两沸，饮两服效。\n集验疗产后血气烦闷。\n酒〔二合〕、生地黄汁〔一升〕，右相和，煎一两沸，分为两服，立效。\n千金疗产后血气喘，心烦闷不解。\n淡竹叶、麦门冬、小麦、茯苓〔各二分〕、甘草、生姜〔各一两〕、大枣〔七枚〕，\n心悸，加人参二两食少，加粳米〔二合〕，右水二升，煎取七合，食后分为两服。\n疗产后血下不尽，\n烦闷腹痛。羚羊角〔炭火上烧作胶二两古方烧作灰〕、芍药〔二两炒黄〕、枳壳\n〔二两炒令焦黄色〕，右捣罗为散，水调方寸匕，服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 59,
+      "source_path": [
+        "卷中",
+        "產後煩悶虛熱方論第二十九〔凡六道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "17fef965c0a864e154d769333344594d1aefab498f13b53fa61221f53c5444c6",
+      "content_sha256": "52dd19826cef09cc39c97a1b5384401305931248417f7c2d7a5c0bc91e3f0f13",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        60
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 455,
+        "simplified_codepoints": 455
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "ac5139b3842806641bc6c3d6",
+      "title": "产后血瘕方论第三十〔凡四道〕",
+      "volume": "卷中",
+      "content": "论曰：产后血断，由新产之后，有血气相搏，谓之瘕，瘕者，假也，谓其痛浮走无定，\n缘内宿有冷血气，不治，至产血下即少，故成此疾也。\n童子小便〔三升〕、生藕汁〔一大升〕、地黄汁〔一升〕、生姜汁〔三升〕，\n右先煎三味，合三分，减二次，下姜汁，慢火煎如稀饧，每取一合，煖酒调服。\n疗血瘕痛，脐下胀，不下食。\n当归〔八分〕、桂心、芍药、蒲黄、麟竭〔各六分〕、延胡索〔四分〕，右为散，\n空心温酒调下两钱匕。\n千金疗血瘕。\n干地黄〔一两〕、乌贼鱼骨〔二两〕，右为散，空腹温酒下两钱匕。\n又方\n铁秤锤〔烧赤〕，右以酒一升淬之，分为两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "卷中",
+        "產後血瘕方論第三十〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "49afe39335b6f863c2c43ec33b84153f3977574924ac5dbd25b6136cf2117a29",
+      "content_sha256": "529f2247afa37a73425686c4d589293ad6cfcd3cfa223bdedb173b397b8e1415",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        62
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 259,
+        "simplified_codepoints": 259
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "1f4b0666e2bc9a19bcb5be67",
+      "title": "产后余疾痢脓血方论第三十一〔凡八道〕",
+      "volume": "卷中",
+      "content": "论曰：产后余病，由产劳伤脏腑不足，日月未满，起早劳动，虚损不补，为所伤冷，\n气力瘦乏，若风冷入于胃，胃伤虚冷，则血即变白脓，脓血相杂，冷热不调，\n为滞痢也。深师方。\n黄连〔六两〕、乌梅〔三两〕、干姜〔二两〕，右为末，炼蜜为丸，如桐梧子大，\n空心米饮下三十丸，忌如前。\n广济疗产后赤白痢，脐腹绞痛。\n当归、黄连〔各八两〕、艾叶、地榆、甘草〔炙〕、龙骨、厚朴、黄芩、干姜各六两，\n右水二大升，煎取七合，空心分两服。\n经效疗产后赤白痢，脐下气痛。\n厚朴〔八分〕、当归、枳壳、诃子〔各六分〕、甘草〔五分〕、肉豆蔻〔五枚〕、\n薤切〔三合〕，右水一升，煎取九合，空心分为三服。\n张仲文疗产后赤白痢，腹中绞痛。\n黄连、阿胶〔炙〕、蒲黄〔各一两〕、栀子仁、当归黄芩，右为散，\n空腹米饮下方寸匕，日两服。\n救急疗产后赤白痢，腹中绞痛。\n芍药、阿胶、艾叶〔各二两〕、干地黄、甘草、当归各三两，右水一升，煎取八合，\n空心分两服。\n必效疗产后赤白痢，腹中绞痛，不下食。\n当归、石榴皮、地榆〔各二两〕、白芰荷、黄连〔各十二两〕、黄柏〔一分〕、犀角\n〔四两〕、黄芩、枳壳、甘草、升麻〔各六分〕、茜根〔八分〕、粳米〔二合〕、薤白\n〔切一升〕，右为末蜜丸，如梧桐子大，空心米饮下二十丸。\n疗产后血痢，小便不通，脐腹痛。\n生马齿菜，右捣取汁三大合，煎一沸，下蜜一合调，顿服。\n千金疗产后水痢，霍乱下痢无度。\n白石脂、干姜〔各十二分〕，\n右为散，面粥为丸，梧桐子大，空心米饮下三十丸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 63,
+      "source_path": [
+        "卷中",
+        "產後餘疾痢膿血方論第三十一〔凡八道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "4e3e0783ca15fc606e93144fc98a91edcbad944c6c6a3a6966932073b39a545b",
+      "content_sha256": "1649a5e8035be9efc36f9f9e0d046f8c9cc276881c1dbef6461b556827d50cb5",
+      "paragraph_count": 26,
+      "paragraph_ordinals": [
+        64
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 624,
+        "simplified_codepoints": 624
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "7b0a167d496026a6905de2bf",
+      "title": "产后小便赤方论第三十二〔凡二道〕",
+      "volume": "卷中",
+      "content": "论曰：产后小便数，此由胞内宿有冷，因产后冷发动，冷气入腹，虚弱不能制，\n其小便即数，有遗尿者，由产用气，伤于膀胱，而冷气入于胞，胞囊决漏，不禁小便，\n故令遗失，多因产难之所致。\n广济疗产后小便不禁。\n鸡屎〔烧作灰〕，右研细，空腹酒服方寸匕。\n千金翼疗产后小便数及遗尿。\n桑螵蛸〔三十枚炒〕、鹿茸〔炙〕、黄耆〔各三两〕、赤石脂、厚朴〔炙〕、牡蛎\n〔各二两〕，右捣罗为末，空心米饮下方寸匕，忌冷茶毒等物。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 65,
+      "source_path": [
+        "卷中",
+        "產後小便赤方論第三十二〔凡二道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "9230774d7ea00636735abed5fc0c0382a887400826b53d94678f97a2b1295f01",
+      "content_sha256": "1db944eca1eb296c4207d2434ee2ebf1306e520e487827adc4018336d141ffd8",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        66
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 200,
+        "simplified_codepoints": 200
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "04bca1a4a20d714586526ca6",
+      "title": "产后小便遗血方论三十三〔凡四道〕",
+      "volume": "卷下",
+      "content": "疗产后大小便利血。\n车前子、黄芩、蒲黄、干地黄、牡蛎、芍药〔各六分〕，右为散，空心，\n米饮服方寸匕，忌面蒜。\n崔氏疗产后血气渗入大小肠。\n车前草汁〔一升〕、蜜〔一大合〕，右相和，煎取一沸，分为两服。\n又小便利血。\n乱发烧灰研如粉，右米饮服方寸匕。\n古今经验疗产后劳伤热，大小便赤涩。\n鸡苏〔一分〕、通草〔十分〕、冬葵子〔三合〕、芍药、滑石、芒硝各八分、生地黄\n〔十二分〕，右水三升，煮取八合，下芒硝，空心分三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 68,
+      "source_path": [
+        "卷下",
+        "產後小便遺血方論三十三〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "8e8d2558d662d31527ea8a7f75fd6fbedb4e2c44a7bda4690ab54e5c11a58c4a",
+      "content_sha256": "73cbf57c9951bd63ea2308c1907848ea172cf5583412deb598028ab560b23800",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        69
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 206,
+        "simplified_codepoints": 206
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "c7380525be7e7b4ff295cf7f",
+      "title": "产后大小便不通方论第三十四〔凡四道〕",
+      "volume": "卷下",
+      "content": "论曰：产后大小便不通，肠胃本挟于热，因产大小便血俱下，津液竭燥，肠胃痞涩，\n热气结于肠胃，故不通也。\n集验疗产后津液竭燥，大小便不通。\n芍药、大黄、枳壳、麻仁研〔各二两〕，右为末，炼蜜和丸，梧桐子大，空心，\n熟水下二十丸，渐加之，以利为度。\n经效疗大便不通，热气结于肠胃。\n大黄〔二两〕、芒硝〔一两〕，右水一大升，煎取六合，下芒硝，空心，作两服。\n古今录验疗产后大便不通。\n黄芩、芒硝〔各六分〕、大黄、芍药、杏仁〔去皮尖研如膏各八分〕，右为末，蜜丸，\n梧桐子大，空心，煎水下十五丸，渐加，以利为度。\n千金疗产后热结，大便不通。\n蜜〔五合火煎令强以水投中良久取出〕，\n右捻如拇指大，长二寸，内下部即通。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 70,
+      "source_path": [
+        "卷下",
+        "產後大小便不通方論第三十四〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "5e7cc15a1315e6a1ee7c549be664981fab744475ccb15ee9dbbdf945bf5f6491",
+      "content_sha256": "bf4508748207f4a09ebdfc22de7821e4de181956989847544dacb80387e6c975",
+      "paragraph_count": 13,
+      "paragraph_ordinals": [
+        71
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 300,
+        "simplified_codepoints": 300
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "4a32a2a9abfd8d608050a661",
+      "title": "产后寒热方论第三十五〔凡四道〕",
+      "volume": "卷下",
+      "content": "论曰：产后寒热，因产劳伤血气，使阴阳不和，反相乘克，阳胜则热，阴胜则寒，\n阴阳相激，故发寒热，又产余血亦令人寒热，其腹时痛则是也。\n疗产后虚弱喘乏，作寒热，状如疟，名为蓐劳。\n猪肾〔一具切去膜〕、豉〔五合绵裹〕、白梁〔二合〕、癎白切〔一升〕、人参、\n当归〔各一两〕，右水二升，煎取八合，分为两服。\n经效疗产后虚烦头痛，气短欲死，心乱不解。\n淡竹茹、干葛〔各八分〕、甘草〔六分〕、麦门冬子〔三合〕、小麦〔二合〕、石膏\n〔十二分〕，右水二升，煎取八合，食后分为两服。\n疗产后虚热烦痛。\n干地黄、牡蛎、茯苓〔各八分〕、芍药〔十二分〕、黄芩、桂心各六分，\n右水二升，煎取一升，分为两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 72,
+      "source_path": [
+        "卷下",
+        "產後寒熱方論第三十五〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "94796b6efa2797b82fd8d68a51763edd1cb9fed99fd82d605783b716d272fc06",
+      "content_sha256": "6bc24025f1279a8b630bd44d8f6c48cf1e9a379f3f2c0253f8168583af6cc5df",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        73
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 289,
+        "simplified_codepoints": 289
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "2b49ad9e0a2f772579b3928b",
+      "title": "产后咳嗽方论第三十六〔凡三道〕",
+      "volume": "卷下",
+      "content": "论曰：喘嗽肺脏微寒，即成喘嗽，又因产后气虚，风寒伤于肺，故令咳嗽。\n集验疗产后风伤寒，咳嗽多疾，唾粘。\n甘草、桔梗〔各六分〕、款冬花〔四分〕、生麦门冬〔各十二分〕、葱白〔一握〕、\n豉〔二合旧方不葱白与豉〕，右水二升，煎取八合，食后，良久两服。\n经效疗咳嗽多痰，唾粘气急。\n前胡、五味子、紫菀、贝母〔各六分〕、桑白皮、茯苓〔各八分〕、淡竹叶〔二十片〕\n，右水二升，煎取八合，食后分为两服。\n疗产后咳嗽气喘。\n百部根、桔梗各六分、桑白皮〔十二分〕、干百合、赤茯苓各八分，右水二升，\n煎取七合，食后，分两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 74,
+      "source_path": [
+        "卷下",
+        "產後咳嗽方論第三十六〔凡三道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "115f6f8fcba1f5bd5979b618932172c06282768b476b6f8cfd616a93753dd807",
+      "content_sha256": "9be33eadd4b6bf08db097ef2c138f00583004b2c8983b4e1c776a02641aa2427",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 251,
+        "simplified_codepoints": 251
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "f300808ee8307df2be9cbdf3",
+      "title": "产后气痢方论三十七〔凡六道〕",
+      "volume": "卷下",
+      "content": "论曰：妊娠之时，脾胃气挟于冷，大肠气虚，因产后转加虚损，或误食生冷酒面，\n便成痢疾，赤白气不和，赤黄胃热，或青色极冷也。\n疗产后气痢不止。\n青木香〔三分〕、诃子皮〔八分酥炙令黄〕，右为散，空心，米饮调方寸匕，服之。\n疗产后赤白痢疾。\n黄连〔八分〕、阿胶〔炙六分〕、赤茯苓、当归、黄檗〔各四分〕、干姜〔三分〕，\n右为末蜜丸，如梧桐子大，空心，粥饮二十丸。\n疗产后水痢。\n枳壳〔四分〕、厚朴〔炙〕、茯苓、黄连各六分、当归〔三分〕，右水一升，\n煎取八合，空心，分为三服。\n又方\n黄连〔六分〕、乌梅肉〔五分〕、石榴皮、当归、赤石脂〔各四分、干姜〔三分〕，\n右为末蜜丸，梧桐子大，空心，米饮下三十丸。\n疗产后下痢，赤白有血。\n赤石脂、黄连、地榆〔各六分〕、当归〔四分〕、干姜、甘草〔各三分〕、厚朴\n〔十二分〕、薤白〔七茎〕，右水二升，煎取八合，空心，分两服。\n疗产后血痢不止。\n臭樗根〔六分〕，右为末，水和丸，如枣核大，面柦作饨馄，每度煮二七个，热吞之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "卷下",
+        "產後氣痢方論三十七〔凡六道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "30895ae6188b81340d8ae8057056b0d28510e75c9659f2bd470dd6eaad05f83e",
+      "content_sha256": "995ba289f7213e4eb12b35ab8a09835b3614719540f906d2ea39a49086235d7e",
+      "paragraph_count": 18,
+      "paragraph_ordinals": [
+        77
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 422,
+        "simplified_codepoints": 422
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "efcdc331d40b5738ee582eca",
+      "title": "产后血晕闷绝方论第三十八〔凡十道〕",
+      "volume": "卷下",
+      "content": "论曰：产后血晕者，其状心烦，气欲绝是也，亦有用心过多而晕，亦有下血极少亦晕，\n若下血多晕者，但烦而己，下血少而气逆者，则血随气上撩，心下满急，\n此二者难并为晕，而症状各异，当问其产妇血下多少即知，须速投方药，若不急疗，\n即危其命也，凡晕者，热血气乘虚奔逆上所致也，但才分解了，烧秤锤江石令赤，\n置器中，向产母床前帐里投醋淬之，得醋气可除血晕之法也，十日内时时作，\n此法不妨晕者，如日月之有晕也。\n经效产后虚闷，汗出不识人。\n鸡子〔三个〕，右打破吞之便醒，不醒者，可灌童子小便，入腹即醒，若久不醒，\n忽时时发者。\n此为有风，因产血气暴风虚风行脉中，若虚去血多者，尤甚也。\n产后血气暴虚，汗出。\n淡竹叶，右煎汤三合，微温服之，须臾再服。\n又方\n马齿菜〔叶研取汁三大合如无用干者亦得〕，右煎一沸，投蜜一匙，令匀顿服。\n广济疗产后血晕，心闷不识人，神言鬼语，气息欲绝。\n芍药、甘草〔各一两〕、生地黄汁〔一升〕，丹参〔四分〕、生姜汁、蜜〔各一合〕，\n右水二升，煎取八合，下地黄、姜、蜜汁，分两服。\n疗产后恶露不多，下腹绞痛。\n大黄〔八分〕、牛膝〔六分〕、芍药、蒲黄〔各四分〕、牡丹皮、当归〔各二分〕，\n右为末，空心煖酒，服方寸匕。\n救急疗产后血不尽，疼闷心痛。\n荷叶〔炒令香〕，右为散，煎水调方寸匕，服。\n疗初平安血气烦闷。\n童子小便〔五合〕、生地黄汁〔三合〕，右煎三沸，温再服。\n疗产后血晕虚闷。\n蒲黄〔四分〕、紫葛、芍药〔各八分〕、红蓝花〔十二分〕，右水二升，煎取七合，\n入生地黄汁二合，更煎三五沸，每服三合。\n产后血晕，心闷乱恍惚如见鬼。\n生益母草〔汁三合根亦得〕、地黄汁〔二合〕、小便〔一合〕、鸡子〔三枚取清〕，\n右煎三四沸，后入鸡子清，匀搅，作一服。\n产后血晕，狂语不识人，狂乱。\n童子小便〔五合〕、地黄汁〔一合〕、赤马通〔七枝〕、红雪〔八分〕，右以上二味，\n浸马通绞去滓，下红雪，温两服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 78,
+      "source_path": [
+        "卷下",
+        "產後血暈悶絕方論第三十八〔凡十道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "0c93cd4bf9497e599ee108ca20a7dd8fa68f4e8af99b4870970230cc03010aea",
+      "content_sha256": "6f71ae3b073e5662137268710d21929c3519d4a268cf68dc57ac005ce903582b",
+      "paragraph_count": 33,
+      "paragraph_ordinals": [
+        79
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 795,
+        "simplified_codepoints": 795
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "e287f95e630fb11cadbaf252",
+      "title": "产后乳无汁方论第三十九〔凡五道〕",
+      "volume": "卷下",
+      "content": "论曰：气血虚弱，经络不调所致也，乳汁勿投于地，虫蚁食之，令乳无汁，\n可卧东壁上佳。\n疗产后乳无汁。\n土瓜根、漏芦〔各三两〕、甘草〔二两〕、通草〔四两〕，右水八升，煎取两升，\n分温三服，忌如常法。\n又方\n土瓜根，右为末，酒调两钱匕，日进二三服效。\n又方\n母猪蹄〔二枚切〕、通草〔六两〕，右以绵裹，煮作羹食之，最好。\n又方\n漏芦、通草、土瓜根〔各三两〕、甘草、桂心〔各一两〕，右为散，饮服方寸匕，\n日进三服。\n又方\n栝楼末，\n右以井花水，服方寸匕，日二服，夜流出。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 80,
+      "source_path": [
+        "卷下",
+        "產後乳無汁方論第三十九〔凡五道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "eec25d1f9ca24ae1f266307fd18f2590782a1ab78177b5eaa62f73e1b9999d72",
+      "content_sha256": "82a2095d1ec0eb784e14b9494fa294d89dbf2a3d277e18f2923fb3eabca6bd44",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "9ca573ebeef67d4a982e24ac",
+      "title": "产后乳结痈方论第四十〔凡十九道〕",
+      "volume": "卷下",
+      "content": "论曰：产后宜裂去乳汁，不宜蓄积，不出恶汁，内引瘀热，则结硬坚肿，牵急疼痛，\n或渴思饮，其嬭手近不得，若成脓者名姤乳，乃急于痈，宜服连翘汤，利下热毒，\n外以赤小豆末，水调涂之，便愈，忽数，担去乳汁，忽小孩手匀动之，\n忽大人含水嗍之，得汁吐之，其汁状如脓，若产后不曾乳儿，蓄积乳汁，亦结成痈。\n产后姤乳并痈。\n连翘子、升麻、芒硝〔各十分〕、玄参、芍药、白歛、汉防己、夜干〔各八分〕、大黄\n〔十二分〕、甘草〔六分〕、杏仁〔八十枚去尖〕，右水九升，煎取三升，下大黄，\n次下硝，分三服。\n又方\n右熟捣傅肿上，日三度易之，并叶煎汁饮之，亦佳，食之亦得，姤乳及痈并差。\n又方\n地黄，右取汁，涂熟即差。\n疗乳肿。\n右以马溺涂之，立愈。\n疗妇人发乳，丈夫发背，烂生脓血后，虚成气疾。\n黄耆、地黄、麦门冬、升麻、人参、茯苓〔各三两〕、当归、芍药、远志、甘草\n〔各一两〕、大枣〔十枚〕，右水二升，煮取一升，分温两服。\n疗乳头裂破。\n右以丁香为末，傅之立愈。\n疗姤乳及痈。\n葵茎及子，右捣筛为散，服方寸匕即愈。\n又方\n鸡屎，右为末，服方寸匕，须臾三服愈。\n又方\n皂荚〔十条〕，右以酒一升，揉取汁，硝石半两，煎成膏傅之。\n疗诸痈不散，已成脓，惧针，令自决破下。\n右取白鸡内翅，及第一翎各一茎，烧末服之，即决。\n又方\n取雄雀粪白者研涂上，干即易之。\n疗乳痈初得令消。\n赤小豆、莽草，右等分为末，苦酒和傅之愈。\n疗发背乳痈，四肢虚热大渴。\n竹叶〔切三升以水一斗二升煮取九升〕、生地黄〔六两〕、黄芩、芍药、人参、知母、\n甘草〔各二两〕、升麻、黄耆、麦门冬、栝楼〔各三两〕、大枣〔十二枚〕，\n右以竹叶汁煮取三升，渴则饮之。\n疗乳肿方。\n升麻、白歛、大黄〔各三两〕、黄芩、芒硝〔各二两〕，右水二升，煎取一升，下硝，\n分为两服，后以绵缊药贴肿上，日夜勿停即差。\n又方\n黄檗〔一分末〕、鸡子白，右调和匀涂之，干则易，立愈。\n又方\n苎根，右捣傅之愈。\n又方\n鹿角，右于石上磨取浊汁涂上，干则易之。\n又方\n鹿角，右烧作灰，以酒调涂之立愈。\n又方\n粢米粉〔炒令黑〕，右以鸡子白和如泥，以涂帛上贴之，穿帛作穴，以泄痈毒气，\n易之效。\n产后乳汁自出方论第四十一〔凡三道〕\n论曰：产后乳汁自出，盖是身虚所致，宜服补药以止之，若乳多温满急痛者，温熨之。\n疗乳痈始作。\n大黄、樗实〔各三两〕、芍药〔六分〕、马蹄〔炙六分〕。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "卷下",
+        "產後乳結癰方論第四十〔凡十九道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "9c15cbe0216087c37548b2daf465953632bd42ba3e758fb8d8c416a801f3075d",
+      "content_sha256": "c76b588d48d764ae01f5937943634652bfb424fc8ead9a85e8734a260d756c4d",
+      "paragraph_count": 53,
+      "paragraph_ordinals": [
+        83,
+        84
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 983,
+        "simplified_codepoints": 983
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "e1ca809b966c9533cf73d875",
+      "title": "周颋传授济急方论〔凡四道〕",
+      "volume": "经效产宝续编",
+      "content": "颋尝见人传经效诸方，自曾修合，实有有大功，遂编于卷末，普用传授，以济急难，\n治产后血晕血气，及滞血不散，便成症瘕兼泻，面色黄肿，呕逆恶心，头痛目眩，\n口吐清水，四肢弱，五脏虚怯，常日睡多，吃食减少，渐觉羸瘦，年久变为劳疾，\n如此所患，偏宜服饵胜金丸。\n泽兰〔四两〕、当归、芍药、芫荑、甘草、芎䓖〔各六分〕、干姜、桂心〔各三分半〕\n、石膏、桔梗、细辛、茱萸、柏子仁、防风、厚朴、乌头、白微、枳壳、南椒、\n金钗石斛、石颔、蒲黄、茯苓〔各三分〕、白术、白芷、人参、叶本、青木香\n〔各一分〕，右二十八味，并州土分两差，杵罗为末，炼蜜为丸，弹子大，有所患，\n热酒研一丸，入口便愈，忌腥腻热面豉汁生葱冷水果子等，若死胎不下，胎衣在腹，\n并以炒盐酒研服，未退再服。\n治产后诸疾，圣散子。\n泽兰〔九分〕、石膏〔八分如粉〕、芎䓖、当归、芫荑、芍药、甘草〔各七分〕、\n干姜、桂心〔各五分〕、细辛、卷柏〔去土〕、柏子仁、茱萸、防风〔去芦头〕、南椒\n〔出汗〕、厚朴〔姜汗炙〕、茯苓〔各四分〕、白芷、白术、人参、丹参、叶本、\n五味子、黄耆〔各三分〕、乌头〔炮〕、白微〔各二分〕，右捣罗为散，\n以新瓦器密封，毋令失气，每服以热酒调下两钱匕，忌如常。\n神效治产后一切，黑散子。\n鲤鱼皮〔三两烧灰〕、芍药、蒲黄〔各二两〕、当归、没药、桂心、好墨、卷柏、\n青木香、麝香〔各一两〕、鉎墨〔半两〕、丈夫发〔灰半两〕，右一十二味，\n捣罗为散，以新瓷器盛，密封勿令失气，每产后以好酒调下一钱，如血晕冲心，\n下血不尽，脐下搅刺，疼痛不可忍，块血症疾甚，日加两服，不拘时候服，\n忌冷物果子粘食。\n神效疗妊娠十个月内不安，至临分解时，并宜服，此保生丸。\n金钗石斛、贝母〔去心〕、黄芩、明净石膏细研如粉、桂心、乌头卷、秦椒〔去目炒〕\n、蜀椒〔去目炒〕、甘草〔炙〕、糯米〔炒已上各二两〕，右并须州上者，\n如法修合为散，炼蜜丸，如弹子大，或有妊娠诸疾，吃食减少，及气喘疾痛，\n面目痿黄，身体羸瘦，四肢无力，手脚浮肿，始脏不安，并以枣汤研一丸，空心服之，\n忌腥腻果子粘食杂物冷肉等。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 86,
+      "source_path": [
+        "經效產寶續編",
+        "周頲傳授濟急方論〔凡四道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "55ae2186a193ae7572c5730a98c3c69e2e5dbdaae1600fdc685efe064da06999",
+      "content_sha256": "707a375f5ccc5a5811124e2159275ff21f0cb68728aafd5535b276ad8c2631c7",
+      "paragraph_count": 28,
+      "paragraph_ordinals": [
+        87
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 863,
+        "simplified_codepoints": 863
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "5660d6d747c765191fa04b03",
+      "title": "第一论，热病死胎腹中者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：母患热疾，至六七日，以致藏府热极，蒸煮其胎，是以致死，缘儿死身冷，\n不能自出，但服黑神散暖其胎，须臾胎气温暖，儿即自出，何以知其死，\n看产妇舌色青者，是其验，宜以黑神散主之。\n雄黑豆〔小者是炒去黑皮用二两〕、当归、芍药、甘草炙、干姜、蒲黄\n〔用安石器内炒赤色〕、肉桂、熟地黄〔温洗〕，右等分，焙干为末，每服二钱，\n空心温酒调下，若三十岁已上，生产少者，不用桂、姜，却以炒生姜、红花各二两。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 89,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第一論，熱病死胎腹中者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "ce3d9846295fbab3575cf5469d26d0d2fb17fe4c2f8736386f131aada8ba3a67",
+      "content_sha256": "a15aca7b201cb5eaa2eff3bef9a8b30627c22b7a9d68af73f7f4ce422d6af430",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 197,
+        "simplified_codepoints": 197
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "41cf101573e9e1f29ebab353",
+      "title": "第二论，胎衣不下者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：母生子了，血流入衣中，为血所胀，遂不能下，若治之稍缓，则满腹中上冲，\n心胸疼痛，喘急难治，但服夺命丹，速去衣中血，血散胀消，胎衣自下，而无所患矣，\n夺命丹。\n附子〔半两炮去皮脐〕、牡丹皮〔一两〕、干漆〔一分研碎炒令烟出〕，\n右为末，用酽醋一升，大黄末一两，热成膏，和药丸如菉豆大，\n温酒送下五七丸，不计时候。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第二論，胎衣不下者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "3e459943532daa60ffe8ecef45d66a9ec2b8c9741bbe0de69640ef4ecf1f7817",
+      "content_sha256": "e005ce3d6487739cafe4be00257e5f9b829892cfbaf6a3635c68bd242988d9ce",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        92
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 157,
+        "simplified_codepoints": 157
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "60673bcbc76fbde3574ea86a",
+      "title": "第三论，难产者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：胎侧则成形块者，呼为儿枕，子欲生时，枕破败血裹其子，故难产，\n但服胜金散治之，逐其败血，儿即自生，若横生逆生皆治之。\n麝香〔一钱〕、盐豉〔一两用旧青布裹火烧令通红急以乳槌研为细末〕，\n右为末，取秤锤烧红，以酒淬之，每服调一钱。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 93,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第三論，難產者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "b74e5e2aff4d3700e5ab52d2c39768a047f717a962a428a52df3b7347e53d445",
+      "content_sha256": "a4df4939b36cb45824659493184d18ea7ea52d2025efced9c12c1c530c4ab714",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        94
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 116,
+        "simplified_codepoints": 116
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "66351ac084ccffbe101193c2",
+      "title": "第四论，闷绝不知人事者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后血气暴，未得安静，血随气上攻，迷乱心神，眼前生花极甚者，令人闷绝，\n不知人事，口噤神昏气冷，医者不识，呼为暗风，若如此治之，必难愈，宜服清魂散。\n泽兰叶〔一分〕、人参〔一钱〕、荆芥穗〔一两〕、芎〔半两〕、甘草〔二分炙〕，\n右为末，每服一钱，热汤半盏，入温酒半盏，调匀急灌之，药下便愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 95,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第四論，悶絕不知人事者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "0c1103186dc04c06340135e95f2bb25a2a113145a2c2fc516f4d5a10dbc63ed4",
+      "content_sha256": "214ade2a2a41c848532a75e8972fb157a4ce0ef757f0440229483d6acb5fe660",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 147,
+        "simplified_codepoints": 147
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "b65b9b9ca97ef828c3e6adbb",
+      "title": "第五论，口干痞闷者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产宫胃太虚，血气未定，食面太早，胃不能消化，面毒结聚于胃脘，上熏胸中，\n是以口干烦闷，心下痞闷，医者不识，认为胸膈壅滞，以药下之，万不能一，\n但服眼儿现丸。\n姜黄、京三棱〔炮〕、毕澄茄、人参、陈皮〔去白〕、高良姜、蓬莪术，\n右等分为末，用细切萝卜，慢火煮令烂研细，将余汁煮面糊为丸，菉豆大每服十丸，\n萝卜汤下，不拘时候。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第五論，口乾痞悶者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "d355d00d4eadcada7892835a562f238822cceefc40a673495d89439aa634b149",
+      "content_sha256": "7b6b45290d13e6c4616a42796313f2ce5b02563a13aef221c91b0a071c4162fe",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        98
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 163,
+        "simplified_codepoints": 163
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "be356cf0141da8cc39026757",
+      "title": "第六论，产后乍寒乍热如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：阴阳不和，败血不散，皆作乍寒乍热，产后血气虚损，阴阳不和，阴胜则乍寒，\n阳胜则乍热，阴阳相乘则或热，若因产劳伤脏腑，血弱不能宽越，故败血不散，\n入肺即热，入脾即寒，医人若作寒疟疾治之，则谬矣，阴阳不和，宜服增减四物汤，\n败血不散，宜服夺命丹。\n又问二者何以别之。\n答曰：时有刺痛者，败血也，但寒热无他证者，阴阳不和也，增减四物汤。\n当归、芍药、芎、人参、干姜〔炮裂各二两〕、甘草〔四两炙〕，\n右为末，每服二钱，水一盏，生姜五片，同煎至六分，去滓，微热服，不计时候。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 99,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第六論，產後乍寒乍熱如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "1be03198c0c5ce8987632b6c80f2a93c6a7d63bd0d980b60401cef37fcceb927",
+      "content_sha256": "68827f9c5b652cf4e25f407d88e96d7b521788bdfa176429f67dbed401f33a4f",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 235,
+        "simplified_codepoints": 235
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "3f4f7f1e5466bf8a719c4467",
+      "title": "第七论，产后四肢虚肿者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后败血乘，停积于五脏，循经流入四肢，留淫入深，回还不得，腐坏如水，\n故令四肢面目浮肿，医者不辨，作气治之，凡水气多用导水药极虚之，夫产后既虚，\n又以药虚之，是重虚也，但服调经散，血行肿消，则病自愈。\n没药〔一钱研〕、琥珀〔一钱研〕、桂〔去粗皮半钱〕、芍药〔一钱〕、当归〔一钱〕\n、麝〔半钱〕、细辛〔半钱〕，右为末，每服半钱，生姜汁温酒各少许，调匀服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第七論，產後四肢虛腫者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "69a9ee6561c8d3e537b6300df4c35e632d08eb3ae7ce45ad244b317ca3e96e56",
+      "content_sha256": "5c20f3102aba9c55e9d58df08ca694d4de0119f5c9ffba3fba3f4b96711ecd6c",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        102
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 180,
+        "simplified_codepoints": 180
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "1ee413f836547b2462932509",
+      "title": "第八论，产后不语者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：人心有七孔三毛，产后血流气弱，多致停积，败血闭于心窍，神志不能明了，\n又心气通于舌，心气闭则舌亦强矣，故令不语，但服七珍散。\n人参、石菖蒲、川芎、熟地黄各一两、细辛〔一钱〕、防风〔半两〕、朱砂〔半两研〕\n，右为末，每服一钱，薄荷汤调下，不拘时候。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 103,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第八論，產後不語者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "9b8b0e7e96daf3faceba6a362380e7d4e9f36ade682f05d2d8d7ebdae795bc11",
+      "content_sha256": "843a1de8255e9ed2f23ab5e05e48c7e540cb67e428a72945fe4509ec961227b5",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        104
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "1e917b7d8c1f5c81a209cd6e",
+      "title": "第九论，",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "产后乍见鬼神者如何？答曰：心主身之血脉，因产伤耗血脉心气，则虚血停积，\n上干于心受触激，遂 生烦燥，坐卧不安，乍见鬼神，言语颠错，医者不识，呼为风邪，\n如此治之，必不能愈，但服调经散，加生龙脑一捻，得睡即安，调经散方在第七论中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第九論，"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "9d2bc227a378fe645d0b9551b29bd9af483e341782fac41759de82dea58b145c",
+      "content_sha256": "bb6dd21064b0aa999097b7aa2a9fb7286f1a389f9026e39c6ea72e26c30e2d35",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        106
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "539ccc703be44e8b0e2a7403",
+      "title": "第十论，产后腹痛又泻痢者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后肠胃虚怯，寒邪易侵，若未满月，饮冷当风，则寒邪乘虚进袭，留于胸腹，\n散于腹胁，故腹痛作阵，或如锥刀所刺，流入大肠，水谷不化，洞泄肠鸣，或下赤白，\n腹胁填胀，或走痛不定，急服调中汤立愈，医者若以为积滞取之，则祸不旋踵矣。\n高良姜、当归、桂去皮、芍药、附子〔炮去皮脐〕、川芎〔各一两〕、甘草〔半两炙〕\n，右为粗末，每服三钱，水三盏，煎至一盏，去滓，热服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 107,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十論，產後腹痛又瀉痢者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "9dd7b12de97f45308e6a09ec4f41cfeb67c989a977f3e23f3809767aa80d6bff",
+      "content_sha256": "856312fa4fb060f8c85d7c1880ff99191f6182107dc99e72e31ec96cb19ed1da",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        108
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 180,
+        "simplified_codepoints": 180
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "a06b46ce766afb6a98c19c85",
+      "title": "第十一论，产后遍身疼痛者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后百节开张，血脉流走，遇气弱则经络分肉之间，血多留滞，累日不散，\n则骨节不利，筋脉引急，故腰背转侧不得，手足摇动不得，更身热疼痛，\n医者以为伤寒治之，若出汗则筋脉动惕，手足厥冷，变生他病，但服趁痛丸以墨涂之。\n牛膝、当归、桂去皮、白术、黄耆〔各半两〕、薤白〔一分〕、独活〔半两〕、生姜\n〔半两〕、甘草〔一钱炙〕，右为粗末，每服半两，水五盏，煎至二盏，去滓，\n热服一盏。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十一論，產後遍身疼痛者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "201559b0f4299b19329e6e7e86048f75373e106bf1a249a630073a9f346e8907",
+      "content_sha256": "c7f2f05ce45e57604c849ffc48100a406ab1ea7b0f8fa8ea059461807328c566",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        110
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 188,
+        "simplified_codepoints": 188
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "49d046e7ca7ffbd2ec8f037e",
+      "title": "第十二论，产后大便秘涩者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产卧水血俱下，肠胃虚竭，津液不足，故大便秘涩，若过五六日，\n腹中闷痛者，乃有燥粪在脏腑，以其干涩，不能出耳，宜服麻仁丸，更以津润之，\n若误以为热而投寒药，则阳消阴长，变动百生，性命危矣，麻仁丸。\n麻仁〔研〕、枳壳〔炒〕、人参、大黄〔各半两〕，右为末，炼蜜丸，梧桐子大，\n空心，温汤下二十丸，未通加丸数。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 111,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十二論，產後大便秘澀者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "c8d4ede8b704b1be0bb81bba6462495ee652f1017b498681708e4080b9d94f30",
+      "content_sha256": "07bd9a4850a6852a11744fd3f5e17f88f2986a6a53cf371621e6495d13fb37df",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        112
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 154,
+        "simplified_codepoints": 154
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "8832b8cb37183e2b230372a5",
+      "title": "第十三论，产后血崩者何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产卧耗伤经络，未得平复，而劳役损动，致血暴崩下，淋漓不止，\n或因咸酸不节，伤蠹营卫，气衰血弱，亦变崩中，若小腹满痛，肝经已坏为难治，\n急服固经丸以止之。\n艾叶、补骨脂炒、木贼草、赤石脂〔各半两〕、附子〔三枚炮去皮脐〕，右为末，\n陈米饮和丸桐子大，食前温酒下二十丸，米饮亦得。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 113,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十三論，產後血崩者何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "bb0a36cd3f6c461c9619f195bcbb8be33ccfc8a1242fa911b6cc1e881cbe159d",
+      "content_sha256": "bf2f2fce4d5fc18660b200efff762c88f86ff0ef1bc22fb679d9a53582864a6f",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        114
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "76959c4d9ae53ed7a2bc8d07",
+      "title": "第十四论，产后腹胀闷满呕吐不定者何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：血散于脾胃，脾受之，不能运化精微而成腹胀，胃受之，\n则不得受纳水谷而生吐逆，医者不识，若以寻常治胀止吐药疗之，病与药不相干，\n转更伤动正气，疾愈难治，但服抵胜汤必瘥。\n赤芍药、半夏〔汤洗七次〕、人参、陈皮〔各二钱〕、泽兰〔二钱〕、甘草〔炙一钱〕\n、生姜〔半两〕，右为粗末，水二盏，煎至一盏，去滓，微热服，分为三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 115,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十四論，產後腹脹悶滿嘔吐不定者何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "bb9da9fe02fbc469577b30150d51772e3c3691546a3e9a654214278237fb0368",
+      "content_sha256": "ac9639b41a6d47e03cc1b14f0d94aae3d62beadcb8b24f22a39fd73c08f08620",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        116
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "51e0179280399d599539dbb2",
+      "title": "第十五论，产后口鼻黑气起及鼻衄如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：阳明者，经络之海，起于鼻交颊中，还出侠口，交人中之左右，\n是盖因夫产后气消血散，荣卫不理，散乱入诸经络，回还不得，致令口鼻黑气起，\n及变鼻衄，此缘产后诸虚热变生此疾，不可治也，名曰脾绝肺散。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 117,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十五論，產後口鼻黑氣起及鼻衄如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "2c51e33e5ddf9961f84de2ec49d7010f6495b85c3cd6f9b87ec41c8f5ea57188",
+      "content_sha256": "0d6e661eb5121ecbb3e90b5704a8f7a4d3a258dfa809be90817af9c0aac324b5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 98,
+        "simplified_codepoints": 98
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "f74a7b002db485a82d7db1ed",
+      "title": "第十六论，喉中气急喘者如何。",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：荣者血也，卫者气也，荣行脉中，卫行脉外，相随上下，谓之荣卫，\n因产后下血过多，荣卫暴竭，气无所生，独聚于肺中，故令喘也，\n此名孤阳绝阴为难治，若恶露不快，败血停凝，上熏于肺，亦令喘息，可服夺命丹，\n方见前第二论中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十六論，喉中氣急喘者如何。"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "d2f4e7325672bfeaa53a3850baa33172f22e555bbc9347fd59c7ee873f7a488a",
+      "content_sha256": "2fef3a3b200dfff08db7feb3621ca9a56aced9a9a413a216c9d5246df646c76f",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        120
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "8077a4641c17e4c369526f2f",
+      "title": "第十七论，产后中风者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后五七日内，强力下床，或一月之内，伤于房室，或怀忧悲怒，扰荡泄和气，\n或因著灸惊惕，脏腑得疾之初，眼涩口噤，肌肉相搐，腰脊筋急强直者，不可治，\n此乃人作，非偶尔中风所得也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 121,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十七論，產後中風者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "4c927df24a9a39200db10271897f4155094b8b2deec939dd476f62baba8f8aaf",
+      "content_sha256": "71b1d35b6489fdb8784bce394f1f0081e1532f9e170919a16947753437be6b0b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        122
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 90,
+        "simplified_codepoints": 90
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "33a107d176a77f3c16eed898",
+      "title": "第十八论，产后心痛者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：心者血脉之主，人有挟宿寒，因产大虚，寒抟于血，血凝滞不得消散，\n其气逆上，冲击于心经，故心痛，宜以大蜜汤，治寒则去，血脉温则经络通，\n心痛自止，若误以为有所伤治之，则虚极而寒益甚矣，心络寒甚，传心之正经，\n则变成心痛者，朝发则夕死，是药不可轻用也。\n干地黄、当归、独活、吴茱萸、芍药、干姜〔炮〕、甘草〔炙各一两〕、细辛〔半两〕\n、桂〔一两去粗皮〕、少叶〔一两远志叶是也〕，右为粗末，每服半两，用水三大盏，\n煎取一盏，去滓，微热。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 123,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十八論，產後心痛者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "d9f1df25eed10877d255d201d0b55a8815cc54a686b2cfd75298f9e3766eba76",
+      "content_sha256": "276ed4b8e8b397f3c24ff22d0a6d6feb26891c8e25a8949a912d7634243d0b85",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        124
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 217,
+        "simplified_codepoints": 217
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "8fdc8d2b94541f27f3ccd1ef",
+      "title": "第十九论，产后热闷气上转为脚气者如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后卧血虚生，热复因春夏取凉过多，地之蒸湿，因足履之，所以著成脚气，\n其状热闷掣废，惊悸心烦，呕吐气上，皆其候也，服小续命汤，三二剂必愈，\n若误以败血药攻之，则血去而病益增矣。\n人参、黄芩、官桂〔去皮〕、白术、防己、麻黄〔去节〕、川芎、芍药、甘草\n〔各一两〕、生姜〔五两〕、防风〔两半〕、附子〔一枚去皮〕，\n右为末，每服半两，用水五盏，煎去滓，温服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 125,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第十九論，產後熱悶氣上轉為腳氣者如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "1a63a88ef1bee20a7392aab9057052f6049c00cadbbb42b6ec5ca1812a327755",
+      "content_sha256": "5b04764d6000f47ceb0b42740c998125f89bed60a971d04a5ff6a028c5331937",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        126
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 178,
+        "simplified_codepoints": 178
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "9873be0502fdbb16e97fb1ff",
+      "title": "第二十论，产后出汗多而变痉风如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：产后血虚，内理不密，故多汗，因遇风邪抟之，则变痉风也，痉者口噤不开，\n背强而直，如发痫状，摇头马鸣，身反折，须臾十发，息如绝，宜速斡开口，\n灌小续命汤，稍暖即出汗如雨，手拭不及者不治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 127,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第二十論，產後出汗多而變痙風如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "5dd0d86a4d4cfe639603979bbbc9cfd83a474cb5c1cd40962acb4cd1298695f8",
+      "content_sha256": "70a45480a1b3dcf4403fb9ddfe80b4b31d9271d55dc7b6215169d857f2bf1d8e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        128
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "1d89206d102a305413023454",
+      "title": "第二十一论，产后下血过多虚极热生风如何？",
+      "volume": "经效产宝续编 / 濮阳李师圣施郭稽中论〔二十一证方十六道〕",
+      "content": "答曰：妇人以劳血为主，因产血下太多，气无所主，唇青肉冷，汗出，目瞑，神昏，\n命在须臾，此皆虚热非风也，可服济危上丹，若以风药治之，则误人矣。\n乳香〔研〕、石灵脂、留黄〔研〕、陈皮〔去白〕、桑寄生、\n真阿胶炙烊炒成米子、太阴玄精石研，\n右将上四件，同研匀，石器内微火上炒动，勿令焦著，炒了再研细，后入余药末，\n用地黄汁煮糊为丸，菉豆大，每服酒下二十丸，当归酒尤佳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 129,
+      "source_path": [
+        "經效產寶續編",
+        "濮陽李師聖施郭稽中論〔二十一證方十六道〕",
+        "第二十一論，產後下血過多虛極熱生風如何？"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "c007f9e7550707ac48774ebc3e25c9410b09606cb812188375c2799e6e3b022a",
+      "content_sha256": "82fb0fc03129c0bbdad41041aa9bec56d7da6a1c4849b3406a35bb525d79769a",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        130
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "0bcf43f8b2602809c992080d",
+      "title": "产后十八论方〔凡九道〕",
+      "volume": "经效产宝续编",
+      "content": "一曰：产后因热病，胎死腹内者如何？\n答曰：因母患热病，经六七月间，藏府热，遂煮其胎热是致死，故知之，\n缘死即身热痛，只因沫出，爪甲指黑，四肢逆冷，但服乌金散，其胎即下。\n二曰：产难者如何？\n答曰：其胎以或成形，为食实物后，十月足日，食有余，遂有成块，呼为儿枕，\n欲生块破，遂血裹其子，故难产，但服乌金散，解其败血即自生，\n或横生逆生不下，并宜服之。\n三曰：产后衣不下者如何？\n答曰：母生子了，产后血入衣中，被衣所胀，故当难下，但服乌金散，\n去其衣中血即下，如带断亦同。\n四曰：血晕者如何？\n答曰：产后三日，起坐不得，眼生花，即运走五脏，流入汗血，医人不识，呼为暗风，\n但可服乌金散。\n五曰：口干心闷者如何？\n答曰：产后七日已来，血气未尽，盖为母食面，结盛心上，是以烦躁干渴，医人不识，\n将谓膈不利壅滞所致，乌金散立效。\n六曰：乍寒乍热者如何？\n答曰：产后虚羸，败血入于肺脏，即热即寒，医人不识，呼为疟疾误矣，\n宜服乌金散立效。\n七曰：产后虚肿者如何？\n答曰：血败于五脏，流入四肢，即还不得，遂成脓血，医人不识，呼为水气血气，\n何以知之，若水气喘而小肠涩，血气伤而四肢塞，但服乌金散，姜酒调下，\n须臾服朱砂丸，令泻下毒物即愈。\n八曰：乍见鬼神者如何？\n答曰：败血流入于心，心不受触，遂被心热，极躁三两日，言语颠狂，医人不识，\n呼为风邪太误，宜服乌金散疗之。\n九曰：产后月内不语如何？\n答曰：人心有孔，孔内有毛，产后败血闭毛，故不语也，宜服乌金散。\n十曰：腹内疼痛，兼泻痢者如何？\n答曰：产后未满月饮冷水，与血相聚，大肠水谷不化，或腹胀痛，急服乌金散，\n更加服气药、止泻药。\n十一曰：产后遍身疼痛者如何？\n答曰：产后百节开张，败血走流诸处，留停日久，不散结聚，成此疼痛，\n宜服乌金散有效。\n十二曰：产后血崩者如何？\n答曰：产后恶血败露自下未止间，早先治之，及食咸酸之，遍体无血色，\n腹痛难治，肝家欲作发寒热作闷，宜乌金散，须臾服朱砂丸。\n十三曰：产后血气不通咳嗽者如何？\n答曰：产后咳嗽，多以食热面壅结，或热病，或有气块，发时冲心痛，气急咳嗽，\n四寒热，心闷口干，或时烦躁，睡梦惊悸，气虚，肢体无力，宜服乌金散。\n十四曰：产后乍寒乍热，心痛，月候不来如何？\n答曰：败血冲心，痛绕脐腹，面色无采，纵然得效，暂时痊安，不过三两日又发，\n服乌金散大效。\n十五曰：产后腹胀满，呕逆不定者如何？\n答曰：败血停于脾胃，食充胃，胃充气，既不安即吐逆，冲腹胀，急服乌金散，\n次服朱砂丸，三两日，炒生姜一钱，醋汤下七丸，立效。\n十六曰：产后口鼻黑气，及鼻衄者如何？\n答曰：败血入脏腑，头目却还不得，口干舌焦，鼻黑起，是产后变作此候，\n名曰败肺，此不可治疗。\n十七曰：产后喉中气喘急者何如？\n答曰：产后败血不尽，冷恶死血上冲心，过于心即转于喉，喉中即喘，医人不识，\n认作风涎，十死不治。\n十八曰：产后中风者如何？\n答曰：产后七日，无故下床，一月之内，伤于房室，或因著热，有惊脏腑，\n风中之物，眼涩腰疼，似角弓之反张，牙关闭，急宜治之，亦非风疾所致也。\n乌金散\n干地黄〔熟水浸〕、肉桂〔去皮〕、蒲黄纸裹炒已上各二两、\n黑豆〔炒尽烟为炭秤二两〕、当归〔洗〕、芍药、甘草〔炙〕、白姜炮已上各一两，\n右为末，空心，日午夜中，热酒下二钱匕，忌生冷一切毒物。\n朱砂丸，治产后因寒瘀积，结成诸疾。\n黑附子〔炮皮脐半两〕、肉桂〔半两去皮〕、白姜〔半两炒〕、川巴豆\n〔一钱醋浸煮去皮研〕，右细研面糊为丸，麻子大，每服三丸，至五丸，冷茶下，\n服之取泻为度。\n治产后胎衣不下。\n鸡子白〔一个〕、滑石末〔二钱〕，\n右滩头急流水，调下立出。\n治孕妇伤寒。\n柴胡、前胡、川芎、川当归、地黄、人参、芍药、粉草，\n右等分为末，每服两钱，枣四枚，姜钱三片，同煎服，要出汗加葱。\n治孕妇伤寒涎嗽。\n知母、杏仁〔去皮尖炒〕、天门冬〔去心〕、桑白皮，右等分为粗末，煎去滓服。\n治妇人带下。黄君正方\n茅花〔一握炒〕、榈炭〔三寸〕、嫩莲叶〔三个〕、甘草叶，右为末。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%B6%93%E6%95%88%E7%94%A2%E5%AF%B6/index.html",
+      "source_ordinal": 131,
+      "source_path": [
+        "經效產寶續編",
+        "產後十八論方〔凡九道〕"
+      ],
+      "source_sha256": "0acc0b08c23bff70556c10e43915d7accb72624a7ac529ebfbd1e2a05bd1b726",
+      "original_sha256": "cb90c6d159d78b743de4917f5d1e308442f4abf409a200e7764f97680ff63e0b",
+      "content_sha256": "44e2f1f9a6df06ef573c05babc8dc3a0fb79ab5b534cd4b8ed7f7099568af60b",
+      "paragraph_count": 73,
+      "paragraph_ordinals": [
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1648,
+        "simplified_codepoints": 1648
+      },
+      "order": 63
+    }
+  ]
+}

@@ -1,0 +1,4755 @@
+{
+  "schema_version": 1,
+  "books": [
+    {
+      "key": "extra_8",
+      "name": "黄帝素问直解",
+      "summary": "《黄帝素问直解》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“卷之一”、“上古天真论第一篇”、“四气调神篇第二篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "高士宗",
+      "jp": "HDSWZJ",
+      "aliases": [
+        "黃帝素問直解"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_8.json",
+      "chapter_count": 85,
+      "dataset_sha256": "6864c257bdde91fb0a7dbd10bc0bca16ae62356590acb6c8d8df131ea8e4e308",
+      "original_file": "original/extra_8.json.gz"
+    },
+    {
+      "key": "extra_9",
+      "name": "黄帝内经素问集注",
+      "summary": "《黄帝内经素问集注》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“上古天真论篇第一”、“四气调神大论篇第二”、“生气通天论篇第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张志聪",
+      "jp": "HDNJSWJZ",
+      "aliases": [
+        "黃帝內經素問集註"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_9.json",
+      "chapter_count": 82,
+      "dataset_sha256": "bd89e5206fde831904d59ae11ac8cc2f0ee655d3769ac925dc96eb0d0acb7e59",
+      "original_file": "original/extra_9.json.gz"
+    },
+    {
+      "key": "extra_12",
+      "name": "读素问钞",
+      "summary": "《读素问钞》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“石山先生自赞”、“卷上之一”、“藏象”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "滑寿",
+      "jp": "DSWC",
+      "aliases": [
+        "讀素問鈔"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_12.json",
+      "chapter_count": 30,
+      "dataset_sha256": "dc31930302b5f4cb93cb805425eea0e774dd998c4cc889a9972559937ff459d0",
+      "original_file": "original/extra_12.json.gz"
+    },
+    {
+      "key": "extra_14",
+      "name": "素问悬解",
+      "summary": "《素问悬解》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“新刻素问悬解叙”、“上古天真论（一）”、“四气调神论（二）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "SWXJ",
+      "aliases": [
+        "素問懸解"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_14.json",
+      "chapter_count": 136,
+      "dataset_sha256": "7e1870c5e52efb7463559f3db054c53b4b88d3ae3c6c5940d26c8d8a047df952",
+      "original_file": "original/extra_14.json.gz"
+    },
+    {
+      "key": "extra_15",
+      "name": "素问吴注",
+      "summary": "《素问吴注》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“参黄生吴昆撰”、“黄帝内经素问第一卷”、“上古天真论一”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "吴昆",
+      "jp": "SWWZ",
+      "aliases": [
+        "素問吳註"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_15.json",
+      "chapter_count": 83,
+      "dataset_sha256": "1e955effe86f15fc11a6031db53a2c2a523eafdfd2c661eb19e102a707daea21",
+      "original_file": "original/extra_15.json.gz"
+    },
+    {
+      "key": "extra_18",
+      "name": "素问六气玄珠密语",
+      "summary": "《素问六气玄珠密语》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“五运元通纪篇”、“迎随补泻纪篇”、“运符天地纪篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "唐",
+      "author": "题王冰",
+      "jp": "SWLQXZMY",
+      "aliases": [
+        "素問六氣玄珠密語"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_18.json",
+      "chapter_count": 28,
+      "dataset_sha256": "803eec07b8b36130807139466487ee6fdc0b39fda27d2bf8080cd4b9cd61a775",
+      "original_file": "original/extra_18.json.gz"
+    },
+    {
+      "key": "extra_19",
+      "name": "素问病机气宜保命集",
+      "summary": "《素问病机气宜保命集》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“原道论第一”、“原脉论第二”、“摄生论第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "题刘完素",
+      "jp": "SWBJQYBMJ",
+      "aliases": [
+        "素問病機氣宜保命集"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_19.json",
+      "chapter_count": 38,
+      "dataset_sha256": "83c5276c37d0fd3560f122e0806f378303ad67390c9e982cee58859c82e3bb6c",
+      "original_file": "original/extra_19.json.gz"
+    },
+    {
+      "key": "extra_28",
+      "name": "黄帝内经灵枢集注",
+      "summary": "《黄帝内经灵枢集注》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“九针十二原第一”、“本输第二”、“小针解第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张志聪",
+      "jp": "HDNJLSJZ",
+      "aliases": [
+        "黃帝內經靈樞集註"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_28.json",
+      "chapter_count": 110,
+      "dataset_sha256": "0cf957561ced280811739b8565828429a04650f9c18051862c23fcd43e3f3047",
+      "original_file": "original/extra_28.json.gz"
+    },
+    {
+      "key": "extra_30",
+      "name": "灵枢悬解",
+      "summary": "《灵枢悬解》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“黄帝素问灵枢叙”、“九针十二原（一）”、“小针解（二）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "LSXJ",
+      "aliases": [
+        "靈樞懸解"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_30.json",
+      "chapter_count": 83,
+      "dataset_sha256": "f2760b220bfee98f5d285d82405dd9bd5ffe654e49933632eb82bd7a9b5723df",
+      "original_file": "original/extra_30.json.gz"
+    },
+    {
+      "key": "extra_38",
+      "name": "黄帝内经灵枢注证发微",
+      "summary": "《黄帝内经灵枢注证发微》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“刻马玄台先生《内经灵枢注证发微》引”、“卷之一”、“九针十二原第一”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "马莳",
+      "jp": "HDNJLSZZFW",
+      "aliases": [
+        "黃帝內經靈樞註證發微"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_38.json",
+      "chapter_count": 83,
+      "dataset_sha256": "9cff6e3dcc782ae254a7cb57e8b48f09d4ed3f64f98660d7f635175a9545ca46",
+      "original_file": "original/extra_38.json.gz"
+    },
+    {
+      "key": "extra_39",
+      "name": "类经",
+      "summary": "《类经》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“一卷”、“一、上古之人春秋百岁今时之人半百而衰”、“二、上古圣人之教下”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "张介宾",
+      "jp": "LJ",
+      "aliases": [
+        "類經"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_39.json",
+      "chapter_count": 394,
+      "dataset_sha256": "fa64f7b166e5fe714bdac27021482a91a2fd062e7581c67623b23f7e55740a43",
+      "original_file": "original/extra_39.json.gz"
+    },
+    {
+      "key": "extra_42",
+      "name": "内经知要",
+      "summary": "《内经知要》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“一、道生”、“二、阴阳”、“六十四卦、方圆二图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "李中梓",
+      "jp": "NJZY",
+      "aliases": [
+        "內經知要"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_42.json",
+      "chapter_count": 10,
+      "dataset_sha256": "b02d423529f232779c532cb662ccd7bb6d7ffd2915ccf6626943cd07bf4f6fa8",
+      "original_file": "original/extra_42.json.gz"
+    },
+    {
+      "key": "extra_43",
+      "name": "素问灵枢类纂约注",
+      "summary": "《素问灵枢类纂约注》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“藏象第一”、“经络第二”、“病机第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "汪昂",
+      "jp": "SWLSLZYZ",
+      "aliases": [
+        "素問靈樞類纂約註"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_43.json",
+      "chapter_count": 11,
+      "dataset_sha256": "6f412ac512aea2080cfc0558d8014d1c8391af99c75c5412608e9a523b50c381",
+      "original_file": "original/extra_43.json.gz"
+    },
+    {
+      "key": "extra_45",
+      "name": "医经原旨",
+      "summary": "《医经原旨》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“绪言”、“摄生第一”、“阴阳第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "薛雪",
+      "jp": "YJYZ",
+      "aliases": [
+        "醫經原旨"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_45.json",
+      "chapter_count": 56,
+      "dataset_sha256": "f2608fd48f631982e45da5cb93bf9b924f0289205d88bef830dee9c540508fec",
+      "original_file": "original/extra_45.json.gz"
+    },
+    {
+      "key": "extra_49",
+      "name": "黄帝素问宣明论方",
+      "summary": "《黄帝素问宣明论方》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“诸证总纶”、“诸证标目”、“煎厥证”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "刘完素",
+      "jp": "HDSWXMLF",
+      "aliases": [
+        "黃帝素問宣明論方"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_49.json",
+      "chapter_count": 88,
+      "dataset_sha256": "754380241a75ff28fea36c28ac047e3e69d27a8d95c3a3ae04d7af4e937b9730",
+      "original_file": "original/extra_49.json.gz"
+    },
+    {
+      "key": "extra_51",
+      "name": "内经博议",
+      "summary": "《内经博议》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“天地阴阳大论”、“其气三论”、“六节五制生五论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "罗美",
+      "jp": "NJBY",
+      "aliases": [
+        "內經博議"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_51.json",
+      "chapter_count": 63,
+      "dataset_sha256": "ef7c4ace2633cae5c1505702bc68812b142fb828b4303c89e2b9ad186a844d59",
+      "original_file": "original/extra_51.json.gz"
+    },
+    {
+      "key": "extra_54",
+      "name": "内经难字音义",
+      "summary": "《内经难字音义》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“弁言”、“九针十二原第一”、“本输第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陆懋修",
+      "jp": "NJNZYY",
+      "aliases": [
+        "內經難字音義"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_54.json",
+      "chapter_count": 117,
+      "dataset_sha256": "8dacb98c393fe89a0eda43e7d612bf0f9c35052d8ea401fc814338f4ee2cb070",
+      "original_file": "original/extra_54.json.gz"
+    },
+    {
+      "key": "extra_55",
+      "name": "运气易览",
+      "summary": "《运气易览》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“一、学五运六气纲领”、“二、运气说”、“三、论四时气候”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "汪石山",
+      "jp": "YQYL",
+      "aliases": [
+        "運氣易覽"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_55.json",
+      "chapter_count": 69,
+      "dataset_sha256": "d3fd7de9357ad689eb81b3f2495ce7959780cabd78e617ea2157635877edf732",
+      "original_file": "original/extra_55.json.gz"
+    },
+    {
+      "key": "extra_56",
+      "name": "外经微言",
+      "summary": "《外经微言》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“阴阳颠倒篇”、“顺逆探原篇”、“回天生育篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈士铎",
+      "jp": "WJWY",
+      "aliases": [
+        "外經微言"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_56.json",
+      "chapter_count": 81,
+      "dataset_sha256": "dd5df24d40b402ab23eec350d198f8ec74b7c12e3c36d117f181a3ad1ad68031",
+      "original_file": "original/extra_56.json.gz"
+    },
+    {
+      "key": "extra_57",
+      "name": "四圣悬枢",
+      "summary": "《四圣悬枢》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“自叙”、“卷一”、“温病名义”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "SSXS",
+      "aliases": [
+        "四聖懸樞"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_57.json",
+      "chapter_count": 116,
+      "dataset_sha256": "1ef14001be2854f60f0f3ba5339319fdccf87254b35d7edb76a7053e29111a08",
+      "original_file": "original/extra_57.json.gz"
+    },
+    {
+      "key": "extra_58",
+      "name": "素灵微蕴",
+      "summary": "《素灵微蕴》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“胎化解”、“藏象解”、“经脉解”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "SLWY",
+      "aliases": [
+        "素靈微蘊"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_58.json",
+      "chapter_count": 29,
+      "dataset_sha256": "63969c86752e36467914506d0f4eff673fac17bf9f86c5a0ae63b3d7076f43ad",
+      "original_file": "original/extra_58.json.gz"
+    },
+    {
+      "key": "extra_61",
+      "name": "难经集注",
+      "summary": "《难经集注》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“一难”、“漏水下百刻图”、“二难”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "王九思",
+      "jp": "NJJZ",
+      "aliases": [
+        "難經集註"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_61.json",
+      "chapter_count": 88,
+      "dataset_sha256": "92eabe5d7feb64c9c793653fb6e0febc4e6856594710204f7b8d7cbdc27156e3",
+      "original_file": "original/extra_61.json.gz"
+    },
+    {
+      "key": "extra_62",
+      "name": "难经古义",
+      "summary": "《难经古义》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“叙”、“附言八则”、“卷之上”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "丁锦",
+      "jp": "NJGY",
+      "aliases": [
+        "難經古義"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_62.json",
+      "chapter_count": 6,
+      "dataset_sha256": "4e13b2be4ea62e31d33484b430f7c8642269d003470c81f03d4a6827abb918bc",
+      "original_file": "original/extra_62.json.gz"
+    },
+    {
+      "key": "extra_63",
+      "name": "难经正义",
+      "summary": "《难经正义》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“一难”、“二难”、“三难”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "叶霖",
+      "jp": "NJZY",
+      "aliases": [
+        "難經正義"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_63.json",
+      "chapter_count": 82,
+      "dataset_sha256": "953ea94a67508bf87d0cf99e61893a278a47d03292749f95178b34b52a3d79f3",
+      "original_file": "original/extra_63.json.gz"
+    },
+    {
+      "key": "extra_64",
+      "name": "难经经释",
+      "summary": "《难经经释》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“叙”、“一难”、“二难”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "徐大椿",
+      "jp": "NJJS",
+      "aliases": [
+        "難經經釋"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_64.json",
+      "chapter_count": 82,
+      "dataset_sha256": "5fbb197272be08c220951073cd536a69635a55a9e5f786e6189f11a3fcb998c9",
+      "original_file": "original/extra_64.json.gz"
+    },
+    {
+      "key": "extra_68",
+      "name": "难经悬解",
+      "summary": "《难经悬解》属于医经与医理文献，内容涉及医经注释、脏腑经络及传统医理。所收卷篇包括“新刻难经悬解叙”、“一难”、“二难”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "NJXJ",
+      "aliases": [
+        "難經懸解"
+      ],
+      "category": "医经与医理",
+      "chapter_file": "chapters/extra_68.json",
+      "chapter_count": 84,
+      "dataset_sha256": "9fafb12e0911aefad4712a2e67c9805efcbab0038b4492359508925cda51ed06",
+      "original_file": "original/extra_68.json.gz"
+    },
+    {
+      "key": "extra_73",
+      "name": "医灯续焰",
+      "summary": "《医灯续焰》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“叙原”、“潘隐君邓林先生传”、“血脉隧道第一”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "潘楫",
+      "jp": "YDXY",
+      "aliases": [
+        "醫燈續焰"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_73.json",
+      "chapter_count": 277,
+      "dataset_sha256": "d1226c5e9bafea2f836587ccef12da80d7e12d451fcd2cdc7b4257cc497df44d",
+      "original_file": "original/extra_73.json.gz"
+    },
+    {
+      "key": "extra_74",
+      "name": "察病指南",
+      "summary": "《察病指南》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“十二经总括”、“诊三部脉法”、“三部九候”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "施发",
+      "jp": "CBZN",
+      "aliases": [],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_74.json",
+      "chapter_count": 75,
+      "dataset_sha256": "f13e56c8e463121c15d1cc248225c013bd86a481f484fd647f4cfe8de96c8617",
+      "original_file": "original/extra_74.json.gz"
+    },
+    {
+      "key": "extra_75",
+      "name": "四诊抉微",
+      "summary": "《四诊抉微》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“察形气”、“察神气存亡”、“察五色”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "林之瀚",
+      "jp": "SZJW",
+      "aliases": [
+        "四診抉微"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_75.json",
+      "chapter_count": 237,
+      "dataset_sha256": "5265e15e86543b12e2c4caa4870cfbbcd16c33596b9b1d911b73f07ae5602640",
+      "original_file": "original/extra_75.json.gz"
+    },
+    {
+      "key": "extra_79",
+      "name": "重订诊家直诀",
+      "summary": "《重订诊家直诀》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“指法总义”、“二十四象会通”、“八法总义”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周学海",
+      "jp": "ZDZJZJ",
+      "aliases": [
+        "重訂診家直訣"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_79.json",
+      "chapter_count": 24,
+      "dataset_sha256": "914aeaff9873cb84da792012a99396b1d50522854ae2e3e1562cf279d2d4fa25",
+      "original_file": "original/extra_79.json.gz"
+    },
+    {
+      "key": "extra_86",
+      "name": "脉诀指掌病式图说",
+      "summary": "《脉诀指掌病式图说》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“题丹溪重修脉诀。”、“论脉法配天地。”、“三部九候图说。”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "题朱震亨",
+      "jp": "MJZZBSTS",
+      "aliases": [
+        "脈訣指掌病式圖說"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_86.json",
+      "chapter_count": 26,
+      "dataset_sha256": "8e7ccb824d85e2080a17cef3a23725d49871d598b8ee7679f81e64d40dd5e6e5",
+      "original_file": "original/extra_86.json.gz"
+    },
+    {
+      "key": "extra_90",
+      "name": "脉诀乳海",
+      "summary": "《脉诀乳海》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“脉诀辨惑论”、“脉赋”、“诊脉入式歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王邦博",
+      "jp": "MJRH",
+      "aliases": [
+        "脈訣乳海"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_90.json",
+      "chapter_count": 134,
+      "dataset_sha256": "9784aa788329cf1f501d9e5d881084437fb533e1a84cb980632628a6b3be84aa",
+      "original_file": "original/extra_90.json.gz"
+    },
+    {
+      "key": "extra_92",
+      "name": "脉诀汇辨",
+      "summary": "《脉诀汇辨》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“刘叙”、“自叙”、“多读书论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "李延是",
+      "jp": "MJHB",
+      "aliases": [
+        "脈訣彙辨"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_92.json",
+      "chapter_count": 130,
+      "dataset_sha256": "b766f0c83fe7db679b94b8f653d58be3ee5273c00ed36c235936ab6b755c9365",
+      "original_file": "original/extra_92.json.gz"
+    },
+    {
+      "key": "extra_94",
+      "name": "诊家正眼",
+      "summary": "《诊家正眼》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“脉之名义”、“气口独以为五脏主”、“脉辨至数”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "李中梓",
+      "jp": "ZJZY",
+      "aliases": [
+        "診家正眼"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_94.json",
+      "chapter_count": 77,
+      "dataset_sha256": "ed44c3394dad6b0a547e096df6acbe94e3a64cf592cac758b385dbb243b16f2e",
+      "original_file": "original/extra_94.json.gz"
+    },
+    {
+      "key": "extra_95",
+      "name": "三指禅",
+      "summary": "《三指禅》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“总论”、“脉学源流”、“定脉部位”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周学霆",
+      "jp": "SZC",
+      "aliases": [
+        "三指禪"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_95.json",
+      "chapter_count": 105,
+      "dataset_sha256": "56468c3ed7d3dc32fff7937ddc9f873e19ddd6cdcecaa4433a267565dbec1008",
+      "original_file": "original/extra_95.json.gz"
+    },
+    {
+      "key": "extra_96",
+      "name": "诊宗三昧",
+      "summary": "《诊宗三昧》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“宗旨”、“医学”、“色脉”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张璐",
+      "jp": "ZZSM",
+      "aliases": [
+        "診宗三昧"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_96.json",
+      "chapter_count": 24,
+      "dataset_sha256": "7b57bf2705251c0c1a98c0e84b900f98cf39cc1f34a86027c108b25baede827a",
+      "original_file": "original/extra_96.json.gz"
+    },
+    {
+      "key": "extra_100",
+      "name": "脉诀刊误",
+      "summary": "《脉诀刊误》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“卷上”、“诊候入式歌”、“五脏歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "元‧戴起宗撰，明‧汪机补订",
+      "jp": "MJKW",
+      "aliases": [
+        "脈訣刊誤"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_100.json",
+      "chapter_count": 66,
+      "dataset_sha256": "b8d1dcf0885fe1658aad12d68cb263b26e650837bdf13a774b430abc7bc9de66",
+      "original_file": "original/extra_100.json.gz"
+    },
+    {
+      "key": "extra_110",
+      "name": "脉义简摩",
+      "summary": "《脉义简摩》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“自叙”、“寸口”、“寸关尺”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周学海",
+      "jp": "MYJM",
+      "aliases": [
+        "脈義簡摩"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_110.json",
+      "chapter_count": 188,
+      "dataset_sha256": "c86853fad276b8dbc0c7fffdc9e9a534b66caa0f07f2c5fd85e9f42a01b0a23f",
+      "original_file": "original/extra_110.json.gz"
+    },
+    {
+      "key": "extra_115",
+      "name": "脉语",
+      "summary": "《脉语》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“取脉入式”、“寸关尺义”、“六部所主”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "吴昆",
+      "jp": "MY",
+      "aliases": [
+        "脈語"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_115.json",
+      "chapter_count": 64,
+      "dataset_sha256": "991cd5ca344528d757f36d51bd7ef7b959b9b6c43f72617cd5c8808574a80658",
+      "original_file": "original/extra_115.json.gz"
+    },
+    {
+      "key": "extra_118",
+      "name": "诊脉三十二辨",
+      "summary": "《诊脉三十二辨》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“一·辨诊脉大法”、“二·辨浮脉所统有十”、“三·辨沉脉所统有五”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "管玉衡",
+      "jp": "ZMSSEB",
+      "aliases": [
+        "診脈三十二辨"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_118.json",
+      "chapter_count": 40,
+      "dataset_sha256": "b0b67e41baafe3f463a853c51dd8ada20e885fad338899c25526b1cdae925121",
+      "original_file": "original/extra_118.json.gz"
+    },
+    {
+      "key": "extra_125",
+      "name": "形色外诊简摩",
+      "summary": "《形色外诊简摩》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“身形内应脏腑部位篇”、“身形内应脏腑病证篇”、“三人篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周学海",
+      "jp": "XSWZJM",
+      "aliases": [
+        "形色外診簡摩"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_125.json",
+      "chapter_count": 74,
+      "dataset_sha256": "aa25b5169c8652d9aeaa703d760c8111713aad941543d0a938e83a5f180722b2",
+      "original_file": "original/extra_125.json.gz"
+    },
+    {
+      "key": "extra_126",
+      "name": "望诊遵经",
+      "summary": "《望诊遵经》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“叙”、“诊法常以平旦”、“望色常宜定静”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "汪宏",
+      "jp": "WZZJ",
+      "aliases": [
+        "望診遵經"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_126.json",
+      "chapter_count": 102,
+      "dataset_sha256": "775830fba905591b1e304806a50a29d3a99ac20002b87d1dc9a4c0e5dc9d2639",
+      "original_file": "original/extra_126.json.gz"
+    },
+    {
+      "key": "extra_127",
+      "name": "敖氏伤寒金镜录",
+      "summary": "《敖氏伤寒金镜录》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“伤寒用药说”、“第一·白苔舌”、“第二·将瘟舌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "杜本",
+      "jp": "ASSHJJL",
+      "aliases": [
+        "敖氏傷寒金鏡錄"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_127.json",
+      "chapter_count": 42,
+      "dataset_sha256": "e81e773b65763aab6ee1a50050199eeb8ceaee52b37757c9ee5abbe8e92bff6c",
+      "original_file": "original/extra_127.json.gz"
+    },
+    {
+      "key": "extra_130",
+      "name": "伤寒舌鉴",
+      "summary": "《伤寒舌鉴》属于诊断与脉学文献，内容涉及脉象辨识、四诊方法与脉证关系。所收卷篇包括“白苔舌总论”、“黄苔舌总论”、“黑苔舌总论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张登",
+      "jp": "SHSJ",
+      "aliases": [
+        "傷寒舌鑑"
+      ],
+      "category": "诊断与脉学",
+      "chapter_file": "chapters/extra_130.json",
+      "chapter_count": 10,
+      "dataset_sha256": "b4f3cdf98e96b04f14ba498ddcd92fe946b1a9d02e6f0c8a78d3ffbf6d80d734",
+      "original_file": "original/extra_130.json.gz"
+    },
+    {
+      "key": "extra_138",
+      "name": "新修本草",
+      "summary": "《新修本草》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“合药分剂料理法”、“诸病通用药”、“疗风通用”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "唐",
+      "author": "苏敬、李勣等",
+      "jp": "XXBC",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_138.json",
+      "chapter_count": 966,
+      "dataset_sha256": "af45b0383741a9a7761511ffc3b5a03d2cfd8d9f57fd0ebb36f63b347da99bd8",
+      "original_file": "original/extra_138.json.gz"
+    },
+    {
+      "key": "extra_140",
+      "name": "本草图经",
+      "summary": "《本草图经》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“本草图经奏敕”、“玉屑”、“玉泉”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "北宋",
+      "author": "苏颂",
+      "jp": "BCTJ",
+      "aliases": [
+        "本草圖經"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_140.json",
+      "chapter_count": 816,
+      "dataset_sha256": "14a4bcb27890ea3c99f0dd6aa38146398ce29c95543edb1beac345f615dca5b3",
+      "original_file": "original/extra_140.json.gz"
+    },
+    {
+      "key": "extra_143",
+      "name": "证类本草",
+      "summary": "《证类本草》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“重修本草之记”、“证类本草所出经史方书”、“卷第一”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "唐慎微",
+      "jp": "ZLBC",
+      "aliases": [
+        "證類本草"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_143.json",
+      "chapter_count": 1814,
+      "dataset_sha256": "ff486fc192bd313eed6915c192fec057953a4f93acd32b96f0716c4619f2f881",
+      "original_file": "original/extra_143.json.gz"
+    },
+    {
+      "key": "extra_144",
+      "name": "本草衍义",
+      "summary": "《本草衍义》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“《本草衍义》提要”、“卷一”、“衍义总叙”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "北宋",
+      "author": "寇宗奭",
+      "jp": "BCYY",
+      "aliases": [
+        "本草衍義"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_144.json",
+      "chapter_count": 475,
+      "dataset_sha256": "075ade4eba637297d0df067a95fef6775c33192a691814e0ec736f567a36f48a",
+      "original_file": "original/extra_144.json.gz"
+    },
+    {
+      "key": "extra_145",
+      "name": "汤液本草",
+      "summary": "《汤液本草》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“五脏苦欲补泻药味”、“脏腑泻火药”、“用药法象”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "王好古",
+      "jp": "TYBC",
+      "aliases": [
+        "湯液本草"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_145.json",
+      "chapter_count": 282,
+      "dataset_sha256": "ef8d7d13b2f1880eb3d612b7df14964e3b578e73e5f2cb2f4c34ceca4d74ff34",
+      "original_file": "original/extra_145.json.gz"
+    },
+    {
+      "key": "extra_146",
+      "name": "本草发挥",
+      "summary": "《本草发挥》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“校刻本草发挥叙论”、“金石部”、“草部”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "徐彦纯",
+      "jp": "BCFH",
+      "aliases": [
+        "本草發揮"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_146.json",
+      "chapter_count": 50,
+      "dataset_sha256": "7d6b769a8fcc476eb1191a3b3c0274137088823334aebb584d274a10955feea3",
+      "original_file": "original/extra_146.json.gz"
+    },
+    {
+      "key": "extra_153",
+      "name": "神农本草经疏",
+      "summary": "《神农本草经疏》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“读经疏引”、“原本药性气味生成指归”、“药性主治参互指归”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "缪希雍",
+      "jp": "SNBCJS",
+      "aliases": [
+        "神農本草經疏"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_153.json",
+      "chapter_count": 610,
+      "dataset_sha256": "8648b61bf352f3b726fc42dad8a4ece59f9a85c9259608f642d6e2d58544c759",
+      "original_file": "original/extra_153.json.gz"
+    },
+    {
+      "key": "extra_158",
+      "name": "本草蒙筌",
+      "summary": "《本草蒙筌》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“出产择地土”、“收采按时月”、“藏留防耗坏”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "陈嘉谟",
+      "jp": "BCMQ",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_158.json",
+      "chapter_count": 465,
+      "dataset_sha256": "8d8896644ff3de985ef5c24731c63c18254de9dd240e80724b7d8c2f026ccab6",
+      "original_file": "original/extra_158.json.gz"
+    },
+    {
+      "key": "extra_160",
+      "name": "本草乘雅半偈",
+      "summary": "《本草乘雅半偈》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“本草乘雅义例”、“别录〔衍〕”、“乘雅半偈采录诸书大意”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "卢之颐",
+      "jp": "BCCYBJ",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_160.json",
+      "chapter_count": 400,
+      "dataset_sha256": "b98dc8349bc47eaa4b9395fcde7c46ae1a4e52252b6cccdc209a4c095c655c3a",
+      "original_file": "original/extra_160.json.gz"
+    },
+    {
+      "key": "extra_163",
+      "name": "雷公炮制药性解",
+      "summary": "《雷公炮制药性解》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“金银箔”、“黄丹”、“胡粉”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "李中梓",
+      "jp": "LGPZYXJ",
+      "aliases": [
+        "雷公炮製藥性解"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_163.json",
+      "chapter_count": 336,
+      "dataset_sha256": "02acc5d0c007154a557427d289b9567f0b1538c91e8d0940ddf51a124293f750",
+      "original_file": "original/extra_163.json.gz"
+    },
+    {
+      "key": "extra_166",
+      "name": "本草通玄",
+      "summary": "《本草通玄》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“人参”、“甘草”、“沙参”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "李中梓",
+      "jp": "BCTX",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_166.json",
+      "chapter_count": 345,
+      "dataset_sha256": "3584b3613517782068edc8f7d4067e2a874c56453c444007ca72db3d5c5b669e",
+      "original_file": "original/extra_166.json.gz"
+    },
+    {
+      "key": "extra_175",
+      "name": "要药分剂",
+      "summary": "《要药分剂》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“宣剂上”、“桔梗”、“天麻”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈金鳌",
+      "jp": "YYFJ",
+      "aliases": [
+        "要藥分劑"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_175.json",
+      "chapter_count": 392,
+      "dataset_sha256": "601f1354a8fb57a4c7c642b1c2b1b626f0ef74d68ca5efbfd604f851057a4a1a",
+      "original_file": "original/extra_175.json.gz"
+    },
+    {
+      "key": "extra_176",
+      "name": "本草新编",
+      "summary": "《本草新编》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“劝医六则”、“七方论”、“十剂论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈士铎",
+      "jp": "BCXB",
+      "aliases": [
+        "本草新編"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_176.json",
+      "chapter_count": 282,
+      "dataset_sha256": "35e3f0f844b102e5945e8812bbeb876c3493f3794bf86787a6310519b8e06b91",
+      "original_file": "original/extra_176.json.gz"
+    },
+    {
+      "key": "extra_177",
+      "name": "本经逢原",
+      "summary": "《本经逢原》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“小引”、“诸水”、“诸火”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张璐",
+      "jp": "BJFY",
+      "aliases": [
+        "本經逢原"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_177.json",
+      "chapter_count": 772,
+      "dataset_sha256": "ea350925324d1f53d06ac071f9653e263349ddeb0801552f3d6cc16bde4d0426",
+      "original_file": "original/extra_177.json.gz"
+    },
+    {
+      "key": "extra_179",
+      "name": "本草经解",
+      "summary": "《本草经解》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“【人参】”、“【黄耆】”、“【术】”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "姚球（原题叶天士撰）",
+      "jp": "BCJJ",
+      "aliases": [
+        "本草經解"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_179.json",
+      "chapter_count": 211,
+      "dataset_sha256": "9fd38d497730132ce3eb06ac586ee27d6cb4b4fdb4ed01124b86d25f5238f02a",
+      "original_file": "original/extra_179.json.gz"
+    },
+    {
+      "key": "extra_181",
+      "name": "神农本草经读",
+      "summary": "《神农本草经读》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“后叙”、“人参”、“黄耆”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈念祖",
+      "jp": "SNBCJD",
+      "aliases": [
+        "神農本草經讀"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_181.json",
+      "chapter_count": 169,
+      "dataset_sha256": "4f18755bf68f053400f5a72e3867105e37056a52fbecbf9cd275f19462e7f744",
+      "original_file": "original/extra_181.json.gz"
+    },
+    {
+      "key": "extra_183",
+      "name": "神农本草经百种录",
+      "summary": "《神农本草经百种录》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“丹砂”、“云母”、“石钟乳”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "徐大椿",
+      "jp": "SNBCJBZL",
+      "aliases": [
+        "神農本草經百種錄"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_183.json",
+      "chapter_count": 102,
+      "dataset_sha256": "5dc49697ac671117363c119261341c65edfe9f4a139b5e1eb6b1f199f17a2661",
+      "original_file": "original/extra_183.json.gz"
+    },
+    {
+      "key": "extra_185",
+      "name": "本草崇原",
+      "summary": "《本草崇原》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“人参”、“甘草”、“黄耆”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张志聪；高世栻续成",
+      "jp": "BCCY",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_185.json",
+      "chapter_count": 290,
+      "dataset_sha256": "203da18874a3376d891ecdb7374954c4fe1cc7499e81ecc447c7091936b6d1e2",
+      "original_file": "original/extra_185.json.gz"
+    },
+    {
+      "key": "extra_189",
+      "name": "本草思辨录",
+      "summary": "《本草思辨录》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“自叙”、“绪说”、“石膏”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周岩",
+      "jp": "BCSBL",
+      "aliases": [
+        "本草思辨錄"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_189.json",
+      "chapter_count": 118,
+      "dataset_sha256": "44e95e81050166ea7c3e77779d0e768819eb6d5db96e776f86a67b9e166542ca",
+      "original_file": "original/extra_189.json.gz"
+    },
+    {
+      "key": "extra_191",
+      "name": "本草撮要",
+      "summary": "《本草撮要》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“【黄耆】”、“【甘草】”、“【人参】”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈其瑞",
+      "jp": "BCCY",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_191.json",
+      "chapter_count": 663,
+      "dataset_sha256": "1928c64b3e3650d986fa69c4e3761a88307652fee584d83753a1e6e4910b9d3d",
+      "original_file": "original/extra_191.json.gz"
+    },
+    {
+      "key": "extra_193",
+      "name": "本草择要纲目",
+      "summary": "《本草择要纲目》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“苦参”、“升麻”、“柴胡”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "蒋介繁",
+      "jp": "BCZYGM",
+      "aliases": [
+        "本草擇要綱目"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_193.json",
+      "chapter_count": 373,
+      "dataset_sha256": "acc31c2285ddb77bee398616a400e3f7bf4093f61db06dbbbbc1d5240cfdeb1d",
+      "original_file": "original/extra_193.json.gz"
+    },
+    {
+      "key": "extra_194",
+      "name": "得配本草",
+      "summary": "《得配本草》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“水部”、“立春雨水”、“露水”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "严洁、施雯、洪炜全",
+      "jp": "DPBC",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_194.json",
+      "chapter_count": 711,
+      "dataset_sha256": "6a1a13e6d9a77a3cdbc47c935bf68171a221b00da3bd0f4e5df9946380a057cc",
+      "original_file": "original/extra_194.json.gz"
+    },
+    {
+      "key": "extra_200",
+      "name": "长沙药解",
+      "summary": "《长沙药解》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“卷一”、“卷二”、“卷三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "CSYJ",
+      "aliases": [
+        "長沙藥解"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_200.json",
+      "chapter_count": 6,
+      "dataset_sha256": "67398983ee32b5346e4c95b9d2a2590af6284342e8c192e14e94b6ed5fdc14ff",
+      "original_file": "original/extra_200.json.gz"
+    },
+    {
+      "key": "extra_201",
+      "name": "玉楸药解",
+      "summary": "《玉楸药解》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“自叙”、“草部”、“木部”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "YQYJ",
+      "aliases": [
+        "玉楸藥解"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_201.json",
+      "chapter_count": 10,
+      "dataset_sha256": "c4ff0a109488acfc093bac81bd579ab362c19a97f7d44975812528baa98d66b2",
+      "original_file": "original/extra_201.json.gz"
+    },
+    {
+      "key": "extra_202",
+      "name": "本经疏证",
+      "summary": "《本经疏证》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“例言”、“本经疏证第一卷”、“本经疏证第二卷”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "邹澍",
+      "jp": "BJSZ",
+      "aliases": [
+        "本經疏證"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_202.json",
+      "chapter_count": 124,
+      "dataset_sha256": "d3543a0e930eadcecba74fac562e3695c73640937c484500cd5875c239b1ad76",
+      "original_file": "original/extra_202.json.gz"
+    },
+    {
+      "key": "extra_203",
+      "name": "食鉴本草",
+      "summary": "《食鉴本草》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“谷”、“菜”、“瓜”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "费伯雄",
+      "jp": "SJBC",
+      "aliases": [
+        "食鑑本草"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_203.json",
+      "chapter_count": 23,
+      "dataset_sha256": "8cd8948bd5678c842c1c7100d6fa25350273aa069e56b6034834818c66f535c3",
+      "original_file": "original/extra_203.json.gz"
+    },
+    {
+      "key": "extra_222",
+      "name": "雷公炮炙论",
+      "summary": "《雷公炮炙论》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“朱砂”、“云母”、“钟乳”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南朝·宋",
+      "author": "雷敩",
+      "jp": "LGPZL",
+      "aliases": [
+        "雷公炮炙論"
+      ],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_222.json",
+      "chapter_count": 271,
+      "dataset_sha256": "a3bec2fbdcbc0f51a39ca040ac1edc51d7d922b8edbaae85985f1790fc7f37e0",
+      "original_file": "original/extra_222.json.gz"
+    },
+    {
+      "key": "extra_224",
+      "name": "炮炙大法",
+      "summary": "《炮炙大法》属于本草与炮制文献，内容涉及药物性味、主治、辨识与修治。所收卷篇包括“正文”、“雨水”、“冬霜”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "缪希雍",
+      "jp": "PZDF",
+      "aliases": [],
+      "category": "本草与炮制",
+      "chapter_file": "chapters/extra_224.json",
+      "chapter_count": 438,
+      "dataset_sha256": "6e180e9c9a8bf4e28f895c2771147e7b8adb15a742ead0f7221c04702e91faa1",
+      "original_file": "original/extra_224.json.gz"
+    },
+    {
+      "key": "extra_228",
+      "name": "孙真人海上方",
+      "summary": "《孙真人海上方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“暑月伤热”、“伤寒咳嗽”、“鱼脐疮”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "唐",
+      "author": "题孙思邈（一说宋钱竽）",
+      "jp": "SZRHSF",
+      "aliases": [
+        "孫真人海上方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_228.json",
+      "chapter_count": 124,
+      "dataset_sha256": "ce1d793f7ab35c5c1d98cc38c394a4bf741ec1774a122a8afa22a63a39b59cfa",
+      "original_file": "original/extra_228.json.gz"
+    },
+    {
+      "key": "extra_229",
+      "name": "仙授理伤续断秘方",
+      "summary": "《仙授理伤续断秘方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“医治整理补接次第口诀”、“洗药”、“黑龙散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "唐",
+      "author": "蔺道人",
+      "jp": "XSLSXDMF",
+      "aliases": [
+        "仙授理傷續斷秘方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_229.json",
+      "chapter_count": 48,
+      "dataset_sha256": "1059e691f95397173a5514e5cadd9ab08f355ae4880f0767e586871524101d28",
+      "original_file": "original/extra_229.json.gz"
+    },
+    {
+      "key": "extra_232",
+      "name": "太平圣惠方",
+      "summary": "《太平圣惠方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“叙为医”、“叙诊脉法”、“分寸关尺三部脉位法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "王怀隐、陈昭遇等",
+      "jp": "TPSHF",
+      "aliases": [
+        "太平聖惠方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_232.json",
+      "chapter_count": 1988,
+      "dataset_sha256": "892ae6f23863f58ab6161af5dbf943e95522823ff34b5dc9949f52254d1e2051",
+      "original_file": "original/extra_232.json.gz"
+    },
+    {
+      "key": "extra_233",
+      "name": "博济方",
+      "summary": "《博济方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“提要”、“人参煮散”、“金沸草散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "北宋",
+      "author": "王衮",
+      "jp": "BJF",
+      "aliases": [
+        "博濟方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_233.json",
+      "chapter_count": 353,
+      "dataset_sha256": "6ef2e3738d3ac36c36b41e4f16e392ae7b34e25bc358bb0fc14fbbd4790e3856",
+      "original_file": "original/extra_233.json.gz"
+    },
+    {
+      "key": "extra_234",
+      "name": "苏沈良方",
+      "summary": "《苏沈良方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“脉说”、“苍耳说”、“记菊”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "苏轼、沈括",
+      "jp": "SSLF",
+      "aliases": [
+        "蘇沈良方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_234.json",
+      "chapter_count": 229,
+      "dataset_sha256": "38a7a9cc6b3df23ec325798920c3840ac9f6063ced5610376d3cd75b637bc4da",
+      "original_file": "original/extra_234.json.gz"
+    },
+    {
+      "key": "extra_235",
+      "name": "史载之方",
+      "summary": "《史载之方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“春”、“夏”、“秋”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "史堪",
+      "jp": "SZZF",
+      "aliases": [
+        "史載之方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_235.json",
+      "chapter_count": 60,
+      "dataset_sha256": "3e905146a02f6a11c295b4dc738df479b37f93e3b40cdcb51ab75d646cd32eec",
+      "original_file": "original/extra_235.json.gz"
+    },
+    {
+      "key": "extra_240",
+      "name": "鸡峰普济方",
+      "summary": "《鸡峰普济方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“诸风”、“风痱”、“风痉”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "张锐",
+      "jp": "JFPJF",
+      "aliases": [
+        "雞峰普濟方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_240.json",
+      "chapter_count": 1048,
+      "dataset_sha256": "61b3d1841fba2d5b50d5af5fba2a2e15694c9c319ff58fd8a762951507abac38",
+      "original_file": "original/extra_240.json.gz"
+    },
+    {
+      "key": "extra_241",
+      "name": "普济本事方",
+      "summary": "《普济本事方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“真珠丸”、“独活汤”、“星附散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "许叔微",
+      "jp": "PJBSF",
+      "aliases": [
+        "普濟本事方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_241.json",
+      "chapter_count": 334,
+      "dataset_sha256": "081194a9763e4f7ece3c73743939ef5877b4b44ca10e04a25ce812030dde6e92",
+      "original_file": "original/extra_241.json.gz"
+    },
+    {
+      "key": "extra_242",
+      "name": "洪氏集验方",
+      "summary": "《洪氏集验方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“重刊宋本洪氏集验方后叙”、“治痢”、“肉豆蔻散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "洪遵",
+      "jp": "HSJYF",
+      "aliases": [
+        "洪氏集驗方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_242.json",
+      "chapter_count": 165,
+      "dataset_sha256": "b5e954b503f020ba97d1c32ae4ba503a559ddc8c42b2a6c715f5e35346c1f203",
+      "original_file": "original/extra_242.json.gz"
+    },
+    {
+      "key": "extra_243",
+      "name": "杨氏家藏方",
+      "summary": "《杨氏家藏方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“中风方四十一道”、“神仙秘宝丹”、“起废丹”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "杨倓",
+      "jp": "YSJCF",
+      "aliases": [
+        "楊氏家藏方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_243.json",
+      "chapter_count": 1112,
+      "dataset_sha256": "44b4e74c83fa5676f59cb3ea912c9afe0cb93788a3550e9c669045d206474833",
+      "original_file": "original/extra_243.json.gz"
+    },
+    {
+      "key": "extra_244",
+      "name": "千金宝要",
+      "summary": "《千金宝要》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“妇人第一”、“小儿第二”、“中毒第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "郭思",
+      "jp": "QJBY",
+      "aliases": [
+        "千金寶要"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_244.json",
+      "chapter_count": 24,
+      "dataset_sha256": "1069db7812a35715e41c1024bdd5ea7cfd665eed75f62c5f2ea6d29f7056782f",
+      "original_file": "original/extra_244.json.gz"
+    },
+    {
+      "key": "extra_245",
+      "name": "全生指迷方",
+      "summary": "《全生指迷方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“脉论”、“辨五脏六腑部位脉法”、“辨人迎三部趺阳九候五脏六腑脉法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "王贶",
+      "jp": "QSZMF",
+      "aliases": [],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_245.json",
+      "chapter_count": 28,
+      "dataset_sha256": "3af99eb93f5c4944b19ebc04fd2c171c6dd2d3301d36fb0200f03963abc32db4",
+      "original_file": "original/extra_245.json.gz"
+    },
+    {
+      "key": "extra_247",
+      "name": "仁斋直指方论",
+      "summary": "《仁斋直指方论》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“五脏所主论”、“五脏病证虚实论”、“诸阴诸阳论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "杨士瀛",
+      "jp": "RZZZFL",
+      "aliases": [
+        "仁齋直指方論"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_247.json",
+      "chapter_count": 380,
+      "dataset_sha256": "22735cd90225233cb9bfbad68bbea91451805a5d0e387feba653f49dd8b99f3b",
+      "original_file": "original/extra_247.json.gz"
+    },
+    {
+      "key": "extra_248",
+      "name": "严氏济生方",
+      "summary": "《严氏济生方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“肝胆虚实论治”、“柏子仁汤”、“柴胡散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "严用和",
+      "jp": "YSJSF",
+      "aliases": [
+        "嚴氏濟生方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_248.json",
+      "chapter_count": 634,
+      "dataset_sha256": "5aa62f786ed9282ea80bd1e7501fd6ec28e4c3cbdd5bc08da05c2da80d643d22",
+      "original_file": "original/extra_248.json.gz"
+    },
+    {
+      "key": "extra_249",
+      "name": "瑞竹堂经验方",
+      "summary": "《瑞竹堂经验方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“提要”、“匀气散”、“麝香散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "沙图穆苏",
+      "jp": "RZTJYF",
+      "aliases": [
+        "瑞竹堂經驗方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_249.json",
+      "chapter_count": 346,
+      "dataset_sha256": "5bbd66027b0bd269b2dd7ccb1e7fee34aec95eb774c46fb33c5c0ca8b99e5d3e",
+      "original_file": "original/extra_249.json.gz"
+    },
+    {
+      "key": "extra_251",
+      "name": "御药院方",
+      "summary": "《御药院方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“换骨丹”、“活命金丹”、“大辰砂丸”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "许国祯",
+      "jp": "YYYF",
+      "aliases": [
+        "御藥院方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_251.json",
+      "chapter_count": 1058,
+      "dataset_sha256": "ca07e9e080c8f8b2a86036c4a132f7b916f327daae31a9bc0a30b85a6d72dc62",
+      "original_file": "original/extra_251.json.gz"
+    },
+    {
+      "key": "extra_252",
+      "name": "世医得效方",
+      "summary": "《世医得效方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“江西官医提举司牒太医院书”、“集脉说”、“集病说”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "危亦林",
+      "jp": "SYDXF",
+      "aliases": [
+        "世醫得效方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_252.json",
+      "chapter_count": 1280,
+      "dataset_sha256": "212c20c09ea554d18989bed967a783dcb84fbd172d6c0bdf10f7edf51004c21a",
+      "original_file": "original/extra_252.json.gz"
+    },
+    {
+      "key": "extra_253",
+      "name": "是斋百一选方",
+      "summary": "《是斋百一选方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“奉敕校正百一选方表”、“第一门”、“三煅神丹法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "王璆",
+      "jp": "SZBYXF",
+      "aliases": [
+        "是齋百一選方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_253.json",
+      "chapter_count": 999,
+      "dataset_sha256": "763c3e5fe33e1e510b971bc61f7fddd75f22b5a06b5c77ab057e1dc1369aa02e",
+      "original_file": "original/extra_253.json.gz"
+    },
+    {
+      "key": "extra_254",
+      "name": "传信适用方",
+      "summary": "《传信适用方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“治诸风”、“治感风中暑”、“治气疾及心痛”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "吴彦夔",
+      "jp": "CXSYF",
+      "aliases": [
+        "傳信適用方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_254.json",
+      "chapter_count": 27,
+      "dataset_sha256": "0d7b58d45a7aa35bcd2a1c2dc0f8f21ee09d4f83d221c7f845a26c94c2261cd0",
+      "original_file": "original/extra_254.json.gz"
+    },
+    {
+      "key": "extra_256",
+      "name": "类编朱氏集验医方",
+      "summary": "《类编朱氏集验医方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“中风评”、“治方”、“卒中（附：中风 中气 中暑）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "朱佐",
+      "jp": "LBZSJYYF",
+      "aliases": [
+        "類編朱氏集驗醫方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_256.json",
+      "chapter_count": 125,
+      "dataset_sha256": "7b8e9c4e94e7ce740861da5ebdfd77db7876e82e0f65e076f58ad0b66e3fb0a3",
+      "original_file": "original/extra_256.json.gz"
+    },
+    {
+      "key": "extra_260",
+      "name": "急救良方",
+      "summary": "《急救良方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“五绝死第一”、“虚劳第二”、“诸风第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "张时彻",
+      "jp": "JJLF",
+      "aliases": [],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_260.json",
+      "chapter_count": 40,
+      "dataset_sha256": "a4727d09f08429015eb6f9734493c106f3d26362efa5dfe08088e42c8a0f7e62",
+      "original_file": "original/extra_260.json.gz"
+    },
+    {
+      "key": "extra_264",
+      "name": "奇效良方",
+      "summary": "《奇效良方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“风门（附论）”、“八味顺气散”、“乌药顺气散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "董宿原撰，方贤编定",
+      "jp": "QXLF",
+      "aliases": [],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_264.json",
+      "chapter_count": 5012,
+      "dataset_sha256": "817c1ac70c9902ff845a6027866978e92e2a4fed72310f1ffc3c87649b5f2d20",
+      "original_file": "original/extra_264.json.gz"
+    },
+    {
+      "key": "extra_266",
+      "name": "仁术便览",
+      "summary": "《仁术便览》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“中风”、“【通关散】”、“【稀涎散】”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "张浩",
+      "jp": "RSBL",
+      "aliases": [
+        "仁術便覽"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_266.json",
+      "chapter_count": 913,
+      "dataset_sha256": "169c3dd81b4fcc47909a72f5d7f955e59ed8c731c8896e1001e55e4550f78926",
+      "original_file": "original/extra_266.json.gz"
+    },
+    {
+      "key": "extra_267",
+      "name": "鲁府禁方",
+      "summary": "《鲁府禁方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“卷一·福集”、“中风”、“伤寒”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "龚廷贤",
+      "jp": "LFJF",
+      "aliases": [
+        "魯府禁方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_267.json",
+      "chapter_count": 119,
+      "dataset_sha256": "ae8c5b210a2d29221c3c9d8178265b3c9ed8b41e30e3fb943283c0cd6dec8af7",
+      "original_file": "original/extra_267.json.gz"
+    },
+    {
+      "key": "extra_269",
+      "name": "医便",
+      "summary": "《医便》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“医便提纲”、“饮食论”、“男女论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "张受孔",
+      "jp": "YB",
+      "aliases": [
+        "醫便"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_269.json",
+      "chapter_count": 13,
+      "dataset_sha256": "cc8b6b3c88658b4e8a287eb59ba2820842d200bfcf12fdddaef60f35568da85f",
+      "original_file": "original/extra_269.json.gz"
+    },
+    {
+      "key": "extra_271",
+      "name": "扶寿精方",
+      "summary": "《扶寿精方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“诸虚门”、“药酒门”、“痰门”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "吴旻",
+      "jp": "FSJF",
+      "aliases": [
+        "扶壽精方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_271.json",
+      "chapter_count": 33,
+      "dataset_sha256": "846825e054c908e9d6dd4b8d20b646d7c7b06a3d36b2924ae5340ca422b9cf86",
+      "original_file": "original/extra_271.json.gz"
+    },
+    {
+      "key": "extra_272",
+      "name": "医方选要",
+      "summary": "《医方选要》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“诸风门”、“诸寒门”、“中暑门”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "周文采",
+      "jp": "YFXY",
+      "aliases": [
+        "醫方選要"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_272.json",
+      "chapter_count": 48,
+      "dataset_sha256": "f301cddd9436478fd27aaf1e4312674ae095729c61b9ed115a9d1aeea468c30a",
+      "original_file": "original/extra_272.json.gz"
+    },
+    {
+      "key": "extra_274",
+      "name": "金镜内台方议",
+      "summary": "《金镜内台方议》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“桂枝汤（一）”、“桂枝汤议”、“议用桂枝汤法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "许宏",
+      "jp": "JJNTFY",
+      "aliases": [
+        "金鏡內臺方議"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_274.json",
+      "chapter_count": 298,
+      "dataset_sha256": "a646bd4fb023fd2fabdc104351f3191cf453a916bba6e94cfcc5a1a0092d6ccc",
+      "original_file": "original/extra_274.json.gz"
+    },
+    {
+      "key": "extra_275",
+      "name": "万氏家抄济世良方",
+      "summary": "《万氏家抄济世良方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“中风”、“厥（附手足麻木）”、“痛风（附湿痹鹤膝风）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "万表",
+      "jp": "WSJCJSLF",
+      "aliases": [
+        "萬氏家抄濟世良方"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_275.json",
+      "chapter_count": 168,
+      "dataset_sha256": "595be0e5942c5660209e15c74bbe5c09d824b04b6b0a0fa9efd630442397a3df",
+      "original_file": "original/extra_275.json.gz"
+    },
+    {
+      "key": "extra_278",
+      "name": "成方切用",
+      "summary": "《成方切用》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“方制总义”、“内经方”、“栝蒌薤白白酒汤”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吴仪洛",
+      "jp": "CFQY",
+      "aliases": [],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_278.json",
+      "chapter_count": 709,
+      "dataset_sha256": "507166a522a3c1680dde4a0603ff1c75e87ab651225c26f8df04f942bfaa5afa",
+      "original_file": "original/extra_278.json.gz"
+    },
+    {
+      "key": "extra_279",
+      "name": "时方妙用",
+      "summary": "《时方妙用》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“小引”、“望色一”、“望色二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈念祖",
+      "jp": "SFMY",
+      "aliases": [
+        "時方妙用"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_279.json",
+      "chapter_count": 138,
+      "dataset_sha256": "1b35d8fc8c752d6ceacc33157ed214aef2cc831b7452d46b33af43b717f5f497",
+      "original_file": "original/extra_279.json.gz"
+    },
+    {
+      "key": "extra_282",
+      "name": "古方汇精",
+      "summary": "《古方汇精》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“弁言”、“内症门”、“大造丸（一）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "爱虚老人",
+      "jp": "GFHJ",
+      "aliases": [
+        "古方彙精"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_282.json",
+      "chapter_count": 399,
+      "dataset_sha256": "dc3c7e2134ff71401b4b2cd469a96551637f9badb677adb1e7e7d1bb0b0a2837",
+      "original_file": "original/extra_282.json.gz"
+    },
+    {
+      "key": "extra_285",
+      "name": "不知医必要",
+      "summary": "《不知医必要》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“要言”、“望色”、“闻声”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "梁廉夫",
+      "jp": "BZYBY",
+      "aliases": [
+        "不知醫必要"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_285.json",
+      "chapter_count": 245,
+      "dataset_sha256": "816c110356870be824de47519e17c2e5de70a6b4175543696e68f1460fe66814",
+      "original_file": "original/extra_285.json.gz"
+    },
+    {
+      "key": "extra_298",
+      "name": "秘方集验",
+      "summary": "《秘方集验》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“小引”、“例言（计十条）”、“诸症歌诀（计八十八首）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王梦兰",
+      "jp": "MFJY",
+      "aliases": [
+        "秘方集驗"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_298.json",
+      "chapter_count": 41,
+      "dataset_sha256": "fabc40dacbab7e35767c3e1774f5e1e229091a16dee43b8809f32937280b2f8a",
+      "original_file": "original/extra_298.json.gz"
+    },
+    {
+      "key": "extra_299",
+      "name": "医方简义",
+      "summary": "《医方简义》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“四诊总论”、“望色篇”、“闻声篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王清源",
+      "jp": "YFJY",
+      "aliases": [
+        "醫方簡義"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_299.json",
+      "chapter_count": 438,
+      "dataset_sha256": "7ee42cf05e8078bd7b6030ece2c90d90192e44d9e584606ce1ff669c9a7c5bf8",
+      "original_file": "original/extra_299.json.gz"
+    },
+    {
+      "key": "extra_301",
+      "name": "古今名医方论",
+      "summary": "《古今名医方论》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“补中益气汤”、“黄耆建中汤”、“人参养荣汤”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "罗美",
+      "jp": "GJMYFL",
+      "aliases": [
+        "古今名醫方論"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_301.json",
+      "chapter_count": 164,
+      "dataset_sha256": "e927efc5975aa25be31cfbaf62b6881ae5c634763113c24e303f529c50f30fc0",
+      "original_file": "original/extra_301.json.gz"
+    },
+    {
+      "key": "extra_304",
+      "name": "绛雪园古方选注",
+      "summary": "《绛雪园古方选注》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“绛雪园古方选注条目”、“桂枝汤”、“桂枝甘草汤”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王子接",
+      "jp": "JXYGFXZ",
+      "aliases": [
+        "絳雪園古方選註"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_304.json",
+      "chapter_count": 348,
+      "dataset_sha256": "5dc97775df1604f72826081604163fcc8544ca9762b9fec561db71f9c3842e70",
+      "original_file": "original/extra_304.json.gz"
+    },
+    {
+      "key": "extra_305",
+      "name": "医方论",
+      "summary": "《医方论》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“发凡”、“六味地黄丸”、“附桂八味丸”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "费伯雄",
+      "jp": "YFL",
+      "aliases": [
+        "醫方論"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_305.json",
+      "chapter_count": 360,
+      "dataset_sha256": "06f9836c108c6c9c56faed3430fe9972bf6b0b28d1778d43ab83ca519e54f0cf",
+      "original_file": "original/extra_305.json.gz"
+    },
+    {
+      "key": "extra_310",
+      "name": "时方歌括",
+      "summary": "《时方歌括》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“小引”、“四君子汤”、“六君子汤”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈念祖",
+      "jp": "SFGK",
+      "aliases": [
+        "時方歌括"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_310.json",
+      "chapter_count": 111,
+      "dataset_sha256": "ebafab6a254595e036e62de123b4d8de694c6c528746847424c5bcdf44053a4f",
+      "original_file": "original/extra_310.json.gz"
+    },
+    {
+      "key": "extra_312",
+      "name": "金匮方歌括",
+      "summary": "《金匮方歌括》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“小引”、“栝蒌桂枝汤”、“葛根汤”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈念祖；陈蔚订；陈元犀注",
+      "jp": "JKFGK",
+      "aliases": [
+        "金匮歌括",
+        "金匱方歌括"
+      ],
+      "category": "方剂与综合方书",
+      "chapter_file": "chapters/extra_312.json",
+      "chapter_count": 247,
+      "dataset_sha256": "34a06d3db4b70c10e3c9a48edba8ea26f0407f95c0c89d54eba26d7db76a6729",
+      "original_file": "original/extra_312.json.gz"
+    },
+    {
+      "key": "extra_379",
+      "name": "针灸大全",
+      "summary": "《针灸大全》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“周身经穴赋”、“十二经脉歌”、“十二经本一脉歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "徐凤",
+      "jp": "ZJDQ",
+      "aliases": [
+        "針灸大全"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_379.json",
+      "chapter_count": 101,
+      "dataset_sha256": "1e2cd8053f3601452dc591025436545a696e37a3443361e72b4df91d9d7a15a6",
+      "original_file": "original/extra_379.json.gz"
+    },
+    {
+      "key": "extra_386",
+      "name": "扁鹊神应针灸玉龙经",
+      "summary": "《扁鹊神应针灸玉龙经》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“一百二十穴玉龙歌”、“中风”、“口眼㖞斜”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "王国瑞",
+      "jp": "BQSYZJYLJ",
+      "aliases": [
+        "扁鵲神應針灸玉龍經"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_386.json",
+      "chapter_count": 130,
+      "dataset_sha256": "f668060463ffa20c458be0fd17ae6ab8ecf46cdd582d4c8b7d4d37f4dc37e6cf",
+      "original_file": "original/extra_386.json.gz"
+    },
+    {
+      "key": "extra_395",
+      "name": "针灸问对",
+      "summary": "《针灸问对》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“刻针灸问对叙”、“卷之上”、“卷之中”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "汪机",
+      "jp": "ZJWD",
+      "aliases": [
+        "針灸問對"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_395.json",
+      "chapter_count": 33,
+      "dataset_sha256": "16bccd4f579c8dde23c131e3c7657232407be1fba0b03dd85d50a8aaa26d6d00",
+      "original_file": "original/extra_395.json.gz"
+    },
+    {
+      "key": "extra_400",
+      "name": "针灸资生经",
+      "summary": "《针灸资生经》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“偃伏头部中行十穴”、“偃伏第二行左右十四穴”、“偃伏第三行左右十二穴”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "王执中",
+      "jp": "ZJZSJ",
+      "aliases": [
+        "針灸資生經"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_400.json",
+      "chapter_count": 248,
+      "dataset_sha256": "9eab9304be717191e7e2416b12f90e2c8ce6554aa78c9061b16ad1cf4922b3a5",
+      "original_file": "original/extra_400.json.gz"
+    },
+    {
+      "key": "extra_403",
+      "name": "西方子明堂灸经",
+      "summary": "《西方子明堂灸经》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“正人头面图”、“上星”、“囟会”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "佚名",
+      "jp": "XFZMTJJ",
+      "aliases": [
+        "西方子明堂灸經"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_403.json",
+      "chapter_count": 366,
+      "dataset_sha256": "a518944a9e235e4512cd4dc9d1f4d60aeac8f34624868138113677db32149af9",
+      "original_file": "original/extra_403.json.gz"
+    },
+    {
+      "key": "extra_406",
+      "name": "十四经发挥",
+      "summary": "《十四经发挥》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“手足阴阳流注篇”、“手太阴肺经穴歌”、“手阳明大肠经穴歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "滑寿",
+      "jp": "SSJFH",
+      "aliases": [
+        "十四經發揮"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_406.json",
+      "chapter_count": 29,
+      "dataset_sha256": "e15360a7af6fc62f7274a1d11f351a8a3cfc6073e02dfa2f0f916f8fb8999309",
+      "original_file": "original/extra_406.json.gz"
+    },
+    {
+      "key": "extra_411",
+      "name": "神应经",
+      "summary": "《神应经》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“头部二穴”、“手部二穴”、“背腹部二穴”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "陈会撰，刘瑾补辑",
+      "jp": "SYJ",
+      "aliases": [
+        "神應經"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_411.json",
+      "chapter_count": 55,
+      "dataset_sha256": "28834a9985dbada84138428b357d8f68f37b2d5877a614d2d4602aa8b5ad4db5",
+      "original_file": "original/extra_411.json.gz"
+    },
+    {
+      "key": "extra_413",
+      "name": "类经图翼",
+      "summary": "《类经图翼》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“太极图论”、“阴阳体象”、“五行生成数解”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "张介宾",
+      "jp": "LJTY",
+      "aliases": [
+        "類經圖翼"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_413.json",
+      "chapter_count": 171,
+      "dataset_sha256": "7915a5cc9da2e605523d8c826054b33cc6756bf681a84e9e32798959e57bf3e0",
+      "original_file": "original/extra_413.json.gz"
+    },
+    {
+      "key": "extra_419",
+      "name": "勉学堂针灸集成",
+      "summary": "《勉学堂针灸集成》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“制九针法”、“炼针法”、“四时针法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "廖润鸿",
+      "jp": "MXTZJJC",
+      "aliases": [
+        "勉學堂針灸集成"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_419.json",
+      "chapter_count": 136,
+      "dataset_sha256": "31ac2bf32cd3ae1b1f7b9814473f363ae0c85542c355913536db5588d5073674",
+      "original_file": "original/extra_419.json.gz"
+    },
+    {
+      "key": "extra_423",
+      "name": "针方六集",
+      "summary": "《针方六集》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“卷之一·神照集”、“手足三阴三阳流注总论一”、“十二官相使贵贱”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "吴昆",
+      "jp": "ZFLJ",
+      "aliases": [
+        "針方六集"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_423.json",
+      "chapter_count": 444,
+      "dataset_sha256": "f0e22c50af8bd1387504cda0eb55c3ee8a23dd490288105576f623086bc05821",
+      "original_file": "original/extra_423.json.gz"
+    },
+    {
+      "key": "extra_429",
+      "name": "灸法秘传",
+      "summary": "《灸法秘传》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“正面图”、“背面图”、“指节图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "刘国光",
+      "jp": "JFMC",
+      "aliases": [
+        "灸法秘傳"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_429.json",
+      "chapter_count": 90,
+      "dataset_sha256": "c7912abc78061f303b48d2657cd098bc0a68b0ec219e8b1a8166db132e0c5b4e",
+      "original_file": "original/extra_429.json.gz"
+    },
+    {
+      "key": "extra_432",
+      "name": "神灸经纶",
+      "summary": "《神灸经纶》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“说原”、“蓄艾”、“下火”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吴亦鼎",
+      "jp": "SJJL",
+      "aliases": [
+        "神灸經綸"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_432.json",
+      "chapter_count": 122,
+      "dataset_sha256": "c85a0104cedc058f4d941f61ba58504d55edc8f2eca1bad78165440d70580a11",
+      "original_file": "original/extra_432.json.gz"
+    },
+    {
+      "key": "extra_436",
+      "name": "厘正按摩要术",
+      "summary": "《厘正按摩要术》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“述古斋医书叙”、“叙二”、“叙三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张筱衫",
+      "jp": "LZAMYS",
+      "aliases": [
+        "釐正按摩要術"
+      ],
+      "category": "针灸与经络",
+      "chapter_file": "chapters/extra_436.json",
+      "chapter_count": 117,
+      "dataset_sha256": "0ec7d7b525d2905305a70c4e86055952a6c94439e593c149bf6ce06e05abf411",
+      "original_file": "original/extra_436.json.gz"
+    },
+    {
+      "key": "extra_444",
+      "name": "注解伤寒论",
+      "summary": "《注解伤寒论》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒卒病论集”、“辨脉法第一”、“平脉法第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "汉·张机著，晋·王叔和撰次，金·成无己注",
+      "jp": "ZJSHL",
+      "aliases": [
+        "注释伤寒论",
+        "註解傷寒論"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_444.json",
+      "chapter_count": 25,
+      "dataset_sha256": "ae9deb28dedadb7d768a174381d5e88380e477246a14161ffeb092281b0f1d5a",
+      "original_file": "original/extra_444.json.gz"
+    },
+    {
+      "key": "extra_445",
+      "name": "张卿子伤寒论",
+      "summary": "《张卿子伤寒论》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“张机”、“王叔和”、“成无己”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张仲景；成无己注；张遂辰参",
+      "jp": "ZQZSHL",
+      "aliases": [
+        "張卿子傷寒論"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_445.json",
+      "chapter_count": 139,
+      "dataset_sha256": "3ae0e22efbabbde21862847a88a24a52b63a5f685129111d0d9710e327aa0ebc",
+      "original_file": "original/extra_445.json.gz"
+    },
+    {
+      "key": "extra_446",
+      "name": "伤寒论翼",
+      "summary": "《伤寒论翼》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“全论大法第一”、“六经正义第二”、“合并启微第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "柯琴",
+      "jp": "SHLY",
+      "aliases": [
+        "傷寒論翼"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_446.json",
+      "chapter_count": 15,
+      "dataset_sha256": "9f3d96926126b5e68121882dc615dd4828cec151b8823f225ad66de317f32a9b",
+      "original_file": "original/extra_446.json.gz"
+    },
+    {
+      "key": "extra_448",
+      "name": "伤寒标本心法类萃",
+      "summary": "《伤寒标本心法类萃》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤风”、“伤寒”、“中暑”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "刘完素",
+      "jp": "SHBBXFLC",
+      "aliases": [
+        "傷寒標本心法類萃"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_448.json",
+      "chapter_count": 46,
+      "dataset_sha256": "c8efa2a282224f8280c68bda58d48371dbdc1d37275065fd4c33aaf4cdae5652",
+      "original_file": "original/extra_448.json.gz"
+    },
+    {
+      "key": "extra_450",
+      "name": "类证活人书",
+      "summary": "《类证活人书》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“卷第一”、“经络图”、“卷第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "北宋",
+      "author": "朱肱",
+      "jp": "LZHRS",
+      "aliases": [
+        "類證活人書"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_450.json",
+      "chapter_count": 26,
+      "dataset_sha256": "56ca9d54772cf72c98655d10b6850c09198b2a83eb86edc198259f6ed8ac97ff",
+      "original_file": "original/extra_450.json.gz"
+    },
+    {
+      "key": "extra_452",
+      "name": "伤寒直格",
+      "summary": "《伤寒直格》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“十干”、“脏腑配合”、“十二支”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "刘完素",
+      "jp": "SHZG",
+      "aliases": [
+        "傷寒直格"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_452.json",
+      "chapter_count": 52,
+      "dataset_sha256": "502d309486803147ebce2678dcad0004df94b5082006b793abc0e46686ffbc13",
+      "original_file": "original/extra_452.json.gz"
+    },
+    {
+      "key": "extra_454",
+      "name": "伤寒溯源集",
+      "summary": "《伤寒溯源集》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“阴阳发病六经统论”、“太阳上中下三篇总脉总证”、“中风正治”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "钱潢",
+      "jp": "SHSYJ",
+      "aliases": [
+        "傷寒溯源集"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_454.json",
+      "chapter_count": 93,
+      "dataset_sha256": "86849496df52a77e4a23a7f6c64c6cf45ad5a4b760b15267e27129a963139f9e",
+      "original_file": "original/extra_454.json.gz"
+    },
+    {
+      "key": "extra_455",
+      "name": "伤寒来苏集",
+      "summary": "《伤寒来苏集》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒总论”、“太阳脉证”、“桂枝汤证上”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "柯琴",
+      "jp": "SHLSJ",
+      "aliases": [
+        "傷寒來蘇集"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_455.json",
+      "chapter_count": 49,
+      "dataset_sha256": "2808924f01c8ccda41bf883fc44a51a33d7d3e39a1120130496874c6ac72fffd",
+      "original_file": "original/extra_455.json.gz"
+    },
+    {
+      "key": "extra_457",
+      "name": "伤寒论条辨",
+      "summary": "《伤寒论条辨》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒论条辨引”、“阳病在表之图”、“阴病在里之图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "方有执",
+      "jp": "SHLTB",
+      "aliases": [
+        "傷寒論條辨"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_457.json",
+      "chapter_count": 39,
+      "dataset_sha256": "dbbe732aa541fbb87e4d6c0854d7db87d4e07226560607bfcf179344ee295a74",
+      "original_file": "original/extra_457.json.gz"
+    },
+    {
+      "key": "extra_459",
+      "name": "伤寒悬解",
+      "summary": "《伤寒悬解》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“寒温异气”、“传经大凡”、“解期早晚”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄元御",
+      "jp": "SHXJ",
+      "aliases": [
+        "傷寒懸解"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_459.json",
+      "chapter_count": 430,
+      "dataset_sha256": "8c676eba40f4f90c5093d0de9fabd4356d9cff1cadb609ae190818face71f86b",
+      "original_file": "original/extra_459.json.gz"
+    },
+    {
+      "key": "extra_460",
+      "name": "伤寒论纲目",
+      "summary": "《伤寒论纲目》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“脉症总论”、“六经主症”、“阴阳”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈金鳌",
+      "jp": "SHLGM",
+      "aliases": [
+        "傷寒論綱目"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_460.json",
+      "chapter_count": 218,
+      "dataset_sha256": "574d12d08a1cc2dc1b5b5416cfa7f3c6415a1a7f1491740dcc2518be52205768",
+      "original_file": "original/extra_460.json.gz"
+    },
+    {
+      "key": "extra_462",
+      "name": "伤寒贯珠集",
+      "summary": "《伤寒贯珠集》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“辨列太阳条例大意”、“太阳病脉证三条”、“桂枝汤脉证七条”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "尤怡",
+      "jp": "SHGZJ",
+      "aliases": [
+        "傷寒貫珠集"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_462.json",
+      "chapter_count": 83,
+      "dataset_sha256": "46c9bc939739186cdd724dd0b0bc4d6da734aba35dbc4fb72359e67f1e96d1cb",
+      "original_file": "original/extra_462.json.gz"
+    },
+    {
+      "key": "extra_464",
+      "name": "伤寒缵论",
+      "summary": "《伤寒缵论》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“叙”、“太阳上篇”、“太阳中篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张璐",
+      "jp": "SHZL",
+      "aliases": [
+        "傷寒纘論"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_464.json",
+      "chapter_count": 130,
+      "dataset_sha256": "da46a480d37695a9fd8404479c9bf6a251ec06df607b1433d2f649ba6d50c41d",
+      "original_file": "original/extra_464.json.gz"
+    },
+    {
+      "key": "extra_471",
+      "name": "尚论篇",
+      "summary": "《尚论篇》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“尚论张仲景《伤寒论》大意”、“尚论仲景《伤寒论》，先辨叔和编次之失”、“尚论仲景《伤寒论》，先辨林亿、成无己校注之失”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "喻昌",
+      "jp": "SLP",
+      "aliases": [
+        "尚論篇"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_471.json",
+      "chapter_count": 33,
+      "dataset_sha256": "4e6ba8253353498e772cc1880c50c20337f9b8da9367ea7185265c5f46b46573",
+      "original_file": "original/extra_471.json.gz"
+    },
+    {
+      "key": "extra_472",
+      "name": "尚论后篇",
+      "summary": "《尚论后篇》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“卷一”、“尚论春三月温症大意”、“温症上篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "喻昌",
+      "jp": "SLHP",
+      "aliases": [
+        "尚論後篇"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_472.json",
+      "chapter_count": 29,
+      "dataset_sha256": "b9b08da14ba6c8654ba69c3fd986e5f05b33a7020140bfea1a16402be39c3fa3",
+      "original_file": "original/extra_472.json.gz"
+    },
+    {
+      "key": "extra_476",
+      "name": "伤寒论读",
+      "summary": "《伤寒论读》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“辨太阳病脉证”、“辨阴病阳病之大纲”、“右七节论中风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈又彭",
+      "jp": "SHLD",
+      "aliases": [
+        "傷寒論讀"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_476.json",
+      "chapter_count": 18,
+      "dataset_sha256": "9211dc802048565e797134acfb193afe38d454c927e6e50809060db6f5e0c3b0",
+      "original_file": "original/extra_476.json.gz"
+    },
+    {
+      "key": "extra_478",
+      "name": "伤寒指掌",
+      "summary": "《伤寒指掌》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“类伤寒辨”、“察舌辨症法”、“部位”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吴贞",
+      "jp": "SHZZ",
+      "aliases": [
+        "傷寒指掌"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_478.json",
+      "chapter_count": 155,
+      "dataset_sha256": "f82060bfdc0b8c5751a919d944fed4a1e5a1342fecf1912b1f0101bbed481f98",
+      "original_file": "original/extra_478.json.gz"
+    },
+    {
+      "key": "extra_479",
+      "name": "伤寒附翼",
+      "summary": "《伤寒附翼》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“太阳方总论”、“阳明方总论”、“少阳方总论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "柯琴",
+      "jp": "SHFY",
+      "aliases": [
+        "傷寒附翼"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_479.json",
+      "chapter_count": 7,
+      "dataset_sha256": "5a9307b92bdf465328715030f4d133d0b24064bdb7fcb2a5cc2da39de4c8145d",
+      "original_file": "original/extra_479.json.gz"
+    },
+    {
+      "key": "extra_480",
+      "name": "河间伤寒心要",
+      "summary": "《河间伤寒心要》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒心要论”、“第一双解散”、“第二小柴胡凉膈天水合服”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "镏洪",
+      "jp": "HJSHXY",
+      "aliases": [
+        "河間傷寒心要"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_480.json",
+      "chapter_count": 15,
+      "dataset_sha256": "031c3511f83a3b8a0c54bcbfb02b994bc43948f265f2950e466ff84eb5a83cf1",
+      "original_file": "original/extra_480.json.gz"
+    },
+    {
+      "key": "extra_485",
+      "name": "伤寒六书",
+      "summary": "《伤寒六书》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“辩张仲景伤寒论”、“治伤寒用药大略”、“伤寒言证不言病”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "陶华",
+      "jp": "SHLS",
+      "aliases": [
+        "傷寒六書"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_485.json",
+      "chapter_count": 257,
+      "dataset_sha256": "204e98cbcc97ee11c9d9a8f4dec3cda462009d8f02497b6a098148cf1cdcab54",
+      "original_file": "original/extra_485.json.gz"
+    },
+    {
+      "key": "extra_486",
+      "name": "伤寒寻源",
+      "summary": "《伤寒寻源》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒正名”、“论王叔和”、“辟泥四时论病之谬”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吕震名",
+      "jp": "SHXY",
+      "aliases": [
+        "傷寒尋源"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_486.json",
+      "chapter_count": 192,
+      "dataset_sha256": "18f7845994edcb9fddd2e568dd2c5d579840e5472a39d4ad8ef9c4887a46bde0",
+      "original_file": "original/extra_486.json.gz"
+    },
+    {
+      "key": "extra_487",
+      "name": "伤寒明理论",
+      "summary": "《伤寒明理论》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“发热”、“恶寒”、“恶风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "成无己",
+      "jp": "SHMLL",
+      "aliases": [
+        "傷寒明理論"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_487.json",
+      "chapter_count": 72,
+      "dataset_sha256": "0f6b1aa8092767ae3910d889415d5da38a3b90419947f9d034c8ce97a63e9cce",
+      "original_file": "original/extra_487.json.gz"
+    },
+    {
+      "key": "extra_489",
+      "name": "伤寒括要",
+      "summary": "《伤寒括要》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒总论”、“肾虚人易犯伤寒论”、“不服药为中医论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "李中梓",
+      "jp": "SHKY",
+      "aliases": [
+        "傷寒括要"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_489.json",
+      "chapter_count": 309,
+      "dataset_sha256": "457957d7ecca9673984834c974aca1585186177d302c8f4f17d6bf4d68c47dba",
+      "original_file": "original/extra_489.json.gz"
+    },
+    {
+      "key": "extra_492",
+      "name": "伤寒九十论",
+      "summary": "《伤寒九十论》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“辩桂枝汤用芍药证（一）”、“桂枝加附子汤证（二）”、“桂枝加厚朴杏子汤证（三）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "许叔微述",
+      "jp": "SHJSL",
+      "aliases": [
+        "傷寒九十論"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_492.json",
+      "chapter_count": 90,
+      "dataset_sha256": "2a687c2c61afbca4f13212350076286ec2f3688ba8da37aaaf8b6620265ad905",
+      "original_file": "original/extra_492.json.gz"
+    },
+    {
+      "key": "extra_495",
+      "name": "伤寒大白",
+      "summary": "《伤寒大白》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤寒热病总论”、“验舌色论”、“验口唇论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "秦之桢",
+      "jp": "SHDB",
+      "aliases": [
+        "傷寒大白"
+      ],
+      "category": "伤寒与金匮研究",
+      "chapter_file": "chapters/extra_495.json",
+      "chapter_count": 86,
+      "dataset_sha256": "7ccfffa963cd6823a006810c4b12893faa7388a9b49aa2095bebdb2e84b17d02",
+      "original_file": "original/extra_495.json.gz"
+    },
+    {
+      "key": "extra_546",
+      "name": "时病论",
+      "summary": "《时病论》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“冬伤于寒春必病温大意”、“春温”、“风温”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "雷丰",
+      "jp": "SBL",
+      "aliases": [
+        "時病論"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_546.json",
+      "chapter_count": 120,
+      "dataset_sha256": "878d4c50ee356478790bffa60c2fc3be48b2d6490241f9b0fc8ee9c4bcaea7d1",
+      "original_file": "original/extra_546.json.gz"
+    },
+    {
+      "key": "extra_548",
+      "name": "温热逢源",
+      "summary": "《温热逢源》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“详注灵枢素问伏气化温诸条”、“详注难经伏气发温诸条”、“详注仲景伏气化温证治各条”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "柳宝诒",
+      "jp": "WRFY",
+      "aliases": [
+        "溫熱逢源"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_548.json",
+      "chapter_count": 25,
+      "dataset_sha256": "4bcc1541c6fe149e3a386d0360bc9aaa3c95e58c0d9eee11aa3c200b0af07f44",
+      "original_file": "original/extra_548.json.gz"
+    },
+    {
+      "key": "extra_554",
+      "name": "温病指南",
+      "summary": "《温病指南》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“温病总论”、“伤寒温病辨（四则）”、“风温上焦篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "娄杰",
+      "jp": "WBZN",
+      "aliases": [
+        "溫病指南"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_554.json",
+      "chapter_count": 12,
+      "dataset_sha256": "4869ae0f427939606a253ee662119adb952085a895d8bd88db5402a09d41741d",
+      "original_file": "original/extra_554.json.gz"
+    },
+    {
+      "key": "extra_567",
+      "name": "六因条辨",
+      "summary": "《六因条辨》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“春温辨论”、“春温条辨第一”、“春温条辨第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陆子贤",
+      "jp": "LYTB",
+      "aliases": [
+        "六因條辨"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_567.json",
+      "chapter_count": 185,
+      "dataset_sha256": "6eb5ad55692d367c73a69cd29342aac8bceb11be32743d33ab7ba050ab8d3904",
+      "original_file": "original/extra_567.json.gz"
+    },
+    {
+      "key": "extra_573",
+      "name": "广瘟疫论",
+      "summary": "《广瘟疫论》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“一辨气”、“二辨色”、“三辨舌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "戴天章",
+      "jp": "GWYL",
+      "aliases": [
+        "廣瘟疫論"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_573.json",
+      "chapter_count": 118,
+      "dataset_sha256": "50e73189d2d09758cbb91695df65a061ab514a102d7cef2a60fe0ae2fe8e6526",
+      "original_file": "original/extra_573.json.gz"
+    },
+    {
+      "key": "extra_580",
+      "name": "南病别鉴",
+      "summary": "《南病别鉴》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“第一论湿病大概”、“第二论化热入营”、“第三论邪留三焦”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "宋兆淇",
+      "jp": "NBBJ",
+      "aliases": [
+        "南病別鑑"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_580.json",
+      "chapter_count": 69,
+      "dataset_sha256": "ab03b9c7f21aecd246c490f686d0c10dffb8e9f09689e42037c298fcdbce2ac3",
+      "original_file": "original/extra_580.json.gz"
+    },
+    {
+      "key": "extra_582",
+      "name": "疫疹一得",
+      "summary": "《疫疹一得》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“参合六十年客气旁通图”、“运气便览”、“五运”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "余霖",
+      "jp": "YZYD",
+      "aliases": [],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_582.json",
+      "chapter_count": 114,
+      "dataset_sha256": "2aeae4450158accbbb025d3086485ceb1795bf9512df08f090d3352539b3e9fa",
+      "original_file": "original/extra_582.json.gz"
+    },
+    {
+      "key": "extra_583",
+      "name": "温热暑疫全书",
+      "summary": "《温热暑疫全书》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“卷一·温病方论”、“春温集补证治并方”、“附风温”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周扬俊",
+      "jp": "WRSYQS",
+      "aliases": [
+        "溫熱暑疫全書"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_583.json",
+      "chapter_count": 72,
+      "dataset_sha256": "0adcb30f4af784a17cf59db8d39803299fec3b3a7cf0f066eb79bd5736308ce7",
+      "original_file": "original/extra_583.json.gz"
+    },
+    {
+      "key": "extra_584",
+      "name": "温疫明辨歌诀",
+      "summary": "《温疫明辨歌诀》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“辨温疫初起气色舌神脉”、“辨温疫与风寒异治”、“辨温疫兼风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王旭高",
+      "jp": "WYMBGJ",
+      "aliases": [
+        "溫疫明辨歌訣"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_584.json",
+      "chapter_count": 17,
+      "dataset_sha256": "3bd818ab5b800bfe9198c32bf9c13f9cf805d2acc70b672c5e3d1a373a518e6c",
+      "original_file": "original/extra_584.json.gz"
+    },
+    {
+      "key": "extra_586",
+      "name": "辨疫琐言",
+      "summary": "《辨疫琐言》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“正文”、“李翁医记上”、“李翁医记下”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "李炳",
+      "jp": "BYSY",
+      "aliases": [
+        "辨疫瑣言"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_586.json",
+      "chapter_count": 4,
+      "dataset_sha256": "532c605dbfa4d137c98dce0d82ab42b32c477ae4712e51cb90374f18b58cb0c1",
+      "original_file": "original/extra_586.json.gz"
+    },
+    {
+      "key": "extra_588",
+      "name": "痧胀玉衡",
+      "summary": "《痧胀玉衡》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“痧症发蒙论”、“痧分表里辨”、“治痧宜看凉热”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "郭志邃",
+      "jp": "SZYH",
+      "aliases": [
+        "痧脹玉衡"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_588.json",
+      "chapter_count": 161,
+      "dataset_sha256": "bfe32079e91956ad0e0b86fa211863b728710a265543a4086b75060114b82fca",
+      "original_file": "original/extra_588.json.gz"
+    },
+    {
+      "key": "extra_589",
+      "name": "瘴疟指南",
+      "summary": "《瘴疟指南》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“瘴疟形状”、“人身肖天地瘴疟类天时”、“受病之源”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "郑全望",
+      "jp": "ZNZN",
+      "aliases": [
+        "瘴瘧指南"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_589.json",
+      "chapter_count": 121,
+      "dataset_sha256": "e0f0b6be4a9831161b17177c755a9c2f7a2a20935ffc320edad5633452e58800",
+      "original_file": "original/extra_589.json.gz"
+    },
+    {
+      "key": "extra_590",
+      "name": "松峰说疫",
+      "summary": "《松峰说疫》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“叙”、“卷之一·述古”、“瘟疫名义论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "刘奎",
+      "jp": "SFSY",
+      "aliases": [
+        "松峰說疫"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_590.json",
+      "chapter_count": 225,
+      "dataset_sha256": "e1abc29597c2f4e5f40db9c851bb666b21fd137ba49da1aee00cd1d69d4e2ce5",
+      "original_file": "original/extra_590.json.gz"
+    },
+    {
+      "key": "extra_591",
+      "name": "随息居重订霍乱论",
+      "summary": "《随息居重订霍乱论》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“总义”、“热证”、“寒证”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王士雄",
+      "jp": "SXJZDHLL",
+      "aliases": [
+        "霍乱论",
+        "隨息居重訂霍亂論"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_591.json",
+      "chapter_count": 83,
+      "dataset_sha256": "cbc64af5a049d2dc09646ae2619fc8c16ba71d50c2a84d97778fe7047825b095",
+      "original_file": "original/extra_591.json.gz"
+    },
+    {
+      "key": "extra_593",
+      "name": "霍乱燃犀说",
+      "summary": "《霍乱燃犀说》属于温病与疫病文献，内容涉及温热、时疫等外感病证的辨治。所收卷篇包括“卷上”、“列方”、“卷下”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "许志",
+      "jp": "HLRXS",
+      "aliases": [
+        "霍亂燃犀說"
+      ],
+      "category": "温病与疫病",
+      "chapter_file": "chapters/extra_593.json",
+      "chapter_count": 8,
+      "dataset_sha256": "567d9aded91212000bb30df8f02a5f0cced1e56d445b348f6ef5e564a1b3a080",
+      "original_file": "original/extra_593.json.gz"
+    },
+    {
+      "key": "extra_603",
+      "name": "活法机要",
+      "summary": "《活法机要》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“泄痢证。”、“疠风证。”、“破伤风证。”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "旧题朱震亨",
+      "jp": "HFJY",
+      "aliases": [
+        "活法機要"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_603.json",
+      "chapter_count": 20,
+      "dataset_sha256": "da4075cac3ec9e4f59b5ebd62cebfaa58406853c8fd66c5f3d78e85265f837d0",
+      "original_file": "original/extra_603.json.gz"
+    },
+    {
+      "key": "extra_604",
+      "name": "金匮翼",
+      "summary": "《金匮翼》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“大父拙吾府君家传”、“中风统论”、“卒中八法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "尤怡",
+      "jp": "JKY",
+      "aliases": [
+        "金匱翼"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_604.json",
+      "chapter_count": 295,
+      "dataset_sha256": "482920d16af815c0c639ca3c64c19e1e40ec8baf6d316d648b1adda8db79f4c1",
+      "original_file": "original/extra_604.json.gz"
+    },
+    {
+      "key": "extra_606",
+      "name": "医碥",
+      "summary": "《医碥》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“脏腑说”、“心包络三焦说”、“五脏配五行八卦说”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "何梦瑶",
+      "jp": "YB",
+      "aliases": [
+        "醫碥"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_606.json",
+      "chapter_count": 1177,
+      "dataset_sha256": "7fb501162496a328dbe10997de8e453850b99eff7c08ba45a87dff11350be87c",
+      "original_file": "original/extra_606.json.gz"
+    },
+    {
+      "key": "extra_607",
+      "name": "医学正传",
+      "summary": "《医学正传》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“医学或问（凡五十一条）”、“中风（附：胃风）”、“附：胃风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "虞抟",
+      "jp": "YXZZ",
+      "aliases": [
+        "醫學正傳"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_607.json",
+      "chapter_count": 78,
+      "dataset_sha256": "3404774ac028cfd42e6db8de9fede1540cf43cfa2d4fb107cf3e26ec709bcf5b",
+      "original_file": "original/extra_607.json.gz"
+    },
+    {
+      "key": "extra_608",
+      "name": "杂症会心录",
+      "summary": "《杂症会心录》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“自叙”、“魂魄论”、“审虚实”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "汪蕴谷",
+      "jp": "ZZHXL",
+      "aliases": [
+        "雜症會心錄"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_608.json",
+      "chapter_count": 61,
+      "dataset_sha256": "46879fb8d1a56da70a2227791d8b2bcbf5f2580dd4cb80cd4c2f2db6e9f614e0",
+      "original_file": "original/extra_608.json.gz"
+    },
+    {
+      "key": "extra_610",
+      "name": "内外伤辨惑论",
+      "summary": "《内外伤辨惑论》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“辨阴证阳证”、“辨脉”、“辨寒热”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "李杲",
+      "jp": "NWSBHL",
+      "aliases": [
+        "內外傷辨惑論"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_610.json",
+      "chapter_count": 72,
+      "dataset_sha256": "f75ee85796d784c8d329a2c7d89f47619af52c28ccdd1a756db45913e93d74bd",
+      "original_file": "original/extra_610.json.gz"
+    },
+    {
+      "key": "extra_612",
+      "name": "内科摘要",
+      "summary": "《内科摘要》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“一、元气亏损内伤外感等症”、“二、饮食劳倦亏损元气等症”、“三、脾胃亏损心腹作痛等症”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "NKZY",
+      "aliases": [
+        "內科摘要"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_612.json",
+      "chapter_count": 23,
+      "dataset_sha256": "6c85da9532a8dc35fda12ad5f86dd6745a196aec123835d2a2b14d26d80c2329",
+      "original_file": "original/extra_612.json.gz"
+    },
+    {
+      "key": "extra_614",
+      "name": "血证论",
+      "summary": "《血证论》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“阴阳水火气血论”、“男女异同论”、“脏腑病机论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "唐宗海",
+      "jp": "XZL",
+      "aliases": [
+        "血證論"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_614.json",
+      "chapter_count": 82,
+      "dataset_sha256": "9b72f0901b1467e03d897989dbba30ced64405149a872e7e7652f681d4804609",
+      "original_file": "original/extra_614.json.gz"
+    },
+    {
+      "key": "extra_616",
+      "name": "医学传灯",
+      "summary": "《医学传灯》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“自叙”、“脾胃”、“伤风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈歧",
+      "jp": "YXCD",
+      "aliases": [
+        "醫學傳燈"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_616.json",
+      "chapter_count": 39,
+      "dataset_sha256": "fc2e9e53abf3930339bbd6fbbfa6c994e38750c25269caf673cd6481209da7bd",
+      "original_file": "original/extra_616.json.gz"
+    },
+    {
+      "key": "extra_617",
+      "name": "重订灵兰要览",
+      "summary": "《重订灵兰要览》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“中风”、“卒中”、“疟”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "王肯堂",
+      "jp": "ZDLLYL",
+      "aliases": [
+        "重訂靈蘭要覽"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_617.json",
+      "chapter_count": 44,
+      "dataset_sha256": "e35fe60d72313d43cd803feee994d51c7f6fd8a716229a1f821e4429fc33474f",
+      "original_file": "original/extra_617.json.gz"
+    },
+    {
+      "key": "extra_625",
+      "name": "杂病治例",
+      "summary": "《杂病治例》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“书《玉机微义》后”、“兰室集·医家十要”、“兰室誓戒”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "刘纯",
+      "jp": "ZBZL",
+      "aliases": [
+        "雜病治例"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_625.json",
+      "chapter_count": 80,
+      "dataset_sha256": "2672e47b334dfbb7966c437253a90a58c67adfae13b0fdefb8dbd38519a5838e",
+      "original_file": "original/extra_625.json.gz"
+    },
+    {
+      "key": "extra_629",
+      "name": "医学从众录",
+      "summary": "《医学从众录》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“真中风症”、“中风四言脉诀”、“各症方药”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈念祖",
+      "jp": "YXCZL",
+      "aliases": [
+        "醫學從眾錄"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_629.json",
+      "chapter_count": 93,
+      "dataset_sha256": "905c3a1852d2e0dceddbc6c4c48962a0cde1e205d95573383fa61c482a3c6fb3",
+      "original_file": "original/extra_629.json.gz"
+    },
+    {
+      "key": "extra_632",
+      "name": "不居集",
+      "summary": "《不居集》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“白岳程芝云撰”、“例言”、“总旨”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吴澄",
+      "jp": "BJJ",
+      "aliases": [],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_632.json",
+      "chapter_count": 1132,
+      "dataset_sha256": "617d75d62123d5f94696278dbffbcb8a6cc0433a171da96ca0c9a92567be1da3",
+      "original_file": "original/extra_632.json.gz"
+    },
+    {
+      "key": "extra_640",
+      "name": "何氏虚劳心传",
+      "summary": "《何氏虚劳心传》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“虚劳总论”、“脉法”、“死候”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "何炫",
+      "jp": "HSXLXC",
+      "aliases": [
+        "何氏虛勞心傳"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_640.json",
+      "chapter_count": 25,
+      "dataset_sha256": "c40a54352d05834c8a3bdbfd7032ca3b93b8e220c6ba8b416109c8a7689d385b",
+      "original_file": "original/extra_640.json.gz"
+    },
+    {
+      "key": "extra_641",
+      "name": "慎柔五书",
+      "summary": "《慎柔五书》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“慎柔师小传”、“师训第一”、“医劳历例第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "胡慎柔",
+      "jp": "SRWS",
+      "aliases": [
+        "慎柔五書"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_641.json",
+      "chapter_count": 77,
+      "dataset_sha256": "49d6e0d24c3f9d59bf5d080d2ee4e77a57838e5cf0f8c9507388fbd3c7d1a574",
+      "original_file": "original/extra_641.json.gz"
+    },
+    {
+      "key": "extra_643",
+      "name": "虚损启微",
+      "summary": "《虚损启微》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“经义”、“论证”、“阴虚论治”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "洪炜",
+      "jp": "XSQW",
+      "aliases": [
+        "虛損啟微"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_643.json",
+      "chapter_count": 93,
+      "dataset_sha256": "cdab73e0aa159f0b106d8596dfc22067267223d452fa22532f47dff897e68d82",
+      "original_file": "original/extra_643.json.gz"
+    },
+    {
+      "key": "extra_644",
+      "name": "痰火点雪",
+      "summary": "《痰火点雪》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“痰火证论”、“痰火证治”、“痰火辨惑”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "龚居中",
+      "jp": "THDX",
+      "aliases": [
+        "红炉点雪",
+        "痰火點雪"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_644.json",
+      "chapter_count": 239,
+      "dataset_sha256": "000e24148f636dee835f7af917ecb760d0ce8d182b67d9ad2f4e52edda022086",
+      "original_file": "original/extra_644.json.gz"
+    },
+    {
+      "key": "extra_646",
+      "name": "理虚元鉴",
+      "summary": "《理虚元鉴》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“治虚脉法总括”、“治虚脉法分类”、“治虚有三本”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "汪绮石",
+      "jp": "LXYJ",
+      "aliases": [
+        "理虛元鑑"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_646.json",
+      "chapter_count": 48,
+      "dataset_sha256": "0a3a9cd97039e736428f3218a6abf0a947627ced8e7660d8bfd7237ea20c7cec",
+      "original_file": "original/extra_646.json.gz"
+    },
+    {
+      "key": "extra_649",
+      "name": "阴证略例",
+      "summary": "《阴证略例》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“祭神应王文”、“岐伯阴阳脉例”、“洁古老人内伤三阴例”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "王好古",
+      "jp": "YZLL",
+      "aliases": [
+        "陰證略例"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_649.json",
+      "chapter_count": 119,
+      "dataset_sha256": "ee88818e71bbf8330c164c37484851eb20cada4ee32f432100828850e27aa187",
+      "original_file": "original/extra_649.json.gz"
+    },
+    {
+      "key": "extra_650",
+      "name": "脚气治法总要",
+      "summary": "《脚气治法总要》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“卷上”、“卷下”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "北宋",
+      "author": "董汲",
+      "jp": "JQZFZY",
+      "aliases": [
+        "腳氣治法總要"
+      ],
+      "category": "内科与杂病",
+      "chapter_file": "chapters/extra_650.json",
+      "chapter_count": 3,
+      "dataset_sha256": "0a9da001b207be1afb784e6d2d7b3d75861a61197f89db9af9af26127fdf78fa",
+      "original_file": "original/extra_650.json.gz"
+    },
+    {
+      "key": "extra_668",
+      "name": "济阴纲目",
+      "summary": "《济阴纲目》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“论经主冲任二脉”、“论心脾为经血主统”、“论脾胃生血”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "武之望",
+      "jp": "JYGM",
+      "aliases": [
+        "濟陰綱目"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_668.json",
+      "chapter_count": 311,
+      "dataset_sha256": "c1f26c4924913338e7c520963f6b6a130cb11e843694af63b9d92043e9d20d36",
+      "original_file": "original/extra_668.json.gz"
+    },
+    {
+      "key": "extra_671",
+      "name": "女科要旨",
+      "summary": "《女科要旨》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“叙言”、“调经”、“古今方十九首”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈念祖",
+      "jp": "NKYZ",
+      "aliases": [],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_671.json",
+      "chapter_count": 18,
+      "dataset_sha256": "34b8a6ef90b8898e49c9ea2db3216c479b879495ddb5c7c242c07fc8e2c0a443",
+      "original_file": "original/extra_671.json.gz"
+    },
+    {
+      "key": "extra_672",
+      "name": "女科撮要",
+      "summary": "《女科撮要》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“经候不调”、“经漏不止”、“经闭不行”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "NKCY",
+      "aliases": [],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_672.json",
+      "chapter_count": 33,
+      "dataset_sha256": "aeb03d80923ca84f556a846906918cdebc4ddea064ddcd33b4669abbe7c7b991",
+      "original_file": "original/extra_672.json.gz"
+    },
+    {
+      "key": "extra_673",
+      "name": "沈氏女科辑要",
+      "summary": "《沈氏女科辑要》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“第一节·经水”、“第二节·月事不调”、“第三节·辨色及病”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈又彭",
+      "jp": "SSNKJY",
+      "aliases": [
+        "沈氏女科輯要"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_673.json",
+      "chapter_count": 81,
+      "dataset_sha256": "0dc815e8fa698c10bdb669df26c9669cd69461b5d1ff54b4cfb7428b2616b819",
+      "original_file": "original/extra_673.json.gz"
+    },
+    {
+      "key": "extra_680",
+      "name": "女科切要",
+      "summary": "《女科切要》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“调经门”、“经水先期而来”、“经水过期而来”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吴道源",
+      "jp": "NKQY",
+      "aliases": [],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_680.json",
+      "chapter_count": 128,
+      "dataset_sha256": "e1b411f0f6d33e5af197edc891c65c5dabbb2c120ef3b2f5de2affd7a56a6bca",
+      "original_file": "original/extra_680.json.gz"
+    },
+    {
+      "key": "extra_687",
+      "name": "妇科玉尺",
+      "summary": "《妇科玉尺》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“月经”、“治月经病方”、“胎前”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈金鳌",
+      "jp": "FKYC",
+      "aliases": [
+        "婦科玉尺"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_687.json",
+      "chapter_count": 22,
+      "dataset_sha256": "3e3392f23c5ef50b75bab321ba1f3385cc99039df7ccd45f4dfe249a295667be",
+      "original_file": "original/extra_687.json.gz"
+    },
+    {
+      "key": "extra_690",
+      "name": "竹林女科证治",
+      "summary": "《竹林女科证治》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“月经先期”、“月经后期”、“月经或前或后”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "方昌翰",
+      "jp": "ZLNKZZ",
+      "aliases": [
+        "竹林女科證治"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_690.json",
+      "chapter_count": 471,
+      "dataset_sha256": "e2cf4e52e271e74a253a9a372976d7ba54253923dd7a0a0b8697ca2133575275",
+      "original_file": "original/extra_690.json.gz"
+    },
+    {
+      "key": "extra_696",
+      "name": "女科百问",
+      "summary": "《女科百问》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“第一问精血以分男女之本源”、“第二问古法男子三十而娶女子二十而嫁”、“第三问妇人感病倍于男子”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "宋仲甫",
+      "jp": "NKBW",
+      "aliases": [
+        "女科百問"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_696.json",
+      "chapter_count": 100,
+      "dataset_sha256": "5a2274ea6c03692abbafb9a4d0e01eef4d40fb445d7499513c15d3a7f387ae80",
+      "original_file": "original/extra_696.json.gz"
+    },
+    {
+      "key": "extra_705",
+      "name": "校注妇人良方",
+      "summary": "《校注妇人良方》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“用药宜禁”、“调经门”、“精血篇论第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "JZFRLF",
+      "aliases": [
+        "校註婦人良方"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_705.json",
+      "chapter_count": 677,
+      "dataset_sha256": "f3d5b679b5b28bdf1f83379bcadbb0afc8219a9e5ad21866b673e8bf21beae25",
+      "original_file": "original/extra_705.json.gz"
+    },
+    {
+      "key": "extra_714",
+      "name": "经效产宝",
+      "summary": "《经效产宝》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“妊娠安胎方论第一〔凡十一道〕”、“妊娠食诸物忌方论第二〔凡五道〕”、“益气滑胎令易产方论第三〔凡一道〕”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "唐",
+      "author": "昝殷",
+      "jp": "JXCB",
+      "aliases": [
+        "經效產寶"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_714.json",
+      "chapter_count": 63,
+      "dataset_sha256": "dae231b8f5568c61e51cea4e4955f2813faa21cc07fa83dde8b62121e43dfba9",
+      "original_file": "original/extra_714.json.gz"
+    },
+    {
+      "key": "extra_724",
+      "name": "卫生家宝产科备要",
+      "summary": "《卫生家宝产科备要》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“重雕宋本《卫生家宝产科备要》叙”、“孙真人养胎论”、“徐之才逐月养胎方”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "朱端章",
+      "jp": "WSJBCKBY",
+      "aliases": [
+        "衛生家寶產科備要"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_724.json",
+      "chapter_count": 14,
+      "dataset_sha256": "7fd06fa48851032851d346e74aa316bfc2cc31f7401c1459368b73ea232eb788",
+      "original_file": "original/extra_724.json.gz"
+    },
+    {
+      "key": "extra_726",
+      "name": "胎产心法",
+      "summary": "《胎产心法》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“脉法”、“脉诀歌”、“金匮解（方附本条）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "阎纯玺",
+      "jp": "TCXF",
+      "aliases": [
+        "胎產心法"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_726.json",
+      "chapter_count": 111,
+      "dataset_sha256": "d440b394bcc0aa8421fb705abdac5b2fde5d1d59500d934a3e859c6264cd5576",
+      "original_file": "original/extra_726.json.gz"
+    },
+    {
+      "key": "extra_727",
+      "name": "产孕集",
+      "summary": "《产孕集》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“辨孕第一”、“养孕第二”、“孕宜第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张曜孙",
+      "jp": "CYJ",
+      "aliases": [
+        "產孕集"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_727.json",
+      "chapter_count": 17,
+      "dataset_sha256": "a68bcac38d3808188e5e3e7e0c6f8c79948fb43a7f38fb3d3d3b85846d3c6929",
+      "original_file": "original/extra_727.json.gz"
+    },
+    {
+      "key": "extra_739",
+      "name": "广嗣要语",
+      "summary": "《广嗣要语》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“总论”、“调理精血论”、“直指真源论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "俞桥",
+      "jp": "GSYY",
+      "aliases": [
+        "廣嗣要語"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_739.json",
+      "chapter_count": 17,
+      "dataset_sha256": "e1cbe5ea08c69671e140be28d39cfefec287c1d28e3fc07bec895fca6dc25b74",
+      "original_file": "original/extra_739.json.gz"
+    },
+    {
+      "key": "extra_740",
+      "name": "宜麟策",
+      "summary": "《宜麟策》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“总论”、“时气（天时一）”、“阴阳（天时二）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "汪和鼎整理自张介宾之论述",
+      "jp": "YLC",
+      "aliases": [],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_740.json",
+      "chapter_count": 37,
+      "dataset_sha256": "87c33439fe08b0319e0057092490546bbd1dc2ef91fab1202732edd6bfdf0fc5",
+      "original_file": "original/extra_740.json.gz"
+    },
+    {
+      "key": "extra_742",
+      "name": "广嗣纪要",
+      "summary": "《广嗣纪要》属于妇科与产科文献，内容涉及经带胎产及妇人病证的诊治。所收卷篇包括“卷之一”、“修德篇第一”、“寡欲篇第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "万全",
+      "jp": "GSJY",
+      "aliases": [
+        "廣嗣紀要"
+      ],
+      "category": "妇科与产科",
+      "chapter_file": "chapters/extra_742.json",
+      "chapter_count": 54,
+      "dataset_sha256": "e329ca6a8550ae2a2104908b35d78427ef4c8c05c1fb1596c224f783baa4629b",
+      "original_file": "original/extra_742.json.gz"
+    },
+    {
+      "key": "extra_747",
+      "name": "幼科发挥",
+      "summary": "《幼科发挥》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“叙万氏幼科源流”、“形气发微论”、“原病论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "万全",
+      "jp": "YKFH",
+      "aliases": [
+        "幼科發揮"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_747.json",
+      "chapter_count": 66,
+      "dataset_sha256": "09f4d9c12b0bd4c7222ffb6a8685202c85b698a9f814c98e70984ebcdf258776",
+      "original_file": "original/extra_747.json.gz"
+    },
+    {
+      "key": "extra_750",
+      "name": "幼科释谜",
+      "summary": "《幼科释谜》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“自叙”、“总论”、“察色”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈金鳌",
+      "jp": "YKSM",
+      "aliases": [
+        "幼科釋謎"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_750.json",
+      "chapter_count": 136,
+      "dataset_sha256": "2d81ee7a20962b66ed9c57f185ae072229bd49d5e4ca4dafeaaa3f2ca77fd107",
+      "original_file": "original/extra_750.json.gz"
+    },
+    {
+      "key": "extra_752",
+      "name": "婴童百问",
+      "summary": "《婴童百问》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“初诞 第一问”、“护养法 第二问”、“噤风撮口脐风 第三问”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "鲁伯嗣",
+      "jp": "YTBW",
+      "aliases": [
+        "嬰童百問"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_752.json",
+      "chapter_count": 103,
+      "dataset_sha256": "280b122bdb11eb0d68f149ca0f08ca3b6778dc5bbf8355709d800e3fec70f8ae",
+      "original_file": "original/extra_752.json.gz"
+    },
+    {
+      "key": "extra_753",
+      "name": "活幼心书",
+      "summary": "《活幼心书》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“观形气”、“及幼攻补”、“戒毁同道”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "曾世荣",
+      "jp": "HYXS",
+      "aliases": [
+        "活幼心書"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_753.json",
+      "chapter_count": 364,
+      "dataset_sha256": "ddaa47e56938663f56979b3930278279e7a05c7e8822cae70aae14f535466bed",
+      "original_file": "original/extra_753.json.gz"
+    },
+    {
+      "key": "extra_754",
+      "name": "儿科醒",
+      "summary": "《儿科醒》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“总论第一”、“诊治法论第二”、“表论第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "芝屿樵客",
+      "jp": "EKX",
+      "aliases": [
+        "兒科醒"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_754.json",
+      "chapter_count": 45,
+      "dataset_sha256": "fbf3cef6e4c99a5841d1adf626749ac7ca56841749b61e172f1b1c5619fdc8ea",
+      "original_file": "original/extra_754.json.gz"
+    },
+    {
+      "key": "extra_757",
+      "name": "幼科铁镜",
+      "summary": "《幼科铁镜》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“九恨”、“十三不可学”、“十传”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "夏鼎",
+      "jp": "YKTJ",
+      "aliases": [
+        "幼科鐵鏡"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_757.json",
+      "chapter_count": 96,
+      "dataset_sha256": "a73479e2fec4afb48f79087c65722b694c63b50cc713f6d0cdc5de1cf733e6f1",
+      "original_file": "original/extra_757.json.gz"
+    },
+    {
+      "key": "extra_761",
+      "name": "保婴撮要",
+      "summary": "《保婴撮要》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“初诞法”、“护养法”、“噤风撮口脐风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛铠",
+      "jp": "BYCY",
+      "aliases": [
+        "保嬰撮要"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_761.json",
+      "chapter_count": 222,
+      "dataset_sha256": "081c69d0aa831068898893eae1bf46d09360907e7b17d70f01a508248bd9349c",
+      "original_file": "original/extra_761.json.gz"
+    },
+    {
+      "key": "extra_763",
+      "name": "小儿卫生总微论方",
+      "summary": "《小儿卫生总微论方》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“医工论”、“禀受论”、“初生论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "佚名",
+      "jp": "XEWSZWLF",
+      "aliases": [
+        "小兒衛生總微論方"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_763.json",
+      "chapter_count": 168,
+      "dataset_sha256": "919174b5690bc4e1df27f35c9ca5af6e0f94dc72afbefcb4da02ddd55033d36f",
+      "original_file": "original/extra_763.json.gz"
+    },
+    {
+      "key": "extra_770",
+      "name": "颅顖经",
+      "summary": "《颅顖经》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“脉法”、“病证”、“惊痫癫证治”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "佚名",
+      "jp": "LXJ",
+      "aliases": [
+        "颅囟经",
+        "顱顖經"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_770.json",
+      "chapter_count": 7,
+      "dataset_sha256": "bd9db1fb1bf31991a6908956ed807a08c05c800ab16853ff865277ef84d806d9",
+      "original_file": "original/extra_770.json.gz"
+    },
+    {
+      "key": "extra_771",
+      "name": "活幼口议",
+      "summary": "《活幼口议》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“总论”、“撮要”、“辨疑”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "曾世荣",
+      "jp": "HYKY",
+      "aliases": [
+        "活幼口議"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_771.json",
+      "chapter_count": 262,
+      "dataset_sha256": "51f24e181cfc6fccdb5bb1f5d7818f1a9bb53b2332bc209bfd9251bc1db60141",
+      "original_file": "original/extra_771.json.gz"
+    },
+    {
+      "key": "extra_773",
+      "name": "婴童类萃",
+      "summary": "《婴童类萃》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“小儿初受气论”、“受胎论”、“小儿形证歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "王大伦",
+      "jp": "YTLC",
+      "aliases": [
+        "嬰童類萃"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_773.json",
+      "chapter_count": 73,
+      "dataset_sha256": "ce6772b4c9c00fd8db8748c652ca59bd7f459d92d695d9e486d913a97f1a9a9f",
+      "original_file": "original/extra_773.json.gz"
+    },
+    {
+      "key": "extra_777",
+      "name": "保婴金镜录",
+      "summary": "《保婴金镜录》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“面部见色主症”、“治验”、“虎口三关脉纹主症”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "撰人不详，薛己注",
+      "jp": "BYJJL",
+      "aliases": [
+        "保嬰金鏡錄"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_777.json",
+      "chapter_count": 17,
+      "dataset_sha256": "c3961f47dbd0362c67d6196d6fecca5d80ea2dade8cd3dd323f9c13e33d09490",
+      "original_file": "original/extra_777.json.gz"
+    },
+    {
+      "key": "extra_778",
+      "name": "原幼心法",
+      "summary": "《原幼心法》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“一、原小儿论”、“原初”、“原胎”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "彭用光",
+      "jp": "YYXF",
+      "aliases": [],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_778.json",
+      "chapter_count": 205,
+      "dataset_sha256": "f5923fa24cc550fcf7f39e47752ee6fc6bb28b4a73b0f067fafaef22fb9880e7",
+      "original_file": "original/extra_778.json.gz"
+    },
+    {
+      "key": "extra_791",
+      "name": "万氏秘传片玉心书",
+      "summary": "《万氏秘传片玉心书》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“活幼指南赋”、“慈幼儆心赋”、“小儿总治法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "万全",
+      "jp": "WSMCPYXS",
+      "aliases": [
+        "萬氏秘傳片玉心書"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_791.json",
+      "chapter_count": 126,
+      "dataset_sha256": "4aec16705bb39c10610ffeeb0b9ebafd21abdab704b123a4e5a5cbe3d7524b3e",
+      "original_file": "original/extra_791.json.gz"
+    },
+    {
+      "key": "extra_800",
+      "name": "小儿痘疹方论",
+      "summary": "《小儿痘疹方论》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“论痘疹受病之由”、“论痘疹治法”、“类集痘疹已效名方”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "陈文中",
+      "jp": "XEDZFL",
+      "aliases": [
+        "小兒痘疹方論"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_800.json",
+      "chapter_count": 8,
+      "dataset_sha256": "1a4ef0773850800c26f75a619d19ea994a8c36da1d6c6df1e28ff5d68b2fbecb",
+      "original_file": "original/extra_800.json.gz"
+    },
+    {
+      "key": "extra_813",
+      "name": "痘疹心法",
+      "summary": "《痘疹心法》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“万全痘疹心要改刻始末”、“孙光祖读世医心法叙”、“秦大夔重刻痘疹心要引”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "万全",
+      "jp": "DZXF",
+      "aliases": [],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_813.json",
+      "chapter_count": 128,
+      "dataset_sha256": "6b770e1f39b4ec5fc703978dd1b3181d72e4776f9e46855bbea2b0fc02dc8018",
+      "original_file": "original/extra_813.json.gz"
+    },
+    {
+      "key": "extra_814",
+      "name": "小儿推拿广意",
+      "summary": "《小儿推拿广意》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“总论”、“指南赋”、“入门察色”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "熊应雄",
+      "jp": "XETNGY",
+      "aliases": [
+        "小兒推拿廣意"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_814.json",
+      "chapter_count": 68,
+      "dataset_sha256": "525666756212dced00d974032f67d69c91031f35caa4677f466c112a44f05f5a",
+      "original_file": "original/extra_814.json.gz"
+    },
+    {
+      "key": "extra_816",
+      "name": "小儿推拿方脉活婴秘旨全书",
+      "summary": "《小儿推拿方脉活婴秘旨全书》属于儿科文献，内容涉及小儿病证、诊法与方药。所收卷篇包括“叙”、“总论”、“蒸变论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "龚廷贤",
+      "jp": "XETNFMHYMZQS",
+      "aliases": [
+        "小兒推拿方脈活嬰秘旨全書"
+      ],
+      "category": "儿科",
+      "chapter_file": "chapters/extra_816.json",
+      "chapter_count": 86,
+      "dataset_sha256": "9c7e2fe9a5ce85f882e41650f7555cc6896c95f70e8e60c9455bc1952d5229a5",
+      "original_file": "original/extra_816.json.gz"
+    },
+    {
+      "key": "extra_820",
+      "name": "外科证治全书",
+      "summary": "《外科证治全书》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“自记”、“重刻外科证治弁言”、“痈疽证治统论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "许克昌",
+      "jp": "WKZZQS",
+      "aliases": [
+        "外科證治全書"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_820.json",
+      "chapter_count": 484,
+      "dataset_sha256": "cf89d80fa93759c5945cc4c3d24aa02e535613ef96bccb849f0766305ba82939",
+      "original_file": "original/extra_820.json.gz"
+    },
+    {
+      "key": "extra_822",
+      "name": "卫济宝书",
+      "summary": "《卫济宝书》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“论治”、“痈疽五发”、“第一法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "东轩居士",
+      "jp": "WJBS",
+      "aliases": [
+        "衛濟寶書"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_822.json",
+      "chapter_count": 57,
+      "dataset_sha256": "7e502c72c018d7619fd611e8a4956f9532fa9d2d19fe4a02dadaa84f888f81d3",
+      "original_file": "original/extra_822.json.gz"
+    },
+    {
+      "key": "extra_823",
+      "name": "仙传外科集验方",
+      "summary": "《仙传外科集验方》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“叙论痈疽发背第一”、“荣卫返魂汤”、“冲和仙膏”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元末明初",
+      "author": "赵宜真",
+      "jp": "XCWKJYF",
+      "aliases": [
+        "仙傳外科集驗方"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_823.json",
+      "chapter_count": 64,
+      "dataset_sha256": "096d4e45996522ead55d65fdd34279581182ac5c5e410c33b84eb520b9a7e422",
+      "original_file": "original/extra_823.json.gz"
+    },
+    {
+      "key": "extra_824",
+      "name": "外科精义",
+      "summary": "《外科精义》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“论疮肿诊候入式法”、“论荣卫色脉参应之法”、“论持手诀消息法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "齐德之",
+      "jp": "WKJY",
+      "aliases": [
+        "外科精義"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_824.json",
+      "chapter_count": 38,
+      "dataset_sha256": "73fa7be9f307b83525ef5b1a04b37c79907c0b4badd47aede448f8c9249be7ac",
+      "original_file": "original/extra_824.json.gz"
+    },
+    {
+      "key": "extra_825",
+      "name": "外科集验方",
+      "summary": "《外科集验方》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“疮科总论”、“五发痈疽论”、“五发痈疽通治方”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "周文采",
+      "jp": "WKJYF",
+      "aliases": [
+        "外科集驗方"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_825.json",
+      "chapter_count": 16,
+      "dataset_sha256": "c25edeaaa2119c167d44517516ffbf98c2f980a1ae4870ab9c06d30659ae496a",
+      "original_file": "original/extra_825.json.gz"
+    },
+    {
+      "key": "extra_830",
+      "name": "外科大成",
+      "summary": "《外科大成》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“自叙”、“痈疽之脉”、“脉歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "祁坤",
+      "jp": "WKDC",
+      "aliases": [],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_830.json",
+      "chapter_count": 342,
+      "dataset_sha256": "2e5549ac0c33e4d2fcbbd8bb0a9474a4402a2c4dfaff8078fd7f0dec60916e53",
+      "original_file": "original/extra_830.json.gz"
+    },
+    {
+      "key": "extra_832",
+      "name": "外科精要",
+      "summary": "《外科精要》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“疗发背痈疽灸法用药第一”、“痈疽备论第二”、“痈疽灸法论第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "陈自明",
+      "jp": "WKJY",
+      "aliases": [],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_832.json",
+      "chapter_count": 60,
+      "dataset_sha256": "b7787c60d98f6d68dcf785c096d4ff39c92bc6a3f1beab49951b349a6d6bd82f",
+      "original_file": "original/extra_832.json.gz"
+    },
+    {
+      "key": "extra_833",
+      "name": "疡医大全",
+      "summary": "《疡医大全》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“上古天真论篇”、“四气调神大论篇”、“生气通天论篇”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "顾世澄",
+      "jp": "YYDQ",
+      "aliases": [
+        "瘍醫大全"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_833.json",
+      "chapter_count": 1334,
+      "dataset_sha256": "8ba680d4ecef0e1d0c6b13b9914ec4562d3913d03b57a766bf2c6574468d80e9",
+      "original_file": "original/extra_833.json.gz"
+    },
+    {
+      "key": "extra_842",
+      "name": "外科启玄",
+      "summary": "《外科启玄》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“明疮疡标本论”、“明疮疡脉理论”、“明疮疡是阴阳相滞论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "申拱辰",
+      "jp": "WKQX",
+      "aliases": [
+        "外科啟玄"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_842.json",
+      "chapter_count": 339,
+      "dataset_sha256": "cefb6412569e3ad2f8a087b912458b0cff93a50d350f3914e97b7e4d88cca745",
+      "original_file": "original/extra_842.json.gz"
+    },
+    {
+      "key": "extra_843",
+      "name": "外科枢要",
+      "summary": "《外科枢要》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“论疮疡二十六脉所主（一）”、“论疮疡五善七恶主治（二）”、“论疮疡当明本末虚实（三）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "WKSY",
+      "aliases": [
+        "外科樞要"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_843.json",
+      "chapter_count": 62,
+      "dataset_sha256": "df1a8c4c28aef5e16e4b67e2d1396492a49f56b524cda6d7037f28d8264e45bc",
+      "original_file": "original/extra_843.json.gz"
+    },
+    {
+      "key": "extra_845",
+      "name": "外科心法",
+      "summary": "《外科心法》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“脉证名状二十六种所主病症（见《外科精义》）”、“脉相类二十四首（见《医经小学》。）”、“怪脉一首（见《医经小经》）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "WKXF",
+      "aliases": [],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_845.json",
+      "chapter_count": 100,
+      "dataset_sha256": "09b662308c7a3907818db37c46534993d9e1309843d2c41b19e9d3cfb1c67fcf",
+      "original_file": "original/extra_845.json.gz"
+    },
+    {
+      "key": "extra_850",
+      "name": "洞天奥旨",
+      "summary": "《洞天奥旨》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“疮疡标本论”、“疮疡辨脉论”、“疮疡阴阳论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈士铎",
+      "jp": "DTAZ",
+      "aliases": [
+        "洞天奧旨"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_850.json",
+      "chapter_count": 202,
+      "dataset_sha256": "27bf179d0f83a88e030c60601d62dfae5a3f2d6734caa1d6e310473327ca9b09",
+      "original_file": "original/extra_850.json.gz"
+    },
+    {
+      "key": "extra_856",
+      "name": "解围元薮",
+      "summary": "《解围元薮》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“风癞论”、“受病所在经络”、“三十六疯六经分属”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "沈之问",
+      "jp": "JWYS",
+      "aliases": [
+        "解圍元藪"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_856.json",
+      "chapter_count": 67,
+      "dataset_sha256": "b581bb9be3ab8f122c8cfb297f9c169130c28cc74b2d3e774272154bd43cad5b",
+      "original_file": "original/extra_856.json.gz"
+    },
+    {
+      "key": "extra_858",
+      "name": "集验背疽方",
+      "summary": "《集验背疽方》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“背疽方总论”、“背疽其源有五”、“察疽发有内外之别”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "李迅",
+      "jp": "JYBJF",
+      "aliases": [
+        "集驗背疽方"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_858.json",
+      "chapter_count": 16,
+      "dataset_sha256": "2f77c79cd643ece329cc73ff90e3c6115e7553ed337dd28970aa654d4a1e383b",
+      "original_file": "original/extra_858.json.gz"
+    },
+    {
+      "key": "extra_859",
+      "name": "疠疡机要",
+      "summary": "《疠疡机要》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“上卷”、“本症治法”、“兼症治法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "LYJY",
+      "aliases": [
+        "癘瘍機要"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_859.json",
+      "chapter_count": 10,
+      "dataset_sha256": "5044744ac75a038a0c7134ea46ee21dd5665ed5e0767d9c3932a78debad3f519",
+      "original_file": "original/extra_859.json.gz"
+    },
+    {
+      "key": "extra_860",
+      "name": "立斋外科发挥",
+      "summary": "《立斋外科发挥》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“叙”、“肿疡（谓疮疡未出脓者）”、“溃疡（谓疮疡已出脓者）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "LZWKFH",
+      "aliases": [
+        "外科发挥",
+        "立齋外科發揮"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_860.json",
+      "chapter_count": 33,
+      "dataset_sha256": "aad48a975801d8c89a6782643f773d16c8d0f4b0e82607b882e524fb9cc6a5c8",
+      "original_file": "original/extra_860.json.gz"
+    },
+    {
+      "key": "extra_864",
+      "name": "疡科心得集",
+      "summary": "《疡科心得集》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“例言”、“疡证总论”、“疡科调治心法略义”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "高秉钧",
+      "jp": "YKXDJ",
+      "aliases": [
+        "瘍科心得集"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_864.json",
+      "chapter_count": 114,
+      "dataset_sha256": "738275bdde26d7abb66797f0b038e6bd4d2787bd85697e1eaac04f6e4a30c77a",
+      "original_file": "original/extra_864.json.gz"
+    },
+    {
+      "key": "extra_867",
+      "name": "外科理例",
+      "summary": "《外科理例》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“石山先生自赞”、“痈疽脉一”、“治疮脉诀”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "汪机",
+      "jp": "WKLL",
+      "aliases": [],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_867.json",
+      "chapter_count": 423,
+      "dataset_sha256": "8c06cd57d1e70b885bbe4d3b310d0421f3aa9de00ca92eb0ee9532a59db425ff",
+      "original_file": "original/extra_867.json.gz"
+    },
+    {
+      "key": "extra_877",
+      "name": "伤科大成",
+      "summary": "《伤科大成》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“先看穴道吉凶”、“看伤吉凶”、“死诊”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "赵濂",
+      "jp": "SKDC",
+      "aliases": [
+        "傷科大成"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_877.json",
+      "chapter_count": 56,
+      "dataset_sha256": "fe405689ec4de9ef8c7ec15ae1b6486fcc3faac8289e706c2b061deee0a61ca2",
+      "original_file": "original/extra_877.json.gz"
+    },
+    {
+      "key": "extra_883",
+      "name": "伤科汇纂",
+      "summary": "《伤科汇纂》属于外科与伤科文献，内容涉及疮疡、损伤及相关外治与内治。所收卷篇包括“正文”、“经义”、“脉要”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "胡廷光",
+      "jp": "SKHZ",
+      "aliases": [
+        "傷科彙纂"
+      ],
+      "category": "外科与伤科",
+      "chapter_file": "chapters/extra_883.json",
+      "chapter_count": 18,
+      "dataset_sha256": "eeab794624ee33e706d8e82fa5d6a5525874c054a537329221a181fbd297ceec",
+      "original_file": "original/extra_883.json.gz"
+    },
+    {
+      "key": "extra_892",
+      "name": "原机启微",
+      "summary": "《原机启微》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“淫热反克之病”、“风热不制之病”、“七情五贼劳役饥饱之病”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "倪维德",
+      "jp": "YJQW",
+      "aliases": [
+        "原機啟微"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_892.json",
+      "chapter_count": 49,
+      "dataset_sha256": "a9f714f7442ab3e1edd34e91a0d217ae1b8e664685b20eab52b728a99c59ac66",
+      "original_file": "original/extra_892.json.gz"
+    },
+    {
+      "key": "extra_894",
+      "name": "秘传眼科龙木论",
+      "summary": "《秘传眼科龙木论》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“一·审的歌发挥”、“二·眼叙论”、“三·三因证治”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "葆光道人",
+      "jp": "MCYKLML",
+      "aliases": [
+        "秘傳眼科龍木論"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_894.json",
+      "chapter_count": 130,
+      "dataset_sha256": "6142332fe951b15a94ef5cb0da8b00849a1fd77cf69dcad2fe99bf2bfacdf93c",
+      "original_file": "original/extra_894.json.gz"
+    },
+    {
+      "key": "extra_897",
+      "name": "目经大成",
+      "summary": "《目经大成》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“脏腑表里三阳三阴轮廓贯通”、“五运之图”、“六气之图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄庭镜；邓学礼刊",
+      "jp": "MJDC",
+      "aliases": [
+        "目經大成"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_897.json",
+      "chapter_count": 419,
+      "dataset_sha256": "9cebec32b6b942d77456fe43357d09016b1b53df7d13d581c52d5e8d82219fa4",
+      "original_file": "original/extra_897.json.gz"
+    },
+    {
+      "key": "extra_900",
+      "name": "一草亭目科全书",
+      "summary": "《一草亭目科全书》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“目论”、“目议”、“外障”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "邓苑",
+      "jp": "YCTMKQS",
+      "aliases": [
+        "一草亭目科全書"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_900.json",
+      "chapter_count": 64,
+      "dataset_sha256": "e8fc6a3c36ec2a305df243edfbfefa45154351a8097a055375e78383fc2dc490",
+      "original_file": "original/extra_900.json.gz"
+    },
+    {
+      "key": "extra_901",
+      "name": "审视瑶函",
+      "summary": "《审视瑶函》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“前贤医案”、“五脏所司兼五行所属”、“动功六字延寿诀”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "傅仁宇",
+      "jp": "SSYH",
+      "aliases": [
+        "審視瑤函"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_901.json",
+      "chapter_count": 215,
+      "dataset_sha256": "f6d57d8179e32535c666a5aada9f36f3a410a485e8d4b0a2d6605468a48f298d",
+      "original_file": "original/extra_901.json.gz"
+    },
+    {
+      "key": "extra_903",
+      "name": "银海精微",
+      "summary": "《银海精微》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“引”、“五轮八廓总论”、“五轮之图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "唐",
+      "author": "旧题孙思邈",
+      "jp": "YHJW",
+      "aliases": [
+        "銀海精微"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_903.json",
+      "chapter_count": 101,
+      "dataset_sha256": "6728fd60db274dc9d29d092eecb65c0c154d2764e31547dbc5228c377e9619f0",
+      "original_file": "original/extra_903.json.gz"
+    },
+    {
+      "key": "extra_909",
+      "name": "重楼玉钥",
+      "summary": "《重楼玉钥》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“原叙”、“咽喉说”、“喉科总论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "郑梅涧",
+      "jp": "ZLYY",
+      "aliases": [
+        "重樓玉鑰"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_909.json",
+      "chapter_count": 150,
+      "dataset_sha256": "cff86b5d5161699a8bfd863288ae27a0c3486930e0328ff1bc0cb257a0188c42",
+      "original_file": "original/extra_909.json.gz"
+    },
+    {
+      "key": "extra_912",
+      "name": "白喉条辨",
+      "summary": "《白喉条辨》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“辨病源第一”、“辨经络第二”、“辨色第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陈葆善",
+      "jp": "BHTB",
+      "aliases": [
+        "白喉條辨"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_912.json",
+      "chapter_count": 46,
+      "dataset_sha256": "4b6668ef5298338ae2b0d97c09612375cd5f5e7daef224fc797790a7c3f8418f",
+      "original_file": "original/extra_912.json.gz"
+    },
+    {
+      "key": "extra_916",
+      "name": "喉科指掌",
+      "summary": "《喉科指掌》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“叙”、“咽喉大纲论”、“喉舌分经说”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "张宗良",
+      "jp": "HKZZ",
+      "aliases": [],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_916.json",
+      "chapter_count": 94,
+      "dataset_sha256": "cc810c576b9ca831980e4bdea8dfde435f18398e00ada3635b7ec67f59c80d35",
+      "original_file": "original/extra_916.json.gz"
+    },
+    {
+      "key": "extra_917",
+      "name": "包氏喉证家宝",
+      "summary": "《包氏喉证家宝》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“咽喉总论”、“条目”、“辨喉证”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "包三述",
+      "jp": "BSHZJB",
+      "aliases": [
+        "包氏喉證家寶"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_917.json",
+      "chapter_count": 5,
+      "dataset_sha256": "8fdb430a233de7164683082f58ac33433c67ee396bc2643899f0eda1519db094",
+      "original_file": "original/extra_917.json.gz"
+    },
+    {
+      "key": "extra_931",
+      "name": "口齿类要",
+      "summary": "《口齿类要》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“茧唇一”、“口疮二”、“齿痛三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "薛己",
+      "jp": "KCLY",
+      "aliases": [
+        "口齒類要"
+      ],
+      "category": "眼科与耳鼻喉",
+      "chapter_file": "chapters/extra_931.json",
+      "chapter_count": 13,
+      "dataset_sha256": "da933e79fb4c63b85357641163d7d0f61096bf7b14487090cf34638c0f9d78ff",
+      "original_file": "original/extra_931.json.gz"
+    },
+    {
+      "key": "extra_938",
+      "name": "寿世传真",
+      "summary": "《寿世传真》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“总述”、“修养宜行外功第一”、“分行外功诀”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "徐文弼",
+      "jp": "SSCZ",
+      "aliases": [
+        "壽世傳真"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_938.json",
+      "chapter_count": 61,
+      "dataset_sha256": "204822296c4f2d3644536ddaec19b8f353d8dda57a66777ca03d65fba1a69f9b",
+      "original_file": "original/extra_938.json.gz"
+    },
+    {
+      "key": "extra_940",
+      "name": "养生类要",
+      "summary": "《养生类要》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“春岩子传”、“逍遥子导引诀（凡十六段）”、“孙真人卫生歌”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "吴正伦",
+      "jp": "YSLY",
+      "aliases": [
+        "養生類要"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_940.json",
+      "chapter_count": 263,
+      "dataset_sha256": "07d5d1031d446bc3d8036f1045953c2a180ef8f3b875b858135659eb08042566",
+      "original_file": "original/extra_940.json.gz"
+    },
+    {
+      "key": "extra_942",
+      "name": "寿世青编",
+      "summary": "《寿世青编》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“勿药须知”、“疗心法言”、“林鉴堂安心诗”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "尤乘",
+      "jp": "SSQB",
+      "aliases": [
+        "壽世青編"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_942.json",
+      "chapter_count": 68,
+      "dataset_sha256": "63852a3f6d5825d7371a550570033c02bf11de0684c2a8d96a4dbc304757cbe1",
+      "original_file": "original/extra_942.json.gz"
+    },
+    {
+      "key": "extra_948",
+      "name": "三元参赞延寿书",
+      "summary": "《三元参赞延寿书》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“人说”、“天元之寿（精神不耗者得之）”、“欲不可绝”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "李鹏飞",
+      "jp": "SYCZYSS",
+      "aliases": [
+        "三元參贊延壽書"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_948.json",
+      "chapter_count": 42,
+      "dataset_sha256": "01e50d68c556d43e609f8ed8ab3330389df1366ce339d7e87ebbcb6ac419a1ad",
+      "original_file": "original/extra_948.json.gz"
+    },
+    {
+      "key": "extra_949",
+      "name": "山居四要",
+      "summary": "《山居四要》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“卷之一”、“摄生之要”、“养生之要”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "汪汝懋",
+      "jp": "SJSY",
+      "aliases": [],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_949.json",
+      "chapter_count": 35,
+      "dataset_sha256": "1743db496563438ad21bafabeb89c1a5a7d1774288ffb22b4f3365bb9364250a",
+      "original_file": "original/extra_949.json.gz"
+    },
+    {
+      "key": "extra_956",
+      "name": "香奁润色",
+      "summary": "《香奁润色》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“头发部（附眉）”、“面部”、“瘢痣部”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "胡文焕",
+      "jp": "XLRS",
+      "aliases": [
+        "香奩潤色"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_956.json",
+      "chapter_count": 18,
+      "dataset_sha256": "6dd899ffeb158a6b25f23ecaf62daa89be08bb69e214b2d4527ae6b7864c3044",
+      "original_file": "original/extra_956.json.gz"
+    },
+    {
+      "key": "extra_958",
+      "name": "养生类纂",
+      "summary": "《养生类纂》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“总叙养生”、“天”、“日月”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "周守忠",
+      "jp": "YSLZ",
+      "aliases": [
+        "養生類纂"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_958.json",
+      "chapter_count": 260,
+      "dataset_sha256": "efd71b0df093783ceee4ed0695b0025da9c4024735e75fe7a9dee79f45ea9ab9",
+      "original_file": "original/extra_958.json.gz"
+    },
+    {
+      "key": "extra_960",
+      "name": "养生月览",
+      "summary": "《养生月览》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“正月”、“二月”、“三月”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "宋",
+      "author": "周守忠",
+      "jp": "YSYL",
+      "aliases": [
+        "養生月覽"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_960.json",
+      "chapter_count": 12,
+      "dataset_sha256": "4833d914ae047483110c025d67e7a50b8ba6b3f36e68aaaafd97441fab15c081",
+      "original_file": "original/extra_960.json.gz"
+    },
+    {
+      "key": "extra_961",
+      "name": "养生四要",
+      "summary": "《养生四要》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“卷之一”、“寡欲第一”、“慎动第二”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "万全",
+      "jp": "YSSY",
+      "aliases": [
+        "養生四要"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_961.json",
+      "chapter_count": 7,
+      "dataset_sha256": "f0bf365308cce011fd151cf13bb50b0698b8e4232800ef410034ed56e0cf066c",
+      "original_file": "original/extra_961.json.gz"
+    },
+    {
+      "key": "extra_977",
+      "name": "保生心鉴",
+      "summary": "《保生心鉴》属于养生与食疗文献，内容涉及日常调养、食养及养老保健。所收卷篇包括“修真要诀”、“引用诸书”、“五运六气枢要之图 六十年纪运图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "铁峰居士",
+      "jp": "BSXJ",
+      "aliases": [
+        "保生心鑑"
+      ],
+      "category": "养生与食疗",
+      "chapter_file": "chapters/extra_977.json",
+      "chapter_count": 23,
+      "dataset_sha256": "cbad67f4f6e160e20470de162a8c9217fd7505f518203113d1aed2bda8b10907",
+      "original_file": "original/extra_977.json.gz"
+    },
+    {
+      "key": "extra_988",
+      "name": "吴鞠通医案",
+      "summary": "《吴鞠通医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“风温”、“温疫”、“暑温”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "吴瑭",
+      "jp": "WJTYA",
+      "aliases": [
+        "吳鞠通醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_988.json",
+      "chapter_count": 48,
+      "dataset_sha256": "b003f7f89461e61471fce4df5ee72fae70ffec2132390bad1874b1bf17effc16",
+      "original_file": "original/extra_988.json.gz"
+    },
+    {
+      "key": "extra_998",
+      "name": "王旭高临证医案",
+      "summary": "《王旭高临证医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“温邪门”、“暑邪门”、“伏暑门”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王旭高",
+      "jp": "WXGLZYA",
+      "aliases": [
+        "王旭高臨證醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_998.json",
+      "chapter_count": 27,
+      "dataset_sha256": "95ec854feb1d93362a976d0b59c2552374443352b97dd1a7d065abccb24154ff",
+      "original_file": "original/extra_998.json.gz"
+    },
+    {
+      "key": "extra_999",
+      "name": "寓意草",
+      "summary": "《寓意草》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“先议病后用药”、“与门人定议病式”、“论金道宾真阳上脱之症”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "喻昌",
+      "jp": "YYC",
+      "aliases": [],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_999.json",
+      "chapter_count": 67,
+      "dataset_sha256": "21172033ee9b6708da7d16ad7f5d4d25d797a85466371eb8ceafce7566e862d0",
+      "original_file": "original/extra_999.json.gz"
+    },
+    {
+      "key": "extra_1004",
+      "name": "孙文垣医案",
+      "summary": "《孙文垣医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“万历龙飞二年吴小峰小川目疾”、“万历甲戌沈中丞案”、“张孝廉后渠大头疫”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "孙一奎",
+      "jp": "SWYYA",
+      "aliases": [
+        "孫文垣醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1004.json",
+      "chapter_count": 398,
+      "dataset_sha256": "fa7f49ad8bf8f19a6d45357139715dc0d5ba12e18f54b9b9e91c0c40754d2f66",
+      "original_file": "original/extra_1004.json.gz"
+    },
+    {
+      "key": "extra_1005",
+      "name": "续名医类案",
+      "summary": "《续名医类案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“伤寒”、“中寒”、“中风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "魏之琇",
+      "jp": "XMYLA",
+      "aliases": [
+        "續名醫類案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1005.json",
+      "chapter_count": 359,
+      "dataset_sha256": "de1c1077849a6aaf10eaa1f07ca84e3cb29d2c07c6c08089717caf880fa21ef6",
+      "original_file": "original/extra_1005.json.gz"
+    },
+    {
+      "key": "extra_1007",
+      "name": "程杏轩医案",
+      "summary": "《程杏轩医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“许静亭翁夫人产后感邪重用清下治验”、“刘明府少君先天不足心脾内亏治法”、“鲍觉生宫詹郁伤心脾证类噎隔殆而复生”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "程文囿",
+      "jp": "CXXYA",
+      "aliases": [
+        "程杏軒醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1007.json",
+      "chapter_count": 200,
+      "dataset_sha256": "50087cf073178a5dd0a9377cfa2be63cbb3547ba4bc0a086f27a96a0c342abbc",
+      "original_file": "original/extra_1007.json.gz"
+    },
+    {
+      "key": "extra_1011",
+      "name": "眉寿堂方案选存",
+      "summary": "《眉寿堂方案选存》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“春温”、“时疠湿温”、“暑”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "叶桂撰，郭维浚编",
+      "jp": "MSTFAXC",
+      "aliases": [
+        "眉壽堂方案選存"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1011.json",
+      "chapter_count": 12,
+      "dataset_sha256": "f4d84f4df13d82c1c67610dc0c36d028ca034c609b8993a2aa37a754c1dc56df",
+      "original_file": "original/extra_1011.json.gz"
+    },
+    {
+      "key": "extra_1016",
+      "name": "也是山人医案",
+      "summary": "《也是山人医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“中风”、“肝气”、“眩晕”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "也是山人",
+      "jp": "YSSRYA",
+      "aliases": [
+        "也是山人醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1016.json",
+      "chapter_count": 99,
+      "dataset_sha256": "bfb85ee0b17d3b292a2280afb7266cd8922becce52880ebdc0bf9246413e678a",
+      "original_file": "original/extra_1016.json.gz"
+    },
+    {
+      "key": "extra_1020",
+      "name": "素圃医案",
+      "summary": "《素圃医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“伤寒治效”、“暑证治效”、“疟疾治效”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "郑重光",
+      "jp": "SPYA",
+      "aliases": [
+        "素圃醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1020.json",
+      "chapter_count": 10,
+      "dataset_sha256": "662925b14fcfdf02f28422e30c5a0e2a00d19a05c4a640009cc16729783a4ab9",
+      "original_file": "original/extra_1020.json.gz"
+    },
+    {
+      "key": "extra_1021",
+      "name": "沈氏医案",
+      "summary": "《沈氏医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“正文”、“附录”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈璠",
+      "jp": "SSYA",
+      "aliases": [
+        "沈氏醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1021.json",
+      "chapter_count": 3,
+      "dataset_sha256": "9d22b1e85c44632fd94b7a571df2e4d59f2f67e82c1f17f919a47baddd47bc2a",
+      "original_file": "original/extra_1021.json.gz"
+    },
+    {
+      "key": "extra_1024",
+      "name": "青霞医案",
+      "summary": "《青霞医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“正文”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "沈登阶",
+      "jp": "QXYA",
+      "aliases": [
+        "青霞醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1024.json",
+      "chapter_count": 1,
+      "dataset_sha256": "b8e4a185f7aace4f2bab5257d8a132a12e006014f70246883cf1d891cccb1170",
+      "original_file": "original/extra_1024.json.gz"
+    },
+    {
+      "key": "extra_1028",
+      "name": "得心集医案",
+      "summary": "《得心集医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“阳症似阴”、“误下呕泄”、“误下胀满”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "谢星焕著，谢甘澍整理",
+      "jp": "DXJYA",
+      "aliases": [
+        "得心集醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1028.json",
+      "chapter_count": 196,
+      "dataset_sha256": "3fedc8993ecf56305c0c7a593644d12e41aedf28483c8b7087f1ec92cbb69374",
+      "original_file": "original/extra_1028.json.gz"
+    },
+    {
+      "key": "extra_1059",
+      "name": "古今医案按",
+      "summary": "《古今医案按》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“自叙”、“中风”、“类中”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "俞震",
+      "jp": "GJYAA",
+      "aliases": [
+        "古今醫案按"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1059.json",
+      "chapter_count": 177,
+      "dataset_sha256": "0cb988cbadff7f7425303978a4984fb2459cc478191a641e6d4e43efaddb4956",
+      "original_file": "original/extra_1059.json.gz"
+    },
+    {
+      "key": "extra_1071",
+      "name": "王氏医案",
+      "summary": "《王氏医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“王氏医案卷一原名《回春录》”、“王氏医案卷二（原名《回春录》）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "王士雄",
+      "jp": "WSYA",
+      "aliases": [
+        "回春录",
+        "王氏醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1071.json",
+      "chapter_count": 4,
+      "dataset_sha256": "a0f67b084637fc597bbdc2e43b77cd0d4076878c7c95b4a102f6d9974183352b",
+      "original_file": "original/extra_1071.json.gz"
+    },
+    {
+      "key": "extra_1075",
+      "name": "洄溪医案",
+      "summary": "《洄溪医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“中风”、“恶风”、“周痹”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "徐大椿",
+      "jp": "HXYA",
+      "aliases": [
+        "洄溪醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1075.json",
+      "chapter_count": 58,
+      "dataset_sha256": "d61082e2ab07850e3575602cb64e446aa97d441aee093b82149e2efdb3507b6b",
+      "original_file": "original/extra_1075.json.gz"
+    },
+    {
+      "key": "extra_1077",
+      "name": "石山医案",
+      "summary": "《石山医案》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“石山先生像”、“营卫论”、“答提学黄公如金所患书”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "汪机",
+      "jp": "SSYA",
+      "aliases": [
+        "石山醫案"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1077.json",
+      "chapter_count": 62,
+      "dataset_sha256": "5d7b5793d842bd4eb0b78ae09f9296333c46c855d2f995e2feb4f9425e3750bf",
+      "original_file": "original/extra_1077.json.gz"
+    },
+    {
+      "key": "extra_1095",
+      "name": "局方发挥",
+      "summary": "《局方发挥》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“局方发挥 元 丹溪朱震亨著。”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "朱震亨",
+      "jp": "JFFH",
+      "aliases": [
+        "局方發揮"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1095.json",
+      "chapter_count": 1,
+      "dataset_sha256": "99900cf3a501708dd0849539896913bf4fa7a7b52b7e954d7ad020c7c838f929",
+      "original_file": "original/extra_1095.json.gz"
+    },
+    {
+      "key": "extra_1098",
+      "name": "冷庐医话",
+      "summary": "《冷庐医话》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“医范”、“医鉴”、“慎疾”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "陆以湉",
+      "jp": "LLYH",
+      "aliases": [
+        "冷廬醫話"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1098.json",
+      "chapter_count": 112,
+      "dataset_sha256": "c0b2b95205b2fe2b62ff4630b28d71286705f32f12f6c8353a23555a2fabd8df",
+      "original_file": "original/extra_1098.json.gz"
+    },
+    {
+      "key": "extra_1100",
+      "name": "友渔斋医话",
+      "summary": "《友渔斋医话》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“自记”、“一览延龄一卷”、“橘旁杂论上卷”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "黄凯钧",
+      "jp": "YYZYH",
+      "aliases": [
+        "友漁齋醫話"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1100.json",
+      "chapter_count": 146,
+      "dataset_sha256": "eabedda83503b6506725399b6c434aa5b52fe6a421ca49059534584e7a8f724f",
+      "original_file": "original/extra_1100.json.gz"
+    },
+    {
+      "key": "extra_1107",
+      "name": "研经言",
+      "summary": "《研经言》属于医案与医话文献，内容涉及古代医家的诊疗记录与医学议论。所收卷篇包括“原因”、“原贼邪”、“原风湿”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "莫文泉",
+      "jp": "YJY",
+      "aliases": [
+        "研經言"
+      ],
+      "category": "医案与医话",
+      "chapter_file": "chapters/extra_1107.json",
+      "chapter_count": 153,
+      "dataset_sha256": "7f33a73920a9b6589b733d251a15c999286e9a244c39a45ba110f9d97857e579",
+      "original_file": "original/extra_1107.json.gz"
+    },
+    {
+      "key": "extra_1193",
+      "name": "医贯",
+      "summary": "《医贯》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“内经十二官论”、“阴阳论”、“五行论”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "赵献可",
+      "jp": "YG",
+      "aliases": [
+        "醫貫"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1193.json",
+      "chapter_count": 45,
+      "dataset_sha256": "dcbf3c59ed416d2a634b960f624f1615ed4ebe7dc42fdfbca7c09bb3707bf7b7",
+      "original_file": "original/extra_1193.json.gz"
+    },
+    {
+      "key": "extra_1197",
+      "name": "周慎斋遗书",
+      "summary": "《周慎斋遗书》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“阴阳脏腑”、“验案”、“亢害承制”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "周之干著，门人整理，勾吴逋人刊行",
+      "jp": "ZSZYS",
+      "aliases": [
+        "周慎齋遺書"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1197.json",
+      "chapter_count": 156,
+      "dataset_sha256": "762f19e48a3473369d49453d042b33a4964d21daecd936d5f4b3e0de3d1105b5",
+      "original_file": "original/extra_1197.json.gz"
+    },
+    {
+      "key": "extra_1198",
+      "name": "韩氏医通",
+      "summary": "《韩氏医通》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“绪论章第一”、“六法兼施章第二”、“脉诀章第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "韩懋",
+      "jp": "HSYT",
+      "aliases": [
+        "韓氏醫通"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1198.json",
+      "chapter_count": 10,
+      "dataset_sha256": "1363c2bc5ed1e3aba164ffc1e9d7b3e8bdadeba316203dde4013d68a76261678",
+      "original_file": "original/extra_1198.json.gz"
+    },
+    {
+      "key": "extra_1201",
+      "name": "医门法律",
+      "summary": "《医门法律》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“望色论（附律一条）”、“闻声论（附律二条）”、“辨息论（附律一条）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "喻昌",
+      "jp": "YMFL",
+      "aliases": [
+        "醫門法律"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1201.json",
+      "chapter_count": 72,
+      "dataset_sha256": "1d8c05cfe3b8c9dd108c8c0ce591a44ff0b15b216f162656c575870d91cada12",
+      "original_file": "original/extra_1201.json.gz"
+    },
+    {
+      "key": "extra_1204",
+      "name": "笔花医镜",
+      "summary": "《笔花医镜》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“例论”、“诊脉歌”、“望舌色”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "江秋",
+      "jp": "BHYJ",
+      "aliases": [
+        "筆花醫鏡"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1204.json",
+      "chapter_count": 50,
+      "dataset_sha256": "333a66aa1af9eeb9443fc140304485df6d29e9bbb385160187a11b9ed9f27de1",
+      "original_file": "original/extra_1204.json.gz"
+    },
+    {
+      "key": "extra_1205",
+      "name": "脉因证治",
+      "summary": "《脉因证治》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“一、卒尸”、“二、痹”、“三、痓”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "旧题元·朱震亨著，清·汤望久校辑",
+      "jp": "MYZZ",
+      "aliases": [
+        "脈因證治"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1205.json",
+      "chapter_count": 72,
+      "dataset_sha256": "c3a728201906c4237e26419c739a7e973f8006800542c3604c7a0133c20a7e3c",
+      "original_file": "original/extra_1205.json.gz"
+    },
+    {
+      "key": "extra_1206",
+      "name": "素问玄机原病式",
+      "summary": "《素问玄机原病式》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“（总纲）”、“（分述）”、“（总纲）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "金",
+      "author": "刘完素",
+      "jp": "SWXJYBS",
+      "aliases": [
+        "素問玄機原病式"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1206.json",
+      "chapter_count": 23,
+      "dataset_sha256": "0f951ef1147c36dbb46caf897e57c59bc21583f0557e3bf272ddb295339204af",
+      "original_file": "original/extra_1206.json.gz"
+    },
+    {
+      "key": "extra_1208",
+      "name": "华氏中藏经",
+      "summary": "《华氏中藏经》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“人法于天地论第一”、“阴阳大要调神论第二”、“生成论第三”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "东汉",
+      "author": "旧题华佗",
+      "jp": "HSZCJ",
+      "aliases": [
+        "中藏经",
+        "華氏中藏經"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1208.json",
+      "chapter_count": 56,
+      "dataset_sha256": "d3d2828067c865debf80aeae80682ec54ac2308d0298d9ef94c335d7987ddc28",
+      "original_file": "original/extra_1208.json.gz"
+    },
+    {
+      "key": "extra_1211",
+      "name": "证治汇补",
+      "summary": "《证治汇补》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“中风”、“似中风”、“伤风”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "李用粹",
+      "jp": "ZZHB",
+      "aliases": [
+        "證治彙補"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1211.json",
+      "chapter_count": 85,
+      "dataset_sha256": "f216c35b0a59ac0a127f23be6daedf3a25a26e02874c154714e4ed45d77638b5",
+      "original_file": "original/extra_1211.json.gz"
+    },
+    {
+      "key": "extra_1213",
+      "name": "金匮钩玄",
+      "summary": "《金匮钩玄》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“中风”、“六郁”、“癞”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "朱震亨",
+      "jp": "JKGX",
+      "aliases": [
+        "金匱鉤玄"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1213.json",
+      "chapter_count": 145,
+      "dataset_sha256": "3c1e3b280ca63ed8d5dd3aad2d0012998206399b1d25b2d0c2f257d50add9d1a",
+      "original_file": "original/extra_1213.json.gz"
+    },
+    {
+      "key": "extra_1218",
+      "name": "扁鹊心书",
+      "summary": "《扁鹊心书》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“奏玉帝青辞”、“进医书表”、“当明经络”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "南宋",
+      "author": "窦材",
+      "jp": "BQXS",
+      "aliases": [
+        "扁鵲心書"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1218.json",
+      "chapter_count": 238,
+      "dataset_sha256": "6b841cae5c6dccadb07fad3f0ab873cc736a59558921701bb7a666c9f0f346ea",
+      "original_file": "original/extra_1218.json.gz"
+    },
+    {
+      "key": "extra_1219",
+      "name": "医方集宜",
+      "summary": "《医方集宜》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“叙”、“医学”、“医源”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "丁毅",
+      "jp": "YFJY",
+      "aliases": [
+        "醫方集宜"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1219.json",
+      "chapter_count": 1701,
+      "dataset_sha256": "9bb2f3e7b5517dedb5dd78d1c5ffc68c58ddcb3a2f1480eaa3d2547e21772b9d",
+      "original_file": "original/extra_1219.json.gz"
+    },
+    {
+      "key": "extra_1225",
+      "name": "丹溪治法心要",
+      "summary": "《丹溪治法心要》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“中风（第一）”、“癞风（第二）”、“伤寒（第三）”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "高叔宗辑校",
+      "jp": "DXZFXY",
+      "aliases": [],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1225.json",
+      "chapter_count": 159,
+      "dataset_sha256": "d5bc6e702cead55cf1f387ece87b05529642fd5b952edc9264123fa12c5de57d",
+      "original_file": "original/extra_1225.json.gz"
+    },
+    {
+      "key": "extra_1227",
+      "name": "寿世保元",
+      "summary": "《寿世保元》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“医说”、“五脏六腑脉病虚实”、“肝脏脉病虚实”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "龚廷贤",
+      "jp": "SSBY",
+      "aliases": [
+        "壽世保元"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1227.json",
+      "chapter_count": 360,
+      "dataset_sha256": "bd8d4af05ab6c987ed3c312337b40097dac3812329966c7fda6b0e71670df4f9",
+      "original_file": "original/extra_1227.json.gz"
+    },
+    {
+      "key": "extra_1229",
+      "name": "此事难知",
+      "summary": "《此事难知》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“医之可法”、“或问手足太阳、手足阳明、手足少阳、俱会于首、然六阳会于首者、亦有阴乎”、“经脉终始”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "王好古",
+      "jp": "CSNZ",
+      "aliases": [
+        "此事難知"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1229.json",
+      "chapter_count": 173,
+      "dataset_sha256": "20f0b01a1468c17c90a1067fff82ec0bd882fa04c59a7aaac07c3bedc32cb004",
+      "original_file": "original/extra_1229.json.gz"
+    },
+    {
+      "key": "extra_1231",
+      "name": "古今医统大全",
+      "summary": "《古今医统大全》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“助梓缙绅诸公氏号”、“太昊伏羲氏”、“炎帝神农氏”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "徐春甫",
+      "jp": "GJYTDQ",
+      "aliases": [
+        "古今醫統大全"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1231.json",
+      "chapter_count": 3404,
+      "dataset_sha256": "7b3f235bb9f72922031937ff87e42f20fb73868e44d6d37c25c6cae5dbdad015",
+      "original_file": "original/extra_1231.json.gz"
+    },
+    {
+      "key": "extra_1232",
+      "name": "松崖医径",
+      "summary": "《松崖医径》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“杂病准伤寒治法”、“伤寒伤风辨证”、“伤寒证”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "程玠",
+      "jp": "SYYJ",
+      "aliases": [
+        "松崖醫徑"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1232.json",
+      "chapter_count": 109,
+      "dataset_sha256": "dab5a3dc2249eccbb88a676de7d0f21043d4100d19cbdf37c68fd56fbcfe2047",
+      "original_file": "original/extra_1232.json.gz"
+    },
+    {
+      "key": "extra_1233",
+      "name": "医垒元戎",
+      "summary": "《医垒元戎》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“伤寒不可汗不可下不可吐诸证”、“太阳证”、“易简建中加减法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "元",
+      "author": "王好古",
+      "jp": "YLYR",
+      "aliases": [
+        "醫壘元戎"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1233.json",
+      "chapter_count": 14,
+      "dataset_sha256": "5dfde6fc7d15570dc4038d90d971fa06c442eeeb45c37d1999fe44b7d621b5bc",
+      "original_file": "original/extra_1233.json.gz"
+    },
+    {
+      "key": "extra_1235",
+      "name": "医门补要",
+      "summary": "《医门补要》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“外症用刀针法”、“火针不可轻用”、“治筋缩法”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "清",
+      "author": "赵濂",
+      "jp": "YMBY",
+      "aliases": [
+        "醫門補要"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1235.json",
+      "chapter_count": 252,
+      "dataset_sha256": "1954a152765c55e38fb0d226b22da86db642431b1803ba4f43619d305ba10de8",
+      "original_file": "original/extra_1235.json.gz"
+    },
+    {
+      "key": "extra_1236",
+      "name": "玉机微义",
+      "summary": "《玉机微义》属于综合医学文献，内容涉及多科病证、诊治方法与方药经验。所收卷篇包括“中风叙论之始”、“中风脉法”、“中风不治证”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+      "dynasty": "明",
+      "author": "徐彦纯",
+      "jp": "YJWY",
+      "aliases": [
+        "玉機微義"
+      ],
+      "category": "综合医学",
+      "chapter_file": "chapters/extra_1236.json",
+      "chapter_count": 730,
+      "dataset_sha256": "9641905d74a777d1e6a487be8c370277021974f145b69f2a4894bb55d293b7f3",
+      "original_file": "original/extra_1236.json.gz"
+    }
+  ]
+}

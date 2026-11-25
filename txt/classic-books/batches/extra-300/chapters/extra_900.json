@@ -1,0 +1,2075 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_900",
+    "name": "一草亭目科全书",
+    "summary": "《一草亭目科全书》属于眼科与耳鼻喉文献，内容涉及眼目或咽喉口齿病证的诊治。所收卷篇包括“目论”、“目议”、“外障”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "明",
+    "author": "邓苑",
+    "jp": "YCTMKQS",
+    "aliases": [
+      "一草亭目科全書"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "306e6e895df1b614f913ce2c",
+      "title": "年序",
+      "volume": null,
+      "content": "人身五官中，惟耳目为尤重，而司聪之外，莫若司明，目虽开窍属肝，然五脏之精液，皆上注于目，而为之睛。故养生家，有内视静功，目光宵烛之说，惟内养既充，外邪不扰，则眸子了然常明。第人生斯世，劳心劳形之事，谁能或免。或被风霜所冒，暑热所侵，则受伤于外。或为郁怒伤肝，营血摧耗，则受损于内。斯则欲因病疗治，则终身明瞽之关，皆出自医者之手，可不慎哉。然世所谓能拨云雾而睹青天者，伊何人乎?舍清江邓子，其谁与归。予尝觉其一草亭目科全书，其自序业医之缘，盖本于宋儒为人子者不可不知医之论，则其人孝矣。且以文正范公不为良相即为良医之旨。矢志自期，则其人仁矣。仁孝之人，殚精医学，乌有不造于神明之域者。故立论列方，内损外因，分剖详悉，奇偶制度，精专明备。且其所传，又迥出寻常万万者，是以用其方药，辄试辄验。惜乎枣梨残缺，其书不传，予得是书藏之什袭久矣。今不敢自私，重付剞劂，公之斯世，非第为仁人孝子表扬著作之苦心，抑亦为天下后世，凡苦目病者，拣方疗治，得以复明，不须内视之功，自可保五官之最重，而不虑风霜忿郁之伤，则邓子一草亭书，其功宁有量哉。是为序。\n康熙岁次丁酉菊月广宁年希尧书于金陵官署",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "年序"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "6b55456056d35190336d10cd72fc7e6c756d7e9ff87f9247db6463314a4319c9",
+      "content_sha256": "f97acc9e88e870a4ddb850dea989b167536e7f403fee101448605da19509a530",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 486,
+        "simplified_codepoints": 486
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "4c2ae43c3b8a2c2fdd0d8560",
+      "title": "曹序",
+      "volume": null,
+      "content": "夫人之有目，犹天之有日月也。假使天无日月，何以判阴阳。人而无目，何以辨物色。故目为司明之官，心肝脾肺肾，五经皆系焉。然则目亦乌可不明耶。嗟夫，世之病目者多，或以酒色而起星障，或以风火而生云翳，不有良药，何以疗之。然良药非良医，莫能用也。余尝闻苏子有言，药虽进于医手，方多传于古人，旨哉斯言。今业三指禅者，不揣医者意也之义，不究病源，妄施药饵，转致瞽废终身，良可慨焉。爰思十室之邑，必有忠信，天下之大，岂乏良医。其有能起瞽废者，复游于光天化日之下，厥功亦伟矣哉。胡芝樵太守，妫川名下士，尝仕吴楚间多惠政，迨改官之闽宰沙县令龙溪，深得国侨宽猛之术，民情翕然，去思来暮，所至兴歌。余同舟十稔矣，第知太守之学问渊邃，潜心好古，其撑肠文字，奚啻五千卷而已哉，从未知其通岐黄学。唯其家人间有疾作，未尝延医于外，窃有疑焉。客冬荆人，患喘濒危者屡矣。有谓太守能治之，遂延至寓，投以剂，卒赖以安，太守其扁鹊后身乎。会出示手钞年偶斋所刊目科，为清江邓氏书，后附异传目科七十二回答，合成一册，重加校订，名之曰启蒙真谛。藏之有年，不欲秘自炫奇，亟付铅椠，以公同好。乃问序于余。余自惭谫陋，不谙医理，何敢序是书。噫，是诚问道于盲也。今观夫是书之有条不紊，意义兼赅，运用之神，非蠡能测，洵目科中未见书也，余何幸而见之。今一展卷间，便了然于中，窃谓不特启予一人之蒙，将以启天下千万人之蒙也。太守以启蒙真谛而名是书者，其谁曰不然。\n光绪八年岁在壬午灯节后一日嘉善曹晋墀谨序于绿榕城西之尺蠖居",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "曹序"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "a9c6204ce4b5a40f410492c74fb3505b63b85e87d35efd3fb586f272c544aa31",
+      "content_sha256": "bdeae129cf945fb706838d18a5febe3852e1e50a68ff1723aaeb08ae29b2dfd7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        5,
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 629,
+        "simplified_codepoints": 629
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "85e7beb5fcddda7cb1e31a1c",
+      "title": "胡序",
+      "volume": null,
+      "content": "余读书之暇，好涉猎杂艺，自少性已然。故岐黄学，窃粗晓大义，虽习未精，然偶审证酌古而运用之，治辄验。壮宦湘南，同治岁丁卯，儿子烈，目忽疾，云翳遮睛，视字墨者渐色白，浸淫乎盲矣。余探古方，百治卒罔效，古人欺我耶?抑择之不精而运用之不神耶?或者治目有秘谛，古未泄其真，将盲而可悯者多矣，岂独余子哉!有友人某者，示以抄本目科，谓家藏累世矣，特未试其方何如耳。余受览之，见其为二册合抄，其前册，曰《一草亭目科全书》，清江邓博望先生所撰，广采群方，论次精微，余固知为盲者之宝筏。其后册，曰《异授眼科》，其著书人姓名则不传，制药成方，戛戛独造，七十二证治法，设为问答，探本究源，精深显豁，义意美备。仙乎隐乎，莫可思拟。爰为儿子烈，拣方治其目，不旬日而翳散，光明如初。余于是乎愈益信是书之果有济于世，始恍然其真谛在此矣。遂乃立愿制药施贫盲，适以事改官淮，忽忽未暇办此，己巳庚午岁，奉檄司榷靖江，同僚杨君，目将废，余为药之，应手复其明，乃竟群相惊异。于是踵门求医者无虚日，主药辅药者，是书中之最神妙方也。然费颇不赀。余贫无力制备，姑仅修合芦甘石四分之方应之，无不立著效。迨余又改官闽，一行作吏，未尝举以告人。光绪己卯秋，权税崇安，复药人盲，愈者更难以枚举。广宁年公偶斋，官于康熙朝者也，尝惜一草亭简残缺，为重梓之。尝惧《异授》世无刊本，恐磨灭为创刻之。忽忽二百年至今，而余所得乃抄本，传写脱误，亥豕殊多，欲证疑似，历求坊间而不得。盖年刻既寡，又久远就湮，况复经夫兵燹耶。余不揣浅陋，逆其意而寻其义，略点窜而正之，不敢正者，注明于逐条之上，俾用者酌之。谅博望诸贤，及后之精岐黄者，或不妄我于上下数百年间欤。噫，今余年将老矣，愧少壮所学所宦，皆无大规模垂不朽，执是书而济世，一人所及，其愈能几何，且殷殷然其久而失传是虑，爰谋之梓，续不绝一线。又以他得经验奇方附诸后，愿举而示世，曰此《启蒙真谛》也，因以名是书，而各仍其旧，名判种部，付之手民，刊而广布之。俾天下盲者不盲，尽游光天化日中，而无所患苦，是区区所深幸。经验奇方者，虽小品仅二，然余已百试辄效，其功用大矣，阅者毋少而忽之。\n光绪八年岁次壬午孟春月妫川胡崧芝樵氏序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "胡序"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "0ca72ab924ddc9e0efcbf01bd8680b22dee56f98e265418fd6874110b3daba9d",
+      "content_sha256": "eed9c9a7d6fd5d4320821f04a176956129371f4709d5382e209e2fdc1d893eb5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 899,
+        "simplified_codepoints": 899
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "181e21a2a5d9ffd2f4eed8e5",
+      "title": "张序",
+      "volume": null,
+      "content": "昌黎韩子曰：莫为之前，虽美而弗彰；莫为之后，虽盛而弗传。旨哉斯言，千载上下赖继续，不然，前之人苦心积虑而有所成者，后之人漠而视其殄灭澌尽。不承往古，以开示来兹，几何不胥天下而盲哉。是故抱残守缺之君子，尤于绝学三致其意焉，良有以也。史迁著书成，其自序则曰藏之名山，传诸其人。嗟乎，其人岂易得哉。妫川胡公芝樵者，好学而慕古，博艺而多能。惟博艺也，故惜艺如命；惟慕古也，故惧古就湮。所学所能，余望其洋而莫测其涯涘矣。今特于其校刊启蒙真谛也。蠡举一勺，愿与天下共测之，《启蒙真谛》者，妫川总括两家目科名之也。其一清江邓博望先生著，有《一草亭目科全书》，原简残缺，其一不知何许人著，有《异授眼科》，留于天壤间，有扫云之巧，有拨雾之奇，康熙朝，年公希尧举邓书而重刊，又异授而创刻之。今遍求之不能得其本，惜哉惜哉，其学绝矣哉。余赋性疏狂，不甘牖下处，好游也久矣，交士大夫亦多矣。所过而见者，锦绣之华丽，珍宝之充盈，光怪陆离，骇耀俗耳目，则往往皆是。然余视之蔑如也，两目直若盲，夫余不盲于目，而若盲于目，则知彼不盲目，而实不特盲目，且盲于心矣。悲哉悲哉，是谁使之胥世之寡识者，而竟盲之哉。光绪庚辰春，余下龙眠，入于闽，一见辄相得者，则有胡妫川而已。戾止其厅事，名书画数幅，陈设寥寥，浑朴而近古。揖坐而谈之，状貌盎岸，而言皆有物，退而折矣，谓是可以启余之盲矣。居无何，不知妫川于何所取余，款而馆之家，命幼子受经焉。日月逾迈，寒暑已两嬗至今，初余之至馆也。不意心目间蔑视于彼，而忽骇耀于此矣。何为其然也?登其堂书而已，入其斋书而已，憩其舍书而已。琅函山架。牙签丛积。其视锦绣珍宝。则倍蓰其光怪陆离矣。观止矣。其蔑以加矣。迨余馆居久，乃愈识妫川邃于经，熟于史，错综诸子百家言，尤深岐黄学，尤非特此也。尤有可异者，星象也，指奕棋堪舆也，捕龙虎阳宅也，按羲索卜筮也。悬龟鉴而六壬，尤精风鉴也，具只眼而妍媸，而善恶，而邪正，而吉凶者，俱呈露而莫能遁其形。神峰则举天下穷通寿夭，归指掌之间，兵法则尝试之矣。杀贼于湖湘，升平之世无所用，妫川固秘而绝口不谈。凡此者，固又妫川之锦绣，妫川之珍宝，光怪陆离于其胸腹中者也，岂特岐黄之学哉。岐黄洋海一㾞耳，是故今者所校刊，拳拳然，殷殷然，惟古绝学，于我乎是续为快。噫吁嘻，博望诸贤，既绝而复续于自今以后也，苟非赖有好学慕古，博艺多能之妫川，将何所于传，得其人哉。假使是书仅落他人手，其漠不知宝惜者，委置于橱架，若非蠹蚀而鼠啮，即将上漏下湿，糜烂不堪，付之故簏，投之水火耳，谁复过而问哉。其知之为宝也者，则又深藏而秘之，独得以居奇，私持其术，射利于天下，疗天下之盲，以盲天下之耳目，使群惊为空前绝后奇特技，是更博其名，而其究也亦同归于尽。然则藏之名山，传诸其人者之两等人，夫岂其人哉。今妫川惜之至，惧之深，惜其艺之将绝，而又惧古之就湮，举而刊之，以广布天下，传矣。博望诸贤，不仅当年一时之盛矣，后之人苟有精其艺而擅用之美者，举皆《启蒙真谛》是宗矣。执艺以成名，名艺必具彰彰矣。嗟乎，妫川一人耳，上往古，下来兹，为之后而为之前，真欲持是以不盲天下，天下安得而测之。嗟乎嗟乎，余性疏且狂，愿大召告天下曰：盲者可不盲，其不盲者，勿自抵于盲。当保其目，如保其心也可。\n光绪八年岁次壬午孟春上浣皖桐张寿六拙我氏序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "張序"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "9fdb18bf09d5adfbe82a550a76080360977cae4b210dd1f86ad0fc883b967211",
+      "content_sha256": "89442122e45614be3276c358fc3e2c525b0085f68e9faf4611a839a33e4e5351",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        11,
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1355,
+        "simplified_codepoints": 1355
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "503181b965737ef23966859a",
+      "title": "姚序",
+      "volume": null,
+      "content": "《一草亭》、《异授眼科》各一卷，康熙时为广宁年偶斋先生希尧所刻。历年既久，原书罕见，其流传者，率系钞本。近经申报馆以活板排印，出书有限，而无板不能续刷。购书稍后者，即不可得。书中各方，历经遵仿施治，颇著奇效，屡思付梓，以广其传。庚子冬避兵旋里，晤表舅父许君鼎翁，谈次与有同心，爰仿股份票例，共为劝募。集赀重刊是书成，不特病瞽者有复睹天日之欢，而是书借以流传。凡靠是者，得所依据，以神而明之，驯致于上寿，所全岂浅鲜哉。是为序。\n光绪二十七年岁次辛丑仲春上浣嘉兴姚宝炘伯纯甫谨序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "姚序"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "d29c3655656a61d65ac983bdc0308b4b68a0f2da5251bf7a673687801067b28e",
+      "content_sha256": "803aee00bac78afd0b8463cf75a9424f89a99b00b122b5d84e4983b837404afe",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        14,
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 237,
+        "simplified_codepoints": 237
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "d35b92e8f9e467c3d747e23e",
+      "title": "目论",
+      "volume": null,
+      "content": "经曰：五脏六腑之精华，皆上注于目。骨之精为瞳子，属肾。筋之精为黑珠，属肝。血之精为络，属心。气之精为白珠，属肺。肉之精为约束，属脾。血气之精脉所系，上属于脑，后出于项。苟被六淫外感，七情内伤，饮食失节，劳役过度，皆能损目。夫目通肝窍，肾藏其精，一有怫郁，则相火挟肝木而上行，遂致转变多端，有七十二症之名。总不越内外二障而已。华元化云：目类丸形，瞳神居中而前，如日月之丽东南而晦西北也。有神膏、神水、神光，真血、真气、真精，此滋目之源液也。神膏者，目内涵膏，神衰则有损。神水者，由三焦而发源，先天真一之气所化，目上润泽之水也，水衰则有火胜燥暴之患，水竭则有目轮大小之疾，耗涩则有昏眇之危，亏者多，盈者少，是以世无全精之目。神光者，原于命门，通于胆，发于心，火之用事也。火衰则有昏瞑之患，火炎则有焚燥之殃。夫心君主也，通于大眦，故大眦赤者，实火也。命门为小心，小心相火也，代君行令，通于小眦，故小眦赤者，虚火也。若君主拱默，则相火自然清宁矣。真血者，即肝中升运滋目注络之血也。此血非比肌肉间易行之血，即天一所生水，故谓之真也。真气者，即目之经络中往来生运之气，乃先天真一发生之元阳也。真精者，乃先后二天元气所化之精汁，起于肾，施于胆，而后及瞳神也。凡此数者，一有所损，目则病矣。无闾子曰：夫目者，先天之气所生，后天之气所成，阴阳之妙蕴，水火之精华。血养水，水养膏，膏护瞳神，气为运用，神即维持。喻以日月，理实同之，人身至宝，所当重也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "目論"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "052d1a4568ff32155eca5979570234e6c3675bd71ee5fd7dd247bd32aa5e1eb0",
+      "content_sha256": "edc8bcde921c3072da3b3f8b2314e4a474f578ffada44195c1c470b2751b57e6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        17
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 615,
+        "simplified_codepoints": 615
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "9630d83e4e53e1f5eac07de8",
+      "title": "目议",
+      "volume": null,
+      "content": "黑珠属肝，肝为木也，东方属木木生风，在脏为肝应目中，暴怒不常生内郁，更因风热翳侵瞳，其症因恼怒不常，劳役过度，外感风寒，内伤色欲，以致头目眩晕，视物不明，日久不治，遂成昏暗等症。\n大小眦属心，心为火也，心居包络名君主，血逐火奔眼内凝，眦头大小分虚实，远视还同是火星，其症因忧愁烦劳，悲苦思虑，内伤于心，外攻于目，赤筋灌瞳，胬肉攀睛，日久不治，渐至失明等症。\n上下胞属脾，脾为土也。太阳属土主脾元，积热相干病有源，上下胞睑肿又赤，挑针时发蒂依存。其症因多食热物炙煿辛酸，壅热在内，瘀血肿痛，粟沙隐涩，日久不治，以致烂弦倒睫，缠绵不已等症。\n白珠属肺，肺为金也。肺脏停留心热攻，双睛微见绛纱笼，但宣肠胃辛凉剂，方解昏昏似火红。其症因凌霜冒雪，饥饱失常，风邪外受，内热上攻，日久不治，以致视物不明，变成白膜遮睛，疼痛难开，冲风出泪等症。\n瞳人属肾，肾为水也。又通胆窍，此水木有相生之义，肝肾有同治之方。肾胆同源精自华，阴虚火旺便生花，上冲神水还成绿，急养化源不用嗟。其症因嗜欲无厌，房劳过度，大惊伤神，大恐伤志。水火既亏，阴阳渐损，冷泪流于脸上，飞花越于目前，绿水灌瞳，青盲内障等症。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "目議"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "62ddcad4ed41783f3451d94528eac6b1eccf48b01fb344bea698d5326abd4d60",
+      "content_sha256": "5692f1380b1cabaf24782ecb04f8a5842706e5b30383af580fd360bebfe65d66",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        19,
+        20,
+        21,
+        22,
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 489,
+        "simplified_codepoints": 489
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "679fc79208cadeb848688f34",
+      "title": "外障",
+      "volume": null,
+      "content": "暴发时眼，疼痛难开，时眼传染，羞明怕日。白珠生疮，粟沙隐涩，睑肿胞烂，拳毛倒睫。胬肉扳睛，赤筋贯瞳，翳膜遮睛，垂帘翳障。冲风出泪，漏睛脓出，伤寒流毒，乌珠下陷。乌珠突出，偷针时发，胞肉生胶，风牵㖞斜。雀目凝睛，撞破生翳，血灌瞳神，飞尘伤目。时发有根，睑硬肿胀，瞳神胀痛，时发瘅涩。小眦赤涩，大眦赤涩。冰轮翳，梅花翳，旋螺翳，浮翳，实翳，湿翳，干翳，钉头翳，白翳，红翳，青翳，黄翳，黑翳，时发时散翳。里急外弛，跌扑损伤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "外障"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "597a4f8d94615372bfb6a7b76cf8ac364b232d8e373057f13282dea30a28ba14",
+      "content_sha256": "890fe8100c441941960954d2f4a941c90e86effebe099c3b3b9ac59535c051c6",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 209,
+        "simplified_codepoints": 209
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "0c9f96e755a7a36aef6c3a6f",
+      "title": "外障治法",
+      "volume": null,
+      "content": "世谓眼病属火，然非外受风邪，眼必不病。因腠理为风邪所束，内火不得外泄，挟肝木而上奔眼窍，血随火行，故患赤眼。及时调治，自获全愈。倘日久不治，及治而无效，为粗工所误，遂成外障等症。外障者，风凝热积血滞也，法当除风散热，活血明目，须用加减金液汤主之，外点玉华丹自愈。如患翳膜遮睛者，用仙传紫金膏点之，此膏能开瞽，或武当、人龙、此君亦妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "外障治法"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "8e5c1e37f2c135d20df75617b3c03c498480a916889f3806f39d0d6e0a9d0b65",
+      "content_sha256": "3ad20472f8516b119ae150570cd7d6f4b566293a579a77c9452781089fc601bb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        27
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 166,
+        "simplified_codepoints": 166
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "b2dbe7215ab53508dfe2f22a",
+      "title": "金液汤",
+      "volume": "外障治法",
+      "content": "治外障等症。\n软前胡（一钱） 白桔梗（八分） 直防风（一钱） 川独活（三分） 京芍药（一钱） 肥知母（五分） 荆芥穗（五分） 苏薄荷（六分） 蔓荆子（七分，炒研） 北柴胡（一钱，炒） 片黄芩（五分，炒）\n咀片水煎热服。\n如受风寒重者，初二剂加羌活（五分） 小川芎（二分） 白芷梢（二分） 后服仍去。\n如泪多者，加北细辛（二分） 家园菊（五分）\n如肿胀者，加葶苈子（三分）\n如痛甚者，加厚黄柏（三分）\n如红甚者，加连翘（三分） 桑白皮（四分） 牡丹皮（六分） 红花（三分）\n如翳膜者，加木贼（四分） 白蒺藜（八分）\n如翳障胬肉者，加石决明（一钱，煅）\n如昏懵者，加密蒙花（八分） 家白菊（五分）\n如大眦红者，加栀仁（七分，炒黑）\n如小眦红者，加酸枣仁（一钱，炒） 远志肉（甘草煎水浸软，去骨炒，一钱） 麦冬（一钱，去心） 家白菊（三分） 生地黄（一钱） 当归尾（三分） 熟地黄（一钱）\n如初发赤眼，服药六七剂可愈，目无后患。（外点药）\n如屡发者，风邪积热，入在经络，遇寒即发，服金液汤十余剂后，或作散，或作丸服，调理三十四日，外用玉华丹日点一次，即愈。\n如体虚者，须用加减地黄丸，空心服，饭后用金液散，此法最妙。\n如服金液汤，须饭后热服，每日止服一剂，不可骤进，恐伤胃气。服至六七日，自愈。\n如外障等症，多是有余，不可妄投补剂，恐助邪，为害不浅。\n如内热甚者，大便闭结兼以体旺年少之人，加大黄一二钱，通后除去，此病北京最多，汤用五龙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 28,
+      "source_path": [
+        "外障治法",
+        "金液湯"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "dd48fb07e3788dc005e427161c60ed874b1c87f0693ef2c77f355a03f115de3a",
+      "content_sha256": "ee0606572c4fceeb5191c82d536b0427f3d73176448c8a72c8c35574e39568d7",
+      "paragraph_count": 19,
+      "paragraph_ordinals": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 616,
+        "simplified_codepoints": 616
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "468aca532133ec5239bc33af",
+      "title": "五龙汤",
+      "volume": "外障治法",
+      "content": "治暴赤肿痛，如北地体旺者，宜服。\n陈麻黄 荆芥穗 白桔梗 牛蒡子 庄大黄\n咀片各一钱三分，作一剂，生姜五钱，葱头二两为引，服后肿消红退，仍用金液汤三四剂，外点玉华丹。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "外障治法",
+        "五龍湯"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e3bcc0a89e92a9d98353e4cca7374264fa250b513b6623eb5596b5cbd1204a8a",
+      "content_sha256": "2e83231850e3c9e3e116187e490e8959de9bf4c8c6c587d8c137fe1e8bdd66f7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        49,
+        50,
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 83,
+        "simplified_codepoints": 83
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "66eda73ae5aac54b5d622ee8",
+      "title": "玉华丹",
+      "volume": "外障治法",
+      "content": "治眼患外障，红肿羞涩，昏懵翳膜等症。\n芦甘石（二两，取白而轻者如云片及羊脑髓样） 川黄连（一两，去芦切碎，水一盅浸半日，隔汤煮汁） 童便（一盅，取男半岁无病者同连汁和作一碗）\n将甘石置倾银罐内，炭火煅成碧色取起，以连汁、童便淬之，如此煅淬七次，加朱砂三钱，同研为末，水飞去脚，候干又研，极细如尘，收贮听用，名曰丹头。另制珍珠，将珠钱许，置豆腐内，碗盛蒸一时久，研极细，收贮听用。\n丹头一钱，加珠末一分，旋研，冰片三分和匀，入瓷罐封固。凡一切外障眼，以银簪或象牙簪沾药，点两眦内，闭一饭久，仍以簪拨出药屑，每日早饭后点一次，或夜点亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "外障治法",
+        "玉華丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "ccf021f5dfe8c2541701e28b8a91840e9492ba6fed53222230e28c48bb2ed3e0",
+      "content_sha256": "8ef2d6b3306f37e69d7e646e39938fc966d9f0736417c969ef6392f406bdb7d1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        53,
+        54,
+        55,
+        56
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 267,
+        "simplified_codepoints": 267
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "bd36ef0b50bd40fc329f5e46",
+      "title": "仙传紫金膏",
+      "volume": "外障治法",
+      "content": "真黄丹（五两，研细水飞，候干，用厚绵纸盛锅内炒熟取起，地上候冷，又炒又冷，如此九次，去尽铅气，又研如尘，听用） 川黄连（去芦净，二两，切碎） 石燕（一雌一雄，大者如槟榔，与石蟹等分，捣末水飞，听用） 石蟹（不拘一个二个，与石燕雌雄等分，捣末水飞） 诃子（十二个） 真熊胆（三钱或五钱，多则效速，试法尘撒水面取粟许，滴水上，其尘分开，方真，此眼药神品） 冬白蜜（滤净，八两）\n先将连、诃用井水三碗，煎至一碗半，以蟹、燕为细末，水飞过，调和药汁同蜜，银锅慢火煎三五沸后，入丹再煎，取柳条或桃槐条，不住手顺搅，用水一盆在旁。如沸起，即抬锅放水盆内，待药有丝为度，入熊胆，再旋百余旋，勿令鸡犬生人妇人见之。此方专治男妇一切眼疾，双目不见十余年者，竟能还明，但用两蛤许，每日点五七九次，不用双点，初点七日，停三五日，又点七日，用灯草搌其翳膜，眼自明矣。如重者不过三七日，神效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 57,
+      "source_path": [
+        "外障治法",
+        "仙傳紫金膏"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "01952ab07ce145fe361b82910c8f4bbd00b3f3c01b58c269c70def3dd6220d6c",
+      "content_sha256": "2e3ca232e74ba967da594571a68b33550f7a6a6d9b347d77ac14978ff1997107",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        58,
+        59
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 383,
+        "simplified_codepoints": 383
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "de108868d1901f31ad752828",
+      "title": "七宝膏",
+      "volume": "外障治法",
+      "content": "去诸翳障。\n珍珠（三钱） 琥珀（三钱） 水晶（三钱） 龙齿（一钱） 石决明（三钱） 熊胆（三钱） 龙脑（旋加五分）\n上捣碎研细，水五升，砂锅内煎至一升，去粗，用银锅熬至一盏，入净白蜜五钱，和为膏，每夜卧后点之，旦不可点。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 60,
+      "source_path": [
+        "外障治法",
+        "七寶膏"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "0e6502013b18bbcb3e5a0ecbab56408ff8d8981f5a7daf976be6fbbd379c9ee9",
+      "content_sha256": "e0d83311bb4c082e009342eab82ee70acf043591b05c43f05cbf871f2cc072d8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        61,
+        62,
+        63
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "b95e5a969bf44fc20ada2afb",
+      "title": "武当秘授仙方",
+      "volume": "外障治法",
+      "content": "武当山上一仙方，泄漏天机不可当，巴豆蕤仁和制石，硇砂龙骨白丁香，不论远年翳膜障，管教一点便开光。\n制石（二钱） 巴豆（一钱，去壳） 蕤仁（一钱，二味同煎水去渣，以水入制石内，候干听用）\n硇砂，用田螺一个，漂二日，泥净开口时，以硇砂三四分入内，候其化水，以银铫煎干收贮，每用二厘。\n龙骨（火煅为极细末，二分） 白丁香（取两头尖者，端午取用，甘草汤浸一宿，晒干研细收贮，旋加少许点翳膜胬肉）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 64,
+      "source_path": [
+        "外障治法",
+        "武當秘授仙方"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "5c87388a25721c99937a3f5f3e87b26360daccf1ca5924ffbc94cd8df1dfb882",
+      "content_sha256": "e3208f10de392e536c280c2300ceeb433b32f4c81816c9915fdcbc0cb4654025",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 193,
+        "simplified_codepoints": 193
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "f9883f124298fabd7fb971c5",
+      "title": "人龙散",
+      "volume": "外障治法",
+      "content": "治红肿翳膜。\n人龙一条，取壮大色白者，以线系首尾，入长流水洗净，将瓷尖破开，滴白浆，入制石内，点目亦效。\n一去胬肉，用杏仁百粒，捣烂取汁，调制硇砂点，或又用白丁香亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 69,
+      "source_path": [
+        "外障治法",
+        "人龍散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "3a98c76cfb0078bc1fb0119f6623a075a78e21f4e4feab82566906c2a6537f6f",
+      "content_sha256": "756bb3ddce614de46f5a79701edf84244822838d64c268a3cbbaf19fca58f676",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        70,
+        71,
+        72
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "a025f89836095488cdceb16d",
+      "title": "此君丹",
+      "volume": "外障治法",
+      "content": "治翳。\n淡竹壳不拘多少，用布拭去毛，烧灰存性，每药一钱，加麝香三五厘，同擂细末，点在翳上亦妙。\n凡治外障眼，切不可用刀针钩割，恐伤眼血，后成痼疾，不可治疗。经曰：眼得血而能视，则血何可损也。但用金液、玉华等方，自愈。\n一凡飞丝入眼，用盐一粒，在口噙化，其丝自出，或用香草子一粒入眼，其子在眼走动，搌丝拨出，自愈。\n一凡嘴眼歪斜，服去风药数剂，脉平又服温补，外用鳝鱼血磨白芨涂面一边，立见其貌端正矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 73,
+      "source_path": [
+        "外障治法",
+        "此君丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "87b188944e02fce9df1caf3af3549e01607e11e344c506b461fe5fca8ca479c2",
+      "content_sha256": "6cadc0c01822eecbb6ba714f0c5b804e902c343b0409595069bba00d8a099dd5",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "6c80b8247f6f91b9cc168ced",
+      "title": "刘禹锡方",
+      "volume": "外障治法",
+      "content": "治一切患眼。\n用黄连末、蕤仁去皮研以上各等分，枣二枚，开头少许，去核，以药填满，仍将枣头合上绵裹，用银锅煎水一碗，至小半滤起，待冷洗眼立效。（枣用大而端正者）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 79,
+      "source_path": [
+        "外障治法",
+        "劉禹錫方"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "6da17d114187e77fc0fac444ba38d6308762acd6e370dd04441c1e5b708c3f5d",
+      "content_sha256": "5c3ba4a463bc4e65d2f437067a060c6987699f4fd0aeff97c9d727f308625295",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        80,
+        81
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 79,
+        "simplified_codepoints": 79
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "1d593b9afa955645d91e7914",
+      "title": "㗜鼻碧云散",
+      "volume": "外障治法",
+      "content": "治一切外障等症，如开锅盖法。常使邪毒不闭，令有出路。然力少而锐，㗜之随效，宜常㗜以聚其力。\n鹅不食草（二钱） 青黛（一钱） 川芎（一钱）\n上研为细末，先噙水满口，每用如米许，㗜入鼻内，以泪出为度。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 82,
+      "source_path": [
+        "外障治法",
+        "㗜鼻碧雲散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "f455935604adbb19898bf92fa70ed94907031b2d88ee48ed4e11c291f8d2c6e9",
+      "content_sha256": "f7748d2dc8bc00fccdf8fcd1354053b64b03547dd63da3e090c6e1c255df823a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        83,
+        84,
+        85
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 98,
+        "simplified_codepoints": 98
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "848c1f3241ac12ec0b37a33e",
+      "title": "内障",
+      "volume": null,
+      "content": "绿水灌瞳，蝇影飞越，瞳神阔大，抱轮红，瞳神焦小，亡血过多昏暗，瞳神返背，能远视不能近视，瞳神缺陷，能近视不能远视，瞳神破损，妇人胎风，瞳神空散，倒经血出，坐起生花，小儿痘翳，青盲翳障，小儿疳伤，冷泪时出，黑雾蔽空，眩晕转睛，雀目夜发，乌风时发，不能久视。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 86,
+      "source_path": [
+        "內障"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "68cc5620e3abbeebdd0b9ce47dc8d1e59f3a99b94e9e9bb969703413469efaeb",
+      "content_sha256": "6b53d0fb03bd865e62ca7ec69968c899694b86b3a86e2cfcc3f72e35c631356c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        87
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 127,
+        "simplified_codepoints": 127
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "b93876ae4cfa2586468b3013",
+      "title": "内障治法",
+      "volume": null,
+      "content": "内障受病，多因瞳神不红不肿，人不经意，日久不治，便成痼疾。瞳神属肾，又通胆腑，人身最灵者，惟此瞳神。而人身最重者，惟此肾经，所谓乙癸同源之义也。夫人有阴虚者，有阳虚者。阴虚则水不滋木，少火挟肝木而上炎，肝通眼窍，眼斯病矣。盖肾经如太极图也，水火具焉。右肾属阳水，左肾属阴水，命门少火居中。少火者阳也，以一阳陷于二阴之中，成乎坎之象，故易谓天一生水也。水火和平，百骸通畅，然脾土非少火不生，肝木非肾水不养，脾气足自生肺金，肝气充自培心火，则肾为五脏之源，所谓先天真气，生身立命，正在此也。故无水者，壮水之主以镇阳光。无火者，益火之源以消阴翳，非独治目，诸症可例推矣。此水火乃无形之水火，即先天真阴真阳也，阴虚补阴，阳虚补阳，脉候参之，庶几勿失。若水火有亏，瞳神受疾，遂为内障等症。内障者，血少神劳，肾虚也，法当养血补阴，安神明目，须用加减地黄丸主之，空心服，兼进五宝丹，饭后服，自获奇效。或千金磁朱丹，与石斛夜光丸，连服，及后方选用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 88,
+      "source_path": [
+        "內障治法"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "8109cd2c7ee6632eb3b07619e9f4272a302cf2e864062f87a6752a77a6fce76f",
+      "content_sha256": "8483666140925455c85b8b6bc4b6a06f9aba524599f6899f72110d74d814ed98",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        89
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 416,
+        "simplified_codepoints": 416
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "212215e5e5145920f7e6c7e7",
+      "title": "六味地黄丸",
+      "volume": "内障治法",
+      "content": "壮水之主，左尺微弱，补水以配火。\n怀地黄（酒洗蒸晒九次，又酒煮烂捣膏，八两） 怀山药（四两，炒） 山萸肉（去核，四两，洗蒸慢火炒） 白茯苓（去皮屑，净蒸过晒干，三两） 牡丹皮（去骨，三两） 光泽泻（去毛，三两）\n俱为末，同地黄膏捣匀，加炼蜜为丸，如梧子大，每日空心，用滚水吞三钱，即以美膳压下。直至肾经，且无泥膈之事。\n加当归、五味、生地黄、柴胡，名益阴肾气丸。（等分）\n加枸杞白菊。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 90,
+      "source_path": [
+        "內障治法",
+        "六味地黃丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "9da0fe8d4712c578140ecfac20cfb30e5747ca584b50c4862cdc4cc36e41862a",
+      "content_sha256": "1a9690336ff2402a4a22860637cbe6de99034bbb4a52a5eb66b75627a219819a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        91,
+        92,
+        93,
+        94,
+        95
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 192,
+        "simplified_codepoints": 192
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "339eae9ee239e3a0020f73c6",
+      "title": "八味地黄丸",
+      "volume": "内障治法",
+      "content": "益火之源，右尺火衰，补火以固本。\n六味加制附子（一两） 肉桂（一两）\n愚以附、桂性烈，用还少丹代之，尤妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 96,
+      "source_path": [
+        "內障治法",
+        "八味地黃丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "abac189a9826b59f275279bd40e485e8f95933c460df4179c1dcb725b233980b",
+      "content_sha256": "952d5af06eb752fd42696b65a728c5d90418305ee401f8c7437366d3c8990474",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        97,
+        98,
+        99
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 53,
+        "simplified_codepoints": 53
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "b29488fbb30b218296ba4da8",
+      "title": "还少丹",
+      "volume": "内障治法",
+      "content": "滋补肾水，温养少火，诸虚百损，男妇咸宜，久服却病延年。\n怀地黄（四两，酒润蒸晒九次，竹刀切片，酒煮捣膏） 甘枸杞（四两，人乳蒸二次，乘热同地黄捣） 肉苁蓉（二两，酒洗去浮甲，蒸过同地黄捣） 川巴戟（酒浸去骨晒干，二两，炒研） 川续断（二两，酒炒） 川牛膝（二两，酒炒） 川杜仲（二两，姜汁炒断丝） 山萸肉（去核净，二两，酒洗蒸过，晒干，炒） 远志肉（水洗去骨，晒干，二两，炒） 石菖蒲（用小而节密者去毛二两炒） 楮实子（拣净，二两，炒） 小茴香（二两，炒） 白茯苓（去皮木屑，水淘净，蒸过晒干，二两） 怀山药（二两，蒸炒）\n各制就和匀，用枣肉二百枚，捣和，加炼蜜为丸，如梧子大，每日早晚滚汤好酒，任服任吞五七十丸。此丸久服健筋骨，利关窍，充精血，美颜色，有大滋益，养生至宝。昔仙密授妇人服之，果得高寿，且如童颜。因子不服，须发皓然，筋骨痿软，时当怒责，一官遥见，拘问女何打父。妇曰：是吾子也，不服吾药故打之，取方叹赏，名打老儿丸。原系孙真人自龙宫得来，凡肾经补药，俱可渐加。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 100,
+      "source_path": [
+        "內障治法",
+        "還少丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "43b5d3526906cec1cd3d9e0c55eeb84d17d6024c868588257c15b2e013ad8249",
+      "content_sha256": "7e44fcf311ebd9cdb20aed9b2326c8f2a6e34971bcc735928734ad6979f04cae",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        101,
+        102,
+        103
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 437,
+        "simplified_codepoints": 437
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "5feb9143488a0571892ff4bc",
+      "title": "加味逍遥散",
+      "volume": "内障治法",
+      "content": "治郁怒伤肝，眼目赤涩昏暗，妇人多有之，血虚发热，口干自汗，月经不调，腹痛等症。\n大当归（酒洗，一钱） 白芍药（酒炒，一钱） 白茯神（去皮，一钱） 白术（土炒，一钱） 北柴胡（炒，一钱） 牡丹皮（一钱） 苏薄荷（三分） 甘草（三分） 川黄连（三分，用吴茱萸煎汤拌炒）\n上咀片水煎。古方有栀仁，赵氏恐其伤胃气，故去之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 104,
+      "source_path": [
+        "內障治法",
+        "加味逍遙散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e24395e453474f8d7e7ee9f38a939990feb72a96fc6209f714f4c0b6647986ef",
+      "content_sha256": "c478e1234e8e1226e68ebf64f0e8914369a421b3ff6e07a5270a2794e3af1abf",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        105,
+        106,
+        107
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 157,
+        "simplified_codepoints": 157
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "fecc7b5c3a190911350b001c",
+      "title": "归脾汤",
+      "volume": "内障治法",
+      "content": "治思虑伤脾，不能摄血，或健忘怔忡，惊悸盗汗，寤而不寐，或心脾作痛，嗜卧少食，大便不调，或肢体重痛，月经不调，赤白带下等症。\n人参（一钱） 白术（一钱） 茯神（一钱） 枣仁（一钱） 远志（一钱） 归身（一钱） 黄耆（一钱） 木香（三分） 甘草（三分）\n上咀片水煎，龙眼肉三个为引。心藏神而主血，肝藏魂而藏血，脾藏意而统血。若思虑俱伤，而血不归经，故有前症，治以此方，使气血和畅，补肝实脾。血之散于外者，悉归中州，而听太阴所摄矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 108,
+      "source_path": [
+        "內障治法",
+        "歸脾湯"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "64be0d4a403e2405f63b8731ba290a75e94cd141c0894e6fb577418b6ce48063",
+      "content_sha256": "236679c291c446efea300ec9be743c635373b13fce3db5c113045b92bfd92af5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        109,
+        110,
+        111
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 213,
+        "simplified_codepoints": 213
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "504c013693700710dd05a53a",
+      "title": "天王补心丹",
+      "volume": "内障治法",
+      "content": "治心血不足，神志不宁，津液枯竭，健忘怔忡，大便不利，口舌生疮等症。\n人参（去芦，一两） 元参（炒，一两） 丹参（炒，一两） 天冬（去心，一两） 麦冬（去心，一两） 五味子（蜜浸蒸，如生用亦可，二两） 柏子仁（炒，二两） 酸枣仁（炒，二两） 远志肉（甘草煎水浸一宿炒，二两） 白茯神（去皮木，二两） 归身（酒洗烘，二两） 白桔梗（炒，五钱） 生地黄（酒洗姜汁炒，二两，研，忌铁器）\n上为末，炼蜜为丸，如椒目大，白滚汤吞服三钱，卧时服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 112,
+      "source_path": [
+        "內障治法",
+        "天王補心丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "7dbc82da48b073a28d55244f74494399c6d79bfdf71911357bb3b1fb0e9bda41",
+      "content_sha256": "2a866198280667759527da1f4de2739ed877b169ce703c5a6d9d6407204f66d9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        113,
+        114,
+        115
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 216,
+        "simplified_codepoints": 216
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "9ddda537da136f5e767db315",
+      "title": "五宝丹",
+      "volume": "内障治法",
+      "content": "主开瞽复明，瞳神缺者能圆，陷者能起，突者能平，真至宝也。\n夜明沙（水洗极净晒干醋炒） 晚蚕砂（拣去土子极净，醋炒） 凤凰退（壳内白衣洗净，微火焙干，如焦者不用） 老母鸭肝（水泡切片，新瓦焙干，忌铁器） 嫩雄鸡肝（制如前）\n各为极细末，各等分和匀，每日早晚用酒调服三钱，服至七日见效。如重者，再服一料自愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 116,
+      "source_path": [
+        "內障治法",
+        "五寶丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "b77808f45d7fa73d382ec68f4e467e5e6e733b52195fa8f1de02f26d07e0c0ca",
+      "content_sha256": "7883b5c0fa7d899dc6ed60da0bb1694dc9bf46ce5aa031af526f556e7dd5a044",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        117,
+        118,
+        119
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 152,
+        "simplified_codepoints": 152
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "faafe661050321d667b7f0cb",
+      "title": "千金磁朱丹",
+      "volume": "内障治法",
+      "content": "治神水宽大渐散，昏如雾中行，渐睹空中黑花，又渐睹物成二体，久则光不收，及内障神水淡绿色淡白色者。\n磁石（吸针者，二两） 辰砂（一两） 神曲（四两）\n共三味，先以磁石置巨火中煅，醋淬七次，晒干，另研极细，水飞候干二两，辰砂另研极细，水飞候干一两，生神曲末三两，与前药和匀，更以神曲末一两，水和作饼，煮浮为度，掺入前药内，炼蜜为丸，如梧子大，每服二十丸，加至三十丸，饭汤送下，空心服。\n上方以磁石辛酸寒，镇坠肾经为君，令神水不外移也，辰砂微甘寒，镇坠心经为臣。肝其母，此子能令母实也。肝实则目明，神曲辛温甘，化脾胃中宿食为佐。生用者发其生气，熟用者敛其暴气也。服药后，俯视不见，仰视渐睹星月者，此其效也。亦治心火乘金，水衰反制之病，久病屡发者，服之则永不更作，空心服，午前更以石斛夜光丸主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 120,
+      "source_path": [
+        "內障治法",
+        "千金磁朱丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "7a69e1b1375559c17dbe6517e00335ca071911e15fb70fd1a105f4f2391a1dfb",
+      "content_sha256": "17f906095a9701050f6f499eb0c0002c3a21144f943c58591c12034a40ec6df1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        121,
+        122,
+        123,
+        124
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 344,
+        "simplified_codepoints": 344
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "62ad3a508301196fd3e8be6d",
+      "title": "石斛夜光丸",
+      "volume": "内障治法",
+      "content": "治症上同。\n天门冬（去心焙，二两） 拣人参（二两） 菟丝子（酒煮制研，七钱五分） 五味子（炒，五钱） 麦门冬（去心焙，一两） 杏子仁（泡去皮尖，七钱五分） 白茯苓（去皮，二两） 枸杞子（七钱五分） 川牛膝（七钱五分） 生地黄（一两） 熟地黄（一两） 家白菊（七钱五分） 白蒺藜（五钱） 金石斛（五钱） 肉苁蓉（五钱酒洗去浮甲） 真川芎（五钱） 中甘草（五钱，炒） 陈枳壳（去穰面炒，五钱） 怀山药（七钱五分） 青葙子（五钱，炒） 直防风（五钱） 川黄连（五钱，炒） 草决明（七钱五分） 羚羊角（镑末，五钱） 乌犀角（镑，五钱）\n上二十五味制末，炼蜜为丸，如梧子大，每服三五十丸，温盐汤任下。\n上方滋补药也，补上治下，利以缓，利以久，不利以速也。故君以天冬、人参、菟丝之通肾安神，强阴填精也。臣以五味、麦冬、杏仁、茯苓、枸杞、牛膝、地黄之敛气除湿，凉血补血也。佐以菊花、蒺藜、石斛、苁蓉、川芎、甘草、枳壳、山药、青葙之疗风治虚，益气祛毒也。使以防风、黄连、草明、羚羊、乌犀之散滞泻热，解结明目也。阴弱不能配阳之病，并宜服之，此从则顺之治法也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 125,
+      "source_path": [
+        "內障治法",
+        "石斛夜光丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "8321392d91d7ab20846d769caa60ae79b61fb67d046c2571598adde096ffd2f3",
+      "content_sha256": "09593989c61d74b3bcbe1d4fd0e409cd2938439fcf26c2e9edb6f3ae6cd410cf",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        126,
+        127,
+        128,
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 470,
+        "simplified_codepoints": 470
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "6693d184a3416869f22d6370",
+      "title": "熊胆丸",
+      "volume": "内障治法",
+      "content": "观音治眼方，载《藏经》。一人患目翳障遮睛，诸医不效，自念惟佛可救，于是礼佛甚谨，夜梦皂衣人告曰：汝要目明，当服熊胆丸，俱在《藏经》。后依方修制服之，旬日目明，眸子了然，即治人目疾多愈。\n真熊胆（一分） 川黄连（一两五钱） 密蒙花（一两五钱） 防风（一两五钱） 川羌活（一两五钱） 龙胆草（一两） 地骨皮（一两） 蛇蜕（一两） 木贼草（一两） 仙灵脾（一两） 旋覆花（五钱） 瞿麦（五钱） 白菊花（五钱） 麒麟竭（一钱） 蔓荆子（一合） 蕤仁（三钱五分）\n俱为细末，以羯羊肝一具，煮其半，焙干入药，取其半生者，去筋膜，研烂入药，杵而丸之，梧子大，饭后米饮下三十丸。诸品修制，唯木贼去节，蕤仁用肉，蔓荆子水淘，蛇蜕炙云。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "內障治法",
+        "熊膽丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e73d6faeafa2891ec8121d57a08d3bc13235d8ccdca94411324716b34a8155aa",
+      "content_sha256": "2676afa8155ffe4c5bf5f6677b6aabdb480e1cec7deeba88e17ce2cdfda718bf",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        131,
+        132,
+        133
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 308,
+        "simplified_codepoints": 308
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "dc639b717b04156bbf9dd950",
+      "title": "乌龙丸",
+      "volume": "内障治法",
+      "content": "吕仙翁治眼方。一人性喜云水，见必邀款小阁，供奉纯阳像，奉事甚谨。一日有客，方巾布袍入，语曰：汝目昏多泪，当服乌龙丸可愈。于是依方治药服之，月余目复明矣。夜能视物，年至九旬，耳目聪明，精神如壮。\n生地黄 熟地黄（惟出怀庆者佳） 川花椒（出四川闭口者勿用）\n三味各等分为末，炼蜜为丸，如梧子大，空心盐米汤吞五十丸，竟可常服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 134,
+      "source_path": [
+        "內障治法",
+        "烏龍丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "15ef62ad070dbd8f598eeca475ce37012a531cddf82f2df93cbbad7d0d6628b9",
+      "content_sha256": "5e088d1ff6ef47f0684cd8a2641bec5e10d321a7bbf5e5db033ffe13f30455fb",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        135,
+        136,
+        137
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "cd3954ff225a8b8aa0a00618",
+      "title": "报恩丸",
+      "volume": "内障治法",
+      "content": "一官治罪囚出活之后，囚因病死矣。官患目疾，为内障所苦，丧明年余，适夜半独坐叹息，闻阶下窸窣之声，官问为谁，答曰：是昔蒙活囚，今来报恩，乃告一方。\n川黄连（一两） 白羊肝（一具，去筋膜，忌铁器）\n以连末和肝于沙盆内，研令极细，丸如梧子大，每服以滚水下三十丸，连作五剂。言讫忽不见，于是修服，数日复明矣。凡目疾皆可治，忌猪肉冷水雄鸡。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 138,
+      "source_path": [
+        "內障治法",
+        "報恩丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "40685d62e948c742464e8918a9d571354ac77ec50c50cbf4905966567f5bcd2f",
+      "content_sha256": "2b6684623af7fe52d432a89227545becc2336ae4dd0fd3b95ab1d7dec475c214",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        139,
+        140,
+        141
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "0dd70b86b3fd9c7c05eb00c9",
+      "title": "孝感丸",
+      "volume": "内障治法",
+      "content": "一人父殁，奉母周游四方，事母尽孝。淳熙中寓秦州，因患赤眼食蟹，遂成内障，诸医无效。素解暗诵般若经，出丐市里，所得钱持归母，凡历五载。忽夜梦一僧，长眉大鼻，托一钵，钵中有水，令掬以洗眼，复告之曰：汝此去当服羊肝丸也。意其为佛，拜乞其方，僧遂以授之。\n夜明砂（洗净） 当归（洒洗） 木贼（去节） 蝉蜕（去足）各一两，共研为末，用黑羊肝四两，水煮烂，捣如泥，入药拌和，又捣丸如梧子大，食后滚水下五十丸。服之百日复明，与其母还乡，母亡弃家遂入道矣。后竟仙去。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 142,
+      "source_path": [
+        "內障治法",
+        "孝感丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e5d36ebab5217116b732b264e50bfe4e85f18773bb537115775ce1e6c244aa33",
+      "content_sha256": "a02334c93915251bb7077bcc05def1e59d363377ca395e4235e8e561e583b84a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        143,
+        144
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 225,
+        "simplified_codepoints": 225
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "ceaf5795b18155523067a970",
+      "title": "三奇丸",
+      "volume": "内障治法",
+      "content": "治内障等症。\n熟地黄（九制） 麦门冬（去心） 车前子（去壳）\n各等分为末，炼蜜为丸，如梧子大，食前服，用滚水下五十丸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 145,
+      "source_path": [
+        "內障治法",
+        "三奇丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "bdacf366aa4c5133cfa9462fe4c09689ed87df24477b9fef4b505f79d8699927",
+      "content_sha256": "b9abe697ca9b388972e1c07bd3153ce57afd4e91056d0810128d162c8428414b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        146,
+        147,
+        148
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "5c88392e8a88c5ef6c1ceda7",
+      "title": "一子丹",
+      "volume": "内障治法",
+      "content": "葛仙翁治赤眼翳膜等症。\n大诃子（一枚）\n以蜜磨点目中。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 149,
+      "source_path": [
+        "內障治法",
+        "一子丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "1ce17cb608b320de9091e5faf16f69ece1cebae0772b791458102d59878f88dd",
+      "content_sha256": "c80406d60708de3590ad7f1f6a716b316fcf73dbc469c437d8f92b5047c2b10f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        150,
+        151,
+        152
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 27,
+        "simplified_codepoints": 27
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "8b3ef334cfa3809e9b1fc4e5",
+      "title": "二百花草膏",
+      "volume": "内障治法",
+      "content": "蜂采百花，羊食百草。\n用羯羊胆灌入好蜜搅匀，线系缚蒸过，悬风处候干，入瓶点目。\n一人患目，服黄柏、知母之类，更加便血，何也。曰：此脾虚不能统血，肝虚不能藏血也，当用补中益气汤，吞六味地黄丸，果愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 153,
+      "source_path": [
+        "內障治法",
+        "二百花草膏"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "fd84b59d7cf0790def5a869ecee484f686f349eb8103d5a7bb82440b7883cc28",
+      "content_sha256": "6e5c50fdf46b70dccf14f1fc78b33effc787fd95d88229f7813470cf0e1ab2d4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        154,
+        155,
+        156
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 98,
+        "simplified_codepoints": 98
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "ef32981e004f9d46ffe7d084",
+      "title": "补中益气汤",
+      "volume": "内障治法",
+      "content": "治劳倦伤脾，中气不足等症。\n黄耆（一钱五分，蜜炙） 人参（去芦，一钱） 甘草（一钱，炙） 归身（酒洗，一钱） 白术（土炒，一钱） 陈皮（去白，五分） 升麻（三分） 柴胡（三分）\n上咀片，姜枣水煎服。\n一富家子，忽病视正物皆以为斜，凡物必更移令斜，自以为正。其父求医，一医留其子，盛设畅饮，至醉，乃扶坐轿中，使人抬之，高下其手，常令倾侧，展转久之，方令登榻而卧，达旦酒醒，遗之归家。前日斜视之物，皆理正矣。父母跃然而喜，往谢问方何神效如此也，医曰：令郎无病，是醉中常闪倒肝一叶，搭于肺上，不能下，故视正为斜。今夏饮之，醉则肺胀，展转之间，肝亦随下矣，药安能治之哉。\n一孕妇忽然视物不明，目昏作痛。此因胎热伤肝，毒气上冲，或外伤内热，内食炙煿性热之物，以菊连汤主之，或金液汤治之，无不效也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 157,
+      "source_path": [
+        "內障治法",
+        "補中益氣湯"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "40a730ee93c39e5d2780c9163eb84000896c0e0cf653a48c1953001022ac0bc2",
+      "content_sha256": "dd399f1a4e9521e76ba073c52f37d009c812bf012ae81fd80d46dbcde236cc90",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        158,
+        159,
+        160,
+        161,
+        162
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 343,
+        "simplified_codepoints": 343
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "376c6192877006a7d89a2748",
+      "title": "菊连汤",
+      "volume": "内障治法",
+      "content": "治妇人胎风眼。\n防风（一钱） 荆芥穗（五分） 家白菊（五分） 蝉蜕（五分） 连翘（六分） 枯黄芩（七分，炒） 川黄连（酒炒，三分） 栀仁（炒黑，六分） 牛蒡子（炒研，五分） 大当归（酒洗，八分） 真川芎（五分） 白芍（酒炒，八分） 怀地黄（生用，一钱）\n上咀片，生姜一片，灯心一丸为引，热服。\n一乳妇因悸而病，既愈，目张不得瞑，医曰：煮郁李酒饮之，使醉即愈。所以然者，目丝内连肝胆，恐则气结，胆冲不下，郁李能去结，随酒入胆，结去胆下，目能明矣。以一醉饮主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 163,
+      "source_path": [
+        "內障治法",
+        "菊連湯"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e5ed8c46c613bb362b250f01aa51148235609de88314dc51ba13f1d9da394d34",
+      "content_sha256": "d2393c3a177c8adf83dc9a55d21a035b563f5b9f86262d8f48f68718f203045b",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        164,
+        165,
+        166,
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 229,
+        "simplified_codepoints": 229
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "296e01969af30dfa350d4fc7",
+      "title": "一醉饮",
+      "volume": "内障治法",
+      "content": "郁李仁（泡去皮，三钱）\n酒一瓶煮熟，饮之果验。\n一妇人年四十余，两目昏昧，咳嗽头痛，粗工罔效。一医诊脉皆细弱，脾部尤近弦弱，曰脾虚也。东垣云：五脏六腑，皆禀受脾土，上贯于目，脾虚则五脏精气，皆失所司，不能归明于目矣。邪逢其身之虚，随眼丝入于脑，则脑鸣而痛心者，君火也，宜静。相火代行其令，劳役运动，则妄行，侮其所胜，故咳嗽也。不理脾养血，而以苦寒治眼，是谓治标不治本也。症脉既详，方从意立，医者意也，因取曰如意饮。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "內障治法",
+        "一醉飲"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "13a642424d47c9ff4f78c571d963c02ecfaf13722e0d19ccb3c1f13bcc91acfb",
+      "content_sha256": "d55305195488225c248cb26f99819ec4c7dc1be76900023351de6020423841e0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        169,
+        170,
+        171
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 207,
+        "simplified_codepoints": 207
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "6050e16f8ef484ec0aaa7e5c",
+      "title": "如意饮",
+      "volume": "内障治法",
+      "content": "人参（一钱五分） 黄耆（一钱五分） 麦冬（去心，一钱） 贝母（一钱） 归身（八分） 陈皮（五分） 川芎（五分） 黄芩（四分） 家菊（五分） 麦芽（四分） 甘草（三分）\n上煎服二剂，前症悉除。\n一妇人患烂弦风眼，用覆盆子叶，旋采以手揉碎，入口中咀嚼，而留汁滓于小竹筒内听用，取皂纱蒙眼，用笔画双眸于纱上，然后滴药汁渍眼下弦，转盼间虫出纱外，以数十计，其状如丝，色赤而长。复用前法滴上弦，又得虫数十，兼服消风清热活血之剂，遂获全愈矣。\n覆盆叶（能去眼弦烂虫） 覆盆子（能治目暗不见物，冷泪浸淫及青盲等症） 覆盆子草（多取晒干，用时捣令极烂，薄绵裹之，以人乳浸之，如人行八里九里，用以点目中，即仰面而卧，不过三四日，视物如童，但忌酒面油，盖治目妙品也）\n一人患赤目肿痛，脾胃虚弱，饮食难进，诊其脉，肝盛脾弱，如服凉药以治肝，则损脾。饮食愈难进，服暖药以益脾，则肝愈盛而加病。何以治之?乃于温平药中，倍加肉桂，不得用茶常啜，恐伤脾也。盖肉桂杀肝而益脾，故一治两得之，传曰：木得桂而槁也。\n一人久患目盲，有白翳遮睛，服药罔效，盖此眼缘热药过多，乃生外障，视物不明，彼皆以为肝损肾虚，补其肝肾，则眼愈盲，治以救苦丹，一月目明。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 172,
+      "source_path": [
+        "內障治法",
+        "如意飲"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "87dbda8a63c2b781dda261a2034c613609deded60feaa17181fa600ffd9141d4",
+      "content_sha256": "14149c9488cf583e8a846b6824ed423d43d537780e33d0a2cfa857ab084220df",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 507,
+        "simplified_codepoints": 507
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "6be7109651ce44f8239db369",
+      "title": "救苦丹",
+      "volume": "内障治法",
+      "content": "公猪胆一个，微火用银铫内煎成膏，候冷，入冰片末二三厘，点入眼中，渐觉翳轻。又将猪胆白膜皮晒干，合作小绳如钗，火烧灰存性，点翳，甚者亦能治之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 179,
+      "source_path": [
+        "內障治法",
+        "救苦丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "b4d5bd75af4ef5bd2127abfe5d8982848976f802f95af4ed1188984bb62c3013",
+      "content_sha256": "4c71581cd8e68ee245089dd265b664c2284128f4b858f7f6447e7821945c4572",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        180
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 70,
+        "simplified_codepoints": 70
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "8ef8e67c41aff58a2196a7fa",
+      "title": "小儿痘毒眼治法",
+      "volume": null,
+      "content": "痘毒入眼，有赤肿而痛不能开者，有翳障遮蔽而不能视者。自古方书所论，乃俗说所传，皆以为痘疮入眼，而不知此非有形之疮，乃无形之毒也。其遮睛之翳，有似痘疮，而实非也。盖有形之疮，发于咽喉者有之，发于口舌者有之，然皆外疮起胀时，内疮亦盛，外疮收靥时，内疮亦消。惟痘眼之毒，必作于收靥之时，或还元之后，与咽喉口舌之痘迥异，此以知其非有形之疮也。盖眼者五脏气血之精华也，痘毒之郁滞于肌肤者，为痈为疖，而其留滞于精华者，则发于眼患者，毒已留于气血精华之分，则其受病也深。故患此者，当乘时调治，收功于数十剂之后，切不可卤莽草率，责效于数剂之间。何也?痘后之人，元气已弱，受毒又深，而其毒火发露在表，又在至高之位，若骤用寒凉，峻攻其里，而疏利其下，则既伤其元气，又拂逆其病势，未有不至于丧明者。且或生他症，而为大患者多矣。须用清毒拨翳汤，从容调治，使其毒气渐退，而元气不损，此方不失一之术也。切戒熏洗。若日久不治，亦致失明。患此症甚多，彼不知治法，又何怪乎。\n清毒拨翳汤\n防风（五分） 荆芥穗（四分） 苏薄荷（四分） 前胡（七分） 蔓荆子（四分） 京芍药（六分） 桔梗（五分） 北柴胡（七分） 片黄芩（五分，炒） 连翘（四分） 肥知母（五分，炒） 牛蒡子（五分，炒研） 白菊（三分） 密蒙花（四分） 白蒺藜（七分，去刺） 木贼（三分） 牡丹皮（四分）\n水煎热服。\n如红甚，加红花（三分） 桑白皮（四分，蜜水炒）\n如翳膜遮睛，加石决明（八分，煅研）\n如多泪，加北细辛（三分）\n如内热甚，加黄连（三分，炒）\n如甚者，可兼用后数方。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 181,
+      "source_path": [
+        "小兒痘毒眼治法"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "fa39e7941392a5c83a4407e14965130733eb8af16ddbc6cbb3df882f683af6d8",
+      "content_sha256": "349a7c2125a86cc29f2ac7245a58928700b44bfd9426118f12bc5e160cf44046",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 654,
+        "simplified_codepoints": 654
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "91687fd0a3e43e6f0c37cddc",
+      "title": "紫龙丹",
+      "volume": "小儿痘毒眼治法",
+      "content": "治小儿痘毒眼，外用吹耳。\n黄丹（五分） 真轻粉（五分）\n俱为末，研匀，如左眼患吹右耳，右眼患吹左耳，每日吹二次，每用厘许。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 191,
+      "source_path": [
+        "小兒痘毒眼治法",
+        "紫龍丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "6cf7f1e8ba74bf13ffde4045df8e072f4ccad9735fc46d21866df87e6ca8b910",
+      "content_sha256": "436e4769f67f943e4a799435243f25b99946bdf957910c892f3ab415c8c35690",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        192,
+        193,
+        194
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 61,
+        "simplified_codepoints": 61
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "c3bf320a1264b4094ddafc91",
+      "title": "密蒙花散",
+      "volume": "小儿痘毒眼治法",
+      "content": "治症前同。\n密蒙花（酒洗晒干，五钱） 蝉蜕（去足土，五钱） 谷精草（五钱） 望月沙（洗净晒干，即兔粪，一两）\n俱为末，每用獖猪肝一两，以竹刀披开，将药一钱和在内，用碗盛蒸熟服，亦效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 195,
+      "source_path": [
+        "小兒痘毒眼治法",
+        "密蒙花散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e4ce1e3de00eee7bbfe89413850fe8c4f5f46e635a0d79f22608cc6940180b5e",
+      "content_sha256": "bf6ee016a8dfcea5353cc4047b457469d3904f416f867e8fc558141b6ea903dd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        196,
+        197,
+        198
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 91,
+        "simplified_codepoints": 91
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "ed9fd06ccfcf83f6eb80f5c9",
+      "title": "谷精草散",
+      "volume": "小儿痘毒眼治法",
+      "content": "治症同前。\n谷精草（一两） 生蛤粉（二两）\n俱为极细末，每用獖猪肝一两，去净筋膜，以竹刀切片，和药一钱，蒸熟服效。以上二方，用母鸡肝亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 199,
+      "source_path": [
+        "小兒痘毒眼治法",
+        "穀精草散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "90f9a547283dae30cdcde64734dd8aa15a4aeac3ab623bb9f7fe64160e74bd64",
+      "content_sha256": "cd792f42b9990a3fbe66a00df97957d36528cbd7a6e530098b16b7cd80d03f41",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        200,
+        201,
+        202
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 69,
+        "simplified_codepoints": 69
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "39c641e7d3fb585ba9c9d6a1",
+      "title": "小儿疳积眼治法",
+      "volume": null,
+      "content": "小儿肠胃柔脆，早不可饥，晚不可饱，衣服随时，自不生病。因饮食失宜，过饥过饱，食后便睡，日晚加餐，寒热不调，外感或少，内伤实多。元气阻滞，渐致虚弱，遂难运化，酿而成疳。又贪饮食，肌肉愈瘦肠胀下利，日久不治。疳虫伤肝，目则病矣。或闭或翳，而变生诸症，从而夭折，可不悲哉。医不及时，治非良法，尚不觉，久则丧明。须用秘授玉龙丹主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 203,
+      "source_path": [
+        "小兒疳積眼治法"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "8602f42334315ba96fa75be9bb62f477af3d387c9f66ab4bb766c1533b0da67d",
+      "content_sha256": "b80ed0b1edaf8c387a0642804b629f0402563885e3d52b83e7e340fdc1f0d869",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        204
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 162,
+        "simplified_codepoints": 162
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "07af2bfb688cf4c22e07bcba",
+      "title": "玉龙丹",
+      "volume": "小儿疳积眼治法",
+      "content": "治小儿疳积伤眼。\n真雄黄（为末，水飞候干，三钱） 寒水石（煅为末，九钱）\n上二味和匀，每日用鸡肝一具，竹刀切片，去净筋膜胆，同药一钱，入酒一盏，碗盛蒸食，五日见效，竟能开瞽。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 205,
+      "source_path": [
+        "小兒疳積眼治法",
+        "玉龍丹"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "b6b010ef71073ce041d06253d365aeebf59608431619d502957f17d73056f1d1",
+      "content_sha256": "3a03ee2be6bacaa9b0c083787d7ab59f4ffe083fa1930cd101561723a5f15df8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        206,
+        207,
+        208
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "0750ac23c75673b2dc03e889",
+      "title": "治小儿雀目法",
+      "volume": null,
+      "content": "世传雀目者，何也?曰：每至日晚，二目不见，又号鸡盲眼，经谓眼得血而能视。肝血有亏，热入血室故也。血主阴，晚夜属阴，以类相从，治不得法，亦能为害。须用照月饮主之，或决明夜灵散更妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 209,
+      "source_path": [
+        "治小兒雀目法"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "888176bdcb70630dca0df30e323a28a07c1445a15757808e5f85704cfc4b798c",
+      "content_sha256": "31410875a28d1fe4e16676822fde2ae00353795855783216740e329ec5c62677",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        210
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "b0820c680524f39c5d65c82a",
+      "title": "照月饮",
+      "volume": "治小儿雀目法",
+      "content": "治雀目立效。\n真雄黄（为末水飞候干）\n用生鸡剖取热肝，擂极烂，和黄五厘，温酒调服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 211,
+      "source_path": [
+        "治小兒雀目法",
+        "照月飲"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "73942927d13866c7895a59405d95056e30b0c2e1c5a7d0a71f2959af20ce0208",
+      "content_sha256": "aeb527cf59bb0860c402a2ecca9fbed31390f811593d3eee95ac3c0e39b1309d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        212,
+        213,
+        214
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 41,
+        "simplified_codepoints": 41
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "351f2abc94aa93c6c792426b",
+      "title": "决明夜灵散",
+      "volume": "治小儿雀目法",
+      "content": "治雀目，大人亦有此症，并治。\n石决明（洗煅为末） 夜明沙（洗净为末） 公猪肝（每用一两，羊肝更妙）\n以竹刀切开肝，作二片，将药各二钱，铺在肝上合定，用线缚之，入沙罐内，米泔水煮熟，临睡时，连肝药汁俱服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 215,
+      "source_path": [
+        "治小兒雀目法",
+        "決明夜靈散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "b236a177c695bb85c541d17c6bbd71139f53a2f2582f3a9cba25bde9694e5dc7",
+      "content_sha256": "c07217c10d219ca30142c461a5019eb4dde8e6207ea6ca0bd587974dfb6a3939",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        216,
+        217,
+        218
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 101,
+        "simplified_codepoints": 101
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "01aea6ee42c8fda277d429b9",
+      "title": "明目地黄丸",
+      "volume": "附刻薛氏选方",
+      "content": "治男妇肝肾俱虚，风邪所乘，热气上攻，目翳遮睛，羞涩多泪。\n牛膝（酒浸，三两） 石斛（四两） 枳壳（四两，炒） 杏仁（去皮尖，四两） 防风（四两）生地黄（一斤） 熟地黄（一斤）\n上为末，炼蜜为丸，如梧子大，每服三五十丸，食前盐汤下。\n按：此方可治内外二障，但体虚者及年老者，甚宜。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "附刻薛氏選方",
+        "明目地黃丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "d7c08e3af312748887dda9a1cb35f9ff0cb8cbd86035acbcb86a1f017676459d",
+      "content_sha256": "6a31c7144755dd782db0c993b8a8de6092ae60a02ca098900383de545c6d1a6c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        221,
+        222,
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "e8361c5a3546f80e6539ece0",
+      "title": "加减驻景丸",
+      "volume": "附刻薛氏选方",
+      "content": "治肝肾气虚，两目昏暗，视物不明。\n熟地黄（八两） 当归（五两） 川椒（一两） 楮实（一两） 菟丝子（八两） 五味（二两） 枸杞（三两） 车前（五两）\n各制末，蜜丸梧子大，每服三五十丸，食前温酒下。\n按：此方治内障，滋养神水，目自明矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "附刻薛氏選方",
+        "加減駐景丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "50580dc4d4c6f2cdea787d3155e81586f2b4bbe5331ad323d24763bb9499565c",
+      "content_sha256": "7d0e01f963d4649efbab94997bbd1392f00c64d6fae7abddd72322977b9acd2f",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        226,
+        227,
+        228,
+        229
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "7811c81b63a9234b9ed6dbc3",
+      "title": "地芝丸",
+      "volume": "附刻薛氏选方",
+      "content": "治目能远视不能近视，渐至近亦昏蒙。\n生地黄（焙干，四两） 天门冬（去心，四两） 枳壳（二两，炒） 甘菊花（二两）\n上为末，蜜丸梧子大，茶清送下百丸。\n按：阴虚不能近视，此方补阴药也，故主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 230,
+      "source_path": [
+        "附刻薛氏選方",
+        "地芝丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "48ccf20ed5d75861bb56aba5e0021233a13d57242963b76d893aff3291760c13",
+      "content_sha256": "7de6b8dcea3d9faf017a326df9f61c13a61c9e043cbf0efbe07e635025f77699",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        231,
+        232,
+        233,
+        234
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "78eaee0d138e528de6dd9e49",
+      "title": "定志丸",
+      "volume": "附刻薛氏选方",
+      "content": "治目能近视不能远视者。\n白茯苓（三两） 人参（三两） 远志肉（二两） 石菖蒲（二两）\n上为末，蜜丸如梧子大，以朱砂为衣，每服七丸至二三十丸，温米汤下，食后服，日三服。\n按：阳乏不能远视，此方补阳药也，故主之。但此症年老宜之，空心当服还少丹及补肾阳之药。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 235,
+      "source_path": [
+        "附刻薛氏選方",
+        "定志丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "c56e892082488364cea83a185fc46c4dbb8de5a0a91be45d1e3a0af245854dab",
+      "content_sha256": "95ae145b205a0e85d3b3e02e79a007fa600af1ab130a2849a0c438b53795590d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        236,
+        237,
+        238,
+        239
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "398d1ca1191d49591b21863e",
+      "title": "菊睛丸",
+      "volume": "附刻薛氏选方",
+      "content": "治肝肾不足，眼目昏暗，常见黑花多泪。\n枸杞子（四两） 肉苁蓉（一两） 巴戟天（一两） 甘菊花（四两）\n上为末，蜜丸如梧子大，每服五十丸，盐汤温酒任服。\n按：此方专补命门少火，此水中之火不足。盖水滋肝木，肝通眼窍，是以神水足而神膏养，神光自发，瞳神可保无恙矣。明目何疑，可加熟地八两。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 240,
+      "source_path": [
+        "附刻薛氏選方",
+        "菊睛丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "556987f540b25c6a9a2bfd253b0b075db855ac2cf0baa9f1e91ea0db683f444e",
+      "content_sha256": "01fd2001572553a5b0f488b3cf264068de8dc344ac69739e1fe0f371ddde92ee",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        241,
+        242,
+        243,
+        244
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "e1f012106bee401b37417bb0",
+      "title": "五秀重明丸",
+      "volume": "附刻薛氏选方",
+      "content": "治翳膜遮睛，隐涩昏花，常服清利头目。\n甘菊（开头五百朵） 荆芥穗（五百穗） 木贼（去节，五百茎） 川花椒（五百粒） 楮实子（五百粒）\n为末。蜜丸弹子大，每服一丸，细嚼徐徐咽下。\n按：此方俱轻清上行之品，治标可也，宜暂用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 245,
+      "source_path": [
+        "附刻薛氏選方",
+        "五秀重明丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "17e8d3a0eb3a5e5290d36d71a6ba6ffc93b8c395259921f668289b5e38b429a0",
+      "content_sha256": "60455f212270c4f6c346374f0bb44a99228d894a9c9c9f8019308a8b71badee4",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        246,
+        247,
+        248,
+        249
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "7e6e9c1a4f99a625edcf0a62",
+      "title": "瑞竹四神丸",
+      "volume": "附刻薛氏选方",
+      "content": "治肾经虚损，眼目昏花。\n甘枸杞（一斤，取色赤滋润者作四分，用酒一杯润之）\n一分川椒一两同炒，一分小茴一两同炒，一分芝麻一合同炒，一分独炒，炒过将椒等筛拣去，加熟地黄四两，白茯苓三两，甘菊花二两，共为末，蜜丸如梧子大，每服五七十丸，空心温酒送下。\n按：此方中年以后，每日常服，不独可保目明，而却病广嗣，其功甚大。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 250,
+      "source_path": [
+        "附刻薛氏選方",
+        "瑞竹四神丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "7915fc561aef834188782b38dc252641d0982ba95ef87c552f9d1a1f1dcaceb9",
+      "content_sha256": "007c33627369d9bc41110ec943b47922a24aff4f322a2404081644a5ace5aa38",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        251,
+        252,
+        253,
+        254
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 155,
+        "simplified_codepoints": 155
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "bb5253b3242278075ea51c0e",
+      "title": "天麻丸",
+      "volume": "附刻薛氏选方",
+      "content": "治小儿肝风眼疳。\n青黛（一钱） 黄连（一钱） 天麻（一钱） 川芎（一钱） 芦荟（一钱） 五灵脂（一钱） 夜明沙（炒，一钱） 龙胆草（一钱五分） 嫩防风（一钱五分） 蝉蜕（一钱五分） 全蝎（少许） 麝香（少许） 干蟾头（二钱，炙焦）\n俱为末，公猪胆汁浸糕，丸如麻子大，每服十丸，薄荷汤下。\n按：此方疳伤五脏，各有现形。唯伤肝者，水因风动，遂为目患，品味周至，诚良剂也。然余全书在内玉龙丹效甚。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 255,
+      "source_path": [
+        "附刻薛氏選方",
+        "天麻丸"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "924876f8d2b5d16d6879e62102a7cba6b3472bbdbadc2e4e37ab879acdcb22ce",
+      "content_sha256": "ac4b274c5a210e87653da6e09fb68e09355c1d84e862e4685495fa175cb1844e",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        256,
+        257,
+        258,
+        259
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 195,
+        "simplified_codepoints": 195
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "4e8cf28bdcebb730dd5c1ba7",
+      "title": "《济生》桑白皮散",
+      "volume": "附刻薛氏选方",
+      "content": "治肺气壅塞，毒气上攻眼目，白睛肿胀，日夜疼痛。\n元参 桑白皮 枳壳（炒） 杏仁 甘菊 旋覆花 防风 京芍 黄芩 甘草 甜葶苈（炒） 柴胡（炒）\n上各一两，为细末，滚水调一钱，饭后服。\n按：此方治风热之剂，凡外障睛珠肿胀疼痛宜服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 260,
+      "source_path": [
+        "附刻薛氏選方",
+        "《濟生》桑白皮散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "0974f214a6ea382f2e25bc23b60d53cbea109052769b38d7e96d3a71801f5caf",
+      "content_sha256": "258d1e860da3a526620d10a9dac256d314a5699f4ed4c9dfaf12f49466288d03",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        261,
+        262,
+        263,
+        264
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "6c876086d5889f441ed8e654",
+      "title": "密蒙花散",
+      "volume": "附刻薛氏选方",
+      "content": "治风毒攻目，昏暗眵泪，并暴赤肿。\n羌活（一两） 白蒺藜（炒，一两） 木贼（一两） 密蒙花（一两） 石决明（煅，一两） 甘菊（家园者，二两）\n上为末，每服二钱，清茶食后调下。\n按：此方治风毒，凡翳障眼宜服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 265,
+      "source_path": [
+        "附刻薛氏選方",
+        "密蒙花散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "6b9c635926e6a574f60cded145f5967e10bdb5b26e037efbac46152b000efa6c",
+      "content_sha256": "8b00e4e81862bcde96e6c112602e0c217eb7fc8a67328446cfec6932601288b1",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        266,
+        267,
+        268,
+        269
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 102,
+        "simplified_codepoints": 102
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "5c52a1be135513473d5413aa",
+      "title": "蝉花散",
+      "volume": "附刻薛氏选方",
+      "content": "治肝经蕴热，毒气上攻，眼目赤肿，多泪羞明，一切风热昏翳。\n谷精草（一钱） 甘菊（六分） 蝉蜕（五分） 羌活（五分） 甘草（三分） 蒺藜（一钱，炒）草决明（一钱） 防风（七分） 山栀（七分，炒） 川芎（三分） 密蒙花（七分） 木贼（五分） 荆芥穗（三分） 黄芩（五分） 蔓荆子（五分，炒）\n上为末，每服二钱，食后茶清调下。按：蝉花散治外障蕴热等症固宜，但症有不同，或新起久患，或气血虚实，量人加减，详在《全书》。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 270,
+      "source_path": [
+        "附刻薛氏選方",
+        "蟬花散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e8fd14044845c1268ed8ac4205bf258de9e40fa90bd24b6beeefc5a883d6fdeb",
+      "content_sha256": "6fbdc575f2a144c682aa041d59b5f983dba2c6ca24b12f6d85eb794482591183",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        271,
+        272,
+        273
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 205,
+        "simplified_codepoints": 205
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "e100d412c04370e530ca2587",
+      "title": "洗心散",
+      "volume": "附刻薛氏选方",
+      "content": "治风壅壮热，头目昏痛，热气上冲，口苦唇焦，咽喉肿痛，心神烦躁，多渴，五心烦热，小便赤涩，大便秘滞。\n大黄（煨，六钱） 甘草（六钱） 当归（六钱） 芍药（六钱） 麻黄（六钱） 荆芥（六钱） 白术（五钱）\n上为末，每服二三钱，生姜薄荷煎服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 274,
+      "source_path": [
+        "附刻薛氏選方",
+        "洗心散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "3b099fb3fb4e4d37d934af6210f333619e69bf4252ee6847f938e6ab704c17c5",
+      "content_sha256": "976e681c4450d0f539559b81330b865cf35eb5671d1f06461c6835a11acd55fd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        275,
+        276,
+        277
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 118,
+        "simplified_codepoints": 118
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "66cb8f90a688aefa9ef259cc",
+      "title": "洗肝散",
+      "volume": "附刻薛氏选方",
+      "content": "治风毒上攻，暴作赤目，肿痛难开，眵泪。\n薄荷 当归 羌活 防风 山栀 甘草 大黄（酒洗） 川芎\n上各二两为末，每服二钱，食后滚水调下。\n按：前二方，人多用之，故存备参考。或问曰：洗心、洗肝二散，治目何如?答曰：方以洗名，克伐可知。盖为体壮气实者，感冒风寒，外来腠理，内火不得消散，实热上炎，奔入眼窍，暴赤疼肿，大便滞涩，姑以此暂用解散，否则不敢滥试也。人体不同，又乌可执泥乎?",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E4%B8%80%E8%8D%89%E4%BA%AD%E7%9B%AE%E7%A7%91%E5%85%A8%E6%9B%B8/index.html",
+      "source_ordinal": 278,
+      "source_path": [
+        "附刻薛氏選方",
+        "洗肝散"
+      ],
+      "source_sha256": "ebf550b23bca7a7c76289024f22fc1a279ea56c21c5de0aa81d93a55d55bbdd8",
+      "original_sha256": "e588a5ee25abc6b766d0a7171ea90333f3cd6f794489f8ee4c7be7785fbb820f",
+      "content_sha256": "c6cdaddc7b9211521f6d216e1e7c0a1bad8adda0fbc227860cf053fa4f29b3c6",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        279,
+        280,
+        281,
+        282
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 188,
+        "simplified_codepoints": 188
+      },
+      "order": 64
+    }
+  ]
+}

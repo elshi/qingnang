@@ -5,7 +5,10 @@ import { createHash } from 'node:crypto';
 import { gzipSync, gunzipSync } from 'node:zlib';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '../..');
-export const DATA = path.join(ROOT, 'txt/classic-books');
+export const BASE_DATA = path.join(ROOT, 'txt/classic-books');
+export const BATCH=process.env.CLASSIC_BOOKS_BATCH||'core-50';
+if(!['core-50','extra-300'].includes(BATCH))throw new Error('Unknown CLASSIC_BOOKS_BATCH');
+export const DATA = BATCH==='core-50'?BASE_DATA:path.join(BASE_DATA,'batches',BATCH);
 export const sha256 = value => createHash('sha256').update(value).digest('hex');
 export async function writeJson(file, value) {
   await fs.mkdir(path.dirname(file), {recursive:true});

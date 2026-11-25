@@ -1,0 +1,1573 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_646",
+    "name": "理虚元鉴",
+    "summary": "《理虚元鉴》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“治虚脉法总括”、“治虚脉法分类”、“治虚有三本”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "明",
+    "author": "汪绮石",
+    "jp": "LXYJ",
+    "aliases": [
+      "理虛元鑑"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "3e1da4723d3f197df0d8b033",
+      "title": "陈序",
+      "volume": null,
+      "content": "岁甲戌，予守毗陵，得一士，柯子心斋。其先世浙慈人也，家传忠厚，多业医者，令祖锦堂先生，侨寓锡邑之鹅湖，遂家焉。心斋性聪颖，倜傥不附时俗，文章有奇气，精书法，兼通家学，隐识为远到材，迄今二十载矣。一衿潦倒，蹭蹬场屋，岂其爱博而不专欤？顾多才者多艺，不相妨也，遇合会有时耳。予患头风，访医仰药，无纤毫之效。心斋诊予脉，乃云治病不求其本，真为头痛治头。缘制一方，却与所患不相涉，服后痛渐愈，不啻陈琳之檄。及见伊令伯德修所刻《理虚元鉴》，因知心斋制方之意之所由来也。德修柯君，虽未晤言，其学业之渊博，已于所订者窥见一斑。且是书沉埋剥蚀，历有年所，当世不知有是书，即见之，谁复知为绮石作者。今柯君不掠美，以付剞劂，参订而表彰之，更可见其用心之厚矣。噫！学固贵崇其本，业必有待乎时，不独医道也。是为序。\n时乾隆三十六年岁次辛卯嘉平月闽中陈焱晋亭氏题于姑苏署次",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "陳序"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "f2528b8d582cef38b62f4004fbdafce94f2dc7a37727ce60db21d747a06799f1",
+      "content_sha256": "ea99d59fc60a15513e7445ef015b45caea38a13aa0824450d7fabfefdd5d2236",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 373,
+        "simplified_codepoints": 373
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "9f22eb7812418182ede7e929",
+      "title": "华序",
+      "volume": null,
+      "content": "余年未三十，获交柯君德修，今六十有九矣。君业医，余喜地学，辄谈论天下技术。地关一家休咎，医关一人死生。钝根人求名不成，改业图利，相地习医，自误误人，曷有底耶！然地误廿载后，医误旦夕间耳。君天姿颖敏，幼就塾同学，分授经，悉耳熟背诵，故潜心医学，得深造焉。本世医，复从明师指授，探源溯流，广搜博记，多购未见书，《理虚元鉴》，其一也。君于疑难症立辨，制方不停睫，案简当，老医摄服。入都，名大振，医院诸人避席。太原守病邀入幕，山右抚司以下，咸以扁、卢目之。君善导引，长余数岁，健食如虎咽，步履捷于少壮人。余日就衰颓，每以屏俗，缘毋懈系功为最。君之邃于医，不但贯串诸家，得于静悟者尤多，来余家剧谈不厌，延治者急甚，久之乃去。今欲刻《理虚元鉴》公诸世，余四十余年知己，述其概，弁诸简端。\n乾隆三十六年岁次辛卯三月朔日牛毛道人华杰撰",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "華序"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "a3674b44f0cea0094475855c8e9780435166acfb5f42ad432644ae124c6d1220",
+      "content_sha256": "8f3cb35303ce2f4c9c5c17a3d72edf5adeb5966980a6adcc44e05adb5fdec1f2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        5,
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 359,
+        "simplified_codepoints": 359
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "c759c8c2664a7a057d863bd3",
+      "title": "柯序",
+      "volume": null,
+      "content": "医学祖《灵》、《素》、《难经》，而方不传。制方首推仲景，嗣后各立一说。仲景治冬寒，而河间明温暑，洁古理脾胃，东垣讲内伤，子和攻痰饮，丹溪究阴虚，六家为医学之宗主。王安道以冬寒分出中寒、伤寒；巢元方以温暑分出热病、中暑；罗谦甫以内伤分出劳伤、食伤；隐君以痰饮分出湿痰、燥痰；叔和以阴虚分出真阴、真阳。其论尤为明晰。古人立说，各具一长。合其长，乃称全璧。余遍观诸家，虚症犹未尽厥奥。雍正乙巳仲秋，购得绮石先生《理虚元鉴》，实发前人所未发。其治阴虚，主清金，肺为五脏之天也；治阳虚，主健中，脾为百骸之母也。其方甚简，药味无多。《神农本经》药三百六十五种，效法周天度数。仲景一百十三方，取《本经》药九十一种，入《伤寒论》中。或合经之大纲，或合经之一目，乃详于伤寒，推及诸病也。绮石先生独详于虚劳，盖风、寒、暑、湿，多乘虚而入，正气固，则受病少，治虚劳是治其本也，诸病其余事耳。余素留心于六气司天，主客进退，乘除偏胜，而人病焉。不谙司天审病，误投药饵者过半，《元鉴》亦参及之，则绮石之论虚劳，犹仲景之论伤寒，非举一而废百也。韩昌黎谓孟子之功不在禹下，绮石岂在仲景下耶？医道大而微，不知天、地、人，不可与言医，不通儒、佛、仙，不可与言医。余浅昧，愧未贯彻，但愿业医者，广为搜讨，会其指归，则吾道幸甚！斯世幸甚！\n乾隆岁次辛卯初夏古吴柯怀祖题于复韵斋",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 7,
+      "source_path": [
+        "柯序"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "0b52352e4ff251bffc36099770ab3aceb3f93b9fce0d1bf8f47773233fb560ee",
+      "content_sha256": "9387bd680d707cbc4abbb9bc8b50340180201fa6a123462ce6d83c9a10df454e",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 568,
+        "simplified_codepoints": 568
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "8f75cbec99911922e2768a62",
+      "title": "原序",
+      "volume": null,
+      "content": "绮石先生医道高玄，虚劳一门，尤为独阐之宗。尝曰：人之禀赋不同，而受病亦异。顾私己者，心肝病少；顾大体者，心肝病多。不及情者，脾肺病少；善钟情者，脾肺病多。任浮沉者，肝肾病少；矜志节者，肝肾病多。病起于七情，而五脏因之受损。先生悯世人之病虚劳者，委命于庸医，而轻者重，重者危，深可痛伤。特校昔贤之书几千百家，如四时各司一气之偏，未逢元会。乃伏读《素》、《灵》而启悟门，得其要领，参订补注，集成一书。辨症因，详施治，审脉法，正药讹，精纯邃密，后岐黄而启发者也。其功岂浅鲜哉！奈书成身殁，易箦之时，犹谆谆以斯世之责，至嘱于两世兄及诸门下士，而不肖亦与闻遗命焉。今先生虽逝，而道在人间。长君伯儒，能读其书；次君东庵，能继其志；犹子济明及门下武林君宾沈子，能广其传。然则先生固未尝逝也。先生不忍后世病此者，夭折而莫救，故临终以山中宰相事业，专付仲君。会世变，遂弃棘闱而潜心于箕裘之绍。是书之成，实其发明者居多，所恨身丁丧乱，受梓无人，大惧淹没先生之德。是望后之仁人君子，体先生之心，登此书于梨枣而广传之，则吾侪幸甚。天下后世，读其书饮其泽者幸甚。\n受业赵何宗田氏谨识",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "原序"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "f2f77d7433ba82b3af237a4b6c950d87a92d4236604446a1bb03190624c704b1",
+      "content_sha256": "1d901ea1185d67af48aeef653573de4cbbf9c06c98dcf10d69803956a5d36fbd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        11,
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 478,
+        "simplified_codepoints": 478
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "334b529257f857863ef3fb01",
+      "title": "治虚脉法总括",
+      "volume": "卷上",
+      "content": "脉来缓者，为虚，软、微、弱皆虚也。弦为中虚；细而微者，气血皆虚；小者，气血皆少。又脉芤血气脱，沉、小、迟者，脱气。（以上皆劳倦之脉，虚怯劳热之症也。）又微而数者，为虚热；微而缓滑者，为虚痰。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "卷上",
+        "治虛脈法總括"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "d9443be8a0b6c38600f51359ed59491d707406d5dd68d06bc4c487f1081e3902",
+      "content_sha256": "e9dff9fe99551db21f527f9298060da5875cbeb676332b26131bd64bc184e5b8",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 95,
+        "simplified_codepoints": 95
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "ec0425b3dcfeb694166328f8",
+      "title": "治虚脉法分类",
+      "volume": "卷上",
+      "content": "一、心肾不交，两寸弦数，两尺涩。《纪传》曰：左寸脉迟，心虚；右寸微滑，精气泄。\n二、梦泄遗精，尺寸脉迟而涩。心肾不交，梦淫精泄，真元耗散，不寿之征。又曰：寸数脾弦，两尺细数，精离位。青年左尺微涩，色欲伤。《正传》曰：诸芤动微紧，男子失精，女鬼交。心脉短小，梦遗精。尺数，相火炽而遗。\n三、漏精，右尺弱如发细，天精摇摇，寒精自出，马口有黏腻之累，房事不久，绝孕。\n四、肾痹，寸虚弱而涩，尺沉细而数。\n五、夜热，微弦虚数，或沉或涩，软弱而细。\n六、骨蒸，数大，或滑、急、促、细而数。\n七、干咳嗽，左寸涩数，右大急数。\n八、虚痰嗽，软细弱，气口微细而数，或滑大而虚。\n九、血虚痰火，左寸涩而弦数，右寸虚大而滑，或数而涩，尺中虚涩。又曰：细而紧数，细则血虚，数必咳嗽，紧则为寒。寒因血虚而客于肺经，反而作热，故脉数而咳嗽也。\n十、咳嗽痰中带血珠，右寸滑而数，或濡而弱，即煎厥之症。\n十一、咳嗽带血，寸数而大，或滑而紧急，关、寸弦而涩，即煎厥。\n十二、劳嗽吐血、咳血、呕血、咯血，即薄厥。脉得诸涩、濡，为亡血，芤为失血，涩为血少。际氏曰：心脉涩，肺脉虚，或芤，或迟，为亡血、失精。呕者，兼胃火。《脉经》云：吐血、唾血，脉迟小弱者生；实大者死。唾血，坚强者死；濡滑者生。\n十三、传尸劳，《脉经》云：男子平人脉滑大为劳极，虚涩亦为劳。\n十四、气口脉弦而数者，脉痿也。（《脉诀》气口数而虚涩，肺痿之形。疑即肺痿之误。）\n十五、六脉软弱，阳虚极也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "卷上",
+        "治虛脈法分類"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "70284c1bea767efdda9ff259066b2a4be337ee2b892337a4b24224357c4f0916",
+      "content_sha256": "4b4e06f68448098239086f3eaad03a581ed3d886f4eefaab825206ec9651b337",
+      "paragraph_count": 15,
+      "paragraph_ordinals": [
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 615,
+        "simplified_codepoints": 615
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "02fca83a3c2d12837fa2ba23",
+      "title": "治虚有三本",
+      "volume": "卷上",
+      "content": "治虚有三本，肺、脾、肾是也。肺为五脏之天，脾为百骸之母，肾为性命之根，治肺、治脾、治肾，治虚之道毕矣。夫东垣发脾胃一论，便为四大家之首；丹溪明滋阴一著，便为治劳症之宗；立斋究明补火，谓太阳一照，阴火自弭。斯三先生者。皆振古之高人，能回一时之习尚，辟岐黄之心传者。然皆主于一偏，而不获全体之用。是以脾胃之论，出于东垣则无弊，若执东垣以治者，未免以燥剂补土，有拂于清肃之肺金。滋阴之说，出于丹溪已有弊，若执丹溪以治者，全以苦寒降火，有碍于中州之土化。至于「阳常有余，阴常不足」，此实一偏之见，难为古人讳者，而后人沿习成风，偏重莫挽，凡遇虚火虚热，阴剧阳亢之病，辄以黄柏补肾、知母清金，未能生肾家真水，而反以熄肾家真火。夫肾者，坎象，一阳陷于二阴之间。二阴者，真水也。一阳者，真火也。肾中真水，次第而上生肝木，肝木又上生心火。肾中真火，次第而上生脾土，脾土又上生肺金。故生人之本，从下而起，如羲皇之画卦然。盖肾之为脏，合水火二气，以为五脏六腑之根。真水不可灭，真火独可熄乎？然救此者，又执立斋补火之说，用左归、右归丸，不离苁蓉、鹿茸、桂、附等类，而不顾其人之有郁火无郁火，有郁热无郁热，更不虑其曾经伤肺不伤肺。夫虚火可补，理则诚然。如补中益气汤，用参、耆、术、草之甘温以除大热。然苟非清阳下陷，犹不敢轻加升、柴、归、姜辛热之品，乃反施之郁火郁热之症，奚啻抱薪救火乎！余唯执两端以用中，合三部以平调。一曰清金保肺，无犯中州之土。此用丹溪而不泥于丹溪也。一曰培土调中，不损至高之气。此用东垣而不泥于东垣也。一曰金行清化，不觉水自流长。乃合金水于一致也。三脏既治，何虑水火乘时，乃统五脏以同归也。但主脾、主肾，先贤颇有发明，而清金保肺一著，尚未有透达其精微者，故余于论肺也独详。此治劳之三本，宜先切究也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "卷上",
+        "治虛有三本"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "84869587b111e9a60ea745a625c7aff9a838822e6efae035d9d33df9345ae726",
+      "content_sha256": "bf18e244be864efbd4ba2d163362eb704140047ead214f1b4ce0a9a8011c46f4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 746,
+        "simplified_codepoints": 746
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "e13b5672f3bc2cd4184d32d5",
+      "title": "治虚二统",
+      "volume": "卷上",
+      "content": "治虚二统，统之于肺、脾而已。人之病，或为阳虚，或为阴虚。阳虚之久者，阴亦虚，终是阳虚为本；阴虚之久者，阳亦虚，终是阴虚为本。凡阳虚为本者，其治之有统，统于脾也；阴虚为本者，其治之有统，统于肺也。此二统者，与前人之治法异。前人治阳虚者，统之以命火，八味丸、十全汤之类，不离桂、附者是；前人治阴虚者，统之以肾水，六味丸、百补丸之类，不离知、柏者是。余何为而独主金、土哉？盖阴阳者，天地之二气。二气交感，干得坤之中画而为离，离为火；坤得干之中画而为坎，坎为水。水火者，阴阳二气之所从生，故乾坤可以兼坎离之功，而坎离不能尽乾坤之量。是以专补肾水者，不如补肺以滋其源，肺为五脏之天，孰有大于天者哉？专补命火者，不如补脾以建其中，脾为百骸之母，孰有大于地者哉？",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "卷上",
+        "治虛二統"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "6000030816471057447d0ceba2d7bb2cd55bf58c0aa3821407ee6976895588d7",
+      "content_sha256": "ab56eaf71ea2bf31e20939059b999840eb4d0181ac581af0c8b45c81e8be590b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 324,
+        "simplified_codepoints": 324
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "196d9561765c99e86b2a7618",
+      "title": "阳虚三夺统于脾",
+      "volume": "卷上",
+      "content": "就阳虚成劳之统于脾者言之，约有三种：曰夺精，曰夺气，曰夺火。气为阳，火者，阳气之属。精者，水火之兼。色欲过度，一时夺精，渐至精竭。精者，火之原，气之所主。精夺，则火与气相次俱竭。此夺精之兼火与气也。劳役辛勤太过，渐耗真气。气者，火之属，精之用。气夺，则火与精连类而相失。此夺气之兼火与精也。其夺火者，多从夺精而来，然亦有多服寒药，以致命火衰弱，阳痿不起者。此三种之治，夺精、夺火主于肾，夺气主于脾。余何为而悉统于脾哉？盖阳虚之症，虽有夺精、夺火、夺气之不一，而以中气不守为最险。故阳虚之治，虽有填精、益气、补火之各别，而以急救中气为最先。有形之精血，不能速生；无形之真气，所宜急固。此益气之所以切于填精也。回衰甚之火者，有相激之危；续清纯之气者，有冲和之美。此益气之所以妙于益火也。夫气之重于精与火也如此，而脾气又为诸火之原，安得不以脾为统哉？余尝见阳虚者，汗出无度；或盛夏裹绵；或腰酸足软而成痿症；或肾虚生寒，木实生风，脾弱滞湿，腰背难于俯仰，胻股不可屈伸，而成痹症；或面色皎白，语音轻微。种种不一，然皆以胃口不进饮食，及脾气不化为最危。若脾胃稍调，形肉不脱，则神气精血可以次第而相生，又何有亡阳之虞哉？此阳虚之治，所当悉统于脾也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 36,
+      "source_path": [
+        "卷上",
+        "陽虛三奪統於脾"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "2e303e5d0b958c1f0abb83742ec3e66b052cad6ff011d57c09eb766423e02ff4",
+      "content_sha256": "0b39f866744820d088ab309fc44406797189e9d51eabd49e59e2b651bdb0c6c1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 517,
+        "simplified_codepoints": 517
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "cd45afd884ebc47a85fe7841",
+      "title": "阴虚之症统于肺",
+      "volume": "卷上",
+      "content": "就阴虚成劳之统于肺者言之，约有数种，曰劳嗽，曰吐血，曰骨蒸，极则成尸疰。其症有兼有不兼。有从骨蒸而渐至劳嗽者；有从劳嗽而渐至吐血者；有竟以骨蒸枯竭而死，不待成劳嗽者；有竟从劳嗽起，而兼吐血者；有竟从吐血起，而兼劳嗽者；有久而成尸疰者；有始终只一症，而或痊或毙者。凡此种种，悉宰于肺治。所以然者，阴虚劳症，虽有五劳、七伤之异名，而要之以肺为极则。故未见骨蒸、劳嗽、吐血者，预宜清金保肺；已见骨蒸、劳嗽、吐血者，急宜清金保肺；曾经骨蒸、劳嗽、吐血而愈者，终身不可忘护肺。此阴虚之治，所当悉统于肺也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 38,
+      "source_path": [
+        "卷上",
+        "陰虛之症統於肺"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "f39b402e0d8f8e6f47a7983840b36974f80fe4465d58a87fa8c3a91c9bfbc817",
+      "content_sha256": "a5a396d2bd74383f3888effd66457b4ac8bad0e8d80b0a76d65fd30966565f60",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        39
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 247,
+        "simplified_codepoints": 247
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "3d7e3050a0fd077ce6c29d81",
+      "title": "虚症有六因",
+      "volume": "卷上",
+      "content": "虚症有六因：有先天之因，有后天之因，有痘疹及病后之因，有外感之因，有境遇之因，有医药之因。\n因先天者，指受气之初，父母或年已衰老，或乘劳入房，或病后入房，或妊娠失调，或色欲过度。此皆精血不旺，致令所生之子夭弱，故有生来而或肾、或肝心、或脾肺，其根底处先有亏，则至二十左右，易成劳怯。然其机兆，必有先现，或幼多惊风，骨软行迟；稍长读书不能出声，或作字动辄手振，或喉中痰多，或胸中气滞，或头摇目瞬。此皆先天不足之征。宜调护于未病之先，或预服补药，或节养心力，未可以其无寒无热，能饮能食，并可应接世务，而恃为无惧也。即其病初起，无过精神倦怠，短气少力，五心烦热而已，岂知危困即在眉前也。\n因后天者，不外酒色、劳倦、七情、饮食所伤。或色欲伤肾，而肾不强固；或劳神伤心，而心神耗惫；或郁怒伤肝，而肝弱不复调和；或忧愁伤肺，而肺弱不复肃清；或思虑伤脾，而脾弱不复健运。先伤其气者，气伤必及于精；先伤其精者，精伤必及于气。或发于十五、六岁，或二十左右，或三十上下，病发虽不一，而理则同归耳。\n因痘疹及病后者，痘乃先天阳毒，疹乃先天阴毒。故痘宜益气补中，则阳毒之发也净，而终身少脾病；疹宜清散养荣，则阴毒之发也彻，而终身少肺病。苟致失宜，多贻后患。故凡后此脾泄胃弱，腹痛气短，神瘁精亏，色白足痿，不耐劳动，不禁风寒，种种气弱阳衰之症，皆由痘失于补也；凡肺风哮喘，音哑声嘶，易至伤风咳嗽等类，种种阴亏血枯之症，皆由疹失于清也。至于病后元气尚亏，更或不自重命，以劳动伤其气，以纵欲竭其精，顷间五脏齐损，恒致不救，尤宜慎之。\n因外感者，俗语云：伤风不醒结成痨。若元气有余者，自能逼邪使出；或肾精素厚，水能救母；或素无郁火郁热，则肺金不得猝伤。若此者，不过为伤风咳嗽，年老者，则为痰火而已，不至于成痨也。若其人或酒色无度，或心血过伤，或肝火易动，阴血素亏，肺有伏火，一伤于风火，因风动则痨嗽之症作矣。盖肺主皮毛，风邪一感于皮毛，肺气便逆而作嗽。似乎伤风咳嗽，殊不经意，岂知咳久不已，提起伏火，上乘于金，则水精不布，肾源以绝，且久嗽失气，不能下接沈涵，水子不能救金母，则劳嗽成矣。\n因境遇者，盖七情不损，则五劳不成，惟真正解脱，方能达观无损，外此鲜有不受病者。从来孤臣泣血，孽子坠心，远客有异乡之悲，闺妇有征人之怨，或富贵而骄佚滋甚，或贫贱而窘迫难堪。此皆能乱人情志，伤人气血。医者未详五脏，先审七情，未究五劳，先调五志，大宜罕譬曲喻，解缚开胶。荡佚者，惕之以生死；偏僻者，正之以道义；执著者，引之以洒脱；贫困者，济之以钱财。是则仁人君子之所为也。\n因医药者，本非痨症，反以药误而成。或病非因感冒而重用发散，或稍有停滞而妄用削伐，或并无里热而概用苦寒，或弱体侵邪，未经宣发，因其倦怠，骤患其虚，而漫用固表滋里，遂致邪热胶固，永不得解。凡此能使假者成真，轻者变重，所宜深辨也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 40,
+      "source_path": [
+        "卷上",
+        "虛症有六因"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "690a208e463985e3d4b6d37648543b3d05b8fb59b60a3abe767c840bf4ce9f5b",
+      "content_sha256": "6879138bf3f03d4620c7272fba3b1f5efb18e751096a11179351808675ae0fcb",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1174,
+        "simplified_codepoints": 1174
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "2b2ff474bf6fd7e62af383c2",
+      "title": "心肾论",
+      "volume": "卷上",
+      "content": "夫心主血而藏神者也，肾主志而藏精者也。以先天生成之体论，则精生气，气生神；以后天运用之主宰论，则神役气，气役精。精、气、神，养生家谓之三宝。治之原不相离，故于滑精、梦泄种种精病者，必本于神治；于怔忡、惊悸种种神病者，必本于气治。盖安神必益其气，益气必补其精。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "卷上",
+        "心腎論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "674722f20d45de4eb8ea37d55904bebf271ee54b540eb25e05a6baa77ff99531",
+      "content_sha256": "312f48046947dd3f8b7d8221cd7dbc93236a07d5d859b18f35d57b31577b8627",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        49
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "7275db43b437be6c18632f2a",
+      "title": "心肾不交论",
+      "volume": "卷上",
+      "content": "虚劳初起，多由于心肾不交，或一念之烦，其火翕然上逆，天精摇摇，精离深邃。浅者梦而遗，深者不梦而遗，深之极者漏而不止。其或症成骨痿，难于步履者，毕竟是少火衰微，则成阳虚一路，不为阴虚之症也。其单见心肾不交，滑精梦泄，夜热内热等候者，此为劳嗽之因，而未成其症也。其心肾不交，心火炎而乘金，天突急而作痒，咯不出，咽不下，喉中如有破絮黏塞之状，此劳嗽已成之症也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 50,
+      "source_path": [
+        "卷上",
+        "心腎不交論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "f839c82a4ff2371d021554d84e2142462fa3e1e83502c417f28c5e5b951eb0ab",
+      "content_sha256": "b0eff8767d941f466283d6cf6d78a22280698dc0b6587dea44863e9daf3e1693",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 177,
+        "simplified_codepoints": 177
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "c9f945fa5cabb127db31f5bf",
+      "title": "心肾不交与劳嗽总论",
+      "volume": "卷上",
+      "content": "在心肾不交之初，或梦泄滑精，体倦骨痿，健忘怔忡；或心脾少血，肝胆动焰，上冒下厥。种种诸症，但未至伤肺络，成蒸热者，可用养心丸，或归脾丸主之。其养心丸内以石莲、肉桂，交心肾于顷刻；归脾丸内以龙眼、木香，甘温辛热之品，直达心脾，主补中而生血，引经文主明下安之义，以补火为治。故凡火未至于乘金，补火亦是生土之妙用，而何虑乎温热之不可从治也哉？若夫阴剧阳亢，木火乘时，心火肆炎上之令，相火举燎原之焰，肺失降下之权，肾鲜长流之用，以致肺有伏逆之火，膈有胶固之痰，皆畏非时之感，胸多壅塞之邪，气高而喘，咳嗽频仍，天突火燃，喉中作痒，咯咽不能，嗽久失气，气不纳于丹田，真水无以制火，于是湿挟热而痰滞中焦，火载血而厥逆清窌，伏火射其肺系，则能坐而不能卧，膈痰滞乎胃络，则能左而不能右。斯时急宜清金保肺，以宣清肃之令；平肝缓火，以安君相之位；培土调中，以奠生金之母；滋阴补肾，以遏阳光之焰。一以中和为治，补其虚、载其陷、镇其浮、定其乱、解其争、制其过、润其燥、疏其淹滞、收其耗散，庶有济也。若执补火之说，用辛热之品，与彼寒凉伤中者，异病而同治，岂不殆哉！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "卷上",
+        "心腎不交與勞嗽總論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "0a8fb3ff3f95344e246f0168152cf0b20fab6992a3637f02b1b06b87c74b6d10",
+      "content_sha256": "368089d6e2141fd1cfce1cc4d5f2fbdd5ee2cd243eb65a24ca05d2ae81455101",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        53
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 468,
+        "simplified_codepoints": 468
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "a4a80a2eed4d7d77b60a886f",
+      "title": "五交论",
+      "volume": "卷上",
+      "content": "劳嗽吐血之症，其难于脾肺之交，不必遍论五脏，但取其要处言之。夫虚症总由相火上炎，伤其肺金，而相火寄于肝肾，故余于清金之外，再加白芍酸敛以收之，丹皮辛润以抑之，二物能制木之过，又能滋木之枯，此治金木之交也。至于木得火势而上乘于金，金失降下之令，已不能浚水之源，木强土受其克，水寡于畏，亦乘风木之势而上乘，淆混于胸膈而为痰涎，壅塞胶固稠腻不可开，以碍清肃之化。此因木土不交，水又乘之而肆虐。粗工每以陈、半、香、朴治痰之标，殊不知此乃水乘木火而上泛为痰，比之杂症二陈所主之痰，天渊不同。余但于清金剂中，加牛膝、车前、泽泻，以导水下行，土自安位，金水平调，天地清肃矣。此调木土之交，及水土之变也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 54,
+      "source_path": [
+        "卷上",
+        "五交論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "c6ab281bec6d7aeafbcd3e4f85f9805693c0b5f7e7cef8d540cdfa5d9d7944a4",
+      "content_sha256": "f5665138f924be6173bb50e092f617037731060ac89ba98a8aba26b87b247b12",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        55
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 294,
+        "simplified_codepoints": 294
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "38599a39a4f4e9157996de5e",
+      "title": "吐血论",
+      "volume": "卷上",
+      "content": "有不从劳嗽，而吐血先之者，心火、肝木之为病主也。然又有煎厥、薄厥之分。煎厥者，从阴虚火动，煎灼既久，血络渐伤，旋至吐血，其势较缓。薄厥者，薄乃雷风相薄之薄，心热为火，火热为风，风火相薄，厥逆上冲，血遂菀乱涌出，其势较急。煎厥单动于心火，不得风助，故无势而缓。薄厥兼动于肝火，火得风助，故有势而急。大抵性急多盛怒者，往往成薄厥。且是症也，又当防其瘀血渗入肺系，郁而不散，以至积阳为热，积阴为疰，喘嗽交加，病日以深而成劳嗽也。大凡治吐血，宜以清金保肺为主，金令既肃，肝木得其平，而火自不敢肆。至于骨蒸之久，煎灼真阴，火炎伤肺，亦宜急化其源，庶乎水得所养，而火渐熄，不至为劳嗽之渐也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 56,
+      "source_path": [
+        "卷上",
+        "吐血論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "9a44de11ce7c547acaa5089b82584aab65e3f41a87d821a7c475f7067c9b528f",
+      "content_sha256": "a33f400e99c27c2754c97fc0eb29c32c372b599e8e8304668ac0519bcd121fc0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        57
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 289,
+        "simplified_codepoints": 289
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "513e57a74f95a4913e700f7b",
+      "title": "红症初起治法",
+      "volume": "卷上",
+      "content": "吐红薄厥之症，初治用犀角地黄汤不效者，以犀、地虽有凉血止血之功，而其力尚缓故也。凡吐血正涌之时，法宜重在止血，宜以炒蒲黄、炒侧柏叶、棕灰三味为主，佐以紫菀、犀角、地黄、白芍之类；若血势过盛不止者，再用清金散、碧玉丹，一坠其火即降；更不止，再加童便。甚至血势涌溢，并汤药无隙可进者，须以热酒濯其两足，自能引火下行，而血渐止，然后投以上药可也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 58,
+      "source_path": [
+        "卷上",
+        "紅症初起治法"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "045f81a9902a6ee58c7d38612165b093058d98ff49427de814c6b795b5484da8",
+      "content_sha256": "a135a1bcb35708944a2b36e6ef0dca98f918ae10d4884949ddcd01ea04deed2c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        59
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 170,
+        "simplified_codepoints": 170
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "f92b28f9974a0fbc0b77d840",
+      "title": "劳嗽症论",
+      "volume": "卷上",
+      "content": "余于劳嗽症，尝列四候以为准。夫四候者，肺有伏逆之火，膈有胶固之痰，皆畏非时之感，胸多壅塞之气。然此四候，以肺火伏逆为主，余三候则相因而至。盖肺为五脏之天，司治节之令，秉肃清之化，外输精于皮毛，内通调乎四渎。故饮食水谷之精微，由脾气蒸发以后，悉从肺为主，上荣七窍，下封骨髓，中和血脉，油然沛然，施于周身，而何痰涎之可成哉？惟肺为火薄，则治节无权，而精微不布于上下，留连膈膜之间，滞而为痰，痰老则胶固而不可解，气无以宣之也。又肺主皮毛，外行卫气，气薄而无以卫外，则六气所感，怯弱难御，动辄受损，则本病而复标邪乘之。或本火标风，则风助火势，而清火易滞其气，驱风必燥其营；本火标寒，则寒火结聚，而散寒则火煽，降火必寒收；本火标暑，则暑火同气；本火标湿，则湿火交煎。虚劳一遇此等标邪触发，或兼伤寒，或兼疟痢，必至轻者重而重者危。故于时已至而气未至，时未至而气先至，或至而太过、至而不及等，皆属虚风贼邪，所宜急防之也。胸者，心肺交加之部，火炎攻肺，而气不得以下输，则气多壅塞，尤不当以宽胸理气之剂开之。总之，肺气一伤，百病蜂起，风则喘，痰则嗽，火则咳，血则咯，以清虚之脏，纤芥不容，难护易伤故也。故于心肾不交之初，火虽乘金，水能救母，金未大伤者，预当防维清肃之令，以杜其渐，而况劳嗽已成，可不以保肺为治哉！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 60,
+      "source_path": [
+        "卷上",
+        "勞嗽症論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "165f39323e5a553d93d840db83f4f60e4049623ad010d04c98b5cc481d4f1893",
+      "content_sha256": "40ed827b87fddcb2ddf1b8b4cbb73f270d9d111f78a02adc3b66522808b97b25",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        61
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 547,
+        "simplified_codepoints": 547
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "43322611517c60405a3d2164",
+      "title": "劳嗽初起治法",
+      "volume": "卷上",
+      "content": "劳嗽初起之时，多兼表邪而发。盖肺部既亏，风邪乘虚而入，风寒入肺，化为火邪，邪火与内火交灼，则肺金愈伤，而咳嗽因之不止。庸医但知劳嗽为内脏本病，而骤以耆、术益其气，归、地补其血，甚以白芍、五味、枣仁敛其邪，则邪气深滞腠理，胶固而难拔矣。余凡遇此症，先以柴胡、前胡清理表邪，及桔梗、贝母、兜铃之类，清润而不泥滞者，以清理肺金，或六七剂后，方用清凉滋阴之品，以要其终。但柴胡可多用几剂，前胡止可用一二剂，若表邪一清，柴胡亦须急去也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 62,
+      "source_path": [
+        "卷上",
+        "勞嗽初起治法"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "ef51611127767001ef8eb795a0e0b2f8021b4c8dc78332b01003b22c99636756",
+      "content_sha256": "779aa1acfc0a9152aff82f4568e2ca5e53377527b83b32d0f59c9c286120d49d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        63
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 213,
+        "simplified_codepoints": 213
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "44765ec3d0abbb2ada1a5b10",
+      "title": "干咳嗽论",
+      "volume": "卷上",
+      "content": "干咳者，有声无痰，病因精血不足，水不济火，火气炎上，真阴燔灼，肺脏𪸓涩而咳也。丹溪云：此系火邪郁于肺中而不能发，水火不交所致，宜补阴降火。症从色欲来者，琼玉膏最捷。午后咳，阴虚也；黄昏咳，火气上感于肺也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 64,
+      "source_path": [
+        "卷上",
+        "乾咳嗽論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "a8cafcebc6ffa7df0d2c77fb0b89528fbe2659ea75e284a8c6d64bd07251cddd",
+      "content_sha256": "9e29deab484dd31d02aeb5196c479bcc7e32cbe281ff89df5a06161ef2323058",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        65
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 102,
+        "simplified_codepoints": 102
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "1ab9b99411a275b50756aea1",
+      "title": "咳嗽痰中带血珠血丝",
+      "volume": "卷上",
+      "content": "此症大约皆从郁火伤肺，肺金受邪，不能生水，水火不相济，则阴火亢阳，而为痰血凝结，火载上逆，乃煎厥之渐也。多因志节拘滞，预事而忧，或郁怒伤肝，或忧愤伤心，不能发泄而成。若不早治，肺金受伤之至，火盛血逆，成块成片，夹痰而出，有时无痰而出，轻则见于清晨，甚则时时频见，或拂郁愤怒，则随触随见，即煎厥也。不急治，则为薄厥，而病笃矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 66,
+      "source_path": [
+        "卷上",
+        "咳嗽痰中帶血珠血絲"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "9542540d7aacf97e27814d9eaedeb449a6a29fd2e8cafb91b3334274c2045962",
+      "content_sha256": "492b73062a8e9a6351f6bbd349b751f2549b2aaeae75e5e1746a6ae136c988cf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        67
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 162,
+        "simplified_codepoints": 162
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "6bdba1d9c9731ed452617492",
+      "title": "论劳嗽吐血能治不能治大旨",
+      "volume": "卷上",
+      "content": "血症生死之辨，以大肉不消者，其病轻；大肉渐消者，其病重；若大肉脱尽者，万无生理。倘虚热已退，红症已止，痰嗽皆除，而大肉未消，或既消而脾胃犹强，药食滋补，大肉渐渐长起，则犹可治；设使仍前不长者，断然不可治，即使饮食自健，亦不过迁延时日而已。每见患怯之人，起居如常，正当进膳之时，执匕箸而去者，即此症也。凡患此症者，如心性开爽，善自调养，又当境遇顺适，则为可治；若心性系滞，或善怒多郁，处逆境而冤抑难堪，处顺境而酒色眷恋，又不恪信医药，死何疑焉？",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 68,
+      "source_path": [
+        "卷上",
+        "論勞嗽吐血能治不能治大旨"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "9899385e14c6652fc65d204f79e258b704d4d4728faee1ac72f6dc557943c6f7",
+      "content_sha256": "889184c0cc0954793b6f5132020fca44a3c517354501016ae5898d5ae4f8eef4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        69
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 221,
+        "simplified_codepoints": 221
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "8b9c60c65654ee911607a66f",
+      "title": "虚劳内热骨蒸论",
+      "volume": "卷上",
+      "content": "虚劳发热，皆因内伤七情而成。人之饮食起居，一失其节，皆能成伤，不止房劳一端为内伤也。凡伤久则荣卫不和而发热，热变蒸，蒸类不一。凡骨脉皮肉五脏六腑皆能作蒸，其源多因醉饱后入房，及忧思劳役，或病饮食失调，暨大喜、大怒、大痛、大泪，严寒酷暑房劳，不能调摄，邪气入内而成注。注之为言住也，外邪深入，连滞停住而不能去也。注不治则内变蒸，蒸失治则咳嗽、吐痰、咳血，而病危矣。故夜热、内热、虚热，为虚劳之初病，骨蒸、内热、潮热，则虚劳之本病也。宜及时调治，毋使滋蔓。治法以清金、养荣、疏邪、润燥为主，则热自退矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 70,
+      "source_path": [
+        "卷上",
+        "虛勞內熱骨蒸論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "14694cf4352df473e5741a86707e637d8da2fa95c2c278362b6168990a4c04e8",
+      "content_sha256": "5a8bf49fa5d91c15ace4a35365383bd378532f01f4443bfe229c0d0b5d202ade",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        71
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 249,
+        "simplified_codepoints": 249
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "e1e8e0750c3538acdcaa3f06",
+      "title": "虚火伏火论",
+      "volume": "卷上",
+      "content": "诸火可补火，诸热不可补火。又他脏有虚火可补火，肺脏有伏火不可补火。斯言实发前人未发之旨。何谓诸火可补火？火者，虚火也，谓动于气而未著于形。其见于症，易升易降，倏有倏无。其发也，尽有燎原之势，或面红颊赤，或眩晕厥冒，种种不同，而皆可以温润补肾之剂，以收其浮越，而引归于性根命蒂之中，补之可也。何谓诸热不可补火？热者，实热也。谓其先动于气，久而渐著于形，如烧热之物相似。其见于症，有定时，有定处，无升降，无变迁。其夜间准热日间不热者，为夜热；其里面恒热而皮肤未热者，为内热；其热如在骨髓间蒸出而彻于皮肤者，为骨蒸劳热。此种种蒸热，有清法，无温理，补之不可也。何谓他脏有虚火可补火，肺脏有伏火不可补火？盖肺与四脏有别，如肝肾龙雷之火可补而伏，脾胃寒格之火可补而越，心家虚动之火可补而定，惟肺之一脏属金，金畏火克，火喜铄金，故清肃之脏最畏火。此言其脏质也。肺居膈上，其气清，其位高，火若上冲则治节失令，而痰滞气塞，喘嗽交加，故至高之部极畏火。此以部位言之也。然或偶然浮越之火，犹不犯此禁，独至伏逆之火，出于阴虚阳亢，火乘金位，谓之贼邪。以其火在肺叶之下，故名伏；以其火只星星，便能使金令捍格，故名逆。凡若此者，症必胶痰固膈，吸短呼长，脉必细而数。细为血虚，数为火胜。此在少年为劳嗽之根，四十以外，为血虚痰火之兆。宜用清法，无用温理，其断不可补者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 72,
+      "source_path": [
+        "卷上",
+        "虛火伏火論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "f935fa5c387b9724affaeb6dedaa15eb9fdf92da4dba00496d3fe56b1dd8e106",
+      "content_sha256": "9f670caafa40ae438b75b873c455306279f3848e6ba53c7423904f0db53a2750",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        73
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 570,
+        "simplified_codepoints": 570
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "c1be47b1f3f13fa0f0a9094b",
+      "title": "遗精梦泄论",
+      "volume": "卷上",
+      "content": "精虽藏于肾，而实主于心。心之所藏者神，神安则气定，气为水母，气定则水澄，而精自藏于命门。其或思虑过度，则火水不交，快情恣欲，则精元失守。所以心动者神驰，神驰则气走，精逐而流也。且心主血，心血空虚，则邪火上壅，而淆其灵舍，于是神昏志荡，天精摇摇，淫梦交作，而精以泄。其甚者，不待梦而时泄。此时以降火之法治之，而火不可降，即以龙骨、牡蛎涩精之品施之，亦属随止随发。殊不知神不归舍，斯精不归元，故肾病当治其心，宜以养气安神为主，以润燥滋血之品为先，君火既安，相火自能从令，神清气爽，而精安有不固者哉？\n人身之精，融化于周身，如树中胶汁，本无形质，至因情动摇，遂各成形质而出。其所出者，已为精之死物矣。是不独精出于肾然也，他如贪心动则津出，哀心动则泪出，愧心动则汗出，皆为精所施化，多出皆能伤精，但与遗精者相较，则感有浅深，质有厚薄，伤有轻重耳。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 74,
+      "source_path": [
+        "卷上",
+        "遺精夢泄論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "8fb59184df40b0586d2eab48a44c8c7501ca88139b68cde0cc3cc888657413cb",
+      "content_sha256": "92018d02d860adda025d0cd12f002a7bfe1ba6426cd02491e0c5859469246799",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        75,
+        76
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 369,
+        "simplified_codepoints": 369
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "ac048c3b0ca611c0e341700a",
+      "title": "肾痹论",
+      "volume": "卷上",
+      "content": "此即遗精痿症也。其初起于酒色不节，精血日竭，水火俱衰，肝风、脾湿、肾虚生寒，三气合聚而为肾痹。宗筋不能束骨节利机关，足难步履，腰背难以俯仰，坐卧难支。总因倾尽真元，而筋骨日瘁也。法宜清气安神，以养心脾之血；润燥滋血，以归肝肾之阴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 77,
+      "source_path": [
+        "卷上",
+        "腎痹論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "0d5852105887a941a1f10869cc237c5d6c6c786b2be2d934662b6d05ba5e8327",
+      "content_sha256": "ce1ff8a4ee880dec095a8fa568dead8036ded7fd24dd4aa79f71efe9caa87a3c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        78
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "517f3b9d3bbcc9d2588ddc68",
+      "title": "白浊白淫论",
+      "volume": "卷上",
+      "content": "白浊、白淫，从新久定名。初出茎中痛而浓浊如膏，谓之白浊。久之不已，精微弱而薄，痛亦渐减，至后闻淫声、见女色，而精下流，清稀而不痛，则谓之白淫也。白浊全属火，至白淫，则火衰而寒胜矣。此因肾家元气降而不升，故黏丝带腻，马口含糊而不已。治法宜回阳气而使上升，固其精元而不使下陷，则病自止矣。外此有症非属虚，而湿热下注者，宜从丹溪治法。又有所求不遂，志意郁结而精泄，及气虚人失精气而遗者，皆非虚病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 79,
+      "source_path": [
+        "卷上",
+        "白濁白淫論"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "92b8023cb7599bce913f05a06a3b6e1412e64edd03158667b2d6f73a9feec3e0",
+      "content_sha256": "875434313beabdc45cf2eb779022d3a159799c75da8508cb08b2cc90654818a0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 196,
+        "simplified_codepoints": 196
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "b58216ae60f337f443575106",
+      "title": "女人虚劳",
+      "volume": "卷上",
+      "content": "女人虚劳，有得之郁抑伤阴者，有得之蓐劳者，有得之崩带者。其郁抑伤阴，虽以调肝为急，终是金能克木。蓐劳、崩带，虽以补肾为急，终是金能生水。此阴虚成劳，总不离乎清金以为治也。蓐劳非即是劳嗽，蓐劳重，然后伤肺而劳嗽以成。治当以归脾、养荣，兼清金主之。别有气极一种，短气不能言者，却不在阳虚例，乃肺病也。此症虽陈皮，亦在所忌。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 81,
+      "source_path": [
+        "卷上",
+        "女人虛勞"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "325d8b3c99fdb9fe047d98b18136d0c6295d126e5003f9c4479113505abc27c2",
+      "content_sha256": "069b15167410f98d75efca5d0801164fafc195f91d8719d4301046c8f361f28e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        82
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 159,
+        "simplified_codepoints": 159
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "6f15890a6928f292b7533280",
+      "title": "尸疰传尸劳等症",
+      "volume": "卷上",
+      "content": "夫劳极之候，血虚血少，艰于流布，甚至血不脱于外，而但蓄于内，蓄之日久，周身血走之隧道悉痹不流，而营分日虚，于是气之所过，徒蒸瘀血为热，热久则蒸其所瘀之血，化而为虫，遂成尸疰瘵症。其或因湿火蒸化，或因死痰渗入清窌而成，皆是类也。自此竭人之神气，养虫之神气，人死则虫亦死，其游魂之不死者，传亲近之一脉，附入血隧，似有如无，其后虫日荣长，人日凋瘁，而命随以毙。故传尸劳又与尸疰症不同，尸疰因虚损而成，若传尸则在素无虚损之人，一传染，即现出劳怯候，或发热、骨蒸，或咳嗽、吐血、唇红、面青等症者是。所传亦分五脏，在脾肠澼，在心吐血，在肝与肺则咳嗽也。治尸疰以清金养荣为本，其杀虫断祟，当以獭肝、獭爪、熊指、啄木等丹治之。至犯传尸者，一见其外症唇红、面青、骨蒸、内热，饮食健啖，而人渐瘦不已者，必有虫也，治以獭爪百部丸主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 83,
+      "source_path": [
+        "卷上",
+        "屍疰傳屍勞等症"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "dd423dd5645ef4d27297a9ba225136c21f4464e8c72f67f1eb79dadb3d908cfe",
+      "content_sha256": "9535d9adb03e30638b0b17b363870c17a8efb180e583a06b301d024226ad4c96",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        84
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 356,
+        "simplified_codepoints": 356
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "d3659487f587d6c9c35ad436",
+      "title": "虚劳当治其未成",
+      "volume": "卷上",
+      "content": "患虚劳者，若待其已成而后治之，病虽愈，亦是不经风浪，不堪辛苦的人，在富贵者犹有生理，贫者终难保也。是当于未成之先，审其现何机兆，中何病根，尔时即以要言一二语指示之，令其善为调摄，随用汤液十数剂，或用丸剂胶剂二三斤，以断其根，岂非先事之善策哉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 85,
+      "source_path": [
+        "卷上",
+        "虛勞當治其未成"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "ced1e890819d77b5b8e63ef05861e8833459693b567081a09973e3fe8272d4c8",
+      "content_sha256": "32b7dca01f64eea2cf64a8c81b155cdf6695123b64083871d7626217329d4c04",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "e2d51a3358aa525742b596b8",
+      "title": "知节",
+      "volume": "卷上",
+      "content": "节为节省之义。虚劳之人，其性情多有偏重之处，每不能撙节其精神，故须各就性情所失以为治。其在荡而不收者，宜节嗜欲以养精；在滞而不化者，宜节烦恼以养神；在激而不平者，宜节忿怒以养肝；在躁而不静者，宜节辛勤以养力；在琐屑而不坦夷者，宜节思虑以养心；在慈悲而不解脱者，宜节悲哀以养肺。此六种，皆五志七情之病，非药石所能疗，亦非眷属所可解，必病者生死切心，自讼自克，自悟自解，然后医者得以尽其长，眷属得以尽其力也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "卷上",
+        "知節"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "7e6d13aa0f3f57be7a928c4cacf6f5a9c863b38fccdf263ccd90417de438992a",
+      "content_sha256": "ab4a12d738bc6e45980cfc76210b916bfebe7d50d4bdad9d51a61172d4825bf8",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        88
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 202,
+        "simplified_codepoints": 202
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "fea938cec44084f62d3f672f",
+      "title": "知防",
+      "volume": "卷上",
+      "content": "虚人再经不得一番伤寒，或一番痢疾，或半年几月疟疾，轻伤风感冒，亦不宜辄受。所以一年之内，春防风，又防寒；夏防暑热，又防因暑取凉，而致感寒；长夏防湿，秋防燥，冬防寒，又防风。此八者，病者与调理病人者，皆所当知，即医师亦须深明五运六气之理，每当时序推迁，气候偏重，即宜预为调摄挽救，以补阴阳造化之偏，而制其太过，扶其不足。经云：毋翼其胜，毋赞其复，闲其未然，谨其将然，修其已然。即此之谓也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 89,
+      "source_path": [
+        "卷上",
+        "知防"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "ad58ffb143f140e98bbeb66b1b039be659f421865a9f656c5bbdf38a009ba746",
+      "content_sha256": "a2b34a1213bebc3c5884616f14fdce754709a920df2caae5b1f2381213829160",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 193,
+        "simplified_codepoints": 193
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "54e759abaedf3f5c5eee90b5",
+      "title": "二护",
+      "volume": "卷上",
+      "content": "寒从足起，风从肩俞、眉际而入。病者常护此二处，则风寒之乘于不意者少矣。其间有最紧要者，每当时气不佳之际，若肩背经络之间，觉有些少淅沥恶寒，肢节酸软拘束，周身振颤，立身不定光景，即刻断食一周；其稍重者，略散以煎剂，自脱然而愈。若时气初染，不自觉察，再加以饮食斗凑，经邪传里，轻者蒸灼几日，重者恒致大害。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "卷上",
+        "二護"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "e622860a925c811445a4bb236d7c01f95735fad8e3e9d12714285dd7b15359a3",
+      "content_sha256": "8f0594d77b5e75223098093d5100eedb85553ad991dfc7ec4e74c583ea35dfd2",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        92
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 150,
+        "simplified_codepoints": 150
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "bb7e856fa14c747df653b5e9",
+      "title": "三候",
+      "volume": "卷上",
+      "content": "前者四季之防六气，本而防标之说也。若夫二十四候之间，有最与本症为仇者。其候有三：一为春初木盛火升；一为仲夏湿热令行；一为夏秋之交，伏火铄金。此三候中，如有一候未曾透过，虽嗽平吐止，火降痰宁，病者怡然，以为无事矣。而不知气候之相克，有在于寻常调燮之外者，一交三候，遂与本症大逆，平者必复，复者必深，深者不救。是惟时时防外邪、节嗜欲、调七情、勤医药，思患而预防之，方得涉险如夷耳！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 93,
+      "source_path": [
+        "卷上",
+        "三候"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "59626af3590d885f94f1c6d7f3b663d092029d970deab7996ad1d728a0682aac",
+      "content_sha256": "16ac3af4a80584421d88a084fbc19e68c0e938c68a561b4341673cd77caba1eb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        94
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 188,
+        "simplified_codepoints": 188
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "16ba4044397431a74bbf2c4f",
+      "title": "二守",
+      "volume": "卷上",
+      "content": "二守者，一服药，二摄养。二者所宜守之久而勿失也。盖劳有浅深，治有定候。如初发病，尚轻浅，亦有不药而但以静养安乐而自愈；稍重者，治须百日，或一年，煎百济丸二料膏一服，便可断除病根。至于再发，则真阴大损，便须三年为期。此三年间，起于色者节欲，起于气者慎怒，起于文艺者抛书，起于劳倦者安逸，起于忧思者遣怀，起于悲哀者达观，如是方得除根。至于三发，则不可救矣。且初发，只须生地、元参、百合、桔梗之类，便可收功；至于再发，非人参不治。是在病者之尽其力而守其限，识所患之浅深近久，量根本之轻重厚薄，而调治之；勿躁急取效，勿惜费恣情，勿始勤终怠，则得之矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 95,
+      "source_path": [
+        "卷上",
+        "二守"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "90a396fd2280f4d37cdc476ac92673853ce1deab333062cfebd1b33bbed15629",
+      "content_sha256": "99a438ab58cae0e67fc80c5b430bb1655a62abb2d35f591ab5b66d829579726b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 271,
+        "simplified_codepoints": 271
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "27b3c0f7e76ca7e1e5d7f8c2",
+      "title": "三禁",
+      "volume": "卷上",
+      "content": "治劳三禁，一禁燥烈，二禁伐气，三禁苦寒是也。盖虚劳之痰，由火逆而水泛，非二陈、平胃、缩砂等所开之痰。虚劳之火，因阴虚而火动，非知、柏、芩、连、栀子等所清之火。虚劳之气，由肺薄而气窒，非青、枳、香、蔻、苏子等所豁之气。乃至饮食所禁，亦同药饵。有因胃弱而用椒、胡、茴、桂之类者，其害等于二陈；有因烦渴而啖生冷鲜果之物者，其害同于知、柏；有因气滞而好辛辣快利之品者，其害甚于青、枳。此三禁不可不知也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "卷上",
+        "三禁"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "575fb41988f6ea59f221303d531d59aa463013f8f357ca2397bf74d17e842947",
+      "content_sha256": "c58a244e1e8306cb22f55d7f9e47b21cf7a054509cdd4161aa8f50ef73253b8b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        98
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 197,
+        "simplified_codepoints": 197
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "a077555d0971dd0183e965bd",
+      "title": "四难",
+      "volume": "卷上",
+      "content": "一家中如父母慈，兄弟友，夫妇挚而有别，僮仆勤而不欺。此四者在人而不在己，在本家而不在医师，故曰难也。夫治劳之浅者，百日收功；稍深者，期年为限；更深者，积三岁以为期。其日逾久，则恩勤易怠，其效难期，则厌弃滋生，苟非金石之坚，难免啧室之怨，一著失手，满盘脱空，虽非医师之过，而为医者，亦不可不知也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 99,
+      "source_path": [
+        "卷上",
+        "四難"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "0fb5ce1e8d80fdf78c7b6e9bad4574166b04bf43827512465b882087ea7c02d8",
+      "content_sha256": "358957d2e1d3d8fa704ca384dc724ff62cddbc51743708eb894723dd33ce00d4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 147,
+        "simplified_codepoints": 147
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "b827e56293db35cccb4dacaa",
+      "title": "劳伤非弱症",
+      "volume": "卷上",
+      "content": "有平时心肾不亏，并无弱症，偶有房劳，猝然呕血者，其血从胃中来，不得以怯症论治。宜以分理安胃为主，不必用黄芩、花粉、元参等药之凉，亦不必用黄耆、白术、山药之补，只须柴胡、贝母、桔梗、泽泻、丹皮、白芍、麦冬之类治之。更有劳伤筋力而得者，只宜调其胃气而自愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "卷上",
+        "勞傷非弱症"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "8fb84049df095022b81814790f29932c58c0f562a0f702efdde3cf595e9f3318",
+      "content_sha256": "7a20ba65877cfdc54873ab91649c1c5e2a71b5cf530c8b9705f3a9b7e40692b9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        102
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "e5af34236d8a4db4a2798ade",
+      "title": "呕吐见血非弱症",
+      "volume": "卷上",
+      "content": "往往有人患呕血甚多，医者遂认为弱症，误也。此先伤于怒，怒气伤肝，肝脏原有血积于中，后伤于寒，寒入胃，故呕吐，呕吐伤气，气带血而暴厥耳。是不可与怯症之血同论。当于治呕药中，加楂肉先行其瘀，止其吐；后再徐调其他症，自可万全也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 103,
+      "source_path": [
+        "卷上",
+        "嘔吐見血非弱症"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "5146a329482aa0bb10448f98d5fd669f87771b832700be576c94664c5d5abaee",
+      "content_sha256": "de340f235c247fde90dd2708f65edb56a5df3241cfeb59bd7847ca0887009e9e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        104
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "3dcbf05d3a2a4f5266f440c7",
+      "title": "伤寒见血非弱症",
+      "volume": "卷上",
+      "content": "有劳倦伤血，瘀积胃络，兼受风寒，寒邪迫血，火不能降，以致吐血、衄血，不可以弱症施治。若误投凉剂，则寒愈结而血难止，只宜散其风寒，少加调血归经之品，使邪外泄而火下降，则血自止矣。或问何以辨之？曰：头痛、恶寒、战栗、手足逆冷，而其人素无虚症，如虚火上炎，不足之候，身体不瘦，突然而起者是也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "卷上",
+        "傷寒見血非弱症"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "90b6c4aef3df3cb96384b474ba3502842c1dae88539a0546a8a247fc9919656d",
+      "content_sha256": "65becb24b66e25922b35eeee48e628b3283765537625135424521feb8181f9d1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        106
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 143,
+        "simplified_codepoints": 143
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "97dd102aa46f69e2423e963f",
+      "title": "肠风便血不同怯症",
+      "volume": "卷上",
+      "content": "每见先天不足之人，得肠红便血之症，不肯自认为劳怯，且以为轻病而不治，久久至气血尽而不治者甚多。不知虚弱之人，饥饱劳役，风、寒、暑、湿乘虚而入，兼之酒色太过，湿滞中州，元气下陷，客风邪火，流入肠胃，气滞血凝，腐败溃乱，而成土崩河决之势。若不速治，将成大患。治法如何？曰：不过散其风，燥其湿，宽其肠，行其气，活其瘀，止其血，升其陷而已。散风用炒黑防风、荆芥为主。此二味，生用则能散风于上部，炒用则散风于二肠，荆芥尤为要药。宽肠行气以炒枳壳为主。止血以炒黑蒲黄、醋炒地榆为主。行瘀以紫菀为主，兼有调血归经之妙。升陷以升麻、柴胡为主。燥湿以白术、泽泻、茯苓为主。风散、湿除、气行、瘀消，元阳生发则病自愈。能节劳戒气，贬酒却色，善自调摄，且知起居服食禁忌，自不复发。更兼以调和气血、补助先天之剂投之，与虚劳血症收功之法同治，终身可以无患。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 107,
+      "source_path": [
+        "卷上",
+        "腸風便血不同怯症"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "29fc847428c5dc278c3a62febf5393d9fb796eda7f6569ccc7c9d762624735dd",
+      "content_sha256": "ab6297d37d8623714e9198002f51df9152673f6136604f851a87cc8d94da2471",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        108
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 364,
+        "simplified_codepoints": 364
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "f4fe090efbd2c56d8b6ceb00",
+      "title": "阳虚阴症辨",
+      "volume": "卷上",
+      "content": "有男子脾肾气虚，腰膝无力、目眩、耳鸣、形体憔悴、溏泄无度、饮食少进、步履艰难，似乎阴虚弱症而非也。何以辨之？曰：不咳嗽，不内热、骨蒸，不潮热、吐红是也。然其脉必软缓微弱，虚寒之极。治法当回阳返本、健脾益胃、交补心肾为主，则寒谷阳回，万物发生。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 109,
+      "source_path": [
+        "卷上",
+        "陽虛陰症辨"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "2b2831724a0c680320dfa6f8bb928a71b7e1e9c51c7c0f9065a2cbb60d9f1d7f",
+      "content_sha256": "8b33bd9933b8a259d85d3849191e011174b9fbf3d6bf87f11d641188026d8b47",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        110
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 121,
+        "simplified_codepoints": 121
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "19dd4f5a9e3aecba5f0db9d0",
+      "title": "软懒症辨",
+      "volume": "卷上",
+      "content": "有一种软懒之症，四肢倦怠，面色淡黄；或膈中气满，不思饮食。其脉沉迟涩滞，软弱无力。或表气不清，恶寒发热，当其寒，则脉愈加沉涩；当其热，则脉微见细数。或传里内热，则脉气沉洪或洪数。总之，定带软弱不清之象。此内伤兼外感，其邪只在肌表筋骨之间，未深入脏腑，其所感尚轻，故不成伤寒、疟、痢等疾，而为此软弱因循之症也。久久不治，成硬头黄者居多。若脾虚湿胜者，则成黄肿；若肺气不足者，流入清虚之腑，则壅为痰嗽；若血少者，迁延岁月，则成内热，或五心烦热，日晡潮热，渐似骨蒸劳热矣。此症大都得诸藜藿穷檐之辈，间有膏粱之人，因房劳不节，或窃玉偷香，恐惧忧惊，或埋首芸窗，用心过度，或当风取凉，好食生冷，致风寒传染，郁而不散，乃内伤兼外感而成。其外象酷似弱症，若察症不的，初起遽投以凉剂、补药，则邪正混淆，不得清彻，以致寒邪闭遏，郁于经络，而为内热，遂成真病。人家子弟患此，类多讳疾忌医，不便直告人，自认虚弱，见医者投以清理散邪之品，反不肯服，所以难治，亦难辨也。然则何以辨之？曰：头不痛，身不热，不烦嗽，不唾血，但腿酸脚软，蒸蒸内热，胸中邪气隔紧，食不易饥，与之食则食，不与亦不思，或今日思此物，明日即不喜，又思别物适口，如怯症之尝食劳也。治法：当其未入里时，宜和解分消，托之使出，用八物汤加减，去黄芩，加前胡、山楂、陈皮之类。湿胜有痰者，重以二陈汤，禀气厚者，加枳壳。用此数剂，邪自解散。若邪已入里，难从肌表散去，则宜重在分消，使邪从小便而出。表里既清之后，以养气、养血之品，培其本源。若起于忧惊思虑者，以交固心肾之药要其终，则霍然矣。玉芝云：外感软懒之症，切不可发汗，汗之则虚晕欲倒，以其兼内伤重也。治宜柴胡、防风、葛根、苏梗、陈皮、山楂、枳壳、泽泻等味主之。小便不利者，加车前。质弱者，去枳壳。数剂后加丹参，再后加当归。若脾虚下泄者，稍加燥味。若血虚内热者，少加丹皮、地骨皮。此症须以百日为期，若未及百日而不肯服药者，变成黄症矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 111,
+      "source_path": [
+        "卷上",
+        "軟懶症辨"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "3f8bda967051d3a5e32eeba781b9175eb0d2abc5d5f08bf84accd40e2434214c",
+      "content_sha256": "93fa28d06ec19ed2982504665184926489713dc44d532816a958e0000235ebd0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        112
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 809,
+        "simplified_codepoints": 809
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "edb8a5052a7e301b24d28719",
+      "title": "老年怯症难治说",
+      "volume": "卷上",
+      "content": "谚有少无风瘫，老无痨瘵之说。故中年以后人，往往有劳嗽、吐血、咳血症，不肯自认为怯症。曰：不过是血虚痰火而已。不知少年精血易生，老年气血易亏，精力不长，病此更难得愈。然则施治有老少之别乎？曰：少年之病难治而易愈，老年之病易治而难愈。所以易治者，为其相火易衰，色心已淡，性气已灰，怒气少动故也。若二者不戒，死期更促耳。至于治法，则从同也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 113,
+      "source_path": [
+        "卷上",
+        "老年怯症難治說"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "27ec14cbdb98f817ac20fc2b03f74d5c88fb6f6ce798a48d18527b42f4d80166",
+      "content_sha256": "0192e6073caa16e27423879bcb3896d9b612c3dc2ab294e5b67988b85c237f65",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        114
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "8d511dffb6a3e91f9d049dc0",
+      "title": "虚劳本治方",
+      "volume": "卷下",
+      "content": "归养心脾汤（治梦遗滑精。）\n人参 黄耆 白术 芡实 北五味 甘草 熟地 枣仁 茯神 山药 当归身\n参固气，气固则精有摄而不遗。生地滋阴，阴滋则火有制而不浮越。当归养血。芡实固肾。茯神、枣仁安神宁志。耆、术、药、草补气调中，气旺神昌，则精固而病自愈。遗甚加萸肉、莲须。思虑过度加莲肉。不禁加石莲、金樱膏。足痿加牛膝、杜仲、龟板胶。\n归养心肾丸\n生地 熟地 黄耆 白术 山药 芡实 茯神 枣仁 归身 萸肉 五味 甘草\n炼蜜丸，空心白汤送下三钱。\n二地滋阴。当归养血。茯神、枣仁补心。耆、术、药、草调气补中。五味、芡实固精滋肾。气虚加人参。久遗加杞子、金樱。漏滑加莲须、芡实。心火盛加石莲。寒精自出加苁蓉、鹿茸、沙苑、菟丝。泄泻加泽泻、莲肉。腰膝软弱，艰于步履，加牛膝、杜仲、龟鹿胶。\n养心固本丸\n元武胶（红曲炒珠） 鹿角胶（红曲炒珠） 萸肉 杞子 人参 黄耆 石莲肉 白术 甘草 枣仁 地黄 淮牛膝\n内石莲将肉桂一钱同煮一日，去肉桂，用炼蜜丸。收功固本药也。\n养心固肾丸（治漏精。）\n生地 当归 茯神 山药 芡实 萸肉 陈皮 甘草 五味 石莲肉\n河水煎，空心服。\n桑螵蛸散（治遗精漏不止。）\n桑螵蛸一味，焙为末，酒浆调服一钱。三四服即止。\n补元汤（治肾痹。）\n生地 杞子 黄耆 白术 杜仲 牛膝 山药 茯苓 当归 甘草\n不拘时服。\n清热养荣汤（治虚劳内热骨蒸。）\n柴胡 丹皮 地骨皮 生地 当归 白芍 元参 茯苓 麦冬肉 生甘草\n灯芯三十寸，河水煎服。\n加味固本胶\n生地 熟地 桔梗 茯苓 天冬肉 元参 川贝 百合 阿胶 紫菀 麦冬肉 甘草\n白蜜二斤，收胶。\n集灵胶\n天冬 麦冬 生地 熟地 元参 桔梗 甘草\n白蜜五斤，收胶。\n清金养荣丸\n生地 麦冬肉 花粉 川贝 元参 白芍 茯苓 地骨皮 丹皮 甘草\n内生地将薄荷汤煮烂，捣胶，同蜜为丸。\n清金甘桔汤（治干咳。）\n桔梗 川贝 麦冬肉 花粉 生地 元参 白芍 丹皮 粉甘草 灯芯\n河水煎。\n清金百部汤（治虚劳久嗽。）\n桔梗 元参 川贝 百部 生地 麦冬 丹皮 白芍 生甘草 地骨皮 灯芯\n喘急，加白前、海粉、竹茹。如痰吐稠黏，脾肺火盛，加清金散、竹茹、花粉。\n清金加减百合固金汤\n百合 桔梗 川贝 桑皮 杏仁 花粉 麦冬 茯苓 陈皮 生甘草\n大圣药\n春加佛耳草，即面兼头，立夏日采取为饼。夏加苎麻根。秋加金沸草。冬加款冬花。发热加柴胡、前胡。咽痛，元参、射干。素有血症，生地、丹皮。\n固金养荣汤\n桔梗 桑皮 川贝 茯苓 百合 杏仁 陈皮 甘草\n生地四两，荷叶汤煮烂捣膏为蜜丸。此方与百合固金汤，为治血虚痰火主药。\n清金甘桔汤（治咳嗽痰中带血丝血珠。）\n桔梗 生地 白芍 丹皮 麦冬 元参 川贝 茯苓 阿胶 甘草\n此方加紫菀、犀角，名胶菀清金汤，治咳嗽痰中夹血。为丸，治咳嗽痰中夹血珠、血丝、血片。去生地、桔梗，加地骨皮、百部，名胶菀犀角汤，治劳嗽吐血。\n加味犀角地黄汤\n犀角 生地 赤芍 丹皮 蒲黄\n灯芯三十寸，荷叶一大张，煎汤代水。\n琼玉胶\n生地 茯苓 人参\n各等分，蜜收。\n固本肾气丸（治阳虚。）\n人参 黄耆 白术 茯苓 当归 生地 炙草 枣仁 煨姜 鹿角胶\n还元丹（亦治阳虚。）\n远志 杜仲 牛膝 补骨脂 山药 茯神 锁阳 五味 杞子 山萸肉 熟地 菖蒲\n炼蜜为丸，淡盐汤下。\n獭爪丸（治传尸劳。）\n獭爪（醋炙为末） 獭肝（阴干） 败龟板 银柴胡 百部 沙参 生地 桔梗 地骨皮 丹皮 麦冬 甘草\n共为末，每以五分或至七分，投入煎剂，或丸或胶加入，潜使服，勿令病者知觉。\n百部清金汤（治传尸劳）\n百部 骨皮 人参 麦冬 桔梗 生地 丹皮 芍药 茯苓 甘草",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 116,
+      "source_path": [
+        "卷下",
+        "虛勞本治方"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "e256b2df5924c8b9362aed69e569163cdaf08aaf56b36844819f1b17d56a4301",
+      "content_sha256": "20fa395d8147201dacf6dc0734d46a3ac6ea7608fbc7f5bcf69464394f467212",
+      "paragraph_count": 62,
+      "paragraph_ordinals": [
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1503,
+        "simplified_codepoints": 1503
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "ce680ae32bf1d224e6e517bc",
+      "title": "治虚药讹一十八辨",
+      "volume": "卷下",
+      "content": "人参 外感风邪，元气未漓，审用。\n人参大补元气，冲和粹美，不偏不倚，故在阴补阴，在阳补阳，能温能清，可升可降，三焦并治，五脏咸调，无所不可。故其治病也，除元气充实，外感有余，无事于补者，则补之反成壅塞，所谓实实也。若夫虚劳之病，或气血、阴阳、水火、寒热、上下诸证，与夫火、痰、燥、湿、滞、胀、吐、利、冒厥、烦渴，及胎前、产后、痘疹、久病、病后，一经虚字，则无不宜，而不可少。此人参之所以能回元气于无何有之乡，而其功莫大也。自东垣、丹溪，先后发明，并无异议。庸医不察，执节斋之瞽说，以为人参补阳，沙参补阴，若补阳则助其火，甚至云虚劳人服参者，必至不救，以致举世畏参如砒鸩，而不敢试，岂不误载！\n黄柏、知母 禁用。\n《丹溪心法》有云：虚损吐血，不可骤用苦寒，恐致相激，只宜琼玉膏主之。何事首尾矛盾？又载三补丸，以芩、连、柏三味主之，大补丸以黄柏一味主之，乃至滋阴百补丸，知、柏并用。后之学者宗之，凡遇虚劳咳嗽、吐血、虚火虚热之疾，皆以知、柏二味，以为清火滋阴，殊不知虚劳之火，虚火也，相火也，阴火也。即丹溪云：虚火可补，人参、黄耆之属。相火系于肝肾之间，出入于甲胆，听命于心君。君火明，则相火伏，若君火不明，则相火烈焰冲天，上感清虚之窍，耳聋、鼻干、舌痛、口苦、头晕、身颤、天突急而淫淫作痒、肺叶张而咳嗽频仍。当此时也，惟有清气养荣，滋方寸灵台之雨露，以宁膻中之烦焰，则甲胆乙肝之相火，不扑而自灭矣。阴火者，龙雷之火也，起于九泉之下，遇寒水阴翳，则其焰愈腾，若太阳一照，自然消陨。此三火者，皆无求于降火滋阴，亦何事乎知、柏，而用之以贻害乎？且黄柏伤胃，知母滑脾，胃伤则饮食不进，脾滑则泄泻无度。一脏一腑，乃生人之本。经云：得谷者昌，失谷者亡。又曰：阳精上奉，其人寿；阴精下降，其人夭。今以苦寒伤胃，岂非失谷者亡乎？以冷滑泄脾，岂非下降者夭乎？想世用此者，意在滋阴，而不知苦寒下降多亡阴，阴亏而火易炽；意在清金，而不知中土既溃，绝金之源，金薄而水益衰。吾知用此者，未见其利，徒见其害耳。每见虚劳之人，未有不走脾胃而死者，则知、柏之厉也。\n麦冬、五味 初病酌用。\n治肺之道，一清、一补、一敛，故麦冬清，人参补，五味敛。三者，肺怯之病，不可缺一者也。然麦冬之清敛，固有道焉。盖虚劳之初起，亦有外感而成，故其初治必兼柴胡、前胡以疏散之，未可骤加敛补，施治之次第宜然。若不知初病、久病之分，或骤清、骤补、骤敛，则肺必致满促而不安，邪气濡滞，久而不彻。此非药之害，实由用之失节耳。若夫疏解之后，邪气既清，元气耗散，则当急用收敛、清补为主，舍此三物，更何求焉？况五味不但以收敛为功，兼能坚固心肾，为虚劳必用之药。乃在用之不当者，反咎五味酸能引痰致嗽，畏而弃之。殊不知病至于伏火乘金，金气耗越之际，除却此味，更用何药以收之耶？\n泽泻 宜用。\n夫肺金为气化之源，伏火蒸灼，则水道必污，污则金气不行而金益病，且水停不流，则中土濡湿，而奉上无力。故余治劳嗽吐血之症，未有不以导水为先务者，每称泽泻有神禹治水之功。夫亦尝究其命名之义矣。盖泽者，泽其不足之水；泻者，泻其有余之火也。惟其泻也，故能使生地、白芍、阿胶、人参，种种补益之品，得其前导，则补而不滞；惟其泽也，故虽走浊道而不走清道，不若猪苓、木通、腹皮等味之消阴破气，直走无余。要知泽泻一用，肺、脾、肾三部咸宜，所谓功同神禹者此也。古方用六味丸，用之功有四种，《颐生微论》论之极详。庸医不察，视为消阴损肾之品，置而不用，何其谬甚！\n桑皮 宜用。\n桑白皮清而甘者也，清能泻肝火之有余，甘能补肺气之不足。且其性润中有燥，为三焦逐水之妙剂。故上部得之清火而滋阴，中部得之利湿而益土，下部得之逐水而散肿。凡虚劳症中，最忌喘、肿二候。金逆被火所逼，高而不下则为喘；土卑为水所侮，陷而失堤则为肿。喘者，为天不下济于地；肿者，为地不上交于天。故上喘、下肿，天崩地陷之象也。是症也，惟桑皮可以调之。以其降气也，故能清火气于上焦；以其折水也，故能奠土德于下位。奈何前人不察，以为性不纯良，用之当戒。不知物性有全身上下纯粹无疵者，惟桑之与莲，乃谓其性不纯良，有是理乎？\n桔梗 宜用。\n夫肺如华盖，居最高之地，下临五脏，以布治节之令。其受病也，以治节无权，而气逆火升，水涎上泛，湿滞中州，五脏俱乖，百药少效。惟桔梗禀至清之气，具升浮之性，兼微苦之味；至清故能清金，升浮故能载陷，微苦故能降火，实为治节君主之剂，不但引清报使而已。此味升中有降，以其善清金，金清自能布下降之令故也；清中有补，以其善保肺，肺固自能为气血之主也。且其质不燥不滞，无偏胜之弊，有十全之功，服之久，自能清火消痰，宽胸平气，生阴益阳，功用不可尽述。世之医者，每畏其开提发散，而于补中不敢轻用、多用，没其善而掩其功，可惜也。\n丹皮、地骨皮 宜用。\n夫黄柏、知母，其为倒胃败脾之品，固宜黜而不录矣。然遇相火烁石流金之际，将何以处此？曰：丹皮、地骨皮，平正纯良，用代知、柏，有成无败。丹皮主阴抑火，更兼平肝。骨皮清火除蒸，更兼养肺。骨皮者，枸杞之根也。枸杞为补肾之要药，然以其升而实于上也，但能温髓助阳，虚劳初起，相火方炽，不敢骤用。若其根伏而在下，以其在下也，故能资肾家真水；以其皮，故能舒肺叶之焦枯，凉血清骨，利便退蒸。其功用较丹皮更胜，且其味本不苦，不致倒胃，质本不濡，不致滑脾，施治允当，功力万全，有知、柏之功，而无其害，最为善品。\n生地 宜用，初病审用。\n世人以生地为滞痰之物，而不敢轻用，是不知痰之随症而异也。杂症之痰，以燥湿健脾为主；伤寒之痰，以去邪清热，交通中气为主。惟虚症之痰，独本于阴虚血少，火失其制，乃上克肺金，金不能举清降之令，精微不彻于上下，滞而为痰作咳。治宜清肺，则邪自降；养血，则火自平。故余于清金剂中，必兼养荣为主。荣者，血也。阴者，水也，润下之德也。清金若不养荣，如吹风灭火，风势愈逆，烈焰愈生。清金养荣者，为引水制火，沾濡弥漫，烟气永息。故桔梗、桑皮、贝母之类，清金之品也。生地、丹皮、当归之类，养荣之品也。而养荣剂中，又以生地为第一。以生地治杂症之痰，则能障痰之道，能滞化痰之气，且其力滋补，反能助痰之成。若加之虚劳剂中，则肺部喜其润，心部喜其清，肾部喜其滋，肝部喜其和，脾部喜其甘缓，而不冷、不滑，故劳嗽、骨蒸、内热、吐血、咯血剂中，必无遗生地之理。惟劳嗽初起，客邪未清，痰嗽盛时，亦暂忌生地滞泥。若表症既除，内热蒸灼，非生地之清润，以滋养化源，则生机将绝矣。若畏其滞，而始终不用，乃是不明要义也。\n茯苓 宜用。\n有谓茯苓善渗，下元不足者忌之。非也。盖茯苓为古松精华蕴结而成，入地最久，得气最厚。其质重，其气清，其味淡。重能培土，清能益金，淡能利水。惟其得土气之厚，故能调三部之虚。虚热虚火湿气生痰，凡涉虚者皆宜之，以其质中和粹美，非他迅利克伐者比也。夫金气清降，自能开水之源；土气调平，自然益气之母。三脏既理，则水火不得凭凌，故一举而五脏均调。又能为诸阴药之佐，而去其滞；为诸阳药之使，而宣其道。补不滞涩，泄不峻利，精纯之品，无以过之。\n黄耆 宜用。\n余尝说建中之义，谓人之一身，心上，肾下，肺右，肝左，惟脾胃独居于中。黄耆之质，中黄表白，白入肺，黄入脾，甘能补中，重能实表。夫劳倦虚劳之症，气血既亏，中外失守，上气不下，下气不上，左不维右，右不维左，得黄耆益气甘温之品，主宰中州，中央旌帜一建，而五方失位之师，各就其列，此建中之所由名也。故劳嗽久已失气，气不根于丹田，血随气溢，血既耗乱，气亦飞扬。斯时也，虽有人参回元气于无何有之乡，究竟不能固真元于不可拔之地，欲久安长治，非黄耆不可。盖人参之补迅而虚，黄耆之补重而实，故呼吸不及之际，耆不如参。若夫镇浮定乱，返本还元，统气摄血，实表充里，其建立如墙壁之不可攻，其节制如将令之不可违，其饶益如太仓之不可竭，其御邪扶正，如兵家之前旄，中坚后劲，不可动摇，种种固本收功之用，参反不如耆。故补虚以黄耆为墙垣，白术作基址。每见服参久久，渐至似有若无，虽运用有余，终是浮弱，不禁风浪。若用耆、术兼补，可至风雨不畏，寒暑不侵，向来体弱者，不觉脱胎换骨，诚有见于此也。除劳嗽初起，中土大伤，气火方盛，心肺虽失其和，脾胃犹主其事，此时只宜养荣为主，黄耆微滞，尚宜缓投。若久病气虚，肺失其制，脾失其统，上焉而饮食渐难，下焉而泄泻频作，此时若不用黄耆以建中，白术以实土，徒以沉阴降浊之品，愈伤上奉升腾之用，必无济也。\n白术 宜用，初病审用。\n虚劳初起，治未有不以清金为第一义者。而清金之品，生地、阿胶、丹皮、白芍之外，又有如麦冬之清心保肺，元参之甘寒清火，为虚劳所必须。然有一种中土素弱之人，脾胃不实，并麦冬亦微恶其冷，元参亦且嫌其寒，久久渐妨饮食，渐陷中气，于斯时也，又宜以培土调中为主。其法在杂症门中，用药颇多，惟虚症内，培土之剂，止有黄耆、白术、茯苓、山药，有功而无过。夫虚劳之培土也，贵不损至高之气，故二陈之燥，平胃之烈，固万万不可，即扁豆之健脾，苡仁之胜瘴，犹未免于走血，俱未尽善。若乃四味之中，茯苓、山药虽冲和，而无峻补回生之力，即耆、术二种并用，又以术为土部专经之剂，兼为益气之品，故能培土以生金，而至高之部，胥有赖也。夫术性微燥，于虚症似当缓投，然却喜其燥而不烈，有合中央之土德，且补土自能生金，如山岳之出云蒸雾，降为雨露，以濡万物，而何病燥之有哉？缪仲淳谓其燥能伤阴。殊不知伤阴为苍术、厚朴之类，岂可以白术微燥中和之品同语耶？且治法收功之时，非培土则浮火终不归根，知白术之功大矣。\n柴胡 酌用\n柴胡升清调中，平肝缓脾，清热散火，理气通血，出表入里，黜邪辅正，开满破结，安营扶卫，凡脏腑经络，无所不宜。在虚劳初起，或为外感时邪，固为必须之品，至于七情所结，浸淫郁滞，有待宣通，舍此柴、前二胡，则无有秉性纯良出其右者矣。故每用些少以佐之，然后专用清源补敛之品，乃为十全。即其调理之人，中间或撄或感，亦必急用柴胡、防风、葛根等味彻之，然后仍用补敛，庶免关门捉贼之患。但其性升散，用者当中病即止，不可多用、常用耳。更有女人抑郁伤阴，与夫蓐劳之后，必当选用。盖多郁则伤元气，柴胡平肝散郁，功最捷也。后人因陈藏器一言，忌用柴胡，遇内伤、外感之症，将反用麻黄、紫苏等味以散之耶！\n陈皮 偶用。\n夫桔梗本以载气上行，而气火以平者，可见虚劳之气，皆由于火侵肺也。若杂症之有胸膈气滞，皆由于寒湿侵胃，故用陈皮之辛以利之，诚为至当。乃世医不察虚劳杂症之分，但见胸口气滞，辄以陈皮理气，不知陈皮味辛而性燥，辛能耗肺气之清纯，燥能动阴虚之相火，本以理气，气反伤矣。惟清金之久，化源初动，脾气未健，胃口渐觉涎多，可少加陈皮以快之，使中宫一清，未为不可。又或时气偶来，脾胃濡泻，亦可暂用数剂，以清理之，然亦须去病则已，不宜常用。\n苏子 不必用。\n夫虚劳之火，既乘金之气高而不降，治宜平其火而已，不必下其气也。惟杂症之喘急而气高者，有三子养亲之说，而医者混以治劳，以为得真苏子下之，则气可平而火可降，喘可定而痰可消。不知其复也，必增剧矣。惟白前一味，为平喘之上品。凡撷肚抬肩，气高而急，能坐而不能卧，能仰而不能俯者，用此以平之，取效捷而元气不伤，大非苏子可比。\n枳壳 不可用。\n虚劳施治，曰清金，曰安神，曰培土，曰调肝，曰益肾，而惟补之一字，彻乎终始，故火亦补，痰亦补，滞亦补，三焦五脏六腑十二经络，无所往而不宜补者。乃有谬妄之流，一见中气塞滞，不究虚实，便用枳壳以伐之。不知虚劳治气，与杂症不同。其滞也，不可以利之；其高也，不可以下之；其治满也，不可以破之。陈皮、苏子，已不当用，况枳壳、青皮乎！\n杞子 酌用。\n虚劳之施治有次序，先以清金为主；金气少肃，即以调脾为主；金土咸调，则以补肾要其终。故初治类多用元参、麦冬；渐次耆、术；终治牛膝、龟鹿胶、杞子之类，收功奏效，返本还元。凡属阴虚，未有不以此为扼要者也。然杞子之性太温，若君火未明，相火方炽，肺叶举张之时，龙雷鼓动之后，投此剂则嗽必频，热必盛，溺必涩，血必涌溢而不可止。世医每执杞子性凉之说，试问性若果凉，胡为兴阳之骤耶？\n当归 审用。\n夫当归之养荣，以佐清金也，尚矣。然其味未免于辛，其性未免于温，虽有养血之功，亦为行血活血之品。故治吐血症者，宜待血势既定，血络稍固，君、相二火咸调，然后以此大补肾水以收功。若执古人之论，谓当归命名之义，使气血各得其归，不顾血症新久而用之，亦有误处。\n桂圆 审用。\n龙眼大补心血，功并人参。然究为湿热之品，故肺有郁火，火亢而血络伤者，服之必剧。世医但知其补，而昧于清温之别，凡遇虚劳，心血衰少，夜卧不宁之类，辄投之。殊不知肺火既清之后，以此大补心脾，信有补血安神之效，若肺有郁伏之火，服之则反助其火，或正当血热上冲之时，投此甘温大补之味，则血势必涌溢而加冲。不可不慎也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 179,
+      "source_path": [
+        "卷下",
+        "治虛藥訛一十八辨"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "94e49efe0778391775387cbd26db5c2cb9368677ca3b0f1ca39bad95c3cd6f72",
+      "content_sha256": "06c4d571ad028c4f8bf7b2ec666032d13a59b3e012af108723922f39bf6ff5db",
+      "paragraph_count": 36,
+      "paragraph_ordinals": [
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 5197,
+        "simplified_codepoints": 5197
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "05cb76893244af94616b1dcb",
+      "title": "柯跋",
+      "volume": null,
+      "content": "《传》云：三折肱为良医。《楚辞》云：九折臂而成医。《曲礼》云：医不三世，不服其药。则业医者，贵专且久也。曾伯祖韵伯公，本诸生，精研医理，笺疏辨论极伙，自著《来苏集》等书数种，向未梓行。表舅祖陈时行，韵伯公嫡派，吾伯父所受业者，渊源固历历不爽也。吾家藏书颇备，刻本、钞本若干卷，相与析疑辨难，克穷阃奥。又与琴川杨资生先生，讨论有年，凡儒生渊博而贯通者，广资稽考。则伯父于医，原本先世，参究明师，博访良友，冥搜曩哲，可谓专且久矣。今《来苏集》等书，已刊刻行世。是书乃绮石先生所著，亦钞本之一，不敢自私，镌刻公世，既以阐古人之秘，亦以表得力之自云尔。\n乾隆三十六年岁次辛卯小春朔又五日侄男有田谨跋",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 216,
+      "source_path": [
+        "柯跋"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "2cd32d2ada4e6577f31335e9d50ae437720c3615c821b4d992832237629a5e91",
+      "content_sha256": "fefb26c7f08c2d6d19b5f2a24aeefe4f20578e9fc11445a050323a39f512cecf",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        217,
+        218
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 295,
+        "simplified_codepoints": 295
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "f1b56c778fe6c1ccd6528f5b",
+      "title": "陈跋",
+      "volume": null,
+      "content": "上《理虚元鉴》两卷钞本，无锡顾信成所藏。信成研究医理，亟称此书，以为治虚劳，功不在仲景《伤寒论》下。钞一册见赠，且请速梓之以行世。观其序跋稠叠，似经刊刻，遍求京师及各处坊间，丛残故楮中，殊不可得。《四库提要》及张氏《书目答问》、朱氏《汇刻书目》，均未及收。乃亟付剞劂，传诸久远，以为治虚专书，未必无补。传写既久，讹廖滋多，学识固陋，校勘非易。不敢臆度，传其可信，阙其可疑，纲罗考订，有俟笃好。绮石先生，姓氏里居，急切难考。观赵氏跋语，岂明末之遗老与避世之隐君子欤。杀青既竟，书诸简端。\n大清光绪二十二年嘉平月萧山陈光淞识",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%90%86%E8%99%9B%E5%85%83%E9%91%91/index.html",
+      "source_ordinal": 219,
+      "source_path": [
+        "陳跋"
+      ],
+      "source_sha256": "8ee157ec697b85345cbf530dfed4817942db06de771f57196dd85818291ee676",
+      "original_sha256": "22666b424c7d6b678e4ffc6451ba6a7a96c579988045bf0379187c25df288822",
+      "content_sha256": "1f61a13cd26e46ec28c709665c058b455733998d71620824ba603790f688b8d5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        220,
+        221
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 260,
+        "simplified_codepoints": 260
+      },
+      "order": 48
+    }
+  ]
+}

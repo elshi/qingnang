@@ -1,0 +1,613 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%9F%B3%E5%B1%B1%E9%86%AB%E6%A1%88/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "石山醫案刻序",
+        "path": [
+          "石山醫案刻序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "石山先生像",
+        "path": [
+          "石山先生像"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "題辭",
+        "path": [
+          "題辭"
+        ]
+      },
+      {
+        "ordinal": 14,
+        "level": 1,
+        "title": "卷之上",
+        "path": [
+          "卷之上"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 2,
+        "title": "營衛論",
+        "path": [
+          "卷之上",
+          "營衛論"
+        ]
+      },
+      {
+        "ordinal": 20,
+        "level": 2,
+        "title": "答提學黃公如金所患書",
+        "path": [
+          "卷之上",
+          "答提學黃公如金所患書"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 2,
+        "title": "條答福建舉人謝邦實所患書",
+        "path": [
+          "卷之上",
+          "條答福建舉人謝邦實所患書"
+        ]
+      },
+      {
+        "ordinal": 46,
+        "level": 2,
+        "title": "疫",
+        "path": [
+          "卷之上",
+          "疫"
+        ]
+      },
+      {
+        "ordinal": 49,
+        "level": 2,
+        "title": "瘧",
+        "path": [
+          "卷之上",
+          "瘧"
+        ]
+      },
+      {
+        "ordinal": 101,
+        "level": 2,
+        "title": "鼻衄流涕",
+        "path": [
+          "卷之上",
+          "鼻衄流涕"
+        ]
+      },
+      {
+        "ordinal": 104,
+        "level": 2,
+        "title": "痢",
+        "path": [
+          "卷之上",
+          "痢"
+        ]
+      },
+      {
+        "ordinal": 111,
+        "level": 2,
+        "title": "脅痛",
+        "path": [
+          "卷之上",
+          "脅痛"
+        ]
+      },
+      {
+        "ordinal": 121,
+        "level": 2,
+        "title": "鼓脹",
+        "path": [
+          "卷之上",
+          "鼓脹"
+        ]
+      },
+      {
+        "ordinal": 133,
+        "level": 2,
+        "title": "莖中蟲出",
+        "path": [
+          "卷之上",
+          "莖中蟲出"
+        ]
+      },
+      {
+        "ordinal": 135,
+        "level": 2,
+        "title": "身癢",
+        "path": [
+          "卷之上",
+          "身癢"
+        ]
+      },
+      {
+        "ordinal": 138,
+        "level": 2,
+        "title": "膈噎",
+        "path": [
+          "卷之上",
+          "膈噎"
+        ]
+      },
+      {
+        "ordinal": 141,
+        "level": 2,
+        "title": "淋",
+        "path": [
+          "卷之上",
+          "淋"
+        ]
+      },
+      {
+        "ordinal": 144,
+        "level": 2,
+        "title": "眼目",
+        "path": [
+          "卷之上",
+          "眼目"
+        ]
+      },
+      {
+        "ordinal": 147,
+        "level": 2,
+        "title": "白濁",
+        "path": [
+          "卷之上",
+          "白濁"
+        ]
+      },
+      {
+        "ordinal": 150,
+        "level": 2,
+        "title": "咳嗽",
+        "path": [
+          "卷之上",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 162,
+        "level": 2,
+        "title": "氣痛（氣逆）",
+        "path": [
+          "卷之上",
+          "氣痛（氣逆）"
+        ]
+      },
+      {
+        "ordinal": 167,
+        "level": 2,
+        "title": "身麻",
+        "path": [
+          "卷之上",
+          "身麻"
+        ]
+      },
+      {
+        "ordinal": 170,
+        "level": 2,
+        "title": "秘結",
+        "path": [
+          "卷之上",
+          "秘結"
+        ]
+      },
+      {
+        "ordinal": 173,
+        "level": 1,
+        "title": "卷之中",
+        "path": [
+          "卷之中"
+        ]
+      },
+      {
+        "ordinal": 174,
+        "level": 2,
+        "title": "吐血（咳血）",
+        "path": [
+          "卷之中",
+          "吐血（咳血）"
+        ]
+      },
+      {
+        "ordinal": 206,
+        "level": 2,
+        "title": "消渴",
+        "path": [
+          "卷之中",
+          "消渴"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 2,
+        "title": "匯萃",
+        "path": [
+          "卷之中",
+          "匯萃"
+        ]
+      },
+      {
+        "ordinal": 237,
+        "level": 2,
+        "title": "楊梅瘡",
+        "path": [
+          "卷之中",
+          "楊梅瘡"
+        ]
+      },
+      {
+        "ordinal": 250,
+        "level": 2,
+        "title": "肺癰",
+        "path": [
+          "卷之中",
+          "肺癰"
+        ]
+      },
+      {
+        "ordinal": 254,
+        "level": 2,
+        "title": "腳瘡",
+        "path": [
+          "卷之中",
+          "腳瘡"
+        ]
+      },
+      {
+        "ordinal": 257,
+        "level": 2,
+        "title": "癰腫",
+        "path": [
+          "卷之中",
+          "癰腫"
+        ]
+      },
+      {
+        "ordinal": 266,
+        "level": 2,
+        "title": "疝腫",
+        "path": [
+          "卷之中",
+          "疝腫"
+        ]
+      },
+      {
+        "ordinal": 270,
+        "level": 2,
+        "title": "調經",
+        "path": [
+          "卷之中",
+          "調經"
+        ]
+      },
+      {
+        "ordinal": 292,
+        "level": 2,
+        "title": "出部脈",
+        "path": [
+          "卷之中",
+          "出部脈"
+        ]
+      },
+      {
+        "ordinal": 296,
+        "level": 2,
+        "title": "妊病",
+        "path": [
+          "卷之中",
+          "妊病"
+        ]
+      },
+      {
+        "ordinal": 301,
+        "level": 2,
+        "title": "產後",
+        "path": [
+          "卷之中",
+          "產後"
+        ]
+      },
+      {
+        "ordinal": 306,
+        "level": 2,
+        "title": "小兒驚癇",
+        "path": [
+          "卷之中",
+          "小兒驚癇"
+        ]
+      },
+      {
+        "ordinal": 311,
+        "level": 2,
+        "title": "泄瀉",
+        "path": [
+          "卷之中",
+          "泄瀉"
+        ]
+      },
+      {
+        "ordinal": 314,
+        "level": 1,
+        "title": "卷之下",
+        "path": [
+          "卷之下"
+        ]
+      },
+      {
+        "ordinal": 315,
+        "level": 2,
+        "title": "答銀臺宋公書",
+        "path": [
+          "卷之下",
+          "答銀臺宋公書"
+        ]
+      },
+      {
+        "ordinal": 321,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "卷之下",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 328,
+        "level": 2,
+        "title": "咯痰",
+        "path": [
+          "卷之下",
+          "咯痰"
+        ]
+      },
+      {
+        "ordinal": 332,
+        "level": 2,
+        "title": "瘀血",
+        "path": [
+          "卷之下",
+          "瘀血"
+        ]
+      },
+      {
+        "ordinal": 337,
+        "level": 2,
+        "title": "陽虛",
+        "path": [
+          "卷之下",
+          "陽虛"
+        ]
+      },
+      {
+        "ordinal": 341,
+        "level": 2,
+        "title": "耳膿",
+        "path": [
+          "卷之下",
+          "耳膿"
+        ]
+      },
+      {
+        "ordinal": 346,
+        "level": 2,
+        "title": "腹痛",
+        "path": [
+          "卷之下",
+          "腹痛"
+        ]
+      },
+      {
+        "ordinal": 350,
+        "level": 2,
+        "title": "淋",
+        "path": [
+          "卷之下",
+          "淋"
+        ]
+      },
+      {
+        "ordinal": 356,
+        "level": 2,
+        "title": "五志",
+        "path": [
+          "卷之下",
+          "五志"
+        ]
+      },
+      {
+        "ordinal": 360,
+        "level": 2,
+        "title": "喜",
+        "path": [
+          "卷之下",
+          "喜"
+        ]
+      },
+      {
+        "ordinal": 362,
+        "level": 2,
+        "title": "舌出",
+        "path": [
+          "卷之下",
+          "舌出"
+        ]
+      },
+      {
+        "ordinal": 365,
+        "level": 2,
+        "title": "憂",
+        "path": [
+          "卷之下",
+          "憂"
+        ]
+      },
+      {
+        "ordinal": 370,
+        "level": 2,
+        "title": "思",
+        "path": [
+          "卷之下",
+          "思"
+        ]
+      },
+      {
+        "ordinal": 373,
+        "level": 2,
+        "title": "氣結",
+        "path": [
+          "卷之下",
+          "氣結"
+        ]
+      },
+      {
+        "ordinal": 377,
+        "level": 2,
+        "title": "脈",
+        "path": [
+          "卷之下",
+          "脈"
+        ]
+      },
+      {
+        "ordinal": 381,
+        "level": 2,
+        "title": "補陰",
+        "path": [
+          "卷之下",
+          "補陰"
+        ]
+      },
+      {
+        "ordinal": 384,
+        "level": 2,
+        "title": "驚",
+        "path": [
+          "卷之下",
+          "驚"
+        ]
+      },
+      {
+        "ordinal": 388,
+        "level": 2,
+        "title": "腿痛",
+        "path": [
+          "卷之下",
+          "腿痛"
+        ]
+      },
+      {
+        "ordinal": 393,
+        "level": 2,
+        "title": "勞",
+        "path": [
+          "卷之下",
+          "勞"
+        ]
+      },
+      {
+        "ordinal": 398,
+        "level": 2,
+        "title": "咳嗽",
+        "path": [
+          "卷之下",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 403,
+        "level": 2,
+        "title": "瘧",
+        "path": [
+          "卷之下",
+          "瘧"
+        ]
+      },
+      {
+        "ordinal": 409,
+        "level": 2,
+        "title": "夢遺",
+        "path": [
+          "卷之下",
+          "夢遺"
+        ]
+      },
+      {
+        "ordinal": 414,
+        "level": 2,
+        "title": "心痛",
+        "path": [
+          "卷之下",
+          "心痛"
+        ]
+      },
+      {
+        "ordinal": 421,
+        "level": 1,
+        "title": "附錄",
+        "path": [
+          "附錄"
+        ]
+      },
+      {
+        "ordinal": 422,
+        "level": 2,
+        "title": "石山居士傳",
+        "path": [
+          "附錄",
+          "石山居士傳"
+        ]
+      },
+      {
+        "ordinal": 488,
+        "level": 2,
+        "title": "辨《明醫親著·忌用參耆論》",
+        "path": [
+          "附錄",
+          "辨《明醫親著·忌用參耆論》"
+        ]
+      },
+      {
+        "ordinal": 502,
+        "level": 2,
+        "title": "病用參耆論",
+        "path": [
+          "附錄",
+          "病用參耆論"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "5dfb44b5bd09ae2e9f54c017",
+        "title": "石山居士传",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "越十餘年，因久坐□□，漸次痛延左腳及右腳，又延及左右手，"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 66,
+      "paragraph_blocks": 449,
+      "nonempty_paragraph_blocks": 449,
+      "represented_paragraph_blocks": 449
+    }
+  }
+]

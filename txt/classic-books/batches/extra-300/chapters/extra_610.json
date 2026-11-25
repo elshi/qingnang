@@ -1,0 +1,2421 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_610",
+    "name": "内外伤辨惑论",
+    "summary": "《内外伤辨惑论》属于内科与杂病文献，内容涉及内伤杂病的辨证与方药。所收卷篇包括“辨阴证阳证”、“辨脉”、“辨寒热”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "金",
+    "author": "李杲",
+    "jp": "NWSBHL",
+    "aliases": [
+      "內外傷辨惑論"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "7d4de41a4eaa4a89674ace4b",
+      "title": "序",
+      "volume": null,
+      "content": "仆幼自受《难》、《素》于易水张元素先生，讲诵既久，稍有所得；中年以来，更事颇多，诸所诊治，坦然不惑，曾撰《内外伤辨惑论》一篇，以证世人用药之误。陵谷变迁，忽成老境，神志既惰，懒于语言，此论束之高阁十六年矣。昆仑范尊师曲相奖借，屡以活人为言，谓此书果行，使天下之人不致夭折，是亦仁人君子济人利物之事，就令著述不已，精力衰耗，书成而死，不愈于无益而生乎！予敬受其言，仅力疾就成之，虽未为完备，聊答尊师慈悯之志。师，宋文正公之后也。\n丁未岁重九日东垣老人李杲明之题",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "序"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "72baa8773600c28ad2c29617ceea31ce89435e6fe20ea5de10533565cb857a4a",
+      "content_sha256": "c51651cb06b8ed1a4806f148febad3b545b594c28c87c1575b6689e741a70b56",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 229,
+        "simplified_codepoints": 229
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "ec811e856345af45044294de",
+      "title": "辨阴证阳证",
+      "volume": "卷上",
+      "content": "曰甚哉！阴阳之证，不可不详！徧观《内经》中所说，变化百病，其源皆由喜怒过度，饮食失节，寒温不适，劳役所伤而然。夫「元气、谷气、荣气、清气、卫气，生发诸阳上升之气」，此六者，皆饮食入胃，谷气上行，胃气之异名，其实一也。既脾胃有伤，则中气不足；中气不足，则六腑阳气皆绝于外。故《经》言：五脏之气已绝于外者，是六腑之元气病也，气伤脏乃病，脏病则形乃应，是五脏六腑真气皆不足也。惟阴火独旺，上乘阳分，故荣卫失守，诸病生焉。其中变化，皆由中气不足，乃能生发耳。后有脾胃以受劳役之疾，饮食又复失节，耽病日久，事息心安，饱食太甚，病乃大作。\n概其外伤风寒六淫客邪，皆有余之病，当泻不当补；饮食失节，中气不足之病，当补不当泻。举世医者，皆以饮食失节，劳役所伤，中气不足当补之证，认作外感风寒有余客邪之病，重泻其表，使荣卫之气外绝，其死只在旬日之间，所谓差之毫厘，缪以千里，可不详辨乎？\n按〈阴阳应象大论〉云「天之邪气，感则害人五脏」，是八益之邪，乃风邪伤人筋骨。风从上受之，风伤筋，寒伤骨，盖有形质之物受病也，系在下焦，肝肾是也。肝肾者，地之气，《难经》解云肝肾之气，已绝于内，以其肝主筋，肾主骨，故风邪感人，则筋骨疼痛，筋骨之绝，则肾肝之本亦绝矣，乃有余之证也。又云「水谷之寒热，感则害人六腑」，是七损之病，乃内伤饮食也。《黄帝针经》解云：适饮食不节，劳役所伤，湿从下受之。谓脾胃之气不足，而反下行，极则冲脉之火逆而上，是无形质之元气受病也，系在上焦，心肺是也。心肺者，天之气。故《难经》解云心肺之气已绝于外，以其心主荣，肺主卫。荣者，血也。脉者，血之府，神之所居也。「卫」者，元气七神之别名，卫护周身，在于皮毛之间也。肺绝则皮毛先绝，神无所依，故内伤饮食，则亦恶风寒，是荣卫失守，皮肤间无阳以滋养，不能任风寒也。皮毛之绝，则心肺之本亦绝矣。盖胃气不升，元气不生，无滋养心肺，乃不足之证也。\n计受病之人，饮食失节，劳役所伤，因而饱食内伤者极多，外伤者间而有之，世俗不知，往往将元气不足之证，便作外感风寒表实之证，而反泻心肺，是重绝其表也，安得不死乎！古人所谓「实实虚虚，医杀之耳」。若曰不然，请以众人之耳闻目见者证之。\n向者壬辰改元，京师戒严，迨三月下旬，受敌者凡半月，解围之后，都人之不受病者，万无一二，既病而死者，继踵而不绝。都门十有二所，每日各门所送，多者二千，少者不下一千，似此者几三月，此百万人岂俱感风寒外伤者耶？大抵人在围城中，饮食不节，乃劳役所伤，不待言而知。由其朝饥暮饱，起居不时，寒温失所，动经三两月，胃气亏乏久矣，一旦饱食太过，感而伤人，而又调治失宜，其死也无疑矣。非惟大梁为然，远在贞祐、兴定间，如东平，如太原，如凤翔，解围之后，病伤而死，无不然者。余在大梁，凡所亲见，有表发者，有以巴豆推之者，有以〈承气汤〉下之者，俄而变结胸，发黄，又以〈陷胸汤〉、〈丸〉及〈茵陈汤〉下之，无不死者。盖初非伤寒，以调治差误，变而似真伤寒之证，皆药之罪也。往者不可追，来者犹可及，辄以平生已试之效，著〈内外伤辨惑论〉一篇，推明前哲之余论，历举近世之变故，庶几同志者，审其或中，触类而长之，免后人之横夭耳，僭易之罪，将何所逃乎。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 5,
+      "source_path": [
+        "卷上",
+        "辨陰證陽證"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "da45ea41f689fecc39164d5621ef243cd7c879b54e6659f493c3e0f7c788902a",
+      "content_sha256": "bc09b68c348c6d31a4e3bb14c2b2aca9d1bfd67321b516914b0be96c251589b4",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1309,
+        "simplified_codepoints": 1309
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "42e91b8a0f5ca2f2d19a3f4e",
+      "title": "辨脉",
+      "volume": "卷上",
+      "content": "古人以脉上辨内外伤于人迎、气口。人迎脉大于气口为外伤，气口脉大于人迎为内伤。此辨固是，但其说有所未尽耳。外感风寒，皆有余之证，是从前客邪来也，其病必见于左手，左手主表，乃行阳二十五度。内伤饮食及饮食不节，劳役不节，皆不足之病也，必见于右手，右手主里，乃行阴二十五度。故外感寒邪，则独左寸人迎脉浮紧，按之洪大，紧者急甚于弦，是足太阳寒水之脉；按之洪大而有力，中见手少阴心火之脉，丁与壬合，内显洪大，乃伤寒脉也。若外感风邪，则人迎脉缓而大于气口一倍，或两倍、三倍。内伤饮食，则右寸气口脉大于人迎一倍；伤之重者，过在少阴，则两倍，太阴则三倍，此内伤饮食之脉。若饮食不节，劳役过甚，则心脉变见于气口，是心火刑肺，其肝木挟心火之势亦来薄肺，《经》云「侮所不胜，寡于畏」者是也。故气口脉急大而涩数，时一代而涩也。涩者，肺之本脉；代者，元气不相接，脾胃不及之脉。洪大而数者，心脉刑肺也；急者，肝木挟心火而反克肺金也。若不甚劳役，惟右关脾脉大而数，谓独大于五脉，数中显缓，时一代也。如饮食不节，寒温失所，则先右关胃脉损弱，甚则隐而不见，惟内显脾脉之大数微缓，时一代也。宿食不消，则独右关脉沉而滑。《经》云：「脉滑者，有宿食也。」以此辨之，岂不明白易见乎！但恐山野间卒无医者，何以诊候？故复说病证以辨之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 11,
+      "source_path": [
+        "卷上",
+        "辨脈"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "94ae16efc12771dc3a2c2661b9d5684296c3a5301736756420fadd3f946d6807",
+      "content_sha256": "e7fa0ddf0027a28a1bb72891012614d42cbf3b89c05a2c175e432ec9d0aef9ab",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        12
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 543,
+        "simplified_codepoints": 543
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "648530ddf8abda1a4a3c386c",
+      "title": "辨寒热",
+      "volume": "卷上",
+      "content": "外伤寒邪之证，与饮食失节，劳役形质之病，及内伤饮食，俱有寒热。举世尽将内伤饮食失节，劳役不足之病，作外伤寒邪，表实有余之证，反泻其表，枉死者岂胜言哉！皆由不别其寒热耳。今细为分解之。\n外伤寒邪，发热恶寒，寒热并作。其热也，翕翕发热，又为之拂拂发热，发于皮毛之上，如羽毛之拂，明其热在表也，是寒邪犯高之高者也。皮肤毛腠者，阳之分也，是卫之元气所滋养之分也。以寒邪乘之，郁遏阳分，阳不得伸，故发热也。其面赤，鼻气壅塞不通，心中烦闷，稍似袒裸，露其皮肤，已不能禁其寒矣。其表上虚热，止此而已。其恶寒也，虽重衣下幕，逼近烈火，终不能御其寒，一时一日，增加愈甚，必待传入里作下证乃罢。其寒热齐作，无有间断也。\n其内伤饮食不节，或劳役所伤，亦有头痛、项痛、腰痛，与太阳表证微有相似，余皆不同，论中辨之矣。内伤不足之病，表上无阳，不能禁风寒也，此则常常有之；其躁热发于肾间者，间而有之，与外中寒邪，略不相似。其恶风寒也，盖脾胃不足，荣气下流，而乘肾肝，此痿厥气逆之渐也。若胃气平常，饮食入胃，其荣气上行，以舒于心肺，以滋养上焦之皮肤腠理之元气也；既下流，其心肺无有禀受，皮肤间无阳，失其荣卫之外护，故阳分皮毛之间虚弱，但见风见寒，或居阴寒处，无日阳处，便恶之也，此常常有之，无间断者也。但避风寒及温暖处，或添衣盖，温养其皮肤，所恶风寒便不见矣。是热也，非表伤寒邪，皮毛间发热也。乃肾间受脾胃下流之湿气，闭塞其下，致阴火上冲，作蒸蒸而躁热，上彻头顶，旁彻皮毛，浑身躁热，作须待袒衣露居，近寒凉处即已，或热极而汗出亦解。彼外伤恶寒发热，岂有汗出者乎？若得汗，则病愈矣。以此辨之，岂不如黑白之易见乎！\n当内虚而伤之者躁热也，或因口吸风寒之气，郁其阴火，使咽膈不通，其吸入之气欲入，为膈上冲脉之火所拒，使阴气不得入，其胸中之气为外风寒所遏而不得伸，令人口开目瞪，极则声发于外，气不能上下，塞于咽中而气欲绝。又或因哕因呕因吐，而躁热发必有所因，方有此证，其表虚恶风寒之证复见矣。表虚之弱，为阴火所乘，躁发须臾而过，其表虚无阳，不任风寒复见矣。是表虚无阳，常常有之，其躁热则间而有之，此二者不齐，躁作寒已，寒作躁已，非如外伤之寒热齐作，无有间断也。\n百病俱有身热，又谓之肌热，又谓之皮肤间热，以手扪之方知者是也，乃肌体有形之热也，亦须皆待阴阳既和，汗出则愈矣，慎不可于此上辨之，以其虚实内外病皆有之，故难辨耳；只依此说，病人自觉发热恶寒之热及躁作之热上辨之，为准则矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 13,
+      "source_path": [
+        "卷上",
+        "辨寒熱"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "2bfacbc407fac06f4007660fe1b46474c3f3116a5399704e0c9a524f63fb4898",
+      "content_sha256": "3cfddc95491ce96544354c66447ed8338c62245e6b1c481b2d979bd740922ef5",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1021,
+        "simplified_codepoints": 1021
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "9545a99b04d05702ae3b237d",
+      "title": "辨外感八风之邪",
+      "volume": "卷上",
+      "content": "辨外感八风之邪，或有饮食劳役所伤之重者，三二日间特与外伤者相似，其余证有特异名者，若不将两证重别分解，犹恐将内伤不足之证，误作有余外感风邪，虽辞理有重复处，但欲病者易辨，医者易治耳。\n外感八风之邪，乃有余证也；内伤饮食不节，劳役所伤，皆不足之病也。其内伤亦恶风自汗，若在温暖无风处，则不恶矣，与外伤鼻流清涕，头痛自汗颇相似，细分之特异耳。外感风邪，其恶风，自汗，头痛，鼻流清涕，常常有之，一日一时，增加愈甚，直至传入里作下证乃罢。语声重浊，高厉有力，鼻息壅塞而不通，能食，腹中和，口知味，大小便如常，筋骨疼痛，不能动摇，便著床枕，非扶不起。\n其内伤与饮食不节，劳役所伤，然亦恶风，居露地中，遇大漫风起，却不恶也，惟门窗隙中些小贼风来，必大恶也，与伤风伤寒俱不同矣。况鼻流清涕，头痛自汗，间而有之。鼻中气短，少气不足以息，语则气短而怯弱，妨食，或食不下，或不饮食，三者互有之。腹中不和，或腹中急而不能伸，口不知五谷之味，小便频数而不渴。初劳役得病，食少，小便赤黄，大便常难，或涩或结，或虚坐只见些小白脓；时有下气，或泄黄如糜，或溏泄色白，或结而不通。若心下痞，或胸中闭塞，如刀劙之痛，二者亦互作，不并出也；有时胃脘当心而痛，上支两胁，痛必脐下相火之势，如巨川之水，不可遏而上行，使阳明之经逆行，乱于胸中，其气无止息，甚则高喘，热伤元气，令四肢不收，无气以动，而懒倦嗜卧。以其外感风寒俱无此证，故易为分辨耳！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 19,
+      "source_path": [
+        "卷上",
+        "辨外感八風之邪"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "17334231fb092e77642bab6ade2023cc2264cebd0ae8e5b35ff763b436f239b8",
+      "content_sha256": "ee3c1e1685f745fc613494f9e5014291907c2eb87c5bcf7ce1cd4a9e7bb54f04",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        20,
+        21,
+        22
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 602,
+        "simplified_codepoints": 602
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "43fbf994a65bba3eb9dcfc4f",
+      "title": "辨手心手背",
+      "volume": "卷上",
+      "content": "内伤及劳役饮食不节病，手心热，手背不热；外伤风寒，则手背热，手心不热。此辨至甚皎然。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 23,
+      "source_path": [
+        "卷上",
+        "辨手心手背"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "8387c309408dcb203aa3f1148cf9301cca9c1ac5ef0d7e8db8321391eee4975b",
+      "content_sha256": "e60d11f48e719c89d87ef0b86f6b477e29a0a6dded900d97dbfe62c8c74fd77a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        24
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 42,
+        "simplified_codepoints": 42
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "479a8f36fc3294b463a8700a",
+      "title": "辨口鼻",
+      "volume": "卷上",
+      "content": "若饮食劳役所伤，其外证必显在口，必口失谷味，必腹中不和，必不欲言，纵勉强对答，声必怯弱，口沃沫多唾，鼻中清涕或有或无，即阴证也。外伤风寒，则其外证必显在鼻，鼻气不利，声重浊不清利，其言壅塞，盛有力，而口中必和。伤寒则面赤，鼻壅塞而干，伤风则鼻流清涕而已。《内经》云：鼻者肺之候，肺气通于天。外伤风寒，则鼻为之不利。口者坤土地，脾气通于口。饮食失节，劳役所伤，口不知谷味，亦不知五味。又云：伤食恶食，伤食明矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 25,
+      "source_path": [
+        "卷上",
+        "辨口鼻"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "27bf04436908a25aee9989abe76abfda683f58d6941e882d09d4a5df5e739fda",
+      "content_sha256": "0948576d51f23519dbcb2e82a65b5e3a4b2038e2d0c752fa0207f538f44367ad",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        26
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 204,
+        "simplified_codepoints": 204
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "40bdf9dd00adb1db2dfc3cb6",
+      "title": "辨气少气盛",
+      "volume": "卷上",
+      "content": "外伤风寒者，故其气壅盛而有余，内伤饮食劳役者，其口鼻中皆气短促，不足以息。何以分之？盖外伤风寒者，心肺元气初无减损，又添邪气助之，使鼻气壅塞不利，其面赤，其鼻中气不能出，并从口出，但发一言，必前轻而后重，其言高，其声壮厉而有力。是伤寒则鼻干无涕，面壅色赤，其言前轻后重，其声壮厉而有力者，乃有余之验也；伤风则决然鼻流清涕，其声嘎，其言响如从瓮中出，亦前轻而后重，高揭而有力，皆气盛有余之验也。\n内伤饮食劳役者，心肺之气先损，为热所伤，热既伤气，四肢无力以动，故口鼻中皆短气少气，上喘懒语，人有所问，十不欲对其一，纵勉强答之，其气亦怯，其声亦低，是其气短少不足之验也。明白如此，虽妇人女子亦能辨之，岂有医者反不能辨之乎？",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 27,
+      "source_path": [
+        "卷上",
+        "辨氣少氣盛"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "9818300dc7cbc8274ac2e5dab68e90d29877092ff5af7053f9ec68f2df4dbef6",
+      "content_sha256": "feb737926ddeb63e2ca1241fb5f65a54f1597ee5cd0d7aff16900ba4d197f4a2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        28,
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 309,
+        "simplified_codepoints": 309
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "296f1009b6d067ea58cff7ea",
+      "title": "辨头痛",
+      "volume": "卷上",
+      "content": "内证头痛，有时而作，有时而止；外证头痛，常常有之，直须传入里实方罢。此又内外证之不同者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "卷上",
+        "辨頭痛"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "45b5935d8570fdc46749bce4e9da599150348e5cd7aedaec453f8434f22fc640",
+      "content_sha256": "0a00bbb9187ca2b8f32e47304f86aec9afbf69f3618fa7a66c337af48c1aa386",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "404fee8b31cac499b1d2b096",
+      "title": "辨筋骨四肢",
+      "volume": "卷上",
+      "content": "内伤等病，是心肺之气已绝于外，必怠惰嗜卧，四肢沉困不收，此乃热伤元气。脾主四肢，既为热所乘，无气以动。经云：「热伤气」。又云：热则骨消筋缓。此之谓也。若外伤风寒，是肾肝之气已绝于内。肾主骨，为寒；肝主筋，为风。自古肾肝之病同一治，以其递相维持也，故经言胆主筋，膀胱主骨是也。或中风，或伤寒，得病之日，便著床枕，非扶不起，筋骨为之疼痛，不能动摇，乃形质之伤。经云：「寒伤形」。又云：「寒则筋挛骨痛」。此之谓也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "卷上",
+        "辨筋骨四肢"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "4efa6f3434c822c1296be0f0582086b618ab14280cb31271cbe336c071305fef",
+      "content_sha256": "fc2599c902b28e978ab7bc395ed7400b3eacb5fc7bac080b79a5f0af77b2915e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 204,
+        "simplified_codepoints": 204
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "241162087651a99de096dd5a",
+      "title": "辨外伤不恶食",
+      "volume": "卷上",
+      "content": "辨外伤不恶食，若劳役饮食失节，寒温不适，此三者皆恶食。\n仲景《伤寒论》云，中风能食，伤寒不能食，二者皆口中和而不恶食。若劳役所伤及饮食失节、寒温不适三者，俱恶食，口不知五味，亦不知五谷之味。只此一辨，足以分内外有余不足二证也。伤寒证虽不能食，而不恶食，口中和，知五味，亦知谷味，盖无内证，则心气和，脾气通，知五谷之味矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "卷上",
+        "辨外傷不惡食"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "ca16e82b1d7d77246f9a8ad7436c9066d8ad07751ebcdbdf9eb00fd9a1e212af",
+      "content_sha256": "9c30e3cc39a6ff7d680322515a1ebcac025d6e32ea959814e0880e6a31ee0316",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        35,
+        36
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "020df814a13af45fd5ff8a53",
+      "title": "辨渴与不渴",
+      "volume": "卷上",
+      "content": "外感风寒之邪，三日已外，谷消水去，邪气传里，始有渴也。内伤饮食失节，劳役久病者，必不渴，是邪气在血脉中有余故也。初劳役形质，饮食失节，伤之重者，必有渴，以其心火炽，上克于肺金，故渴也。又当以此辨之。虽渴欲饮冷水者，当徐徐少与之，不可纵意而饮，恐水多峻下，则胃气愈弱，轻则为胀，重则传变诸疾，必反复闷乱，百脉不安，夜加增剧，不得安卧，不可不预度也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 37,
+      "source_path": [
+        "卷上",
+        "辨渴與不渴"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "2dfd53c1b9eeaf8c2c5032d64c3b0e8bfa1ae199e39d0f1f05037a90699d61f6",
+      "content_sha256": "9cc1b858904a4ad0549d8554eebab20a8f5c31f64423da93f792b26d71493eb4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        38
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 173,
+        "simplified_codepoints": 173
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "c1ea497aa1facdd67eb47d70",
+      "title": "辨劳役受病表虚不作表实治之",
+      "volume": "卷上",
+      "content": "或因劳役动作，肾间阴火沸腾，事闲之际，或于阴凉处解脱衣裳，更有新沐浴，于背阴处坐卧，其阴火下行，还归肾间，皮肤腠理极虚无阳，但风来为寒凉所遏，表虚不任其风寒，自认外感风寒，求医解表，以重绝元气，取祸如反掌。苟幸而免者，致虚劳，气血皆弱，不能完复。且表虚之人，为风寒所遏，亦是虚邪犯表，始病一二日之间，特与外中贼邪有余之证颇相似处，故致疑惑，请医者只于气少气盛上辨之。其外伤贼邪，必语声前轻后重，高厉而有力；若是劳役所伤，饮食不节，表虚不足之病，必短气气促。上气高喘，懒语，其声困弱而无力，至易见也。若毫厘之误，则千里之谬。以上诸辨证，别有治法用药正论，故作此说，分解于后。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 39,
+      "source_path": [
+        "卷上",
+        "辨勞役受病表虛不作表實治之"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "a514e6c72785fda781c810f092a884ea22f99af6b6860fbd74b74f74b086b1e3",
+      "content_sha256": "c4556696995f63891bd5e711c656a7769415c42753dc0a9d49ceeb2928e3bf4f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        40
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 286,
+        "simplified_codepoints": 286
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "40e8de5a677e8060f4ad8d0a",
+      "title": "辨证与中热颇相似",
+      "volume": "卷上",
+      "content": "复有一节，乘天气大热之时，在于路途中劳役得之，或在田野间劳形得之；更或有身体薄弱，食少劳役过甚，又有修善常斋之人，胃气久虚，而因劳役得之者。皆与阳明中热白虎汤证相似，必肌体扪摸之壮热，必躁热闷乱，大恶热，渴而饮水，以劳役过甚之故。亦身疼痛，始受病之时，特与中热外得有余之证相似，若误与白虎汤，旬日必死。此证脾胃大虚，元气不足，口鼻中气皆短促而上喘，至日转以后，是阳明得时之际，病必少减。若是外得中热之病，必到日晡之际，大作讝语，其热增加，大渴饮水，烦闷不止，其劳役不足者，皆无此证，尤易为分解。若有难决疑似之证，必当待一二日求医治疗，必不至错误矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 41,
+      "source_path": [
+        "卷上",
+        "辨證與中熱頗相似"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "78de3b169f9d7494d125fc088f47a8824378f3b6ec5532b826ccae3aa222ff0d",
+      "content_sha256": "7603b9f3914ddf0a8aa71082485bcaa92eb427d3c489d465c61adbe5a4ee62e0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        42
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 274,
+        "simplified_codepoints": 274
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "d28284456df559a859c6e021",
+      "title": "饮食劳倦论",
+      "volume": "卷中",
+      "content": "古之至人，穷于阴阳之化，究乎生死之际，所著《内经》，悉言人以胃气为本。盖人受水谷之气以生，所谓清气、荣气、卫气、春升之气，皆胃气之别称也。夫「胃为水谷之海」，「饮食入胃，游溢精气，上输于脾；脾气散精，上归于肺；通调水道，下输膀胱。水精四布，五经并行，合于四时五脏阴阳，揆度以为常也。」\n苟饮食失节，寒温不适，则脾胃乃伤；喜怒忧恐，劳役过度，而损耗元气。既脾胃虚衰，元气不足，而心火独盛。心火者，阴火也，起于下焦，其系系于心，心不主令，相火代之；相火，下焦胞络之火，元气之贼也。火与元气不能两立，一胜则一负。脾胃气虚，则下流于肾，阴火得以乘其土位。故脾胃之证，始得之则气高而喘，身热而烦，其脉洪大而头痛，或渴不止，皮肤不任风寒而生寒热。盖阴火上冲，则气高而喘，身烦热，为头痛，为渴，而脉洪大；脾胃之气下流，使谷气不得升浮，是生长之令不行，则无阳以护其荣卫，不任风寒，乃生寒热，皆脾胃之气不足所致也。\n然而与外感风寒所得之证颇同而理异。内伤脾胃，乃伤其气；外感风寒，乃伤其形。伤外为有余，有余者泻之，伤内为不足，不足者补之。汗之、下之、吐之、克之，皆泻也；温之、和之、调之、养之，皆补也。内伤不足之病，苟误认作外感有余之病而反泻之，则虚其虚也。《难经》云：实实虚虚，损不足而益有余，如此死者，医杀之耳！然则奈何？曰：惟当以甘温之剂，补其中，升其阳，甘寒以泻其火则愈。《内经》曰：「劳者温之」，「损者温之」。盖温能除大热，大忌苦寒之药泻胃土耳。今立补中益气汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "卷中",
+        "飲食勞倦論"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "4be9bb6b2e0c4c28ad00284d8fa50269e8185119475593287d629a111bdbaaeb",
+      "content_sha256": "aab0dbf1e26be7b3c756b19858364ef304e63b46be684ae1b7d5c3d01e3054d4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        45,
+        46,
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 627,
+        "simplified_codepoints": 627
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "1c6c30a1927b628a644b0009",
+      "title": "补中益气汤",
+      "volume": "卷中 / 饮食劳倦论",
+      "content": "黄耆（劳役病热甚者一钱） 甘草（炙以上各五分） 人参（去芦） 升麻 柴胡 橘皮 当归身（酒洗） 白术（以上各三分）\n上件㕮咀，都作一服，水二盏，煎至一盏，去柤，早饭后温服。如伤之重者，二服而愈，量轻重治之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "卷中",
+        "飲食勞倦論",
+        "補中益氣湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "cdfd09adccbc3083015450089611ffff70bbf1758460fa8d881962cceedeee86",
+      "content_sha256": "f7554a402a7dd42fb9c616744bd48e18b33a3914caf5993d5e069b45462d21b0",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        49,
+        50
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 103,
+        "simplified_codepoints": 103
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "73fa54babdc3181a25a282ba",
+      "title": "立方本指",
+      "volume": "卷中 / 饮食劳倦论",
+      "content": "夫脾胃虚者，因饮食劳倦，心火亢甚，而乘其土位，其次肺气受邪，须用黄耆最多，人参、甘草次之。脾胃一虚，肺气先绝，故用黄耆以益皮毛而闭腠理，不令自汗，损其元气。上喘气短，人参以补之。心火乘脾，须炙甘草之甘以泻火热，而补脾胃中元气，若脾胃急痛并大虚，腹中急缩者，宜多用之，经云：「急者缓之。」白术苦甘温，除胃中热，利腰脐间血。胃中清气在下，必加升麻、柴胡以引之，引黄耆、人参、甘草甘温之气味上升，能补卫气之散解，而实其表也；又缓带脉之缩急。二味苦平，味之薄者，阴中之阳，引清气上升也。气乱于胸中，为清浊相干，用去白陈皮以理之，又能助阳气上升，以散滞气，助诸甘辛为用，口干咽干加干葛。脾胃气虚，不能升浮，为阴火伤其生发之气，荣血大亏，荣气不营，阴火炽盛，是血中伏火日渐煎熬，血气日减，心包与心主血，血减则心无所养，致使心乱而烦，病名曰悗。悗者，心惑而烦闷不安也，故加辛甘微温之剂生阳气，阳生则阴长。或曰：甘温何能生血？曰：仲景之法，血虚以人参补之，阳旺则能生阴血，更以当归和之。少加黄柏以救肾水，能泻阴中之伏火。如烦犹不止，少加生地黄补肾水，水旺而心火自降。如气浮心乱，以朱砂安神丸镇固之则愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 51,
+      "source_path": [
+        "卷中",
+        "飲食勞倦論",
+        "立方本指"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "ac9fe787d8fb187938027a6076207cd7caf633d8fd40f2e52cef0c306db39e12",
+      "content_sha256": "7474af2b5e537b1b7d71571ad836ea1f0b0d40e8d40b2ac2c218984bea72682e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        52
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 493,
+        "simplified_codepoints": 493
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "08d7022b81345c5a8df6b4e5",
+      "title": "朱砂安神丸",
+      "volume": "卷中 / 饮食劳倦论",
+      "content": "朱砂（五钱，另研水飞为衣） 甘草（五钱五分） 黄连（去须净，酒洗，六钱） 当归（去芦，二钱五分） 生地黄（一钱五分）\n《内经》曰：热淫所胜，治以甘寒，以苦泻之。以黄连之苦寒，去心烦，除湿热为君。以甘草、生地黄之甘寒，泻火补气，滋生阴血为臣。以当归补其血不足。朱砂纳浮溜之火，而安神明也。\n上件除朱砂外，四味共为细末，汤浸蒸饼为丸，如黍米大，以朱砂为衣。每服十五丸或二十丸，津唾咽下，食后，或温水、凉水少许送下亦得。此近而奇偶，制之缓也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 53,
+      "source_path": [
+        "卷中",
+        "飲食勞倦論",
+        "硃砂安神丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "83072c22f39989b5b060ab1ba66690bc027362af479511593267dcc54708bbb5",
+      "content_sha256": "031ffe694193d1dd04b8f737626e721c13388bebedcaad3e72ec2e011c7a96f7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        54,
+        55,
+        56
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 218,
+        "simplified_codepoints": 218
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "0a1db3012e0e7a324374b5f5",
+      "title": "四时用药加减法",
+      "volume": "卷中",
+      "content": "《内经》曰：胃为水谷之海。又云：肠胃为市，无物不包，无物不入，寒热温凉皆有之。其为病也不一，故随时证于补中益气汤中，权立四时加减法于后。\n以手扪之而肌表热者，表证也。只服补中益气汤一二服，得微汗则已。非正发汗，乃阴阳气和，自然汗出也。\n若更烦乱，如腹中或周身有刺痛，皆血涩不足，加当归身（五分或一钱）。\n如精神短少，加人参（五分），五味子二十个。\n头痛加蔓荆子（三分），痛甚加川芎（五分）。\n顶痛脑痛，加藁本（五分），细辛（三分）。诸头痛，并用此四味足矣。\n如头痛有痰，沉重懒倦者，乃太阴痰厥头痛，加半夏（五分），生姜（三分）。\n耳鸣，目黄，颊颔肿，颈肩臑肘臂外后廉痛，面赤，脉洪大者，以羌活（一钱），防风、藁本（以上各七分），甘草（五分），通其经血；加黄芩、黄连（以上各三分）消其肿；人参（五分），黄耆（七分），益元气而泻火邪。另作一服与之。\n嗌痛颔肿，脉洪大，面赤者，加黄芩、甘草（以上各三分），桔梗（七分）。\n口干咽干者，加葛根（五分），升引胃气上行以润之。\n如夏月咳嗽者，加五味子（二十五个），麦门冬（去心五分）。\n如冬月咳嗽，加不去根节麻黄（五分）。\n如秋凉亦加。\n如春月天温，只加佛耳草、款冬花（以上各五分）。\n若久病痰嗽，肺中伏火，去人参，以防痰嗽增益耳。\n食不下，乃胸中胃上有寒，或气涩滞，加青皮、木香（以上各三分），陈皮（五分）。此三味为定法。\n如冬月，加益智仁，草豆蔻仁（以上各五分）。\n如夏月，少加黄芩、黄连（以上各五分）。\n如秋月，加槟榔、草豆蔻、白豆蔻、缩砂（以上各五分）。\n如春初犹寒，少加辛热之剂，以补春气之不足，为风药之佐，益智、草豆蔻可也。\n心下痞，夯闷者，加芍药、黄连（以上各一钱）。\n如痞腹胀，加枳实、木香、缩砂仁（以上各三分），厚朴（七分）。如天寒，少加干姜或中桂（桂心也）。\n心下痞，觉中寒，加附子、黄连（以上各一钱）。不能食而心下痞，加生姜、陈皮（以上各一钱）。能食而心下痞，加黄连（五分），枳实（三分）。脉缓有痰而痞，加半夏、黄连（以上各一钱）。脉弦，四肢满，便难而心下痞，加黄连（五分），柴胡（七分），甘草（三分）。\n腹中痛者，加白芍药（五分），甘草（三分）。如恶寒觉冷痛，加中桂（五分）。\n如夏月腹中痛，不恶寒，不恶热者，加黄芩、甘草（以上各五分），芍药（一钱），以治时热也。\n腹痛在寒凉时，加半夏、益智、草豆蔻之类。\n如腹中痛，恶寒而脉弦者，是木来克土也，小建中汤主之；盖芍药味酸，于土中泻木为君。如脉沉细，腹中痛，是水来侮土，以理中汤主之；干姜辛热，于土中泻水，以为主也。如脉缓，体重节痛，腹胀自利，米谷不化，是湿胜，以平胃散主之，苍术苦辛温，泻湿为主也。\n胁下痛，或胁下缩急，俱加柴胡（三分，甚则五分），甘草（三分）。\n脐下痛者，加真熟地黄（五分）；如不已者，乃大寒也，加肉桂（五分）。遍阅《内经》中悉言小腹痛皆寒，非伤寒厥阴之证也，乃下焦血结膀胱，仲景以抵当汤并抵当丸主之。\n小便遗失，肺金虚也，宜安卧养气，以黄耆人参之类补之。不愈，则是有热也，黄柏、生地黄（以上各五分），切禁劳役。如卧而多惊，小便淋溲者，邪在少阳厥阴，宜太阳经所加之药，更添柴胡（五分）；如淋，加泽泻（五分）。此下焦风寒合病也。经云，肾肝之病同一治，为俱在下焦，非风药行经则不可，乃受客邪之湿热也，宜升举发散以除之。\n大便秘涩，加当归（一钱），大黄（酒洗煨，五分或一钱）。如有不大便者，煎成正药，先用清者一口，调玄明粉（五分或一钱），如大便行则止。此病不宜大下之，必变凶证也。\n脚膝痿软，行步乏力，或痛，乃肾肝伏热，少加黄柏（五分），空心服；不已，更加汉防己（五分）。脉缓，显沉困怠惰无力者，加苍术、人参、泽泻、白术、茯苓、五味子（以上各五分）。\n如风湿相搏，一身尽痛，以除风湿羌活汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 57,
+      "source_path": [
+        "卷中",
+        "四時用藥加減法"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "27c438d0bfdb21f464989622399f84c9ac955964fbffc7691c7c6730f01fdecf",
+      "content_sha256": "7b62cf46f215b50a23211d381ef25226583a004895c16d4ef0da7342ae3c81d6",
+      "paragraph_count": 33,
+      "paragraph_ordinals": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1559,
+        "simplified_codepoints": 1559
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "b63eb43f6f0078d838ac472c",
+      "title": "除风湿羌活汤",
+      "volume": "卷中 / 四时用药加减法",
+      "content": "羌活（七分） 防风 升麻 柴胡（以上各五分） 藁本 苍术（以上各一钱）\n上件锉如麻豆大，都作一服，水二盏，煎至一盏，去柤，大温服之，空心，食前。\n所以然者，为风药已能胜湿，故另作一服与之。\n肩背痛，汗出，小便数而少，风热乘肺，肺气郁甚也，当泻风热则愈，通气防风汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 91,
+      "source_path": [
+        "卷中",
+        "四時用藥加減法",
+        "除風濕羌活湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "5bf62c1f024a13301fa1a569e6c32f2335b317f1426b1dd24e9536e447754857",
+      "content_sha256": "c2ebeae3a78ecccac8578d6aa06b52aced49ab65b49cadb2bab2e9b1c578138b",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        92,
+        93,
+        94,
+        95
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 134,
+        "simplified_codepoints": 134
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "429580b9166f9f1ed6daf6b0",
+      "title": "通气防风汤",
+      "volume": "卷中 / 四时用药加减法",
+      "content": "防风 羌活 陈皮 人参 甘草（以上各五分） 藁本 青皮（以上各三分） 白豆蔻 黄柏（以上各二分） 升麻 柴胡 黄耆（以上各一钱）\n上㕮咀，都作一服，水二盏，煎至一盏，去渣，温服，食后。\n如面白脱色，气短者，不可服。\n肩背痛不可回顾者，此手太阳气郁而不行，以风药散之。脊痛项强，腰似折，项似拔，此足太阳经不通行，以羌活胜湿汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 96,
+      "source_path": [
+        "卷中",
+        "四時用藥加減法",
+        "通氣防風湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "56d1f5adeb1e375eb4b8c9eed84d3462e688732d9f5eefe6dec53e2766f58722",
+      "content_sha256": "ebde5377a81bcb2a1b8e946ef083072388744736346e76d4301eaf35384c8914",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        97,
+        98,
+        99,
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 164,
+        "simplified_codepoints": 164
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "69ba9acb0f18fa52613eb66a",
+      "title": "羌活胜湿汤",
+      "volume": "卷中 / 四时用药加减法",
+      "content": "羌活 独活（以上各一钱） 藁本 防风 甘草（炙） 川芎（以上各五分） 蔓荆子（三分）\n上㕮咀，都作一服，水二盏，煎至一盏，去渣，大温服，食后。\n如身重，腰沉沉然，经中有寒湿也，加酒洗汉防己（五分），轻者附子（五分），重者川乌（五分）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "卷中",
+        "四時用藥加減法",
+        "羌活勝濕湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "f09e700e0755f41ed7b8053cc107b37906316d38c85131b3c341f056b11f357e",
+      "content_sha256": "dcdec7fe5be0b29ee08bf90ff3ca67fe421b4e4fc4a9039c3f95483e088eb669",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        102,
+        103,
+        104
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "88a5bf6e8bbecabc4a88e017",
+      "title": "升阳顺气汤",
+      "volume": "卷中 / 四时用药加减法",
+      "content": "治因饮食不节，劳役所伤，腹胁满闷，短气。遇春则口淡无味，遇夏虽热，犹有恶寒，饥则常如饱，不喜食冷物。\n黄耆（一两） 半夏（三钱，汤洗七次） 草豆蔻（二钱） 神曲（一钱五分，炒） 升麻 柴胡 当归身 陈皮（以上各一钱）甘草（炙） 黄柏（以上各五分） 人参（去芦，三分）\n脾胃不足之证，须用升麻、柴胡苦平，味之薄者，阴中之阳，引脾胃中清气行于阳道及诸经，生发阴阳之气，以滋春气之和也；又引黄耆、人参、甘草甘温之气味上行，充实腠理，使阳气得卫外而为固也。凡治脾胃之药，多以升阳补气名之者此也。\n上件㕮咀，每服三钱，水二盏，生姜三片，煎至一盏，去渣，温服，食前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "卷中",
+        "四時用藥加減法",
+        "升陽順氣湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "7a483166a13b5b830b289b0e3d58da2285380a78ea3017d9a6b3ebbedb3d04ac",
+      "content_sha256": "2885eeafc2511a44891c29bf393623f7f4766426d843d83f4394daf76ebd5c43",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        106,
+        107,
+        108,
+        109
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 277,
+        "simplified_codepoints": 277
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "749d748ca2f3ace28a2cdc27",
+      "title": "升阳补气汤",
+      "volume": "卷中 / 四时用药加减法",
+      "content": "治饮食不时，饥饱劳役，胃气不足，脾气下溜，气短无力，不能寒热，早饭后转增昏闷，须要眠睡，怠惰，四肢不收，懒倦动作，及五心烦热。\n厚朴（姜制，五分） 升麻 羌活 白芍药，独活 防风 甘草（炙） 泽泻（以上各一钱） 生地黄（一钱五分） 柴胡（二钱五分）\n上件为粗末，每服五钱，水二盏，生姜三片，枣二枚，煎至一盏，去渣，大温服，食前。\n如腹胀及窄狭，加厚朴。\n如腹中似硬，加砂仁三分。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 110,
+      "source_path": [
+        "卷中",
+        "四時用藥加減法",
+        "升陽補氣湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "8b11e0daed23466025a91fc019fa49b2fc05e3f381d9e1920a7daa8f90bac1b9",
+      "content_sha256": "fe474ada47492fc4805fd52dc6134a3e4623808e182fb148e4641d8d80425a76",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        111,
+        112,
+        113,
+        114,
+        115
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 189,
+        "simplified_codepoints": 189
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "b2e51444f5b3bee6048b8167",
+      "title": "暑伤胃气论",
+      "volume": "卷中",
+      "content": "《刺志论》云：「气虚身热，得之伤暑」。热伤气故也。《痿论》云：「有所远行劳倦，逢大热而渴，渴则阳气内伐，内伐则热舍于肾，肾者水脏也，今水不能胜火，则骨枯而髓虚，故足不任身，发为骨痿。故《下经》曰：骨痿者，生于大热也。」此湿热成痿，令人骨乏无力，故治痿独取阳明。\n时当长夏，湿热大胜，蒸蒸而炽。人感之多四肢困倦，精神短少，懒于动作，胸满气促，肢节沉痛；或气高而喘，身热而烦，心下膨痞，小便黄而少，大便溏而频，或痢出黄糜，或如泔色；或渴或不渴，不思饮食，自汗体重；或汗少者，血先病而气不病也。其脉中得洪缓，若湿气相搏，必加之以迟，迟病虽互换少差，其天暑湿令则一也。宜以清燥之剂治之，名之曰清暑益气汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 116,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "dfb716e7e2f71a050ace54f07d20e5161f312413b2a2c08108dbfa6252e23785",
+      "content_sha256": "fecd67a1b451f3906708e25dc15fd92823cb0b05863a56069773459ccb283906",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        117,
+        118
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 300,
+        "simplified_codepoints": 300
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "1116f7bf60e082ece02076a9",
+      "title": "清暑益气汤",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "黄耆（汗少者减五分） 苍术（泔浸去皮，以上各一钱五分） 升麻（一钱） 人参（去芦） 白术 橘皮 神曲（炒） 泽泻（以上各五分） 甘草（炙） 黄柏（酒浸） 当归身 麦门冬（去心） 青皮（去白） 葛根（以上各三分） 五味子（九个）\n《内经》云：「阳气者，卫外而为固也」，「炅则气泄。」今暑邪干卫，故身热自汗。以黄耆、人参、甘草补中益气为君；甘草、橘皮、当归身甘辛微温养胃气，和血脉为臣。苍术、白术、泽泻渗利除湿。升麻、葛根苦甘平，善解肌热，又以风胜湿也。湿胜则食不消而作痞满，故炒曲甘辛，青皮辛温，消食快气。肾恶燥，急食辛以润之，故以黄柏苦辛寒，借甘味泻热补水虚者，滋其化源。以五味子、麦门冬酸甘微寒，救天暑之伤庚金为佐也。\n上㕮咀，作一服，水二盏，煎至一盏，去渣，稍热服，食远。\n此病皆因饮食失节，劳倦所伤，日渐因循，损其脾胃，乘暑天而作病也。\n如汗大泄者，津脱也，急止之。加五味子（十枚），炒黄柏（五分），知母（三分）。此按而收之也。\n如湿热乘其肾肝，行步不正，脚膝痿弱，两脚欹侧，已中痿邪，加酒洗黄柏、知母（以上各五分），令两足涌出气力矣。\n如大便涩滞，隔一二日不见者，致食少，乃血中伏火而不得润也。加当归身、地黄（以上各五分），桃仁泥、麻仁泥（以上各一钱），以润之。\n夫脾胃虚弱之人，遇六七月霖雨，诸物皆润，人汗沾衣，身重短气，更逢湿旺，助热为邪，西北二方寒清绝矣，人重感之，则骨乏无力，其形如梦寐间，朦朦如烟雾中，不知身所有也。圣人立法，夏月宜补者，补天真元气，非补热火也，夏食寒者是也。故以人参之甘补气，麦门冬苦寒，泻热补水之源，五味子之酸，清肃燥金，名曰生脉散。孙真人云：五月常服五味子以补五脏之气，亦此意也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 119,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "清暑益氣湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "3d12fdb910fb8f49c21ac668893a35ae7969c5d324872ccbf5dd70b17684f0dd",
+      "content_sha256": "9235dc62542db5fd2bc8c1015a72a06fe8acbbfef355be2247ea499e4c991593",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 710,
+        "simplified_codepoints": 710
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "2ac093872ca55e5d35abc4ea",
+      "title": "参术调中汤",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "泻热补气，止嗽定喘，和脾胃，进饮食。\n白术（五分） 黄耆（四分） 桑白皮 甘草（炙） 人参（以上各三分） 麦门冬（去心） 青皮（去白） 陈皮（去白） 地骨皮 白茯苓（以上各二分） 五味子（二十个）\n《内经》云：「火位之主，其泻以甘。」以黄耆甘温，泻热补气；桑白皮苦微寒，泻肺火定喘，故以为君。「肺欲收，急食酸以收之。」以五味子之酸，收耗散之气，止咳嗽。脾胃不足，以甘补之，故用白术、人参、炙甘草，苦甘温补脾缓中为臣。地骨皮苦微寒，善解肌热；茯苓甘平降肺火；麦门冬甘微寒，保肺气为佐。青皮、陈皮去白，苦辛温散胸中滞气为使也。\n上件㕮咀如麻豆大，都作一服，水二盏，煎至一盏，去渣，大温服，早饭后。忌多语言劳役。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 128,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "參朮調中湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "9b6282552f81ae1faa442ff8f5edb1c336c053d63ee280d80c1043a6af39c8ac",
+      "content_sha256": "5d64613a119cc9b70355568bad0711e66ba05e5d3f010504847cbe9f6bf23acc",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        129,
+        130,
+        131,
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 303,
+        "simplified_codepoints": 303
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "432bb392e3b6ded270a3a3bf",
+      "title": "升阳散火汤",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治男子妇人四肢发困热，肌热，筋骨间热，表热如火燎于肌肤，扪之烙手。夫四肢属脾，脾者土也，热伏地中，此病多因血虚而得之也。又有胃虚过食冷物，郁遏阳气于脾土之中，并宜服之。\n升麻 葛根 独活 羌活 白芍药 人参（以上各五钱） 甘草（炙） 柴胡（以上各三钱） 防风（二钱五分） 甘草（生，二钱）\n上件㕮咀如麻豆大，每服秤五钱，水二盏，煎至一盏，去渣，大温服，无时，忌寒凉之物。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 133,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "升陽散火湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "6e33f239e917abb238a9bcd1db66a2f8c04688107fcd9a26f48c30987cf131b0",
+      "content_sha256": "ab8bef7de5bcc14f9808f3c0d6326ed93c1e8cd2213a67da6291ecb12d8e73cf",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        134,
+        135,
+        136
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 185,
+        "simplified_codepoints": 185
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "4de57aa9d01e67dff367a49f",
+      "title": "当归补血汤",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治肌热，燥热，困渴引饮，目赤面红，昼夜不息。其脉洪大而虚，重按全无。《内经》曰：「脉虚血虚。」又云，血虚发热，证象白虎，惟脉不长实有辨耳，误服白虎汤必死。此病得之于饥困劳役。\n黄耆（一两） 当归（酒洗，二钱）\n上件㕮咀，都作一服，水二盏，煎至一盏，去渣，温服，空心食前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 137,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "當歸補血湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "313e5506623fdfc29f528471eecb4ca2b0219ad07189acf4eabd724242dae5c1",
+      "content_sha256": "21ef9047c503687a8a32d0bfecb5bc85048ed9931b1ba5a8a8701ddba0b701a7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        138,
+        139,
+        140
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 135,
+        "simplified_codepoints": 135
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "23178ce4a7e67212527a926f",
+      "title": "朱砂凉膈丸",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治上焦虚热，肺脘咽膈有气，如烟抢上。\n黄连 山栀子（以上各一两） 人参 茯苓（以上各五钱） 朱砂（三钱，别研） 脑子（五分，别研）\n右为细末，研匀，炼蜜为丸，如梧桐子大，朱砂为衣，熟水送下五七丸，日进三服，食后。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 141,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "硃砂涼膈丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "e91ef34343dee98d864bd31959233488c9cf2d46a90ff56d0ef3f35eab658be0",
+      "content_sha256": "c0c6da6ea2107ac34fbea4cc5b1612870eb2c4934c42131f9f5655b0520bb707",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        142,
+        143,
+        144
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 106,
+        "simplified_codepoints": 106
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "14135a7d23db2973fa8e288f",
+      "title": "黄连清膈丸",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治心肺间有热，及经中热。\n麦门冬（去心，一两） 黄连（去须，五钱） 鼠尾黄芩（净刮，三钱）\n上为细末，炼蜜为丸，如绿豆大，每服三十丸，温水送下，食后。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 145,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "黃連清膈丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "0545808bff6de09c8eda51bdbbf9fee92cfcd5460feb05aa7ece8b2e15499587",
+      "content_sha256": "552253a1078bb03065a7e45d6df6c9c4dcd3751248d202d17a313ee61571f79b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        146,
+        147,
+        148
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "f84ef77b725f56bd1505f8bb",
+      "title": "门冬清肺饮",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治脾胃虚弱，气促气弱，精神短少，衄血吐血。\n紫苑茸（一钱五分） 黄耆 白芍药 甘草（以上各一钱）\n人参（去芦） 麦门冬（以上各五分） 当归身（三分） 五味子（三个）\n上㕮咀，分作二服，每服水二盏，煎至一盏，去渣，温服，食后。\n《局方》中大阿胶丸亦宜用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 149,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "門冬清肺飲"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "4a7af573fed05a98e67cc53f470fc2bd9bd525bde41d074989082179d87af8d2",
+      "content_sha256": "00f8424584144bd8493c1b3715fba6d2fc569f2fff6878fea3cacf29189fea01",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        150,
+        151,
+        152,
+        153,
+        154
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "92cc0811dcb270133d5cba59",
+      "title": "人参清镇丸",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治热止嗽，消痰定喘。\n柴胡 人参（以上各一两五钱） 生黄芩 半夏 甘草（炙以上各七钱五分） 青黛（六钱） 天门冬（去心，三钱） 陈皮（去白） 五味子（去核，二钱）\n上件为细末，水糊为丸，如梧桐子大，每服三十丸至五十丸，温白汤送下，食后。\n《局方》中人参清肺汤亦宜用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 155,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "人參清鎮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "2d537d31e1632bdf9883fba11ee786a5b3153101bb7caa5ea5e31b1bf2d1df68",
+      "content_sha256": "43a87c7923ae66d03c5dfd8062d125a78ae06f5bdffd6b9d6c58eb9b60bc6898",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        156,
+        157,
+        158,
+        159
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 133,
+        "simplified_codepoints": 133
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "424fa3cd6cdc0dbee938e478",
+      "title": "皂角化痰丸",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治劳风，心脾壅滞，痰涎盛多，喉中不利，涕唾稠黏，咽塞吐逆，不思饮食，或时昏愦。\n皂角（木白皮酥炙） 白附子（炮） 半夏（汤洗七次） 天南星（炮） 白矾（枯） 赤茯苓（去皮） 人参（以上各一两） 枳壳（炒，二两）\n上为细末，生姜汁面糊为丸，如梧桐子大，每服三十丸，温水送下，食后。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 160,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "皂角化痰丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "96a0fac73969ea09676d2b48248aaf1dd1bedf93cb27546487da5a66e1ef2dbe",
+      "content_sha256": "55bd0838a8961b0b09a27162eb654f9f055be5a21553cee885298c25378d0cff",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        161,
+        162,
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "c2b628349230933e025c7665",
+      "title": "白术和胃丸",
+      "volume": "卷中 / 暑伤胃气论",
+      "content": "治病久厌厌不能食，而脏腑或结或溏，此胃气虚弱也。常服则和中理气，消痰去湿，和脾胃，进饮食。\n白术（一两二钱） 半夏（汤洗七次） 厚朴（姜制，以上各一两） 陈皮（去白，八钱） 人参（七钱） 甘草（炙，三钱） 枳实（麸炒） 槟榔（以上各二钱五分） 木香（一钱）\n上件为细末，生姜汁浸蒸饼为丸，如梧桐子大，每服三十丸，温开水送下，食远。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "卷中",
+        "暑傷胃氣論",
+        "白朮和胃丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "f48a84dd4f347d2af483f14461a34cc585d469473f8477ceee0b07c38a89f3b9",
+      "content_sha256": "760650d70a54fda7a95eebbcee900333a3d0fe1628490bd034815d51bee7b364",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        165,
+        166,
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "2ffb1d47b78cfe4c024e28d4",
+      "title": "肺之脾胃虚方",
+      "volume": "卷中",
+      "content": "脾胃虚则怠惰嗜卧，四肢不收，时值秋燥令行，湿热少退，体重节痛，口干舌干，饮食无味，大便不调，小便频数，不欲食，食不消；兼见肺病，洒淅恶寒，惨惨不乐，面色恶而不和，乃阳气不伸故也。当升阳益气，名之曰升阳益胃汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "卷中",
+        "肺之脾胃虛方"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "3ae83977505ee29bdbb7ea59a245b9a1746d00a17b6d819596de3338c4612df5",
+      "content_sha256": "31a68b7725cc8a6f5f2101a519a54e3c9cdb9fd3df559f8faa1b2f91c12f49c7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        169
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 104,
+        "simplified_codepoints": 104
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "273996b34344b38f667ee19f",
+      "title": "升阳益胃汤",
+      "volume": "卷中 / 肺之脾胃虚方",
+      "content": "黄耆（二两） 半夏（洗，此一味脉涩者用） 人芦（去芦） 甘草（炙，以上各一两） 独活 防风（以秋旺，故以辛温泻之） 白芍药（何故秋旺用人参白术芍药之类反补肺，为脾胃虚则肺最受邪，故因时而补，易为力也。） 羌活（以上各五钱） 橘皮（四钱） 茯苓（小便利不渴者勿用） 柴胡 泽泻（不淋勿用） 白术（以上各三钱） 黄连（一钱）\n上㕮咀，每服秤三钱，水三盏，生姜五片，枣二枚，煎至一盏，去渣，温服，早饭后。或加至五钱。\n服药后如小便罢而病加增剧，是不宜利小便，当少去茯苓、泽泻。\n若喜食，一二日不可饱食，恐胃再伤，以药力尚少，胃气不得转运升发也，须薄味之食或美食助其药力，益升浮之气而滋其胃气，慎不可淡食以损药力，而助邪气之降沉也。\n可以小役形体，使胃与药得转运升发；慎勿太劳役，使气复伤，若脾胃得安静尤佳。若胃气稍强，少食果以助谷药之力。经云：「五谷为养，五果为助」者也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 170,
+      "source_path": [
+        "卷中",
+        "肺之脾胃虛方",
+        "升陽益胃湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "5cf7ac383ce38a15b3b2a0721f2d676d711c12745c5ad74e76c4f3f619ce33cf",
+      "content_sha256": "483a1387eba8432314be397cdbf8b1f3f6fd1eed0d9fc7010c1388a3c911ef45",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        171,
+        172,
+        173,
+        174,
+        175
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 383,
+        "simplified_codepoints": 383
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "74a754d2237f93720772d56c",
+      "title": "双和散",
+      "volume": "卷中 / 肺之脾胃虚方",
+      "content": "补血益气，治虚劳少力。\n白芍药（二两五钱） 黄耆 熟地黄 川芎 当归（以上各一两） 甘草（炙） 官桂（以上各七钱五分）\n上为粗末，每服四钱，水一盏半，生姜三片，枣二枚，煎至七分，去渣，温服。\n大病之后，虚劳气乏者，以此调治，不热不冷，温而有补。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 176,
+      "source_path": [
+        "卷中",
+        "肺之脾胃虛方",
+        "雙和散"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "2bbd882fc7b2564b3134cb5eb3cf5822961809b1d23eb1369dd420bafffff06a",
+      "content_sha256": "97f544b4a469f1d05e46430d05f543e4e938eab65be3fa3db91368dfd438012c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        177,
+        178,
+        179,
+        180
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 122,
+        "simplified_codepoints": 122
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "7cd90e7c4937f82db18d2ede",
+      "title": "宽中进食丸",
+      "volume": "卷中 / 肺之脾胃虚方",
+      "content": "滋形气，喜饮食。\n大麦蘖（一两） 半夏 猪苓（去黑皮，以上各七钱） 草豆蔻仁 神曲（炒，以上各五钱） 枳实（麸炒，四钱） 橘皮 白术 白茯苓 泽泻（以上各二钱） 缩砂（一钱五分） 干生姜 甘草（炙） 人参 青皮（以上各一钱） 木香（五分）\n上为细末，汤浸蒸饼为丸，如梧桐子大，每服三十丸，温米饮送下，食后。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 181,
+      "source_path": [
+        "卷中",
+        "肺之脾胃虛方",
+        "寬中進食丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "b008285f1d0195b8853e10d3b466b93c3b11cb40d208b3f154a501bcee9ed643",
+      "content_sha256": "64d4459bd0c537f8aae6adbd569699842f7476c1bd63ca6ab580dd1e0483432b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        182,
+        183,
+        184
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 153,
+        "simplified_codepoints": 153
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "7dbdd3f3f201893fd075a507",
+      "title": "厚朴温中汤",
+      "volume": "卷中 / 肺之脾胃虚方",
+      "content": "治脾胃虚寒，心腹胀满，及秋冬客寒犯胃，时作疼痛。\n厚朴（姜制） 橘皮（去白，以上各一两） 甘草（炙） 草豆蔻仁 茯苓（去皮） 木香（以上各五钱） 干姜（七分）\n戊火已衰，不能运化，又加客寒，聚为满痛，散为辛热，佐以苦甘，以淡泄之，气温胃和，痛自止矣。\n上为粗末，每服五钱匕，水二盏，生姜三片，煎至一盏，去渣，温服，食前。忌一切冷物。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 185,
+      "source_path": [
+        "卷中",
+        "肺之脾胃虛方",
+        "厚朴溫中湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "38b1e0664e6c599eb23b170469707c6e0624974b12767f33becaa3e3a1c4ce53",
+      "content_sha256": "0be8811131e709a8fa4862e9e32eccc45036ace8a645e8f8b1f2debcee9f323e",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        186,
+        187,
+        188,
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 166,
+        "simplified_codepoints": 166
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "7d2adab80ef415f237e223d9",
+      "title": "沉香温胃丸",
+      "volume": "卷中 / 肾之脾胃虚方",
+      "content": "治中焦气弱，脾胃受寒，饮食不美，气不调和。脏腑积冷，心腹疼痛，大便滑泄，腹中雷鸣，霍乱吐泻，手足厥逆，便利无度。又治下焦阳虚，脐腹冷痛，及疗伤寒阴湿，形气沉困，自汗。\n附子（炮，去皮脐） 巴戟（酒浸，去心） 干姜（炮） 茴香（炮，以上各一两） 官桂（七钱） 沉香 甘草（炙） 当归 吴茱萸（洗，炒去苦） 人参 白术 白芍药 白茯苓（去皮） 良姜 木香（以上各五钱） 丁香（三钱）\n上为细末，用好醋打面糊为丸，如梧桐子大，每服五七十丸，热米饮送下，空心，食前，日进三服，忌一切生冷物。\n凡脾胃之证，调治差误，或妄下之，末传寒中，复遇时寒，则四肢厥逆，而心胃绞痛，冷汗出。《举痛论》云：「寒气客于五脏，厥逆上泄，阴气竭，阳气未入，故卒然痛死不知人，气复反则生矣。」夫六气之胜，皆能为病，惟寒毒最重，阴主杀故也。圣人以辛热散之，复其阳气，故曰寒邪客之，得炅则痛立止，此之谓也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 191,
+      "source_path": [
+        "卷中",
+        "腎之脾胃虛方",
+        "沉香溫胃丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "2a649c636d802889af0b3765500ae99fb14fdf290d6da3098ec8db1322c63125",
+      "content_sha256": "5f51515f2c1a74c24b43964725c1c88f5144b4957f73d14991e84317a7b5c7d5",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        192,
+        193,
+        194,
+        195
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 385,
+        "simplified_codepoints": 385
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "22542e420dc9cfc8935a86e5",
+      "title": "神圣复气汤",
+      "volume": "卷中 / 肾之脾胃虚方",
+      "content": "治复气乘冬，足太阳寒水、足少阴肾水之旺。子能令母实，手太阴肺实，反来侮土，火木受邪。腰背胸膈闭塞，疼痛，善嚏，口中涎，目中泣，鼻流浊涕不止，或息肉不闻香臭，咳嗽痰沫。上热如火，下寒如冰。头作阵痛，目中流火，视物𥉂𥉂，耳鸣耳聋。头并口鼻或恶风寒，喜日阳，夜卧不安，常觉痰塞，膈咽不通，口失味，两胁缩急而痛。牙齿动摇，不能嚼物。阴汗出，前阴冷。行步欹侧，起居艰难，掌中热，风痹麻木。小便数而昼多夜频，而欠，气短喘喝，少气不足以息，卒遗失无度。妇人白带，阴户中大痛，牵心而痛，黧黑失色。男子控睪牵心腹，阴阳而痛，面如赭色。食少，大小便不调，心烦霍乱，逆气里急而腹痛，皮色白，后出余气，复不能努，或肠鸣，膝下筋急，肩胛大痛。此皆寒水来复，火土之仇也。\n干姜（炮为末，一钱三分） 柴胡（锉如豆大） 羌活（锉，以上各一钱） 甘草（锉） 藁本（以上各八分） 升麻（锉） 半夏（汤洗，以上各七分） 当归身（酒浸锉，六分） 防风（锉如豆大） 郁李仁（汤浸去皮，研如泥，入药同煎） 人参（己上各五分） 附子（炮，去皮脐，二分） 白葵花（五朵，去心，细剪入）\n上件药都作一服，水五盏，煎至二盏，入草豆蔻（面裹烧，面熟去皮干） 黄耆（以上各一钱） 橘皮（五分）\n在内，再煎至一盏，再入下项药\n枳壳（五分） 黄柏（酒浸） 黄连（酒洗，以上各三分） 生地黄（汤洗，二分）\n以上四味，预一日另用新水浸，又以\n川芎（细末） 蔓荆子（以上各三分） 华细辛（二分）\n预一日，用新水半大盏，分作二处浸此三味，并黄柏等煎正药，作一大盏，不去渣，入此浸者药，再上火煎至一大盏，去渣，稍热服，空心。\n又能治啮颊、啮唇、啮舌，舌根强硬等证，如神。宜食羊肉及厚滋味。大抵肾并膀胱经中有寒，元气不足者，皆宜服之，神验。于月生月满时隔三五日一服，如病急，不拘时分服。\n治法已试验者，学者当以意求其的，触类而长之，则不可胜用矣。予病脾胃久衰，视听半失，此阴盛乘阳，而上气短，精神不足，且脉弦，皆阳气衰弱，伏匿于阴中故耳。癸卯岁六七月间，霖雨阴寒，逾月不止，时人多病泻痢，乃湿多成五泄故也。一日，体重肢节疼痛，大便泄并下者三，而小便闭塞，默思《内经》有云：「在下者，引而竭之，」是先利小便也。又治诸泻而小便不利者，先分利之。又云：治湿不利小便，非其治也。法当利其小便，必用淡渗之剂以利之，是其法也。噫！圣人之法，虽布在方策，其不尽者，可以意求。今客邪寒湿之胜，自外入里而甚暴，若以淡渗之剂利之，病虽即已，是降之又降，复益其阴而重竭其阳也，则阳气愈削，而精神愈短矣，阴重强而阳重衰也。兹以升阳之药，是为宜耳。羌活、独活、柴胡、升麻各二钱，防风半钱，炙甘草半钱。同㕮咀，水四盏，煎至一盏，去渣，热服，一服乃愈。大法云：寒湿之胜，助风以平之。又曰：下者举之。此得阳气升腾故愈，是因曲而为之直也。夫圣人之法，可以类推，举一则可以知百矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 196,
+      "source_path": [
+        "卷中",
+        "腎之脾胃虛方",
+        "神聖復氣湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "af1311dda15fbd5272e8aa146ca154c81efe21b3604be5ec80ae01fe3336359d",
+      "content_sha256": "c13db4c9c1cf82e9854503bc29ea7c406b600cac7d7567ec0b7f036f01009503",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1186,
+        "simplified_codepoints": 1186
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "0de10331c3ca752ec25b64ed",
+      "title": "辨内伤饮食用药所宜所禁",
+      "volume": "卷下",
+      "content": "内伤饮食，付药者，受药者，皆以为琐末细事，是以所当重者为轻，利害非细。殊不思胃气者，荣气也，卫气也，谷气也，清气也，资少阳生发之气也。人之真气衰旺，皆在饮食入胃，胃和则谷气上升。谷气者，升腾之气也，乃足少阳胆、手少阳元气始发生长，万化之别名也。饮食一伤，若消导药的对其所伤之物，则胃气愈旺，五谷之精华上腾，乃清气为天者也，精气、神气皆强盛，七神卫护，生气不乏，增益大旺，气血周流，则百病不能侵，虽有大风苛毒，弗能害也。此一药之用，其利溥哉。\n易水张先生，尝戒不可用峻利食药，食药下咽，未至药丸施化，其标皮之力始开，便言空快也，所伤之物已去；若更待一两时辰许，药尽化开，其峻利药必有情性，病去之后，脾胃安得不损乎？脾胃既损，是真气元气败坏，促人之寿。当时说下一药，枳实一两，麸炒黄色为度，白术二两，只此二味，荷叶裹烧饭为丸。以白术苦甘温，其甘温补脾胃之元气，其苦味除胃中之湿热，利腰脐间血，故先补脾胃之弱，过于枳实克化之药一倍。枳实味苦寒，泄心下痞闷，消化胃中所伤。此一药下胃，其所伤不能即去，须待一两时辰许，食则消化，是先补其虚，而后化其所伤，则不峻利矣。当是之时，未悟用荷叶烧饭为丸之理，老年味之始得，可谓神奇矣。荷叶之一物，中央空虚，象震卦之体。震者，动也，人感之生足少阳甲胆也，甲胆者风也，生化万物之根蒂也。《左传》云：「履端于始，」序则不愆。人之饮食入胃，营气上行，即少阳甲胆之气也；其手少阳三焦经，人之元气也，手足经同法，便是少阳元气生发也。胃气、谷气、元气，甲胆上升之气，一也，异名虽多，止是胃气上升者也。荷叶之体，生于水土之下，出于秽污之中，而不为秽污所染，挺然独立。其色青，形乃空，清而象风木者也，食药感此气之化，胃气何由不上升乎？其主意用此一味为引用，可谓远识深虑，合于道者也。更以烧饭和药，与白术协力，滋养谷气而补令胃厚，再不至内伤，其利广矣大矣！\n若内伤脾胃，以辛热之物，酒肉之类，自觉不快，觅药于医者，此风习以为常，医者亦不问所伤，即付之以集香丸、巴豆大热药之类下之，大便下则物去，遗留食之热性、药之热性，重伤元气，七神不炽，经云：「热伤气，」正谓此也。其人必无气以动而热困，四肢不举，传变诸疾，不可胜数，使人真气自此衰矣。若伤生冷硬物，世医或用大黄、牵牛二味大寒药投之，物随药下，所伤去矣。遗留食之寒性、药之寒性，重泻其阳，阳去则皮肤筋骨肉血脉无所依倚，便为虚损之证。论言及此，令人寒心。\n夫辛辣气薄之药，无故不可乱服，非止牵牛而已。《至真要大论》云：五味入胃，各先逐其所喜攻。攻者，克伐泻也。辛味下咽，先攻泻肺之五气。气者，真气、元气也。其牵牛之辛辣猛烈，夺人尤甚，饮食所伤，肠胃受邪，当以苦味泄其肠胃可也，肺与元气何罪之有？夫牵牛不可用者有五，此其一也。况胃主血所生病，为物所伤，物者，有形之物也，皆是血病，血病泻气，此其二也。且饮食伤于中焦，止合克化，消导其食，重泻上焦肺中已虚之气，此其三也。食伤肠胃，当塞因塞用，又寒因寒用，枳实大黄苦寒之物，以泄有形是也，反以辛辣牵牛散泻真气，犯大禁四也。殊不知《针经》第一卷第一篇有云，外来客邪，风寒伤人五脏，若误泻胃气，必死，误补亦死。其死也，无气以动，故静；若内伤脾胃，而反泻五脏，必死，误补亦死。其死也，阴气有余，故躁。今内伤肠胃，是谓六腑不足之病，反泻上焦虚无肺气；肺者，五脏之一数也，为牵牛之类朝损暮损，其元气消耗，此乃暗里折人寿数，犯大禁五也。良可哀叹！故特著此论并方，庶令四海闻而行之，不至夭横耳！此老夫之用心也。\n胃气岂可不养，复明养胃之理，故经曰，安谷则昌，绝谷则亡。水去则荣散，谷消则卫亡，荣散卫亡，神无所依。仲景云：水入于经，其血乃成；谷入于胃，脉道乃行。故血不可不养，胃不可不温，血温胃和，荣卫将行，常有天命。谷者，身之大柄也，《书》与《周礼》皆云：金木水火土谷，惟修以奉养五脏者也。内伤饮食，固非细事，苟妄服食药而轻生损命，其可乎哉！《黄帝针经》有说：胃恶热而喜清冷，大肠恶清冷而喜热，两者不和，何以调之？伯歧曰：调此者，饮食衣服，亦欲适寒温，寒无凄怆，暑无出汗；饮食者，热无灼灼，寒无凔凔，寒温中适，故气将持，乃不致邪僻也（详说见于本经条下）。是必有因用，岂可用俱寒俱热之食药，致损者与？！\n《内经》云：内伤者，其气口脉反大于人迎，一倍二倍三倍，分经用药。又曰：上部有脉，下部无脉，其人当吐，不吐者死。如但食不纳，恶心欲吐者，不问一倍二倍，不当正与瓜蒂散吐之，但以指或以物探去之。若所伤之物去不尽者，更诊其脉，问其所伤，以食药去之，以应塞因塞用，又谓之寒因寒用，泄而下降，乃应太阴之用，其中更加升发之药，令其元气上升，塞因塞用，因曲而为之直。何为曲？乃伤胃气是也。何为直？因而升发胃气是也。因治其饮食之内伤，而使生气增益，胃气完复，此乃因曲而为之直也。\n若依分经用药，其所伤之物，寒热温凉，生硬柔软，所伤不一，难立定一法，只随所伤之物不同，各立法治，临时加减用之。其用药又当问病人从来禀气盛衰，所伤寒物热物，是喜食而食之耶，不可服破气药；若乘饥困而食之耶，当益胃气；或为人所勉劝强食之，宜损血而益气也。诊其脉候，伤在何脏，方可与对病之药，岂可妄泄天真生气，以轻丧身宝乎？且如先食热物而不伤，继之以寒物，因后食致前食亦不消化而伤者，当问热食寒食孰多孰少，斟酌与药，无不当矣。喻如伤热物二分，寒物一分，则当用寒药二分，热药一分，相合而与之，则荣卫之气必得周流。更有或先饮酒，而后伤寒冷之食，及伤热食，冷水与冰，如此不等，皆当验其节次所伤之物，约量寒热之剂分数，各各对证而与之，无不取验。自忖所定方药，未敢便为能尽药性之理，姑用指迷辨惑耳，随证立方，备陈于后。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 208,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "df976aab77f899ffe8d1e5b5ba171049c25cfcce007323974d0067e4e8bb0fea",
+      "content_sha256": "f5c47979a38f41485b985ce2a293a7932599b8eabbc03eab4215b8be85dbaf0b",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2327,
+        "simplified_codepoints": 2327
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "a9bea5d3f3dba6da4ebf00f5",
+      "title": "易水张先生枳术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治痞，消食，强胃。\n白术（二两） 枳实（麸炒黄色，去穰，一两）\n上同为极细末，荷叶裹烧饭为丸，如梧桐子大，每服五十丸，多用白汤下，无时。白术者，本意不取其食速化，但令人胃气强实，不复伤也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 216,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "易水張先生枳朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "ba908f068db42a5520635f9a1e8737d64fa87b9040ee127f67c8e433ff0feba2",
+      "content_sha256": "5b91251739a3f3f76e67a57f2eb018039f33065fef648ee4d3b5b77e2a0a323d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        217,
+        218,
+        219
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 94,
+        "simplified_codepoints": 94
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "7e7d7fe45762617ee4593792",
+      "title": "橘皮枳术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治老幼元气虚弱，饮食不消，或脏腑不调，心下痞闷。\n橘皮 枳实（麸炒去穰，以上各一两） 白术（二两）\n上件为细末，荷叶烧饭为丸，如梧桐子大，每服五十丸，熟水送下，食远。\n夫内伤用药之大法，所贵服之强人胃气，令胃气益厚，虽猛食、多食、重食而不伤，此能用食药者也。此药久久益胃气，令人不复致伤也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 220,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "橘皮枳朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "bdd2ec9838e4422f5834821a9dd9904e86d45d07fb5b1fdfa6b3df0510ab168e",
+      "content_sha256": "11070977cbaf506af2cf0d1c0d24f651179432ca433987c0940d0c121460908a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        221,
+        222,
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 145,
+        "simplified_codepoints": 145
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "a144a9c4c4a422dba24c70ef",
+      "title": "曲蘖枳术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治为人所勉劝强食之，致心腹满闷不快。\n枳实（麸炒，去穰） 大麦蘖（面炒） 神曲（炒，以上各一两） 白术（二两）\n上为细末，荷叶烧饭为丸，如梧桐子大，每服五十丸，用温水下，食远。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "麴櫱枳朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "360f3b158b05db1a35cd25f619633c764a91dcc826a4ff54a91578dd894ebd9c",
+      "content_sha256": "30fd492620be2d983a432062ce9f592a982c713b32712cb3760d94273ef11ac4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        226,
+        227,
+        228
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "d618a116f774122e2d2544ce",
+      "title": "木香枳术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "破滞气，消饮食，开胃进食。\n木香 枳实（麸炒，去穰，以上各一两） 白术（二两）\n上为细末，荷叶烧饭为丸，如梧桐子大，每服五十丸，温水送下，食远。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 229,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "木香枳朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "1e608733d8e76e7f13bd8f151b17db72da61eb7ede6c12aef49075d8b290eb24",
+      "content_sha256": "b4b1b5096a865090b9d524e9c2b907293682a75a1fdc47327e2db6e54c46aa0a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        230,
+        231,
+        232
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "0c788e30da4fded67cc636d6",
+      "title": "木香化滞汤",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治因忧气，食湿面，结于中脘，腹皮底微痛，心下痞满，心不思饮食，食之不散，常常痞气。\n半夏（一两） 草豆蔻仁 甘草（炙，以上各五钱） 柴胡（四钱） 木香 橘皮（以上各三钱） 积实（麸炒，去穰） 当归稍（以上各二钱） 红花（五分）\n上件锉如麻豆大，每服五钱，水二大盏，生姜五片，煎至一盏，去渣，稍热服，食远。忌酒湿面。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 233,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "木香化滯湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "7b8ff89330833aca87534b64cf6ae344cc579f219593c247bab0afcf57010a37",
+      "content_sha256": "8d77f0103cfb5433f953d6d146792cd63c0b156e2c0bdcc8842c7a8a4cfbcd3c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        234,
+        235,
+        236
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 157,
+        "simplified_codepoints": 157
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "866c346eb91a15fb8270534f",
+      "title": "半夏枳术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治因冷食内伤。\n半夏（汤洗七次，焙干） 枳实（麸炒，以上各一两） 白术（二两）\n上同为极细末，荷叶烧饭为丸，如绿豆大，每服五十丸，温水送下，添服不妨。热汤浸蒸饼为丸亦可。\n如食伤寒热不调，每服加上二黄丸十丸，白汤送下。\n更作一方，加泽泻一两为丸，有小便淋者用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 237,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "半夏枳朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "db3218ab5cfb37a1e86838e77a3ab9309c7ac9e5bd7db88601a30f5cb1e00434",
+      "content_sha256": "ca0a3d6e058a1a8936e8a919a4068760b4a088f38e0fa0d9e65d4887fe1fc7c1",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        238,
+        239,
+        240,
+        241,
+        242
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 130,
+        "simplified_codepoints": 130
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "af4b644c816785418b6d0be0",
+      "title": "丁香烂饭丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治饮食所伤。\n丁香 京三棱 广术（炮） 木香（以上各一钱） 甘草（炙） 甘松（去土） 缩砂仁 丁香皮 益智仁（以上各三钱） 香附子（五钱）\n上为细末，汤浸蒸饼为丸，如绿豆大，每服三十丸，白汤送下，或细嚼亦可，不拘时候。\n治卒心胃痛甚效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 243,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "丁香爛飯丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "469ee575c586ba96a2057617aff9703d56195ecb97517dc98164d800ebd4e609",
+      "content_sha256": "95a005360d07e9c77f4cfc00b6073880823b60ef255924d38d57c33083d9109f",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        244,
+        245,
+        246,
+        247
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 118,
+        "simplified_codepoints": 118
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "f0cdfab6dc610578b888c3a7",
+      "title": "草豆蔻丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治秋冬伤寒冷物，胃脘当心而痛，上支两胁，膈咽不通。\n草豆蔻（面裹煨，去皮取仁） 枳实（麸炒黄色） 白术（以上各一两） 大麦蘖（面炒黄色） 半夏（汤洗七次，日干） 黄芩（刮去皮，生） 神曲（炒黄色，以上各五钱） 干生姜 橘皮 青皮（以上各二钱） 炒盐（五分）\n上为极细末，汤侵蒸饼为丸，如绿豆大，每服五十丸，白汤下，量所伤多少，加减服之。\n如冬月用，别作一药，不用黄芩，岁火不及，又伤冷物，加以温剂，是其治也。然有热物伤者，从权以寒药治之，随时之宜，不可不知也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 248,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "草豆蔻丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "8fa0681b73ab1b0131702b42aed733c68a6a88729f7b79ea71ddc25f6d3759f5",
+      "content_sha256": "22b90ba6d6ccf899637da8f8de3e5b90f9f35aff29eedbfbe194ae1b193a99f9",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        249,
+        250,
+        251,
+        252
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 230,
+        "simplified_codepoints": 230
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "0cf457d2c9e575f1b1cb5808",
+      "title": "三黄枳术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤肉食湿面辛辣厚味之物，填塞闷乱不快。\n黄芩（二两） 黄连（酒洗） 大黄（湿纸裹煨） 神曲（炒） 橘皮 白术（以上各一两） 枳实（麸炒，五钱）\n上为细末，汤浸蒸饼为丸，如绿豆大一倍，每服五十丸，白汤送下，量所伤服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 253,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "三黃枳朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "1399c124bf2a17fd84e022e059ef6f8b87496fce5e235cc14fa545d0403b33c3",
+      "content_sha256": "84086ea38b1cb30c8d1b45096449c4200ce6c1912242ce38af7ce7a11f1abd80",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        254,
+        255,
+        256
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 109,
+        "simplified_codepoints": 109
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "651578a845798761924cb716",
+      "title": "除湿益气丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤湿面，心腹满闷，肢体沉重。\n枳实（麸炒黄色） 神曲（炒黄色） 黄芩（生用） 白术（以上各一两） 萝卜子（炒熟去秽气，五钱） 红花（三分，是三钱分十也）\n上同为极细末，荷叶裹烧饭为丸，如绿豆大，每服五十丸，白汤送下，量所伤多少服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 257,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "除濕益氣丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "1e15e9ea5c1d61d6d15c90d912c8e733472714715930af607418b9144110bd00",
+      "content_sha256": "015623ebab94d970f2d2029028f34afa0a418ec3f8ad7f8a41e19be84fa6ffc1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        258,
+        259,
+        260
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "3d8c51810a1625ef58ce4a36",
+      "title": "上二黄丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤热食痞闷，兀兀欲吐，烦乱不安。\n黄芩（二两） 黄连（去须酒浸，一两） 升麻 柴胡（以上各三钱） 甘草（二钱）\n一方加枳实（麸炒，去穰，五钱）\n上为极细末，汤浸蒸饼为丸，如绿豆大，每服五七十丸，白汤送下，食远，量所伤服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 261,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "上二黃丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "53c9de27ae6e28431a0abd77a1f352d654784bcd835481878e98ac9bd5fbe7a9",
+      "content_sha256": "b397083196a548b2238b9f6504da7e9db82d777ff5a0386dd3b027f93531f132",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        262,
+        263,
+        264,
+        265
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "79998efe2d55664fd8282008",
+      "title": "枳实导滞丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤湿热之物，不得施化，而作痞满，闷乱不安。\n大黄（一两） 枳实（麸炒，去穰） 神曲（炒，以上各五钱） 茯苓（去皮） 黄芩（去腐） 黄连（拣净） 白术（以上各三钱） 泽泻（二钱）\n上件为细末，汤浸蒸饼为丸，如梧桐子大，每服五十丸至七十丸，温水送下，食远，量虚实加减服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 266,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "枳實導滯丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "bd8b06b659218d7199d1d475c3a41861e777ac553b9e87f6d0544df6a826610c",
+      "content_sha256": "beacc20996142fb27222853764187946416aacdc2ae182cfd3c93d5fad0e94bb",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        267,
+        268,
+        269
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 135,
+        "simplified_codepoints": 135
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "16cefd9874581fba0c5b4ae4",
+      "title": "枳实栀子大黄汤",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治大病瘥后，伤食劳复。\n枳实（一个麸炒，去穰） 栀子（三枚半，肥者） 豆豉（一两二钱五分，绵裹）\n上以清浆水二盏，空煮退八分，内枳实、栀子，煮取八分，下豉，再煮五六沸，去渣，温服，覆令汗出。\n若有宿食，内大黄如簿棋子五六枚，同煎。\n食高粱之物过多，烦热闷乱者，亦宜服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 270,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "枳實梔子大黃湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "9f6cb054a746205af155ce27fd3e85fbf29c1af5abcf0f505581bc6b3ee4ea0e",
+      "content_sha256": "02b4ed4cf8931fd5656ad52b5c9c7162c380f20de25e40c5e7f84213309a8598",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        271,
+        272,
+        273,
+        274,
+        275
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 135,
+        "simplified_codepoints": 135
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "bfced87d1be4a222ff31bbdc",
+      "title": "白术丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤豆粉湿面油腻之物。\n枳实（炒黄，一两一钱） 白术 半夏（汤浸） 神曲（炒黄，以上各一两） 橘皮（去穰，七钱） 黄芩（五钱） 白矾（枯三分）\n上为极细末，汤浸蒸饼为丸，如绿豆一倍大，每服五十丸，白汤送下，量所伤加减服。素食多用干姜，故加黄芩以泻之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 276,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "白朮丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "dded4f49148ca25f40295436b9f6b06d73b28d2436b569969c4fb2b83a2093b6",
+      "content_sha256": "69f06c81e246459f36a493a3965a621b21a9e9ad5699d21336b0b49b8092f564",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        277,
+        278,
+        279
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 125,
+        "simplified_codepoints": 125
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "816c9cdc33eb75a129a91362",
+      "title": "木香见𪾢丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤生冷硬物，心腹满闷疼痛。\n神曲（炒黄色） 京三棱（煨，以上各一两） 石三棱（去皮煨） 草豆蔻（面裹煨熟取仁） 香附子（炒香，以上各五钱） 升麻 柴胡（以上各三钱） 木香（二钱） 巴豆霜（五分）\n上为细末，汤浸蒸饼为丸，如绿豆一倍大，每服三十丸，温白汤下。量所伤多少服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 280,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "木香見睍丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "2dfcaf8a8242cb914801a47d3d8a54bfac6e0f694f1b7b64c274bcefb6fc7fa7",
+      "content_sha256": "f4eae1d46de51b99b61dc8631a5709f7bd9990b6010a227ce986ccee50f8a376",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        281,
+        282,
+        283
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 137,
+        "simplified_codepoints": 137
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "f7e04a0a366e737b880a28e1",
+      "title": "三棱消积丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治伤生冷硬物，不能消化，心腹满闷。\n京三棱（炮） 广术（炒） 炒曲（以上各七钱） 青橘皮 巴豆和（皮米炒黑焦去米） 茴香（炒） 陈橘皮（以上各五钱） 丁皮 益智（以上各三钱）\n上件为细末，醋打面糊为丸，如梧桐子大，每服十丸，加至二十丸，温生姜汤下，食前。量虚实加减，如更衣，止后服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 284,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "三稜消積丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "d3e3c64ed29e7ea26e82b03c5a3396d96282c9cf980d2fdb81bb62033ff35ac1",
+      "content_sha256": "38ff4297aa8be528de7738f1ceb3a9bb9c432046e72ce9b6b6b5d4596f0cbab1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        285,
+        286,
+        287
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "8ccbab985a0e279585caf397",
+      "title": "备急大黄丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "疗心腹诸卒暴百病。\n大黄 巴豆（去皮） 干生姜（以上各一两）\n上须要精新好药，捣罗蜜和，更捣一千杵，丸如小豆大，每服三丸，老少量之。\n若中恶客忤，心腹胀满卒痛，如锥刀刺痛，气急口噤，停尸卒死者，以暖水若酒服之。或不下，捧头起，令下咽，须臾瘥；如未瘥，更与三丸，以腹中鸣转，即吐下便愈。若口已噤，亦须折齿灌之，令入尤妙。忌芦笋、猪肉、冷水、肥腻之物。易水张先生又名独行丸，盖急剂也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 288,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "備急大黃丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "9af0473336f850bf25ab092181c935e910d40ca5d7c947459db6454b4e453430",
+      "content_sha256": "a4a25b2c0d8a3b6a0a2360e7c5cd02c727949ffe668ed5e5637187908a9b7461",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        289,
+        290,
+        291,
+        292
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 190,
+        "simplified_codepoints": 190
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "3d2e428351d5b4062d909233",
+      "title": "神应丸",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治因一切冷物冷水及湩乳酪水，腹痛肠鸣，米谷不化。\n黄蜡（二两） 巴豆 杏仁 百草霜 干姜（以上各五钱） 丁香 木香（以上各二钱）\n上先将黄蜡用好醋煮去渣秽，将巴豆、杏仁同炒黑，烟尽，研如泥，将黄蜡再上火，入小油半两，溶开，入在杏仁巴豆泥子内，同搅，旋下丁香、木香等药末，研匀，搓作挺子，油纸裹了旋丸用，每服三五十丸，温米饮送下，食前。日进三服。\n如脉缓体重自利，乃湿气胜也，以五苓散平胃散加炒曲相合而服之，名之曰对金饮子。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 293,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "神應丸"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "a94ce0160228edd39f77da5adc7a5c30e91d069de2d83bd20e56d39bff5e60f9",
+      "content_sha256": "e23f687e559fc88059e46cb1f40fccb9936ecac15cfa98b6db27eae450f0a971",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        294,
+        295,
+        296,
+        297
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 211,
+        "simplified_codepoints": 211
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "04784b4f83626b3525e67009",
+      "title": "益胃散",
+      "volume": "卷下 / 辨内伤饮食用药所宜所禁",
+      "content": "治因服寒药过多，或脾胃虚弱，胃脘痛。\n陈皮 黄耆（以上各七钱） 益智仁（六钱） 白豆蔻仁 泽泻 干生姜 姜黄（以上各三钱） 缩砂仁 甘草 厚朴 人参（以上各二钱）\n上为粗末，每服三钱，水一盏，煎至七分，温服，食前。\n如脉弦，恶寒腹痛，乃中气弱也。以仲景小建中汤加黄耆，钱氏异功散加芍药，选而用之。\n如渴甚者，以白术散加葛根倍之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 298,
+      "source_path": [
+        "卷下",
+        "辨內傷飲食用藥所宜所禁",
+        "益胃散"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "e6c000a8568c14a8cd70ade8350548c1916fe4da3dcb4e845ef22f5704b00851",
+      "content_sha256": "094e4d08f3c01faae9a4250b0b3c0e765061ead57a79ceba7d1c4365d3af8d68",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        299,
+        300,
+        301,
+        302,
+        303
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 164,
+        "simplified_codepoints": 164
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "c6350b6f7aeca4126f10ebbc",
+      "title": "饮食自倍肠胃乃伤分而治之",
+      "volume": "卷下",
+      "content": "《痹论》云：「阴气者，静则神藏，躁则消亡。饮食自倍，肠胃乃伤」。此混言之也。分之为二：饮也，食也。又经云：「因而大饮则气逆。因而饱食，筋脉横解，则肠澼为痔」。饮者，无形之气，伤之则宜发汗利小便，使上下分消其湿，解酲汤、五苓散之类主之。食者，有形之物，伤之则宜损其谷；其次莫若消导，丁香烂饭丸、枳术丸之类主之；稍重则攻化，三棱消积丸、木香见𪾢丸之类主之；尤重者，则或吐或下，瓜蒂散、备急丸之类主之。以平为期。盖脾已伤，又以药伤，使营运之气减削，食愈难消。故《五常政大论》云，「大毒治病，十去其六；常毒治病，十去其七；小毒治病，十去其八；无毒治病，十去其九；谷肉果菜，食养尽之。无使过之，伤其正也。不尽，行复如法。」圣人垂，此严戒，是为万世福也。如能慎言语、节饮食，所谓治未病也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 304,
+      "source_path": [
+        "卷下",
+        "飲食自倍腸胃乃傷分而治之"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "b4cf817b9b206e2e3d740a2b499372c451698ca4faabfe6b1d8ce0b8fa045470",
+      "content_sha256": "7a7a3ead88ae59cc991de22306b4b2633cbf030fc08f87ee4c02b1f73bdbbe94",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        305
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 338,
+        "simplified_codepoints": 338
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "6bf2c761101a8d4377bfd3ff",
+      "title": "论酒客病",
+      "volume": "卷下",
+      "content": "夫酒者，大热有毒，气味俱阳，乃无形之物也。若伤之，止当发散，汗出则愈矣，此最妙法也；其次莫如利小便。二者乃上下分消其湿，何酒病之有。今之酒病者，往往服酒症丸大热之药下之，又有用牵牛、大黄下之者，是无形元气受病，反下有形阴血，乖误甚矣！酒性大热，已伤元气，而复重泻之，况亦损肾水，真阴及有形阴血俱为不足，如此则阴血愈虚，真水愈弱，阳毒之热大旺，反增其阴火，是谓元气消亡，七神无依，折人长命；不然，则虚损之病成矣。《金匮要略》云：「酒疸下之，久久为黑疸。」慎不可犯此戒！不若令上下分消其湿，葛花解酲汤主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 306,
+      "source_path": [
+        "卷下",
+        "論酒客病"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "0d029c234d0adbc0a6a637c9eff67a41fa59a75501a6984b5c5c3aa8807119ec",
+      "content_sha256": "fcdd2826a96add88befa033b14f79a9b342d8a9aad589142a296e40adbe2d596",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        307
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 251,
+        "simplified_codepoints": 251
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "4f8d808f7f4a090eb28af049",
+      "title": "葛花解酲汤",
+      "volume": "卷下 / 论酒客病",
+      "content": "白豆蔻仁 缩砂仁 葛花（以上各五钱） 干生姜 神曲（炒黄） 泽泻 白术（以上各二钱） 橘皮（去白） 猪苓（去皮） 人参（去芦） 白茯苓（以上各一钱五分） 木香（五分） 莲花青皮（去穰，三分）\n上为极细末，称和匀，每服三钱匕，白汤调下，但得微汗，酒病去矣。此盖不得已而用之，岂可恃赖日日饮酒。此药气味辛辣，偶因酒病服之，则不损元气，何者？敌酒病故也，若频服之，损人天年。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 308,
+      "source_path": [
+        "卷下",
+        "論酒客病",
+        "葛花解酲湯"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "40e56f9e21577500d9d67d8cb219aa238ff15361e8aabdaf6aa33f2d85d0f820",
+      "content_sha256": "268b63ebbc3fb120aeec39a8997a1ea584e949b4fc8b659de2ac4d8882eb2304",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        309,
+        310
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "a251fb8327d756e8be556065",
+      "title": "除湿散",
+      "volume": "卷下 / 论酒客病",
+      "content": "治伤马乳并牛羊酪水，一切冷物。\n神曲（炒黄，一两） 茯苓（七钱） 车前子（炒香） 泽泻（以上各五钱） 半夏（汤洗） 干生姜（以上各三钱） 甘草（炙） 红花（以上各二钱）\n上同为极细末，每服三钱匕，白汤调下，食前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 311,
+      "source_path": [
+        "卷下",
+        "論酒客病",
+        "除濕散"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "eb42ef65339552d4ae2a44d32c04e0ac614280043ffe52452f7af18822f620e9",
+      "content_sha256": "73d5cd3bb48c638fdd82942aba30b02f0f067bf1a8ea18ed8693a379d73276c2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        312,
+        313,
+        314
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 106,
+        "simplified_codepoints": 106
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "be1ba5b44dad8df0a9f4120b",
+      "title": "五苓散",
+      "volume": "卷下 / 论酒客病",
+      "content": "治伤寒温热病，表里未解，头痛发热，口燥咽干，烦渴饮水，或水入即吐，或小便不利，及汗出表解，烦渴不止者，宜服之。又治霍乱吐利，烦渴引饮之证。\n泽泻（二两五钱） 猪苓 茯苓 白术（以上各一两五钱） 桂（一两）\n上为细末，每服二钱，热汤调下，不计时候，服讫，多饮热汤，有汗出即愈。\n又治瘀热在里，身热黄疽，浓煎茵陈蒿汤调下，食前服之。\n如疽发渴，及中暑引饮，亦可用水调服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 315,
+      "source_path": [
+        "卷下",
+        "論酒客病",
+        "五苓散"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "820f32b44c0f25a4b2eb589baba96f229660c421e309e6fdf8b3e42a05137bed",
+      "content_sha256": "8d236388985aa2589c28d4eaa22b6afd5ae9a7e75454f448ac826062980bb949",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        316,
+        317,
+        318,
+        319,
+        320
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 184,
+        "simplified_codepoints": 184
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "8cdf90e69ed05409b36025a3",
+      "title": "临病制方",
+      "volume": "卷下",
+      "content": "《至真要大论》云：「湿上甚而热，治以苦温，佐以甘辛，以汗为故而止。」「以淡泄之」。得其法者，分轻重而制方。《金匮要略》云：「腰以上肿，当发汗乃愈」；「腰以下肿者，当利小便」。由是「大病瘥后，从腰以下有水气者，牡蛎泽泻散主之。」又云：治湿不利小便，非其治也，制五苓散以利之。孙真人疗肤革肿，以五皮散，乃述类象形之故也。《水热穴论》云：上为喘呼，下为肿满，不得卧者，标本俱病，制神秘汤以去之。《活人书》云：「均是水气，干呕微利，发热而咳，为表有水，小青龙汤加芫花主之。身体凉，表证罢，咳而胁下痛，为里有水，十枣汤主之。」亦是仲景方也。易水张先生云，仲景药为万世法，号群方之祖，治杂病若神，后之医家，宗《内经》法，学仲景心，可以为师矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 321,
+      "source_path": [
+        "卷下",
+        "臨病制方"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "b0a32a9af17b78d4a1a6583ad8bcefc7daa1af6edb869426ca3273f4d457d9d2",
+      "content_sha256": "a2be112a5c81d9bb49ce0ab56bffa1279bd7fa0bdf0b9429c019164482ce9d40",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        322
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 315,
+        "simplified_codepoints": 315
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "04093c65cbaeae932af1e08b",
+      "title": "随时用药",
+      "volume": "卷下",
+      "content": "治伤冷饮者，以五苓散每服三钱或四钱匕，加生姜煎服之。\n治伤食兼伤冷饮者，煎五苓散送下半夏枳术丸服之。\n治伤冷饮不恶寒者，腹中亦不觉寒，惟觉夯闷身重，饮食不化者，或小便不利，煎去桂五苓散依前斟酌服之。\n假令所伤前后不同，以三分为率，伤热物二分，伤生冷硬物一分，用寒药三黄丸二停，用热药木香见𪾢丸一停，合而服之。又如伤生冷二分，伤热物一分，用热药木香见𪾢丸二停，用寒药三黄丸一停，合而服之。\n假令夏月大热之时，伤生冷硬物，当用热药木香见𪾢丸治之，须少加三黄丸，谓天时不可伐，故加寒药以顺时令；若伤热物，只用三黄丸。何谓？此三黄丸时药也。\n假令冬天大寒之时，伤羊肉湿面等热物，当用三黄丸治之，须加热药少许，草豆蔻丸之类是也，为引用，又为时药。经云：「必先岁气，无伐天和。」此之谓也，余皆仿此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 323,
+      "source_path": [
+        "卷下",
+        "隨時用藥"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "800c4e7d6c922e9b618c34565295b517b9f037ca9ccf8fea630f98c9c4117bc0",
+      "content_sha256": "2bb32a1ab2df478820737b6791c847b1a8767ff56505af390615903d57e3e33b",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        324,
+        325,
+        326,
+        327,
+        328,
+        329
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 343,
+        "simplified_codepoints": 343
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "e4aaafeb6af146286a656c4e",
+      "title": "吐法宜用辨上部有脉下部无脉",
+      "volume": "卷下",
+      "content": "上部有脉，下部无脉，其人当吐，不吐者死，何谓也？下部无脉，此所谓木郁也。饮食过饱，填塞胸中，胸中者，太阴之分野。经云：气口反大于人迎三倍，食伤太阴，故曰木郁则达之，吐者是也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 330,
+      "source_path": [
+        "卷下",
+        "吐法宜用辨上部有脈下部無脈"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "d3ede63ba1738736032e9a3fe8740efdf569512c07bac37b9e84d47a0d0b7623",
+      "content_sha256": "253a418d9f304e6f461d02d6371eb287190356e4bd8b04e3f457a70cf6fecd6c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        331
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "16ea2ce7953417236de58657",
+      "title": "瓜蒂散",
+      "volume": "卷下 / 吐法宜用辨上部有脉下部无脉",
+      "content": "瓜蒂 赤小豆（以上各等分）\n上二味，为极细末，每服一钱匕，温浆水调下，取吐为度。苦不至两手尺脉绝无，不宜便用此药，恐损元气，令人胃气不复。若止是胸中窒塞，闷乱不通，以指探去之；如不得吐者，以物探去之，得吐则已。如食不去，用此药去之。\n解云：盛食填塞于胸中，胸中为之窒塞，两手寸脉当主事，两尺脉不见，其理安在？胸中有食，故以吐出之。食者，物也。物者，坤土也，是足太阴之号也。胸中者，肺也，为物所填。肺者，手太阴金也，金主杀伐也；与坤土俱在于上，而旺于天。金能克木，故肝木生发之气伏于地下，非木郁而何？吐去上焦阴土之物，木得舒畅，则郁结去矣。\n食塞于上，脉绝于下，若不明天地之道，无由达此至理。水火者，阴阳之征兆，天地之别名也，故曰独阳不生，独阴不长。天之用在于地下，则万物生长矣；地之用在于天上，则万物收藏矣。此乃天地交而万物通也，此天地相根之道也。故阳火之根本于地下，阴水之源本于天上，故曰水出高源。故人五脏主有形之物，物者阴也，阴者水也，右三部脉主之，偏见于寸口，食塞其上，是绝五脏之源，源绝则水不下流，两尺竭绝，此其理也，何疑之有？",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 332,
+      "source_path": [
+        "卷下",
+        "吐法宜用辨上部有脈下部無脈",
+        "瓜蒂散"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "c676db47d12edd2fb7b65fac2c983b3e67019e8d4fd6d29de213f489d14fddba",
+      "content_sha256": "78b6bd545eb30d8d887aa91e4581ece07c6a9d588a32b2505c0ca7f0e2839f3c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        333,
+        334,
+        335,
+        336
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 468,
+        "simplified_codepoints": 468
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "44ec422e4571ea4e5665a8c3",
+      "title": "重明木郁则达之之理",
+      "volume": "卷下",
+      "content": "或曰：食盛填塞于胸中，胸中为之窒塞也，令吐以去其所伤之物，物去则安。胸中者，太阴肺之分野；木郁者，遏于厥阴肝木于下，故以吐伸之，以舒畅阳和风木之气也，此吐乃泻出太阴之塞。何谓木郁？请闻其说。答曰：此大神灵之间，非演说大道，不能及于此。\n天地之间，六合之内，惟水与火耳！火者阳也，升浮之象也，在天为体，在地为用；水者阴也，降沉之象也，在地为体，在天为殒杀收藏之用也。其气上下交，则以成八卦矣。以医书言之，则是升浮降沉，温凉寒热四时也，以应八卦。若天火在上，地水在下，则是天地不交，阴阳不相辅也，是万物之道，大《易》之理绝灭矣，故经言独阳不生，独阴不长，天地阴阳何交会矣？故曰阳本根于阴，阴本根于阳，若不明根源，是不明道。故六阳之气生于地，则曰阳本根于阴。以人身言之，是六腑之气，生发长散于胃土之中也。既阳气鼓舞万象有形质之物于天，为浮散者也；物极必反，阳极变阴，既六阳升浮之力在天，其力尽，是阳道终矣，所以鼓舞六阴有形之阴水在天，在外也。上六无位，必归于下，此老阳变阴之象也，是五脏之源在于天者也。天者，人之肺以应之，故曰阴本源于阳，水出高源者是也。人之五脏，其源在肺，肺者背也，背在天也，故足太阳膀胱寒生长，其源在申，故阴寒自此而降，以成秋收气寒之渐也。降至于地下，以成冬藏，伏诸六阳在九泉之下者也。故五脏之气生于天，以人身，是五脏之气，收降藏沉之源出于肺气之上，其流下行，既阴气下行沉坠，万化有形质之物皆收藏于地，为降沉者也；物极必反，阴极变阳，既六阴降沉之力在地，其力既尽，是阴道终矣，是老阴变阳，乃初九无位，是一岁四时之气，终而复始，为上下者也，莫知其纪，如环无端。\n且太阴者，肺金收降之气，当居下体，今反在于上，抑遏厥阴风木反居于下，是不得上升也，故曰木郁，故令其吐出窒塞有形土化之物，使太阴秋肺收于下体，复其本以衰之，始上升手足厥阴之木，元气以伸，其舒畅上升之志得其所矣。又况金能克木，以吐伐之，则金衰矣。金者，其道当降，是塞因塞用，归其本矣。居于上则遏其木，故以吐伸之，乃泻金以助木也。遍考《内经》中所说木郁则达之之义，止是食伤太阴有形之物，窒塞于胸中，克制厥阴木气伏潜于下，不得舒伸于上，止此耳，别无异说，以六淫有余运气中论之。仲景《伤寒论》云：懊憹烦躁不得眠，不经汗下，谓之实烦，瓜蒂散主之；曾经妄汗、妄吐、妄下，谓之虚烦者，栀子豉汤主之。\n老夫欲令医者治阴阳之证，补泻不至错误，病家虽不知医，明晓所得之病，当补当泻之法，将《黄帝针经》第二卷第五篇说形气有余不足当补当泻之理，录之于前，予自注者附之。\n「黄帝曰：形气之逆顺奈何？岐伯答曰：形气不足，病气有余，是邪胜也，急当泻之；形气有余，病气不足，急当补之。形气不足，病气不足，此阴阳气俱不足也，不可刺之；刺之则重不足，重不足则阴阳俱竭，血气皆尽，五脏空虚，筋骨髓枯，老者绝灭，壮者不复矣。形气有余，病气有余，此谓阴阳俱有余也，急泻其邪，调其虚实。故曰有余者泻之，不足者补之，此之谓也。\n「故曰：刺不知逆顺，真邪相搏，满者补之，则阴阳四溢，肠胃充廓，肝肺内䐜，阴阳相错；虚而泻之，则经脉空虚，血气枯竭，肠胃㒤辟，皮肤薄著，毛腠夭焦，予之死期。故曰：用针之要，在于知调阴与阳；调阴与阳，精气乃光，合形与气，使神内藏。\n故曰：上工平气，中工乱脉，下工绝气危生。故曰：下工不可不慎也，必审五脏变化之病，五脉之应，经络之实虚，皮肤之柔粗，而后取之也。」\n圣人垂慈之心已详矣，不合立言。老夫诚恐市井庄农山野间人，不知文理，故以俚语开解之云。但病来潮作之时，病气精神增添者，是为病气有余，乃邪气胜也，急泻之，以寒凉酸苦之剂；若病来潮作之时，神气困弱者，为病气不足，乃真气不足也，急补之，以辛甘温热之剂。不问形气有余并形气不足，只取病气有余不足也，不足者补之，有余者泻之。假令病气有余者，当急泻之，以寒凉之剂，为邪气胜也；病气不足者，急当补之，以辛甘温热之剂，此真气不足也。\n夫形气者，气，谓口鼻中气息也；形，谓皮肤筋骨血脉也。形胜者为有余，消瘦者为不足。其气者，审口鼻中气，劳役如故，为气有余也；若喘息气促气短，或不足以息者，为不足也。故曰形气也，乃人之身形中气血也，当补当泻，全不在于此，只在病势潮作之时，病气增加者，是邪气胜也，急当泻之；如潮作之时，精神困弱，语言无力，及懒语者，是真气不足也，急当补之。若病人形气不足，病来潮作之时，病气亦不足，此乃阴阳俱不足也。禁用针；宜补之以甘药，不可以尽剂；不灸弗已，脐下一寸五分气海穴是也。\n凡用药，若不本四时，以顺为逆。四时者，是春升、夏浮、秋降、冬沉，乃天地之升浮化降沉，化者，脾土中造化也，是为四时之宜也。但宜补之以辛甘温热之剂，及味之薄者，诸风药是也，此助春夏之升浮者也，此便是泻秋收冬藏之药也，在人之身，乃肝心也；但言泻之以酸苦寒凉之剂，并淡味渗泄之药，此助秋冬之降沉者也，在人之身，是肺肾也。用药者，宜用此法度，慎毋忽焉！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%85%A7%E5%A4%96%E5%82%B7%E8%BE%A8%E6%83%91%E8%AB%96/index.html",
+      "source_ordinal": 337,
+      "source_path": [
+        "卷下",
+        "重明木鬱則達之之理"
+      ],
+      "source_sha256": "98d9480aba8de34e36da89026a689f06ee916442511fc5fb6750a7979fba3648",
+      "original_sha256": "3e77887d7e8b798d3030a68b8ccc247c9d0bdeaa36d3d043c70ad34f1eedbb30",
+      "content_sha256": "a518b5966325b307df2b7cfc0aeae1451c0676918d2865676e0f63b3a89854c5",
+      "paragraph_count": 10,
+      "paragraph_ordinals": [
+        338,
+        339,
+        340,
+        341,
+        342,
+        343,
+        344,
+        345,
+        346,
+        347
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 2017,
+        "simplified_codepoints": 2017
+      },
+      "order": 72
+    }
+  ]
+}

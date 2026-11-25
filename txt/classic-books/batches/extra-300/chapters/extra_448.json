@@ -1,0 +1,1601 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_448",
+    "name": "伤寒标本心法类萃",
+    "summary": "《伤寒标本心法类萃》属于伤寒与金匮研究文献，内容涉及仲景经文解释及伤寒杂病辨治。所收卷篇包括“伤风”、“伤寒”、“中暑”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "金",
+    "author": "刘完素",
+    "jp": "SHBBXFLC",
+    "aliases": [
+      "傷寒標本心法類萃"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "61d75787fb507daa00b728ef",
+      "title": "伤风",
+      "volume": "卷上",
+      "content": "伤风之证：头疼项强，肢节烦疼，或目痛。肌热、干呕、鼻塞、手足温、自汗出、恶风，其脉阳浮而缓、阴浮而弱，此风邪在表。以上伤风之证，皆宜桂枝汤（第二）以解肌。伤风汗出、怕风，而加项强痛者，桂枝葛根汤（第三）；伤风反无汗者，虽已服桂枝汤，反烦不解而无里证者，先刺风池、风府，却与桂枝汤服之。不若通用双解散（五十四），免致有桂枝、麻黄之误。伤风自汗，白虎汤（二十二），太阳病无汗而渴者，不可与白虎汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 2,
+      "source_path": [
+        "卷上",
+        "傷風"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0235546d3d2baa6d41703c9b0e187c401fd5ca814a445069a0383cdbfc9bb8bf",
+      "content_sha256": "070a917c8b09903e92005290e624306c84b54bc6e123089dd8f5d551b0f78dea",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 196,
+        "simplified_codepoints": 196
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "87e807ab324cb8330c2cb6b6",
+      "title": "伤寒",
+      "volume": "卷上",
+      "content": "伤寒之证：头项病疼、腰脊强、身体拘急、恶寒不烦躁、无自汗，或致头面目疼、肌热鼻干，或胸满而喘、手足指末微厥，脉浮数而紧者，邪在表。以上伤寒之证，皆宜麻黄汤（第一）以发其汗。伤寒冒风，头目痛，四肢拘倦，比金散（四十九）。不若通用天水散（五十二）或双解散（五十四）之类甚佳，无使药不中病而益加害也。白虎合凉膈散（二十三）乃调理伤寒之上药，伤风甚妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "卷上",
+        "傷寒"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "512b79d1b093879d81f3d8b733b534f0c559d176cf27064ace680c6b3ca9d224",
+      "content_sha256": "4ad0b20a70ff9a95250505b50a91d865b94fd69b84b366a365990f09aa95ba55",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        5
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 172,
+        "simplified_codepoints": 172
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "4f79da8373d6a0b2b1f07c72",
+      "title": "中暑",
+      "volume": "卷上",
+      "content": "中暑之证：身热头痛、背寒面垢、自汗烦躁、大渴口干、倦怠而身不痛，或时恶寒，或畏日，气脉虚而弱，无问表里，通宜白虎。夏月感冒发热烦渴，五苓散（二十四）、桂苓甘露饮（三十四）、黄连香薷饮（五十五）或双解散（五十四）；或里热甚、腹满，而脉沉可下者，大承气汤（十）下之，或三一承气汤（十三）尤妙；半表半里者，小柴胡（九）合凉膈、天水散。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 6,
+      "source_path": [
+        "卷上",
+        "中暑"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "16bb5bf9c643489c04cf0012f6bb9fb013f30154e9438b57c7333a0e8b1b9360",
+      "content_sha256": "b092c7fb7b9542c5041bf2f6a8f29fed39e4b4bd76673f7c6e561a6e83ae72f7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        7
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 164,
+        "simplified_codepoints": 164
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "c669df08d9e7cadfc6e9fd1b",
+      "title": "中湿",
+      "volume": "卷上",
+      "content": "中湿之证：一身尽疼，重者发黄、关节烦疼、发热、鼻塞，时或腹满胀大、便利，脉沉而缓。以上中湿之证，先用双解散（五十四）微微汗之，次用五苓散（二十四）或淡渗散（二十五）、桂苓甘露饮（三十四）。曾用甘露饮不愈，却用黄连解毒（二十一）则愈。问：何也？曰：若剂生土之甘，此属土，故以火剂燥土，其病则愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 8,
+      "source_path": [
+        "卷上",
+        "中濕"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "c5ccd4112fffa85e4d9d3ed1f1d90e0c99919c9de3672300628fb9d3c0502442",
+      "content_sha256": "2343f9b10ece85f684135311f1a1754590154f872590d9efa7207aebe107bc4f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 146,
+        "simplified_codepoints": 146
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "c15d9698524655df545c50c8",
+      "title": "风寒俱中",
+      "volume": "卷上",
+      "content": "风寒俱中之证：头痛项强、肢体疼、手足温，为中风；反无汗、恶寒、脉浮紧，为伤寒也。或头项疼、腰脊强、身体拘急、指末微厥、不自汗，为伤寒；反烦躁而脉缓者为伤风也。风则伤卫，寒则伤荣，荣卫俱伤，则表里热甚者，通宜以大青龙汤（六），或双解散（五十四）最妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "卷上",
+        "風寒俱中"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "b09bba8286422fa1c74bbd1131e22de6b547db798b920c1721e213a0a460ff8b",
+      "content_sha256": "e7a1fe60920ec305c4a4d6e5dc5cbbf0fd386d8881987c581d2611b62a179110",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        11
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 124,
+        "simplified_codepoints": 124
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "7bc1ee5d7a944877bcbc3c4b",
+      "title": "内外伤寒",
+      "volume": "卷上",
+      "content": "始得脉便沉而里病表和者，内伤也；脉浮而表病里和者，外伤也。病在身体四肢，为表病；病在胸腹之内，为里病。内伤通神散（五十一），外伤双解散（五十四），内外一切所伤通圣散（五十三），然不若双解散，以平和为之，三法至神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 12,
+      "source_path": [
+        "卷上",
+        "內外傷寒"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0fc39bd28901ec52dc9452b0389ec2418ddcfe0d075a73e369d259805761eb42",
+      "content_sha256": "d33b94a254aa473c654c5f161450a74cf88fbdac35d3ce4d83979ddb681fd577",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 106,
+        "simplified_codepoints": 106
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "c9ae7c2ad1a3e7b6a72472e3",
+      "title": "一切汗候",
+      "volume": "卷上",
+      "content": "风寒暑湿、饥饱劳逸、忧愁思虑、恚恐悲怒；四时中外诸邪所伤，但觉身热头疼、拘倦强痛，无问自汗无汗、憎寒发热、渴与不渴，微、甚；伤寒疫疠、汗病两感、风气杂病，一切旧病发作，三日里外并宜双解散（五十四）。设若感之势甚，本难解者，常服双解散，三两日间，亦渐可减，并无所损。或里热极甚、腹满实痛、烦渴谵妄，须可下者，三一承气汤（十三）为妙。或下后未愈，或下证未全，或大汗前后逆气，或汗后余热不解，或遗热复劳，或染他人病气，汗毒传染，或中瘴气、羊气、牛气，一切秽毒，并漆毒、酒毒、食毒、一切药毒，及坠堕打扑伤损疼痛，或久患风眩头疼、中风偏枯、破伤风、洗头风、风痫病，或妇人产后诸疾，小儿惊风积热、疮疡疹痘，无问日数，但以双解散（五十四）服之，周身中外气血宣通，病皆除愈。然双解乃通仙之药，但除孕妇及产后、月经过多、并泄泻者勿与服之，惟年老人最宜，自有造化于中矣。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "卷上",
+        "一切汗候"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "653a74365de87e9496bc551b515ff17e128503ed7caf7e64c8023ff305b2d710",
+      "content_sha256": "70fec1569bd1710902595aaa34795f01d05f31d0ba585424f8deaeb8308b6f04",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 375,
+        "simplified_codepoints": 375
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "228c6e160a4e0a190246e106",
+      "title": "传染",
+      "volume": "卷上",
+      "content": "凡伤寒疫疠之病，何以别之，盖脉不浮者传染也，设若以热药解表，不惟不解，其病反甚而危殆矣。其治之法：自汗宜以苍术白虎汤（二十二）；无汗宜滑石凉膈散（二十三），散热而愈；其不解者通其表里，微甚，随证治之，而与伤寒之法皆无异也。双解散（五十四）、益元散（五十二），皆为神方。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "卷上",
+        "傳染"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "dfac5164a53eaabae0fa2245b6d4cb8abd1c03cc3dd3a870b4d4ad90d00dfa67",
+      "content_sha256": "891218e72e62127098a5d96d12f7a62a7a3b20300f0b1ff6140379e622831873",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        17
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 134,
+        "simplified_codepoints": 134
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "18d9dd8a5d9c2e666b23b03e",
+      "title": "表证",
+      "volume": "卷上",
+      "content": "凡表证脉浮，身体肢节疼痛，恶风、恶寒者，可汗之不可下也。伤寒无汗麻黄汤（一），伤风自汗桂枝汤（二）。一法不问风寒通用双解散（五十四），或天水散（五十二）最妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 18,
+      "source_path": [
+        "卷上",
+        "表證"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "fb4279ca2485b840e19934455cd960537a40447e40228ad88026dfe518c190a5",
+      "content_sha256": "f5de59b5480dc30d3e4f5b4ebf3cb701a46da0c683903a7d957497c1e9e10fb4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 79,
+        "simplified_codepoints": 79
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "926adbda8c33c528504381da",
+      "title": "里证",
+      "volume": "卷上",
+      "content": "凡里证脉实而不浮，不恶寒及恶风，身不疼，自汗谵语，不大便，或咽干腹满者，可下之不可汗也。以上之证宜小承气汤（十二）、大承气汤（十）、调胃承气汤（十一），选而用之。一法不问风寒暑湿，或表、里两证俱不见，但无表证而有可下者，通用三一承气汤（十三）下之。此药发峻效，使无表热入里，而无结胸及痞之众疾也。或热结极深而诸药数下，毕竟不能利，不救成死者，大承气汤加甘遂一钱匕下之。病在里，脉沉细者，无问风寒暑湿，或表里证俱不见；或内外诸邪所伤，有汗、无汗、心腹痛满、谵妄烦躁、蓄热内盛、但是脉沉者，宜三一承气汤（十三）合解毒汤（二十一）下之。解毒、调胃承气汤，能泻大热。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "卷上",
+        "里證"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "5441c1aa112d53e095e92b37a3071d8665b126de147538d6dd96ec347fb743ba",
+      "content_sha256": "029c10912817074cef435a42eb84f1529854ae59d7de05738ef3ffb3293654aa",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 279,
+        "simplified_codepoints": 279
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "3f6016af671d8b1a2075d13f",
+      "title": "表里证",
+      "volume": "卷上",
+      "content": "表里俱见之证：或半在表，或半在里之证者，谓前表里二证，病在相参。有欲汗之而有里病，欲下之而表病未解；汗之不可，吐之又不可，法当和解。伤风，白虎汤（二十二）；伤寒、中风或两感，小柴胡汤（九）。一法不问风寒暑湿，用凉膈散（二十三）、天水散（五十二）二药合一服，用煎解之。或表热多，里热少，天水一，凉膈半；或里热多，表热少，凉膈一，天水半；表热极，里有微热，身疼头痛，或眩或呕，不可汗吐下者，天水、凉膈散合和解之。解之又不能退其热者，用黄连解毒汤；表里之热俱微者，五苓散（二十四）；表里之热俱盛者，大柴胡汤（八）微下之，更甚者大柴胡合大承气汤（十）下之，双除表里之热。服双解散（五十四）之后若不解，病已传变，后三日在里，法当下之。殊不知下之太早，则表热乘虚而入里，遂成结胸、虚痞、懊憹、发黄之证，轻者必危，危者必死，但宜平和之药，宣散其表，和解其里，病势或有汗而愈，或无汗气和而愈。用小柴胡（九）、凉膈（二十三）、天水（五十二），合和主之。病在半表半里，用小柴胡，凉膈散合和而解之，或小柴胡合解毒汤（二十一）。如服，热势未退者，大柴胡（八）合三一承气汤（十三）。表里俱微，半表半里，若里微者宜大柴胡（八）合黄连解毒汤（二十一）合服。诸小柴胡汤证后病不解，表里热势更甚，而心下急郁微烦；或发热汗出不解，心下痞硬、呕吐不利；或阳明病多汗；或少阴病下利清水，心下痛而口干；或太阴病腹满而痛；或无表里证但发热，七、八日，虽脉浮而数，而脉在肌肉实数而滑者，并宜大柴胡汤（八）。病至七、八日，里热已甚，表渐微，脉虽浮数，用三一承气汤（十三）合解毒下之。下证未全，不可下者，用白虎汤（二十二）或人参石膏汤（三十五）。脉洪、躁，里有微热，不可汗者，用黄连解毒汤（二十一）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "卷上",
+        "表裡證"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "2947bf5b76626771c13eedbadda77ef75fce1242ac3a0e2317bab0b6084e6cfe",
+      "content_sha256": "b31f440817a1ab7ad794986209e101eb48aee6a056559d840cb26cf45ce95577",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 725,
+        "simplified_codepoints": 725
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "718b641799240d6dd59faed0",
+      "title": "汗后不解",
+      "volume": "卷上",
+      "content": "凡是表证法当汗之，依法汗之，其病又不解。汗后不解，其证前后别无异证者，通宜凉膈散（二十三）调之，以退其热，无使热甚危极也。除此之外，远胜小柴胡汤。两感至此而已，汗后余热用益元散（五十二）、或小柴胡汤（九）、崔宣武人参石膏汤（三十六）。伤寒大发汗，汗出不解，反无汗，脉尚浮者，苍术白虎汤（二十三）解之。伤寒用桂枝汤发汗后半日许，复热烦，脉浮者，再宜桂枝汤（二）；汗后不解，下证未全者，白虎汤（二十三）；汗后烦躁不得眠，微热而渴，五苓散（二十四）；汗后不解，里外有热，口干烦渴，柴胡饮子（四十七）；解表之后尚未愈者，解毒（二十一）、凉膈（二十三）、天水散（五十二），能调顺阴阳，洗涤脏腑。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "卷上",
+        "汗後不解"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0db4b55ec24759d5454ce4a13edb2a579b08334b01eb5d1d963375f1dbd387f5",
+      "content_sha256": "8cf33c53b04350b6c934c73c3a9151534f5bd7bdb3010e78c2d059c1f717ae5a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 292,
+        "simplified_codepoints": 292
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "6605d0af7ce89f3e20bf7b3c",
+      "title": "下后不解",
+      "volume": "卷上",
+      "content": "凡是里证法当下之，依法下之，其病又不解。或大下后，或再三下后，热势尚甚而不退，本气虚损而不能实，拟更下之，恐下脱而立死，不下之则热极而死，寒凉诸药不能退其热势之甚者；或湿热内余，下利不止，热不退者；或因大下后，湿热利不止而热不退，脉弱气虚不可更下者；或诸湿热内余，小便赤涩，大便溏泄，频并少腹而急痛者，必欲作痢也，通宜黄连解毒汤（二十一）以解之。伤寒下之太过，胃中无热，饮水无力，白术散（四十二）。又有大下之后，其热不退，再三下之热愈甚，若下之不止，其人脉微气虚，气弱不加，以法无可生之理。至此下之亦死、不下亦死，但用凉膈（二十一）合解毒汤（二十三）调之，阳热退除，阴脉渐生，为之妙法。下之前后无问日数，余热不解，小柴胡汤（九）。汗下后胃虚，大橘皮汤（三十九）。汗下后胸膈满闷，赤茯苓汤（四十）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "卷上",
+        "下後不解"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "03b89eeac263f93f464dfea0c167063db2078b6539df0f91ad64b05bd9513988",
+      "content_sha256": "4922e1b7b047cebdb8bd0dc885dc54d8b235168bf30d49cec948f90eeb3b313e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        27
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 348,
+        "simplified_codepoints": 348
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "ddc90b5ddb9b3660a90ab9cd",
+      "title": "在上涌之",
+      "volume": "卷上",
+      "content": "诸病在膈者，当用瓜蒂散（二十六）吐之。或表证罢，邪热入里，结于胸中，烦满而饥不能食，四肢微厥而脉乍急者，宜瓜蒂散吐之。伤寒头疼久不愈，令人丧明，以胸膈有宿痰故也，当先涌之，次以白虎汤（二十二）加减。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 28,
+      "source_path": [
+        "卷上",
+        "在上湧之"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "8b21beac03e136f8218dd4716e301a37904536bc575cdd1c17e18c12cd5d07ff",
+      "content_sha256": "f368282e057046f2d22c9e65b229124e9b3696220bb0cf40edfcb0ea2f82ac6b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "f80ed16e5403b272b80eab19",
+      "title": "在下泄之",
+      "volume": "卷上",
+      "content": "诸病蓄热下焦，则承气、抵当之类，泄之而可也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "卷上",
+        "在下泄之"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "5498da3ad967a6f5f8249bfdf8889bf406eab582a016ccbe7f52478ea76fa42d",
+      "content_sha256": "de3c639d0f00ff68671b2734d153351952f78ed149cc48eeb9e13fa5ee9fb89c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 22,
+        "simplified_codepoints": 22
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "ff84b730e32e39854ba5afc3",
+      "title": "合病",
+      "volume": "卷上",
+      "content": "三阳合病：腹满身重，难以转侧，口燥面垢，谵语遗尿，如误发汗则谵语益甚，下之则便厥，额上汗出，后必发黄，白虎汤（二十二）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "卷上",
+        "合病"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "aa2d6777e11c0b5f79875f2942691d5f43517c8fb87fc6ed88e69e6b32d82356",
+      "content_sha256": "5fd9bd5f3b5db3824c0cc2f7fbbec0a6e8a623bd6c1143a01bbfb38c45c8c32d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "b37480369c4a458ab237201c",
+      "title": "两感",
+      "volume": "卷上",
+      "content": "两感谓一日太阳、少阴两症俱见，二日阳明与太阴俱病，三日少阳与厥阴俱病，前六经之证是也。小柴胡汤（九）、凉膈散（二十三）、五苓散（二十四）、天水散（五十二）、通圣散（五十三）、双解散（五十四）、大柴胡汤（八），可选用之。热势甚，欲可下者，三一承气汤（十三），或解毒（二十一）合承气汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "卷上",
+        "兩感"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "5f3148ceac70f8240d19d3943c06938f4bd1a88d0d3ed198f9d8cb36c863fa27",
+      "content_sha256": "69c766c70c5887793b19f1aa68b67a7344e7db7b6def1082211a4e67f962c23f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        35
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 141,
+        "simplified_codepoints": 141
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "7bcc3cb2bd7629954fbc24ee",
+      "title": "痓病",
+      "volume": "卷上",
+      "content": "痓之为病：发热腹满，口噤头摇，瘛疭不语，项强背直，腰身反强。或目痛，或目赤，或目闭，或反目，或足温，或妄行，其脉沉弦而迟，或带紧者，无汗曰刚痓；有汗曰柔痓。通宜三一承气汤（十三）合解毒（二十一）下之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 36,
+      "source_path": [
+        "卷上",
+        "痓病"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "2b4a5ad400706c1a59ab1b41966e4770ba1f89fe042cab7b70a7bcf43d2353dc",
+      "content_sha256": "6727e9b4745e8a82f37a8e4e20e7601eaf8f552d4c3c436f67d52e4f699cd388",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 100,
+        "simplified_codepoints": 100
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "5360bdd92978f16054556e52",
+      "title": "头疼",
+      "volume": "卷上",
+      "content": "头疼之证，无问风寒暑湿杂病，自汗头疼，俱宜白虎汤（二十二），或加川芎、荆芥尤妙。头疼久不愈，必致丧明，宜先涌痰，次用白虎加减。风眩痰逆、喘嗽头疼，茯苓半夏汤（三十八），头疼、肢体痛，黄连解毒汤（二十一）；头疼、口干，桂苓甘露饮（三十四），风疾喘嗽头疼，白虎（二十二）、半夏橘皮汤（三十七），风热头疼，心烦昏愦，人参石膏汤（三十五），伤寒壮热头疼，不卧散（四十五）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 38,
+      "source_path": [
+        "卷上",
+        "頭疼"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "b3d5ece94986dbae0643608d8f0104310c314ea769bfb4665522222e852d8320",
+      "content_sha256": "c1f63308c341044f743c14296bd3b07401e203403bcdb398606a410d1687fb0b",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        39
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 182,
+        "simplified_codepoints": 182
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "84ccfb861847d38b90f8bc3d",
+      "title": "身疼",
+      "volume": "卷上",
+      "content": "身疼之证，无问风寒，双解散（五十四）。表热甚，头项肢体疼痛，黄连解毒汤（二十一）。伤寒瘟疫，遍身疼痛，少力，头旋，腰脚麻重，呕哕、壮热、减食，三一承气（十三）减硝加贯众、紫河车，入金银煎，名银煎散。中湿一身尽痛，五苓散（二十四）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 40,
+      "source_path": [
+        "卷上",
+        "身疼"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "310ee1ea919e84981d05ff816142cd6f6689f5de963123865c73e08dd13e6866",
+      "content_sha256": "a48c8935e37afc446657523f7fe01cfd86d8f07dcd65d3aeb356c88f7ba6265c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        41
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "1fb4d5d37688ca29bc8c6b16",
+      "title": "腹胀满痛",
+      "volume": "卷上",
+      "content": "腹胀满，脉沉者，以三一承气汤（十三）合解毒（二十一）下之。诸腹满实痛、烦渴谵妄、脉实数而沉者，无问日数，三一承气汤。少阳证，腹中痛者，小柴胡（九）去黄芩加芍药汤。少阳证，胁下痞硬者，小柴胡去枣子加牡蛎。太阴证，腹满时痛，桂枝（二）加芍药；痛甚桂枝加大黄。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 42,
+      "source_path": [
+        "卷上",
+        "腹脹滿痛"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "22da4f30807b2511e91a7784095e45ba1cd77ad3a69367509674d01c1efc2aad",
+      "content_sha256": "1b22adeb21b7f0486808c2140d4d0163864633b30c6e1d45825db126b56da96d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        43
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 127,
+        "simplified_codepoints": 127
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "cd713cbce8b4c1e3ff8a6927",
+      "title": "往来寒热",
+      "volume": "卷上",
+      "content": "往来寒热属少阳，一日二、三作，来往无期，用小柴胡汤（九）主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 44,
+      "source_path": [
+        "卷上",
+        "往來寒熱"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "cd7dc7d94aa057c0d070540ffebf66116dffa53e8c21caad1144502059fcab91",
+      "content_sha256": "24bc53e8dda7b08775afe236d99d130ae85af3e95b4d97c38796b48d1c80d251",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        45
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 31,
+        "simplified_codepoints": 31
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "ff2912b57931238fec3ebf68",
+      "title": "潮热",
+      "volume": "卷上",
+      "content": "潮热属阳明，一日一发，日晡而作也。阳明里热极甚，或吐下后不解大便五、六日至十余日，日晡潮热，心胸烦热而懊憹，如疟状，脉沉实者，三一承气汤（十三）。阳明、少阳合病，下利，日晡发热如疟者，大柴胡汤（八）。通宜三一承气（十三）合解毒（二十一）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 46,
+      "source_path": [
+        "卷上",
+        "潮熱"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "309d80f01017a7e55fbec67627d60acba60a9dc2fa42e5ab70286e0b9be004da",
+      "content_sha256": "c80669664420f953b310504da4873a757f17edb396f08a0788b03e6a874f4b80",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        47
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "685476ed1e091b3c871fec94",
+      "title": "自汗",
+      "volume": "卷上",
+      "content": "自汗者，不发表解肌自出汗也，伤风自汗也。伤风自汗，桂枝汤。伤寒自汗，脉沉数而实，表里俱热者，三阳合病自汗者，厥逆自汗者，头疼自汗者，伤寒自汗未解半入于里者，中暑自汗脉虚者，俱宜白虎汤（二十二）。伤寒寝汗不止，白虎汤加麻黄根、浮麦。伤寒汗下后，自汗、脉虚、热不已，白虎加人参、苍术服之，汗止身凉，通仙之法也。\n中暑自汗，白虎汤，后以澹渗汤（二十五）调之。自汗多崔宣武人参石膏汤（三十六）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 48,
+      "source_path": [
+        "卷上",
+        "自汗"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "2c80be8dbc5486ee5ffe9a5b7aabee98f7a3b8b50ac0b2dae849290bcbe111c4",
+      "content_sha256": "80c49496ca109e710235be3ad381ae2219690e25fa9f8a60566a9520a7b0b80d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        49,
+        50
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 193,
+        "simplified_codepoints": 193
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "b60c395f2d7c7ea1eee82126",
+      "title": "自利并误下",
+      "volume": "卷上",
+      "content": "自利者，不经下药攻里而自利也。脉浮表不解自利，或小便不利者，五苓散（二十四）。一切泻痢间作，桂苓甘露饮（三十四）。温湿内甚而作痢者，黄连解毒汤（二十一）。或自利清水，色钝青，心下痞痛。口燥者，皆湿热相搏于肠胃之内而成，三一承气汤（十三）。当汗而反下，及不成结胸而但下利清谷不化，表证在，表热里寒也，急以四逆汤（四十三）温里；利止里和，急以桂枝解表。或用巴豆热药下之而协热利不止，皆宜五苓散止利兼解表。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 51,
+      "source_path": [
+        "卷上",
+        "自利並誤下"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "d80d30aff355c697c9a88a2f21c82a7ddc55c5baa2b9c7742462749f9dc46c8a",
+      "content_sha256": "9c6caa1a856f92096f60e79e5bab0622a1151556bb2d6b6eedcd02d27abac930",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        52
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 200,
+        "simplified_codepoints": 200
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "fa6ea47754b7ef5c483a60d4",
+      "title": "小便不利",
+      "volume": "卷上",
+      "content": "小便不利者，小便难而赤涩也。中暑并伤寒大发汗后，胃中干、烦躁不得眠、脉浮、小便不利、微热烦渴者；口干烦渴，小便不利者；小便赤涩，通宜五苓散（二十四）、桂苓甘露饮（三十四）主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 53,
+      "source_path": [
+        "卷上",
+        "小便不利"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "c3c44149250a20c154e1bb730e00b2160c8f9a3968d62924551048af04e3d7e2",
+      "content_sha256": "9c53bd25525eecbf65715af94d34b4e461cdb5fd73e2eab7c66ade918a369ad7",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        54
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "831c7efd24358736eebfb0f1",
+      "title": "呕吐",
+      "volume": "卷上",
+      "content": "凡呕吐者，火性上炎也，无问表里，通宜凉膈散（二十三）。伤寒杂病，一切呕吐，调胃承气汤（十一）。烦闷干呕，黄连解毒汤（二十一）。呕吐烦渴者，桂苓甘露饮（三十四）、五苓散（二十四）。眩、咳呕者，白虎（二十二）加半夏、橘皮。伤寒呕吐，四肢厥逆清冷，调胃散（五十）。湿温内甚，恶心呕吐者，白虎合解毒汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 55,
+      "source_path": [
+        "卷上",
+        "嘔吐"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "12b340243afe9b180c092a1ec4e4caff3f8233c7b93bb47b34d7d6ebc63f74ee",
+      "content_sha256": "8bc33b9a474111b85d6fdc8a57dd1e1aa818c65d94e93618f21438133a91bf53",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        56
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 147,
+        "simplified_codepoints": 147
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "b4b3770f485c6462e08db792",
+      "title": "吐泻",
+      "volume": "卷上",
+      "content": "吐泻者，上吐下泻，亦名霍乱也。一切吐泻霍乱，通宜五苓散（二十四）、益元散（五十二）、白术散（四十二）。吐泻霍乱烦渴，并中外诸邪所伤而吐泻腹满痛闷者，并皆桂苓甘露饮（三十四）、澹渗汤（二十五）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 57,
+      "source_path": [
+        "卷上",
+        "吐瀉"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "51213b42d749a26dbf69a0611d72798fca46b16e82c55a4f0acfb8e805740314",
+      "content_sha256": "e231f56d54a2eae6c17527679f767b7d82467f80a16dfccea74f2f9ca84ec36d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        58
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 96,
+        "simplified_codepoints": 96
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "5044ccad5509f6cd633a9fb7",
+      "title": "喘嗽",
+      "volume": "卷上",
+      "content": "大热喘嗽而满者，黄连解毒汤（二十一）；或热甚咳嗽闷乱，三一承气汤（十三）。少阳咳者，小柴胡（九）去人参、大枣、生姜，加五味子、干姜。喘嗽头疼者，茯苓半夏汤（三十八）。咳嗽者，白虎汤（二十二）加半夏、桔梗。咳嗽不已，人参石膏汤（三十五），或崔宣武人参石膏汤（三十六）。痰逆咳嗽，半夏橘皮汤（三十七）。汗之后气闷咳嗽，五味子汤（四十四）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 59,
+      "source_path": [
+        "卷上",
+        "喘嗽"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "53aaf56e4ab80446351b7a23d5c6e18b6d0d10001425b119fd3bc8362b9a38f5",
+      "content_sha256": "07521d3300805c9a7c45cd1cae4fcffc638d6903ab206d346b2569842bcfb8ac",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        60
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "597397a66be2e6a50db8065e",
+      "title": "渴",
+      "volume": "卷上",
+      "content": "凡口干烦渴者，伤寒汗出而渴者，饮水反吐名曰水逆，俱宜五苓散（二十四）。少阴病二、三日，口燥咽干，三一承气汤（十三）。或里热燥甚，伤寒怫郁留饮不散，烦渴不止则腹高起痛不可忍，但呕冷涎，大渴不能饮，饮亦不能止其渴，喘急闷乱，但欲死者，三一承气汤，下咽立止其渴，有若无病之人，须臾大汗而愈。至此往往多有不利而汗出，亦有药力但随汗之宣通，不利而愈。或汗吐下后，烦渴口干，脉浮大，白虎汤（二十二）加人参；烦躁多渴，凉膈散（二十三）加滑石。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "卷上",
+        "渴"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "5cfa45e6184cc9adb4fe771389c6a62aa040fac19b31ce82321f2c99b636fde3",
+      "content_sha256": "360f9d8669ae67a3687a8c383281a9c0be3a23bb55e2f61d82d1bd62ae653394",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        62
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 214,
+        "simplified_codepoints": 214
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "27ec3511f2baf1e3fdb2c8fe",
+      "title": "烦躁",
+      "volume": "卷上",
+      "content": "伤寒烦躁多渴，凉膈散（二十三）加滑石。中暑、伤寒汗后烦躁，五苓散（二十四）。一切火热狂躁喘满，黄连解毒汤（二十一）。烦躁而渴，白术散（四十二），或加滑石；甚者加姜汁。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 63,
+      "source_path": [
+        "卷上",
+        "煩躁"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "5075443cc68079f2741dd63b54c5c103aff9c6c47e3c576e7eca520450173743",
+      "content_sha256": "892405fc36e9b0491a43aa09969868bef10b4007ebcef93053499404c7aabeae",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        64
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 83,
+        "simplified_codepoints": 83
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "d280f8f2fa2321d479b86564",
+      "title": "懊憹虚烦不得眠",
+      "volume": "卷上",
+      "content": "懊憹烦心，反复颠倒不得眠者，烦热怫郁于内而气不能宣通也，或胸满结痛，或烦、微汗出、虚烦者，栀子汤（二十八）主之；或气少者，加甘草一钱；或呕者及初误以丸药下者，加生姜半两。凡懊憹虚烦者，皆用凉膈散（二十三）甚佳，及宜汤濯手足，使心胸结热宣散而已。心烦腹满，坐卧不安，栀子厚朴汤（三十）主之。或阳明病下之后，躁热而懊憹者，三一承气汤（十三）。汗后烦躁不得眠，五苓散（二十四）或凉膈散（二十三）；口燥呻吟，错语不得眠，五苓散、黄连解毒汤（二十一）；烦心者凉膈散。少阳证，胸中烦而不呕者，小柴胡（九）去半夏、人参加栝蒌实主之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 65,
+      "source_path": [
+        "卷上",
+        "懊憹虛煩不得眠"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0e0688e575b3c324f41d8d85aa03a59101a614c68de7df4441e9462c68b0e6e4",
+      "content_sha256": "0f085246aa9b8be8ddbf0540697fa92990ace50ff2b5d38c251cd6ebe8cd8282",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        66
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 259,
+        "simplified_codepoints": 259
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "8e6f9ed11d1505e7b6361c67",
+      "title": "留饮",
+      "volume": "卷上",
+      "content": "一切留饮不散，五苓散（二十四）、桂苓甘露饮（三十四）、黄连解毒汤（二十一）、凉膈散（二十三）、白虎汤（二十二）、小陷胸汤（十八）、三一承气汤（十三）选用。伤寒表未罢，心下有水气，干呕、发热而咳，或呕，或利，或噎，或小便不利，小腹满，或喘者，小青龙汤（七）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 67,
+      "source_path": [
+        "卷上",
+        "留飲"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "a621aa2fd7ebfaf9f0e5a6de0c4365207dca39d8afc13d09f49c5329bc888489",
+      "content_sha256": "bbcf433d39ad8ce074babaaa716d3c27ebb5efc3c3931eb43d7272d647e58c25",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        68
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 128,
+        "simplified_codepoints": 128
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "9675571c415236200697ec67",
+      "title": "痞",
+      "volume": "卷上",
+      "content": "伤寒表里俱热，下证未全，法当和解。误下之早，则成痞。心下痞满而不痛，按之虚软者痞。脉浮而尚恶寒者，表未解也，当先桂枝（二）解表已，而后用大黄黄连泻心汤（三十三）攻痞也；或只用五苓散（二十四）使除表里甚良。或痞恶寒而汗出者；或痞而烦小便不利者；或痞留饮湿热下利者；或已成痞，因其痞满误更下之，其痞转甚，呕哕下利，心烦躁者，无问脉浮、沉，并宜生姜煎汤调下五苓散（二十四）频服之。或痞不已，则后亦湿热烦满，或谵妄，脉沉无他证者，宜大黄黄连泻心汤（三十三）；或小陷胸汤（十八）亦可。下早成痞槟榔散（四十一）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 69,
+      "source_path": [
+        "卷上",
+        "痞"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "989c7ee0c1db8c799d17ef4a5b58814e9fee6155fb7c24551dc8230732638f50",
+      "content_sha256": "83248e67e2a8529d9c7f89430735db6691b9046b0de99f889c696ca576e02f0f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        70
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 250,
+        "simplified_codepoints": 250
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "8da3c5058f09e3db914b7146",
+      "title": "结胸",
+      "volume": "卷上",
+      "content": "结胸之证有三：不按而痛者名大结胸；按之而痛者名小结胸；心下怔忡，头汗出者名水结胸也。汗下之后，不大便五、六日，舌干而渴，日脯少有潮热，从心下至小腹硬满而痛不可近，而脉沉紧滑数，或但关脉沉紧者，宜大陷胸汤（十六），或陷胸丸（十七）下之。或脉浮者，表未罢也，不可下，下之则死，宜小陷胸汤（十八）及小柴胡汤（九）之类和解之；表罢者方可下之。或结胸虽脉浮而里热势恶，须可下者，宜三一承气汤（十三），分作三次，约三时许服讫，得利甚良，虽未稍减，脉必沉；病微者，只用三一承气半服，按法而下之；里热甚者，以大陷胸汤（十六）大半服而下之；或但结胸，别无大段热证，但头微汗出，脉沉潜者，水结胸也，通宜大陷胸丸（十七）。小结胸，心下按之而痛，脉浮而滑，别无大段热证；及水结胸者，小陷胸汤（十八）。伤寒下之太早，结胸，黄连解毒汤（二十一）加枳壳。伤寒结胸，虚痞，凉膈散（二十三）加枳壳、桔梗。或但自热结胸者，其胸高起，腹虽不满而但喘急、闷结、谵妄、昏冒，关脉沉数而紧者，用大承气汤（七）加甘遂一钱匕下之。表证罢，热入里，结于胸中，烦满而饥不能食，微厥而脉乍紧者，瓜蒂散吐之（二十六）。太阳中风，下利、呕逆、表证罢、干呕短气、不恶寒、漐漐汗出发作有时、头痛、心下痞硬满、引胁下痛者，十枣汤（三十一）。结胸而发黄者，茵陈汤（三十二）、陷胸汤（十六）各半服下之。协热下利不止，更结胸发黄，茵陈汤五分、陷胸汤三分、大承气汤二分下之为佳。脉浮不可下者，小陷胸汤合小柴胡汤（九）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 71,
+      "source_path": [
+        "卷上",
+        "結胸"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "402f96447051c10ba6f1ad2d77e41774f8089f72fbcf6486c8ea2782a567a958",
+      "content_sha256": "cdc872c464ebd8e61bcaf06b946bf18352ce515561641fdbc87f85a53d944fcd",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        72
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 623,
+        "simplified_codepoints": 623
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "451656bd13f7223bd145e076",
+      "title": "血证",
+      "volume": "卷上",
+      "content": "太阳病日深，表证仍在，循经热蓄于下焦，脉微而沉，不结胸而发狂者，热在下焦，小腹当硬满，小便自利也，血下而愈，宜攻之。或太阳病，身黄、脉沉者，循经而蓄热下焦也，小腹硬、小便不利为无血；小便自利，如狂者，瘀血症；或阳明蓄热内甚而喜忘或狂，大便虽硬而反易，其色黑者，有蓄血也；或无表里证，但发热日深，脉浮者亦可下；或已下后，脉数，胃热消谷善饥，数日不大便，有瘀血也，并宜抵当汤（十九）下之。伤寒有热，小腹满，小便自利者，为有血也，当下，未敢用汤，用抵当丸（二十）最为稳当。太阳病不解而蓄热下焦，先以桂枝解表，已而下血，宜桃仁承气汤（十四）或抵当丸（二十）攻之。伤风，汗、下不解，热郁经络，随气涌泄为衄，或清道闭，流入胃脘，吐出清血及鼻衄，吐血不尽，余血停留以致面黄，大便黑，犀角地黄汤（十五）。发狂加黄芩、大黄。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 73,
+      "source_path": [
+        "卷上",
+        "血證"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "70a10751f44b343629789af5c77cdf8f655ac090aae7614f83946014ad683309",
+      "content_sha256": "35b3fa14edf8b985c70ffc48f64b527bfa73994f7818beacf2f4b885923790b5",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        74
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 353,
+        "simplified_codepoints": 353
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "cec865300ffb2b86e5107c38",
+      "title": "谵语",
+      "volume": "卷上",
+      "content": "谵语发狂，三一承气汤（十三）合解毒汤（二十一）下之。若伤寒，过经谵语，已有热也，当以汤下之；若小便利，大便当硬，而下利、脉和者，医以丸药下之，非其治也，若自利者，脉当厥，今反和，此为内实，调胃承气汤（十一）或凉膈散（二十三）通用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 75,
+      "source_path": [
+        "卷上",
+        "譫語"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "d4c1e8e0194c04600a5f832a94ab6b5088608f6062c11050d54fbba71aedd9fb",
+      "content_sha256": "3a957f48c60c4da6116d0f00987d397d3ad00833629fafb5f8a790b823b9a6af",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        76
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 115,
+        "simplified_codepoints": 115
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "3812301c133c9a47edefb3a1",
+      "title": "发黄",
+      "volume": "卷上",
+      "content": "阳明病，表热极甚，烦满热郁，留饮不散，以致湿热相搏而身体发黄，其候但头汗出身无汗，齐颈而还，小便不利，渴饮水浆者，身体发黄，宜茵陈汤（三十二）调下五苓散（二十四）；结胸而发黄者，茵陈同陷胸汤（十六）各半下之。或误服热毒丸药下之，反损阴气，遂协热利不止；更或结胸而发黄者，用茵陈汤五分、陷胸汤三分、承气汤（十）一分下之。或两感发黄者，用茵陈汤加黄连解毒汤（二十一）一服急下之。头微汗，小便利而发微黄者，湿热微也，栀子柏皮汤（二十九）；发黄甚者，茵陈合三一承气汤（十三）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 77,
+      "source_path": [
+        "卷上",
+        "發黃"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "d7dfcd6c133ff6dc172ef646c7aa4fc4e9b4f1018bd0444531c90804ec917a41",
+      "content_sha256": "c3cc89e3de40dc1ada88e7d56a4496a5ac9faff5323e7c07a9061c7be50008cb",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        78
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 234,
+        "simplified_codepoints": 234
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "df3cf1179c4098868f5b567e",
+      "title": "发斑",
+      "volume": "卷上",
+      "content": "发斑，下证未全，凉膈散（二十三）。未曾下，胃热发斑，白虎汤（二十二）加人参、白术。阳明胃热发斑，脉沉须下者，三一承气汤（十三）下之。伤寒胃热发斑，凉膈散加滑石调五苓散（二十四）甚妙。伤寒七、八日，发黄有斑，微热、腹满者，或痰实壅上，虽诸承气汤不过者，仲景曰：寸脉浮滑者可用瓜蒂散（二十六）吐之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 79,
+      "source_path": [
+        "卷上",
+        "發斑"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "d18089630a012f8f3d54d00fb6ec8e66c2adad2e3d5206f2fa856966e93f8fda",
+      "content_sha256": "101cec6c38a711492eb6b38574ed6551b04d3f4150e845bd5fc8c28ecd466894",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 147,
+        "simplified_codepoints": 147
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "3ac75b974ef08045b30c8534",
+      "title": "发狂",
+      "volume": "卷上",
+      "content": "伤寒，发狂奔走，骂詈不避亲疏，此阳有余、阴不足，三一承气汤（十三）加当归、姜、枣名当归承气汤，以利数行，候微缓以三圣散（二十七）吐之，后用凉膈散（二十三），黄连解毒汤（二十一）调之。谵妄发狂，逾垣上屋，赴井投河，皆为阳热极甚，用三一承气合解毒下之。惊悸癫狂，三一承气汤。发狂极甚，投河入井者，三下不过，不可攻下，便当涌之，以瓜蒂散（二十六），吐出痰涎、宿物，一扫而愈，后以甘露饮（三十四）之类调之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 81,
+      "source_path": [
+        "卷上",
+        "發狂"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0e71122d2dda2bfc6dfd064cae3b39d65f726b112250e85d29bf8b56164b8717",
+      "content_sha256": "2ba433a19c07dc413034d698fa341a6c083cef6fec390aeca0ed8fdf705b5bd9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        82
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "d2dee9b5bb1ef8758abc8d6e",
+      "title": "发战",
+      "volume": "卷上",
+      "content": "凡热病大汗将出而反寒战者，表之正气与邪气并甚于里，火热亢极而反兼水化制之，反为寒战，脉微欲绝者，三一承气汤（十三）或十枣汤（三十一）下之。凡欲作汗，无问病之微甚，或已经新下者，或下证未全者，但以凉膈散（二十三）调之；甚者黄连解毒汤（二十一）。或下后二、三日，或未经下，腹满烦渴，脉沉实而有里证者，三一承气汤下之，势恶者加黄连解毒汤。或战不快者，或战后汗出不快者，或战数次，经大战而汗不当者，乃并之太甚，而法之不达，通宜三一承气汤，或更加黄连解毒汤下之，以解怫热而开郁结也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 83,
+      "source_path": [
+        "卷上",
+        "發戰"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "ee62652bfc439b7fb9d85a752315b5cd1bcae01b2e76855018b94ce5435d9281",
+      "content_sha256": "73e05a7b8956962c0bbc0304c92cba8bd273462a53dcc1870994142bd9345d55",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        84
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 236,
+        "simplified_codepoints": 236
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "5fdb88e1e363a14dd16015ad",
+      "title": "发厥",
+      "volume": "卷上",
+      "content": "或发热极甚，而恐承气不能退者；或已下后而热不退者；或蓄热内甚，阳厥极深，以阳气怫郁不能营运于身表四肢，以致通身清冷、痛甚不堪、项背拘急、目青睛疼、昏眩恍惚、咽干或痛、躁渴、虚汗、呕吐、下利、腹满实痛、烦冤闷乱、喘急、郑声、脉虽疾数，以其蓄热极深而脉道不利，反致脉沉细而欲绝，俗未明其造化之理，而反谓其伤寒极阴毒者；或始得之，阳热暴甚而便有此证候者；或两感热势甚者，通宜解毒（二十一）加大承气汤（十）下之，热不退者宜再下之。虽古人云：三下之而热未退即死矣。然亦有按法以下三、五次，利一、二十行，热方退而得活者，免致不下退其热而必死也。下后热少退而未愈者，黄连解毒汤调之。或失下热极，以致身冷、脉微而昏冒将死者，若急下之，残阴暴绝而死。盖阳气后竭而然也，不下亦死，宜凉膈散（二十三）或黄连解毒汤，或二药合服，或白虎（二十二）合凉膈散，养阴退阳，积热渐以宣散，则心胸温暖，脉渐以生，至于脉复有力，方可以三一承气汤（十三）下之，或解毒加六一散（五十二）调之，愈后宜服退热之药，忌发热诸物。里热脉厥者，宜白虎汤。热极厥深而诸药下毕，竟不能利者，不救必死，黄连解毒汤更加甘遂末一钱匕下之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 85,
+      "source_path": [
+        "卷上",
+        "發厥"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0ba02d832ba1714d3024afaf4953f73ce953fa23396810fdc0079af0fce7402f",
+      "content_sha256": "9580e6567bf9fea920e46481a78846c4ff429bc16910a9893ff0fed626877874",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 488,
+        "simplified_codepoints": 488
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "5bacc0b2f0ce80520d6808bc",
+      "title": "循衣摸床",
+      "volume": "卷上",
+      "content": "阳明病，脉迟，汗出，不恶寒，身重，短气，狂语如见鬼状，剧者发则不识入，循衣摸床，惕而不安，直视微喘，三一承气汤（十三）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "卷上",
+        "循衣摸床"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "ffb21fa55cefc9ff410a1d817875b4fe78f1be4acf5f5ef4fcbeee2ba719272c",
+      "content_sha256": "b58e999028e5a39c8f7e5fb04d15983e81ff6390805179ddfce51bc2c6da1e4a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        88
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "40691b8c83afc580f25b543c",
+      "title": "劳复食复",
+      "volume": "卷上",
+      "content": "汗下后，劳复，柴胡饮子（四十七）；饮酒复剧，黄连解毒汤（二十一），或双解（五十四）加黄连；在里者，三一承气汤（十三）；在表者，益元散（五十二）或双解；半表半里，大柴胡汤（八）、小柴胡汤（九）、凉膈散（二十三）、解毒汤（二十一），随证用之。食复三一承气汤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 89,
+      "source_path": [
+        "卷上",
+        "勞復食復"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "0302b90b5c246b85d18554a114c908459eef739d4abcfa54d8f49a7ae5e96c7f",
+      "content_sha256": "e174f8df52467ca24eac0d92df40e92aaf8bcf1b603cbed6c647b4e1ea261cf4",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        90
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 127,
+        "simplified_codepoints": 127
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "7cfda84b1c5be6b777be957b",
+      "title": "方",
+      "volume": "卷下",
+      "content": "一、麻黄汤\n麻黄（六钱） 桂枝（四钱） 甘草（二钱） 杏仁（七枚）\n上作二帖，水二钟，煎八分取汁。麻黄性热，惟冬及春，兼病人素虚寒者乃用正方，夏至之后服之必发斑黄，须加知母半两、石膏一两、黄芩一分、桂枝加减月令同。\n二、桂枝汤\n桂枝 芍药（各二钱半） 甘草（一钱半）\n上作一帖，姜三片、枣一枚，煎服，取微汗。倍加芍药名桂枝芍药汤；加大黄名桂枝大黄汤。《金匮方》曰：太阳病自汗而小便数者，不可与桂枝汤。\n三、桂枝葛根汤\n桂枝 芍药 甘草（各二钱半） 生姜（四钱） 大枣（二枚） 葛根（五钱二分）\n上作二服，水煎，取微汗。\n四、葛根汤\n葛根（一两四钱） 麻黄（三钱） 生姜（三钱） 桂枝 甘草 芍药（各二钱） 枣（一枚）\n上作二帖，水煎服。衣覆取汗为度。\n五、升麻葛根汤\n升麻 干葛 芍药 甘草（各三钱）\n上作二服，水煎。若大段寒即热服；若热即温服，身凉为度。\n六、大青龙汤\n麻黄 石膏（各四钱半） 桂枝（一钱半） 甘草（同上） 杏仁（三枚）\n上作二帖，姜三片、枣一枚，水煎。取微汗，不可太过，恐亡阳。以温粉扑之。\n七、小青龙汤\n半夏（六分） 北五味（一钱二分） 麻黄 芍药 细辛 甘草 干姜 桂枝（各一钱八分）\n上作二帖，生姜四片，水煎。诸方皆不用生姜。\n八、大柴胡汤\n柴胡（三钱） 黄芩（一钱半） 大黄（七钱） 芍药（钱半） 半夏（一钱） 枳实（二钱）\n上作一帖，生姜五片、枣一枚，煎。大柴胡合三一承气汤，合黄连解毒汤，合大承气汤。\n九、小柴胡汤\n柴胡（八钱） 黄芩 甘草 人参（各三钱） 半夏（二钱半）\n上五钱，生姜五片，枣一枚，煎，温服。\n一法本方合凉膈、天水。一法本方合凉膈散。一法本方合解毒汤。一法本方去枣子加牡蛎。一法本方去人参、大枣、生姜加五味子、干姜。一法本方去半夏、人参加栝蒌实。\n十、大承气汤\n大黄 芒硝（各二钱） 厚朴（四钱） 枳实（三枚）\n上作一帖，水二钟，先煎厚朴、枳实，次下大黄，煎取八分，去滓，入硝，煎一、二沸，放温服。一法本方加甘遂末一钱匕。\n十一、调胃承气汤\n大黄（三钱） 芒硝（二钱） 甘草（一钱半）\n上作一帖，水二钟煎，温服。\n十二、小承气汤\n大黄（三钱） 厚朴（一钱半） 枳实（一钱）\n上作一帖，水二钟煎，温服。\n十三、三一承气汤\n大黄（二钱） 芒硝（一钱半） 厚朴（钱半） 枳实（一钱） 甘草（二钱）\n上作一帖，水煎，温服。一法本方减硝加贯众、紫河车，入金银煎，名银煎散。一法本方加当归、姜、枣，名当归承气汤。\n十四、桃仁承气汤\n桃仁（去皮尖十枚） 芒硝（钱半） 大黄（二钱） 桂 甘草（各一钱半）\n上作一帖，水煎，空心服。\n十五、犀角地黄汤\n犀角 白芍药 牡丹皮（各五分） 生地黄（四钱）\n上作一帖，水煎。有热加黄芩一钱。发狂血证加大黄（本方无大黄血证内有）。\n十六、大陷胸汤\n大黄（二钱） 芒硝（二钱半） 甘遂（一分，些小便是）\n上作一帖，水煎，温服。未快再服，势恶不利，以意加之。\n十七、大陷胸丸\n大黄（半两） 芒硝（二钱半） 葶苈（三钱炒另研） 杏仁（十二枚炒）\n上大黄末，下葶苈杵罗，研杏仁、芒硝如泥，丸如弹子大。每服一丸，入甘遂末三字、白蜜半匙，水一钟，煎至半钟，温服。当一宿，未利再服。\n十八、小陷胸汤\n半夏（四钱） 黄连（二钱） 栝蒌实（一枚四分用之二）\n上作一帖，水煎，温服。未利再服，微利黄涎即愈。一法本方合小柴胡汤。\n十九、抵当汤\n水蛭（炒） 虻虫（各七个去足翅炒） 杏仁（七枚） 大黄（二钱半）\n上作二帖，水煎，再服。\n二十、抵当丸\n水蛭（炒） 虻虫（各七个去足翅炒） 杏仁（七枚） 大黄（二钱半）\n上细末，炼蜜作二丸，用水二钟，煎一丸，至六分，温服。晬时血未下再服。\n二十一、黄连解毒汤\n黄连 黄柏 黄芩 栀子\n每服五钱，水煎，温服。本方合大承气汤。一法本方加枳壳。本方合三一承气汤。一法本方加甘遂末一钱匕。本方合调胃承气汤。一法本方合凉膈、天水散。\n二十二、白虎汤（《金匮方》云：太阳病，无汗而渴者，不可服。）\n知母（一两半） 甘草（一两） 粳米（一合） 石膏（四两）\n上五钱，水煎，温服。一法本方加苍术。一法本方加人参、苍术。一法本方加半夏、橘皮。一法本方加半夏、桔梗。一法本方合解毒汤。一法本方加人参、白术。一法本方合凉膈散。一法本方加麻黄根、浮麦。\n二十三、凉膈散\n连翘（一两） 黄芩（半两） 栀子（半两） 甘草（半两） 朴硝（一分） 薄荷 大黄（各半两）\n上五钱，水煎，入蜜少许。一法本方合解毒汤。一法本方加滑石。一法本方加桔梗、枳壳。一法本方合天水散。一法本方加滑石调五苓散。\n二十四、五苓散（《金匮方》云；阳明病汗多而渴者，不可服。）\n猪苓 茯苓 白术（各五钱） 桂心（一分） 泽泻（一两）\n上或调或煎。一法本方加生姜汁调服。\n二十五、淡渗汤（即五苓合益元是也）\n二十六、瓜蒂散\n瓜蒂（细锉炒） 赤小豆（等分） 又用茶少许\n上为末，豆豉半合、水一盏半，煮汁半盏，调下一钱匕，不吐加服。头痛加郁金；胁痛加蝎梢。\n二十七、三圣散（见吐门）\n食前先食齑汁半盏，后调药服一半，用鹅翎探引吐出，如吐少，更以热齑汁投之。不已，用麝香煎汤服半盏，立止。\n二十八、栀子汤\n大栀子（七枚） 豆豉（半合）\n上以水煎栀子至一盏半，入豆豉煮至半盏，温服。\n二十九、栀子柏皮汤\n大栀子（十五枚） 黄柏（半两） 甘草（两钱半）\n上㕮咀，水二钟煎。\n三十、栀子厚朴汤\n大栀子（七枚） 厚朴（半两） 枳实（二钱）\n上㕮咀，水煎。\n三十一、十枣汤\n芫花 大戟 甘遂（等分）\n上为末，水一盏，枣十枚劈开煮汁半盏，调药末半钱匕；实者一钱匕。\n三十二、茵陈汤\n茵陈（一两） 大黄（半两） 栀子（十枚）\n上五钱，水煎。本方合陷胸汤。本方合大承气汤（本方五分、陷胸汤三分、大承气二分）。本方合解毒汤。\n三十三、大黄黄连泻心汤\n大黄 黄连 黄芩（等分）\n上五钱，水煎。一法加生姜，甚良。\n三十四、桂苓甘露饮（即五苓散加寒水石、石膏）\n上为末，或温汤、或新水、生姜汤调，或煎。一方不用猪苓。一方加甘草。一方有人参、藿香、木香、葛根、滑石、甘草共一十三味，一名桂苓白术散。\n三十五、人参石膏汤\n人参（二钱半） 白术（半两） 知母（半两） 黄芩（三钱） 川芎（半两） 茯苓（半两） 半夏（二钱） 山栀（三钱） 甘草（一两） 石膏（三两）\n上㕮咀，姜煎。\n三十六、崔宣武人参石膏汤\n人参（二钱） 石膏（一两） 川芎（二两） 黄芩（二钱） 茯苓 防风（各三钱） 甘草（五钱）\n上五钱，水煎。\n三十七、半夏橘皮汤\n半夏 陈皮 甘草 人参 茯苓 厚朴（各三钱半） 葛根（半两）\n上五钱，姜五片，水煎。\n三十八、茯苓半夏汤\n茯苓 半夏 生姜（各一钱取汁，素问药证用水一大盏，煎至四分，绞汁，却下生姜汁服。）\n上，水煎。一方加黄芩、甘草、陈皮各一钱。\n三十九、大橘皮汤\n陈皮 甘草（各一两） 人参（二两）\n上五钱，姜三片，水煎。\n四十、赤茯苓汤\n陈皮 甘草（各一两） 人参（二两） 半夏 白术 川芎 赤茯苓（各半两）\n上五钱，姜五片，水煎。\n四十一、槟榔散\n槟榔 枳壳（等分）\n上为末，三钱，黄连煎汤调下，或黄连解毒汤调下，或泻心汤调下。\n四十二、白术散\n白术 茯苓 人参 藿香（各半两） 甘草 葛根（各一两） 木香（二钱半）\n上末，白汤调下二钱。热加滑石，或加生姜。\n四十三、四逆汤\n甘草（一钱） 干姜（一分） 附子（中者半个）\n水煎，温服。\n四十四、五味子汤\n五味子（半两） 麦门冬 人参 杏仁 陈皮（各二钱）\n上五钱，姜、枣煎。\n四十五、不卧散\n川芎（一两半） 石膏（七钱半） 藜芦（半两） 甘草 人参 细辛（各二钱半）\n上为末，口噙水搐鼻，少时饮白汤半碗，汗出而解。一方无人参、细辛。\n四十六、川芎汤\n川芎 藁本 苍术（等分）\n上为末，汤调三钱，须臾呕、汗便解。\n四十七、柴胡饮子\n柴胡 人参 甘草 大黄 当归 芍药\n上锉五钱，姜五片，水煎。崔宣武加半夏、五味子、桔梗。\n四十八、刘庭瑞方\n柴胡 甘草（各二两） 黄芩 当归 芍药（各一两） 人参 半夏 大黄（各半两）\n大劳热，五、七分以为度。\n四十九、比金散\n荆芥 麻黄 白芷 细辛 何首乌 菊花 防风 石膏 川芎 薄荷 全蝎 草乌\n上为末，各等分。每服一钱，煎服，或茶、酒送下。\n五十、调胃散\n水银 舶上硫黄\n上研至黑、服一钱，米饮下。重者二钱。\n五十一、通神散（河间另有六神通解散，于此加麻黄发汗最佳。《和剂方》中葱白散，于此去黄芩、滑石，加川芎、白术、干葛，亦妙方也。）\n苍术 石膏（各四两） 甘草 黄芩（各二两） 滑石（六两）\n五十二、益元散（即天水散或名六一散）\n滑石（六两） 甘草（一两）\n上为末，水调或加蜜，或葱豉汤调。一名天水散。一名六一散。\n五十三、通圣散\n防风 川芎 当归 芍药 大黄 薄荷 麻黄 连翘 芒硝（各半两） 石膏（一两） 黄芩 桔梗（各一两） 滑石（一两） 甘草（二两） 荆芥 白术 栀子（各二钱半）\n上锉五钱，姜五片，水煎。\n五十四、双解散\n益元散 通圣散（各半两）\n上一两，姜、葱、豉，水煎。\n五十五、黄连香薷饮\n香薷（一两） 厚朴（半两） 白扁豆（二钱半） 黄连（三钱）\n上锉，五钱，入酒少许，水煎，冷服。\n五十六、治腰脚骨节痛不止\n用威灵仙煎酒，食前温服极妙。\n五十七、无忧丸 治一切食积、气积、茶积、酒积、泻痢、气蛊、腹胀膨闷、肚腹疼痛。\n黑牵牛（一斤取末十三两） 槟榔（好者二两） 猪牙皂角（二两） 三棱（二两） 莪术（二两各用好醋浸，湿纸裹煨香熟，取出切碎。）\n上同前药晒干为末，又用大皂角二两，煎汤打面糊为丸。每服二钱半，白汤送下，茶亦可，姜汤下。\n五十八、太乙神针\n羌活 独活 黄连（各四两为末） 麝香（二钱） 乳香（二钱）\n上用三月三日艾（四月八日亦可），晒干打茸，入前药末和匀，用好白纸卷包前药如箸大。治风痹或在腿或在腰、在肱，灸七炷、二七炷、三七炷甚效。\n五十九、治风虫牙疼方\n防风（去芦） 草乌（去尖） 细辛（去叶） 巴豆（去壳油）\n上各味等分为细末，擦牙痛处，涎出立止，切勿咽下。如食饮食，以盐汤灌漱，饮无碍。\n六十、神效追虫取积感应丸\n槟榔（半斤） 樟柳根（半斤） 贯众（半斤） 大黄（半斤） 三棱（四两醋煮） 雷丸（四两醋煮） 莪术（二两醋煮） 使君子（四两取肉） 木香（二两） 芫花（一两） 苦楝根皮（八两） 黑牵牛（二斤半） 取头末，十两为衣皂角茵陈藿香\n自槟榔至牵牛为末外，用皂角等三味浓煎汁为丸，如梧桐子大。每服三钱重。\n六十一、金刀如圣散\n茅山苍术（六两米泔浸一日一夜） 白芷（二两） 川乌（四两去皮脐生用） 防风（四两净生用） 细辛（三两去土净） 白术（二两五钱） 草乌（四两）\n本方用两头尖，无则以川芎四两 雄黄五两另研细末入药\n上件俱各生用，晒干为末用，一切金疮及多年恶疮，用自己小便洗过，贴药立效。破伤风紧急用好酒调药半钱或一钱服之。蛇伤，入枯白矾少许，调药敷之。蝎蜇伤，用吐服，盖之汗也；如汗不出再服，或涎出亦验，伤处敷药可。疯狗咬伤处，口噙水洗净，将药贴伤处。汤火烫伤者，以新汲水调药敷之。雷头风并干湿癣、麻痹，每服半钱，服之立效。\n六十二、芦荟丸 小儿痞疾、疳痨、肚大腹胀、面黄肌瘦、脾胃不和、惊积、食积，并皆治之。\n芦荟 麦糵 胡黄连（各一两） 黄连（五钱） 芜荑 肉豆蔻 木香 龙胆草（各四钱） 川楝子（五十个取肉） 三棱 蓬术（各六钱） 槟榔（八钱） 使君子（六十个） 陈皮 青皮（各八钱） 麝香（一钱半） 神曲（一两半） 干虾蟆（一枚）\n上为细末，薄荷、猪胆汁为丸粟米大。每服一钱，空心米汤下。\n六十三、无价宝（一名壮阳丹）专治五劳七伤、四肢无力、脚腿沉困、骨节酸疼、面目无光、阳痿不起、下元虚冷、梦失精液。服至十夜，面目光滑，二十夜老转少年；一月后阳道复原；四十夜增进饮食；至一百日，万病皆除，冬不寒、夏不热、须发不白。妇人服之，强阴暖子宫，阴阳有益，最有功效。\n川楝子（二两） 牛膝（一两酒浸） 槟榔（一两） 菟丝子（一两另研酒浸） 蛇床子（一两） 干姜（五钱） 穿山甲（一大片酥炙） 莲肉（一两不去心） 乳香（三钱另研） 沉香（五钱另研） 白檀香（五钱另研） 鹿茸（一两炙） 巴戟（一两） 大茴香（一两） 仙灵脾（三钱） 破故纸（五钱） 凤眼草（三钱） 葫芦巴（五钱） 人参（一两） 泽泻（一两） 山药（一两） 五味子（一两） 熟地黄（二两） 麦门冬 肉苁蓉 茯苓（以上各一两） 白芍药（五钱）\n上二十七味，除乳香、沉香、白檀香、菟丝子四味另研为细末，其余二十三味各捣烂为细末，同前四味炼蜜为剂，同捣一、二百千杵，丸如梧桐子大。每服三十丸，增至九十丸，好酒送下，以干物压之。修合之日再加丁香一钱。\n六十四、膏药方\n松脂（三斤） 麻油（半斤） 穿山甲 白芨（二味各少许做点药） 蓖麻（四十九粒研细）\n六十五、定子药\n白矾（一两火煅同信一处） 信（五钱） 乳香（二钱） 没药（二钱） 辰砂（五分）\n面糊为定。\n六十六、生肌散\n龙骨（火煅） 赤石脂（火煅各半两） 乳香 没药 海螵蛸 轻粉 全蝎（洗焙干各一钱） 血竭（二钱） 黄丹（一钱）\n上为末，待疮头落尽，此药填满在疮口上，以膏药贴之。一日甘草汤洗二次，膏药一、二日一换。\n六十七、追风托里散\n甘草 黄耆 当归 芍药 白芷 防风 川芎 官桂 栝蒌仁 金银花 桔梗\n每服水酒共二钟，煎至一钟，空心服。\n六十八、象牙丸\n象牙（五钱） 蜂房（三钱） 蝉蜕（三钱） 木香（三钱） 没药（一钱） 乳香（三钱） 全蝎（一只） 僵蚕（三钱）\n先将黄蜡半斤化开，待黑色过却，将前药为细末，入蜡内搅匀，倾入水内，取出冷定为丸，如枣大。每服空心一丸，滚酒化开，连三日三服，待药从漏痕出，隔三日再一服，第五日再服一丸，后下定子药。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 92,
+      "source_path": [
+        "卷下",
+        "方"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "54eb45871a96d7102a5cb34272a7717ecfad5ecc136ba6280ce293651b38a5f0",
+      "content_sha256": "f56dee43ede4f5051b26ad36da1ec474d3b90a788107243bcf997250e6b34485",
+      "paragraph_count": 199,
+      "paragraph_ordinals": [
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266,
+        267,
+        268,
+        269,
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 5616,
+        "simplified_codepoints": 5616
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "3d7f543a8acac824b444df3c",
+      "title": "伤寒用药加减赋",
+      "volume": "卷下",
+      "content": "万物之生也，人为最灵；四时有变兮，百疾兆生。欲辨阴阳之证，必明天地之情。稽寒温表里之疑，式明标本；施汗、下、补、吐之法，溥济群生。\n始而毫毛，次传肤腠。恶风自汗，乃桂枝之证；喘热恶寒，则麻黄之候。阴阳俱虚而身必痒，各半同功（桂枝麻黄各半汤代）；寒热共作而脉尚虚，二、一共凑（桂枝二越婢一汤）。\n于是助以姜、枣，杂以豉、葱。便利、恶风者，干姜；心悸、腹痛者，建中。脉热极而烦者，入人参于白虎；脉烦盛而喘者，加杏子以青龙。结胸、下利而表解，朱雀取效；头眩肉瞤而水泄，玄武当功。\n致使橘梗宽咽，甘草平悸。腹内胀满兮，厚朴、姜；心中懊憹兮，栀子、豉。小便不利，则投之以猪苓；膈间有痰，则吐之以瓜蒂。或乃热作而腹胁胀满；又若狂妄而潮热发悸。或里已入而表未除，或小便涩而大便秘。必明大、小柴胡，直叙前后承气。结胸多渴，祝侍者议任陷胸；谵语发狂，委将军（即大黄）功先调胃。\n当知青龙、十枣兮，水分表、里；三黄、四逆兮，利有寒、温。下利者通脉，烦躁者茯苓（茯苓四逆汤）。脉绝用当归（当归四逆汤），亡血须人参（四逆加人参）；汗出加附子（附子泻心汤），恶风入黄芩（黄芩泻心汤），胁下有水则生姜（生姜泻心汤），心中呕逆则人参（人参泻心汤）。上四者，总归于四逆；下四者，类同于泻心。温寒实而解结胸，美三白之功妙；生津液而逐水道，嘉五苓之用深。\n唾血则黄耆宜服，便脓则桃仁可加。黄疸，茵陈必先求之瓜蒂（先瓜蒂后茵陈）；斑毒，紫雪当后用于升麻（先升麻后紫雪）。温湿之于桂、附、苍术可入；理中之内参姜，附子宜加。\n此外若青龙与柴胡有加减之余议：身有余热者，桂枝须加；胁下硬满者大枣可去；多汗者附子加小柴胡；奔豚者桂枝加桂；喘者小青龙加杏仁；嗽者小柴胡加五味。瓜蒂治烦渴未除，茯苓医小便不利。内寒者茱萸，外肿者防己。生姜止呕，半夏疗哕。用枳壳兮，缘酒毒留胸；有黄柏兮，因衄血出鼻。或得人参以除烦，或取茯苓而愈悸。头痛如破，葱白连须；咳逆欲绝，干柿并蒂。下利则干姜，身痛则栀豉。岂二方之独用，亦众药之同推。妙哉！吾今精此四十余年，活人之功尝识。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E5%82%B7%E5%AF%92%E6%A8%99%E6%9C%AC%E5%BF%83%E6%B3%95%E9%A1%9E%E8%90%83/index.html",
+      "source_ordinal": 292,
+      "source_path": [
+        "卷下",
+        "傷寒用藥加減賦"
+      ],
+      "source_sha256": "a3968bf30739f65dc2f0d15d2cf9bcb9c5b48c31fe4dc3dea69e1fbc6a467eeb",
+      "original_sha256": "fd311dc02aef1d4e13b70281dce8cc9f17aa28982f167403c2dacff8f1b48463",
+      "content_sha256": "bf53de95ecac116923caa86a75d1e5185e3b92a7f0bd8557ff646f4b80cd04cc",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 855,
+        "simplified_codepoints": 855
+      },
+      "order": 46
+    }
+  ]
+}

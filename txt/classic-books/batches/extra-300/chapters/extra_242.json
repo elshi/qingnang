@@ -1,0 +1,5238 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_242",
+    "name": "洪氏集验方",
+    "summary": "《洪氏集验方》属于方剂与综合方书文献，内容涉及病证分类、方药组成及传统用法。所收卷篇包括“重刊宋本洪氏集验方后叙”、“治痢”、“肉豆蔻散”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "宋",
+    "author": "洪遵",
+    "jp": "HSJYF",
+    "aliases": [
+      "洪氏集驗方"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "bd97165ef2e9ba8ea72975be",
+      "title": "重刊宋本洪氏集验方序",
+      "volume": null,
+      "content": "此集验方五卷，南宋·洪文安所手辑。文安名遵字景严，皓之仲子，以博学鸿词中选，起家为秘书省正字，孝宗朝，官至资政殿学士。方遵登制科时，高宗因皓远使，推恩即命遵入馆。词科中选即入馆，盖自遵始，非故事也。宋祖宗之朝，君相以爱民为务，官设惠济局，以医药旋舍贫人，故士大夫亦多留心方书。如世所传《苏沈良方》，许学士《本事方》之类，盖一时风尚使然。夫古人立方各有深义，今世庸医不知其理，妄行增损，遂有学医人费之诮。忆孙渊如先生有言：今世外科每奏奇功，而内科不能者，外科用古方，而内科不用古方之故也。余往日刻新安程氏《易简方论》一书，亦欲世人稍知古方本义，今复翁此书之刻，殆与余有同心也夫。\n吴县石韫玉序",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "重刊宋本洪氏集驗方序"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ed8e2d27da37c7485c5e442a8ad9f3f04ae4c70e8e19cd198cfddfc493feae42",
+      "content_sha256": "96ba0da801868ee1ca308c1ff56e42c08966b7dd0cb3eca8ae2d6060390f3319",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 295,
+        "simplified_codepoints": 295
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "fafc2b2e7c2de1a4c978403c",
+      "title": "重刊宋本洪氏集验方后叙",
+      "volume": null,
+      "content": "《洪氏集验方》，惟延令季氏书目有之，知宋版外，绝无流传之本；余故从宋本录副，今始付雕。其书五卷皆全，无序有目，而目共五叶，其一号、二号、四号，系旧时钞补，兹以乌丝栏细者别之，此用汲古钞补宋版例也。本书字句间有不同，如「黄牛角鳃」或有作「腮」者，或云「一枝」，或云「一个」，又「慢火」或作「熳火」。又黄耆状如箭竿长二三尺，头不又者，「又」疑「叉」之误。又洗净寸截，捶破□壁以盐汤润透，□系蠹蚀处，尚有系旁可审，疑□是「县」字，以意补之。其余版心刻工姓名有蠹蚀去者，空之，无足重轻，不复补写。以上各条，皆随举一二，以见宋刻原本如是，非涉重刊，而有讹舛脱漏也；大抵方书之字，大有关系处，在药名、分两、法制诸端，其余异同可勿深论。此书刊成，求序于独学老人，有札示余云：昨所言交感丹，愚疑用香附太偏重。因查敝处所藏方书，乃是香附一个，配茯神四两。尊钞是香附一斤，窃意香附一个，无一斤重之理，恐系抄胥之误，祈再查原本。此固慎重起见，然余即以此方降气汤、牙药二条证之，一用半斤，一用五两，是递减用之，原方一斤非误。佞宋之癖如是如是，并附著之，以质诸深于医理者，一正其是非云。\n嘉庆己卯孟秋吴县黄丕烈叙",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "重刊宋本洪氏集驗方後敘"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "412e581444410db038a0a4e34c8145b97006ce9ff01000cba9dfbb54530376e9",
+      "content_sha256": "96f43207f6649df84216d88f049f83effdf2f3842d3d639e2b2904794e5d1ae8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        5,
+        6
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 493,
+        "simplified_codepoints": 493
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "a0ef3f4fadb054dc38c34c43",
+      "title": "治痢",
+      "volume": "卷第一",
+      "content": "先忠宣获此方，屡有神验。\n黄连 吴茱萸（各二两）\n如常法拣洗焙干，黄连锉令寸断；同一处炒，俟香熟，分为二，各用醋糊为丸，如桐子大。（若小儿则如绿豆大。）悉赤痢，则服黄连，白痢则服茱萸，赤白则并服之。赤先白后，则先黄连而后茱萸。赤多白少，则二分黄连，一分茱萸。反是亦如之。每服五七十粒至百粒，服之以愈为度，陈米饮下。（大率茱萸治白，黄连治赤也。黄连用鹰爪者。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 8,
+      "source_path": [
+        "卷第一",
+        "治痢"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2e178c3ec6d38eb352616fa4947c6b2a4dc41ebb254181ef2a55139508b99682",
+      "content_sha256": "e39d413146c0957e71150e4acaed3eca3a9a7302d26b1ee6edcf10894ecac49a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        9,
+        10,
+        11
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 179,
+        "simplified_codepoints": 179
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "28119e9efdaff57f321231cb",
+      "title": "肉豆蔻散",
+      "volume": "卷第一",
+      "content": "治赤白痢，无药可治者，其效如神，上吐下痢者亦治。（以下三方，韩子温少卿传。）\n肉豆蔻（切片子，炒黄色） 樱粟壳（捣碎，用蜜掿，拌匀，炒黑黄） 甘草（切碎，炒黄黑色） 干生姜（切细，炒黄黑）\n上等分，捣罗为末。每服六钱。如赤痢，多加甘草一寸，炙黄，同煎。若白痢，多加炒生姜一块，同煎。用水二大盏，煎至一盏半，通口服，不计时候，却将两服滓再煎服，无不愈者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 12,
+      "source_path": [
+        "卷第一",
+        "肉豆蔻散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "48654489a6efcdd2d52c6f1310c4478fb29bad8230f1cad3d297e5d5c8600788",
+      "content_sha256": "2b02001725b3df8d7ca3635dc2c58f5ade4aafcd1771dd4fcf565f2ffa928612",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        13,
+        14,
+        15
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 176,
+        "simplified_codepoints": 176
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "b089fc979dd2708ff27ee190",
+      "title": "祛疟散",
+      "volume": "卷第一",
+      "content": "热多寒少者一服，无不验。（予家每合以济人，一服即愈。）\n治时行寒热，诸药不效者。今有梦中神传药方，如有此疾者，依方服之即愈。如所感深重，一服未愈者，定毒发一次，更不再来。\n好高良姜（锉碎，微炒） 好川白姜（炮，锉）\n二味各碾为极细末。\n上各秤等分，勿令偏些，再入乳钵内，一处研匀，细罗过二味。病大者，共抄三大钱，病小者，共三小钱，于当发日日未出时，以獖猪胆二枚，勿用白色者，割开取汁，与药调匀，再用热酒少许，打匀，通口猛作口咽，更以酒少许送下，急嗽口，以甜物压之。一日不得吃别药，忌大寒物。（其胆须是獖猪胆，其翁母猪胆不中。江南谓之镦猪。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 16,
+      "source_path": [
+        "卷第一",
+        "祛瘧散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "1febc622d748d9b06aca88e4eb1272cebf30ab974859a5eeb7317e1e9a0a7344",
+      "content_sha256": "38826985a271c738d087712b4f09d869f0c0310fe5d11ac5f3b0b884d11573d1",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        17,
+        18,
+        19,
+        20,
+        21
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 270,
+        "simplified_codepoints": 270
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "dfdeef047dfc41f41fc6833e",
+      "title": "大交泰丹",
+      "volume": "卷第一",
+      "content": "伤寒未分阴阳不可服。\n治阴阳二毒伤寒。或因下早亡阳，或致结伏胸膈，四肢厥冷，脉息俱无，心躁如火。或因冷物伤脾，夹脐疰痛；生硬入胃，中满痞塞，潮发寒热。并治翻胃，哕逆，霍乱，吐痢，小肠痃癖，胁肋气痛。但是阴阳不顺恶候，伤寒坏证，并皆治之。每服一粒，炭火内煅通赤，良久取出，放冷，细研如粉，米饮一盏，煎七分，温服，不拘时候，隔半时辰再进一服，其效如神。兼治小儿疮疹倒厌，依法服半粒，立愈。\n金星石 太阴玄精石 银星石 云母石（白色片子） 代赭石 桂府滑石 禹余石（以上各一两） 寒水石（吉州者，一两半） 不灰木（一两，色青黑，性软者）\n上件九味，入瓷瓶子，炭半秤，煅，候火耗一半，取出放冷，研为细末，糯米粥为丸，如弹子大，候干用。（系医坏证伤寒，一服可活一人。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 22,
+      "source_path": [
+        "卷第一",
+        "大交泰丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f22bb5e82e95f464eb9723767486b4c92c25af2f633ec9e15fbc31480eccb9e3",
+      "content_sha256": "df3bceb06b931c5f50d2ec08c569b02decfb9e608e338a26d6e99ca170c0ee14",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        23,
+        24,
+        25,
+        26
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 329,
+        "simplified_codepoints": 329
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "6a3c52f47dbe8e8edb5e966f",
+      "title": "混元胎丹",
+      "volume": "卷第一",
+      "content": "乃阴阳始生之物，气、精、血初生之英华，盖人元宫真气所化；修真之士服饵，补漏，壮气，固神，益髓，通神明，延寿命，增益道涯，超范围外。内丹之基，具服饵，方如后。（久无嗣息者，服此有验。）\n以首儿衣（二八月者不用，收时，连带中元血收）\n用长流水净洗，控干，入瓷瓶中，下无灰法酒三大胜，脑子、麝香。随力下之，多止一钱，或半字，以纸封瓶口，下用文武火煅，候酒将尽，取出，再入酒三胜，依前煅却，用竹篦或金银篦不住搅，以觉烂糜似粥模样，待冷，取入砂盆内细研如粉，别入外料。\n人参（二两） 茯苓（二两） 乳香（半两） 朱砂（半两水飞过，晾干取净） 山药（四两）\n以上并为细末，人参等须择佳者。\n上用上件药末，入于所煮药内。如干时，更用原煅酒旋旋添，拌匀一处，搅搜为丸，梧桐子大，慢火焙干。每日空心五十粒，加至一百粒，用温酒盐汤下，良久，用甜淡饮食饱压；逐日荤味中减少五味。（谓甜、淡、咸等物。）服至五七日，微觉小腹连腰沉重，不须疑虑，乃是药力攻，元气相补助如此。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 27,
+      "source_path": [
+        "卷第一",
+        "混元胎丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "57a4057f7f0420d6674b6b6944c97c63e4c32e50e2daf830a0f6322294a2fd0e",
+      "content_sha256": "fde0146e080263f4b85b036d07d1786c0b56a97dacad08424a28a9befa18c197",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 423,
+        "simplified_codepoints": 423
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "0bcb5fba8e846d4ba0996410",
+      "title": "还少丹",
+      "volume": "卷第一",
+      "content": "西川罗赤脚仙还少丹 大补心肾脾胃，一切虚损，神志俱耗，筋力顿衰，腰脚沉重，肢体倦怠，血气羸之，小便昏浊。（陈晦叔敷文传。）\n干山药 牛膝（酒浸一宿，焙干，各一两半） 山茱萸 白茯苓（去皮） 五味子 肉苁蓉（酒浸一宿，焙干） 石菖蒲 巴戟（去心） 远志（去心） 杜仲（去粗皮，用生姜汁并酒合和，涂炙令熟） 楮实 舶上茴香（以上各一两） 枸杞子 熟干地黄（各半两）\n上捣罗为末，炼蜜，入枣肉为丸，如梧桐子大。每服三十丸，温酒盐汤下，日进三服，皆食空时。（如早食并服之无妨。）至五日觉有力，十日精神爽健，半月气力稍盛，二十日目明，一月夜思饮食，冬月手足常暖。久服无毒，令人身体轻健，筋骨壮盛，怡悦难老。更看体候加减，如身热加山栀子一两，心气不宁加麦门冬一两，少精神加五味子一两，阳弱加续断一两。常服齿牢，永无瘴疟。妇人服之，姿容光悦，去一切病，治子宫久冷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 34,
+      "source_path": [
+        "卷第一",
+        "還少丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "0ac4c1975d8cd69e0bc791780ae378bb8463c9864395a645ac8fbb265a885d30",
+      "content_sha256": "15426f39b9f6d269d78240b1920be8b07d40c87ed064a7cec6d6a260d8d0b7c2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        35,
+        36,
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 375,
+        "simplified_codepoints": 375
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "a49c4cf2a7bd3b3d62570b07",
+      "title": "琼玉膏",
+      "volume": "卷第一",
+      "content": "铁瓮先生神仙秘法琼玉膏（陈晦叔服此药有验。）\n新罗人参（二十四两，舂一千下，为末） 生地黄（一秤十六斤，九月采，捣） 雪白茯苓（四十九两，木舂千下，为末） 白沙蜜（十斤）\n上件，人参、茯苓为细末，蜜用生绢滤过，地黄取自然汁，捣时不得用铁器，取汁尽去滓用。药一处拌，和匀，入银石器或好瓷器内封用，如器物小，分两处物盛。用净纸二三十重封闭，入汤内，以桑木柴火煮六日，如连夜火即三日夜。取出用蜡纸数重包瓶口，入井内，去火毒一伏时。取出再入旧汤内，煮一日，出水气。取出开封，取三匙，作三盏，祭天地百神，焚香设拜，至诚端心。每晨朝，以二匙温酒化服，不饮者，白汤化之。此膏填精补髓，肠化为筋，万神具足，五脏盈溢，髓实血满，发白变黑，返老还童，行如奔马，日进数食，或终日不食亦不饥，关通强记，日诵万言，神识高迈，夜无梦想。人年二十七岁以前，服此一料，可寿三百六十岁；四十五岁以前服者，可寿二百四十岁；六十三岁以前服者，可寿百廿岁；六十四岁以上服之，可寿至百岁。服之十剂，绝嗜欲，修阴功，成地仙矣。一料分五处，可救五人痈疾；分十处，可救十人劳瘵。修合之时，沐浴志诚，勿轻示人。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 38,
+      "source_path": [
+        "卷第一",
+        "瓊玉膏"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "852d0f9625c81daee55364ba36eb0937cd1a168114010e8f6979609860bfb6e9",
+      "content_sha256": "62d48b9a82af07cceb7df9ce34259a51dd0a0ddca3df39d91bfd8bd35e726493",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        39,
+        40,
+        41
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 480,
+        "simplified_codepoints": 480
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "272e6cd547830b5fc8024b77",
+      "title": "一粒金丹",
+      "volume": "卷第一",
+      "content": "治中风瘫痪，口眼㖞斜，涎潮语涩，浑身疼痛。应一切风疾，悉皆治愈。（张真甫舍人传，得之刘信叔。）\n大川乌头，（炮，去皮脐） 大黑附子（炮裂，去皮脐） 新罗附子（炮裂，以上各二两）五灵脂（一两） 白僵蚕（一两，去丝，炒） 白蒺藜（一两，炒，去刺） 没药（半两，研） 朱砂（半两，研） 白矾（一两，枯，研） 麝香净肉（半两，研） 细香墨（半两） 金箔（二百片）\n上件，前六味，同为末，后四味研匀，同合和令匀，用井花水一大盏，研墨尽为度，将汁搜和，用杵臼内捣五百下，和丸如弹子大，金箔为衣，窨干。每服一粒，用生姜一两，去皮，攃取自然汁，将药丸于汁内磨化尽，用无灰热酒一大盏，同浸化，温服。更量性多少，吃温酒一二升，投之，以助药力，用衣被盖覆，汗出为效。痛热重者，日进二服，不拘时候。\n张天师留传老换少壮，轻身强记，驻颜悦色，发白变黑，开心中迷忘，聪明耳目。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 42,
+      "source_path": [
+        "卷第一",
+        "一粒金丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "bd9ea3d80416fe1f85c3954b4cb55e85b3577a815349f09ce8554b37df98982e",
+      "content_sha256": "e64e3094acb4ef0f029d4f01a2ec457437edce96c706ff8f392b16755884bf2e",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        43,
+        44,
+        45,
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 374,
+        "simplified_codepoints": 374
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "4eb8dbe66ed1acdd8f9053b2",
+      "title": "神妙六逸丸",
+      "volume": "卷第一",
+      "content": "贺州王承务方，李少卿若朴传。\n石菖蒲（九节者，能开心孔，聪明耳目，益智不忘，出音声，治耳聋，高志不老） 菟丝子（补不足，益气力，坚筋骨，主口苦燥渴。久服轻身延年） 地骨皮（主五脏邪气，燥热消渴，裨益真气。久服轻身，坚筋骨，不老，耐寒暑） 远志（补不足，除邪气，益精神，注智聪，明耳目。去皮肤中热。久服轻身不老，好颜色，益心） 生干地黄（填骨髓，长肌肉，去胃中宿食，补五脏，通血脉，益气力，利耳目） 牛膝（能助人筋骨，偏治腰疼，益真气，变白发。久服轻身不老，耐寒暑）\n上件药各用二两，先总锉碎，用酒浸之，春夏五日，秋冬七日，慢火焙干，捣罗为末，炼蜜为丸，如梧桐子大；每服空心温酒下三十丸至五十丸，百病俱退。服至一百日，老却少容，服至一年，发如漆过。二年颜如童子，三年骨髓坚实，四年鬼神自散，精神爽清。合药并服时，忌鸡犬见。所传不得过十三家。（湖州杜助教所传。葛仙翁六神丸，用药六味，与此方同。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "卷第一",
+        "神妙六逸丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "24cd48c0b1edfdefef4f5c34afd3c793964f76b6671b8f781abd0a1737493bd1",
+      "content_sha256": "4717895ca0dbdfb78fb5d4e298a907d4479f22473d0f10e05a2af69961d2735a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        48,
+        49,
+        50
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 396,
+        "simplified_codepoints": 396
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "003c51bb5d0afb2161d2dc30",
+      "title": "铁瓮申先生交感丹",
+      "volume": "卷第一",
+      "content": "俞居易侍郎传。\n世人中年精耗神衰，常言百事心灰，盖缘心血少，而火不能下降于肾，气惫而水不能上升至心，中焦隔绝，营卫不和；所苦者，上则心多惊悸，中则寒痞，饮食减少，下则虚冷遗泄，甚至于阴痿不兴，脏气滑泄。愚医徒知峻补下田，非独不能生水滋心，而建伪失真，立见衰悴，夭折之由，当自此始，悲夫。所处此方，广济迷流，然不可忽此药品。志心服之半年，渐屏去一切暖药，又不可持此而驰嗜欲，然后力习秘固溯流之术，其神效不可殚述。质之天地，切勿妄传。居易之祖通奉遗训云，予年五十一岁，遇铁瓮申先生，授此秘术，酷志行持。服食一年大补，平日所服暖药，一切屏尽，而饮食嗜好不减壮岁，此药力之功大矣。今年八十五，享天然之寿，瞑目无憾，独此药传之，理当普示群生，同登道果，药后有汤与牙药，可同用之。\n茯神（四两） 香附子（一斤，去毛，用新水浸一夕，炒令黄色）\n上为末，炼蜜丸如弹子大。每服侵晨一丸，以后汤嚼下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 51,
+      "source_path": [
+        "卷第一",
+        "鐵甕申先生交感丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "6b5be58d8b126407fb6e5ea3ed16119ca10e589ff85fa5b43431f057415dc0e5",
+      "content_sha256": "524540013b8cbfc6330daea2fc58cd00809cef77490c0d4a48a4ac1c49701833",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 390,
+        "simplified_codepoints": 390
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "133c42697f8145cba6cc7d6e",
+      "title": "降气汤",
+      "volume": "卷第一",
+      "content": "茯神（二两） 香附子（半斤，炒浸如前） 甘草（一两半，炙黄）\n上为末。每服二钱，沸汤点下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 56,
+      "source_path": [
+        "卷第一",
+        "降氣湯"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f03bc34b23e0c8b9f92372c2abbf1d1437f27fd5eafbb1e0907efd71e6d800a3",
+      "content_sha256": "23134b98b5111048f77523deba03e59d0799857804960e61e56f7ff1377503a7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        57,
+        58
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "75de704991a5dcb31489d0af",
+      "title": "牙药",
+      "volume": "卷第一",
+      "content": "香附子（五两）\n上以生姜三两研，和滓汁浸香附子三夕，炒焦黑存性，为末，以青盐二钱，拌匀，揩牙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 59,
+      "source_path": [
+        "卷第一",
+        "牙藥"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "8f719f2bfe7f2d90cb3f0b14d4057404ed3ec73526ce5e24d5d496276d69b4a4",
+      "content_sha256": "84cfc75a50567b17f79ca36246c4efbba882ecd9a95b2f6ba3bafb053eab499a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        60,
+        61
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 47,
+        "simplified_codepoints": 47
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "e9cd2e5d04a9f9ad99eea122",
+      "title": "化毒排脓内补散",
+      "volume": "卷第二（痈疽）",
+      "content": "（丞相兄刊是方于徽州，予屡以施人，皆效。）治一切痈疽疮疖，未成者速散，已成者速溃，败脓自出，无用手挤，恶肉自去，不犯刀杖；服药后，疼痛顿减，此其尝试之效也。歙丞胡权初得方于都下异人，时有苦背疡者七十余头，诸药遍试不效，因出是方示之。众医环立，相目而笑曰：是岂痈疽所用药耶。固谓之曰：古人处方自有意义，观其所用药性平和，纵未能已疾，必不至坏病，服之何害。乃治药与服，以热酒半升许，下药五六钱。少顷，痛减七分，数服之后，疮大溃，脓血流迸，若有物自内托之。服之经月，疮口遂合，若未尝有所苦者。又有苦腹疾者，其痛异常，医者莫晓时意。此药颇能止痛，试以饵之，当日下脓二三碗许，痛亦随止，乃肠痈也。又一老人，忽胸间发肿，根脚甚大，毒气上攻，如一瓠然，斜插项右，不能转动。服药，明日毒肿既散，余一小瘤，如栗许大。又明日，帖然如故。又一人发脑，疑此方不服，既殒于庸医之手。明年，其子复苦此，与父之状不异，因惩父之失，纵酒饮药，遂至大醉，竟日衮卧地上，酒醒病已去矣。又一妇人发乳，焮肿疼痛，不可堪忍，自谓无复生理。又二妇人，股间发肿，大如杯碗，服此皆脱然如失。蒙济者不可悉数，姑叙大略，以示未知此方者。大抵痈疽之作，皆气血凝滞，风毒壅结所致，治之不早，则外坏肌肉，内攻脏腑，去生远矣。详味此方其所用者，皆发散风毒，流行气血，排脓止痛，生肌长肉等药。五毒不试，而坐收疡医十全之功，其可尚已。今按本草，于逐味下聊疏药性温凉，与所治疗，虽处方妙指不可遽晓，庶仓猝之际，可以见其用药大意，而服之不疑。\n人参（微温，无毒。主补五脏，除邪气，通血脉，破坚积，疗心腹鼓痛，胸胁逆满。今以新罗者为上，择团结重实滋润者，洗净去芦，薄切，焙干） 当归（大温，无毒。主温中止痛，除客血内塞，客气虚冷，补五脏，生肌肉，治一切风，一切劳，破恶血，养新血。又《外台》、《金匮》等方，皆谓大补不足，决取立效之药。凡气血昏乱者，服之即定，谓能使气血归所。当归制名之义，宜出于此。今取川中来者，择大片如马尾状，滋润甜辣芬香者，温水洗，薄切，焙干） 黄耆（微温，无毒。主痈疽久败疮，排脓止痛，逐五脏间恶血，补丈夫虚损五劳，羸瘦，烦闷热毒，活血。以绵上来者为胜，状如箭竿，长二三尺，头不叉者。洗净，寸截，槌破悬壁，以盐汤润透，用盏盛，盖汤瓶上一炊久，焙燥，随众药入碾，即成细末）芎䓖（温，无毒。主中风入脑，头痛寒痹，筋挛拘急。除脑中冷痛，面上游风，治一切风，一切气，一切血，一切劳损，诸寒，心腹坚痛，中恶，卒急肿痛，腰脚软弱，半身不遂。壮筋骨，调众脉，破症结，治痈疽发背，排脓消瘀，养血长肉。以川中来者为上，今多用抚芎。大块者净洗，切焙） 防风（温，无毒。治心腹痛，四肢拘急，经脉虚羸。主骨节风，男子一切劳劣；补中益神，通利五脏关脉，五劳七伤，羸损盗汗，心烦体重。能安神定志，匀气脉。择新香者，净洗，切焙） 厚朴（大温，无毒。主中风寒热，血痹死肌，温中下气。去留热，止烦满，厚肠胃，去结水，破宿血，消化水谷，止五脏一切气痛。宜用梓州来者，肉厚而色紫，掐之油出；去粗皮，切，姜汁窨一宿，爁熟，焙燥，切。勿用杜、朴） 桔梗（微温，有小毒；主胸胁痛如刀刺，腹满肠鸣，利五脏，补血气，除寒热，破血消积，止心腹胀痛。补五劳，养气除邪，又养血排脓，补内漏，疗胸中寒。肺脉数，咽噪不渴，时时出浊唾腥臭，吐脓如粳米粥，是肺痈。治之用桔梗甘草各二两，水三升，煮取一升，分再服，朝暮吐脓血即瘥。今所在有之，以有心、味苦者为真。无心、味甘者荠苨也，主解药毒，恐于众药不利，切勿误用。洗净去头尾，薄切焙燥），白芷（温，无毒。破宿血，长新血。治乳痈瘰疬，肠风痔瘘，排脓止痛生肌） 桂（大热，有小毒，一曰：温，无毒。为诸药先聘，主温中，利肝肺气。去心腹寒热，补五劳七伤，通九窍，利关节，破痃癖症瘕，消瘀血，续筋骨，生肌肉。筒厚者，宜入治脏及下部药；轻薄者，宜入治头目发散药。今宜用卷薄者。古法带皮桂，每两止取二钱半，合用一两者，当买四两。候众药罢，别碾方入） 甘草（平，无毒。主脏腑寒热邪气，坚筋骨，长肌肉，解毒，温中下气，倍力。生用）\n上十味，选药贵精，皆取净，晒焙极燥方秤。人参、当归、黄耆各二两，余各一两。除桂外，一处为细末，入桂，令匀。每服自三钱，加至五六钱，热酒调下，日夜各数服，以多为妙。服至疮口合，更服为佳。所以补前损，杜后患也。不饮酒人，浓煎木香汤下，然不若酒力之胜也。或饮酒不多，能勉强间用酒调，并以木香汤解酒，功效当不减于酒也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 63,
+      "source_path": [
+        "卷第二（癰疽）",
+        "化毒排膿內補散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "11dd85088d35be9cbe192608e9c3ad59d2bed73195be215c408722938992cdb3",
+      "content_sha256": "3b6e17fb7e260b8cd57263775419e525e9e27a5a488e79dcd881aabf02c57e0e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        64,
+        65,
+        66
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1832,
+        "simplified_codepoints": 1832
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "cd14d982dd72d015f10494d4",
+      "title": "神授痈疽灵方",
+      "volume": "卷第二（痈疽）",
+      "content": "唐吕西华遇胡僧，授此方，《沈存中良方》备载其事。\n白麦饭石（颜色黄白类麦饭者，曾作磨者尤佳。炭火烧赤，醋中浸之，十遍止，为末） 白蔹末（与石等分） 鹿角（三二寸，截之。不用自脱者。凡带脑骨者，即非自脱。炭火烧之，烟尽为度，捣为末，倍前二味）\n上并捣，筛令细。取多年米醋，于铛中煎，并令鱼眼沸，即下前件末，调如稀饧。以篦子涂敷肿上，只当疮头留一指面地，勿令合，以出热气。如未脓，当内消；若已作头，当撮小。若日久疮甚，肌肉损烂，筋骨出露，即于布上涂药，贴之疮上，干即再换，但以鬲中不穴，无不瘥。疮切忌手触，宜戒之。刘梦得《传信方》亦载。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 67,
+      "source_path": [
+        "卷第二（癰疽）",
+        "神授癰疽靈方"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "88078bb1aa41ed814e22ca06f5f46553755e1fd3cca6c2d4e0a1e7c93065fa4f",
+      "content_sha256": "cf979f7a372bbf039a8b94f68d63ee92b8c4377416e0eccfa89334cd7bd62975",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        68,
+        69,
+        70
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 266,
+        "simplified_codepoints": 266
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "342b8fd5958ca92132cc2f4f",
+      "title": "治乳痈发背，诸般疮毒。",
+      "volume": "卷第二（痈疽）",
+      "content": "丹阳僧传。\n金银花（一名忍寒草）\n上采叶，研为滓，敷疮口。（花五出而白，微香，蒂带红色，野生延蔓，叶如薜荔而青。予见《沈存中良方》所载，忍冬嫩苗，治痈疽云：江西医僧鉴清，善治背疽，得其方，用老翁须。后在金陵，闻医王善琪治疡，其方用水杨藤，观之，乃老翁须也。又友人王子渊，自言得神方，活数人，方用大薜荔。又杜医治疡，常以二万钱活一人，方用千金藤。又宁国尉王子骏传一方，用金银花。海州士人刘纯臣传一方，用金钗股，皆自神其方。求其草视之，盖一物也。存中云，仓卒求不获，只用干叶为散，并甘草酒煮服，然不及生者。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 71,
+      "source_path": [
+        "卷第二（癰疽）",
+        "治乳癰發背，諸般瘡毒。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "0a4a329e1e969bb34f2307391b5829774e34f40f7be17fc060d7c6da91ce5bd8",
+      "content_sha256": "bcae78f79af4a28fc2a06d976ec3161b6065c7c69b28a72818fa4ebca7c22a8b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        72,
+        73,
+        74
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 252,
+        "simplified_codepoints": 252
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "9034cfed75b9035b8e7b347f",
+      "title": "灵宝膏",
+      "volume": "卷第二（痈疽）",
+      "content": "治一切痈疽，脑疽，发背等疾。（杨池州传云：是方得之异人，和王施此药，前后活数百人，甚有神验。）\n大栝蒌（十枚，隔二三年陈者，尽去其皮，留穰子，约有半升许，用砂盆研细如粉） 新胡桃（十枚，不油者，汤去膜，研细如粉） 滴乳香（十块，如大指头，大乳钵内研细如粉）\n上用白沙蜜十两，同前药于银石器内，极慢火熬三时辰，其稠如饴糖，多合少合准此。每服二匙，无灰酒半盏调下，不拘时候，甚者不过两三服，其效如神。治痈疽发背，初觉毒气攻系，赤肿焮痛方。（行在金翰林传。）\n犀角（镑，一两） 玄参（一两） 川升麻（一两） 黄耆（一两） 赤芍药（一两） 麦门冬（一两，去心） 甘草（一两） 当归（一两） 大黄（二两，微炒）\n上为粗末。每服三钱，水一盏，煎八分，去滓，不计时。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 75,
+      "source_path": [
+        "卷第二（癰疽）",
+        "靈寶膏"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "929a307dca0b74e8ca3222ae04a1c8a0239d1d697f80c71bfd75e4e85b44464f",
+      "content_sha256": "56ea4492f9ce12bf922259f20bced8526cc70ed597c19517b6342104c692c1dd",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        76,
+        77,
+        78,
+        79,
+        80
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 326,
+        "simplified_codepoints": 326
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "4dc4d9131bc8f9c02f1d200d",
+      "title": "发背灸法［一］",
+      "volume": "卷第二（痈疽）",
+      "content": "郭廷圭知县传。\n先用蜡线，度左手中指头，至手掌下横纹止。其横纹有三两条，当以长而分明者为正。却将所度蜡线，自尾闾骨取中，逆量至脊槌骨，如度之长，以墨记之。次以蜡线取中指中节，量一寸。中指中节两头横纹多，当侧取横纹中，长而分明者为正。却将所量蜡线，横于墨点处，每边各量一寸，朱点记之，此正灸穴处。前以墨处乃用取中，非灸穴也。视背疽发于左则灸右，发右则灸左，甚则左右皆灸，至三十壮而止。妇人则用右手中指取度，其灸法与男子同。妇人奶痈，凡发背、发肋、发脑、发腿之类，不论男女皆可灸。郭云，自得此法，救人不可胜计。有亲戚姓陈者，得此疾，其妻儿告急，而陈苦不之信，迫不得已灸之。才十壮，其红肿处渐消，于是欣然听命。再灸二十壮，觉热毒之气从肿处下，如以手拓，从尾闾骨发散，陈至今无恙。又云，庄妇忽背间痒痛，伛背以行，问知其状，使以法灸，随手即愈。如是非一，不能尽记。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 81,
+      "source_path": [
+        "卷第二（癰疽）",
+        "發背灸法［一］"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "7f1b2bc3405fcb63bde49c1e0597aead5e14901dafd307d89f6b705a61648cde",
+      "content_sha256": "b27076f07e4d870b6182e150b72bcb40efd8044ccd071f9af6cf21007e1e84d5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        82,
+        83
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 377,
+        "simplified_codepoints": 377
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "63edb319f927657e75d53f36",
+      "title": "发背灸法［二］",
+      "volume": "卷第二（痈疽）",
+      "content": "叶子昂丞相传。\n男左女右，以手中指自上至手尽处，第一路为度，却用此去自尾闾骨尽处量。（在腰间）。点定穴，却用中指中间一节为度，自穴分左右，背左处发则灸左穴，右亦然，止三十艾，甚则左右穴皆灸；妇人乳痈，亦用此法治之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 84,
+      "source_path": [
+        "卷第二（癰疽）",
+        "發背灸法［二］"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e8359647f8a59ed6b9c9679aa28e9e83d9123ce64a106a72d416069e0dc2aac1",
+      "content_sha256": "4d4703f05740b6aa55896515bf223853e7b5582c31e5e63da8165ce2aceda8b3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        85,
+        86
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "7eea63e6d5a9ea6df5a4c554",
+      "title": "治背疽糁药",
+      "volume": "卷第二（痈疽）",
+      "content": "童县尉传。\n龙游有患背疽，已溃如碗面大，视五脏仅隔薄膜耳，自谓必死。有用大鲫鱼一枚，刳去肠脏，以羯羊粪实其中，烘焙焦黑，极干燥，研为细末，干糁之，疮口遂收，至今无恙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 87,
+      "source_path": [
+        "卷第二（癰疽）",
+        "治背疽糝藥"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ab196aebfcc9d131ff64367f546970b9d105dcb928a42288b5ce912c47ae2d65",
+      "content_sha256": "ac68afc068c8544e1042a442b812b82eaec17edbf38fa34e0751d72cd816e672",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        88,
+        89
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 83,
+        "simplified_codepoints": 83
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "4cda2e4575dd67fea67bb2c8",
+      "title": "内消发背",
+      "volume": "卷第二（痈疽）",
+      "content": "杏仁（三七粒） 巴豆（三七粒，去油令尽） 硇砂（半钱） 乳香（半钱）\n上将上件药一处研细，次用淮枣三七个，去皮核，研碎，又用丁香三七粒，斑蝥三七个，乌梅三七个，去核，三味同为末，通前药拌匀，用饼药面十文，生面十文，以冷水搜，裹药在内，慢火煅一日，莫令烧过。候药熟，取出地上，将盆盖覆，出火气，然后出面，只取药细研，入少许，蒸饼。末，滴水为丸如绿豆大。老者七粒，壮者十粒，旋入甘草少许，用马兰酒吞下。春用马兰苗四两，生者；秋后用马兰根白芽四两，研细，同酒半升研，去滓，吞下。如不饮酒，蜜水亦可，只可三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 90,
+      "source_path": [
+        "卷第二（癰疽）",
+        "內消發背"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "6722017499376526ad827cfb3d93f64d3ad403641f195ec3a03ff92caaa5a4e8",
+      "content_sha256": "79e2490164f097299c11264d1d69b055f49ea21a024a412d7c44188545752678",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        91,
+        92
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 251,
+        "simplified_codepoints": 251
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "673d2ae491a6b1b8b8d4e0b1",
+      "title": "治甲疽胬肉裹甲，脓血疼痛不瘥。",
+      "volume": "卷第二（痈疽）",
+      "content": "出灵苑。\n胆矾（洗）\n上先剔去甲中肉，敷药疮上，纵有胬肉，才敷即干落。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 93,
+      "source_path": [
+        "卷第二（癰疽）",
+        "治甲疽胬肉裹甲，膿血疼痛不瘥。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "1ffd59367240e3b820098e784035ce057d831b11656d81eaa192b190ada708d8",
+      "content_sha256": "db0928e4c809b9789ab4855ec6c3211fed1ce3a14bed354091c9adb1d36cd800",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        94,
+        95,
+        96
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 35,
+        "simplified_codepoints": 35
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "4ddab852f3f8c3eb1a21110d",
+      "title": "治肿毒发背，一切痈疽经验方。",
+      "volume": "卷第二（痈疽）",
+      "content": "鄱阳都路分，因请大仙得此方，徐纲镂板印施。便痈、肠痈皆治。\n横纹甘草（一两，炙干，碾为细末）\n上分为三服，无灰热酒调一服，如人行一里，再一服，三服并吃。鄱阳徐纲，忽患右足赤肿，三日不能履地，医治无效，才服此药，须臾之间，即能移步，再服全愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 97,
+      "source_path": [
+        "卷第二（癰疽）",
+        "治腫毒發背，一切癰疽經驗方。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "6159b190684010c896b51c629936d379c35c6327ad6a73340b9e5e8db3ed8d82",
+      "content_sha256": "2575eb0dfee72743cf57626694bdbd5393c59e5878a9a8656c6fc79c7ae2188d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        98,
+        99,
+        100
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 120,
+        "simplified_codepoints": 120
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "bcc3f15b772e7972e4b52bc4",
+      "title": "治肿毒发背，一切痈疽夺命膏。",
+      "volume": "卷第二（痈疽）",
+      "content": "赵教授得之全州医，屡有神验。以下三方，次第用之。\n麻油（四两，熬一二沸） 石蟹（一枚，烧，米醋淬，才黑又烧，碎，为末） 防风（一两，切，焙） 蛤蚧（一对，煅，存性） 灯心灰（一分） 蜈蚣（一条，烧，存性） 全蝎（七个，烧，存性） 血竭（一分，别研） 黄连（半两，去芦，切，焙） 当归（半两，切，焙）\n上件为末。用文武火熬麻油，滴水中不散。次入众药一处，急用柳枝不住手搅，候滴入水中成珠为度。候极冷，贴疮如常法。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 101,
+      "source_path": [
+        "卷第二（癰疽）",
+        "治腫毒發背，一切癰疽奪命膏。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ce9f7ed8175dc1be58e00193a22d5bd84108004dece30aa625597f256fb6afcb",
+      "content_sha256": "438850c2c9761c52275489a691b9270b7051431f3c24def664302e97a4132bb5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        102,
+        103,
+        104
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 205,
+        "simplified_codepoints": 205
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "a1fb5f610d54e2159e81f22b",
+      "title": "胜冰散",
+      "volume": "卷第二（痈疽）",
+      "content": "茵陈（半两，焙） 防风（半两，焙） 滑石（一两，别细研） 当归（半两，焙） 地龙（半两，碾） 乳香（半两，别研） 螺青（一两，研） 马牙硝（半两，研，各取末）\n上八味，一处和匀。用新汲水调涂肿处，不可令稀，时时涂之，勿使至干。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 105,
+      "source_path": [
+        "卷第二（癰疽）",
+        "勝冰散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3c4afd07c05a4c8610138e94e6be8aa5faed5864135a0194bc04fc3ff62fe08c",
+      "content_sha256": "6e6a6d01f33c9394568b1b4f2470edd7a7f861d2537e6ee7a2d77a2765618b42",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        106,
+        107
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 113,
+        "simplified_codepoints": 113
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "18be1875504d19f49bda924b",
+      "title": "应痛内托丸",
+      "volume": "卷第二（痈疽）",
+      "content": "赤芍药（一两，焙） 当归（一两，焙） 血竭（一分，研） 麝香（一分，研） 栝蒌根（二两，火煅，存性） 人参（半两，焙） 沉香（半两，锉） 茵陈（半两，焙） 全蝎（七枚，煅，存性）大黄（一分，焙）\n上件十味，和匀为末，炼蜜丸如弹子大。每服一粒，乳香汤化破服之。或嚼吃亦得，不拘时。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 108,
+      "source_path": [
+        "卷第二（癰疽）",
+        "應痛內托丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "0902727bf55c8c8eb0da1af3dbb88246b739ef44398502d064054bed664eef1d",
+      "content_sha256": "627aa58f007675dd325ca1a4f171be0bc76db54716fd6133f72cfbbde5acbb06",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        109,
+        110
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "3c07a422a237d267bb75287f",
+      "title": "圣柳散",
+      "volume": "卷第二（痈疽）",
+      "content": "苍术（四两，米泔水浸一宿，焙） 连翘（一两，焙） 甘草（一两，炙） 大黄（半两，切）人参（半两，切） 赤茯苓（半两，切） 黄芩（二钱半，煅，存性） 桔梗（半两） 白术（一分） 枳壳（一两，麸炒，去白） 南木香（一两，切） 益智（一两，去皮，切） 白芷（半两，焙） 苦参（一两，切）\n上件为细末。如渴时，加牙硝半两，别研入。每服二大钱，水一盏，柳枝七寸，同煎至八分，去滓温服，不拘时。\n初发即用夺命膏贴。如胸膈满闷，大肠秘结，即用应痛内托丸主之。如四边赤肿日增，即用胜冰散主之。如烦渴不已，疾势转增，即用胜柳散；此疾浅深，治法次第也。忌鸡肉、湿面，疾愈半年方可食。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 111,
+      "source_path": [
+        "卷第二（癰疽）",
+        "聖柳散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e71fd766fd6034edf77b4c1cf656f4a720c21938ed9ef01299bb9bd406443327",
+      "content_sha256": "59521f20f4af9aafcebf24793a27ea40d57e6eae0c103bf59a8a3d218845160d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        112,
+        113,
+        114
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 281,
+        "simplified_codepoints": 281
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "19dc466c506e0e55dace7cce",
+      "title": "治痈疽立效方",
+      "volume": "卷第二（痈疽）",
+      "content": "小儿暑月头额生疖，亦可用。\n生水蛭（一名马蟥蜞。取数枚，置碗水中，用讫纵之。冬月蛰于积水边，或田塍水道边，掘土取之。）\n上用薄纸一片，剪丸如疮大；仍看疮脓头有几个，其纸对脓头作小眼，搭在疮上。将水蛭著在纸眼处，每一脓头用一水蛭，要得先咂去脓，其痛立止。如无脓头，即以手指按之，觉最热处是也。或用茶末，以水调涂疮上，看先干处即点记，如不能辨，即著在中间。如脓头只一个，而赤晕稍大，即近中处加用水蛭。如脓血咂尽，痛定肿退，可用膏药贴之。\n绍兴中汀州黄守（武），疽发肩背之间，医药不瘥，用水蛭立效。因就寝盖被稍暖，睡觉衣被皆湿，以烛视之，乃疮口自出血也。（水蛭咂尽恶血，不曾贴膏药，身暖，好血随路而出。）急令取池中藕，将藕节处泥抹疮口，其血立止。按本草云，水蛭攻痈肿毒肿，取十余枚啗病处，取皮皱肉白，无不瘥。冬月中无水蛭虫，地中掘取，暖水中养之，令动。先洗去人皮咸，以竹筒盛蛭，缀之，须臾便咬，血满自脱，更用饥者。（张仲钦运使传云，绍兴壬申岁，沿檄至汀，亲目其事。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 115,
+      "source_path": [
+        "卷第二（癰疽）",
+        "治癰疽立效方"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ac92986980ff50576b17f02600b8960a622999570f71d245d60882f2b8456b9c",
+      "content_sha256": "98aa9bc36872fa10b084a8169e086144f79dcbb6db08bb3a98a59ed524198a6d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        116,
+        117,
+        118,
+        119
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 430,
+        "simplified_codepoints": 430
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "288cd362524ae717cf9cd900",
+      "title": "苁蓉茸附丸",
+      "volume": "卷第三",
+      "content": "平补真元，益养脾肾，固精壮气，暖胃思食。（督府王翰林方。丞相兄旧苦脚气，自服此药，十余年不作。）\n鹿茸（一两，先用草烧去毛，切作片子，用酥炙，令香熟为度） 苁蓉（四两，酒浸一宿，切作片子，焙干） 菟丝子（六两，酒浸两宿，炒令半干，捣作饼子，焙） 牛膝（二两，酒浸一宿，切，焙） 熟干地黄（二两，炒，焙） 真乌药（一两） 川五味子（一两） 附子（一两，炮，去皮脐） 白术（一两） 天麻（一两） 补骨脂（一两，炒） 葫芦巴（一两，炒） 茴香（一两，炒） 干淡木瓜（一两） 沉香（一分） 木香（一钱，面煨） 丁香（二钱，不见火）\n上件捣罗为细末，酒糊为丸，如梧桐子大；每服三五十丸，空心临卧，米饮、温酒、盐汤下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 121,
+      "source_path": [
+        "卷第三",
+        "蓯蓉茸附丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "507ed83e1b53cc481bd509c9be2844dfa6224af9ec2f7d5929d00725b2cdaca7",
+      "content_sha256": "37a36e95e6edcd09c3f6178a4c565dc4cc95f8d36142fbb3704c72079bedd71a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        122,
+        123,
+        124
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 303,
+        "simplified_codepoints": 303
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "5928d71ce66f3f934db5fe64",
+      "title": "鹿茸世宝丸",
+      "volume": "卷第三",
+      "content": "诸虚不足，心脾气弱，腹胁胀急，肠鸣泄泻，腹疼，手足厥逆，顽痹，中满恶心，头疼怯寒，肢体酸痛，饮食少思，气短乏力，惊悸自汗，并能服之。用药如下：（督府王翰林方。）\n鹿茸（酥涂，炙） 附子（炮，去脐） 白术（炒） 阳起石（烧赤） 椒红（炒，出汗） 成炼钟乳粉 苁蓉（酒浸，炙） 人参（去芦） 肉豆蔻（面裹，煨） 川当归（炒） 牛膝（去芦，酒浸一宿） 白茯苓 沉香 巴戟（去心，以上各一两）\n上件十三味，依法修制，并为细末，次入钟乳粉拌匀，炼蜜为丸，如梧桐子大。每服四十粒，盐饭饮或盐汤送下，食前，一日三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 125,
+      "source_path": [
+        "卷第三",
+        "鹿茸世寶丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "271f6bdf4e5557fe06451a1746c9a39c92d80a0738021c548ebd9b0a1441969e",
+      "content_sha256": "bb751594426c4223b4218ef86362cdaeb49af92dfc4a8ee9d392d6c327b16c29",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        126,
+        127,
+        128
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 251,
+        "simplified_codepoints": 251
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "8b0d8f37766a1bca4b2a029d",
+      "title": "五解散",
+      "volume": "卷第三",
+      "content": "治伤风感寒，或内伤生冷，头目昏痛，身体壮热，胸膈不快，干呕恶心，怯风怕寒，体虚自汗。\n藿香叶（一两，去土） 人参（一两） 白术（一两） 半夏（一两，汤荡洗七遍） 甘草（一两，炒） 白茯苓（一两） 陈橘皮（一两，汤荡洗一次） 厚朴（二两，去粗皮，用生姜自然汁涂炙，紫色为度）\n上件同捣为粗末。每服五大钱，水一盏半，生姜七片，枣子二枚，煎至七分，去滓温服，不拘时候。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 129,
+      "source_path": [
+        "卷第三",
+        "五解散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "804ced7cef11aaab48bc875af70b46f4f080146da8f4203ffe6fdcf04d6f5596",
+      "content_sha256": "2e61d118922d38eb98568d8ceb6532eb8f5eb23731499b599f4aa1e9199b7abf",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        130,
+        131,
+        132
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "ba268739235d9d2dba206ac8",
+      "title": "盲肠丸",
+      "volume": "卷第三",
+      "content": "治远近一切赤白痢，实肠胃，进饮食。\n当归（一两） 肉豆蔻仁（半两，粟米炒，以黄为度） 诃子皮（炮，半两） 黄连（去须，一分） 乌梅肉（一分） 樱粟（半两，炒黄黑色）\n上为细末，炼蜜熟，丸大如绿豆许。每服十五丸，温陈米饮，食前。（平江辛太丞传。有加芎者尤妙。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 133,
+      "source_path": [
+        "卷第三",
+        "盲腸丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "c626b5e87855c0b3094b4cacae22da179572ed2a80fc6fc409279eb9932f673f",
+      "content_sha256": "a8b0ff5b8d0ebcfcfdb2522d287de4fbdf206e7d08e2c7ccdc64aa335fed349e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        134,
+        135,
+        136
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "a38cc9f6d6c6152055f521f2",
+      "title": "硫附盐矾丸",
+      "volume": "卷第三",
+      "content": "治经年久病，肠风下血不止，虚弱之甚者，一服见效。（以下二方，上官彦成驻泊传。） 附子（一两，炮，去皮脐，别杵为细末） 绿矾（四两，用瓶子盛，盖之，火煅，食顷候冷取出。入盐一合，硫黄一两，同矾研过，依前入瓶子内，烧如食顷，候冷取出。再研令匀，为极细末。）\n上件二味，药末同合一处，令匀，以粟米粥为丸，如桐子大。每日空心用生地黄汁吞下，温酒米饮亦得，每服三十丸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 137,
+      "source_path": [
+        "卷第三",
+        "硫附鹽礬丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3cc067b319b31fd769de666c85354dab087f9644112d19a37c55917a4b2c1708",
+      "content_sha256": "4383060d4ab1d2a04a3b8822402bc8eda751543254e2029dceeed139c7ae0c59",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        138,
+        139
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 179,
+        "simplified_codepoints": 179
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "a563a593fc6d77eb9ce642f2",
+      "title": "治五种肠风下血。",
+      "volume": "卷第三",
+      "content": "上厕粪前有血，名外痔。粪后有血名内痔。大肠不收名脱肛。谷道四面有胬肉如奶，名奶举痔。头上有孔肠出，名漏。并皆治之。\n黄牛角腮（一枝，捶碎） 蛇蜕皮（一条，白者） 猪牙皂角（七茎） 穿山甲（一处，七十鳞） 刺猬（一两，锉）\n上件五味，入瓷瓶子内，以黄泥封固，候干。先以小火烧，令烟出后，用大火煅，令通赤为度。取出摊开，候冷，捣罗为细末。患者先用胡桃一个，分作四分。一分临卧时，细研如糊，温酒下便睡，先引出虫。至五更时，以温酒调下药末三钱，至辰时，更进一服。久年，不过三服立效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 140,
+      "source_path": [
+        "卷第三",
+        "治五種腸風下血。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ae26097510926dd391a6f95545c460f51457e92cd093e516afbaee407c870dd4",
+      "content_sha256": "d68902df8a1a6706af3d0c06eedbdbe6fceb394833da2d435d89e7cf51f7d03d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        141,
+        142,
+        143
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 237,
+        "simplified_codepoints": 237
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "d2b97d37125ed7661096f726",
+      "title": "比金散",
+      "volume": "卷第三",
+      "content": "治肠风下血方，及治痔漏，又名立效散。（饶州周道太丞传。）\n猬皮（一个） 皂角刺（二两） 䐦藤子（一个，去穰，锉碎，别碾为末） 猪牙皂角（一两） 白矾（半两） 除䐦藤子外，上四味入瓷瓶内，盐泥封固，候干，先以小火烧，令烟出，方用大火煅，令烟尽为度。取出，摊冷，杵，罗细末，入䐦藤子末和匀。每服一大钱，温酒调下，空心食前服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 144,
+      "source_path": [
+        "卷第三",
+        "比金散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "324106e16b6f806456ed3f339d91fe192ad41c285cb887fe69fc3cb2cad90226",
+      "content_sha256": "c9b868c5c59904f4b6cbd5722a768067de23439916a67f1c6173d68b1539f12f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        145,
+        146
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "2e344e9fc79e07d4b5ee086e",
+      "title": "治五种肠风痔疾",
+      "volume": "卷第三",
+      "content": "饶州王康孺翰林传。\n凡下血，皆为肠风。粪后有血名内痔。粪前名外痔。大肠头出谓之脱肛。谷道四边有胬肉，谓之鼠奶痔。头上出血谓之漏。此方通治之。\n黄牛角腮（一个） 猪牙皂角（二两） 蛇皮（一条） 穿山甲（二两） 大附子（一个，炮，去皮脐） 当归（半两，炒） 蒻叶（四两） 麝香（一钱） 猬皮（一个）\n上件，一处砂瓶内，用炭火煅，令通赤。取出于地上，用盆合定，四畔用土覆之，去火毒，然后捣罗为细末。患者先用胡桃肉半个研烂，同酒半盏，调药末二钱，服之便效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 147,
+      "source_path": [
+        "卷第三",
+        "治五種腸風痔疾"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b8c8c920b39f66beae97a615097937e474d83264daa80d978a16e20bf9eb8265",
+      "content_sha256": "5a0857b28f3df505f068b13cc7536a1ec43ad6f6dc9e67e9adc4dbdbc849f187",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        148,
+        149,
+        150,
+        151
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 224,
+        "simplified_codepoints": 224
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "44f73a8a7a18421cd9baad51",
+      "title": "阿魏良姜丸",
+      "volume": "卷第三",
+      "content": "治三脘气弱，中焦积寒，脾不磨，饮食迟化，吃物频伤，胸膈满闷，胁肋㽲刺，呕吐哕逆，噫醋恶心，腹胀肠鸣，心腹疼痛，噎塞膈气，翻胃吐食，饮食减少，悉能治之。（以下二方，上官驻泊传。）\n青皮（三两） 陈皮（二两） 良姜（二两） 红豆（二两） 桂（去粗皮，一两） 缩砂（去皮，二两） 蓬术（炮，二两） 草果子（去皮，二两） 干姜（炮，二两） 莱菔子（二两，炒） 木香（二两） 硇砂（半钱） 阿魏（一分。并硇砂用醋化，去砂石研）\n上和面，煮糊为丸，如绿豆大。每服五十粒，淡姜汤吞下，不拘时候，日进二服。久服大补益脾胃，空膈，令人能食，去寒湿，强中温暖。如素来有沉寒积冷，腹中时作疼痛，宜服之。或无此证，去硇砂，常服温养中焦，有益脾胃。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 152,
+      "source_path": [
+        "卷第三",
+        "阿魏良薑丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "8ff092cad9f66c38a6360518b0e05353229ec3584cbb1108a2f24641d2ac981e",
+      "content_sha256": "88cbf253071d512ca43f02e33c917d31a4f8c4736ec3fd58cfb64fe1cee482d2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        153,
+        154,
+        155
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 311,
+        "simplified_codepoints": 311
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "5379723a0ba5773ac11a0a34",
+      "title": "麋茸丸",
+      "volume": "卷第三",
+      "content": "治妇人风虚劳冷，一切诸疾，或风寒邪气留滞经络，气血冷涩，不能温润肌肤。或风寒客于腹内，则脾胃冷弱，不能克消水谷。或肠虚受冷，大便时泄。或子藏挟寒，月水不调，乍多乍少，或月前，或月后，或淋沥不断，或闭不通。百节酸疼，头顶作痛，相应脐、腹、腰、腿痛，痹不仁，悉能主治，大补益元藏。绝忌羊肉，解药力。\n麋茸（火烧去毛，薄切酥涂，炙，四两） 当归（去芦，酒浸一宿，焙干，二两） 鹿茸（火烧去毛，薄切，酥涂，炙，二两） 鹿角胶（麸炒，二两） 大黑附子（炮，去皮脐，二两） 沉香（二两，不见火，好者） 肉苁蓉（酒洗，薄切，焙干，三两） 牛膝（去芦，酒浸一宿，焙干，二两） 熟干地黄（酒洗，焙干秤，三两） 赤石脂（一两，真者） 破故纸（酒浸一宿，炒，二两。一方有麝香二两） 阳起石（一两半，夜间用瓷罐子盛，以酒二升，煮一宿，水洗，焙干，乳钵研如粉）\n上十二味，同为细末。用酒蜜各等分，熬成稠膏子，搜和成剂，入木臼内，杵三千余杵，丸如梧桐子大。每服三十粒、渐加四十粒至五十粒，温酒盐汤吞下，空心，日午服之。（法，酒二十两，蜜二十两，慢火同熬成膏子丸。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 156,
+      "source_path": [
+        "卷第三",
+        "麋茸丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "cadbb76f4910e36f63b85fe1338c1ff4e6eea274209beac56074f86cebea278e",
+      "content_sha256": "99d36e5150830fec7d35820874135f9cb544fcfbac1ce7a65d7df7dca7adcf37",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        157,
+        158,
+        159
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 468,
+        "simplified_codepoints": 468
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "785598ee2976ed59ea2ac73b",
+      "title": "人参大温中丸",
+      "volume": "卷第三",
+      "content": "治三焦不顺，脾胃积冷、心腹大痛、呕逆恶心，两胁刺痛，胸膈满闷，腹胀肠鸣，泄泻频并，温脾暖胃。（婺州李麾翰林传。）\n人参（去芦头，一两） 白术（一两，锉） 陈橘皮（去白，一两） 紫苏子（拣净，一两） 高良姜（一两，锉） 官桂（去粗皮，一两） 川干姜（五钱，炮）\n上件七味，为细末，炼蜜为丸，每一两作十丸。每服一丸，煎生姜汤嚼下，不拘时。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 160,
+      "source_path": [
+        "卷第三",
+        "人參大溫中丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b1bbb09c84bec2d9733a222b0f116e19842feef2dfce8802b368da749168e6e9",
+      "content_sha256": "975d53b4598b3e4a1e026da4fdc90984644616a4468ebf6d81f610994330ae47",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        161,
+        162,
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 167,
+        "simplified_codepoints": 167
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "90384cd70e180480e865a050",
+      "title": "水陆二仙丹",
+      "volume": "卷第三",
+      "content": "取鸡头去外皮，取实连壳杂捣，令碎，晒干为末。复取糖樱子，去外刺并其中子，洗净捣碎，入甑中蒸令熟。却用所蒸汤淋三两过，取所淋糖樱汁入银铫，慢火熬成稀膏，用以和鸡头末，丸如梧桐子大。每服盐汤下五十丸。久服固真元，悦泽颜色。括苍吴寅仲，久服有奇功。（此药稍闭，当以车前子末解之。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "卷第三",
+        "水陸二仙丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "4f755c9f855b5ee4dbda34b45146581105801c9add4996de793e6e234b9fdfd1",
+      "content_sha256": "3f22dea22a7bb455ea8afbdea58f31e9ebce993ed0004feb7c563c928c24fe82",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        165
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 137,
+        "simplified_codepoints": 137
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "dce4323aefe405ceb82a3e36",
+      "title": "神应乳香丸",
+      "volume": "卷第三",
+      "content": "治诸般恶痢，腹中搅刺，日夕频并，危恶不瘥。\n安息（一分，酒浸，晒三日，去滓，研为膏） 诃子（一钱） 乳香（一分，酒少许，化开，晒三日，再用火焙熔令干，研为末） 没药（一分，研为末，用安息香膏子和匀，用生杏仁不以多少，烧令烟出，上焙膏子，一日，干为度）\n上件四味，研为细末，滴水为丸，如绿豆大。每服五丸、七丸，乳香汤下，空心食前，日三服，加至三五十丸。不忌毒物，其效如神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 166,
+      "source_path": [
+        "卷第三",
+        "神應乳香丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "c5b9a2287a9867f68e1a60efae519f0b419994f2dd3cadf6534c0ff5276a4fc5",
+      "content_sha256": "3e1b475714b77fc30b735a5b0bda6007de4caa5adf17b13c245ea8087c84a3c3",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        167,
+        168,
+        169
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 185,
+        "simplified_codepoints": 185
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "bb5284fda4d454212d1e83f9",
+      "title": "神妙驱风散",
+      "volume": "卷第三",
+      "content": "治风毒上攻眼目，涩痒疼不可忍者，或上下睑眦赤烂，浮翳，瘀肉侵睛。（出王氏《博济方》。）\n五倍子（一两，槌破，去尘土） 蔓荆子（一两半，洗，令净）\n上二味，同杵为末。每服二钱，水二盏，铜石器内煎及一盏，澄滓，热淋洗。留滓二服，再依前法煎淋洗。大能明目，去涩痒。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 170,
+      "source_path": [
+        "卷第三",
+        "神妙驅風散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "89c2bb3f36eb2c0df575fb540ca3411456ab263190d8deeb6268a605062c1cb3",
+      "content_sha256": "2d52b1faa4c6a40ca77b12ca5480e8eb1817eb574900c144a71ec4841bc7581d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        171,
+        172,
+        173
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "7e2edd7cb0066913933c6eb8",
+      "title": "虚风丸",
+      "volume": "卷第三",
+      "content": "治大人小儿一切风虚昏眩、神志不爽、心气不宁、手足搐跳，睡卧不稳。\n麝（一钱） 五灵脂（为末，银器内，炒烟尽为度，秤一两） 白附子（真大者，炮烈，半两） 天南星（大者，炮，去皮脐，一两） 乌蛇（只用项后肉，去皮，酒浸一宿，干，秤一两） 蟾头（一个，大者，炭火烧，烟将尽取出，不令成灰） 赤脚蜈蚣（三条，全者，酒浸一宿，焙干）\n上除麝处，同为细末，绝细，再入麝同研匀，以醇酒作糊为丸，桐子大。每服一丸，不拘时候，或二丸，以人参汤、麝香汤嚼下，或温酒亦得。治小儿慢惊极妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 174,
+      "source_path": [
+        "卷第三",
+        "虛風丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "fd7e9622688212d975c5054483bd7d9ccd75e0cfb84b3cd98447b1cada6428e1",
+      "content_sha256": "98ca7dd14af44a1aa1988cd795d332182016095cea9cdbd769911bdaa5114629",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        175,
+        176,
+        177
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 233,
+        "simplified_codepoints": 233
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "f63c4210c388c195ca9e58ae",
+      "title": "四斤丸",
+      "volume": "卷第三",
+      "content": "壮筋骨，治脚膝疼痛。\n宣木瓜（去穰，切，焙干，秤） 牛膝（去芦头，寸锉，焙干，秤） 苁蓉（洗，块切，焙干，秤） 天麻（细锉。以上各半斤）\n上件用无灰酒五升浸，春浸五日，夏浸三日，秋浸五日，冬浸十日。日足取药焙干，加附子二两，虎骨一两。虎骨细镑，附子炮，去皮尖。同为细末，用浸药酒煮面糊为丸，如梧桐子大。每服五十丸，温酒或盐汤下，空心食前服。（虎骨须用酥炙令苏。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 178,
+      "source_path": [
+        "卷第三",
+        "四斤丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "0118feea441ef60d9325933a4977e839abcd059cafeacfe8b9c031c16bc9d7b3",
+      "content_sha256": "f510bc34dbf57edf70bd9559fe66790ec38303730f46c160a03f7da90053a6cd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        179,
+        180,
+        181
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 181,
+        "simplified_codepoints": 181
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "c9ce48d231e3ffea25f95abb",
+      "title": "妙应丸",
+      "volume": "卷第三",
+      "content": "治妇人血经不调，月事湛浊，加之惊忧，遂发痎疟，后汗出过多，损耗气血。常服滋暖子宫，调血养气。（池州徐学谕传。）\n当归（去芦头，二两） 延胡索（去土，一两） 泽兰（取叶，一两半） 白芍药（雪白者，一两） 肉桂（去粗皮，一两，不见火） 牡丹皮（去骨，一两） 川芎（一两） 木香（半两，不见火） 石斛（去苗，一两） 川姜（一两，炮） 熟干地黄（净冼，薄切，焙干秤，二两）\n上件修制了，焙干捣罗为末，醋煮，面糊和丸，如梧桐子大。每服二十粒，用温酒或米饮吞下，空心及晚饥服之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 182,
+      "source_path": [
+        "卷第三",
+        "妙應丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2b3ab7a6ec3ad7264866be15c904fbbd0f7a73dd2f3ce631755eceac1464c1ad",
+      "content_sha256": "703b2932bce5588c00a6266062ba7d3898e65bbf413b3ec4053ccf2c1febccc2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        183,
+        184,
+        185
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 233,
+        "simplified_codepoints": 233
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "2f7dd5d195708a34c370dab8",
+      "title": "丁香草果散",
+      "volume": "卷第三",
+      "content": "治大人小儿脾虚发热及潮热，他药不能治者，服之如神。（余真州传。）\n丁香（一钱半，拣辛辣者） 草果（三个，面裹煨，面烈为度） 麦门冬（半两，去心，汤洗） 人参（二钱） 茯苓（二钱半） 半夏（二钱，姜制） 甘草（二钱，炙） 淡竹叶（数叶）\n上为粗末，分作六服。用水一盏半，姜三片，枣一个，煎七分，去滓，不拘时服。小儿加陈皮二钱，去穰。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 186,
+      "source_path": [
+        "卷第三",
+        "丁香草果散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "81125609ff0220c756682fe0a2ba1d5b99368421d8ea218303b9a3fb0134516e",
+      "content_sha256": "5a3087b784c881caec0dda8cb3a0f5577f851496935e6873324fac0bff9d6aa1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        187,
+        188,
+        189
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "7a31a7266c76311f0fe5c7bf",
+      "title": "神仙透空丸",
+      "volume": "卷第三",
+      "content": "治男子妇人偏正头痛，恶心，产后体虚伤风，憎寒头痛，洗头沐浴伤风，壮热头痛，痰厥头痛，肾厥头痛，虚眩，项筋紧急，应一切头痛。（江州陈太丞传。）\n天麻（一两，洗） 香白芷（一两） 半夏（一两，生用） 天南星（一两） 干姜（四钱，用） 川芎（二两，洗） 地龙（半两，锤洗，去土净） 川乌（一两，生用，去皮尖） 草乌（一两，生用，去皮尖） 细辛（半两） 甘草（二两，生用） 白附子（半两）\n上为细末，以药末一两，入白面一两，用新汲水搜和为丸。每一两分作十丸，于新板上排定，日内晒之。如合，须是伏中合。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 190,
+      "source_path": [
+        "卷第三",
+        "神仙透空丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "322f840cbc986308b6c3e2b069cffb45cc7698c01589c61ef2652bac09447c12",
+      "content_sha256": "192364e9b2af7abc1165178ad37ae09909bd76449a90a7af836ca2d26921188d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        191,
+        192,
+        193
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 246,
+        "simplified_codepoints": 246
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "b3318d6e95145416d4158f31",
+      "title": "沉香荜澄茄汤",
+      "volume": "卷第三",
+      "content": "治腰腿间寒湿作痛。（饶州雍医传。）\n沉香（半两） 南木香（四钱） 丁香（四钱） 檀香（四钱） 荜澄茄（半两） 片子白姜黄（半两） 陈橘红（三钱） 青皮（去白，三钱） 粉大甘草（七钱） 藿香（去净土，四钱） 白豆蔻仁（半两） 天台乌药（半两） 人参（半两） 缩砂仁（三钱）\n上为细末。每服一二钱，入盐点服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 194,
+      "source_path": [
+        "卷第三",
+        "沉香蓽澄茄湯"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "65a019d1130551914f3530a03b2461a5acefe4b0f5c536e5af7790bc746b1da5",
+      "content_sha256": "d616c1e3702a1568a7914462d2ca5cbade0204927fae8588b96eb0b4cd333941",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        195,
+        196,
+        197
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 152,
+        "simplified_codepoints": 152
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "6fc096668e0ddeee75073c4c",
+      "title": "神功散",
+      "volume": "卷第三",
+      "content": "灸结胸伤寒，不问阴阳二毒，只微有气者，皆可灸，下火立效。\n黄连（七寸，为末） 巴豆（七粒，去皮，新瓦上出油）\n二味拌匀。令患人仰面卧，先用三斡耳和艾一炷，如中指大，更用三斡耳子，先著在患人脐中，后安艾炷其上，只一炷，觉脐腹间有声，即便汗出而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 198,
+      "source_path": [
+        "卷第三",
+        "神功散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e2e8911dff9aca77cf3f4b59d217d9176c97f13471cd870f3b2b29dd358bb4e0",
+      "content_sha256": "5db29e7d0a652229a06b6acfbb221358d5ee57fee3946c16844ae6c2639bf1c6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        199,
+        200,
+        201
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 122,
+        "simplified_codepoints": 122
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "7aa5b60c41a890d2f10ab5ce",
+      "title": "治风乌荆丸",
+      "volume": "卷第三",
+      "content": "川乌头（一两，炮，去皮） 荆芥穗（二两）\n上醋面糊为丸，如梧桐子大。每服二十丸，酒或熟水下。有疾，食空时，日三四服。无疾，早晨一服。少府郭监丞，少病风搴搐，颐颔宽亸不收，手承颔，然后能食。服此六七服即瘥，遂长服之。以五十余年，年七十余，强健，须发无白者。此药疗肠风下血尤妙，累有人得效。下血人服此而瘥者，一岁之内数人。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 202,
+      "source_path": [
+        "卷第三",
+        "治風烏荊丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "a32a4b64936f4af68550ef99e095599b963159002cf09b806070ae36ecff028c",
+      "content_sha256": "e9a9192d8c39e7f41fe051a432f429023a23a74fadb3b1dc1207cbef9d7b834b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        203,
+        204
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 159,
+        "simplified_codepoints": 159
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "2c7c0bda08135c0a44ad8a80",
+      "title": "乌金散",
+      "volume": "卷第三",
+      "content": "治冒暑闷乱，不省人事，欲死，及发燥引饮无度，咽中痰涎不下。\n不蛀皂角（一斤，刮去皮，猛火炙，令成麸炭，仍须存性，不可使成白灰也。秤三两） 甘草（一两，炙）\n上同为细末。以新汲水或温熟水，调三大钱立瘥。此药神妙，不可具述。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 205,
+      "source_path": [
+        "卷第三",
+        "烏金散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b8cb29cfef60abbc6c1c58580b25fa3a817aedcc50696eddf6ea21236ef68759",
+      "content_sha256": "f946e243d6c98884d021b05bb6e6523bea9d18609bc9553890c57349c1ea4c21",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        206,
+        207,
+        208
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "81683670a77ab93d99f43803",
+      "title": "良姜汤",
+      "volume": "卷第三",
+      "content": "治阴寒积冷、心腹大痛、呕逆恶心、手足厥冷，心胸不快，腰背疼痛。（婺州李麾翰林传。）\n高良姜（一两，锉碎，炒） 官桂（一两，去皮） 当归（去芦头用，一两，锉，炒） 干姜（一两，炮） 人参（一两，去芦头） 吴茱萸（七钱半，炒） 白茯苓（一两） 附子（半两，炮）\n上为细末。每服二大钱，水一盏半，入生姜五片，煎至七分，去滓，膈空服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 209,
+      "source_path": [
+        "卷第三",
+        "良薑湯"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3b48df36a55536425c9728437e2368c8c9b17baf336f8a5b687afea53664edcc",
+      "content_sha256": "e46babc24f09c4af59cbe20a534bff67f0132ce60a9061f17247439c70d6315a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        210,
+        211,
+        212
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 163,
+        "simplified_codepoints": 163
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "cb85a0a8bf1c1ac877f64da0",
+      "title": "治气块刺痛",
+      "volume": "卷第三",
+      "content": "暮夜即作，至不可忍，多因气中伤冷所致，久而不治。妇人尤宜服之。（以下二方，信守孟郎中充传。）\n鳖甲（去裙并膜，醋炙，半两） 当归（去尾，一两） 木香（半两） 青橘皮（去白，一分）枳实（半两） 人参（半两） 京三棱（半两） 没药（一分，研） 血竭（一分，研） 槟榔（一分） 半夏（二钱，生用）\n上为细末，醋煮稀糊，丸如绿豆大。不计时，白汤下十五粒，遇大府通利且止。若气发作，大府不通，即加至五十粒，以通为度。此病须是服此药，令气块消。然不可骤然多服，须待积久消磨。每日且只一二服，觉得气消不痛，却只一日一服，或三日、二日一服，仍旋服后面散子以补气。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 213,
+      "source_path": [
+        "卷第三",
+        "治氣塊刺痛"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "8ce9ff743fd3ffa7e1bdf96dd415bf097bd546190cc7a1798089bf24bb4d8b58",
+      "content_sha256": "284e835e06cf20a2c4e36c04fa46a2f1d2575c219f02af58c20b9053ab6143b6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        214,
+        215,
+        216
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 273,
+        "simplified_codepoints": 273
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "d0aecf0b6595d6e70e78d830",
+      "title": "常服散子",
+      "volume": "卷第三",
+      "content": "人参（半两） 黄耆（半两） 当归（半两） 白术（一分） 木香（一分） 陈橘皮（去白，一分） 甘草（二分，炙） 青橘皮（去白，一分） 沉香（一分）\n上为细末。每服三四钱匕，水一煎，姜二片，同煎，取七八分，不计时服。遇气痛时，每服添枳实末一二豆许。\n上陈侍御宜人，尝因不喜悦中食柑，自后遂苦心腹痛，久之腹中结块，遇痛作时，往往闷绝，移时方苏，而常在夜间。是时，侍御作辟痈博士，京师医者皆不能治。有斋生蜀人史堪载之者，医闻一时，乃处此二方服。\n一两月间，遂去根本。后二十余年，复因忧悒，此疾似欲再作而已，微痛即再合服之，数日而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 217,
+      "source_path": [
+        "卷第三",
+        "常服散子"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "4d30a2a63f9edcc45a122b5bcc877b51ed7eae03fb821ca4d9e1a95c8720e97e",
+      "content_sha256": "5b4b2ee28704ec317089901992b73d7755be26067d875812ed7e01e6e664ded5",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        218,
+        219,
+        220,
+        221
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 262,
+        "simplified_codepoints": 262
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "778e963a0a0e78679a15dc9d",
+      "title": "治妇人产后胎衣不下",
+      "volume": "卷第三",
+      "content": "乡人万应之秘校传。\n凡产，有产后胎衣不合，诸血奔入，久而血上冲心，遂致不救者。有产前失血过多，胎衣干涩不下者。庸医不晓，例以破血药治之，不知血尽转涩，遂终不救。旧有产妇胎衣不下，呻吟痛楚，声不可闻，忽有人教之，用苎麻浸水两大碗，服之，即时呕吐，胎衣便下，遂得更生。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 222,
+      "source_path": [
+        "卷第三",
+        "治婦人產後胎衣不下"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b66e31123f28965d76aa804e5b0bf20e08f916471eb506840f77820d33b7ca79",
+      "content_sha256": "f8fab38ad9184017f829965d1c2f6dca1d133b9bea2476a5b5b24c0d58af6fca",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        223,
+        224
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 132,
+        "simplified_codepoints": 132
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "aa894cc170445df23041bf1c",
+      "title": "安肾丸",
+      "volume": "卷第三",
+      "content": "治本气怯弱，筋骨无力，或时疼痛。（信州李谅驻泊传。）\n熟干地黄（洗净，焙干，一两） 牡丹皮（半两） 附子（炮，去皮尖，半两） 金钗石斛（半两） 破故纸（炒，半两） 山药（半两） 肉桂（半两，去皮秤） 白蒺藜（炒，去刺，半两） 巴戟天（去心秤，一两） 肉苁蓉（酒浸一宿，一两。切，焙） 白茯苓（半两，去皮秤） 泽泻（微炒，半两） 萆薢（半两） 白术（半两）\n上件为细末，用炼蜜和为丸，如梧桐子大。每服三十丸至四十丸，用温酒或盐汤送下，食前空心服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 225,
+      "source_path": [
+        "卷第三",
+        "安腎丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "9c485424717a2a5155404a949cf8c65d3441ab538a2b22bf7fcc1de6c12a120d",
+      "content_sha256": "63281f78831aae650cfbee72423a62d096c5ec70e0f84dc39f1f93117c2a077e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        226,
+        227,
+        228
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 222,
+        "simplified_codepoints": 222
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "9e248de60f62648590d86da8",
+      "title": "神授散",
+      "volume": "卷第三",
+      "content": "治伤折内外损。（予屡用之甚验。）\n川当归（半两，洗净，别捣） 铅粉（半两，洛粉最上） 硼砂（二钱）\n上同研细。每服二钱，浓煎苏枋汁调下。若损在腰以上，先吃淡面半碗，然后服药。在腰以下，先服药，后吃面，仍不住呷苏枋汁。更以糯米为粥，入药二钱，拌和，摊在纸上或绢上，封裹损处。如骨碎，则更用竹木夹定，外以纸或衣物护之。沈存中云，长安石使君，一日在阛阓中，忽有呼其姓第，回顾不见。明日过市，复闻呼声，曰：我无求于人，以尔有难，特来救尔。石谢之，欲下马与语，其人止之，褫衣领中出一书，曰：有难即用。稠人中遂引去，石归视，乃此方也。石到京师，趋朝立马右掖门外，为他马所䞶，折足堕地，又为马踏，手臂折。舁至家，屡气绝，急合此药，服且裹，半夜痛止，后手足皆平复。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 229,
+      "source_path": [
+        "卷第三",
+        "神授散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "745e9ead0a27a950e14fc0f0f0ba58855bca0b0663226a8c13ef55dce0264d71",
+      "content_sha256": "6ae910f797590b369dd3a8d6b94e72c7f285c55c603c4e929cd6830fb4ec0c20",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        230,
+        231,
+        232
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 324,
+        "simplified_codepoints": 324
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "a85978854fb47bfa05bf78da",
+      "title": "普救散",
+      "volume": "卷第三",
+      "content": "治四时伤寒、浑身发热、四肢疼痛、头重眼疼，不问阴阳二证，并皆治之。（永平庞知监施此药。）\n苍术（一斤，米泔水浸三日，切，焙干） 干葛（半斤，切，焙） 甘草（四两，炙赤色，切细）\n上为粗末。每服二大钱，水一中盏，煎至七分，去滓，热服。如要出汗，加连根葱白二寸同煎，并两服，滓再煎一服，不拘时候，仍用沙铫，不得犯铜铁器。（初发伤寒宜下，此药汗后勿服。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 233,
+      "source_path": [
+        "卷第三",
+        "普救散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "1dfba74df6cbfa5459094cbd816e60847b071215f9b1624dd34a87e4cce894a8",
+      "content_sha256": "0fe4973b20f9d66f3f04fe7cbe0a1c9c3efc81cfe5568e1ce2da13ad939a6c4a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        234,
+        235,
+        236
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 174,
+        "simplified_codepoints": 174
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "aebac611d34fe54ac7bea281",
+      "title": "治喉口热毒至甚",
+      "volume": "卷第三",
+      "content": "咽喉胸膈，内连心肺疼痛，饮水不下，气不能出，死在须臾，名曰马闭。（绕州上官医传。）\n巴豆（七粒，去壳膜，研如泥）\n上以坏子一钱，同研成膏子。每用一字许，醋煎皂角汁，调令稀稠得所，将鹅毛蘸药，扫于喉间，良久，咳唾出脓血或涎数升，然后用第二法。其法白矾飞过，白僵蚕微切，各半两，为细末。每服半钱，新汲水调下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 237,
+      "source_path": [
+        "卷第三",
+        "治喉口熱毒至甚"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "d914b4b3ed1a3901363ab9ad048cc88e2cf21250fdf1dfae5a63225ccc845514",
+      "content_sha256": "9f7d6be9d5c4bbdf79cb44f4ca75c027576bae934ced9ff8e91e4a8936246f52",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        238,
+        239,
+        240
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 152,
+        "simplified_codepoints": 152
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "0a33a85f10231bb99029edec",
+      "title": "肉豆蔻汤",
+      "volume": "卷第三",
+      "content": "治胸膈痞塞不快，脾胃有伤。（景卢传。）\n肉豆蔻（炮） 草果子（去皮） 石菖蒲 干木瓜 良姜 干姜 厚朴（姜炙） 甘草（炙，各一两）\n上等分，为细末。每服一钱，盐汤点服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 241,
+      "source_path": [
+        "卷第三",
+        "肉豆蔻湯"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "bd82d7bc6a5eeb4998090616e463adc9f8d7827b7c5dddb4c425b29e0533b015",
+      "content_sha256": "73dd4cea6f096fb66d037f35b6f8b741140e47ce95c91d9d15bca20ae23bd406",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        242,
+        243,
+        244
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "953fde78b4daa2369b0bf102",
+      "title": "治舌衄。",
+      "volume": "卷第四",
+      "content": "二方出方氏《泊宅编》。\n槐花\n上炒为末掺之。昔有士人，无故出血，仍有小穴，医者不晓何疾，偶曰此名舌衄，用此而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 246,
+      "source_path": [
+        "卷第四",
+        "治舌衄。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ac64646e5e717b4f76c8a6bb97caa8a243208923bbe412c19bff669c21e987b5",
+      "content_sha256": "75436e9f61820d3a236ed839cd9462529bd0a96528cdb319ee51e8e59b5b017d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        247,
+        248,
+        249
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 56,
+        "simplified_codepoints": 56
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "2c13964bf62523f17d048bac",
+      "title": "治舌肿。",
+      "volume": "卷第四",
+      "content": "蒲黄\n上为末掺之，须真者佳。一士人沿汴东归，夜泊村步，其妻熟寐，撼之，问何事，不答，又撼之，妻惊起视之，舌肿满口，不能出声。急访医，得一叟负囊而至，用药掺，比晓复旧，问之，乃蒲黄也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 250,
+      "source_path": [
+        "卷第四",
+        "治舌腫。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "45303c19ffadd908ad01d8d54c820f457bef7b346d0da8547d325e0cab53e69a",
+      "content_sha256": "2d50a02e0eb56ea6e358a2da8c6e7491d1586fddd4475782b160034b2aae1a69",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        251,
+        252
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 91,
+        "simplified_codepoints": 91
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "7492bb02d2520bd7bee04d6b",
+      "title": "治汤火伤。",
+      "volume": "卷第四",
+      "content": "大黄\n上捣碎。调以美醋，敷疮上。《夷坚志》云：金山修供神，怒庖人不谨，渍其手镬中，痛楚彻骨，号呼欲死，神授此方遂愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 253,
+      "source_path": [
+        "卷第四",
+        "治湯火傷。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "7a3b1169cf8700eade5e9aa04fcda9cacf62f556edc8baee754f4ceb88dd81be",
+      "content_sha256": "96fd713e998a488e866ae666329737715d3a3a389d1bbd9c7e176a0c5b07dbbe",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        254,
+        255
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 58,
+        "simplified_codepoints": 58
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "604a2200d8f474b70f6ff9c1",
+      "title": "苁蓉丸",
+      "volume": "卷第四",
+      "content": "暖水藏，明目。（京师老李画传。寻常眼药多凉，非水藏之便。）\n苁蓉（二两，酒浸一宿，焙干） 巴戟 枸杞子 菊花 川楝子（各一两）\n上为末，炼蜜为丸，如桐子大。每服三十粒，温酒或盐汤下，空心，食前，临卧。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 256,
+      "source_path": [
+        "卷第四",
+        "蓯蓉丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b1dfb4f278b99fcfac5c7e70628682c236778a1a618faf65580acae68ae50141",
+      "content_sha256": "9a2d4b9bfdfab8a4df6d6873b50c05d303a36afa67df1b3a6cb699ccbb752cf2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        257,
+        258,
+        259
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 100,
+        "simplified_codepoints": 100
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "063378359ebcae1ce6c84894",
+      "title": "治干癣",
+      "volume": "卷第四",
+      "content": "（以下八方景卢传。）\n樟脑（一钱） 白矾（半钱，生用） 雄黄（半钱）\n并细研，以生姜自然汁、酽醋各少许，磨羊蹄菜根如手指大二寸许，调药擦敷。止有食顷痛极，不过三次见效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 260,
+      "source_path": [
+        "卷第四",
+        "治乾癬"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "bed9352c5ea1f35a88d5ad0c5c3507d57188d6e488e46a63b40631d6473eaa18",
+      "content_sha256": "9fef40670ccd0979cd7e15fc8b9371c4d6f7e1fbd9ccc400e4f291f11b58d91c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        261,
+        262,
+        263
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "f5cdd4cb6afa6d64243187b2",
+      "title": "治淋。",
+      "volume": "卷第四",
+      "content": "皂角刺（烧，存性） 破故纸（等分）\n为细末。红酒或无灰酒调下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 264,
+      "source_path": [
+        "卷第四",
+        "治淋。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "5325263e30cc1652b7ed3f73f9e197783141689847da3460f091a556a698bbbd",
+      "content_sha256": "27f4519b30d2cd4f599e246ee995efbd1c0749f45d9d46da6ddc761af07964c2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        265,
+        266
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 31,
+        "simplified_codepoints": 31
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "5861aef9cd60ec03667be988",
+      "title": "治沙石淋。",
+      "volume": "卷第四",
+      "content": "定磁末，罗细，以生地黄槌碎，同煎。如熟水，时时饮之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 267,
+      "source_path": [
+        "卷第四",
+        "治沙石淋。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "1400331963c83b7533bac3e0d603b2e4f3835ce7692556f0372f283f40fa0b45",
+      "content_sha256": "c931475bad601afb23f4dcd3da5b88df3cf78b5a780b4a9ba5a7adcc928c2c31",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        268
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 26,
+        "simplified_codepoints": 26
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "389158ee72710effb94722c1",
+      "title": "治毒蛇伤",
+      "volume": "卷第四",
+      "content": "（屡试如方。）\n香白芷为末，麦门冬水调饮。仓卒时，新汲水亦可。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 269,
+      "source_path": [
+        "卷第四",
+        "治毒蛇傷"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "416769f9f5fb0d2a9bae6fabfeee0cb0b21bf31b1b332a81b1faa80988acef34",
+      "content_sha256": "7589ba7a544f73c38e0db50ecd20681fafbf8600a10b4f19f97f0b464fc65750",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        270,
+        271
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 31,
+        "simplified_codepoints": 31
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "528fb12505f82758296a1704",
+      "title": "治冷积降气，宽膈逐痰",
+      "volume": "卷第四",
+      "content": "橘皮去穰，取红一斤，甘草、盐各四两，水五碗，慢火煮干，焙，捣为末，点服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 272,
+      "source_path": [
+        "卷第四",
+        "治冷積降氣，寬膈逐痰"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "a86dcbde8bfe63533650cccbd5a06adeaa49d108ea3fc2d6b3980c2e1bbbec44",
+      "content_sha256": "34b252e6b0b1508a101f7cc925604960c529f38a72975030f69b2cb5c462cbc0",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        273
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 36,
+        "simplified_codepoints": 36
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "1ae209757870cbf170002c02",
+      "title": "补益治漏，秘精丸",
+      "volume": "卷第四",
+      "content": "大附子（炮裂，去皮脐） 龙骨（煅，通赤） 牛膝（酒浸一宿，焙） 肉苁蓉（酒浸一宿，焙） 巴戟（去心） 菟丝子（酒浸三宿）\n上等分为末，炼蜜丸，梧桐子大。空心，温酒或盐汤下三五十粒。甚者，日午再服。小便如米泔者，不过十服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 274,
+      "source_path": [
+        "卷第四",
+        "補益治漏，秘精丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f9eb267f06708d3ff2cca30380eb44657b86936c8a888319db0ce0a8d8f97b0e",
+      "content_sha256": "6081cbf11fa8b39b22648cd4a4032ca37a0f7ce53d840183af88a6a7c94d1ad9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        275,
+        276
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "7cb2388c07d4275333e36d10",
+      "title": "治伤折骨碎",
+      "volume": "卷第四",
+      "content": "此方用之甚验。\n大鳔胶一味，碎锉，用无灰酒煮烂如粥，逐旋抄吃，极苦硬，须强进之，以多为度，每二两或四两为一服，伤甚者，不过半斤。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 277,
+      "source_path": [
+        "卷第四",
+        "治傷折骨碎"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "37e80da066317b19823d3c3db08b853e8314a022f87da3c942da9832d1548459",
+      "content_sha256": "df4ec0334866891169a2406c4f0eb86f32188bef285d4a9bd0863587adc4bfc1",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        278,
+        279
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 64,
+        "simplified_codepoints": 64
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "8093e0f5710da9fdbdc40795",
+      "title": "治疝气偏坠",
+      "volume": "卷第四",
+      "content": "牡蛎（火煅） 良姜\n上二味为末。用津唾调涂之，立消。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 280,
+      "source_path": [
+        "卷第四",
+        "治疝氣偏墜"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "743ec931a9393b5f0026f22231a987ac6b4a700bbfdd8c936e9a466e5172d396",
+      "content_sha256": "81423bf4c6ba3b1726933448391d7feee2aa13dd2da77c61bb8c1178d7b3f891",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        281,
+        282
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 26,
+        "simplified_codepoints": 26
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "09dff172d04b25f8de07fd53",
+      "title": "乌金散",
+      "volume": "卷第四",
+      "content": "专治痔疾，神验。（以下五方，饶州王康孺翰林传。）\n黄牛角腮 乌金子 五倍子 紫河车 威灵仙 枳壳\n上等分，入瓷瓶内，用白雄鸡粪和黄泥固济，上留一窍子，炭火煅，烟尽为度。取出地上，出火气，为细末。每服三钱，空心酒调下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 283,
+      "source_path": [
+        "卷第四",
+        "烏金散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "11cf2c91e3674c7dbaafbde23cd679904d4ce0cf86c3a09b3046a059c3a96525",
+      "content_sha256": "bbd7d7b7a75961e845c91200b5ffa9bac413c9744865dded6930f6969c6e5842",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        284,
+        285,
+        286
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "f0d5306050bf930e088d8fba",
+      "title": "倍苓丸",
+      "volume": "卷第四",
+      "content": "治肠风下血。\n槐花（六两） 五倍子（三两） 五灵脂（三两）\n上件为细末，面糊为丸、如梧桐子大。每服三十丸，米饮下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 287,
+      "source_path": [
+        "卷第四",
+        "倍苓丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "d4a93a3cf94e9c6294b0510315dd36248e0ad6b2e25c694b49a6337724b2c357",
+      "content_sha256": "8a7fcfe117aafb4fac9bb9e494392766325deccccc35eafc24a1a0c936bb5ed6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        288,
+        289,
+        290
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 57,
+        "simplified_codepoints": 57
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "33b903b45f2cdaa41ac9906b",
+      "title": "治风毒气眼",
+      "volume": "卷第四",
+      "content": "连眶赤烂，洗眼神妙。\n白沙蜜（二两） 乳香（通明者，一皂子大，温水浴过） 好黄丹（抄半钱）\n上一处，于砂石器内，或银器内，用慢火熬令焦黑色，滴在水中不化为度。每用两黑豆大，沸汤浸洗眼。药成，露一宿方好。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 291,
+      "source_path": [
+        "卷第四",
+        "治風毒氣眼"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "38b866ad23b8c54a4907c3a4b4b8052c1af94e6473be6e0c499773067a99e921",
+      "content_sha256": "964577b7d4a9603fac15523b00d0abb793cc4a7038d47aed9fbc65f0721660e6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        292,
+        293,
+        294
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 101,
+        "simplified_codepoints": 101
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "8ede9e93502461f5f2349bc3",
+      "title": "治腰痛。",
+      "volume": "卷第四",
+      "content": "五加皮\n上不拘多少，为细末，如梧桐子大，酒煮面糊为丸。每服三十丸，空心温酒下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 295,
+      "source_path": [
+        "卷第四",
+        "治腰痛。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2bde5d99d16fa1987e4678cec58ed833824239ccc47b00a88505672bd8bc96df",
+      "content_sha256": "e2f463b29927f2991c1aa20a8f1f491bf2931c2298d58094a9c241538eb9a036",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        296,
+        297
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 39,
+        "simplified_codepoints": 39
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "db7fb41156abeff853cdd589",
+      "title": "秋石丹",
+      "volume": "卷第四",
+      "content": "治男子妇人虚劳瘦。\n秋石（一两） 干山药（一两）\n上为末，别以酒调山药为糊，如梧桐子大，又以干山药为衣。每服二十丸。（温酒米饮任下。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 298,
+      "source_path": [
+        "卷第四",
+        "秋石丹"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b7a71275d007b36e17b9390ae1ea492710a2ecb51fcbd313d390c710ef48f85f",
+      "content_sha256": "949a76d5cb2f9b40f5a85b9db2f94874b36e2fe5fe3614c609e1f0afe8ba6405",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        299,
+        300,
+        301
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "43dabf0a1fbd91589287e813",
+      "title": "治诸痫",
+      "volume": "卷第四",
+      "content": "道人黄大成传。屡用之如方。\n鸭舌胆矾（煅，存性）\n上为细末。每发时，用一字，以笔管吹入鼻内，涎出即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 302,
+      "source_path": [
+        "卷第四",
+        "治諸癇"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "a380b0a4ddd5f3aeb60c258d99093958287e2da56ef006b58b2f6f873cd775b9",
+      "content_sha256": "054d6ab7d673c446a03d8b92ee3712ccb4f26fa4000255211562752c84c27bed",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        303,
+        304,
+        305
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "71584a6452e31abd80b012a6",
+      "title": "治豆疮倒擪入肉",
+      "volume": "卷第四",
+      "content": "景卢传。\n人齿一个，（不以久近）。烧成灰。用獖猪尾血调和了，入酒小盏同服之。窦永仲教授，年六岁时生疮，为邻近焚花所触，尽擪入肉、诸医束手，母已发声哭。亲戚刘知县说此方，才饮酒了，元疮随手如故。（予见《沈存中良方》亦载此，用人齿三五枚，炙黄，为末，乳香汤调下，温酒亦得。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 306,
+      "source_path": [
+        "卷第四",
+        "治豆瘡倒擪入肉"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e5005a3620b83c7ffae9a71856a370f288b27870c779537dd7bcf1e55ce261e9",
+      "content_sha256": "647783a5f7bfd2029df7309fab245024d1f62fbcf50ecac3263f15a6f884d3e2",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        307,
+        308
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 135,
+        "simplified_codepoints": 135
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "8997fd46a808e09cffe12a85",
+      "title": "治喉闭",
+      "volume": "卷第四",
+      "content": "陈子范教授传。\n皂角（半锥）\n上挝为末。用醋一碗，就锅内煎数沸，以帛滤滓，令病人服之。\n又方。（高逢辰制干传。）\n麻油（少许，生油）\n上以箸绞油生沫。即以油沫饮之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 309,
+      "source_path": [
+        "卷第四",
+        "治喉閉"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "21f06489e946dbed898e9a02b5a86a415a6e339b25358eb43c23828446080cb5",
+      "content_sha256": "f9d0a633c56e2c0dec15194e75bf4d6ece3083f9cd9f4c5f5ea2dd96ae9efc9e",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        310,
+        311,
+        312,
+        313,
+        314,
+        315
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 82,
+        "simplified_codepoints": 82
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "8156752f7a60ad1bcf3eee28",
+      "title": "治腰痛",
+      "volume": "卷第四",
+      "content": "以下二方，孙仲益尚书传。\n芸薹子\n上用米醋研，调敷疼处。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 316,
+      "source_path": [
+        "卷第四",
+        "治腰痛"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "cfcb75b84cbb2ad6c223a26fca4a8d2e3d095ca41e06cd947f992a256aab7098",
+      "content_sha256": "120cf9f4548831f6fc7345804616328f43e99d1fee0701dd133055447640e027",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        317,
+        318,
+        319
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 28,
+        "simplified_codepoints": 28
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "c0f929c662bdb22008c0cb66",
+      "title": "治肠风",
+      "volume": "卷第四",
+      "content": "橡斗子\n上以干大枣置橡斗子中，以面裹，火炮，碎为末。用陈米饮作一服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 320,
+      "source_path": [
+        "卷第四",
+        "治腸風"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "fb5ef2e7a854df7d2d463e52d05e31a64f296bb9235a96992264b3497026791e",
+      "content_sha256": "f356417df847b4dbecdc8bc91e01e88dc2949e29f9a79e9b542f7d4b89176f54",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        321,
+        322
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 34,
+        "simplified_codepoints": 34
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "c0ee78d908bec3932cbfd27e",
+      "title": "疮药方",
+      "volume": "卷第四",
+      "content": "饶州十七里李家传，甚妙。\n丛竹壳 野油麻叶 陈屋茅 百合花（干者） 猫儿骨\n以上烧灰，入轻粉，和麻油调涂。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 323,
+      "source_path": [
+        "卷第四",
+        "瘡藥方"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "55ed9ef9b94c3782e6c7129e687d3e54858e1f353172b0444f8a0a9cf86fd1e1",
+      "content_sha256": "94b7216bf91c0f0225e4415f80e8c85ef30ea3254b6b35ea4971d3fca7a1f910",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        324,
+        325,
+        326
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 53,
+        "simplified_codepoints": 53
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "088c0bbf5505acfc870c42de",
+      "title": "治癣",
+      "volume": "卷第四",
+      "content": "羊蹄根（切作片）\n上至五更初，先以布揩癣上，即取羊蹄根、烂嚼，止用汁涂，后以其片揩之，将冷水嗽口及洗手。初用药时，忌不得语，欲气勿泄也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 327,
+      "source_path": [
+        "卷第四",
+        "治癬"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "938e2fb4ab0b3d4883975145185e4f8f1171d4bdb3a32b9005c0f543fc21e0a2",
+      "content_sha256": "95c440ad20a55a8411e0f288685f3bb041822901ecae51497e65ee59a478b4bc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        328,
+        329
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "f28358a759dbda3abfd5816e",
+      "title": "接骨方",
+      "volume": "卷第四",
+      "content": "牡蛎（少许）\n上为末。用糯米粥调之，涂其上，欲以沙木板夹之即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 330,
+      "source_path": [
+        "卷第四",
+        "接骨方"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "352e04cc71786a7f684ee41a486b042f4a813d8ecb682af56d1979b65e4faba2",
+      "content_sha256": "2924ada86be62e88f15f129b71c861d42a08ac1a38cbdbdf1f9ea9e5292e30a8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        331,
+        332
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 32,
+        "simplified_codepoints": 32
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "25a337a99e0c51b5ede0fbec",
+      "title": "治漏疮",
+      "volume": "卷第四",
+      "content": "高逢辰制干传。\n麝香 腊茶\n上等分，为末。干敷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 333,
+      "source_path": [
+        "卷第四",
+        "治漏瘡"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "d9942bbbedf12e5aefc83f8ec807d32fd94406a53a2cf8de512c6034744b5ee0",
+      "content_sha256": "f5aa097fc389cbe2294ecc231a0c4b4b0be88683021b3adfdb095778edbfd775",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        334,
+        335,
+        336
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 24,
+        "simplified_codepoints": 24
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "7e094b2edda1c55f99260932",
+      "title": "治外风入疮口肿毒方",
+      "volume": "卷第四",
+      "content": "全蝎（一个） 白僵蚕（三个，去丝） 蝉蜕（三个）\n上为细末。裂葱汁调涂即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 337,
+      "source_path": [
+        "卷第四",
+        "治外風入瘡口腫毒方"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2e022c8a8779e2e80fa7313d5c093a1dd76ec1da5ac0e2064ab64250c3804f9d",
+      "content_sha256": "201593c2b8d85ffb5a5bcf2ce3f8dc7631e599e947bf682a6752672d1b13af22",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        338,
+        339
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 38,
+        "simplified_codepoints": 38
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "bd7dab91b43a3fa60a07a675",
+      "title": "癣药",
+      "volume": "卷第四",
+      "content": "白矾（飞过，一两） 黄丹（半钱） 白药子（半两）\n上为细末，旋掘羊蹄根独脚者，（一根者是）。取自然汁调药。先用布擦癣，微破，用药敷之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 340,
+      "source_path": [
+        "卷第四",
+        "癬藥"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "5cc129f131eafe23133143d52ea6ca55e2b06cc37d37faf7c8d77e323cb5a7da",
+      "content_sha256": "bece393e526c3212e3003f77fd41b49006086c42b04e5d4a62f4cf6894112743",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        341,
+        342
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "de05a9c57f115a17c16082e1",
+      "title": "治喉闭",
+      "volume": "卷第四",
+      "content": "郭廷圭知县传。\n白矾（一斤。好者） 好酒（一斤，无灰）\n上同熬，以酒尽为度，入合子，临时用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 343,
+      "source_path": [
+        "卷第四",
+        "治喉閉"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "9c0e2777be576e1b10777e233d27abfc600fe07414433345483ea8d56201c65d",
+      "content_sha256": "ffb56650e1b6330bba984a46159dc17768d01b30a041dfce3f4eb0de87998a07",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        344,
+        345,
+        346
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 47,
+        "simplified_codepoints": 47
+      },
+      "order": 90
+    },
+    {
+      "chapter_key": "a445f6bd7079d3e87b7aaf22",
+      "title": "治盗汗",
+      "volume": "卷第四",
+      "content": "防风（细切）\n上为细末，浮麦煎汤服之。婺州汪伯敏将仕云，尝见周仲恭尚书言，旧有盗汗之疾，每至大屋，则肢体凛然，须以帏幕遮护，后得此方遂愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 347,
+      "source_path": [
+        "卷第四",
+        "治盜汗"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b1e56ebfb85f89a013085840567b6a745ae2275e0f6e7fd114471657b275e3a4",
+      "content_sha256": "2302a13cbb88966bf653531603bfadf65567f438d44dd80e471ca53a3c157d28",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        348,
+        349
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 69,
+        "simplified_codepoints": 69
+      },
+      "order": 91
+    },
+    {
+      "chapter_key": "8d84d69a0b12fe6ee643c593",
+      "title": "治伤风",
+      "volume": "卷第四",
+      "content": "五积散 败毒散\n上以二药合煎服之。盖五积性温、败毒稍凉，服之无不效者。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 350,
+      "source_path": [
+        "卷第四",
+        "治傷風"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "796856a7bdff984e4f603db80e7096991255b20ee2eb0fc55ab13678d6b96838",
+      "content_sha256": "171e93c521c979dbf56735705b39645eee5e701f33ea0fa07ca1fef9a1bb19a9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        351,
+        352
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 35,
+        "simplified_codepoints": 35
+      },
+      "order": 92
+    },
+    {
+      "chapter_key": "2604c1409a4c88a5b69eb073",
+      "title": "治脚肿",
+      "volume": "卷第四",
+      "content": "四物汤 小续命汤\n上以二药同煎。章谧静之节推云，尝有人猝患脚肿，服此遂愈。\n甘豆汤 治脚肿。\n黑豆\n上同煎汤服之。郭镇廷圭知县云，昔年太学士人，围闭中，多患脚肿，至腹则死，前后如此者非一人。后有施此方，服之皆愈，盖神方也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 353,
+      "source_path": [
+        "卷第四",
+        "治腳腫"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "a2bc82d76bcd3e1bc8cf831c71786c2443e4ebf54dc1391cd49effb72a504fe3",
+      "content_sha256": "aa4c0e9903402b3f545baac3498b18dddaf67b88a320db1baba6616ce8fb803c",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        354,
+        355,
+        356,
+        357,
+        358
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 93
+    },
+    {
+      "chapter_key": "9c89e2685e551f0c5e3d5291",
+      "title": "灸劳法。",
+      "volume": "卷第四",
+      "content": "以肚脐相对，取背脊骨灸之，甚妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 359,
+      "source_path": [
+        "卷第四",
+        "灸勞法。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "d0799df52a2b76f9ab12078128bf0ff093b2d6ea24a1f5aa8eed42526cc5b8aa",
+      "content_sha256": "1b072d2917b04aa489b924f1305f02cee8624a1c194caffc4b9ee597236f72c3",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        360
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 16,
+        "simplified_codepoints": 16
+      },
+      "order": 94
+    },
+    {
+      "chapter_key": "4610cb489106a664cd3c2bc1",
+      "title": "治头风头痛。",
+      "volume": "卷第四",
+      "content": "人中白 焰硝（各一两）\n上用水一碗，无灰皮纸滤下，研细，重汤煮过，再研，入少脑子。每用少许，以斡耳子搐入鼻中即愈。襄阳府胡急脚，专货此药，积钱至数万缗。秘惜不传，上官医以计得之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 361,
+      "source_path": [
+        "卷第四",
+        "治頭風頭痛。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e30138903a2c547d95566a5293b9020ffc6413906f7daa1a5e4989a28aa8f3be",
+      "content_sha256": "8b60fbfc6a62a4707ea2f8b95c33a9e9b4960b3b99025128b3e6ce1aff662c7d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        362,
+        363
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 89,
+        "simplified_codepoints": 89
+      },
+      "order": 95
+    },
+    {
+      "chapter_key": "42f79a84397d706ec906c19c",
+      "title": "茶牙汤",
+      "volume": "卷第四",
+      "content": "治偏正头疼，恶心呕吐不止者。\n细茶牙（一两） 生草乌（半两，去皮尖） 细辛（半两）上为粗末。每五钱，水二盏，慢火煎至六分，去滓温服，一服取效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 364,
+      "source_path": [
+        "卷第四",
+        "茶牙湯"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "46aaceaff7e1ff6d24d8898b6945b4bfa66132cd3c9f152fd3d4b93e52f21fd0",
+      "content_sha256": "c576e19960a30d77ad1fe537d5a5df9b1b5cd6664809b83c663e9cdae17319ca",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        365,
+        366
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 71,
+        "simplified_codepoints": 71
+      },
+      "order": 96
+    },
+    {
+      "chapter_key": "b94dcac08fb33bf9458c8ed3",
+      "title": "附牛丸",
+      "volume": "卷第四",
+      "content": "治丈夫妇人腰痛重膇，步武艰辛，痛不可忍，附牛丸。（上官驻泊传。）\n附子（半两，炮，去皮脐） 黑牵牛（瓦上炒，令干）\n上为细末，酒煮面为丸，如梧桐子大。每三十丸，空心温酒下。如半边腰疼，只用黑牵牛，瓦上焙干一边、附子炮一边、余一边生用，不去皮。捣罗为末，如前法服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 367,
+      "source_path": [
+        "卷第四",
+        "附牛丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "d14cf0f0584e4f2ade77e60970ca02896b46c117ad3d10cbc19b069512744dc9",
+      "content_sha256": "a101a1dc1da3ce7bf6dca5b0e4de38b022b7e5e73f20ade8da21d6f536c12cda",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        368,
+        369,
+        370
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 131,
+        "simplified_codepoints": 131
+      },
+      "order": 97
+    },
+    {
+      "chapter_key": "cd907cdadfd3b7715dbad324",
+      "title": "治烂缘风眼",
+      "volume": "卷第四",
+      "content": "覆盆子\n上取叶挼碎，以汁滴眼中，即有虫出。上官医云：顷岁寓居潭州浏阳县石霜寺，有皇叔太尉者乳媪，患烂缘风眼，近二十年。一日有药妪过之，曰：老婆能治此眼，眼中有虫赤而长，其细如丝。遂入山取药，其家遣人尾其后，但见沿山路采取树叶，以手挼碎，入口咀嚼，留其汁，以皂纱蒙患人眼，握笔画双眼于纱上，然后用药汁滴于眼之下缘，须臾虫自纱中出，其数十七，其家甚喜。妪去数日复至，则眼下缘肉干如常人，再用前法治眼上缘，得虫又以十数。妪谓上官曰：公为医官，不可不传此方，须以钱二万偿我。上官诺之。遍召傍近村妇患此眼者治之，无不瘥。妪又曰：是方出本草果部中覆盆子注，云叶挼绞取汁滴目中，去肤赤，有虫出如丝线。上官屡用之皆效。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 371,
+      "source_path": [
+        "卷第四",
+        "治爛緣風眼"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e9dde3ec14859b4b01017764bdde44e4627a585b2e109df71e99f6942a7b3287",
+      "content_sha256": "43305e7a34f6decb53a46fff5cc9931afbfe6f42da4f7f233d7ce5a173e91377",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        372,
+        373
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 301,
+        "simplified_codepoints": 301
+      },
+      "order": 98
+    },
+    {
+      "chapter_key": "03f15d5cd0bf9c6f091596ff",
+      "title": "治䯡疮",
+      "volume": "卷第四",
+      "content": "上官医传。\n鳝鱼\n上以鳝鱼数条，打死。先用油涂其腹，置患人腿上，盘令周遍，以帕子系定。食顷，患人觉痛不可忍，然后取鳝，鳝腹上有针眼大窍子，皆虫也。虫既去尽，却用死人胫骨烧灰，涂疮口，即愈。（《沈存中良方》亦载活鳝治漏疮。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 374,
+      "source_path": [
+        "卷第四",
+        "治䯡瘡"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "62d6e229a164d8a2542341868846d3e1f201e0b7522409a7c69ad76fc3d87235",
+      "content_sha256": "31f914bb64a9227698da7dd000d7d031a0f62cb576b17e4021fd4a1b9b6a6311",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        375,
+        376,
+        377
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 99
+    },
+    {
+      "chapter_key": "8879799f84262a9134ee4bb3",
+      "title": "治癣疥。",
+      "volume": "卷第四",
+      "content": "宣连（去须，酒浸一宿）\n上焙干为末，蜜丸如梧桐子大。空心日午临卧，酒吞二十粒。东坡云，惠州军校姚欢，年八十余，须发不白，自言年六十岁。患癣疥，周匝顶踵；或教服黄连，遂愈。久服，故发不白。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 378,
+      "source_path": [
+        "卷第四",
+        "治癬疥。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2e01a0a353797ea76fe3ba23b1c463bac6009cd9144b5c66a9e2183c7dc8aca3",
+      "content_sha256": "20e80183c954159bd7b85682df302d59b66d233a40ba5bc00680f5333df555c5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        379,
+        380
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 93,
+        "simplified_codepoints": 93
+      },
+      "order": 100
+    },
+    {
+      "chapter_key": "74840677ee69e63facf0d76f",
+      "title": "治脚气灸法。",
+      "volume": "卷第四",
+      "content": "上灸风市两穴，以多为贵。蔡元长为开封少尹，一日据案，忽觉虫自足心行至腰间，落笔晕倒，久之方苏。椽曹曰：此疾非俞山人不可疗。使呼之，俞曰：真脚气也，灸风市一艾而去。明日又觉虫自足至风市便止，又明日疾如初。召俞，俞曰：是疾非千艾不可，一艾力尽，故疾复作。蔡如其言，灸数百，自此遂愈。（沈公雅检正说：予绍兴辛巳岁在吴门，虚郡宅以备 巡幸，徒治吴县。县卑湿，始得足痹之疾，以风市为主，兼肩隅、曲池、三里，灸之即愈）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 381,
+      "source_path": [
+        "卷第四",
+        "治腳氣灸法。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3b2247ea16479c79924b1474471a9b95ad05e06feeb10a3d3a71fab404f6f142",
+      "content_sha256": "213fe70f2edfdfcd99151c65d83083cba202acf71ae4b8b440bef5d304907c8c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        382
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 204,
+        "simplified_codepoints": 204
+      },
+      "order": 101
+    },
+    {
+      "chapter_key": "313fe61cdb8c16407ab4d5ea",
+      "title": "治毒蛇咬",
+      "volume": "卷第四",
+      "content": "毒气已入腹，青黯肿胀，痛不能忍。（太平州汤三益翰林传。）\n生白矾末。须看所咬疮口大小，然后抄矾末于刀头上，熔令沸，乘沸滴在疮口上，随手痛止。若腹中毒气未退，依前黯肿，即取草决明叶两握，研取自然汁，以热酒侵下，却将滓贴疮口上，软帛轻手系之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 383,
+      "source_path": [
+        "卷第四",
+        "治毒蛇咬"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "fb939c569c856df72cb2f357efb398d409bb221e75a140d4031cacd456797cbd",
+      "content_sha256": "bdb2408e497e822b2dd075414ab2b6e46ead7a692c01de40501a319a585ce31a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        384,
+        385
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 102
+    },
+    {
+      "chapter_key": "a4097d073309d2f358636c5e",
+      "title": "治鼻衄不可止欲绝者",
+      "volume": "卷第四",
+      "content": "上茅花，无即以根代。每服一大把，锉，水两碗，煎浓汁一碗，分二服。沈存中云，林次中御史在楚州，尝访一故人，久之不出，或问之，云：子妇衄血垂尽，方救视未及延客。坐中一客云：适有药，急令掇茅花一大把，煎浓汁一碗，带囊中取小红丸二粒，令茅花汤吞下，一服即瘥，而不言其方。后有人闻之曰：此只是茅花之功耳。试复问之，其人大笑曰：诚如此，红丸乃含香朱砂丸，恐不信茅花之功，以此为记耳。存中在鄜延时，一将官卒病衄甚困，以此疗之即瘥。又徐德占教衄者，急灸项后发际两筋间宛宛中，三壮立定。盖血自此入脑，注鼻中，常人以线勒颈后尚可止衄，此灸决效无疑。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 386,
+      "source_path": [
+        "卷第四",
+        "治鼻衄不可止欲絕者"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b4a97ed492a3e36da74c4ff72950ebc6032a354826fb17c4f90adecaded7d294",
+      "content_sha256": "5ce4a4552b950460efab5758db1bb4db03a555fe5d5faeca2ec2fd9eff13ad70",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        387
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 264,
+        "simplified_codepoints": 264
+      },
+      "order": 103
+    },
+    {
+      "chapter_key": "8840530e152e6d2fdfb7cb21",
+      "title": "治诸鲠。",
+      "volume": "卷第四",
+      "content": "以木炭皮为细末，研令极细。如无炭皮，坚炭亦可。粥饮调下二钱，日四五服，以鲠下为度，此法人家皆有。沈存中云，在汉东乃目睹其神，有刘晦士人邻家一儿，误吞一钱，以此饮之，下一物如大乌梅，剖之，乃炭裹一钱也。池州徐使君极宝此方，数数用之，未有不效者。近岁累有人言得此方之效，不复悉载。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 388,
+      "source_path": [
+        "卷第四",
+        "治諸鯁。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "36325e0f0f8d054ebf495a2554caebf81f1a954ca80bc2822c1d5e4382708dc5",
+      "content_sha256": "74e8f68a77b2c429261ddd6e1fcbcc3c3863c14ca53ccbe6653c5d244057fd85",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        389
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 138,
+        "simplified_codepoints": 138
+      },
+      "order": 104
+    },
+    {
+      "chapter_key": "1ff6259affc9437ed74fb637",
+      "title": "治盗汗。",
+      "volume": "卷第四",
+      "content": "当归（半两，去芦，细切） 人参（半两） 猪心（一个，雄者，细切）\n上以猪心分四片。用一片，水三盏，煎一盏半，作二服。（一方，当归人参各一两，雄猪心半个。细切，五盏水，煎三盏，去滓两服。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 390,
+      "source_path": [
+        "卷第四",
+        "治盜汗。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "cb082e5ffe1f568988828bb62ef405904bcedb79fd02e37e09e9df96123c1c06",
+      "content_sha256": "3c438ed85ed64a5143dab504ef2584cc3067c05af8b2a543046939477e4c41df",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        391,
+        392
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 93,
+        "simplified_codepoints": 93
+      },
+      "order": 105
+    },
+    {
+      "chapter_key": "240d31a26ea76bc630088489",
+      "title": "龙须散",
+      "volume": "卷第四",
+      "content": "治中暑，迷闷不省人事，暑月代一切暑药。（予暑月常合此药，以饮从者。）\n甘草（一两，炙） 乌梅（一两，去仁，瓦上焙干） 白矾（半两，生研） 五倍子（一两，拣）\n上为细末，入白面四两，同和匀。每服一大钱，新水调下。如泄泻、霍乱作渴，一服即愈。虽平日不敢饮冷者，以冷水服药不妨。（世传仁庙所赐近臣方。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 393,
+      "source_path": [
+        "卷第四",
+        "龍鬚散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "cb38df753e638e0df85ff482d6c56391521605e4aca6398d69068ba7f39b8a2b",
+      "content_sha256": "6cc36add20417844a2bb425b4b869fe893341f425225a287ddcac40cb2d4d6f6",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        394,
+        395,
+        396
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 148,
+        "simplified_codepoints": 148
+      },
+      "order": 106
+    },
+    {
+      "chapter_key": "eeaf5064dd7f9376bd239098",
+      "title": "治风牙疼",
+      "volume": "卷第四",
+      "content": "华阴细辛 多年石灰\n上二味，等分为末。每用少许，揩牙，沥去涎，温水灌漱立止。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 397,
+      "source_path": [
+        "卷第四",
+        "治風牙疼"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "30f0ca26f19b6e37471b103854fe8aa7300e6cfccbd3c9a2c667a0aec7c1b4b8",
+      "content_sha256": "771e88d5eb8d7119294c34d10f38deeb6f06c7e29d671355f4e90fb91301d070",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        398,
+        399
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 38,
+        "simplified_codepoints": 38
+      },
+      "order": 107
+    },
+    {
+      "chapter_key": "07b79bce2c78f889b92df8d0",
+      "title": "治蛀牙疼",
+      "volume": "卷第四",
+      "content": "巴豆，不以多少，去壳，面裹煨熟，去面，粟米飰同巴豆研为丸，如萝卜子大。每用一二粒，绵裹安于蛀孔内，仍睡，少时觉不疼去之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 400,
+      "source_path": [
+        "卷第四",
+        "治蛀牙疼"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "1e71458ad4017ba949f2ad77a81533701dfb618882bd92b5a53489a8baec7fc9",
+      "content_sha256": "4432b9637163a6564f974d11541ee3f4b98820b363a7616c72f68ae371bbe6b1",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        401
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 108
+    },
+    {
+      "chapter_key": "9be0a0792b7b606f0c90c00c",
+      "title": "治风牙蛀牙一切疼痛",
+      "volume": "卷第四",
+      "content": "每用药，止用一米大，仍以连纸贴之\n巴豆（一大个，去大皮） 豆豉（七个） 大蒜头（一个，去须，并去薄皮）\n上作一处，研极烂，丸作一团，用油纸裹。每遇牙疼，至卧时，先以温水漱口，次以针微剔所痛之处，以药实之，明日复以水漱灌即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 402,
+      "source_path": [
+        "卷第四",
+        "治風牙蛀牙一切疼痛"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "bc581d30df0322c67349c831dcf9443694bdb272a4ee5265a00ea25c33e47c6a",
+      "content_sha256": "31b54dcdebd0934b817935977b3f486555825b4afde7af5ca568b69165af2fa9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        403,
+        404,
+        405
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 109
+    },
+    {
+      "chapter_key": "5a001d897aa22ee13d202604",
+      "title": "治五种牙疼",
+      "volume": "卷第四",
+      "content": "不蛀破处者。\n细辛 干姜 川乌 草乌 荜茇 吴茱萸（各半两） 𦬣草（一两） 木律（一分）\n上为细末。先用盐汤蘸湿手，点药揩牙。候良久、药力败，用温水灌漱，齿痛即止。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 406,
+      "source_path": [
+        "卷第四",
+        "治五種牙疼"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3ae55a5ab3a998a9bd5f94c2746bd2ad10cd8ba66238d9d0758e9938f527abc4",
+      "content_sha256": "591099b8ba4aa17795de6e6a6ae043120e81d1d0d012ee931a22e7a7453fa6ca",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        407,
+        408,
+        409
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 82,
+        "simplified_codepoints": 82
+      },
+      "order": 110
+    },
+    {
+      "chapter_key": "91deedd61f746709c9ce8d23",
+      "title": "治风蛀牙如虫蛀破者",
+      "volume": "卷第四",
+      "content": "乳香（一钱） 巴豆（三粒，纸裹，压去油。）\n上火上熔乳香成汁，用巴豆不住搅和、候冷取出、圆成膏子。酌量牙齿窍穴大小，将灯上炙，旋圆，纳于穴中，痛即止。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 410,
+      "source_path": [
+        "卷第四",
+        "治風蛀牙如蟲蛀破者"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "a25bb7473760f3002a9cc16b890b6db5214ef3dadf777cf1dd99298db509edc2",
+      "content_sha256": "b219af1fd112b69e47b00fb3be4a0e1e8f326f1050c458b261ab14ea237ec3ee",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        411,
+        412
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 111
+    },
+    {
+      "chapter_key": "dbb50aea05e28f1676a94cd9",
+      "title": "治牙摇牙宣",
+      "volume": "卷第四",
+      "content": "汤致远知院传\n蘘草根（一名香附草）\n上去皮细切，用生姜汁浸一夕，次日曝干，晒为末用之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 413,
+      "source_path": [
+        "卷第四",
+        "治牙搖牙宣"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "50cc2de97aa57980f6e23cf8c435d451f515fe7237dfe70a4c5b8df0a9aa404e",
+      "content_sha256": "9ec6b44e063f4923e06251cdea306e6ecd058ff30d4c1ec6b49275dce3b735bd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        414,
+        415,
+        416
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 43,
+        "simplified_codepoints": 43
+      },
+      "order": 112
+    },
+    {
+      "chapter_key": "2ce21feffecaa0d729a3435e",
+      "title": "治暴嗽不止或失声者",
+      "volume": "卷第四",
+      "content": "（饶州上官医传。）\n款冬花（去枝杖，细锉，焙干，为细末）\n上用生蜜，搜和作饼子，贮火香炉中，如装香然。安药在火上，令病人开口噏烟，米饮吞下，临卧时。（予顷年见绍兴赵判宗云，先以款冬花在香炉中烧烟，却用小竹罩罩之，止露一窍，承之以口，凡三两次嗽即止）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 417,
+      "source_path": [
+        "卷第四",
+        "治暴嗽不止或失聲者"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "a9a486e7f4bddd20fbe975abbc1b020c9b2e4e1cd28f82c6d797c2efaf85e853",
+      "content_sha256": "e2543387ca6d63e712eedc794e583fa6a79a07287fd72398f848c23171bc3114",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        418,
+        419,
+        420
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 125,
+        "simplified_codepoints": 125
+      },
+      "order": 113
+    },
+    {
+      "chapter_key": "92bc6c017c084f7fa5d80337",
+      "title": "治恶疮久不较，诸药无效。",
+      "volume": "卷第四",
+      "content": "白鳝鱼头（干者）\n上烧为细末，用轻粉调涂。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 421,
+      "source_path": [
+        "卷第四",
+        "治惡瘡久不較，諸藥無效。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "4f60d00764cc3a070588ccc0a20a0945418aae28644978ad68d7c04e8a53ce1b",
+      "content_sha256": "61ae4d0bf8dd5b1ba0dc53a3070a65b93b9ef1f280a9f95904367130bb7c24ad",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        422,
+        423
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 21,
+        "simplified_codepoints": 21
+      },
+      "order": 114
+    },
+    {
+      "chapter_key": "8f09c1425d45f13d66a0a048",
+      "title": "治冷漏",
+      "volume": "卷第四",
+      "content": "行在邹春大夫传。\n蜣螂虫（化蝉者）\n上用三两枚，于瓦上炒成灰，干掺疮口。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 424,
+      "source_path": [
+        "卷第四",
+        "治冷漏"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "73e56c3bd2c1230c2a9f1ed134d353aeb080c47cf230e385d9efc07f2b202827",
+      "content_sha256": "7c0addb051bc952ae4d9f3086c3273b151c7569edf2071d307434e91c902b486",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        425,
+        426,
+        427
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 36,
+        "simplified_codepoints": 36
+      },
+      "order": 115
+    },
+    {
+      "chapter_key": "b9547faf4783997b0195a70c",
+      "title": "治喉闭",
+      "volume": "卷第四",
+      "content": "南硼砂（一钱） 青黛（一钱） 甘草（半钱） 白僵蚕（二钱）\n上为细末，用脑子少许，研和，干掺喉间即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 428,
+      "source_path": [
+        "卷第四",
+        "治喉閉"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "4c490b716cb9c928b1a14eb863497fc2983bc0843ef1fafbacc4e0ba4cc11707",
+      "content_sha256": "4a776f2898d09f48a27cc560a631d2e713594bf566d656174ecf6cbda3c5814c",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        429,
+        430
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 116
+    },
+    {
+      "chapter_key": "e1f5660157d2d1dab27b9b6c",
+      "title": "治咽喉肿痛",
+      "volume": "卷第四",
+      "content": "白矾（飞过） 甘草（炙，各半两）\n上为细末，干掺喉中，徐徐吞下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 431,
+      "source_path": [
+        "卷第四",
+        "治咽喉腫痛"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3816dd3a8e4e043ea6c2e2c49df41f001f59ff65b3a48f7fcf94d855714865b0",
+      "content_sha256": "ba57f8b158a518a9143ac92bdc6b7ab43cade5717c94b3195c35f33daece5be4",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        432,
+        433
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 32,
+        "simplified_codepoints": 32
+      },
+      "order": 117
+    },
+    {
+      "chapter_key": "ba4d755aa5313a8462844cd7",
+      "title": "治冻死",
+      "volume": "卷第四",
+      "content": "旧荐\n上用荐束冻死者其中，衮转不绝手，自然和气相续即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 434,
+      "source_path": [
+        "卷第四",
+        "治凍死"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "0b8c29e4b92303ce7281436e14cb86f331c33369f9dabcdcd03a918586d5219f",
+      "content_sha256": "3762b90e6b839a13ce045c922dff8ea9953d385d133f192d12203357dc28c957",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        435,
+        436
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 28,
+        "simplified_codepoints": 28
+      },
+      "order": 118
+    },
+    {
+      "chapter_key": "61d9ef96cd6981260cb4b4b6",
+      "title": "治暍死",
+      "volume": "卷第四",
+      "content": "泥浆\n上于行路中，旋以刀器掘开一穴，入水其中，捣之，却取烂浆，以饮死者即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 437,
+      "source_path": [
+        "卷第四",
+        "治暍死"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f7ecc4587b4edbf1546370dfa89eabcad8835326ce7b87d7c47915198f5acbfa",
+      "content_sha256": "9cfaed8bc01b8f8eba8795f3ae8c3524256f00f6f4b056e00f4c5c85671e8ed8",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        438,
+        439
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 38,
+        "simplified_codepoints": 38
+      },
+      "order": 119
+    },
+    {
+      "chapter_key": "ceb2d5230945138db40de1d3",
+      "title": "治溺死",
+      "volume": "卷第四",
+      "content": "予在鄱阳，尝有溺水者，身僵气绝，用此法治之即苏。\n干壁泥\n上先打壁泥一堵，置之地上，却以死者仰卧其上，更以壁土覆之，止露口眼，自然水气翕入泥中，其人遂苏。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 440,
+      "source_path": [
+        "卷第四",
+        "治溺死"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b14a681191a7fff74a79b36baa29cb20afbfb979d9323245c8374c5b410c24e1",
+      "content_sha256": "935caeea03030a0f61bb0895c97e37238568c4effa09f91d3a1c6c2ecca40f8d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        441,
+        442,
+        443
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 120
+    },
+    {
+      "chapter_key": "e8955b74dd9fac4f2df22cc9",
+      "title": "治火烧汤泼",
+      "volume": "卷第四",
+      "content": "醋\n上以酸者，用手擦地上泥涂之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 444,
+      "source_path": [
+        "卷第四",
+        "治火燒湯潑"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "60ddf08997101256a01cd2d7597cb7ca9fd6cb196a2a016c2d9c4e20cf013187",
+      "content_sha256": "7da9d349ff634bf04471590530229934be3eaf994a49499f5459a976c8d0525b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        445,
+        446
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 16,
+        "simplified_codepoints": 16
+      },
+      "order": 121
+    },
+    {
+      "chapter_key": "b30efffc32bd14b63ff1c5e4",
+      "title": "治汤火疮",
+      "volume": "卷第四",
+      "content": "釜镬下黑尘\n上以水烂研，入蜜及油，调敷立愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 447,
+      "source_path": [
+        "卷第四",
+        "治湯火瘡"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "57abb2f045538261680d8929035f11d4ad48fcfceab4f6565de72e42801149c9",
+      "content_sha256": "5d4e4fe782b145ac2b3f7b65b0931ce92aff04ed93a40eec32330bbf6a10bf06",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        448,
+        449
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 22,
+        "simplified_codepoints": 22
+      },
+      "order": 122
+    },
+    {
+      "chapter_key": "6c3b7c37d9fdc945546b01d4",
+      "title": "治嵌甲",
+      "volume": "卷第四",
+      "content": "青蝇（四十九枚） 麝香（百文）\n上取蝇折去两翼不用，以其余晒干，入麝为末。或急用，则取蝇置怀中，候干掺之，或疮干即入油调敷。（又一方用蜗牛一枚，橄榄核一枚，烧存性，同为细末，入腻粉），黄丹油调敷，然（不若此方为妙）。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 450,
+      "source_path": [
+        "卷第四",
+        "治嵌甲"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "202f1d5d84c9cd6b65636fb2299089abc16b2f6a8605ea6ebca89658df1c0dfd",
+      "content_sha256": "b1baa6570741a2375fbf50550c05ee49491a87c02af2bb07697abacb2b30e569",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        451,
+        452
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 108,
+        "simplified_codepoints": 108
+      },
+      "order": 123
+    },
+    {
+      "chapter_key": "212dc98ecf233ab443cc870d",
+      "title": "治小肠气",
+      "volume": "卷第四",
+      "content": "舶上茴香（一斤）\n上用生姜四两，研碎并滓汁拌和茴香，过一宿，晒焙干为细末，次用青盐二两，别碾入药，酒糊为丸，如梧桐子大。每服三五十丸，盐汤或温酒下，空心食前。郭廷圭知县云，旧苦此疾，岁不下五七发，服药一料，病根遂除，今以十五六年不作。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 453,
+      "source_path": [
+        "卷第四",
+        "治小腸氣"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "48888bcbd7007c281b3425d89ff82a49bcdcd8fa98311c35e50b1fc8f47ddf73",
+      "content_sha256": "9f2446339918a0b46c2390819a88974d7338587c643c3a17b80af4246e56d682",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        454,
+        455
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 117,
+        "simplified_codepoints": 117
+      },
+      "order": 124
+    },
+    {
+      "chapter_key": "d48376f60bf7d9a04ed4097e",
+      "title": "卷第五",
+      "volume": null,
+      "content": "妇人小儿",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 456,
+      "source_path": [
+        "卷第五"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b7e7434590da599173f453bc8e347664ff54180e3e5438f0aecabf6c267ac18c",
+      "content_sha256": "bdecc0c83ecd604550402f9b295f3a8e771641835cb9148cc66386c6c02175cf",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        457
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 4,
+        "simplified_codepoints": 4
+      },
+      "order": 125
+    },
+    {
+      "chapter_key": "a43c768f9441d4527470655e",
+      "title": "乌金散［一］",
+      "volume": "卷第五",
+      "content": "治妇人产后百病（饶州彭氏传。有歌答十八篇，文多不载）。\n表格\n（烧时切忌妇人鸡犬见，如见，服之无效，切须忌之。用一堑依此写讫，定四面，各立坯子，作一圈子。其头发、鲤鱼皮各用一藏瓶，去底入药，盛讫，却用瓦子盖，用好纸筋盐泥固济，乘湿放在土字上，用木炭火五斤烧通赤，取藏瓶放冷，打开出药）。\n血余（半两，依前法烧之） 鲤鱼皮（一两，依前法烧之） 没药（半两） 红花（一分，生用） 伏龙肝（一分 灶下取烧赤者土是） 凌霄花（半两， 色鲜者，焙使） 好香墨（半两，生用） 干柏木（一分，细研入，香好者可使） 当归（半两，去梢土，微炒，令香用之）\n上件九味，并细为末。产后母子热疾后胎死在腹，难产，生衣不下，血晕起坐不得，如见异花，口干心闷，乍寒乍热，四肢浮肿，言语颠狂，见神见鬼，不语，泻痢，腰膝疼痛，小肠尿血涩痛，崩中、呕逆不安、咳嗽涕唾、喉中如猫作声，面色遍身黑，赤点子生，眼涩腰肿，身发筋急，应是一切产后诸疾皆治。以酒一盏，煎取八分，调药两钱，空心频服之，用无灰酒大妙。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 458,
+      "source_path": [
+        "卷第五",
+        "烏金散［一］"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b5ecc7a15701ca8ee518d2fbcf0b7131f97aa04986a23eeb44ccfd8ff7d6da50",
+      "content_sha256": "70d23e4e1eed1cb6bdf3d6dd384e0d7861d3a5b56785932a76590fcf95c6d889",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        459,
+        460,
+        461,
+        462,
+        463
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 434,
+        "simplified_codepoints": 434
+      },
+      "order": 126
+    },
+    {
+      "chapter_key": "f98cea3cc7df5cbe610b4c05",
+      "title": "催生如圣散",
+      "volume": "卷第五",
+      "content": "黄蜀葵花\n上一味焙干，为细末。每服二钱，熟汤放温，调下神妙。或有漏血，胎脏干涩，难产痛剧者，并进三服，良久腹中气宽胎滑，即时产下。如无花，只用黄蜀葵子，烂研小半合，以酒调滤去滓，温饮尤佳。（予家常合以济人，甚验。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 464,
+      "source_path": [
+        "卷第五",
+        "催生如聖散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2a166a37a571f81ac45be926923cf2bcd1b85f763416aa93bc09898774af841f",
+      "content_sha256": "b601eb48689a1b4556d88cb4ccc56277e2579e044eaced15c38435bc8608ad05",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        465,
+        466
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 127
+    },
+    {
+      "chapter_key": "041423b4f67654f1fec31721",
+      "title": "万灵丸",
+      "volume": "卷第五",
+      "content": "治妇人月水湛浊不通，久无嗣息，血癖气痛，四肢浮肿，呕逆心疼，虚烦劳闷，面色痿黄，崩漏带下，寒热蒸劳，头疼齿痛，血下无度，淋沥诸疾，产前安胎，临产催生，产后胎结痛，伤寒，烦渴，泻痢，血劳，血运，筋挛，痰盛头疼，败血上冲，血刺，泄泻，咳嗽喘急，嗽血，血块起伏，气痞，气膈，血作腰痛，小便不禁，子死腹中，失盖汗不出，血风，脚手痹顽，凡产后诸疾，皆治。\n牡丹皮（洗） 川藁本（洗） 川当归（切开，裹面赤黑色者佳，洗） 白茯苓（去皮） 赤石脂（别研） 香白芷 官桂（去皮，不见火） 白薇（洗） 京芎（洗） 玄胡索（去皮） 白芍药 白术（米泔浸一宿，以上各一两） 甘草（炙） 沉香（不见火） 没药（别研，以上各半两）\n上件药材，皆用温水洗净，杵罗为末，炼蜜丸弹子大。每服一粒或半粒，空心温酒化下。凡妊娠临月，服此五六粒，产时无痛。如久无子，服二十粒，当月有子。并治积年血风，半身不遂，种种血疾，不问年深，皆可疗，神效不可具述。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 467,
+      "source_path": [
+        "卷第五",
+        "萬靈丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "52269e860d61d5997eae242378094d815601b34c5455384e65bacfe8660c024e",
+      "content_sha256": "9d28ca567e7d0de522baadf19160a79a8d121b641ee46cf5cbc6e5afb0dcb49b",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        468,
+        469,
+        470
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 407,
+        "simplified_codepoints": 407
+      },
+      "order": 128
+    },
+    {
+      "chapter_key": "fc8155f5161e02d4d1af70e2",
+      "title": "乌金散［二］",
+      "volume": "卷第五",
+      "content": "治血崩漏下。最治产后血崩，并小产血崩漏下。\n棕榈皮 乌梅 干姜（烧灰存性，三味各等分）\n上研细。每服二大钱，煎乌梅汤调，温服，不以时。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 471,
+      "source_path": [
+        "卷第五",
+        "烏金散［二］"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "7cb64934eed02aa1ddf7f5b4d59bf84f6b0ad3142a57bc4af337dd2c5c964625",
+      "content_sha256": "bb7a444023b6f73451c58147ae7799dd78e071d5fd96814fefe4d6e80cf3411a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        472,
+        473,
+        474
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 129
+    },
+    {
+      "chapter_key": "dd817f3500d5a94fc9fee241",
+      "title": "救生散",
+      "volume": "卷第五",
+      "content": "治急喉闭。产前产后有此疾，皆可服之。\n白僵蚕（半两，去丝，锉，略炒） 甘草（生，一钱重）\n上二味，各取末，秤，和匀。每服一钱匕，以生姜汁调药，令稠，灌下，便急以温茶清冲下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 475,
+      "source_path": [
+        "卷第五",
+        "救生散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ce4fd3d8eeef3ebee417a2ca31900ad83c9a1412a76009eca9ee434805a85136",
+      "content_sha256": "a03186432849bb64e4ec0df75549a780d3cab18a9c7b6ee2096775c6b1d5a020",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        476,
+        477,
+        478
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 130
+    },
+    {
+      "chapter_key": "4252229a35b28166513db6dd",
+      "title": "治妊娠忽然下血腰痛不可忍",
+      "volume": "卷第五",
+      "content": "鹿角（一两，锉） 当归（一两，锉）\n上二味作一服，以水二盏，煎至一盏，去滓温服，食前。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 479,
+      "source_path": [
+        "卷第五",
+        "治妊娠忽然下血腰痛不可忍"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "ff32f58d7c30792d69ff819c4d81228161ebbb5b9bf526ff7ef5a69296dd5685",
+      "content_sha256": "794895af8a561b2811c390850d63a57ac00dc8b3d65862b43daf73a189dad1ad",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        480,
+        481
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 43,
+        "simplified_codepoints": 43
+      },
+      "order": 131
+    },
+    {
+      "chapter_key": "2662b0c393a728ae0cdcbadc",
+      "title": "治妇人产后因惊或怒伤肝",
+      "volume": "卷第五",
+      "content": "或忧气逆中脘，或坐草风入子脏，遂成颠狂，或成中风不语，角弓反张，狂走歌唱不常。\n荆芥穗（瓦上焙干）\n上为细末。每服二大钱，热米饮调下，酒亦得，用之如神。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 482,
+      "source_path": [
+        "卷第五",
+        "治婦人產後因驚或怒傷肝"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "6b3280fc9c440573f8955e112bd3ba89cfb49548cc2d67669ec847a663c0c355",
+      "content_sha256": "6c7acf8bc9baaf00810427344c389032b2efadf7cfdf69f02ed4eccbddce8a05",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        483,
+        484,
+        485
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 76,
+        "simplified_codepoints": 76
+      },
+      "order": 132
+    },
+    {
+      "chapter_key": "aa6bd897c4302abd91c787d9",
+      "title": "催生药。",
+      "volume": "卷第五",
+      "content": "香白芷百草霜\n上等分为末。用童子小便，却入酒醋少许，沸汤调下，甚有神验。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 486,
+      "source_path": [
+        "卷第五",
+        "催生藥。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "87c8c7c5b7b6458dfaa4c75cc3c61b0d86ddf8500fdc84ace60ff5b1311ad11a",
+      "content_sha256": "37db8d25e81c3875442deb01054daae7f0930c6dee81fb25162a8b60522dd779",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        487,
+        488
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 36,
+        "simplified_codepoints": 36
+      },
+      "order": 133
+    },
+    {
+      "chapter_key": "1927e0417eafb3ee6cc8ae40",
+      "title": "滑胎易产神效八味散",
+      "volume": "卷第五",
+      "content": "（一名如意散。以下四方，太平州郭师显驻泊传）。\n甘草（二两，炙） 黄芩 大豆黄卷 干姜 吴茱萸 麻子仁 大麦糵（炒，以上各四两）桂心（三分）\n上为末。酒服方寸匕，汤饮亦得，空心食前，须入月方得，服过三十日。\n动作宜谨，勿上厕，恐不觉堕地，如此之易也。\n治产后虚眩，不能支持，两胁当脐急痛，气上冲，前后相引痛，治之如神，",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 489,
+      "source_path": [
+        "卷第五",
+        "滑胎易產神效八味散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "eaece041d1be994bafc0d4100710a454f5a87d153f80e753b79bfb3c3a48bcc1",
+      "content_sha256": "e179c259a6167629a281b057571d4fe07da541d2f028cc28f6b7308c973c197a",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        490,
+        491,
+        492,
+        493,
+        494
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 159,
+        "simplified_codepoints": 159
+      },
+      "order": 134
+    },
+    {
+      "chapter_key": "703c3c97882a3b2278ff0f9a",
+      "title": "羊肉汤",
+      "volume": "卷第五",
+      "content": "精羊肉（切，四两） 当归（切，半两） 川芎（锉，半两） 生姜（切，一两）\n上以水十盏，煎至三盏，掠上沫，去滓。分四服，空心热服，一日服尽，来日再合，两日滓并一日煎之，当一剂服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 495,
+      "source_path": [
+        "卷第五",
+        "羊肉湯"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "80e488dbb14f9bcc73aa0a320a015329cfaab5161ae7560af24073d972dcac56",
+      "content_sha256": "e6d45ee8dae3ad829e3a5856837912b8b3bf25d2fdbe1c07ef707d68004a12ab",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        496,
+        497
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 135
+    },
+    {
+      "chapter_key": "a2fe645aa1a609f2a5e6bc62",
+      "title": "产后防晕方",
+      "volume": "卷第五",
+      "content": "旧漆器\n上不以多少，烈火烧烟熏鼻中即醒。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 498,
+      "source_path": [
+        "卷第五",
+        "產後防暈方"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "2048ce18c3377ce087b156f5464e26c7ca6588ba9893dc697e67d3aff8dc2351",
+      "content_sha256": "32d453618f96d301cd16d040ee246ff90651b01ecef44ff79851da6300ddb90f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        499,
+        500
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 20,
+        "simplified_codepoints": 20
+      },
+      "order": 136
+    },
+    {
+      "chapter_key": "6207aa5e7b6b5026a848fb6a",
+      "title": "治产后大便不通",
+      "volume": "卷第五",
+      "content": "缘亡血过多，肠间干燥，甚至旬日以上，腹胀急，痛，闷冒，气喘，神昏力弱。欲攻之，则必致危殆，不攻则无缘得利。郭医云，尝用古方蜜导法，即时得下，且无所损，真活人之法。其方虽见仲景《伤寒论》，而产家不载，最为紧要。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 501,
+      "source_path": [
+        "卷第五",
+        "治產後大便不通"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "d8e15ab1ad64475732e7d9b82796653aff78c864eae31e163a78609336b4f183",
+      "content_sha256": "669ba8514de5e1c7c723516fb143c70b563c99ff00a2d933bccfd3206e71e72e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        502
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 104,
+        "simplified_codepoints": 104
+      },
+      "order": 137
+    },
+    {
+      "chapter_key": "3c492b3622af6a0a6c024f95",
+      "title": "顺经散",
+      "volume": "卷第五",
+      "content": "治小儿十余岁，因惊之后，心气不行，小腑淋沥，日及三十余次，渐觉黄瘦，宜服此剂主之。（高逢辰制干传）。\n韭子（汤浸退，取白仁，干秤，一两） 益智子（取仁，盐炒过，半两） 琥珀（半两，令研） 石苇（去毛土，一钱） 白茯苓（三分、 狗脊（爁去毛净，半两） 石燕子（火煅，醋炒，出火毒，令研极细，半两\n上七味，为末和匀。每服一钱，用韭菜白煎汤调下，空心食前各一服，日午一服尤妙。予表侄十余岁时，尝游慧山，归已昏暮，遇一巨人醉卧寺门，惊悸得疾。自是之后，一日便溺五六十度，医治数月不能效，遂以病证扣高逢辰，即援笔授此方。服药未几，日减一日，初则三二十度，最后十数度，凡服两料而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 503,
+      "source_path": [
+        "卷第五",
+        "順經散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f5af7d81c4855933147b97394b3cdd78116c622f62e837574146e53d88de8ba9",
+      "content_sha256": "3415e68fce342af8b654ee5894d4546c287caafc463c6b9cd3a2cd4f1adb95dd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        504,
+        505,
+        506
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 285,
+        "simplified_codepoints": 285
+      },
+      "order": 138
+    },
+    {
+      "chapter_key": "db8a7e89a79331dcb139833f",
+      "title": "九宝饮",
+      "volume": "卷第五",
+      "content": "治小儿因伤寒、邪不曾解利、致成远年嗽、兼治上喘气嗽不得睡。（常州顿助教传。）\n紫苏叶（一两） 薄荷叶（一两） 麻黄（一两，去节） 大腹皮（一两） 肉桂（半两） 甘草（半两，炙） 杏仁（半两，麸炒） 桑白皮（半两） 陈橘皮（半两，去穰者）\n上件为粗末，令将杏仁研极细，将诸药同和匀。每服半钱，水半盏，乌梅半枚，生姜一片，同煎三分半，食后去滓温服，临睡亦得。忌酒腥之物。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 507,
+      "source_path": [
+        "卷第五",
+        "九寶飲"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "fcd4d31c8bc132ad1e75b9d0971b5da03c155d584c6784066647984607f20697",
+      "content_sha256": "312b237cc93a9e246b9a9a848e70761042a3812af58904595fd11680d08d1a87",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        508,
+        509,
+        510
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 183,
+        "simplified_codepoints": 183
+      },
+      "order": 139
+    },
+    {
+      "chapter_key": "a0b0f113db7b9e9e24be9b4d",
+      "title": "治小儿泄泻",
+      "volume": "卷第五",
+      "content": "金液丹 青州白丸子\n上以二药等分，细研，用面糊丸，如黍米大。每服五十丸，米饮下。临安节推章谧静之云：渠有小儿，自五月患脏腑至七月不止，遂作慢惊候，以此药投一服，徐用少粥压之即愈，再服六七服，遂无事。（钱氏小儿方亦载此。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 511,
+      "source_path": [
+        "卷第五",
+        "治小兒泄瀉"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "b5cfb03436105c8cebebdec9a9687f8283ce39c2276f116163c5f20a97f2462f",
+      "content_sha256": "d726d7d75c91497c1db690eea3fe61930a909a920aeac3eae6dd5bd2f4c0408a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        512,
+        513
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 110,
+        "simplified_codepoints": 110
+      },
+      "order": 140
+    },
+    {
+      "chapter_key": "d451706219f1874a4bdf621f",
+      "title": "肥儿丸",
+      "volume": "卷第五",
+      "content": "外舅朱临江传。\n川黄连 芜荑仁 神曲（炒） 大麦糵（炒）\n上四味，等分为细末，用獖猪胆为丸，如小绿豆大。每服三十丸，加至五十丸，食后熟水吞下。（此方乃李文定丞相家方。海盐祝宰为常宁时，女子失奶，极黄瘦，丞相孙维翰来访，为传此方，自云其家得此药，小方脉未尝登门。女子自服此药，十日间取下疳虫，仅万余，自此日益顽壮。须小儿可服药即与之。孟正云：秦相家尽服此药，但加萝卜子一味。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 514,
+      "source_path": [
+        "卷第五",
+        "肥兒丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "56234f2b82df3b1c4a34bcc19f712516916d9fe67ee229c895b1d1e680ec3631",
+      "content_sha256": "4fcf9043bfc7fa053f2a2041a45781a8d859bd2ec0c6029c2b075eda7dfda9cb",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        515,
+        516,
+        517
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 187,
+        "simplified_codepoints": 187
+      },
+      "order": 141
+    },
+    {
+      "chapter_key": "3b106772079df5f57063e683",
+      "title": "神曲豆蔻丸",
+      "volume": "卷第五",
+      "content": "治小儿疳气，羸弱，脏腑虚怯，及滑泄不止，饮食减少，腹胀寒热，面黄肌瘦，引饮无度。\n神曲（半两，炒） 肉豆蔻（三枚，面裹煨） 麦糵（半两，炒） 宣连（半两，去须） 使君子（十四枚，去壳） 芜荑仁（一分） 芦荟（一分，合研）\n上为细末，用猪胆汁浸，面作糊为丸，如黍米大。每服二十丸，饭饮吞下，空心服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 518,
+      "source_path": [
+        "卷第五",
+        "神麯豆蔻丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "236839d8619f58b417ac7418368f14b86414f3a36fcc8e3a83568ff73a7ae3e4",
+      "content_sha256": "6190976c4f7f1bae592d03e6223dc8a4d57839595fa40925e637cf260158b65a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        519,
+        520,
+        521
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 148,
+        "simplified_codepoints": 148
+      },
+      "order": 142
+    },
+    {
+      "chapter_key": "5b0ec233b85a3677a7228699",
+      "title": "木香分气丸",
+      "volume": "卷第五",
+      "content": "治小儿脾胃虚弱，饮食过伤，积滞内停，或多吐逆，胸膈不快，面黄腹急，下利无度。\n香附子（水浸一宿，捣去黑皮，令净 饭上蒸过一次，焙干秤，二两） 南木香（一钱，面裹，煨） 缩砂（一分，去壳） 甘草（半两，炙） 京三棱（半两，湿纸裹，煨，乘熟切，焙） 姜黄（半两，米泔水浸一宿，切，焙）\n上为末，用白面糊为丸，如黍米大。每服二十丸，饭饮吞下，温熟水亦得，食后服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 522,
+      "source_path": [
+        "卷第五",
+        "木香分氣丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f7312b7f3142de89fc009ec9b590368fb95f1435772a69e23e27e000f9d8371a",
+      "content_sha256": "170f3b7ecaade116ba6155cb9d074e6b63fa5b1efbf40dd7891290cd57517c35",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        523,
+        524,
+        525
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 178,
+        "simplified_codepoints": 178
+      },
+      "order": 143
+    },
+    {
+      "chapter_key": "3b36bca2bb4b73034dbbba4d",
+      "title": "助胃膏",
+      "volume": "卷第五",
+      "content": "助小儿胃气，思食止渴，常服甚妙。（饶州张采助教传。）\n人参 白术 甘草 茴香（各半两） 干山药（一两） 檀香（一钱） 乌梅肉（半两） 白豆蔻仁（半两） 缩砂仁（半两） 干木瓜（一两）\n上为细末，炼蜜为膏。空心，如皂子大，每服一丸，嚼服，或温水吞下。治小儿麻豆疮子，已出太盛，发溃，脓水黏衣著席，不能转动，疼痛，湿烂，敷之便干，更不成瘢痕方。\n上用牛粪，不以多少，晒干，火煅成灰，取心中白者，研令极细。如用蛤粉相似，用绵扑扑有疮处，不以时候。一方用乌牛粪，一方用黄牛粪。（出《幼幼新书》。一名白龙散，此方用之有验。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 526,
+      "source_path": [
+        "卷第五",
+        "助胃膏"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "50ec4ea9f802e729e3ac30c7e9d4f8bf188ead8c658d6105d1b45f083523dcb5",
+      "content_sha256": "aa3b401871c15ced635c7e18f2233842ef7bab8f4efd71d412e207eabc240b72",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        527,
+        528,
+        529,
+        530
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 257,
+        "simplified_codepoints": 257
+      },
+      "order": 144
+    },
+    {
+      "chapter_key": "a990a7b54aa2ab377af273fe",
+      "title": "辰砂安惊丸",
+      "volume": "卷第五",
+      "content": "理风热涎盛，身体拘急，睡中不稳，镇心。（以下三方，张采助教传。）\n天麻（一分） 川芎（二钱） 防风（半两，洗，去芦头） 甘草（一两，炙） 白附子（一分） 人参（半两，洗） 茯神（半两） 朱砂（二钱，一半入药，一半为衣）\n上细末，炼蜜为丸，如鸡头大。每一丸至两丸，用薄荷、荆芥煎汤化下。\n羌活膏 散风热，化痰安惊。\n羌活（半两） 荆芥穗（半两） 白术（二钱） 甘草（半两） 白附子（二钱） 桔梗（去芦头，洗，半两） 白茯苓（二钱） 川芎（二钱） 防风（二钱，去芦头） 朱砂（二钱，一半入药，一半为衣）\n上细末，炼蜜为丸，如皂皂子大。每服一丸至两丸，用薄荷汤化下，如痰盛加腊茶汤下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 531,
+      "source_path": [
+        "卷第五",
+        "辰砂安驚丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "7b5eebf30b42805e43bd3aae26ab286936f83534a84e15d46b52edae8e45d515",
+      "content_sha256": "e8386bbf35c831a272e9d23e098b538c317b3295e42c838329c21ce3c4a75b0c",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        532,
+        533,
+        534,
+        535,
+        536,
+        537
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 289,
+        "simplified_codepoints": 289
+      },
+      "order": 145
+    },
+    {
+      "chapter_key": "e42c9e31a52c0f7d9caf8793",
+      "title": "大天南星丸",
+      "volume": "卷第五",
+      "content": "治小儿急慢惊风、涎潮发搐、目睛上视，口眼相引、牙关紧急，背脊强直，精神昏塞，连日不省。\n滴乳香（研） 龙脑（研） 牛黄（研，各半钱） 朱砂（研，三钱） 麝香（研，一钱半） 天麻 人参 防风（各一分，去芦头） 天南星（黄牛胆汁制，半两） 干蝎（十四个，汤浸软，去腹内土，微炒）\n上细末，炼蜜为丸，如大鸡头大。每服一丸，荆芥薄荷汤下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 538,
+      "source_path": [
+        "卷第五",
+        "大天南星丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "6197eff036dd5a3134502731ca7e2df3dbcf066b50efb26b319d1acd90649695",
+      "content_sha256": "2cbc3650eb2915cd8c476c94b07c9b580f66d9a5761b2ac09875669070360da1",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        539,
+        540,
+        541
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 165,
+        "simplified_codepoints": 165
+      },
+      "order": 146
+    },
+    {
+      "chapter_key": "68bd8063c96d34fb325d8dba",
+      "title": "治褓中小儿脐风撮口法",
+      "volume": "卷第五",
+      "content": "上视小儿上下龈，龈当口中心处，若有白色如红豆大，此病发之候也。急以指爪正当中掐之，自外达内，掐令匝，微血出亦不妨。又于白处两尽头，亦依此掐令内外断。（只掐令气脉断，不必破肉，指爪勿令大铦，恐伤儿甚）。沈存中云：为河北察访使日，到赵郡，有老人来献此法，云笃老，惜此法将不传，愿以济人。询之赵人云，此翁生平手救千余儿矣，环数邑之人，皆就此翁，治儿应手而愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 542,
+      "source_path": [
+        "卷第五",
+        "治褓中小兒臍風撮口法"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "0c76e2431504721823b26fe8bf246220654d070b0d60e8137dd81bd2e038caa0",
+      "content_sha256": "8f62294aa05b063cde4219d114b415dda4c3fe902d66c991662e1eb5fe4b501d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        543
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 176,
+        "simplified_codepoints": 176
+      },
+      "order": 147
+    },
+    {
+      "chapter_key": "dd4fdd76eb0a5b2e7995379a",
+      "title": "没石子丸",
+      "volume": "卷第五",
+      "content": "治小儿吐泻，脏腑不禁。（上官医传）。\n黄连（鹰爪者，炒） 诃子（炮，去核） 肉豆蔻（面裹，炮） 木香（炮） 没石子（炮）\n上各秤一钱，为细末，粟米饭为丸，如绿豆大。米饮三十丸。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 544,
+      "source_path": [
+        "卷第五",
+        "沒石子丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "4a80378e1822209b6bc32889751d5218e14566efe1905de08d1a2bd960d2cde2",
+      "content_sha256": "3f254bc2793a8b1c576206809b3c72ee966f72dda8c003a9a8c9ba2601b34bec",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        545,
+        546,
+        547
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 148
+    },
+    {
+      "chapter_key": "36a13df9ad1ccd7a49852637",
+      "title": "误吞珠铜铁而哽者方。",
+      "volume": "卷第五",
+      "content": "烧弩铜牙令赤，内酒中饮之，立愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 548,
+      "source_path": [
+        "卷第五",
+        "誤吞珠銅鐵而哽者方。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f84579ebc953d409c22c40fdd7fd4ba29358d7f3d8d08cbd74f5b07253d65db2",
+      "content_sha256": "66f47e191c665991534c122bc301f5a8827df950708a039c7c418d58c76f2f3e",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        549
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 16,
+        "simplified_codepoints": 16
+      },
+      "order": 149
+    },
+    {
+      "chapter_key": "1ea0306ff0d30c900ca0e982",
+      "title": "误吞钱方。",
+      "volume": "卷第五",
+      "content": "捣火炭末，服方寸匕则出。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 550,
+      "source_path": [
+        "卷第五",
+        "誤吞錢方。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "272514f7229ac29a03b6daaadeeb52ca3af1da68b92564971a6c3de1d8318597",
+      "content_sha256": "185d5764e22a1a3e17e7ae443dba797633e46fed3be1f611494d81939cf93177",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        551
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 12,
+        "simplified_codepoints": 12
+      },
+      "order": 150
+    },
+    {
+      "chapter_key": "d87828df73599e16a896050f",
+      "title": "误吞钉及箭金针铁等物方。",
+      "volume": "卷第五",
+      "content": "多食肥羊肉脂及诸肥肉，自裹出。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 552,
+      "source_path": [
+        "卷第五",
+        "誤吞釘及箭金針鐵等物方。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "c753c2d41b15aa416bf30b62d1e536181fcf3b00767c23858c7255eb90c04e40",
+      "content_sha256": "ecc13d5910d27248335a771e493aebaf26269d55ccd0b866fb6301f6f9c10a50",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        553
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 15,
+        "simplified_codepoints": 15
+      },
+      "order": 151
+    },
+    {
+      "chapter_key": "df7445a2fa75fbb1d744e9ea",
+      "title": "封囟",
+      "volume": "卷第五",
+      "content": "天南星（一个，极大者）\n上以慢火炮裂，去皮脐，入华阴细辛三钱，同杵为末，入麝香少许，用米醋调，涂绯帛，贴在囟上，以干为度。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 554,
+      "source_path": [
+        "卷第五",
+        "封囟"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "65b8251933a413a153f7e59c41db69bd2231723ca2a63d620825047bb200afba",
+      "content_sha256": "5acef278b3029721524904aba853c2aa238c8f3b2787a97a211e26edb6d375f3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        555,
+        556
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 61,
+        "simplified_codepoints": 61
+      },
+      "order": 152
+    },
+    {
+      "chapter_key": "b42acdbc1a00e9e95480858e",
+      "title": "治小儿吐。（宗人子与寺丞传。）",
+      "volume": "卷第五",
+      "content": "赤曲（半两） 藿香叶（半两） 丁香（一分，不见火。如热吐，即减丁香之半），肉豆蔻（一个，面裹，炮）\n上为细末。每服一钱大段，小者半钱，煎香楠木汤调下。楠木定惊止吐，神妙不可言。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 557,
+      "source_path": [
+        "卷第五",
+        "治小兒吐。（宗人子與寺丞傳。）"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "f2a8a6b2854f871ea89ad670dba265a6f5d382a751a87b31313fc8fbab9d6fb4",
+      "content_sha256": "f0ee525e8d72a372ab4ff5db44c856b00716d24ab1b919901ce617817ee06b66",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        558,
+        559
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 153
+    },
+    {
+      "chapter_key": "813b21810efa84702cedad3f",
+      "title": "治小儿误食谷芒。",
+      "volume": "卷第五",
+      "content": "鹅唌\n上将鹅倒沥唌，盛半蛤蜊，令小儿饮之，谷芒即下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 560,
+      "source_path": [
+        "卷第五",
+        "治小兒誤食谷芒。"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "6499eb24a07f6fda76965ed72f908aaa22ac8a06bb7c615b9ec4f1a8cd6ec2ca",
+      "content_sha256": "8b5cba00a3c3028d0b2f10bc2a4070bedee71e97307cf78287811a683476722f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        561,
+        562
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 26,
+        "simplified_codepoints": 26
+      },
+      "order": 154
+    },
+    {
+      "chapter_key": "2ed5b456758212b1db8950cf",
+      "title": "消风散",
+      "volume": "卷第五",
+      "content": "治小儿一切口疮，并重舌鹅口。（以下五方，信州蔡敏修助教传。）\n硼砂（一钱） 朱砂（一字） 雄黄（一钱） 甘草末（一字） 脑子（一字）\n上研细和匀，少许敷之，吞咽不妨。屡用如方。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 563,
+      "source_path": [
+        "卷第五",
+        "消風散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "959cdd0a1ed0f5f0fa775788d4fa9dc7225361d2a7e94abb185c87bc920cbfd7",
+      "content_sha256": "355fe3c3881871b0c24819a5e6a8e1a80119e464e003232e14d34c8f050d02e2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        564,
+        565,
+        566
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 155
+    },
+    {
+      "chapter_key": "c03320f0c60ad96ca365cdf9",
+      "title": "雄朱散",
+      "volume": "卷第五",
+      "content": "治小儿腮颔里外肿核。\n石膏（二钱） 雄黄（二钱） 牙硝（一钱） 天竺黄（二钱） 甘草末（一钱） 脑子（半字）\n上研细和匀敷之，里核吃不妨，外核用薄荷汁调涂。缴口，新水调亦得。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 567,
+      "source_path": [
+        "卷第五",
+        "雄朱散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "9b992eb36938490fdf0579ddb940e4628fe52f263d88a254d0cd0097d1e9f1a3",
+      "content_sha256": "6be9aadcc4a746766af22d4d284582bab2134f1c331e04ea1bd8d7b075146a09",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        568,
+        569,
+        570
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 87,
+        "simplified_codepoints": 87
+      },
+      "order": 156
+    },
+    {
+      "chapter_key": "fb320c36cd685f20d1433e63",
+      "title": "金华散",
+      "volume": "卷第五",
+      "content": "治小儿一切疮疡。\n黄皮（去粗皮，半两，炙焦） 黄连（半两） 海螵蛸（三钱） 五倍子（三钱） 轻粉（一分，研入）\n上为细末和匀。疮干用油调敷，湿时干敷。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 571,
+      "source_path": [
+        "卷第五",
+        "金華散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "5757d57b3d490b4ba77515c8162df272981990345754e3f3dba82fa7b7c2ce13",
+      "content_sha256": "bce78ded0f886936dfbda3ffc8520df1efa29d048ebee5de38557f85c3237294",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        572,
+        573,
+        574
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 157
+    },
+    {
+      "chapter_key": "69bac80b02e4adbea642baf3",
+      "title": "如圣散",
+      "volume": "卷第五",
+      "content": "治小儿一切头疮。\n松脂（半两，研细） 轻粉（半两）\n上件和匀，油调敷之。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 575,
+      "source_path": [
+        "卷第五",
+        "如聖散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "16dbe21c73bd2c6931dfb633303fa3cf46436a260b0a26b5996b5a805683b08e",
+      "content_sha256": "45cee289a1cec9d36c6d57849070e9d0768754530f24424310063d27978c03b3",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        576,
+        577,
+        578
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 36,
+        "simplified_codepoints": 36
+      },
+      "order": 158
+    },
+    {
+      "chapter_key": "fd06ce1404d04d8f1bea703f",
+      "title": "急风散",
+      "volume": "卷第五",
+      "content": "治小儿喉闭咽痛。\n青胆矾（成片，好者）\n每用少许，研细，新水调少许咽之，吐痰为妙。大人亦治。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 579,
+      "source_path": [
+        "卷第五",
+        "急風散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "da10c88a39d52621df1f037f7f064ca693ca423a5cf0700f7e74bc5a6bba67f2",
+      "content_sha256": "03d78e08d28e57416d5e5b9f98d2037887f3963031c5150aae96a6d9020ad078",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        580,
+        581,
+        582
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 46,
+        "simplified_codepoints": 46
+      },
+      "order": 159
+    },
+    {
+      "chapter_key": "1c428c735df8a5847e9f6b77",
+      "title": "坠涎丸",
+      "volume": "卷第五",
+      "content": "治咳嗽化痰。（以下二方，张采助教传。皆有神验。）\n天南星（去皮脐，生用，半两） 白附子（洗，去皮，半两） 川乌尖（去皮脐，生用，一分） 白僵蚕（洗净，直者，一分） 白矾（枯，一分） 半夏（洗净，生用，一两）\n上为细末，用姜汁糊为丸，如小绿豆大。每服二十丸，用生姜、薄荷，泡汤吞下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 583,
+      "source_path": [
+        "卷第五",
+        "墜涎丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "41ccfc6df1502f0c5573a4bd26142f93c91736ac847f1f175779f32a0fcf16e9",
+      "content_sha256": "7d918e1f75b04f0e8855cf127830803892155ef7af61b3feedddedaf3b5de33e",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        584,
+        585,
+        586
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 160
+    },
+    {
+      "chapter_key": "c9e65e60abb793fd77944ece",
+      "title": "辰砂丸",
+      "volume": "卷第五",
+      "content": "治咳嗽，安惊化痰。\n辰砂（半两，研，一半为衣，一半入药） 白矾（枯，半两） 天南星（去皮脐，切作片子，再用雪水煮，焙干，一两） 大半夏（汤浸七次，用生姜自然汁作饼子，炙，一两半） 白附子（去皮，炮，半两）\n上为细末，用糯米粉煮糊为丸，如小绿豆大。每服二十丸，用腊茶、薄荷汤吞下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 587,
+      "source_path": [
+        "卷第五",
+        "辰砂丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "427d588583665629b4684d97b54e6e201b4474f4607e30579be7e7a35bcfe350",
+      "content_sha256": "a270f44dc4452c31071f2daef975776761f7401e4f1782d4530e6e5d5b8ba8bc",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        588,
+        589,
+        590
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 139,
+        "simplified_codepoints": 139
+      },
+      "order": 161
+    },
+    {
+      "chapter_key": "49c6a101bb4ca1f3b871adc5",
+      "title": "四君子丸",
+      "volume": "卷第五",
+      "content": "治脾虚、受食不克化、停积中脘、吐逆恶心，脏腑泄泻。常服消化食滞，进美饮食，厚肠胃，充肌体，悦颜色，退黄。（婺州蒋助教传。以下三方，予家常合，甚效）。\n缩砂仁 乌梅肉（焙干秤） 陈橘皮（去穰，取仁） 诃子（纸裹，煨，去核，取皮用）\n上各一两，为末。煮好大枣，取肉为丸，如麻子大。每服三十丸至五十丸，枣汤熟水任下，无时。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 591,
+      "source_path": [
+        "卷第五",
+        "四君子丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "3e850a95dfc112f846bc968b3aaf761c3f24f4a277b6f14f0557a15622a7457e",
+      "content_sha256": "e3d4d0635d60bf625a6418849aa3d5f75120352beed4b9524ee2ea0b9d38a189",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        592,
+        593,
+        594
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 158,
+        "simplified_codepoints": 158
+      },
+      "order": 162
+    },
+    {
+      "chapter_key": "5743fbb4175ee1835022a7ce",
+      "title": "肥儿丸",
+      "volume": "卷第五",
+      "content": "以下二方，张采助教传。\n黄连（炒） 芜荑仁（炒） 神曲（炒） 麦糵（炒） 芦荟（细研，以上各等分）\n上为细末，獖猪胆汁调，面糊为丸，小绿豆大。每服十五丸至二十丸，飰饮吞下。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 595,
+      "source_path": [
+        "卷第五",
+        "肥兒丸"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "aa9bf8d14b5e7495c1708806151b97bad7cde92bdccf006ca0262c39402ccae5",
+      "content_sha256": "6e7e3cd1cdb4e050018104ad5b2e060c66467bbca07b6727848928753fdc2b8a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        596,
+        597,
+        598
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 163
+    },
+    {
+      "chapter_key": "32e45aef12df3ba495cedaaa",
+      "title": "观音散",
+      "volume": "卷第五",
+      "content": "理脾胃不和，气弱昏倦，多困，不思食。\n白术（一分） 人参（一分） 甘草（一分，炙） 干葛（出粉，一分） 藿香叶（一分） 白扁豆（三钱，炒） 茯苓（三钱） 樱粟子（三钱，炒） 绵黄耆（一分，炙） 木香（一分）上为细末。每服二钱，用生姜、枣子、紫苏煎汤调下，不计时，日进三服。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 599,
+      "source_path": [
+        "卷第五",
+        "觀音散"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "e937fdb7a36a38f0c2fe85b6861e284384f795ae336c38cf8cc94599bc545716",
+      "content_sha256": "fbf703c0a2c3382ea97c841ad8a75dea2f5ece793c07e20e11d0cb7142c2c5fd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        600,
+        601
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 136,
+        "simplified_codepoints": 136
+      },
+      "order": 164
+    },
+    {
+      "chapter_key": "acb6e45ba5fed859ebac8888",
+      "title": "后记",
+      "volume": null,
+      "content": "上集验方五卷，皆予平生用之有著验，或虽未及用，而传闻之审者，刻之姑孰，与众共之。\n乾道庚寅十二月十日番阳洪遵书\n贤人留意济斯民，学仕之余未舍勤，犹访医方治疾病，岂因富贵堕心身。乃知后世家风远，想见当年德业新，愧我长贫仍懒堕，不能望见属车尘。\n洪公当宋盛时为侍从官，兄为宰相，其富贵为何如也，而恳恳不忘救民之事，著成方书，百世行之。\n余素不谙医，而喜蓄医书，非真好医书也，好医书之为宋元旧刻者。今兹六月中，有扬州书友来告余云有宋版《太医集业》四册欲售，余属其携来，久而未至，闻已售于他姓，亦不甚惜之；因向来各家书目未载，即旧藏书家亦俱不知，或是书未必真宋版。后阅陆其清《佳趣堂书目》载是书，云文渊阁藏本，有杨南峰、邹臣虎二跋，方悔前此不之买，而已弗可追矣。适余友陶琅轩从都中寄此宋版《洪氏集验方》二本，至乃欣然，以为聊餍我欲。盖此宋版医书亦所罕有，见有季氏图书，随检延令宋版书目，知即系是书。卷后八行墨迹，季氏云鲜于枢诗跋，谅必有本而云然。百世行之以下，定有脱文，想沧苇收藏时必未遗失，故知之详也。至于板刻年月，载之甚详，宋刻固无疑义。而余旧藏《伤寒要旨》与此同出一手，黄宪毛用刻工姓名可考而证。刊刻之地同是姑孰，刊刻之时同是乾道，唯辛卯差后庚寅一年尔。二书之分不知几时，二书之合又在一地，岂非奇之又奇耶。余言详彼书跋语中，兹特志得书之由，并志余所以考证是书者如此。\n甲子十一月荛翁黄丕烈识\n顷在杨州郡斋，借到《太医集业》，寻览之余，见板口有三因字，遂取《三因极一病证方论》互勘，知即割裂其残本为之耳。《太医集业》者，第二卷之一条，并非别有此书也，《佳趣堂书目》所云误。归晤荛翁，出示是跋，举以语之，嘱记于后，他年倘仍收得，必拊掌一笑。\n嘉庆乙丑八月涧薲顾广圻书",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E6%B4%AA%E6%B0%8F%E9%9B%86%E9%A9%97%E6%96%B9/index.html",
+      "source_ordinal": 602,
+      "source_path": [
+        "後記"
+      ],
+      "source_sha256": "c47e306d1536c9b4df8c53421c412bb3dc0a13b6736b9acfd3bfd38cc4858d72",
+      "original_sha256": "88897dd3cb47c7a49a0d29c1a845e4160ca01ddda7eca3bd73e3e9e6ea141fcc",
+      "content_sha256": "dbdd075fdd01b6467f797ad8ad5fd0f6fbc696af37dc75596ab40ecb0519f7f4",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 730,
+        "simplified_codepoints": 730
+      },
+      "order": 165
+    }
+  ]
+}

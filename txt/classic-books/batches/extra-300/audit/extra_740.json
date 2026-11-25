@@ -1,0 +1,344 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E5%AE%9C%E9%BA%9F%E7%AD%96/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "總論",
+        "path": [
+          "總論"
+        ]
+      },
+      {
+        "ordinal": 3,
+        "level": 1,
+        "title": "時氣（天時一）",
+        "path": [
+          "時氣（天時一）"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 1,
+        "title": "陰陽（天時二）",
+        "path": [
+          "陰陽（天時二）"
+        ]
+      },
+      {
+        "ordinal": 8,
+        "level": 1,
+        "title": "地利（地利一）",
+        "path": [
+          "地利（地利一）"
+        ]
+      },
+      {
+        "ordinal": 10,
+        "level": 1,
+        "title": "基址（地利二）",
+        "path": [
+          "基址（地利二）"
+        ]
+      },
+      {
+        "ordinal": 12,
+        "level": 1,
+        "title": "十機（人事一）",
+        "path": [
+          "十機（人事一）"
+        ]
+      },
+      {
+        "ordinal": 22,
+        "level": 1,
+        "title": "附：小產論",
+        "path": [
+          "附：小產論"
+        ]
+      },
+      {
+        "ordinal": 26,
+        "level": 1,
+        "title": "蓄妾（人事二）",
+        "path": [
+          "蓄妾（人事二）"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 1,
+        "title": "藥食（論方）",
+        "path": [
+          "藥食（論方）"
+        ]
+      },
+      {
+        "ordinal": 30,
+        "level": 1,
+        "title": "飲食（戒飲）",
+        "path": [
+          "飲食（戒飲）"
+        ]
+      },
+      {
+        "ordinal": 32,
+        "level": 1,
+        "title": "男病（疾病一）",
+        "path": [
+          "男病（疾病一）"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 1,
+        "title": "女病（疾病二）",
+        "path": [
+          "女病（疾病二）"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 1,
+        "title": "附：衍慶編調經至言",
+        "path": [
+          "附：衍慶編調經至言"
+        ]
+      },
+      {
+        "ordinal": 38,
+        "level": 1,
+        "title": "辨古",
+        "path": [
+          "辨古"
+        ]
+      },
+      {
+        "ordinal": 45,
+        "level": 1,
+        "title": "續篇",
+        "path": [
+          "續篇"
+        ]
+      },
+      {
+        "ordinal": 46,
+        "level": 2,
+        "title": "大意",
+        "path": [
+          "續篇",
+          "大意"
+        ]
+      },
+      {
+        "ordinal": 48,
+        "level": 2,
+        "title": "乾道（蓄德一）",
+        "path": [
+          "續篇",
+          "乾道（蓄德一）"
+        ]
+      },
+      {
+        "ordinal": 50,
+        "level": 2,
+        "title": "坤道（蓄德二）",
+        "path": [
+          "續篇",
+          "坤道（蓄德二）"
+        ]
+      },
+      {
+        "ordinal": 52,
+        "level": 2,
+        "title": "精血盛衰之驗（培原一）",
+        "path": [
+          "續篇",
+          "精血盛衰之驗（培原一）"
+        ]
+      },
+      {
+        "ordinal": 54,
+        "level": 2,
+        "title": "聚精之道有五（培原二）",
+        "path": [
+          "續篇",
+          "聚精之道有五（培原二）"
+        ]
+      },
+      {
+        "ordinal": 56,
+        "level": 2,
+        "title": "葆真為種子首務（培原三）",
+        "path": [
+          "續篇",
+          "葆真為種子首務（培原三）"
+        ]
+      },
+      {
+        "ordinal": 58,
+        "level": 2,
+        "title": "藥忌燥熱（培原四）",
+        "path": [
+          "續篇",
+          "藥忌燥熱（培原四）"
+        ]
+      },
+      {
+        "ordinal": 60,
+        "level": 2,
+        "title": "色戒男淫（培原五）",
+        "path": [
+          "續篇",
+          "色戒男淫（培原五）"
+        ]
+      },
+      {
+        "ordinal": 62,
+        "level": 2,
+        "title": "合男女必當其年（布種一）",
+        "path": [
+          "續篇",
+          "合男女必當其年（布種一）"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 2,
+        "title": "百脈齊到則孕成（布種二）",
+        "path": [
+          "續篇",
+          "百脈齊到則孕成（布種二）"
+        ]
+      },
+      {
+        "ordinal": 66,
+        "level": 2,
+        "title": "種子須知絪縕之時（布種三）",
+        "path": [
+          "續篇",
+          "種子須知絪縕之時（布種三）"
+        ]
+      },
+      {
+        "ordinal": 68,
+        "level": 2,
+        "title": "娠子論（胎教一）",
+        "path": [
+          "續篇",
+          "娠子論（胎教一）"
+        ]
+      },
+      {
+        "ordinal": 70,
+        "level": 2,
+        "title": "逐月養胎（胎教二）",
+        "path": [
+          "續篇",
+          "逐月養胎（胎教二）"
+        ]
+      },
+      {
+        "ordinal": 81,
+        "level": 2,
+        "title": "胎教邇言（胎教三）",
+        "path": [
+          "續篇",
+          "胎教邇言（胎教三）"
+        ]
+      },
+      {
+        "ordinal": 83,
+        "level": 2,
+        "title": "保孕六說（胎教四）",
+        "path": [
+          "續篇",
+          "保孕六說（胎教四）"
+        ]
+      },
+      {
+        "ordinal": 90,
+        "level": 2,
+        "title": "防磋跌（胎教五）",
+        "path": [
+          "續篇",
+          "防磋跌（胎教五）"
+        ]
+      },
+      {
+        "ordinal": 92,
+        "level": 2,
+        "title": "忌多浴（胎教六）",
+        "path": [
+          "續篇",
+          "忌多浴（胎教六）"
+        ]
+      },
+      {
+        "ordinal": 94,
+        "level": 2,
+        "title": "論胎肖（胎教七）",
+        "path": [
+          "續篇",
+          "論胎肖（胎教七）"
+        ]
+      },
+      {
+        "ordinal": 96,
+        "level": 2,
+        "title": "修造犯胎不足信（胎教八）",
+        "path": [
+          "續篇",
+          "修造犯胎不足信（胎教八）"
+        ]
+      },
+      {
+        "ordinal": 98,
+        "level": 2,
+        "title": "轉女為男之理（胎教九）",
+        "path": [
+          "續篇",
+          "轉女為男之理（胎教九）"
+        ]
+      },
+      {
+        "ordinal": 100,
+        "level": 2,
+        "title": "孕婦飲食忌（胎教十）",
+        "path": [
+          "續篇",
+          "孕婦飲食忌（胎教十）"
+        ]
+      },
+      {
+        "ordinal": 121,
+        "level": 2,
+        "title": "孕婦藥物忌（胎教十一）",
+        "path": [
+          "續篇",
+          "孕婦藥物忌（胎教十一）"
+        ]
+      },
+      {
+        "ordinal": 128,
+        "level": 2,
+        "title": "附保命延生戒期",
+        "path": [
+          "續篇",
+          "附保命延生戒期"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 38,
+      "paragraph_blocks": 106,
+      "nonempty_paragraph_blocks": 106,
+      "represented_paragraph_blocks": 106
+    }
+  }
+]

@@ -12,7 +12,28 @@
       </view>
       <view wx:for="{{sections}}" wx:key="key" wx:for-item="section" class="detail-card">
         <view class="detail-card__title">{{section.title}}</view>
-        <text class="detail-content acupoint-content" user-select="{{true}}">{{section.content}}</text>
+        <block wx:if="{{section.key === 'locate'}}">
+          <button wx:if="{{locationImage}}" class="location-image-button" bindtap="previewLocationImage" aria-label="查看穴位位置图">
+            <image class="location-image" src="{{locationImage}}" data-url="{{locationImage}}" mode="widthFix" binderror="onLocationImageError" />
+          </button>
+          <view wx:elif="{{locationDiagram}}" class="location-diagram" aria-label="{{item.name || item.title}}，{{locationDiagram.label}}部位示意">
+            <view class="location-diagram__figure" aria-hidden="true">
+              <image wx:if="{{locationDiagram.pointImage}}" class="location-diagram__point-image" src="{{locationDiagram.pointImage}}" mode="widthFix" />
+              <view wx:else class="location-diagram__body {{locationDiagram.back ? 'location-diagram__body--back' : ''}}">
+                <image class="location-diagram__outline" src="/assets/meridians/acupoint-body-outline.png" mode="scaleToFill" />
+                <view class="location-diagram__landmark"></view>
+                <view class="location-diagram__highlight" style="{{locationDiagram.style}}"></view>
+              </view>
+              <text class="location-diagram__view">{{locationDiagram.view}}</text>
+            </view>
+            <view class="location-diagram__caption">
+              <text class="location-diagram__type">{{locationDiagram.pointImage ? '穴点示意' : '体表部位示意'}}</text>
+              <text class="location-diagram__region">{{locationDiagram.label}}</text>
+            </view>
+          </view>
+          <text wx:elif="{{!section.content}}" class="detail-content acupoint-content">位置图暂不可用</text>
+        </block>
+        <text wx:if="{{section.content}}" class="detail-content acupoint-content" user-select="{{true}}">{{section.content}}</text>
       </view>
       <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
       <view class="disclaimer">{{disclaimer}}</view>

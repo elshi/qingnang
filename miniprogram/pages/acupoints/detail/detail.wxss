@@ -3,3 +3,18 @@
 .acupoint-detail .detail-meta { font-family:serif; }
 .acupoint-detail .disclaimer { padding-bottom:calc(40rpx + env(safe-area-inset-bottom)); }
 .acupoint-detail .detail-state { padding:120rpx 32rpx 40rpx; line-height:1.7; }
+.location-diagram { display:flex; align-items:center; gap:42rpx; margin:8rpx 0 24rpx; padding:20rpx 36rpx; border:1rpx solid #e7dac6; border-radius:16rpx; background:#f7f1e7; }
+.location-diagram__figure { flex:none; width:146rpx; text-align:center; }
+.location-diagram__point-image { display:block; width:100%; }
+.location-diagram__body { position:relative; width:146rpx; height:292rpx; }
+.location-diagram__outline { position:absolute; inset:0; width:100%; height:100%; }
+.location-diagram__landmark { position:absolute; top:32%; left:49%; width:4rpx; height:4rpx; border-radius:50%; background:#a58a66; }
+.location-diagram__body--back .location-diagram__landmark { top:15%; height:26%; width:0; border-left:1rpx dashed #99825f; border-radius:0; background:none; }
+.location-diagram__highlight { box-sizing:border-box; position:absolute; border:2rpx solid #9a4b21; border-radius:42%; background:rgba(194,96,47,.35); }
+.location-diagram__view { display:block; margin-top:4rpx; color:#78694f; font-size:22rpx; }
+.location-diagram__caption { min-width:0; }
+.location-diagram__type { display:block; color:#78694f; font-size:23rpx; line-height:1.55; }
+.location-diagram__region { display:block; margin-top:8rpx; color:#533b20; font-size:34rpx; font-weight:600; line-height:1.4; overflow-wrap:anywhere; }
+.location-image-button { margin:8rpx 0 24rpx; padding:0; width:100%; border-radius:16rpx; overflow:hidden; background:#f7f1e7; line-height:0; }
+.location-image-button::after { border:0; }
+.location-image { display:block; width:100%; }

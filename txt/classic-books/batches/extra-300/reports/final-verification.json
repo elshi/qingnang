@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-11-23T15:33:02.953Z",
+  "database": "qingnang",
+  "reviewed_batch_books": 300,
+  "reviewed_batch_chapters": 65564,
+  "eligible_new_books": 213,
+  "eligible_new_chapters": 50698,
+  "existing_books_skipped": 87,
+  "original_book_rows_changed": 0,
+  "original_chapter_rows_changed": 0,
+  "verified_chapter_structure": true,
+  "book_table_total": 490,
+  "chapter_table_total": 97353,
+  "pending_cleanup": [
+    {
+      "id": 330,
+      "name": "内经药瀹",
+      "chapters": 11,
+      "status": "awaiting_user_authorization"
+    }
+  ],
+  "supplement": {
+    "id": 534,
+    "name": "金匮方歌括",
+    "chapters": 247
+  },
+  "repeat_preflight": {
+    "existing_books": 300,
+    "planned_new_books": 0,
+    "inserted_books": 0,
+    "planned_chapters": 0,
+    "inserted_chapters": 0,
+    "conflicts": 87,
+    "errors": 0
+  }
+}

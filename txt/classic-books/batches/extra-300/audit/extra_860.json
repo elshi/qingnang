@@ -1,0 +1,377 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%AB%8B%E9%BD%8B%E5%A4%96%E7%A7%91%E7%99%BC%E6%8F%AE/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "敘",
+        "path": [
+          "敘"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 5,
+        "level": 2,
+        "title": "腫瘍（謂瘡瘍未出膿者）",
+        "path": [
+          "卷一",
+          "腫瘍（謂瘡瘍未出膿者）"
+        ]
+      },
+      {
+        "ordinal": 59,
+        "level": 2,
+        "title": "潰瘍（謂瘡瘍已出膿者）",
+        "path": [
+          "卷一",
+          "潰瘍（謂瘡瘍已出膿者）"
+        ]
+      },
+      {
+        "ordinal": 84,
+        "level": 2,
+        "title": "潰瘍作痛",
+        "path": [
+          "卷一",
+          "潰瘍作痛"
+        ]
+      },
+      {
+        "ordinal": 107,
+        "level": 1,
+        "title": "卷二",
+        "path": [
+          "卷二"
+        ]
+      },
+      {
+        "ordinal": 108,
+        "level": 2,
+        "title": "潰瘍發熱（附惡寒）",
+        "path": [
+          "卷二",
+          "潰瘍發熱（附惡寒）"
+        ]
+      },
+      {
+        "ordinal": 150,
+        "level": 2,
+        "title": "發背",
+        "path": [
+          "卷二",
+          "發背"
+        ]
+      },
+      {
+        "ordinal": 208,
+        "level": 2,
+        "title": "腦疽",
+        "path": [
+          "卷二",
+          "腦疽"
+        ]
+      },
+      {
+        "ordinal": 247,
+        "level": 1,
+        "title": "卷三",
+        "path": [
+          "卷三"
+        ]
+      },
+      {
+        "ordinal": 248,
+        "level": 2,
+        "title": "鬢疽",
+        "path": [
+          "卷三",
+          "鬢疽"
+        ]
+      },
+      {
+        "ordinal": 272,
+        "level": 2,
+        "title": "時毒（謂毒發於面鼻耳項）",
+        "path": [
+          "卷三",
+          "時毒（謂毒發於面鼻耳項）"
+        ]
+      },
+      {
+        "ordinal": 303,
+        "level": 2,
+        "title": "疔瘡",
+        "path": [
+          "卷三",
+          "疔瘡"
+        ]
+      },
+      {
+        "ordinal": 314,
+        "level": 2,
+        "title": "臀癰（附腿癰並腿痛腳氣）",
+        "path": [
+          "卷三",
+          "臀癰（附腿癰並腿痛腳氣）"
+        ]
+      },
+      {
+        "ordinal": 430,
+        "level": 1,
+        "title": "卷四",
+        "path": [
+          "卷四"
+        ]
+      },
+      {
+        "ordinal": 431,
+        "level": 2,
+        "title": "脫疽",
+        "path": [
+          "卷四",
+          "脫疽"
+        ]
+      },
+      {
+        "ordinal": 448,
+        "level": 2,
+        "title": "肺癰肺痿",
+        "path": [
+          "卷四",
+          "肺癰肺痿"
+        ]
+      },
+      {
+        "ordinal": 515,
+        "level": 2,
+        "title": "腸癰",
+        "path": [
+          "卷四",
+          "腸癰"
+        ]
+      },
+      {
+        "ordinal": 549,
+        "level": 1,
+        "title": "卷五",
+        "path": [
+          "卷五"
+        ]
+      },
+      {
+        "ordinal": 550,
+        "level": 2,
+        "title": "瘰癧",
+        "path": [
+          "卷五",
+          "瘰癧"
+        ]
+      },
+      {
+        "ordinal": 648,
+        "level": 2,
+        "title": "流注",
+        "path": [
+          "卷五",
+          "流注"
+        ]
+      },
+      {
+        "ordinal": 700,
+        "level": 2,
+        "title": "瘡瘍作渴",
+        "path": [
+          "卷五",
+          "瘡瘍作渴"
+        ]
+      },
+      {
+        "ordinal": 733,
+        "level": 2,
+        "title": "作嘔",
+        "path": [
+          "卷五",
+          "作嘔"
+        ]
+      },
+      {
+        "ordinal": 759,
+        "level": 1,
+        "title": "卷六",
+        "path": [
+          "卷六"
+        ]
+      },
+      {
+        "ordinal": 760,
+        "level": 2,
+        "title": "咽喉",
+        "path": [
+          "卷六",
+          "咽喉"
+        ]
+      },
+      {
+        "ordinal": 813,
+        "level": 2,
+        "title": "癍疹（附小兒丹毒）",
+        "path": [
+          "卷六",
+          "癍疹（附小兒丹毒）"
+        ]
+      },
+      {
+        "ordinal": 842,
+        "level": 2,
+        "title": "天泡瘡（舊名）",
+        "path": [
+          "卷六",
+          "天泡瘡（舊名）"
+        ]
+      },
+      {
+        "ordinal": 854,
+        "level": 2,
+        "title": "楊梅瘡",
+        "path": [
+          "卷六",
+          "楊梅瘡"
+        ]
+      },
+      {
+        "ordinal": 885,
+        "level": 1,
+        "title": "卷七",
+        "path": [
+          "卷七"
+        ]
+      },
+      {
+        "ordinal": 886,
+        "level": 2,
+        "title": "便癰",
+        "path": [
+          "卷七",
+          "便癰"
+        ]
+      },
+      {
+        "ordinal": 923,
+        "level": 2,
+        "title": "懸癰",
+        "path": [
+          "卷七",
+          "懸癰"
+        ]
+      },
+      {
+        "ordinal": 946,
+        "level": 2,
+        "title": "下疳",
+        "path": [
+          "卷七",
+          "下疳"
+        ]
+      },
+      {
+        "ordinal": 970,
+        "level": 2,
+        "title": "囊癰",
+        "path": [
+          "卷七",
+          "囊癰"
+        ]
+      },
+      {
+        "ordinal": 995,
+        "level": 2,
+        "title": "痔漏（附便血脫肛）",
+        "path": [
+          "卷七",
+          "痔漏（附便血脫肛）"
+        ]
+      },
+      {
+        "ordinal": 1054,
+        "level": 1,
+        "title": "卷八",
+        "path": [
+          "卷八"
+        ]
+      },
+      {
+        "ordinal": 1055,
+        "level": 2,
+        "title": "便秘門",
+        "path": [
+          "卷八",
+          "便秘門"
+        ]
+      },
+      {
+        "ordinal": 1070,
+        "level": 2,
+        "title": "乳癰（附乳岩，並男子乳癰）",
+        "path": [
+          "卷八",
+          "乳癰（附乳岩，並男子乳癰）"
+        ]
+      },
+      {
+        "ordinal": 1115,
+        "level": 2,
+        "title": "婦人血風瘡（附陰瘡、陰腫、陰挺）",
+        "path": [
+          "卷八",
+          "婦人血風瘡（附陰瘡、陰腫、陰挺）"
+        ]
+      },
+      {
+        "ordinal": 1141,
+        "level": 2,
+        "title": "瘡疥",
+        "path": [
+          "卷八",
+          "瘡疥"
+        ]
+      },
+      {
+        "ordinal": 1166,
+        "level": 2,
+        "title": "杖瘡",
+        "path": [
+          "卷八",
+          "杖瘡"
+        ]
+      },
+      {
+        "ordinal": 1182,
+        "level": 2,
+        "title": "傷損脈法",
+        "path": [
+          "卷八",
+          "傷損脈法"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 41,
+      "paragraph_blocks": 1170,
+      "nonempty_paragraph_blocks": 1170,
+      "represented_paragraph_blocks": 1170
+    }
+  }
+]

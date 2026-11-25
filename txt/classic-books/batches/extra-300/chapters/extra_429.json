@@ -1,0 +1,2950 @@
+{
+  "schema_version": 1,
+  "book": {
+    "key": "extra_429",
+    "name": "灸法秘传",
+    "summary": "《灸法秘传》属于针灸与经络文献，内容涉及经络腧穴、针灸方法与病证取穴。所收卷篇包括“正面图”、“背面图”、“指节图”等。本次依据所列电子底本整理，保存卷篇次序及可辨识的古注。",
+    "dynasty": "清",
+    "author": "刘国光",
+    "jp": "JFMC",
+    "aliases": [
+      "灸法秘傳"
+    ]
+  },
+  "chapters": [
+    {
+      "chapter_key": "d5f7882f270a9e487af0f8e1",
+      "title": "刘序",
+      "volume": null,
+      "content": "雷君少逸，衢之名医也。余守是郡，因病邀诊，遂与之善。其人秉至性，多读书，以医世，其家著作甚富。余尝序其《时病论》一书行之。一日，复出其戚金君冶田所藏《灸法秘传》见示。云：得自蜀僧，施治颇验。原书谫陋不文，经雷君取所列诸证分门而为之说，言简意赅，深得经旨，诚济世之良术也。检阅方书，其论穴治病，则从太乙神针神明而出，实近今所罕见之本。余恐秘本无传，因付手民，以公诸书，并附刊太乙神针诸方于后，俾阅是书者参互考证而信从焉。刊成爰缀数语于简端，以见可传者。之不能终秘，亦以嘉雷君与金君之急急于传也。是为序。\n光绪九年十一月望日尽先补用道知衢州府事楚北刘国光宾臣氏撰",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 1,
+      "source_path": [
+        "劉序"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "bf3fbbfe38292b7b4902442009035beb88cf916f264e926c453e270d7bceff9b",
+      "content_sha256": "2e54c3d46d16f7229293450ed915d62183d91db2ceb07bddd512cb60f9b12b60",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        2,
+        3
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 279,
+        "simplified_codepoints": 279
+      },
+      "order": 1
+    },
+    {
+      "chapter_key": "7979a478a6001eaeccecbef4",
+      "title": "凡例",
+      "volume": null,
+      "content": "一用灸，先审其是何病症，取何穴道，再以病人中指节为一寸，量准寸分，以墨点其穴，候灸。\n一灸法，用生姜一大片，原二分许，将灸盏之足钉在姜片之上，照灸盏之孔，将银针穿通姜片，平放应灸穴上。即将艾绒捏作一团，置于盏内，再上药料，将艾点燃。少顷，则药气即可透入。如觉热甚难禁，可将银盏提起片时，仍即放下，看盏内药将燃尽，即取起另换。每一次，换药三四回，便可收止。每日或一次，或两次弗论。\n一用灸，宜天气温和，密室无风之所，焚一炉香，照法用灸。若遇人神所在，不宜灸之，切须忌避。孕妇亦不宜用。\n一灸后，必须静卧片时，待其药气周流于脏腑脉络之内，自然畅快病出，切切慎风节食、保精养神，为第一著。\n一灸穴，宜审轻重。上体及当骨处，灸宜少。下体及肉厚处，灸多无害。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 4,
+      "source_path": [
+        "凡例"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "ff26b26f53b383c0b95029a6bbdd2e6dd34cf9612942b8554294c870c21a1466",
+      "content_sha256": "cc97692fa4c2291df925e0deff4ac807bb6427b51dac207b049cbcb9cbc106b8",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 324,
+        "simplified_codepoints": 324
+      },
+      "order": 2
+    },
+    {
+      "chapter_key": "dc21f2007f75c1489c9c4514",
+      "title": "正面图",
+      "volume": null,
+      "content": "〔图版未收录：正面图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 10,
+      "source_path": [
+        "正面圖"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "eec38c217fcd3de1b9864c2e9e936312d94f4cf5192bcdb25590952fcdd2fc77",
+      "content_sha256": "d1a6da3ccf1d4de909525c3b2a71c0973c5e4e38efcb8f077c7221c055d3f32d",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        11
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 11,
+        "simplified_codepoints": 11
+      },
+      "order": 3
+    },
+    {
+      "chapter_key": "74349187a46d7195c1558a05",
+      "title": "背面图",
+      "volume": null,
+      "content": "〔图版未收录：背面图〕",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 12,
+      "source_path": [
+        "背面圖"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "387b8061373596377ef916b73f65c0fce8a3e4d1143477d3a23cfe5391da3df0",
+      "content_sha256": "de7f330467c49551b700ec8b4050cf13d12f940e76f4816c23520017e6b9cf64",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        13
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 11,
+        "simplified_codepoints": 11
+      },
+      "order": 4
+    },
+    {
+      "chapter_key": "e91b3f1749c3601432f3bef4",
+      "title": "指节图",
+      "volume": null,
+      "content": "〔图版未收录：指节图〕\n量穴道取寸法，以男左女右手中指第二节,屈指两纹尖，相去为一寸。取稻草心或薄篾片、量之。若用绳线，则有伸缩不准。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 14,
+      "source_path": [
+        "指節圖"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "cd1e174097f7929c3cd8571ef6be516ee9dc27a82367cc2016712e1e6fa1f395",
+      "content_sha256": "9a5766ecd77cabe18c8e5fb571125ee45adf099e109aebe25b81bd89472c1cb6",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        15,
+        16
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 5
+    },
+    {
+      "chapter_key": "269ade229b997b304115a120",
+      "title": "灸盏图",
+      "volume": null,
+      "content": "〔图版未收录：仰式图 俯式图〕\n古圣用九针，失传久矣。今人偶用者，不但不谙针法，亦且不熟明堂。至于灸法亦然也。今用银盏隔姜灸法，万无一失。凡欲用此法者，须仿此样为式，四围银片稍厚，底宜薄，须穿数孔，下用四足，计高一分许。将盏足钉在生姜片上，姜上亦穿数孔，与盏孔相通，俾药气可以透入经络脏腑也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 17,
+      "source_path": [
+        "灸盞圖"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "72f7f81f182bb9a8f77a9d4db8ba9f293e6126847ae0415a25d9f2eaa3e317e6",
+      "content_sha256": "4a0f819675ea8f7c3a756d8b11d569ac7bb46b2e20c98a53eed46b7bba443180",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        18,
+        19
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 146,
+        "simplified_codepoints": 146
+      },
+      "order": 6
+    },
+    {
+      "chapter_key": "274f495a82961e99b1f98730",
+      "title": "灸药神方",
+      "volume": null,
+      "content": "艾叶（一钱五分） 硫黄 乳香 没药 麝香 皂角 枳壳 川芎 桂枝 杜仲 全蝎 白芷 细辛 松香 雄黄 独活 穿山甲（以上各五分）\n上药秤准分两，各为末，和丸，固藏弗泄气。\n方解：艾叶，揉捣如绵，谓之熟艾。熟艾性热，能通十二经，走三阴，以之灸火，能除百病。硫黄之性纯阳，能援阳气暴脱、命欲垂危。没药、乳香通行十二经络。麝香、皂角宣开上下窍关。枳壳破一切气滞，川芎行一切血凝。桂枝调卫和营，杜仲舒筋壮骨。定厥阴之风，全蝎有力。化痈疡之毒，白芷多功。细辛通窍散寒，松香祛风止痛，雄黄杀百毒，独活搜伏风。更以穿山甲通行经络，直达病所。方中诸品无处不行，所以主治诸疴，效如桴鼓。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 20,
+      "source_path": [
+        "灸藥神方"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "d45af1e0dc98437ca00b1ea7936b24f842b76d21f9daf1bd7664e6014e86d742",
+      "content_sha256": "38fc5b96a2f52d7b3b298a3a751a859c8589bfa7268438c98857de96a07e409f",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        21,
+        22,
+        23
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 284,
+        "simplified_codepoints": 284
+      },
+      "order": 7
+    },
+    {
+      "chapter_key": "97e6b3f46c0e3d8be4e11c4a",
+      "title": "人神在曰不宜灸单",
+      "volume": null,
+      "content": "初一（在足大指） 初二（在外踝） 初三（在股内） 初四（在腰） 初五（在口） 初六（在手） 初七（在内踝） 初八（在腕） 初九（在尻） 初十（在腰背） 十一（在鼻梁） 十二（在发际） 十三（在牙齿） 十四（在胃脘） 十五（在遍身） 十六（在胸） 十七（在气冲） 十八（在股内） 十九（在足） 二十（在内踝） 二十一（在手小指） 二十二（在外踝） 二十三（在肝及足） 二十四（在手阳明） 二十五（在足阳明） 二十六（在胸） 二十七（在膝） 二十八（在阴） 二十九（在膝胫） 三十（在足趺）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 24,
+      "source_path": [
+        "人神在曰不宜灸單"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "a948b6dd2ae8ab28cfaac575d81d433a54b40fd792731c700517e7370b69a71e",
+      "content_sha256": "8e1c35af0dda91be9c12c896f4eaf9e6b3b47868bd927d6372ff5bd67a10217a",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        25
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 243,
+        "simplified_codepoints": 243
+      },
+      "order": 8
+    },
+    {
+      "chapter_key": "7bc929cdf82db5ef0015708a",
+      "title": "十二时人神所在不宜针灸歌",
+      "volume": null,
+      "content": "子踝丑腰寅在目，卯面辰头巳三属，午胸未腹申在心，酉背戌头亥股续。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 26,
+      "source_path": [
+        "十二時人神所在不宜針灸歌"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "85a56f3ae622b32d3a662187b6d447402f138fad2f5e6fee518f523f62b40188",
+      "content_sha256": "450ca0ff21195b391dfe3425bf27b2c2806e99e6fc770698b328f8ac94a4525c",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        27
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 32,
+        "simplified_codepoints": 32
+      },
+      "order": 9
+    },
+    {
+      "chapter_key": "cd0eb2e17dc63b4698033e55",
+      "title": "十二支曰人神所在不宜针灸歌",
+      "volume": null,
+      "content": "子不治头君须认，丑日腰耳寅胸应。卯日鼻脾辰膝腰，巳手午心真捷径。未头手足申头背，酉行膝背同其类。戌日在阴头面间，亥日游行头颈位。十二支神禁灸歌，男除女破应该会。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 28,
+      "source_path": [
+        "十二支曰人神所在不宜針灸歌"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "91c0a9b023bac27c1ea6411515469ed5d561c36acb44d5b5e085124b23641948",
+      "content_sha256": "26a2f6b9fe32d3b392cb4cb1f186346b5b012950ea74b6224e94b1be90671c5f",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        29
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 10
+    },
+    {
+      "chapter_key": "8dd6a751730b217e020b1e04",
+      "title": "十干曰人神所在不宜针灸歌",
+      "volume": null,
+      "content": "甲不治头乙耳喉，丙肩丁背与心求。戊己腹脾庚腰肺，辛膝壬当肾胫收。癸日不宜针手足，十干不犯则无忧。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 30,
+      "source_path": [
+        "十干曰人神所在不宜針灸歌"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "4c54392d07c83570d792e20f0a765b640306c131c2a45eb7ed9e5f051eb285dc",
+      "content_sha256": "0e405f56aeb6ff8e724550c105098c4221115b244b00ab92be44c1c2ea3abc01",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        31
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 11
+    },
+    {
+      "chapter_key": "3756749d471965b5ce4cc105",
+      "title": "尻神图",
+      "volume": null,
+      "content": "〔图版未收录：尻神图〕\n此神农所置。一岁起坤，二岁震，逐年顺飞九宫，周而复始。行年到处则所主败，切忌针灸，慎勿犯之，否则变生他病。慎之！",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 32,
+      "source_path": [
+        "尻神圖"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "6621ec5b8226b471e817b8f08fbad9e3a1494f8140f768be56c2a9e21c1df97a",
+      "content_sha256": "f5dbb698c087f08cc3ede25c2ea3ea19e4722fec5d73c1c7a2fe85830652f8cc",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        33,
+        34
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 68,
+        "simplified_codepoints": 68
+      },
+      "order": 12
+    },
+    {
+      "chapter_key": "3e489af6ba3eae9728516079",
+      "title": "九宫尻神歌",
+      "volume": null,
+      "content": "尻神所在有根由，坤内外踝圣人留。震宫牙口腨宜记，巽位还居乳口头，中宫肩骨连尻骨，背面目从干上游。手膊兑宫难砭灸，艮宫腰顶也须休。离膝肋胁针难下，坎肘还连肚脚求。为医精晓尻神诀，万病无干禁忌忧。\n以上避忌，以逐日人神所在为主。如遇急病，其余不必避也。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 35,
+      "source_path": [
+        "九宮尻神歌"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b1589110623ce234e7980f1e250b3c26eb675486c4f11d7682848568f2602ce5",
+      "content_sha256": "83ce2ced7802fa2728ade76a836114a7cb547095adff09fa10ba108763ca88c9",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        36,
+        37
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 124,
+        "simplified_codepoints": 124
+      },
+      "order": 13
+    },
+    {
+      "chapter_key": "917edf7c9849dd02a29cdc33",
+      "title": "中风",
+      "volume": "应灸七十症",
+      "content": "中风者，卒然中倒，人事无知，口眼㖞斜是也。方书有中经、中络、中脏、中腑之分。医之乏效者，必须用灸。或未经疗治者，急灸无妨。当其初中之时，先灸百会，或灸尺泽。如口噤者，灸风池。左瘫右痪者，灸风市。如两额暴痛，口眼歪斜，牙关紧闭，失音不语，灸客主人。如因痰而中者，灸环跳穴可也。\n百会穴（从鼻直上入发际五令，旋毛陷中，可容指处。《医宗金鉴》云：直上耳尖顶陷中是也。）\n尺泽穴（肘中动脉处，即肘弯内横纹当中，屈肘纹见，《金鉴》云：屈肘横纹筋骨罅中。）\n风市穴（端立，垂手于股外，中指尖到处。）\n客主人（两耳前骨工宛中间，开口即穴处。）\n环跳穴（在髀枢中，侧卧，屈上足、伸下足取之。大腿曰股，股上曰髀，楗骨之下、大腿之上、两骨合缝之所曰髀枢，当环跳穴处。）\n风池穴（在耳后陷中，按之引耳内。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 39,
+      "source_path": [
+        "應灸七十症",
+        "中風"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "a0bc0d2b7aab495ec2e81f7bdd0fd37620cf7f1f0eb34b679d01d33df2a1dd89",
+      "content_sha256": "51f1ac73155d3f5d35211531d6a0cc268524e81232f3ff3cfe30290e4d8beb7c",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 342,
+        "simplified_codepoints": 342
+      },
+      "order": 14
+    },
+    {
+      "chapter_key": "73fddda1453fdff44e1bf905",
+      "title": "尸厥",
+      "volume": "应灸七十症",
+      "content": "《金鉴》云：尸厥者，类中风之称也。谓其形厥而气不厥，口鼻无气，状类死尸，而脉自动也。延医不及，急宜灸大敦穴。倘有四肢厥冷，宜灸内庭，又灸行间，不可误也。\n大敦穴（足大指端，去爪韭菜许毛中《金鉴》云：外侧聚毛中。）\n内庭穴（足大指内，次指本节前歧骨外间陷中。）\n行间（足大指次指歧骨缝间动脉应手陷中。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 47,
+      "source_path": [
+        "應灸七十症",
+        "屍厥"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "9c7a17e1cdd9f4dc63ce0630d380af1e163a6e2b05b9f7612c1e6ae5843ab5d7",
+      "content_sha256": "79be3c7235481a01bfeb3a8db9f6747698a6b81c24bc9f68385c2c0183e3fe7d",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        48,
+        49,
+        50,
+        51
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 150,
+        "simplified_codepoints": 150
+      },
+      "order": 15
+    },
+    {
+      "chapter_key": "4d02ec53c01beda880236a5c",
+      "title": "偏风",
+      "volume": "应灸七十症",
+      "content": "偏风者，或左肢不遂，或右肢不遂。在左者为瘫，血虚也。右者为痪，气虚也。左瘫右痪者，气血两虚也。总宜先灸百会，次灸合谷。如一偏疼痛，手臂不仁，拘挛难伸，灸手之里，兼灸腕骨。倘痛甚不能提物，灸肩髃。两手挛痛，臂细无力，灸曲池。半身不遂，灸环跳。按穴灸之，自然却病。\n百会穴（见中风。）\n合谷（大指次指歧骨间陷中，即虎口，两叉骨缝中。）\n手三里（曲池下二寸锐骨端，按之肉起。）\n腕骨（手外侧腕前起骨下陷中，即小指直上处。）\n肩髃（肩端两骨间。）\n曲池（屈手按胸，肘弯横纹尖尽处）\n环跳（见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 52,
+      "source_path": [
+        "應灸七十症",
+        "偏風"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "0ccde7c91dc5ec574fe5155b38aca892b120265e27ae0c1bd698757366b7d84d",
+      "content_sha256": "f7656fe295a174273eebcf15ef45676f5b47740a916b3290bd2984551cc524e3",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 245,
+        "simplified_codepoints": 245
+      },
+      "order": 16
+    },
+    {
+      "chapter_key": "a24f6f040a0f29815aae9831",
+      "title": "眩晕",
+      "volume": "应灸七十症",
+      "content": "眩，目花也。晕，头昏也。其病之因有五：一曰无痰不眩，一曰无火不晕，一曰木动生风，一曰水不涵木，一曰土虚木摇是也。医者莫分，药多罔效，灸神庭穴，自获安全。若未中机，再灸肝俞必验。\n神庭（从鼻上直入发际五分，即眉心上三寸五分。）\n肝俞（八节下，各开二寸。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 61,
+      "source_path": [
+        "應灸七十症",
+        "眩暈"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "c66315b6bcfc422613827cae807fb20235c506a29316ddf8188d6d623aba2c0d",
+      "content_sha256": "3b13d9ad7e003f5dd787d2628742cb4b2c4e9adc13cd9c6c150af59038d053b0",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        62,
+        63,
+        64
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 126,
+        "simplified_codepoints": 126
+      },
+      "order": 17
+    },
+    {
+      "chapter_key": "9003a1b464dcc69d7d498ef7",
+      "title": "痿症",
+      "volume": "应灸七十症",
+      "content": "经曰：肺热叶焦发为痿躄，痿躄者，足软而不能步也。其症有五，不可不明。盖痿躄属肺，脉痿属心，筋痿属肝，肉痿属脾，骨痿属肾也。总当先灸足三里，甚则灸三阴。灸法得宜，较汤散为胜也。\n足三里（膝下三寸，䯒外廉，以手掌按膝头中指到处，股外旁也。膝盖骨下三寸，在䯒骨外廉两筋肉分宛宛中，平坐垂足，取之在背，《金鉴》作大筋肉。）\n三阴（足内踝上三寸，大骨下陷中。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 65,
+      "source_path": [
+        "應灸七十症",
+        "痿症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "1a12aef7d1a8f6cae7497a15d1cfdf21075a5dd6dffc0c3852886a42f2282c9a",
+      "content_sha256": "77b90eff71340c927818aa6f14ee033976d7ea3d327e89d799b114a44c65e041",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        66,
+        67,
+        68
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 175,
+        "simplified_codepoints": 175
+      },
+      "order": 18
+    },
+    {
+      "chapter_key": "d45f35627f4b7cdff9defa73",
+      "title": "痹症",
+      "volume": "应灸七十症",
+      "content": "痹者，即俗称为风气也，症由风寒湿之气杂合为病。益风胜为行痹，寒胜为痛痹，湿胜为著痹，往往蔓延不愈。倘三气痹痛，灸环跳，兼灸脾俞、肾俞。足痹不仁，灸腰俞。如手臂作痛，不能提举，灸尺泽。两腿麻木，不能步履，灸风市。按图而灸，庶乎肢体自若耳。\n环跳（见中风。）\n脾俞（十脊骨下，各开二寸。）\n肾俞（十三脊下，各开二寸，亦有一寸半。《金鉴》云：与脐平。）\n腰俞（尾尻骨节上窔间。）\n尺泽、风市（皆见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 69,
+      "source_path": [
+        "應灸七十症",
+        "痹症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "f10bdebe6755fd78a1e01e9915bd353e24712bc248c2429758993fcd20ef7b61",
+      "content_sha256": "dc6e90f9c7b858f871d4c37612e9b09c998edd1da9516b8872a39545638ee427",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 199,
+        "simplified_codepoints": 199
+      },
+      "order": 19
+    },
+    {
+      "chapter_key": "61e75522543d443354b71285",
+      "title": "劳伤",
+      "volume": "应灸七十症",
+      "content": "五劳者，烦冗劳心，谋虑劳肝，过思劳脾，过忧劳肺，色欲劳损。七伤者，久视伤血，久行伤筋，久坐伤肉，久卧伤气，久立伤骨，房劳思虑伤心肾也。至于骨蒸劳热，药石乏效者，先灸大椎，并灸胆俞。久嗽劳热者，灸肺俞。久虚不食者，灸上脘。真气虚弱者，灸气海。男子血损者，灸天枢。女子阴虚，灸足三里。凡有一切虚损劳瘵，及至形神大惫，惟灸膏肓穴，可冀挽回，否则无救矣。\n大椎（三节颈项下，第一脊骨上间。）\n胆俞（第九脊下，各开二寸。《金鉴》云：各俞皆去脊中二寸，故不从寸半之说。）\n肺俞（三椎骨下，两旁各开一寸五分。《金鉴》云：以手搭肩，左取右，右取左，当中指末处。）\n上脘（脐上五寸。）\n气海（脐下一寸五分。）\n天枢（脐两旁，各开二寸许陷中。）\n足三里（见痿症。）\n膏肓（四椎骨下，两旁各开三寸五分，《金鉴》云：正坐曲脊，从髀骨上角，摸索至髀骨下头，其间当有四肋三间。按其中一间空处，是其穴也。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 76,
+      "source_path": [
+        "應灸七十症",
+        "勞傷"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "513cc353931699c005a2f98d61995f33a441d46ce5cbf768604f92668522ec52",
+      "content_sha256": "3f0ee454f2b9218040c88a7efd088b72758a54ed0a7b7ba07bd0c46247379fab",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 388,
+        "simplified_codepoints": 388
+      },
+      "order": 20
+    },
+    {
+      "chapter_key": "ff7370dbc75416f457b47928",
+      "title": "咳嗽",
+      "volume": "应灸七十症",
+      "content": "先贤论咳嗽，以有声为咳，有痰为嗽，有声有痰为咳嗽。其初起多因于风寒，延久多成于虚损。若咳甚欲吐，灸身柱。因痰而嗽，灸足三里。气促咳逆，觉从左升，易于动怒者，灸肝俞。咳嗽见血者，灸肺俞，或灸行间。吐脓者，灸期门。日久成劳者，灸膏肓弗误。\n身柱（大椎穴下三节骨下间，按其窔中。）\n足三里（见痿症。）\n肝俞（见眩晕。）\n肺俞（见劳伤。）\n行间（见尸厥。）\n期门（两乳下，第二肋骨端。）\n膏肓（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 86,
+      "source_path": [
+        "應灸七十症",
+        "咳嗽"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "028651bf9c34010a3b4ef27146d564423d83d46131e619e96fd82b64f5dc8bed",
+      "content_sha256": "494fcf4af6fa6771e17a43b2875b79830747855c27dd9072f6361a313162ebd7",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 198,
+        "simplified_codepoints": 198
+      },
+      "order": 21
+    },
+    {
+      "chapter_key": "37977343bd84bb5435033830",
+      "title": "喘症",
+      "volume": "应灸七十症",
+      "content": "喘病之因有四：有因寒邪入肺而喘者，有因病阻肺气而喘者，有因水停心下而喘者，有因肾不纳气而喘者。统宜先灸天突，次灸中脘，甚则兼灸肺俞。所有哮喘不得卧者，须灸灵台。行动遂喘急者，须灸气海。得能按穴灸之，去沉疴犹拔刺耳。\n天突（结喉下二寸陷中。）\n中脘（脐上四寸。）\n肺俞（见劳伤。）\n灵台（六节骨下窔中。）\n气海（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 95,
+      "source_path": [
+        "應灸七十症",
+        "喘症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "9a224406f5e9c94147767da5b78bf4fc33563d6e0286ef21da20745331cb24f9",
+      "content_sha256": "18081c1ad1d87db9931e38acd595aa3ac1d1e1ac433932d62be827a7dae421b8",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 160,
+        "simplified_codepoints": 160
+      },
+      "order": 22
+    },
+    {
+      "chapter_key": "edebfae746db303481ce6c0b",
+      "title": "血症",
+      "volume": "应灸七十症",
+      "content": "书谓：吐血成升斗者属胃血也，其余咯血属心，呕血属肝，咳血属肺，唾血属肾。凡有一概血症，总当先灸胆俞。血痰灸其上脘。咯血喉中有声，灸其天突。如五劳七伤，诸虚百损而患血者，灸其膏肓，弗可缓也。据（管见），暴患之血症，实火为多，不宜辄灸；灸患之血症，虚火不少，用灸无妨，切须辨之。\n胆俞、上脘（并见劳伤。）\n天突（见喘症。）\n膏肓（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 102,
+      "source_path": [
+        "應灸七十症",
+        "血症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "57707dd0cb6f0d2dd71331a579e75dd5139e81ca32f27c6fd2acae82c0631011",
+      "content_sha256": "811b823d3e7d7548ed71821d373237f5ee9fbe18321f6454e8090cc9abd19dca",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        103,
+        104,
+        105,
+        106
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 168,
+        "simplified_codepoints": 168
+      },
+      "order": 23
+    },
+    {
+      "chapter_key": "f9cd132ef04b22fbe6bdb45f",
+      "title": "汗症",
+      "volume": "应灸七十症",
+      "content": "汗有自盗之分，不可以不知也。盖自汗为阳虚，不因劳动而自出也。盗汗为阴虚，睡而汗出，醒而收也。灸其尺泽，可以奏勋。设未效者，膈俞灸之，必然全愈。\n尺泽（见中风。）\n膈俞（七脊下，各开二寸，正坐取之。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 107,
+      "source_path": [
+        "應灸七十症",
+        "汗症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "8213b5ee6cabd9dafed5a71a774bd40217ec41f8e6a6efcb6e4033267dbea5a2",
+      "content_sha256": "9dac3ebf01192cd0bf5158ee9d0b8af95000c163ed85a39824c8291f9c7f7bd7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        108,
+        109,
+        110
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 99,
+        "simplified_codepoints": 99
+      },
+      "order": 24
+    },
+    {
+      "chapter_key": "b2f6d24837a43485ac904939",
+      "title": "肺痿",
+      "volume": "应灸七十症",
+      "content": "久嗽肺虚，而成肺痿。痿者萎也，犹枝叶之萎落也。时吐涎沫，声音不扬，或嗽血丝，形容枯槁。斯症属虚者多，非肺痈属实之可比。当先灸其肺俞，兼灸膏肓可也。\n肺俞、膏肓（皆见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 111,
+      "source_path": [
+        "應灸七十症",
+        "肺痿"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "f5ca5b8c5f012641faee6496958d9b443b58234823585b738ebb6a7f6a8a6ba7",
+      "content_sha256": "1ac6ac566d7efe04d141d3c0a3dc89f7da5ad0d2ae4f6edeb550fb4114300a97",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        112,
+        113
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 86,
+        "simplified_codepoints": 86
+      },
+      "order": 25
+    },
+    {
+      "chapter_key": "d0cbca398fd2e649c86944e0",
+      "title": "肺痈",
+      "volume": "应灸七十症",
+      "content": "久咳不已，胸中隐隐而疼，吐痰腥臭，或吐血脓，是为肺痈。痈者，壅也。良由风寒内郁，郁久成火，火刑金脏而成。法当灸其天突，兼服清肺之方，庶几有效。\n天突（见喘症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 114,
+      "source_path": [
+        "應灸七十症",
+        "肺癰"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b20495e35e1112b9ccc986f3de87197405fe1af611283b3e37b535c18c581da5",
+      "content_sha256": "8619c2591fcd9f4324f1d32cb37b62bd68d11137c76e2956afe53988f6d5d8c7",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        115,
+        116
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 26
+    },
+    {
+      "chapter_key": "7e1be8c21cdb0f1721339856",
+      "title": "惊悸怔忡",
+      "volume": "应灸七十症",
+      "content": "《正传》曰：惊悸者，忽然若有惊，惕惕然心中不宁，其动也有时；怔忡者，心中惕惕然，动摇不静，其作也无时。医家虽有辨别，总灸上脘穴为宜。\n上脘（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 117,
+      "source_path": [
+        "應灸七十症",
+        "驚悸怔忡"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "265ccdfa240decc3d3bce1eabcd9c29eb24787d8bcaeb29002c0fdb672ec6163",
+      "content_sha256": "61f5bcef5261c298d5a40617a3581fe2d27d9e2fc7b7b0a7cb8e25ca02b9b114",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        118,
+        119
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 27
+    },
+    {
+      "chapter_key": "1f642691adac807537e5254d",
+      "title": "健忘",
+      "volume": "应灸七十症",
+      "content": "忘前失后，曰健忘也。良由精神短少、神志不交所致，亦有因思虑过度者，或因所愿不遂者，或因痰溷心者包。病因虽异，皆当灸百会一穴而记忆自强矣。\n百会（见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 120,
+      "source_path": [
+        "應灸七十症",
+        "健忘"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "7a9ad97f0a405a7f5e1e078fe3a42cdebb18b0904a6628a71b8f70855b67d611",
+      "content_sha256": "fcb42fa69fedbdc07e48e4942b01f5b00b39553277f649b8896757bafd9a721d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        121,
+        122
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 77,
+        "simplified_codepoints": 77
+      },
+      "order": 28
+    },
+    {
+      "chapter_key": "5918d0d7a46cfe0eb9692c5a",
+      "title": "阳痿",
+      "volume": "应灸七十症",
+      "content": "阳痿者，阳物痿软而不举也。年老之人，则常有之。若少壮之人，是为真火衰惫，法当灸其气海。\n气海（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 123,
+      "source_path": [
+        "應灸七十症",
+        "陽痿"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "f6545959c0f5ff23a72ff3a1b41eda2bf1a877ba0b4895d214c0d4a75afc8bd7",
+      "content_sha256": "31768e3c28598d8fa5b98d5043e977ae11072e732e82344df1cdbb8af797967b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        124,
+        125
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 52,
+        "simplified_codepoints": 52
+      },
+      "order": 29
+    },
+    {
+      "chapter_key": "35550b03ed0e9ce24c32b0d5",
+      "title": "阴痿",
+      "volume": "应灸七十症",
+      "content": "阳物收缩，卵阴入腹，皆为阴症也。法宜先灸气海，再灸大椎。\n气海（见劳伤。）\n大椎（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 126,
+      "source_path": [
+        "應灸七十症",
+        "陰痿"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "6721651631fd801ef6d2c15d9fab55cd5006e61ce6d4f2f03627cc207e8fc24f",
+      "content_sha256": "066901bda6933c7377de2920212c8f3ddfa83cd182a8e5226087d40050b6c637",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        127,
+        128,
+        129
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 46,
+        "simplified_codepoints": 46
+      },
+      "order": 30
+    },
+    {
+      "chapter_key": "fe88ebba57ac68a1f0202840",
+      "title": "臌胀",
+      "volume": "应灸七十症",
+      "content": "倪氏论臌，有气、血、虫、水、单是也，论胀，有寒、热、虚、实、湿、食、瘀、积、肝、肾是也。方家必分五臌若何？十胀若何？余谓：臌胀在上，灸于上脘，在中；灸于中脘；在下，灸于下脘，或灸气海。至若胀及两胁者，灸于期门。胀及背腰者，灸于胃俞。胀至两腿者，灸足三里。胀至两足者，灸行间可也。\n上脘（见劳伤。）\n中脘（见喘症。）\n下脘（脐上二寸。）\n气海（见劳伤。）\n期门（见喘症。）\n胃俞（十一节下，各开二寸。）\n足三里（见痿症。）\n行间（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 130,
+      "source_path": [
+        "應灸七十症",
+        "臌脹"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "1b3a194f058969c644151052ca13fcb31b1e6abccab127a1566a9fd783da57bc",
+      "content_sha256": "59cbb9c12041f87ea6d45e9d35583b8853dfe317da378ad9ef4fb0021700306b",
+      "paragraph_count": 9,
+      "paragraph_ordinals": [
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 219,
+        "simplified_codepoints": 219
+      },
+      "order": 31
+    },
+    {
+      "chapter_key": "bf45332e2dff511bb145c0eb",
+      "title": "肿满",
+      "volume": "应灸七十症",
+      "content": "先圣曰：诸湿肿满，皆属于脾。盖脾主水谷，虚而失运，水谷停留，故成肿满也。后贤分而为四：一曰水肿，皮薄色嫩，按之成凹也，一曰气肿，皮厚色苍，按之即起也；一曰风肿，走注肿疼，皮肤麻木也；一曰瘀肿，肿而红亮，有血缕痕也。以上诸肿，宜灸内庭。如罔验者，行间、大敦皆可灸之。\n内庭、行间、大敦（三穴皆见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 140,
+      "source_path": [
+        "應灸七十症",
+        "腫滿"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b1fa98c34654af202f5fe7b7cff321c2096ab6b1448235fd99fe81e25405415f",
+      "content_sha256": "1993d5b119b83d784db89dbfd4ba0013697fc255c8e81013978b702d03823cfd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        141,
+        142
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 150,
+        "simplified_codepoints": 150
+      },
+      "order": 32
+    },
+    {
+      "chapter_key": "fc737ecdbc1a3535c37d590f",
+      "title": "症瘕",
+      "volume": "应灸七十症",
+      "content": "症有七，蚊、蛇、鳖、虱、肉、米，发也。瘕有八，青、黄、燥、血、脂、狐、蛇、鳖也。其实症者，征也，有块可征。瘕者，假也，假物成形。总之不外乎气血交滞。倘因气滞而成者，灸气海。因血凝而致者，灸天枢可耳。\n气海、天枢（并见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 143,
+      "source_path": [
+        "應灸七十症",
+        "癥瘕"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "2accf349ffcc96ef62bd5bf193cd8d031ae7e80eeee8bf5544ad115d29b9eb30",
+      "content_sha256": "a50e9fd8b4dfef7edac5e5ca1bc53c2f8488830e7b3821f89393e09671b353df",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        144,
+        145
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 112,
+        "simplified_codepoints": 112
+      },
+      "order": 33
+    },
+    {
+      "chapter_key": "4aa6adf3ec8fd93dd719a557",
+      "title": "痃癖",
+      "volume": "应灸七十症",
+      "content": "痃者，弦也，有若弓弦，腹有一条扛起，现于肌肉之外。癖者，僻也，隐僻于膂脊肠胃之后。皆宜灸下脘，或灸足三里。\n下脘（见臌胀。）\n足三里（见痿症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 146,
+      "source_path": [
+        "應灸七十症",
+        "痃癖"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "d28f0763ff174dbc5433bac952f77b79378f666e89034bdac7ba40bf235b43ae",
+      "content_sha256": "29ecf153302d680aaf558681009c6c0100ce576528f5c06695773a183cb63b3a",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        147,
+        148,
+        149
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 34
+    },
+    {
+      "chapter_key": "7f7131983e39a78abfef012d",
+      "title": "疝气",
+      "volume": "应灸七十症",
+      "content": "疝有七，寒、水、气、血、筋、狐、㿗是也。时俗统称为小肠气。张子和谓疝气虽有七种，总不离乎肝病也。七疝之症，先宜灸气海，继宜灸中极，或灸三阴。若阴囊偏肿者，灸大敦有效。\n气海（见劳伤。）\n中极（脐下四寸。）\n三阴（见痿症。）\n大敦（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 150,
+      "source_path": [
+        "應灸七十症",
+        "疝氣"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "3f4e961bc182532016f5894421def6595941f6370a2ae062f4cb08fd7690730b",
+      "content_sha256": "253d9c34190ffdf83ba9063e16cc36f35887199d5e4d002e6fdceeb1199511b3",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 120,
+        "simplified_codepoints": 120
+      },
+      "order": 35
+    },
+    {
+      "chapter_key": "91c64742b8c3c6d358b1ef7e",
+      "title": "伏梁",
+      "volume": "应灸七十症",
+      "content": "伏梁者，心积也，起于脐上，大如臂，上至心下，久则令人烦心。当灸上脘，或灸中脘可安。\n上脘（见劳伤。）\n中脘（见喘症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 156,
+      "source_path": [
+        "應灸七十症",
+        "伏梁"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "2a5689e44958ca22c9283be9b4927f06df1adf26533416eb457f0bc34f5a797f",
+      "content_sha256": "0ef7a714702accb8f0dd47c0ad732af5a2fdca39a65b460b649b51a6516cc52c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        157,
+        158,
+        159
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 36
+    },
+    {
+      "chapter_key": "4b6f5d1c11312b3de8840588",
+      "title": "奔豚",
+      "volume": "应灸七十症",
+      "content": "奔豚者，肾积也，发于少腹，上至于心，如豚奔走状，上下无时，久则喘逆，骨痿少气。先灸气海，兼灸中极为是。\n气海（见劳伤。）\n中极（见疝气。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 160,
+      "source_path": [
+        "應灸七十症",
+        "奔豚"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b40e7a33301d6a82edaf9452d2946707c6db9368b5bfe91b0d5570e1edc832ab",
+      "content_sha256": "f73b98c82cc58fad3f23e685ef5174f362c99629842194a0f8e89e9c5d94d54c",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        161,
+        162,
+        163
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 69,
+        "simplified_codepoints": 69
+      },
+      "order": 37
+    },
+    {
+      "chapter_key": "61082e7808cc8cc4440dddfb",
+      "title": "脚气",
+      "volume": "应灸七十症",
+      "content": "脚气者，两脚浮肿而重，湿脚气也。不红不肿而痛，干脚气也。不拘干湿，皆宜灸风市灸。倘或红肿，行步艰难，灸大敦穴可愈。\n风市（见中风。）\n大敦（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 164,
+      "source_path": [
+        "應灸七十症",
+        "腳氣"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "944f7a13278ef5d1b7c9b57f0e833169a51ac90d06c2004801eac225cf29eb46",
+      "content_sha256": "0ac276dae868b5ee7b314aac45b5a9fb250c654709baa0cb4b0cde0244ddcf28",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        165,
+        166,
+        167
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 38
+    },
+    {
+      "chapter_key": "cb4fce105b5f18b89426b349",
+      "title": "腹鸣",
+      "volume": "应灸七十症",
+      "content": "腹鸣者，腹中鸣响也。其因痰饮者，灸上脘。因胃寒而肠鸣者，灸胃俞穴，或灸足三里。\n上脘（见劳伤。）\n胃俞（见臌胀。）\n足三里（见痿症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 168,
+      "source_path": [
+        "應灸七十症",
+        "腹鳴"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "eca5d2a5b9d74036adbc8215cb4d2ad6a7c9c3a464f4b6d49786ae0045cd9e1f",
+      "content_sha256": "b34fcd5d1a20a92e75405a232909c2cb668caa81597cca4979b3ec98cabef9e3",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        169,
+        170,
+        171,
+        172
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 67,
+        "simplified_codepoints": 67
+      },
+      "order": 39
+    },
+    {
+      "chapter_key": "d432389a4ebd403384edce3c",
+      "title": "噎膈",
+      "volume": "应灸七十症",
+      "content": "噎膈之因有五：有气滞者，有血瘀者，有火炎者，有痰凝者，有食积者。虽分五种，总属七情之变。凡药不能效者，上宜灸天突，中宜灸中脘，下灸足三里为要。\n天突、中脘（见喘症。）\n足三里（见痿症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 173,
+      "source_path": [
+        "應灸七十症",
+        "噎膈"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "adbe76a9d58cc2f2baff1f4df754bfa9d29f12bef4512f715b46a8a80f00ffe9",
+      "content_sha256": "d67af81349bf36b16440cffe3f407491f4e1f35d47a05405f2462d3dcf02f4fd",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        174,
+        175,
+        176
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 93,
+        "simplified_codepoints": 93
+      },
+      "order": 40
+    },
+    {
+      "chapter_key": "9826af69d4129304132dc734",
+      "title": "反胃",
+      "volume": "应灸七十症",
+      "content": "反胃者，饮食能入，入而反出，故曰反胃。良由脾胃阳虚，运行失职，不能熟腐水谷，变化精微，朝食暮吐，暮食朝吐。即王太仆云：食入反出，是无火也。法当灸中脘、下脘，兼灸膈俞。若未效者，再灸脾俞、胃俞，甚则灸足三里。\n中脘（见喘症。）\n下脘（见臌胀。）\n膈俞（见汗症。）\n脾俞（见痹症。）\n胃俞（见臌胀。）\n足三里（见痿症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 177,
+      "source_path": [
+        "應灸七十症",
+        "反胃"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "c79687d228b3b87ba59b6f309fb327da35abe00768f16ab0edbe13e9bc16676a",
+      "content_sha256": "fadaf32ac3541f3f73b22421e39762046b374e3983a80a45cb46ef36db83fbd0",
+      "paragraph_count": 7,
+      "paragraph_ordinals": [
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 158,
+        "simplified_codepoints": 158
+      },
+      "order": 41
+    },
+    {
+      "chapter_key": "d5dc893d3b88503a9160b526",
+      "title": "霍乱",
+      "volume": "应灸七十症",
+      "content": "霍乱症，猝然心腹作痛，上吐下泻，谓之湿霍乱也。欲吐不吐，欲泻不泻，谓之干霍乱也。急灸期门可愈。\n期门（见臌胀。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 185,
+      "source_path": [
+        "應灸七十症",
+        "霍亂"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "0208196c67c6207d6d6061d2b8004cde81e3716574cea0028479d8243925188f",
+      "content_sha256": "808d2c781760ace416de3c88b5c493eab9eb8813e6123ca166429a04fd317ddd",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        186,
+        187
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 56,
+        "simplified_codepoints": 56
+      },
+      "order": 42
+    },
+    {
+      "chapter_key": "6c1c4dd992faecc0c1f10651",
+      "title": "头痛",
+      "volume": "应灸七十症",
+      "content": "头痛者，有外感、内伤之分。如痛无休息者为外感，时痛时止者属内伤。若因头风而痛，宜灸百会，并灸神庭，合谷、胆俞皆可灸之。若头痛如破，或因内伤，宜灸命门自痊。\n百会（见中风。）\n神庭（见眩晕。）\n合谷（大指次指歧骨间陷中，即虎口两骨缝中。）\n胆俞（见劳伤。）\n命门（十四节骨下窔中。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 188,
+      "source_path": [
+        "應灸七十症",
+        "頭痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "423a43db68327e6f536081b3ca14aa9fccb3b8c4ced07304ddfe12c8ae9734bb",
+      "content_sha256": "b48dc26b0ccf99097a4a37abcf2630247358cd981c7f470a070a73bd3465207b",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 140,
+        "simplified_codepoints": 140
+      },
+      "order": 43
+    },
+    {
+      "chapter_key": "064c960dc2493d33b244daef",
+      "title": "心腹痛",
+      "volume": "应灸七十症",
+      "content": "真心痛者不可治。今云心痛者，皆胸中胃脘痛也。若胸腹痛者灸上脘，痛而不已灸行间，并灸膈俞。脐下冷痛，灸气海、关元。少腹寒痛，灸中极。夹脐而痛，上冲心痛，灸天枢。\n上脘（见劳伤。）\n行间（见尸厥。）\n膈俞（见汗症。）\n气海（见劳伤。）\n中极（见疝气。）\n天枢（见劳伤。）\n关元（脐下三寸。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 195,
+      "source_path": [
+        "應灸七十症",
+        "心腹痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "385feabbb7401e006516409c9dd1db61246362e56a315c070e79dc6fedad5476",
+      "content_sha256": "3e80ee15297a785168b2fcff8f02308d616b0cf6ae5637f7ec76874e422a6524",
+      "paragraph_count": 8,
+      "paragraph_ordinals": [
+        196,
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 143,
+        "simplified_codepoints": 143
+      },
+      "order": 44
+    },
+    {
+      "chapter_key": "692f6d3a590576600d4cde4f",
+      "title": "背痛",
+      "volume": "应灸七十症",
+      "content": "太阳之脉行身之背，忽被风湿所侵，则背膂强痛，宜灸身柱则瘳。\n身柱（见咳嗽。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 204,
+      "source_path": [
+        "應灸七十症",
+        "背痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "995461956404dcb72ea2de7529dc0f042d62e11bc74615bd0731bd2d3443e165",
+      "content_sha256": "0b50e9006c9d666d73ffc313af770097012f087847a3122685f2742256652022",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        205,
+        206
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 38,
+        "simplified_codepoints": 38
+      },
+      "order": 45
+    },
+    {
+      "chapter_key": "4243fd1d214fb3e210b201c3",
+      "title": "胁痛",
+      "volume": "应灸七十症",
+      "content": "胁痛在左，肝经受邪；在右，肝邪入肺。宜灸临泣可愈。\n临泣（从两目中直上，入发际五分陷中。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 207,
+      "source_path": [
+        "應灸七十症",
+        "脅痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "978ea8c59d92c97251869df863463d54b96f9eda4209d6a62e26fb714b8ea402",
+      "content_sha256": "cc53be180cb6592afd1bd694c138cfe912fd633c7bd91a9c5c4131fe475b0ab5",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        208,
+        209
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 45,
+        "simplified_codepoints": 45
+      },
+      "order": 46
+    },
+    {
+      "chapter_key": "e177c8a7d6f0e133a7333cf6",
+      "title": "腰痛",
+      "volume": "应灸七十症",
+      "content": "腰痛有四，当分灸之。如因房劳过度，则肾虚，灸肾俞穴。偶然欲跌则闪挫，灸气海穴。负重损伤，不能转侧，灸环跳穴。湿气下注，不能俯仰，灸腰俞穴。倘连腹而引痛者，灸命门穴则安。\n肾俞（见痹症。）\n气海（见劳伤。）\n环跳（见中风。）\n腰俞（见痹症。）\n命门（见头痛。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 210,
+      "source_path": [
+        "應灸七十症",
+        "腰痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "6fa685e11d06b8e8661a8b179000d4ec81a83bb5857f69e8fc20405c6b1c4ae9",
+      "content_sha256": "6aa0748236786c725b6a5f6934885dea0246d8a3763f969834c972edb66d5105",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        211,
+        212,
+        213,
+        214,
+        215,
+        216
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 129,
+        "simplified_codepoints": 129
+      },
+      "order": 47
+    },
+    {
+      "chapter_key": "7b446e62b47faee6dc351b42",
+      "title": "耳聋耳鸣",
+      "volume": "应灸七十症",
+      "content": "《绳墨》曰：肾气充盛则耳聪，肾气虚败则耳聋，肾气不足则耳鸣，肾气结热则耳聋。经谓耳为肾窍，肾虚耳聋宜灸肾俞，耳鸣宜灸风池。初患者先灸百会为是。\n肾俞（见痹症。）\n风池、百会（并见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 217,
+      "source_path": [
+        "應灸七十症",
+        "耳聾耳鳴"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "dc38a5755614e7516804a3fd91931f0d7bc1f1474c3f663e1daa40c77880ac08",
+      "content_sha256": "c438a3735e149b41927f6ad94c4e11aa2aa1376e491335af21d775c78de58e5d",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        218,
+        219,
+        220
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 93,
+        "simplified_codepoints": 93
+      },
+      "order": 48
+    },
+    {
+      "chapter_key": "6a7542bbace90a46f868e0bd",
+      "title": "目疾",
+      "volume": "应灸七十症",
+      "content": "眼科治目有五轮之分：两眦属心，曰血轮；乌珠属肝，曰风轮；两胞属脾，曰肉轮；白精属肺，曰气轮；瞳神属肾，曰水轮。其实肝开窍于目，总病实在乎肝。目初病者，先灸百会、上星、神庭三穴。日久内障起翳者，当灸临注。目䀮䀮而不了者，必须灸肾俞也。\n百会（见中风。）\n上星（从发际直上一寸，或眉心上四寸。）\n神庭（见头痛。）\n临泣（见胁痛。）\n肾俞（见痹症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 221,
+      "source_path": [
+        "應灸七十症",
+        "目疾"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "76e13f78b23869c9a2efc07ac40aed31c6ada279928e4e5454ff0218fa4db37d",
+      "content_sha256": "eb7cd19734c77865d6e80584fc26742074043f43ef56098777b8dc2ceca7d450",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        222,
+        223,
+        224,
+        225,
+        226,
+        227
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 172,
+        "simplified_codepoints": 172
+      },
+      "order": 49
+    },
+    {
+      "chapter_key": "84cb6e1b75b93713ba744250",
+      "title": "咽喉",
+      "volume": "应灸七十症",
+      "content": "咽乃饮食之道，喉乃呼吸之区，不容纤邪所容，否则遂成喉症矣。咽喉疼痛者，当灸内庭。喉疮、喉风者，当灸天突为亟。\n内庭（见尸厥。）\n天突（见喘症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 228,
+      "source_path": [
+        "應灸七十症",
+        "咽喉"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "77af82a324b3521350e0b14b76d2e4d431d543ef106eb3475fcd64d764880a4d",
+      "content_sha256": "657bc219deb9e0e98abd1a1dbeb65b79c0374ad501d63059c363f65d08cd6c14",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        229,
+        230,
+        231
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 72,
+        "simplified_codepoints": 72
+      },
+      "order": 50
+    },
+    {
+      "chapter_key": "0608d864381a8ff48c7388dc",
+      "title": "齿痛",
+      "volume": "应灸七十症",
+      "content": "齿乃骨之余，肾主病也。然则因阳明火炽而痛者，有因风、因虫而痛者，亦有因虚而痛者，方药莫能奏捷，必当用灸。倘颊肿牙痛灸风池，红肿牙痛灸手三里，齿龋须灸内庭也。\n风池（见中风。）\n手三里（见偏风。）\n内庭（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 232,
+      "source_path": [
+        "應灸七十症",
+        "齒痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b88ac982913de27c8dd1392051dd2f734dd53c8f4fb729fa7376041759bb6a1c",
+      "content_sha256": "27313cc2d975528689e27bf8a8674a8b0aef1b8c4c38e8d23b81a3c8b8ca190a",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        233,
+        234,
+        235,
+        236
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 106,
+        "simplified_codepoints": 106
+      },
+      "order": 51
+    },
+    {
+      "chapter_key": "97c12457098b5639c14b8060",
+      "title": "鼻血",
+      "volume": "应灸七十症",
+      "content": "鼻血者，因于肺肝有火也。肺窍在鼻，肝脏藏血，二经有火内炽则血沸腾，乘肺窍而出者也。急宜灸合谷穴一壮。\n合谷穴（见偏风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 237,
+      "source_path": [
+        "應灸七十症",
+        "鼻血"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "5732f0cbdea6d1503b1824cc948100a55047d502636995c3da01cb8113734e31",
+      "content_sha256": "78d149e07027d7997550eed3ca59b41a7ab28a57dfebebc1199ba31484127f52",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        238,
+        239
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 60,
+        "simplified_codepoints": 60
+      },
+      "order": 52
+    },
+    {
+      "chapter_key": "153f78443a6ef8f20046b9d0",
+      "title": "脑漏",
+      "volume": "应灸七十症",
+      "content": "胆移热于脑，脑漏黄浊之水，由鼻而出，甚则腥秽。亦有鼻塞不闻香臭者。均宜灸上星穴可也。\n上星（见目病。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 240,
+      "source_path": [
+        "應灸七十症",
+        "腦漏"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "2260ae07f62bb89c1e990c7d8ea582f59d6ba9d1059a3f44b9c2c583925d5a5e",
+      "content_sha256": "35fa8ab506a7e40f1821000f1ae978820213371e6044c7b62b71071bb89680c3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        241,
+        242
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 51,
+        "simplified_codepoints": 51
+      },
+      "order": 53
+    },
+    {
+      "chapter_key": "c9d356dee9d9b685140e72ef",
+      "title": "脱颏",
+      "volume": "应灸七十症",
+      "content": "颏者，口之下唇至末之处，俗名下巴也。有因气虚而脱者，有因呵欠而脱者，皆可灸风池穴。\n风池（见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 243,
+      "source_path": [
+        "應灸七十症",
+        "脫頦"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "8739da8b83a2401b313413e71008f22e806b17aa301f1bdf8bb54184ff7562bf",
+      "content_sha256": "79be8e7a3eed10b8dfef3185b97484fd72f36c3c072d1de38d62b665eef2ea8f",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        244,
+        245
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 50,
+        "simplified_codepoints": 50
+      },
+      "order": 54
+    },
+    {
+      "chapter_key": "6ab9bf140c25b45eaf347723",
+      "title": "遗精",
+      "volume": "应灸七十症",
+      "content": "书谓有梦精出为梦遗，无梦自遗为精滑。大凡梦遗者，由于相火之强。精滑者，由于心肾之损。拟方当分虚实，灸法统宜于关元、中极及之阴交。设未瘥者，再灸肾俞可耳。\n关元（见心腹痛。）\n中极（见疝气。）\n三阴交（见痿症。）\n肾俞（见痹症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 246,
+      "source_path": [
+        "應灸七十症",
+        "遺精"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "7eae293ecf32c0a90b033973463de88f7f0a1111e9b6bd54642bb32e98217cd6",
+      "content_sha256": "dc2e51a6ff0067811a16f4e558f5863aa7f75d51f2aa6fe895e7d756e9a6e2d9",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        247,
+        248,
+        249,
+        250,
+        251
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 114,
+        "simplified_codepoints": 114
+      },
+      "order": 55
+    },
+    {
+      "chapter_key": "01607324de16f83611ec7284",
+      "title": "浊症",
+      "volume": "应灸七十症",
+      "content": "丹溪曰：浊症之因有二，肥人多湿热，瘦人多肾虚。总之肾虚之质，下焦空豁则湿热阻于精窍，而成赤白浊也。当灸关元，兼灸行间自痊。\n关元（见心腹痛。）\n行间（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 252,
+      "source_path": [
+        "應灸七十症",
+        "濁症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "bbdd69753ee3562a45dfd1edb4885e826b385107474bf7259fffa1d1d77956ab",
+      "content_sha256": "347ff9b48bca6f3f379f9d8e405e9ed1d4664b5057128f4ca9d05dc8ffc0fe40",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        253,
+        254,
+        255
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 56
+    },
+    {
+      "chapter_key": "330243752448940cdf92ebb7",
+      "title": "淋痛",
+      "volume": "应灸七十症",
+      "content": "滴沥涩痛谓之淋，急满不通谓之闭。五淋之别，虽有气、砂、血、膏、劳之异，然皆肾虚而膀胱生热也。若小便赤涩，灸其下脘。小便痛沥，灸其关元。五淋之症，皆宜灸其中极。\n下脘（见臌胀。）\n关元（见心腹痛。）\n中极（见疝气。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 256,
+      "source_path": [
+        "應灸七十症",
+        "淋痛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "78bd8e13143b25e8f1e34efa515e4d31f05b76b7d3e8a498dcfe51cbc94fa607",
+      "content_sha256": "0e346c2822c6156c39a405c43996813e76e334dd0d482837a6314d11bc723ae8",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        257,
+        258,
+        259,
+        260
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 57
+    },
+    {
+      "chapter_key": "850a76024ada865d94c7c37a",
+      "title": "溺血",
+      "volume": "应灸七十症",
+      "content": "经谓胞移热于膀胱则溺血，是症未有不本于热者。当灸关元数忙。\n关元（见心腹痛。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 261,
+      "source_path": [
+        "應灸七十症",
+        "溺血"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "8fefa0a69d3ece5352b502447975df62fd78efcd65948f0a6743cc4bf498be5c",
+      "content_sha256": "051dbb5a70bcc83bc22bea8e90218e1b993b2438e4824ebb579ebe7b5afbc46d",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        262,
+        263
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 39,
+        "simplified_codepoints": 39
+      },
+      "order": 58
+    },
+    {
+      "chapter_key": "3d02c2b0eb771c6ed99d912c",
+      "title": "遗溺",
+      "volume": "应灸七十症",
+      "content": "遗溺者，由于中气虚衰，不能摄固所致。老年下元不足，孩提脬气未固多有之。总当灸其三阴。若小便频数者灸大敦，小儿遗尿者灸气海。\n三阴（见痿症。）\n大敦（见尸厥。）\n气海（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 264,
+      "source_path": [
+        "應灸七十症",
+        "遺溺"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "5673c4344f3c76cb8bdbee443aa808c8f35a726ca020370730e97d8a762e9d9c",
+      "content_sha256": "6659a29b15f868cec54ad297399d0ad6f14acb000b504cab6f06fe7e30c247be",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        265,
+        266,
+        267,
+        268
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 88,
+        "simplified_codepoints": 88
+      },
+      "order": 59
+    },
+    {
+      "chapter_key": "0e3cd9ca390227abf618c101",
+      "title": "便血",
+      "volume": "应灸七十症",
+      "content": "便血之症，有肠风，有脏毒。如下鲜血，大便燥结，名曰肠风。血色黯浊，大便溏泻，名曰脏毒。脏毒者灸肾俞，肠风者灸会阳。\n肾俞（见痹症。）\n会阳（尾尻骨两旁，各开二寸，尻骨节上两旁，各开寸半亦可。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 269,
+      "source_path": [
+        "應灸七十症",
+        "便血"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "fa0fb38ecf92ee214153c69773c0e2c33ca29ac86b18ab3c03a1d8ff8202825c",
+      "content_sha256": "62dcef02d6955793e244bba129b7f83e0efaa4e96eff6e9b377f934382dbb2b4",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        270,
+        271,
+        272
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 96,
+        "simplified_codepoints": 96
+      },
+      "order": 60
+    },
+    {
+      "chapter_key": "9893deb2dcdd990f0ca70ba4",
+      "title": "脱肛",
+      "volume": "应灸七十症",
+      "content": "肺与大肠相为表里，故肺热则肛藏，肺虚则肛脱。或因肠风痔漏，或因久痢久泻，或因产妇用力太早，或因小儿叫啼伤气。总须上灸百会，下灸会阳。\n百会（见中风。）\n会阳（见便血。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 273,
+      "source_path": [
+        "應灸七十症",
+        "脫肛"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "c3113285104bd0d4bec583c1e64b1dbc1c3927abc5d38aa8e80ce2d3d84b0851",
+      "content_sha256": "64b4e41a4f4f78b4ba3db35a7e421a7b6580153533ef62f5a1964e9c195eb6c2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        274,
+        275,
+        276
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 84,
+        "simplified_codepoints": 84
+      },
+      "order": 61
+    },
+    {
+      "chapter_key": "2d441adf68b6ea6c135b16f6",
+      "title": "痔疮",
+      "volume": "应灸七十症",
+      "content": "古人论痔，有牝、牡、虫、血之分。其实皆大肠积热所致。当灸会阳几壮，庶冀而安。\n会阳（见便血。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 277,
+      "source_path": [
+        "應灸七十症",
+        "痔瘡"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "c462e64a9b26c81a6468051b9604d734010596f077392b5d661b18761740bff1",
+      "content_sha256": "1e9cb1cd01abf71c08544b275d047e233572db46a41763e9abf9d7262b3af879",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        278,
+        279
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 47,
+        "simplified_codepoints": 47
+      },
+      "order": 62
+    },
+    {
+      "chapter_key": "32a8dab2ef0d35ace6ec45c9",
+      "title": "泄泻",
+      "volume": "应灸七十症",
+      "content": "泄泻有五，乃脾虚、肾虚、湿寒、湿热、食积也。脾虚则食少便频，肾虚则五更作泻，湿寒则便溏溺白，湿热则下利肠垢，食泻则吞酸嗳腐。在医家当分而治，在灸家先取天枢，其次会阳之穴。\n天枢（见劳伤。）\n会阳（见便血。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 280,
+      "source_path": [
+        "應灸七十症",
+        "泄瀉"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "382d61154a8194a6091e2024da78fae5c6627f4f0a15f5bcc43a6cc70e1dc199",
+      "content_sha256": "70791ef8802215345029712a5cca1f13225db554850fdfef168e259275e999f7",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        281,
+        282,
+        283
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 103,
+        "simplified_codepoints": 103
+      },
+      "order": 63
+    },
+    {
+      "chapter_key": "997c772996ca3953f94e42f2",
+      "title": "痢疾",
+      "volume": "应灸七十症",
+      "content": "古人以赤痢为湿热，伤于血分；白痢为湿寒，伤于气分。凡初患赤白痢积者，法当灸其天枢，兼之中脘。如日久不愈，脾肾两伤者，当灸脾俞，兼之会阳也。\n天枢（见劳伤。）\n中脘（见喘症。）\n脾俞（见痹症。）\n会阳（见便血。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 284,
+      "source_path": [
+        "應灸七十症",
+        "痢疾"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "eaeb6d8bba4d90b59ea5e5e8b33bd0f15b6f8ae679282003a31bc9af3de1b183",
+      "content_sha256": "3f8e82ddd32ae8217063849511c4ab6af0362c5a4c4edb47cc441147ef20bca7",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        285,
+        286,
+        287,
+        288,
+        289
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 105,
+        "simplified_codepoints": 105
+      },
+      "order": 64
+    },
+    {
+      "chapter_key": "98f42524f6751862b2c14a30",
+      "title": "伤寒",
+      "volume": "应灸七十症",
+      "content": "伤寒者，由冬令伤于寒邪，法当辛散。其误治也，变为结胸，宜灸期门。若妇人经水适来，邪热入于血室，昼则明了，夜则谵语，亦灸期门之穴。若饮水过多腹胀者，灸其中脘。余热解不尽者，当灸曲池可也。\n期门（见咳嗽。）\n中脘（见喘症。）\n曲池（见偏风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 290,
+      "source_path": [
+        "應灸七十症",
+        "傷寒"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "27399dd2d5228d78373560308dd7c0e2bf0f95c3eb8e385bc576ba11941af85c",
+      "content_sha256": "101bd2baef3c161a9af8cd8b4f5947c6e59d04b5196ce5cfe301d7abf4a75327",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        291,
+        292,
+        293,
+        294
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 119,
+        "simplified_codepoints": 119
+      },
+      "order": 65
+    },
+    {
+      "chapter_key": "2ef6bf7f097f9eb05b810830",
+      "title": "热病",
+      "volume": "应灸七十症",
+      "content": "经曰：冬伤于寒，春必病温，至夏为热病。热病者，皆伤寒之类也。当用辛凉之剂。设未效者，当灸上脘。若烦闷者，须灸行间。\n上脘（见劳伤。）\n行间（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 295,
+      "source_path": [
+        "應灸七十症",
+        "熱病"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "bbc24d012d7a78703faf63369d3bdd0bddc4396531d9030c80124436c7316a56",
+      "content_sha256": "ba79388857c63c5ce879a2ecec155f808514c0f9ca0fc4b6d8619b4593e424f8",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        296,
+        297,
+        298
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 75,
+        "simplified_codepoints": 75
+      },
+      "order": 66
+    },
+    {
+      "chapter_key": "1531b9ae512ff75ad8a73af6",
+      "title": "疟疾",
+      "volume": "应灸七十症",
+      "content": "疟疾之病，由夏令先受暑邪，至秋时发为疟疾。秋风欲入，伏暑欲出，表里交争，寒热成矣。连日发者则浅，隔日发者则深，隔两日发者则更深矣。诸般疟疾，法当先灸大椎。痰盛之体，灸其尺泽。日久不已，灸其内庭。按穴灸之，则疟自遁。\n大椎（见劳伤。）\n尺泽（见中风。）\n内庭（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 299,
+      "source_path": [
+        "應灸七十症",
+        "瘧疾"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "af9dba01c36fdf823e2f221905c582ec1077c07183bca135a68235ad29b9f24d",
+      "content_sha256": "575acacfbfaada82687bf5b62365427e47442e0317fc34c71f623325abee1055",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        300,
+        301,
+        302,
+        303
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 134,
+        "simplified_codepoints": 134
+      },
+      "order": 67
+    },
+    {
+      "chapter_key": "d52280f66d06d9a926a96838",
+      "title": "黄疸",
+      "volume": "应灸七十症",
+      "content": "黄疸有五，曰阳黄、阴黄、酒疸、谷疸及女劳疸。其病本皆不离乎湿也。应灸之穴有四，即上脘、肝俞、胆俞、脾俞是也。\n上脘（见劳伤。）\n肝俞（见眩晕。）\n胆俞（见劳伤。）\n脾俞（见痹症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 304,
+      "source_path": [
+        "應灸七十症",
+        "黃疸"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "f0c05296dcce32ecf675c22ef8ce40bd4aec0b54385da5f7c832c97673ea30ea",
+      "content_sha256": "c2e29097206f6c3ef060194d3251013b7fe96935cd3bdced8b369aa60d7a2e13",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        305,
+        306,
+        307,
+        308,
+        309
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 90,
+        "simplified_codepoints": 90
+      },
+      "order": 68
+    },
+    {
+      "chapter_key": "56ff06f006f56a5f8c7f6714",
+      "title": "癫病",
+      "volume": "应灸七十症",
+      "content": "经谓重阴者癫，癫则多喜，若痴若呆，或笑或泣，缘于所谋不遂而致也。当灸身柱一穴。\n身柱（见咳嗽。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 310,
+      "source_path": [
+        "應灸七十症",
+        "癲病"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "26c0b27b14f3a06501dbfe47fc9c7a5ae86192b2129c1f85b7dc4a1e957bfdd4",
+      "content_sha256": "d6052a96be5e67f9b5723bdb8d413e0ab111fd2a670081bbbef62710c8b4e8e3",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        311,
+        312
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 48,
+        "simplified_codepoints": 48
+      },
+      "order": 69
+    },
+    {
+      "chapter_key": "18da899b8fd35be73d0c3652",
+      "title": "痫症",
+      "volume": "应灸七十症",
+      "content": "痫症者，忽倒无知，神昏牙闭，角弓反张，抽搐流涎。古人分为五痫，有马鸣、羊嘶、牛吼、犬吠、猪啼等语，究属痰涎蓄于经络也。灸家不须细别，当其初发之时，先灸百会，兼灸上脘。每发每灸，日渐自瘥。\n百会（见中风。）\n上脘（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 313,
+      "source_path": [
+        "應灸七十症",
+        "癇症"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "032acfb61955cfe5c0032c8504478cec134411382eef4116ed6fee923c61566b",
+      "content_sha256": "4c71babec7464a42a9cb3b323d75cb32fb6b3812ccb2315884f86faf7a5a81c2",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        314,
+        315,
+        316
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 111,
+        "simplified_codepoints": 111
+      },
+      "order": 70
+    },
+    {
+      "chapter_key": "0f9b6392f96b68d4ae39fca0",
+      "title": "癞病",
+      "volume": "应灸七十症",
+      "content": "癞病，疠风也，俗称为大麻风。良由湿胜则生风，风胜则生虫，所以皮肤脱落，肌肉浮紫，满躯作痒，状若虫行。宜灸曲池可愈。\n曲池（见偏风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 317,
+      "source_path": [
+        "應灸七十症",
+        "癩病"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "f64d2029eb82ad62435087a3d6b3d771a27f0c80b5d361427a2577fe5dc89596",
+      "content_sha256": "76e6b294684cde501336ba692f066b7486a685a5983cf14eca423f51627a969b",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        318,
+        319
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 66,
+        "simplified_codepoints": 66
+      },
+      "order": 71
+    },
+    {
+      "chapter_key": "4c0e19a7bf4ba7ce5ffd5a8f",
+      "title": "疹病",
+      "volume": "应灸七十症",
+      "content": "肌发红点，有若蚊咬者为热疹，细粒透显者为风疹，不透出者为隐疹。隐疹宜灸曲池，风疹、热疹宜乎合谷、环跳。\n曲池（见偏风。）\n合谷（见偏风。）\n环跳（见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 320,
+      "source_path": [
+        "應灸七十症",
+        "疹病"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "2f7d1f17f0054889b1b528e1ef0511167d23b78b47315a0d60c57695f28dbfca",
+      "content_sha256": "a5921d1df1f153b9c1c6153c9f2af89b43b7128421eeaf2896a3226385e09149",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        321,
+        322,
+        323,
+        324
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 72
+    },
+    {
+      "chapter_key": "eba4eef7922514a4614338f1",
+      "title": "痰疾",
+      "volume": "应灸七十症",
+      "content": "痰属湿，津液所化也。流则为津，行则为液，聚则为痰，上则为涎。其实百病兼痰为多也，灸其上脘，痰自化矣。\n上脘（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 325,
+      "source_path": [
+        "應灸七十症",
+        "痰疾"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "66d26a40f005d4c8a5a7d74413d384dc832dc742163983db90c209acd50728a6",
+      "content_sha256": "4d436d115aa87e50d02894393b1b5aa15e65480ae1890c469f7f397433187636",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        326,
+        327
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 59,
+        "simplified_codepoints": 59
+      },
+      "order": 73
+    },
+    {
+      "chapter_key": "077fda8b645a4b6fc12c28cb",
+      "title": "饮食",
+      "volume": "应灸七十症",
+      "content": "胃司纳受，脾主消导，一纳一消，运行不息。设脾胃衰弱，则失消纳之权。若饮食不思，灸其上脘。饮食少减，灸其中脘。饮食不化，灸其下脘，或灸天枢。食不下、欲干呕者，宜灸胆俞穴也。\n上脘（见劳伤。）\n中脘（见喘症。）\n下脘（见臌胀。）\n天枢（见劳伤。）\n胆俞（见劳伤。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 328,
+      "source_path": [
+        "應灸七十症",
+        "飲食"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "6078180bff7d67326e9054c7736bda6cf97ba8bf94627f9c02bef85b57546133",
+      "content_sha256": "45c498930cd18be2646670aba5afc4f2cdf65b7db175ce40f9334843c20d0626",
+      "paragraph_count": 6,
+      "paragraph_ordinals": [
+        329,
+        330,
+        331,
+        332,
+        333,
+        334
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 130,
+        "simplified_codepoints": 130
+      },
+      "order": 74
+    },
+    {
+      "chapter_key": "d26f94ea6386cf6ee24e4e99",
+      "title": "调经",
+      "volume": "应灸七十症",
+      "content": "月经者，一月一至也。超前退后，谓云不调。女子经水不调者，当灸气海，兼灸中极。妇人月水枯闭者，当灸腰俞可愈。\n气海（见劳伤。）\n中极（见疝气。）\n腰俞（见痹症。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 335,
+      "source_path": [
+        "應灸七十症",
+        "調經"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "2d060b0933d82337727400610fd6b0ab50ec48fef5bd21e706847ec31b82d7bd",
+      "content_sha256": "983d1303bb9b46d2fd8d05038ea89d58cd73d943b3443669d1e9b223f9f6c81c",
+      "paragraph_count": 4,
+      "paragraph_ordinals": [
+        336,
+        337,
+        338,
+        339
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 80,
+        "simplified_codepoints": 80
+      },
+      "order": 75
+    },
+    {
+      "chapter_key": "f9fa816ec668c5893fb38c67",
+      "title": "血崩",
+      "volume": "应灸七十症",
+      "content": "血崩之症，良由肝脾两伤。盖肝不能藏，脾不能统，所以经血忽崩。宜灸气海、大敦二穴。\n气海（见劳伤。）\n大敦（见尸厥。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 340,
+      "source_path": [
+        "應灸七十症",
+        "血崩"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "10a5f379543cb3a0f94a0142f7fe6109c81e866cbdac8a735f8ca4115e7c1799",
+      "content_sha256": "585a7be2dffb1c78375a77e3cca2ea0bcf2981fc634d7e903ae0d7d88d6dc3a9",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        341,
+        342,
+        343
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 58,
+        "simplified_codepoints": 58
+      },
+      "order": 76
+    },
+    {
+      "chapter_key": "7582634a09491176bc1bdea9",
+      "title": "带下",
+      "volume": "应灸七十症",
+      "content": "古人治带，有五色之论，而分五脏之疗。又以赤属血、白属气之说。其实带下之病，本在乎带脉，以带脉横于腰间，如束带然，故名也。法当灸关元数壮。\n关元（见心腹痛。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 344,
+      "source_path": [
+        "應灸七十症",
+        "帶下"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "e15679425661d22b5dcae49a9ceeaa3b4b50321a228228d28b2aefabe8bd41cb",
+      "content_sha256": "b202122c8edab8d860651b5d5e4766213f0b0157f8ecb82fa1758279a2530458",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        345,
+        346
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 78,
+        "simplified_codepoints": 78
+      },
+      "order": 77
+    },
+    {
+      "chapter_key": "02e56bc094925f5e49e47109",
+      "title": "种子",
+      "volume": "应灸七十症",
+      "content": "女子不孕之故，由伤其冲任也。若三因之邪伤其冲任之脉，则有月经不调、漏崩带下。或因宿血积于胞中，或因胞寒、胞热，或因体盛痰多，脂膜壅塞胞中，皆不能成孕也。当灸中极为要。\n中极（见疝气。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 347,
+      "source_path": [
+        "應灸七十症",
+        "種子"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "cb099586045e49140ba193d62fdaa2dff063fd3032f47c1b8b52bad83d14ea58",
+      "content_sha256": "db7d3b29ef20206bc1bc59d46ecfc74d020a75e8b0a32247d572614a08ed489a",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        348,
+        349
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 92,
+        "simplified_codepoints": 92
+      },
+      "order": 78
+    },
+    {
+      "chapter_key": "7338781220753bf45c6d4686",
+      "title": "胎漏",
+      "volume": "应灸七十症",
+      "content": "怀胎数月，而经水偶下者，谓之胎漏也。由于劳力损伤，或由冲脉有热，或由气怒伤肝，皆能致之也。宜灸关元自止。\n关元（见心腹痛。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 350,
+      "source_path": [
+        "應灸七十症",
+        "胎漏"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b165ec70244556d7e958b9085ad80ea8a61e1b9c4c0e5a7bad14b7bcb9e9c238",
+      "content_sha256": "1532b6e9434a4f9acfaa5fa199f20818279fdf43ca10144f44d48a7c9fca9d57",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        351,
+        352
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 62,
+        "simplified_codepoints": 62
+      },
+      "order": 79
+    },
+    {
+      "chapter_key": "0c7a4e009e8814987706e1d7",
+      "title": "产后",
+      "volume": "应灸七十症",
+      "content": "产后之疴，莫能尽述，应灸之症，姑略详之。恶露不行，宜灸中极。恶露不止，宜灸气海，或灸关元。关元、中极只离一寸，一欲其行，一欲其止，分寸不准，灾害并至矣。\n中极（见疝气。）气海（见劳伤。）\n关元（见心腹痛。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 353,
+      "source_path": [
+        "應灸七十症",
+        "產後"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "944c3c208fd31154f4faea7f82c40fdf673ab46e9c92c6c66af3357e0064e2aa",
+      "content_sha256": "e84e34cbaf79b64787b8d0ec3a4e10b066f7a90b79857d47c5de53a2cb8c0304",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        354,
+        355,
+        356
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 103,
+        "simplified_codepoints": 103
+      },
+      "order": 80
+    },
+    {
+      "chapter_key": "83e1d8884069b23a20e7ef40",
+      "title": "胞衣不下",
+      "volume": "应灸七十症",
+      "content": "胞衣停滞者，或因气力疲败，或因恶露所阻，皆令不下也。服诸药罔效者，当灸中极立下。\n中极（见疝气。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 357,
+      "source_path": [
+        "應灸七十症",
+        "胞衣不下"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "c4ea23b55930e1dbdb6795189afd4962d13a820e4d836e1705185b11c683039c",
+      "content_sha256": "32a1eb87cec611e110ef447d9a9f2b52c3cc38f111dcbbe228beb2fe5f875408",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        358,
+        359
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 49,
+        "simplified_codepoints": 49
+      },
+      "order": 81
+    },
+    {
+      "chapter_key": "ff54a74a9f9e32b11c15827f",
+      "title": "惊风",
+      "volume": "应灸七十症",
+      "content": "惊风者，有急慢之分焉。急惊者，忽然搐搦，身体壮热，面红唇赤，牙闭痰迷，兼之二便不通，宜灸身柱、曲池。慢惊者，缓缓搐搦，身体温和，面色淡黄，或睡露睛，兼之大便青色，宜灸腕骨、尺泽。若闭目、摇头、额汗、昏睡、面青、肢厥、频吐清水，此慢脾风，不可救也。\n身柱（见咳嗽。）\n曲池（见偏风。）\n腕骨（手外侧腕前起骨下陷中，即小指直上处。）\n尺泽（见中风。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 360,
+      "source_path": [
+        "應灸七十症",
+        "驚風"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "a6ac04c4ab52c2cb4f65450ea073c5663cb4f917e3b48214bebce9d408fdd991",
+      "content_sha256": "def9b62a5aa707884144ec4d09d14933c06ff0946b2815bf7226dc229e59b12e",
+      "paragraph_count": 5,
+      "paragraph_ordinals": [
+        361,
+        362,
+        363,
+        364,
+        365
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 173,
+        "simplified_codepoints": 173
+      },
+      "order": 82
+    },
+    {
+      "chapter_key": "fb401cee864e897fe8399bcf",
+      "title": "疳劳",
+      "volume": "应灸七十症",
+      "content": "小儿疳劳之症，面黄形瘦，肚大露筋，尿如米泔，午后潮热。皆因肥甘无节，停滞中州，传化迟滞，肠胃内伤，则生积热，热盛生疳。宜灸下脘、胃俞，自然告痊。\n下脘、胃俞（并见臌胀。）\n以上七十症，按穴灸之，自无差忒。若遇跌打损伤、瘀血疼痛、痰核疬串、无名肿毒，皆于患处灸之，使痛者灸至不痛，不痛者灸至痛，即愈。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 366,
+      "source_path": [
+        "應灸七十症",
+        "疳勞"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "8a998947812bc70e9dda4d37d5f891c7fbde51c1306e6eeebe8afbd58eb79858",
+      "content_sha256": "3eb586ecc4fac30f28854f33df1e0e7e18808d303c022f698d657a8a6eda2033",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        367,
+        368,
+        369
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 149,
+        "simplified_codepoints": 149
+      },
+      "order": 83
+    },
+    {
+      "chapter_key": "38ccd6fd6c4bb25c90b38e8a",
+      "title": "药方",
+      "volume": "太乙神针",
+      "content": "艾绒（三两） 硫黄 麝香 乳香 没药 丁香 松香 桂枝 杜仲 枳壳 皂角 细辛 芎䓖 独活 雄黄 炮甲（以上各一钱）\n上药各秤足为末，与艾绒揉和，用绵夹绒一张，约长五寸、宽方尺，将绒药铺掺于纸上，用力实卷，如大指粗，即为一条。如绒药尚多，即多作几条，外再加纸三四层裹之，以鸡子清通刷外层三次，阴干收藏，勿使泄气。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 371,
+      "source_path": [
+        "太乙神針",
+        "藥方"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "b36e6f9d910a35aeebd510c1a1df71c0b23e07587eca84ae4fadf6c6791328ef",
+      "content_sha256": "0f8722f21ebbe43dee289953d40111e740989b0918c995d922af9057de4859ae",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        372,
+        373
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 156,
+        "simplified_codepoints": 156
+      },
+      "order": 84
+    },
+    {
+      "chapter_key": "75f2a1b61f4f7c771afe53b1",
+      "title": "用针法",
+      "volume": "太乙神针",
+      "content": "一用针先审病证，取何穴道，用墨涂记其上，以红布七层盖穴上，候针。\n一将针向灯烛上烧透，对准穴道放于红布上，若觉大热，将针略提起，俟热定再针。以七记数，小则一七，多则七七亦可。\n一用过药针，以极干竹筒封藏，犹可后用。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 374,
+      "source_path": [
+        "太乙神針",
+        "用針法"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "4f9f5c7712a39e31a60ee58f8a69c1e35d707e83e31ea515a30440ebfbb43ff6",
+      "content_sha256": "1d8b78a949954fea3047f8c5f4e1cf792bb9008d5e550b2a3c119c7ed2e15ec5",
+      "paragraph_count": 3,
+      "paragraph_ordinals": [
+        375,
+        376,
+        377
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 107,
+        "simplified_codepoints": 107
+      },
+      "order": 85
+    },
+    {
+      "chapter_key": "d4752b9f52f5df8e006d5a79",
+      "title": "穴道取寸法",
+      "volume": "太乙神针",
+      "content": "以男左女右手，中指第一节第二节，相去为一寸（图见前。）",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 378,
+      "source_path": [
+        "太乙神針",
+        "穴道取寸法"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "c6b2584ca088fbce0ef55937d674238453844d43561eddf42b0c244d41f194da",
+      "content_sha256": "8bc5528668e87c7180eb61ca6ca31f4894851f9dfa923439e7eca1af5eb0d1c9",
+      "paragraph_count": 1,
+      "paragraph_ordinals": [
+        379
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 27,
+        "simplified_codepoints": 27
+      },
+      "order": 86
+    },
+    {
+      "chapter_key": "92cc420905d72e7d94806fbf",
+      "title": "正面穴道证治",
+      "volume": "太乙神针",
+      "content": "（图见前）\n百会穴（从鼻直上入发际五寸，旋毛陷中，可容指处。督脉）。凡中风、头风，风癫、角弓反张、忘前失后、气绝、脱肛、目泪、耳聋，针此穴。\n上星穴（从发际直上一寸，宜上可容豆处。督脉）。凡脑冷、鼻塞、脑漏、汗不出、目睛痛，针此穴。\n神庭穴（从鼻上直入发际五分。督脉）。凡头疼、目眩、出泪、流涕，针此穴。\n天突穴（结喉下二寸陷中，低首取之。任脉）。凡喉疮、喉风、哮喘、气噎、肺痈、咯血、喉中有声，针此穴。\n上脘穴（脐上五寸，任脉。）凡心腹疼痛，惊悸，痰疾、伏梁、气蛊状如覆盆、风痫等征，针此穴。\n中脘穴（脐上四寸，任脉。）凡反胃、吐食、心下胀满状如伏梁、伤寒饮水过多、腹胀、气喘、寒癖，针此穴。\n下脘穴（脐上二寸。任脉）。凡腹胀坚硬、痃癖气块、小便赤涩、身体羸瘦，针此穴。\n气海穴（脐下一寸五分。任脉）。凡男子阳事久惫、妇人经水不调及滞气成块状若覆盆，针此穴。\n关元穴（脐下三寸。任脉）。凡男子遗精白浊、脐下冷痛、小便痛涩，妇人赤白带下、经水不调，针此穴。\n中极穴（脐下四寸。任脉）。凡男子奔豚抢心、遗沥失精、五淋、七疝、小便赤涩，妇人经水不调、不受胎孕，针此穴。\n临泣穴（从目中上入发际五分陷中，即临泣穴）。足少阳。凡目痛内障、赤白翳、腋肿、胁下痛，针两穴。\n客主人（一名上关）穴（耳前骨上宛中间，开口即空处。足少阳）。凡两额暴痛、口眼歪斜、牙关紧闭、失音不语，针两穴。\n期门穴（乳下第二肋疼骨端。足厥阴）。凡伤寒结胁、咳嗽吐脓、腹膨、霍乱、吐泻，妇人热入血室、产后饮食不调，针两穴。\n天枢穴（脐两旁，各开二寸。足阳明）。凡夹脐痛冲少腹、赤白痢疾、泄泻、饮食不化，男子血损，妇人血块，针两穴。\n肩髃穴（肩端两骨间陷中，举臂取之）。手阳明。凡手臂酸痛、不能提物，针两穴。\n曲池穴（屈手按胸，肘弯横纹尖尽处。手阳明）。凡偏风不遂、两手拘挛、臂细无力、肘内寒冷而痛，针两穴。\n手三里穴（曲池下二寸，锐肉端。手阳明）。凡手臂不仁、肘挛疼痛、颊颔红肿、齿痛、瘰疬，针两穴。\n风市穴（膝上七寸。外廉两筋间，端立垂手于股，中指尖到处。足少阳）。凡两腿麻木、左瘫右痪、一切脚气，针两穴。\n内庭穴（足次指三指歧骨陷中。足阳明）。凡水肿、厥逆、咽喉痛、久疟不食、恶闻人声、口歪、齿龋，针两穴。\n行间穴（足大指次指歧骨缝间动脉应手陷中。足厥阴）。凡白浊、尿难、腹胀、心疼、咳逆、吐血、烦闷、短气、手足浮肿、四肢厥冷，针两穴。\n大敦穴（足大指端去爪甲韭叶许三毛中。足厥阴）。凡小肠疝气、小便频数、阳上入腹、阴痛偏大、脐腹肿胀而痛、尸厥如死、脚气红肿、妇人血崩，针两穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 380,
+      "source_path": [
+        "太乙神針",
+        "正面穴道證治"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "7e7c18469deafe222c7269fd774578964190256c304c35419e8d94b8716c8ac5",
+      "content_sha256": "2636cb5a4d6557b228ecdc9e459710e9b90033b04cda757a74257f8912b1224d",
+      "paragraph_count": 22,
+      "paragraph_ordinals": [
+        381,
+        382,
+        383,
+        384,
+        385,
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392,
+        393,
+        394,
+        395,
+        396,
+        397,
+        398,
+        399,
+        400,
+        401,
+        402
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 1073,
+        "simplified_codepoints": 1073
+      },
+      "order": 87
+    },
+    {
+      "chapter_key": "62b6cc7d00909ca316213805",
+      "title": "背面穴道证治",
+      "volume": "太乙神针",
+      "content": "（图见前）\n大椎穴（第三节颈骨下第一节上间。督脉）。凡劳疾遍身发热、诸疟、针此穴。\n身柱穴（大椎穴下三节骨下间。督脉）。凡脊膂强痛、咳吐、瘛疭、发热，针此穴。\n命门穴（十四节骨下间。督脉）。凡腰腹引痛、头疼如破、里急、瘛疭，针此穴。\n肺俞穴（三椎骨下，两旁各开二寸。足太阳）。凡传尸骨蒸、肺痿、吐血、咳嗽、气喘，针两穴。\n风池穴（耳后陷中，按之引耳内。足少阳）。凡耳聋虚鸣、脱颔、口噤、颊痛、牙疼并肿，针两穴。\n膏肓穴（四椎节下两旁各开三寸五分。足太阳）。凡劳伤虚损、肺痿、咯血、咳嗽吐痰、寒热、四肢无力，针两穴。\n脾俞穴（十一椎节下，两旁各开二寸。足太阳）。凡诸般黄疸、四肢不收、痹痛、膈疼、泄痢、翻胃、积聚、疾疟，针两穴。\n肾俞穴（十四椎节下，两旁各开二寸。足太阳）。凡腰痛如折、便血、出精、阴痛、身热、耳聋、目䀮、膝挛、足寒，针两穴。\n环跳穴（在髀枢中，侧卧屈上足、伸下足取之。大腿曰股，股上曰髀，楗骨之下、大腿之上、两骨合缝之所曰髀枢，当环跳穴处也）。楗，健，上声。足少阳。凡中风、中痰、半身不遂、腰胯强直、股痛引肋、不得转身，针两穴。\n会阳穴（尾尻骨两旁，各开二寸。足太阳）。凡痔疮、肠澼、两肾尖痛、久泻、久痢、阴汗湿痒、脱肛，针两穴。\n足三里穴（膝下三寸䯒外廉，以手掌按膝头，中指尖到处，股外旁也。足阳明）。凡翻胃、气膈、肠鸣膨胀、痃癖、胸胃畜血、咳嗽稠痰、足痿失屐，针两穴。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 403,
+      "source_path": [
+        "太乙神針",
+        "背面穴道證治"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "1680361c4471caf972d9734d4ce0688d3c0a132a09dba379e2b7a41dd03b6f1d",
+      "content_sha256": "ea7265b40caf61ebf6f2808fc7fb41d410725c2214239af29f705e092eb60277",
+      "paragraph_count": 12,
+      "paragraph_ordinals": [
+        404,
+        405,
+        406,
+        407,
+        408,
+        409,
+        410,
+        411,
+        412,
+        413,
+        414,
+        415
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 594,
+        "simplified_codepoints": 594
+      },
+      "order": 88
+    },
+    {
+      "chapter_key": "9443ede6cfa6ed1118aa5776",
+      "title": "太乙神针正面背面穴道诗",
+      "volume": "太乙神针",
+      "content": "看穴先准鼻当中，上入发际三穴踪，神庭（入发）五分上星（入发）倍，（一寸）百会（入发）五寸旋毛宫（三穴俱督脉）。天突（在）结喉（下）二寸陷（中），三脘（音管，胃上中下）脐上量（平声）以通，上脘五寸中渐减，中四下二勿朦胧。气海脐下寸余五，关元（即丹田）两股（三寸）足函容，再下又加其一寸，穴称中极当中穷（七穴俱任脉）。左右两旁共临泣，（足少阳从）目中直上入发五十厘，两客主人（足少阳）耳前骨，开口即空而便知。期门（足厥阴在）乳下第二肋，疼骨之端试揣之。天枢（足阳明）以脐为则子，两旁二寸各开驰。肩髃肩端两骨缝，肘弯有穴视茫微，肘弯横纹尖尽处。（必须）屈手按胸（乃）见（纹尖之）曲池。曲池之下手三里（三穴俱手阳明，曲池相去）二寸锐肉端头视（次平声）。正坐垂手两股间，中指尖处风市（上声，足少阳）归。内庭（足阳明）乃在两足指，次三歧骨陷中耳。大指次指动中间，谓之行间须载记。再若大指去爪（甲如）韭（叶许），从三毛中大敦（二穴俱是厥阴）是。大椎以上（有二骨为）项二骨，大椎（自项骨算起，大椎当第三）以下（为）脊（骨）第一，第三节下身柱名，十四节下命门（三穴具督脉）地。风池（足少阳）耳后（寸半）陷中存，按之（则）引耳（内）知的实。肺俞（在两饭匙骨缝中）脾俞肾俞（三穴俱足太阳）场，脊骨各开二寸切，（言不移，脊骨）第三（椎下）为肺十一脾，十四又将肾俞列。四椎节下号膏肓（足太阳，）各开三寸五分疆。环跳（音条，足少阳）正在髀枢处，务要侧身眠在床，伸其下足屈上足，（以）取之乃可识其乡。尻骨两边各（开）二寸，问讯穴名曰会阳（阴，足太阳）。膝下三寸外廉畔，足三里（足阳明）与手殊方，掌按膝头中指（尖）尽（处），诲人认法剧精详。穴道取寸法折衷，男左女右手指中，中指第一第二节，相距即寸于此逢。\n按穴治病，针无不愈。方自范毓䭲而后，王大德、沈士元、周雍和诸人皆用之，实予人以易从，切勿以其浅近而忽之也。此法及诗，自古今医诗集中录出。刘国光识。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 416,
+      "source_path": [
+        "太乙神針",
+        "太乙神針正面背面穴道詩"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "3dd5b7589fe0f9c3dcc383fa7601bb653c6679349038738bbe3c14146129c30e",
+      "content_sha256": "96bf8e46d631faf40440d1a08bc676064a1e885b97c5a73b43402d2cf1393110",
+      "paragraph_count": 2,
+      "paragraph_ordinals": [
+        417,
+        418
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 810,
+        "simplified_codepoints": 810
+      },
+      "order": 89
+    },
+    {
+      "chapter_key": "0d5f3024d69ab3e39dabd94e",
+      "title": "附雷火针法",
+      "volume": null,
+      "content": "治一切闪挫、诸骨节痛及寒湿诸气而畏刺者。方用\n沉香 木香 乳香 茵陈 羌活 干姜 穿山甲（以上各三钱） 麝（少许） 祁艾（二两）\n以绵纸半尺，先铺艾、茵于上，次将各药末掺上，卷极紧，收用。\n按定痛穴，笔点记，外用纸六七层隔穴。将卷取太阳真火，用圆珠、火镜皆可燃红（用灯烛烧燃亦可），按穴上，良久取起，剪去灰，再烧再按，九次即愈。\n灸一次，念咒一遍。先燃火在手，念咒曰：\n雷霆官将，火德星君，药奏奇功，方得三界六腑之神，针藏烈焰，炼成于仙都九转之门，蠲除痛患，扫荡妖氛，吾奉南斗六星、太上老君，急急如律令。\n咒毕，即以雷火针按穴灸之。\n此乃孙真人所制，流传至今，颇为灵验。制药时，毋令妇女、鸡、犬见。其方载《针灸大全》。\n又按《御纂医家金鉴》，有雷火神针方，药只三味。歌曰：\n雷火神针攻寒湿，附骨疽痛针之宜，丁麝二香共祁艾，燃针痛处功效奇。\n景岳新方因阵内亦有二方，注明治风寒湿毒之气留滞经络，而为痛为肿，不能散者。其一于五月五日，取东引桃枝玄皮，长一二寸，两头削如鸡子尖，向灯上燃著，随子患处隔纸数层，以针按灸。一则方法药味与太乙神针相同，惟多白芷一味。盖命名虽异，而治病则有同功焉。",
+      "shiyi": null,
+      "source_url": "https://jicheng.tw/tcm/book/%E7%81%B8%E6%B3%95%E7%A7%98%E5%82%B3/index.html",
+      "source_ordinal": 419,
+      "source_path": [
+        "附雷火針法"
+      ],
+      "source_sha256": "76a520503dbb72f57dc69e9d776208e9bad48d1c2593017881d175db9c2df582",
+      "original_sha256": "f36f5db53198c106ff2decb67bbf01a679f263551bdfd6a1f6daa88b54492e31",
+      "content_sha256": "3a880a2aa70cd0e49c18ef13b3bb9bf2e6b9281b977504cc433722937b4cd53e",
+      "paragraph_count": 11,
+      "paragraph_ordinals": [
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427,
+        428,
+        429,
+        430
+      ],
+      "conversion": {
+        "engine": "opencc-js@1.4.2",
+        "from": "t",
+        "to": "cn",
+        "numerals_preserved": true,
+        "paragraphs_preserved": true,
+        "original_codepoints": 492,
+        "simplified_codepoints": 492
+      },
+      "order": 90
+    }
+  ]
+}

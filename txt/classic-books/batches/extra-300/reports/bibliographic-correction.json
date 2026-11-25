@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-11-23T15:32:33.709Z",
+  "passed": true,
+  "book_id": 534,
+  "name": "金匮方歌括",
+  "preflight": {
+    "mode": "preflight",
+    "database": "qingnang",
+    "started_at": "2026-11-23T15:32:33.007Z",
+    "books": [
+      {
+        "key": "extra_312",
+        "name": "金匮方歌括",
+        "existing_book": false,
+        "book_id": null,
+        "action": "insert",
+        "existing_chapters": 0,
+        "conflicts": [],
+        "planned_chapters": 247,
+        "inserted_books": 0,
+        "inserted_chapters": 0,
+        "committed": false
+      }
+    ],
+    "finished_at": "2026-11-23T15:32:33.066Z",
+    "summary": {
+      "existing_books": 0,
+      "planned_new_books": 1,
+      "inserted_books": 0,
+      "planned_chapters": 247,
+      "inserted_chapters": 0,
+      "conflicts": 0,
+      "errors": 0
+    }
+  },
+  "report": {
+    "mode": "apply",
+    "database": "qingnang",
+    "started_at": "2026-11-23T15:32:33.097Z",
+    "books": [
+      {
+        "key": "extra_312",
+        "name": "金匮方歌括",
+        "existing_book": false,
+        "book_id": 534,
+        "action": "insert",
+        "existing_chapters": 0,
+        "conflicts": [],
+        "planned_chapters": 247,
+        "inserted_books": 1,
+        "inserted_chapters": 247,
+        "committed": true
+      }
+    ],
+    "finished_at": "2026-11-23T15:32:33.485Z",
+    "summary": {
+      "existing_books": 0,
+      "planned_new_books": 1,
+      "inserted_books": 1,
+      "planned_chapters": 247,
+      "inserted_chapters": 247,
+      "conflicts": 0,
+      "errors": 0
+    }
+  },
+  "repeat": {
+    "mode": "preflight",
+    "database": "qingnang",
+    "started_at": "2026-11-23T15:32:33.518Z",
+    "books": [
+      {
+        "key": "extra_312",
+        "name": "金匮方歌括",
+        "existing_book": true,
+        "book_id": 534,
+        "action": "reuse",
+        "existing_chapters": 247,
+        "conflicts": [],
+        "existing_metadata_sha256": "cd9ce9c42566fac42a11415a1e0a09408a9c7c3b0248c8d51b6f09c4d823597d",
+        "planned_chapters": 0,
+        "inserted_books": 0,
+        "inserted_chapters": 0,
+        "committed": false
+      }
+    ],
+    "finished_at": "2026-11-23T15:32:33.709Z",
+    "summary": {
+      "existing_books": 1,
+      "planned_new_books": 0,
+      "inserted_books": 0,
+      "planned_chapters": 0,
+      "inserted_chapters": 0,
+      "conflicts": 0,
+      "errors": 0
+    }
+  },
+  "original_error": {
+    "book_id": 330,
+    "name": "内经药瀹",
+    "chapter_count": 11,
+    "rollback_status": "awaiting_user_authorization",
+    "reference": "https://w9.ihp.sinica.edu.tw/ihpmedicine/posts/1503"
+  }
+}

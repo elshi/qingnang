@@ -71,13 +71,16 @@ class AcupointController extends Controller
         if (!$this->validId($id)) return $this->error('穴位 ID 无效', 422);
 
         try {
-            $record = Acupoint::query()->select(self::FIELDS)->find((int) $id);
+            $imageBase = $this->imageBaseUrl();
+            $fields = $imageBase ? array_merge(self::FIELDS, ['pictures']) : self::FIELDS;
+            $record = Acupoint::query()->select($fields)->find((int) $id);
             if (!$record) return $this->error('未找到该穴位', 404);
             return $this->success(array_merge($this->listItem($record), [
                 'alias' => PlainText::clean($record->alias),
                 'adscription' => PlainText::clean($record->adscription),
                 'indications' => PlainText::clean($record->indications),
                 'locate' => PlainText::clean($record->locate),
+                'location_image' => $imageBase ? $this->locationImage($record, $imageBase) : null,
                 'acupoints' => PlainText::clean($record->acupoints),
                 'acupuncture' => PlainText::clean($record->acupuncture),
                 'precautions' => PlainText::clean($record->precautions),
@@ -94,6 +97,28 @@ class AcupointController extends Controller
         } catch (Throwable $error) {
             return $this->databaseError($error);
         }
+    }
+
+    private function imageBaseUrl(): ?string
+    {
+        $base = rtrim(trim((string) config('database.acupoint_image_base_url')), '/');
+        if (!filter_var($base, FILTER_VALIDATE_URL)) return null;
+        $parts = parse_url($base);
+        if (($parts['scheme'] ?? '') !== 'https' || empty($parts['host'])
+            || isset($parts['user']) || isset($parts['pass']) || isset($parts['query']) || isset($parts['fragment'])) {
+            return null;
+        }
+        return $base;
+    }
+
+    private function locationImage(Acupoint $record, string $base): ?string
+    {
+        foreach ([$record->locate, $record->pictures] as $html) {
+            if (preg_match('~<img\b[^>]*?\ssrc\s*=\s*([\'\"])(/upload/material/image/\d{4}/\d{2}/\d{2}/\d+\.(?:jpe?g|png|webp))\1~i', (string) $html, $match)) {
+                return $base . $match[2];
+            }
+        }
+        return null;
     }
 
     private function listItem(Acupoint $record): array
@@ -120,8 +145,9 @@ class AcupointController extends Controller
 
     private function splitTitle(string $title): array
     {
-        if (preg_match('/^(.*?)[（(]\s*([A-Za-z]{1,4}\s*\d+)\s*[）)]\s*$/u', $title, $matches)) {
-            return [trim($matches[1]), strtoupper((string) preg_replace('/\s+/', '', $matches[2]))];
+        if (preg_match('/^(.*?)[（(]\s*((?:EX-[A-Z]{1,3}|[A-Z]{1,4})\s*\d+[+⁺]?)\s*[）)]\s*$/iu', $title, $matches)) {
+            $code = str_replace('⁺', '+', (string) preg_replace('/\s+/', '', $matches[2]));
+            return [trim($matches[1]), strtoupper($code)];
         }
         return [$title, ''];
     }

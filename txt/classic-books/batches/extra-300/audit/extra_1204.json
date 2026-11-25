@@ -1,0 +1,551 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%AD%86%E8%8A%B1%E9%86%AB%E9%8F%A1/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "鍾序",
+        "path": [
+          "鍾序"
+        ]
+      },
+      {
+        "ordinal": 4,
+        "level": 1,
+        "title": "自序",
+        "path": [
+          "自序"
+        ]
+      },
+      {
+        "ordinal": 7,
+        "level": 1,
+        "title": "例論",
+        "path": [
+          "例論"
+        ]
+      },
+      {
+        "ordinal": 16,
+        "level": 1,
+        "title": "卷一",
+        "path": [
+          "卷一"
+        ]
+      },
+      {
+        "ordinal": 17,
+        "level": 2,
+        "title": "診脈歌",
+        "path": [
+          "卷一",
+          "診脈歌"
+        ]
+      },
+      {
+        "ordinal": 21,
+        "level": 2,
+        "title": "望舌色",
+        "path": [
+          "卷一",
+          "望舌色"
+        ]
+      },
+      {
+        "ordinal": 23,
+        "level": 2,
+        "title": "望聞問切論",
+        "path": [
+          "卷一",
+          "望聞問切論"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 2,
+        "title": "表裡虛實寒熱辨",
+        "path": [
+          "卷一",
+          "表裡虛實寒熱辨"
+        ]
+      },
+      {
+        "ordinal": 30,
+        "level": 2,
+        "title": "內傷外感雜治說",
+        "path": [
+          "卷一",
+          "內傷外感雜治說"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 2,
+        "title": "傷寒論治",
+        "path": [
+          "卷一",
+          "傷寒論治"
+        ]
+      },
+      {
+        "ordinal": 36,
+        "level": 2,
+        "title": "虛勞論治",
+        "path": [
+          "卷一",
+          "虛勞論治"
+        ]
+      },
+      {
+        "ordinal": 39,
+        "level": 2,
+        "title": "疫痢瘧腫論治",
+        "path": [
+          "卷一",
+          "疫痢瘧腫論治"
+        ]
+      },
+      {
+        "ordinal": 41,
+        "level": 2,
+        "title": "附列諸方",
+        "path": [
+          "卷一",
+          "附列諸方"
+        ]
+      },
+      {
+        "ordinal": 207,
+        "level": 1,
+        "title": "卷二",
+        "path": [
+          "卷二"
+        ]
+      },
+      {
+        "ordinal": 208,
+        "level": 2,
+        "title": "臟腑證治",
+        "path": [
+          "卷二",
+          "臟腑證治"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 3,
+        "title": "心部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "心部"
+        ]
+      },
+      {
+        "ordinal": 263,
+        "level": 3,
+        "title": "肝部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "肝部"
+        ]
+      },
+      {
+        "ordinal": 315,
+        "level": 3,
+        "title": "脾部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "脾部"
+        ]
+      },
+      {
+        "ordinal": 363,
+        "level": 3,
+        "title": "肺部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "肺部"
+        ]
+      },
+      {
+        "ordinal": 410,
+        "level": 3,
+        "title": "腎部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "腎部"
+        ]
+      },
+      {
+        "ordinal": 443,
+        "level": 3,
+        "title": "胃部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "胃部"
+        ]
+      },
+      {
+        "ordinal": 490,
+        "level": 3,
+        "title": "膀胱部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "膀胱部"
+        ]
+      },
+      {
+        "ordinal": 513,
+        "level": 3,
+        "title": "膽部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "膽部"
+        ]
+      },
+      {
+        "ordinal": 536,
+        "level": 3,
+        "title": "大腸部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "大腸部"
+        ]
+      },
+      {
+        "ordinal": 561,
+        "level": 3,
+        "title": "小腸部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "小腸部"
+        ]
+      },
+      {
+        "ordinal": 577,
+        "level": 3,
+        "title": "三焦部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "三焦部"
+        ]
+      },
+      {
+        "ordinal": 586,
+        "level": 3,
+        "title": "心包絡部",
+        "path": [
+          "卷二",
+          "臟腑證治",
+          "心包絡部"
+        ]
+      },
+      {
+        "ordinal": 589,
+        "level": 1,
+        "title": "卷三",
+        "path": [
+          "卷三"
+        ]
+      },
+      {
+        "ordinal": 590,
+        "level": 2,
+        "title": "兒科證治",
+        "path": [
+          "卷三",
+          "兒科證治"
+        ]
+      },
+      {
+        "ordinal": 591,
+        "level": 3,
+        "title": "兒科論治",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "兒科論治"
+        ]
+      },
+      {
+        "ordinal": 593,
+        "level": 3,
+        "title": "初生保治",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "初生保治"
+        ]
+      },
+      {
+        "ordinal": 595,
+        "level": 3,
+        "title": "外熱內熱辨",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "外熱內熱辨"
+        ]
+      },
+      {
+        "ordinal": 597,
+        "level": 3,
+        "title": "非驚論",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "非驚論"
+        ]
+      },
+      {
+        "ordinal": 599,
+        "level": 3,
+        "title": "痰火閉症",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "痰火閉症"
+        ]
+      },
+      {
+        "ordinal": 601,
+        "level": 3,
+        "title": "木侮土症",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "木侮土症"
+        ]
+      },
+      {
+        "ordinal": 603,
+        "level": 3,
+        "title": "大驚猝恐",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "大驚猝恐"
+        ]
+      },
+      {
+        "ordinal": 605,
+        "level": 3,
+        "title": "夜啼",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "夜啼"
+        ]
+      },
+      {
+        "ordinal": 607,
+        "level": 3,
+        "title": "吐瀉",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "吐瀉"
+        ]
+      },
+      {
+        "ordinal": 609,
+        "level": 3,
+        "title": "傷暑",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "傷暑"
+        ]
+      },
+      {
+        "ordinal": 611,
+        "level": 3,
+        "title": "食積痞積蟲積痰積水積",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "食積痞積蟲積痰積水積"
+        ]
+      },
+      {
+        "ordinal": 613,
+        "level": 3,
+        "title": "疳症",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "疳症"
+        ]
+      },
+      {
+        "ordinal": 615,
+        "level": 3,
+        "title": "盜汗自汗",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "盜汗自汗"
+        ]
+      },
+      {
+        "ordinal": 617,
+        "level": 3,
+        "title": "咳嗽",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "咳嗽"
+        ]
+      },
+      {
+        "ordinal": 619,
+        "level": 3,
+        "title": "解顱龜胸龜背",
+        "path": [
+          "卷三",
+          "兒科證治",
+          "解顱龜胸龜背"
+        ]
+      },
+      {
+        "ordinal": 714,
+        "level": 1,
+        "title": "卷四",
+        "path": [
+          "卷四"
+        ]
+      },
+      {
+        "ordinal": 715,
+        "level": 2,
+        "title": "女科證治",
+        "path": [
+          "卷四",
+          "女科證治"
+        ]
+      },
+      {
+        "ordinal": 717,
+        "level": 3,
+        "title": "婦女證論",
+        "path": [
+          "卷四",
+          "女科證治",
+          "婦女證論"
+        ]
+      },
+      {
+        "ordinal": 719,
+        "level": 3,
+        "title": "室女",
+        "path": [
+          "卷四",
+          "女科證治",
+          "室女"
+        ]
+      },
+      {
+        "ordinal": 721,
+        "level": 3,
+        "title": "月經",
+        "path": [
+          "卷四",
+          "女科證治",
+          "月經"
+        ]
+      },
+      {
+        "ordinal": 723,
+        "level": 3,
+        "title": "肝氣",
+        "path": [
+          "卷四",
+          "女科證治",
+          "肝氣"
+        ]
+      },
+      {
+        "ordinal": 727,
+        "level": 3,
+        "title": "帶下",
+        "path": [
+          "卷四",
+          "女科證治",
+          "帶下"
+        ]
+      },
+      {
+        "ordinal": 730,
+        "level": 3,
+        "title": "嗣孕",
+        "path": [
+          "卷四",
+          "女科證治",
+          "嗣孕"
+        ]
+      },
+      {
+        "ordinal": 735,
+        "level": 3,
+        "title": "胎前諸症",
+        "path": [
+          "卷四",
+          "女科證治",
+          "胎前諸症"
+        ]
+      },
+      {
+        "ordinal": 752,
+        "level": 3,
+        "title": "臨產將護法",
+        "path": [
+          "卷四",
+          "女科證治",
+          "臨產將護法"
+        ]
+      },
+      {
+        "ordinal": 763,
+        "level": 3,
+        "title": "產後諸症",
+        "path": [
+          "卷四",
+          "女科證治",
+          "產後諸症"
+        ]
+      },
+      {
+        "ordinal": 779,
+        "level": 3,
+        "title": "女科列方",
+        "path": [
+          "卷四",
+          "女科證治",
+          "女科列方"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [],
+    "unknown": [],
+    "stats": {
+      "heading_count": 56,
+      "paragraph_blocks": 807,
+      "nonempty_paragraph_blocks": 807,
+      "represented_paragraph_blocks": 807
+    }
+  }
+]

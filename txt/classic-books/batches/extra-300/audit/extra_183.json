@@ -1,0 +1,966 @@
+[
+  {
+    "source_url": "https://jicheng.tw/tcm/book/%E7%A5%9E%E8%BE%B2%E6%9C%AC%E8%8D%89%E7%B6%93%E7%99%BE%E7%A8%AE%E9%8C%84/index.html",
+    "toc": [
+      {
+        "ordinal": 1,
+        "level": 1,
+        "title": "序",
+        "path": [
+          "序"
+        ]
+      },
+      {
+        "ordinal": 6,
+        "level": 1,
+        "title": "凡例",
+        "path": [
+          "凡例"
+        ]
+      },
+      {
+        "ordinal": 15,
+        "level": 1,
+        "title": "上品",
+        "path": [
+          "上品"
+        ]
+      },
+      {
+        "ordinal": 16,
+        "level": 2,
+        "title": "丹砂",
+        "path": [
+          "上品",
+          "丹砂"
+        ]
+      },
+      {
+        "ordinal": 19,
+        "level": 2,
+        "title": "雲母",
+        "path": [
+          "上品",
+          "雲母"
+        ]
+      },
+      {
+        "ordinal": 22,
+        "level": 2,
+        "title": "石鐘乳",
+        "path": [
+          "上品",
+          "石鐘乳"
+        ]
+      },
+      {
+        "ordinal": 25,
+        "level": 2,
+        "title": "礬石",
+        "path": [
+          "上品",
+          "礬石"
+        ]
+      },
+      {
+        "ordinal": 28,
+        "level": 2,
+        "title": "朴硝",
+        "path": [
+          "上品",
+          "朴硝"
+        ]
+      },
+      {
+        "ordinal": 31,
+        "level": 2,
+        "title": "滑石",
+        "path": [
+          "上品",
+          "滑石"
+        ]
+      },
+      {
+        "ordinal": 34,
+        "level": 2,
+        "title": "禹餘糧",
+        "path": [
+          "上品",
+          "禹餘糧"
+        ]
+      },
+      {
+        "ordinal": 37,
+        "level": 2,
+        "title": "紫石英",
+        "path": [
+          "上品",
+          "紫石英"
+        ]
+      },
+      {
+        "ordinal": 41,
+        "level": 2,
+        "title": "五石脂",
+        "path": [
+          "上品",
+          "五石脂"
+        ]
+      },
+      {
+        "ordinal": 44,
+        "level": 2,
+        "title": "扁青",
+        "path": [
+          "上品",
+          "扁青"
+        ]
+      },
+      {
+        "ordinal": 47,
+        "level": 2,
+        "title": "菖蒲",
+        "path": [
+          "上品",
+          "菖蒲"
+        ]
+      },
+      {
+        "ordinal": 50,
+        "level": 2,
+        "title": "菊花",
+        "path": [
+          "上品",
+          "菊花"
+        ]
+      },
+      {
+        "ordinal": 53,
+        "level": 2,
+        "title": "人參",
+        "path": [
+          "上品",
+          "人參"
+        ]
+      },
+      {
+        "ordinal": 58,
+        "level": 2,
+        "title": "甘草",
+        "path": [
+          "上品",
+          "甘草"
+        ]
+      },
+      {
+        "ordinal": 61,
+        "level": 2,
+        "title": "乾地黃",
+        "path": [
+          "上品",
+          "乾地黃"
+        ]
+      },
+      {
+        "ordinal": 64,
+        "level": 2,
+        "title": "術",
+        "path": [
+          "上品",
+          "術"
+        ]
+      },
+      {
+        "ordinal": 67,
+        "level": 2,
+        "title": "菟絲子",
+        "path": [
+          "上品",
+          "菟絲子"
+        ]
+      },
+      {
+        "ordinal": 70,
+        "level": 2,
+        "title": "牛膝",
+        "path": [
+          "上品",
+          "牛膝"
+        ]
+      },
+      {
+        "ordinal": 73,
+        "level": 2,
+        "title": "柴胡",
+        "path": [
+          "上品",
+          "柴胡"
+        ]
+      },
+      {
+        "ordinal": 76,
+        "level": 2,
+        "title": "麥門冬",
+        "path": [
+          "上品",
+          "麥門冬"
+        ]
+      },
+      {
+        "ordinal": 78,
+        "level": 2,
+        "title": "車前子",
+        "path": [
+          "上品",
+          "車前子"
+        ]
+      },
+      {
+        "ordinal": 82,
+        "level": 2,
+        "title": "木香",
+        "path": [
+          "上品",
+          "木香"
+        ]
+      },
+      {
+        "ordinal": 85,
+        "level": 2,
+        "title": "薏苡仁",
+        "path": [
+          "上品",
+          "薏苡仁"
+        ]
+      },
+      {
+        "ordinal": 89,
+        "level": 2,
+        "title": "澤瀉",
+        "path": [
+          "上品",
+          "澤瀉"
+        ]
+      },
+      {
+        "ordinal": 93,
+        "level": 2,
+        "title": "遠志",
+        "path": [
+          "上品",
+          "遠志"
+        ]
+      },
+      {
+        "ordinal": 96,
+        "level": 2,
+        "title": "龍膽",
+        "path": [
+          "上品",
+          "龍膽"
+        ]
+      },
+      {
+        "ordinal": 99,
+        "level": 2,
+        "title": "細辛",
+        "path": [
+          "上品",
+          "細辛"
+        ]
+      },
+      {
+        "ordinal": 102,
+        "level": 2,
+        "title": "石斛",
+        "path": [
+          "上品",
+          "石斛"
+        ]
+      },
+      {
+        "ordinal": 105,
+        "level": 2,
+        "title": "蓍實",
+        "path": [
+          "上品",
+          "蓍實"
+        ]
+      },
+      {
+        "ordinal": 108,
+        "level": 2,
+        "title": "黃連",
+        "path": [
+          "上品",
+          "黃連"
+        ]
+      },
+      {
+        "ordinal": 111,
+        "level": 2,
+        "title": "黃耆",
+        "path": [
+          "上品",
+          "黃耆"
+        ]
+      },
+      {
+        "ordinal": 114,
+        "level": 2,
+        "title": "肉蓯蓉",
+        "path": [
+          "上品",
+          "肉蓯蓉"
+        ]
+      },
+      {
+        "ordinal": 117,
+        "level": 2,
+        "title": "防風",
+        "path": [
+          "上品",
+          "防風"
+        ]
+      },
+      {
+        "ordinal": 120,
+        "level": 2,
+        "title": "續斷",
+        "path": [
+          "上品",
+          "續斷"
+        ]
+      },
+      {
+        "ordinal": 123,
+        "level": 2,
+        "title": "決明子",
+        "path": [
+          "上品",
+          "決明子"
+        ]
+      },
+      {
+        "ordinal": 126,
+        "level": 2,
+        "title": "丹參",
+        "path": [
+          "上品",
+          "丹參"
+        ]
+      },
+      {
+        "ordinal": 129,
+        "level": 2,
+        "title": "五味子",
+        "path": [
+          "上品",
+          "五味子"
+        ]
+      },
+      {
+        "ordinal": 132,
+        "level": 2,
+        "title": "蛇床子",
+        "path": [
+          "上品",
+          "蛇床子"
+        ]
+      },
+      {
+        "ordinal": 134,
+        "level": 2,
+        "title": "沙參",
+        "path": [
+          "上品",
+          "沙參"
+        ]
+      },
+      {
+        "ordinal": 137,
+        "level": 2,
+        "title": "菌桂",
+        "path": [
+          "上品",
+          "菌桂"
+        ]
+      },
+      {
+        "ordinal": 141,
+        "level": 2,
+        "title": "松脂",
+        "path": [
+          "上品",
+          "松脂"
+        ]
+      },
+      {
+        "ordinal": 144,
+        "level": 2,
+        "title": "槐實",
+        "path": [
+          "上品",
+          "槐實"
+        ]
+      },
+      {
+        "ordinal": 147,
+        "level": 2,
+        "title": "柏實",
+        "path": [
+          "上品",
+          "柏實"
+        ]
+      },
+      {
+        "ordinal": 150,
+        "level": 2,
+        "title": "茯苓",
+        "path": [
+          "上品",
+          "茯苓"
+        ]
+      },
+      {
+        "ordinal": 153,
+        "level": 2,
+        "title": "柏木",
+        "path": [
+          "上品",
+          "柏木"
+        ]
+      },
+      {
+        "ordinal": 156,
+        "level": 2,
+        "title": "乾漆",
+        "path": [
+          "上品",
+          "乾漆"
+        ]
+      },
+      {
+        "ordinal": 159,
+        "level": 2,
+        "title": "辛夷",
+        "path": [
+          "上品",
+          "辛夷"
+        ]
+      },
+      {
+        "ordinal": 162,
+        "level": 2,
+        "title": "桑上寄生",
+        "path": [
+          "上品",
+          "桑上寄生"
+        ]
+      },
+      {
+        "ordinal": 165,
+        "level": 2,
+        "title": "杜仲",
+        "path": [
+          "上品",
+          "杜仲"
+        ]
+      },
+      {
+        "ordinal": 167,
+        "level": 2,
+        "title": "發髲",
+        "path": [
+          "上品",
+          "發髲"
+        ]
+      },
+      {
+        "ordinal": 170,
+        "level": 2,
+        "title": "龍骨",
+        "path": [
+          "上品",
+          "龍骨"
+        ]
+      },
+      {
+        "ordinal": 174,
+        "level": 2,
+        "title": "麝香",
+        "path": [
+          "上品",
+          "麝香"
+        ]
+      },
+      {
+        "ordinal": 177,
+        "level": 2,
+        "title": "牛黃",
+        "path": [
+          "上品",
+          "牛黃"
+        ]
+      },
+      {
+        "ordinal": 179,
+        "level": 2,
+        "title": "白膠",
+        "path": [
+          "上品",
+          "白膠"
+        ]
+      },
+      {
+        "ordinal": 182,
+        "level": 2,
+        "title": "阿膠",
+        "path": [
+          "上品",
+          "阿膠"
+        ]
+      },
+      {
+        "ordinal": 184,
+        "level": 2,
+        "title": "丹雄雞",
+        "path": [
+          "上品",
+          "丹雄雞"
+        ]
+      },
+      {
+        "ordinal": 187,
+        "level": 2,
+        "title": "石蜜",
+        "path": [
+          "上品",
+          "石蜜"
+        ]
+      },
+      {
+        "ordinal": 190,
+        "level": 2,
+        "title": "桑螵蛸",
+        "path": [
+          "上品",
+          "桑螵蛸"
+        ]
+      },
+      {
+        "ordinal": 193,
+        "level": 2,
+        "title": "藕實莖",
+        "path": [
+          "上品",
+          "藕實莖"
+        ]
+      },
+      {
+        "ordinal": 196,
+        "level": 2,
+        "title": "橘柚",
+        "path": [
+          "上品",
+          "橘柚"
+        ]
+      },
+      {
+        "ordinal": 200,
+        "level": 2,
+        "title": "大棗",
+        "path": [
+          "上品",
+          "大棗"
+        ]
+      },
+      {
+        "ordinal": 203,
+        "level": 2,
+        "title": "葡萄",
+        "path": [
+          "上品",
+          "葡萄"
+        ]
+      },
+      {
+        "ordinal": 206,
+        "level": 2,
+        "title": "雞頭實",
+        "path": [
+          "上品",
+          "雞頭實"
+        ]
+      },
+      {
+        "ordinal": 209,
+        "level": 1,
+        "title": "中品",
+        "path": [
+          "中品"
+        ]
+      },
+      {
+        "ordinal": 210,
+        "level": 2,
+        "title": "石硫黃",
+        "path": [
+          "中品",
+          "石硫黃"
+        ]
+      },
+      {
+        "ordinal": 213,
+        "level": 2,
+        "title": "水銀",
+        "path": [
+          "中品",
+          "水銀"
+        ]
+      },
+      {
+        "ordinal": 216,
+        "level": 2,
+        "title": "磁石",
+        "path": [
+          "中品",
+          "磁石"
+        ]
+      },
+      {
+        "ordinal": 219,
+        "level": 2,
+        "title": "陽起石",
+        "path": [
+          "中品",
+          "陽起石"
+        ]
+      },
+      {
+        "ordinal": 222,
+        "level": 2,
+        "title": "乾薑",
+        "path": [
+          "中品",
+          "乾薑"
+        ]
+      },
+      {
+        "ordinal": 225,
+        "level": 2,
+        "title": "苦參",
+        "path": [
+          "中品",
+          "苦參"
+        ]
+      },
+      {
+        "ordinal": 228,
+        "level": 2,
+        "title": "當歸",
+        "path": [
+          "中品",
+          "當歸"
+        ]
+      },
+      {
+        "ordinal": 231,
+        "level": 2,
+        "title": "麻黃",
+        "path": [
+          "中品",
+          "麻黃"
+        ]
+      },
+      {
+        "ordinal": 234,
+        "level": 2,
+        "title": "芍藥",
+        "path": [
+          "中品",
+          "芍藥"
+        ]
+      },
+      {
+        "ordinal": 237,
+        "level": 2,
+        "title": "玄參",
+        "path": [
+          "中品",
+          "玄參"
+        ]
+      },
+      {
+        "ordinal": 239,
+        "level": 2,
+        "title": "百合",
+        "path": [
+          "中品",
+          "百合"
+        ]
+      },
+      {
+        "ordinal": 242,
+        "level": 2,
+        "title": "白芷",
+        "path": [
+          "中品",
+          "白芷"
+        ]
+      },
+      {
+        "ordinal": 245,
+        "level": 2,
+        "title": "黃芩",
+        "path": [
+          "中品",
+          "黃芩"
+        ]
+      },
+      {
+        "ordinal": 248,
+        "level": 2,
+        "title": "狗脊",
+        "path": [
+          "中品",
+          "狗脊"
+        ]
+      },
+      {
+        "ordinal": 251,
+        "level": 2,
+        "title": "紫草",
+        "path": [
+          "中品",
+          "紫草"
+        ]
+      },
+      {
+        "ordinal": 254,
+        "level": 2,
+        "title": "水萍",
+        "path": [
+          "中品",
+          "水萍"
+        ]
+      },
+      {
+        "ordinal": 257,
+        "level": 2,
+        "title": "澤蘭",
+        "path": [
+          "中品",
+          "澤蘭"
+        ]
+      },
+      {
+        "ordinal": 260,
+        "level": 2,
+        "title": "牡丹",
+        "path": [
+          "中品",
+          "牡丹"
+        ]
+      },
+      {
+        "ordinal": 263,
+        "level": 2,
+        "title": "吳茱萸",
+        "path": [
+          "中品",
+          "吳茱萸"
+        ]
+      },
+      {
+        "ordinal": 266,
+        "level": 2,
+        "title": "梔子",
+        "path": [
+          "中品",
+          "梔子"
+        ]
+      },
+      {
+        "ordinal": 269,
+        "level": 2,
+        "title": "鹿茸",
+        "path": [
+          "中品",
+          "鹿茸"
+        ]
+      },
+      {
+        "ordinal": 272,
+        "level": 2,
+        "title": "犀角",
+        "path": [
+          "中品",
+          "犀角"
+        ]
+      },
+      {
+        "ordinal": 275,
+        "level": 2,
+        "title": "伏翼",
+        "path": [
+          "中品",
+          "伏翼"
+        ]
+      },
+      {
+        "ordinal": 278,
+        "level": 2,
+        "title": "蚱蟬",
+        "path": [
+          "中品",
+          "蚱蟬"
+        ]
+      },
+      {
+        "ordinal": 281,
+        "level": 2,
+        "title": "白殭蠶",
+        "path": [
+          "中品",
+          "白殭蠶"
+        ]
+      },
+      {
+        "ordinal": 284,
+        "level": 1,
+        "title": "下品",
+        "path": [
+          "下品"
+        ]
+      },
+      {
+        "ordinal": 285,
+        "level": 2,
+        "title": "附子",
+        "path": [
+          "下品",
+          "附子"
+        ]
+      },
+      {
+        "ordinal": 289,
+        "level": 2,
+        "title": "半夏",
+        "path": [
+          "下品",
+          "半夏"
+        ]
+      },
+      {
+        "ordinal": 291,
+        "level": 2,
+        "title": "大黃",
+        "path": [
+          "下品",
+          "大黃"
+        ]
+      },
+      {
+        "ordinal": 294,
+        "level": 2,
+        "title": "葶藶",
+        "path": [
+          "下品",
+          "葶藶"
+        ]
+      },
+      {
+        "ordinal": 297,
+        "level": 2,
+        "title": "旋覆花",
+        "path": [
+          "下品",
+          "旋覆花"
+        ]
+      },
+      {
+        "ordinal": 300,
+        "level": 2,
+        "title": "藜蘆",
+        "path": [
+          "下品",
+          "藜蘆"
+        ]
+      },
+      {
+        "ordinal": 303,
+        "level": 2,
+        "title": "白芨",
+        "path": [
+          "下品",
+          "白芨"
+        ]
+      },
+      {
+        "ordinal": 306,
+        "level": 2,
+        "title": "貫眾",
+        "path": [
+          "下品",
+          "貫眾"
+        ]
+      },
+      {
+        "ordinal": 308,
+        "level": 2,
+        "title": "連翹",
+        "path": [
+          "下品",
+          "連翹"
+        ]
+      },
+      {
+        "ordinal": 311,
+        "level": 2,
+        "title": "夏枯草",
+        "path": [
+          "下品",
+          "夏枯草"
+        ]
+      },
+      {
+        "ordinal": 314,
+        "level": 2,
+        "title": "水蛭",
+        "path": [
+          "下品",
+          "水蛭"
+        ]
+      },
+      {
+        "ordinal": 317,
+        "level": 2,
+        "title": "桃核仁",
+        "path": [
+          "下品",
+          "桃核仁"
+        ]
+      }
+    ],
+    "images": [],
+    "excludedNotes": [],
+    "gaps": [
+      {
+        "chapter_key": "9316e19d26fa43ff02effd1b",
+        "title": "牛膝",
+        "reason": "source_gap_or_uncertain_glyph",
+        "snippets": [
+          "味苦酸。此止言味而不言性，疑闕文也。後凡不言性者仿此。主寒濕痿痹，四"
+        ]
+      }
+    ],
+    "unknown": [],
+    "stats": {
+      "heading_count": 105,
+      "paragraph_blocks": 214,
+      "nonempty_paragraph_blocks": 214,
+      "represented_paragraph_blocks": 214
+    }
+  }
+]

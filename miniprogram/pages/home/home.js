@@ -9,10 +9,25 @@ const store = require('../../utils/learning-store');
 const bookListUrl = '/pages/books/index/index';
 const caseListUrl = '/pages/cases/index/index';
 const featuredCaseQueries = [
-  { doctor: '张仲景', keyword: '霍乱' },
-  { doctor: '吴鞠通', keyword: '暑温' },
-  { doctor: '叶天士', keyword: '咳嗽', bookname: '临证指南医案' }
+  { doctor: '张仲景', keyword: '霍乱', portrait: 'zhang-zhongjing' },
+  { doctor: '吴鞠通', keyword: '暑温', portrait: 'wu-jutong' },
+  { doctor: '叶天士', keyword: '咳嗽', bookname: '临证指南医案', portrait: 'ye-tianshi' }
 ];
+const prescriptionThumbnails = new Map([
+  ['桂枝汤', 'gui-zhi-tang'],
+  ['四君子汤', 'si-jun-zi-tang'],
+  ['逍遥散', 'xiao-yao-san'],
+  ['度瘴散', 'du-zhang-san'],
+  ['发汗神丹丸', 'fa-han-shen-dan-wan'],
+  ['葛根汤', 'ge-gen-tang'],
+  ['桃核承气汤', 'tao-he-cheng-qi-tang'],
+  ['旋覆代赭汤', 'xuan-fu-dai-zhe-tang'],
+  ['竹叶石膏汤', 'zhu-ye-shi-gao-tang']
+]);
+
+function featuredThumbnail(name) {
+  return `/assets/home/featured/${name}.webp`;
+}
 
 function searchResult(item, type, title) {
   return {
@@ -47,10 +62,6 @@ Page({
     featuredPrescriptions: [],
     prescriptionsLoading: true,
     prescriptionsFailed: false,
-    recentHistory: [],
-    historyLoading: false,
-    historyError: '',
-    loggedIn: false,
     casesLoading: true,
     casesFailed: false,
     keyword: '',
@@ -75,7 +86,7 @@ Page({
   onShow() {
     const tabBar = this.getTabBar && this.getTabBar();
     if (tabBar) tabBar.setData({ selected: 0 });
-    this.loadHistory();
+    store.syncQuietly();
   },
 
   onUnload() {
@@ -83,18 +94,17 @@ Page({
     this.searchRequest = null;
     this.caseRequest = null;
     this.prescriptionRequest = null;
-    this.historyRequest = null;
   },
 
   async loadFeaturedCases() {
     const request = {};
     this.caseRequest = request;
     this.setData({ casesLoading: true, casesFailed: false });
-    const results = await Promise.all(featuredCaseQueries.map(async (query) => {
+    const results = await Promise.all(featuredCaseQueries.map(async ({ portrait, ...query }) => {
       try {
         let data = await getCases({ ...query, page_size: 1 });
         if (!data.items.length) data = await getCases({ doctor: query.doctor, page_size: 1 });
-        return { item: data.items[0], failed: false };
+        return { item: data.items[0], portrait, failed: false };
       } catch (error) {
         return { failed: true };
       }
@@ -105,8 +115,9 @@ Page({
       if (!item || seen.has(item.id)) return false;
       seen.add(item.id);
       return true;
-    }).map(({ item }) => ({
+    }).map(({ item, portrait }) => ({
       id: item.id,
+      thumbnail: featuredThumbnail(portrait),
       title: item.title,
       source: item.source || item.bookname || '',
       excerpt: item.content_preview || item.summary || ''
@@ -120,52 +131,18 @@ Page({
     try {
       const data = await getPrescriptions({ page_size: 3 });
       if (request !== this.prescriptionRequest) return;
-      this.setData({ featuredPrescriptions: data.items.slice(0, 3), prescriptionsLoading: false });
+      const featuredPrescriptions = data.items.slice(0, 3).map(item => {
+        const image = prescriptionThumbnails.get(item.title);
+        return { ...item, thumbnail: image ? featuredThumbnail(image) : '/assets/home/mortar.jpg' };
+      });
+      this.setData({ featuredPrescriptions, prescriptionsLoading: false });
     } catch (error) {
       if (request === this.prescriptionRequest) this.setData({ prescriptionsLoading: false, prescriptionsFailed: true });
     }
   },
 
-  refreshHistory() {
-    const loggedIn = Boolean(store.account());
-    this.setData({ loggedIn, recentHistory: loggedIn ? store.records('history').slice(0, 3).map(item => ({
-      ...item, sourceLabel: store.sourceLabel(item.ref)
-    })) : [] });
-  },
-
-  async loadHistory() {
-    const request = this.historyRequest = {};
-    const owner = store.scope();
-    this.refreshHistory();
-    this.setData({ historyLoading: Boolean(store.account()), historyError: '' });
-    try {
-      await store.synchronize();
-    } catch (error) {
-      if (request === this.historyRequest && owner === store.scope()) {
-        this.setData({ historyError: '历史记录同步失败，当前显示上次缓存' });
-      }
-    } finally {
-      if (request === this.historyRequest) {
-        this.refreshHistory();
-        this.setData({ historyLoading: false });
-      }
-    }
-  },
-
   openPrescription(event) {
     wx.navigateTo({ url: `${routeMap.prescription}?id=${encodeURIComponent(event.currentTarget.dataset.id)}` });
-  },
-
-  openHistoryItem(event) {
-    const item = store.records('history').find(row => row.key === event.currentTarget.dataset.key);
-    if (item) store.open(item.ref, item);
-  },
-
-  async openHistory() {
-    try {
-      await store.requireLogin();
-      wx.navigateTo({ url: '/pages/history/index/index' });
-    } catch (error) { wx.showToast({ title: error.message, icon: 'none' }); }
   },
 
   openCase(event) {

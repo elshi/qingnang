@@ -1,5 +1,5 @@
 .personal-page { min-height:100vh; background:#faf7f1; color:#30281f; }
-.personal-page button { width:auto !important; min-width:0; font-weight:400 !important; }
+.personal-page button:not(.category-tab) { width:auto !important; min-width:0; font-weight:400 !important; }
 .personal-page button.personal-primary { width:100% !important; }
 .personal-page button.personal-more { width:72rpx !important; }
 .personal-page .personal-tabs button { width:auto !important; min-width:0; }

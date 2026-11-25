@@ -1,12 +1,12 @@
 <view class="personal-page personal-list-page page-fade">
   <custom-nav title="我的笔记"></custom-nav>
+  <view class="category-tabs">
+    <button wx:for="{{tabs}}" wx:key="key" class="category-tab {{activeTab === item.key ? 'category-tab--active' : ''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}</button>
+  </view>
   <view class="personal-search">
     <image src="/assets/cases/search.png" mode="aspectFit" aria-hidden="true" />
     <input value="{{keyword}}" placeholder="搜索标题或正文" bindinput="onSearch" maxlength="100" confirm-type="search" />
     <button wx:if="{{keyword}}" bindtap="clearSearch">清除</button>
-  </view>
-  <view class="personal-tabs">
-    <button wx:for="{{tabs}}" wx:key="key" class="personal-tab {{activeTab===item.key?'personal-tab--active':''}}" data-key="{{item.key}}" bindtap="switchTab">{{item.label}}<view wx:if="{{activeTab===item.key}}" class="personal-tab-indicator"></view></button>
   </view>
   <scroll-view class="personal-list-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
     <view class="personal-body">
