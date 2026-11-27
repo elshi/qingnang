@@ -23,6 +23,7 @@ Route::get('/cases', 'CaseController@index');
 Route::get('/prescriptions', 'PrescriptionController@index');
 Route::get('/prescriptions/{id}', 'PrescriptionController@show');
 Route::get('/meridians', 'MeridianController@index');
+Route::get('/meridian-atlas', 'MeridianController@atlas');
 Route::get('/meridians/{id}', 'MeridianController@show');
 Route::get('/acupoints', 'AcupointController@index');
 Route::get('/acupoints/{id}', 'AcupointController@show');

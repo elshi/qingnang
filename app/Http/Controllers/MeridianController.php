@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Meridian;
+use App\Support\MeridianAtlas;
 use App\Support\PlainText;
 use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
@@ -63,13 +64,23 @@ class MeridianController extends Controller
         try {
             $record = Meridian::query()->select(self::FIELDS)->find((int) $id);
             if (!$record) return $this->error('未找到该经络', 404);
-            return $this->success(array_merge($this->listItem($record), [
+            return $this->success(array_merge($this->listItem($record), MeridianAtlas::detail((int)$record->meridian_id), [
                 'indications' => PlainText::clean($record->indications),
                 'measured' => PlainText::clean($record->measured),
                 'acupoints' => PlainText::clean($record->acupoints),
             ]));
         } catch (Throwable $error) {
             return $this->databaseError($error);
+        }
+    }
+
+    public function atlas()
+    {
+        try {
+            return $this->success(MeridianAtlas::overview());
+        } catch (Throwable $error) {
+            report($error);
+            return $this->error('经络图谱暂时无法加载，请稍后重试', 503);
         }
     }
 

@@ -1,0 +1,10 @@
+青囊经典 · 经络图谱
+
+经脉人体图基于 Acu361 v1.0.1 的 skin.glb、points.json 与 meridians.json。
+Acu361 作者 Yuyue Zhang, Timothy G. Reese, Yang He, Michael Zhu。
+原项目 https://github.com/Elwyn921/Acu361/tree/v1.0.1
+人体网格来自 Z-Anatomy，基于 BodyParts3D。完整原作者名单与授权见 Acu361-ATTRIBUTIONS.md.txt。
+改绘内容包括中文标注、朱砂循行线、视角、局部构图、印堂定位、六条奇经体表走向示意和图版排印。
+人体总图和经脉图按 CC BY-SA 4.0 分发。授权全文见 Acu361-LICENSE.txt 和 https://creativecommons.org/licenses/by-sa/4.0/ 。
+54 幅经外及历史穴定位参照图为项目独立绘制，以图示说明穴位与定位标志之间的关系。
+

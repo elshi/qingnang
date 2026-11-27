@@ -1,0 +1,230 @@
+[
+  {
+    "title": "手太阴肺经",
+    "key": "lung",
+    "color": "#AE782F",
+    "code": "LU",
+    "route": "胸部 → 上肢内侧前缘 → 拇指",
+    "group": "regular"
+  },
+  {
+    "title": "手阳明大肠经",
+    "key": "large-intestine",
+    "color": "#C49C46",
+    "code": "LI",
+    "route": "食指 → 上肢外侧前缘 → 肩颈 → 鼻旁",
+    "group": "regular"
+  },
+  {
+    "title": "足阳明胃经",
+    "key": "stomach",
+    "color": "#C39147",
+    "code": "ST",
+    "route": "头面 → 胸腹 → 下肢前侧 → 第二趾",
+    "group": "regular"
+  },
+  {
+    "title": "足太阴脾经",
+    "key": "spleen",
+    "color": "#8F9E79",
+    "code": "SP",
+    "route": "足大趾 → 下肢内侧 → 腹部 → 胸侧",
+    "group": "regular"
+  },
+  {
+    "title": "手少阴心经",
+    "key": "heart",
+    "color": "#B56D60",
+    "code": "HT",
+    "route": "腋下 → 上肢内侧后缘 → 小指",
+    "group": "regular"
+  },
+  {
+    "title": "手太阳小肠经",
+    "key": "small-intestine",
+    "color": "#BC826A",
+    "code": "SI",
+    "route": "小指 → 上肢外侧后缘 → 肩胛 → 耳前",
+    "group": "regular"
+  },
+  {
+    "title": "足太阳膀胱经",
+    "key": "bladder",
+    "color": "#9D8093",
+    "code": "BL",
+    "route": "目内眦 → 头顶 → 背部 → 下肢后侧 → 足小趾",
+    "group": "regular"
+  },
+  {
+    "title": "足少阴肾经",
+    "key": "kidney",
+    "color": "#5B9197",
+    "code": "KI",
+    "route": "足底 → 下肢内侧后缘 → 腹胸",
+    "group": "regular"
+  },
+  {
+    "title": "足少阳胆经",
+    "key": "gallbladder",
+    "color": "#6E9B85",
+    "code": "GB",
+    "route": "目外眦 → 头侧 → 胁肋 → 下肢外侧 → 第四趾",
+    "group": "regular"
+  },
+  {
+    "title": "足厥阴肝经",
+    "key": "liver",
+    "color": "#879E6C",
+    "code": "LR",
+    "route": "足大趾 → 下肢内侧 → 少腹 → 胁肋",
+    "group": "regular"
+  },
+  {
+    "title": "手少阳三焦经",
+    "key": "triple-energizer",
+    "color": "#68A296",
+    "code": "TE",
+    "route": "无名指 → 上肢外侧中部 → 肩颈 → 眉梢",
+    "group": "regular"
+  },
+  {
+    "title": "手厥阴心包经",
+    "key": "pericardium",
+    "color": "#A4839C",
+    "code": "PC",
+    "route": "胸部 → 上肢内侧中部 → 中指",
+    "group": "regular"
+  },
+  {
+    "title": "任脉",
+    "key": "ren",
+    "color": "#B7803A",
+    "code": "CV",
+    "route": "会阴 → 腹胸前正中线 → 下颌",
+    "group": "extraordinary"
+  },
+  {
+    "title": "督脉",
+    "key": "du",
+    "color": "#98717B",
+    "code": "GV",
+    "route": "会阴后 → 脊柱后正中线 → 头顶 → 上唇",
+    "group": "extraordinary"
+  },
+  {
+    "title": "阴维脉",
+    "key": "yin-wei",
+    "color": "#7E9A82",
+    "code": "",
+    "route": "小腿内侧 → 大腿内侧 → 腹胸 → 颈部",
+    "group": "extraordinary",
+    "meetings": [
+      "筑宾",
+      "府舍",
+      "大横",
+      "腹哀",
+      "期门",
+      "天突",
+      "廉泉"
+    ]
+  },
+  {
+    "title": "冲脉",
+    "key": "chong",
+    "color": "#BB7864",
+    "code": "",
+    "route": "少腹 → 腹部两侧 → 胸部 → 咽喉",
+    "group": "extraordinary",
+    "meetings": [
+      "会阴",
+      "阴交",
+      "气冲",
+      "横骨",
+      "大赫",
+      "气穴",
+      "四满",
+      "中注",
+      "肓俞",
+      "商曲",
+      "石关",
+      "阴都",
+      "腹通谷",
+      "幽门"
+    ]
+  },
+  {
+    "title": "阳维脉",
+    "key": "yang-wei",
+    "color": "#9A879F",
+    "code": "",
+    "route": "足跟外侧 → 下肢外侧 → 肩部 → 头项",
+    "group": "extraordinary",
+    "meetings": [
+      "金门",
+      "阳交",
+      "臑俞",
+      "天髎",
+      "肩井",
+      "头维",
+      "本神",
+      "阳白",
+      "头临泣",
+      "目窗",
+      "正营",
+      "承灵",
+      "脑空",
+      "风池",
+      "风府",
+      "哑门"
+    ]
+  },
+  {
+    "title": "阴跷脉",
+    "key": "yin-qiao",
+    "color": "#699894",
+    "code": "",
+    "route": "足内踝 → 下肢内侧 → 胸颈 → 目内眦",
+    "group": "extraordinary",
+    "meetings": [
+      "照海",
+      "交信",
+      "睛明"
+    ]
+  },
+  {
+    "title": "阳跷脉",
+    "key": "yang-qiao",
+    "color": "#A18B65",
+    "code": "",
+    "route": "足外踝 → 下肢外侧 → 肩颈 → 目内眦",
+    "group": "extraordinary",
+    "meetings": [
+      "申脉",
+      "仆参",
+      "跗阳",
+      "居髎",
+      "臑俞",
+      "肩髃",
+      "巨骨",
+      "天髎",
+      "地仓",
+      "巨髎",
+      "承泣",
+      "睛明",
+      "风池"
+    ]
+  },
+  {
+    "title": "带脉",
+    "key": "dai",
+    "color": "#6A9290",
+    "code": "",
+    "route": "季胁下方 → 腰腹环绕一周",
+    "group": "extraordinary",
+    "meetings": [
+      "带脉",
+      "五枢",
+      "维道"
+    ]
+  }
+]

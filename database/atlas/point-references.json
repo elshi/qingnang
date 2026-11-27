@@ -1,0 +1,5769 @@
+[
+  {
+    "name": "中府",
+    "codes": [
+      "LU1"
+    ],
+    "pinyin": "Zhōngfǔ",
+    "section": "5.1.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "横平第1肋间隙,锁骨下窝外侧,前正中线旁开6寸",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "云门",
+    "codes": [
+      "LU2"
+    ],
+    "pinyin": "Yúnmén",
+    "section": "5.1.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "锁骨下窝凹陷中,肩胛骨喙突内缘,前正中线旁开6寸",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "天府",
+    "codes": [
+      "LU3"
+    ],
+    "pinyin": "Tiānfǔ",
+    "section": "5.1.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂前外侧",
+    "landmarks": "腋前纹头下3寸,肱二头肌桡侧缘处",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "侠白",
+    "codes": [
+      "LU4"
+    ],
+    "pinyin": "Xiábái",
+    "section": "5.1.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂前外侧",
+    "landmarks": "腋前纹头下4寸,肱二头肌桡侧缘处",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "尺泽",
+    "codes": [
+      "LU5"
+    ],
+    "pinyin": "Chǐzé",
+    "section": "5.1.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘前侧",
+    "landmarks": "肘横纹上,肱二头肌腱桡侧缘凹陷中",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "孔最",
+    "codes": [
+      "LU6"
+    ],
+    "pinyin": "Kǒngzuì",
+    "section": "5.1.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前外侧",
+    "landmarks": "腕掌侧远端横纹上7寸,尺泽(LU5)与太渊(LU9)连线上",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "列缺",
+    "codes": [
+      "LU7"
+    ],
+    "pinyin": "Lièquē",
+    "section": "5.1.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂外侧",
+    "landmarks": "腕掌侧远端横纹上1.5寸,拇短伸肌腱与拇长展肌腱之间,拇长展肌腱沟的凹陷中",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "经渠",
+    "codes": [
+      "LU8"
+    ],
+    "pinyin": "Jīngqú",
+    "section": "5.1.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前外侧",
+    "landmarks": "腕掌侧远端横纹上1寸,桡骨茎突与桡动脉之间",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "太渊",
+    "codes": [
+      "LU9"
+    ],
+    "pinyin": "Tàiyuān",
+    "section": "5.1.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕前外侧",
+    "landmarks": "桡骨茎突与腕舟状骨之间,拇长展肌腱尺侧凹陷中",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "鱼际",
+    "codes": [
+      "LU10"
+    ],
+    "pinyin": "Yújì",
+    "section": "5.1.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手掌",
+    "landmarks": "第1掌骨桡侧中点赤白肉际处",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "少商",
+    "codes": [
+      "LU11"
+    ],
+    "pinyin": "Shàoshāng",
+    "section": "5.1.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "拇指末节桡侧,指甲根角侧上方0.1寸",
+    "channel": "手太阴肺经",
+    "location_summary": ""
+  },
+  {
+    "name": "商阳",
+    "codes": [
+      "LI1"
+    ],
+    "pinyin": "Shāngyáng",
+    "section": "5.2.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "食指末节桡侧,指甲根角侧上方0.1寸",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "二间",
+    "codes": [
+      "LI2"
+    ],
+    "pinyin": "Èrjiān",
+    "section": "5.2.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "第2掌指关节桡侧远端赤白肉际处",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "三间",
+    "codes": [
+      "LI3"
+    ],
+    "pinyin": "Sānjiān",
+    "section": "5.2.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手背",
+    "landmarks": "第2掌指关节桡侧近端凹陷中",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "合谷",
+    "codes": [
+      "LI4"
+    ],
+    "pinyin": "Hégǔ",
+    "section": "5.2.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手背",
+    "landmarks": "第一掌骨和第二掌骨之间,约平第2掌骨桡侧的中点",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳溪",
+    "codes": [
+      "LI5"
+    ],
+    "pinyin": "Yángxī",
+    "section": "5.2.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕后外侧",
+    "landmarks": "腕背侧远端横纹桡侧,桡骨茎突远端,解剖学“鼻烟窝”凹陷中",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "偏历",
+    "codes": [
+      "LI6"
+    ],
+    "pinyin": "Piānlì",
+    "section": "5.2.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后外侧",
+    "landmarks": "腕背侧远端横纹上3寸,阳溪(LI5)与曲池(LI11)连线上",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "温溜",
+    "codes": [
+      "LI7"
+    ],
+    "pinyin": "Wēnliū",
+    "section": "5.2.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后外侧",
+    "landmarks": "腕背侧远端横纹上5寸,阳溪(LI5)与曲池(LI11)连线上",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "下廉",
+    "codes": [
+      "LI8"
+    ],
+    "pinyin": "Xiàlián",
+    "section": "5.2.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后外侧",
+    "landmarks": "肘横纹下4寸,阳溪(LI5)与曲池(LI11)连线上",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "上廉",
+    "codes": [
+      "LI9"
+    ],
+    "pinyin": "Shànglián",
+    "section": "5.2.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后外侧",
+    "landmarks": "肘横纹下3寸,阳溪(LI5)与曲池(LI11)连线上",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "手三里",
+    "codes": [
+      "LI10"
+    ],
+    "pinyin": "Shǒusānlǐ",
+    "section": "5.2.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后外侧",
+    "landmarks": "肘横纹下2寸,阳溪(LI5)与曲池(LI11)连线上",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "曲池",
+    "codes": [
+      "LI11"
+    ],
+    "pinyin": "Qūchí",
+    "section": "5.2.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘外侧",
+    "landmarks": "尺泽(LU5)与肱骨外上髁连线的中点处",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "肘髎",
+    "codes": [
+      "LI12"
+    ],
+    "pinyin": "Zhǒuliáo",
+    "section": "5.2.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘后外侧",
+    "landmarks": "肱骨外上髁上缘,髁上嵴的前缘",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "手五里",
+    "codes": [
+      "LI13"
+    ],
+    "pinyin": "Shǒuwǔlǐ",
+    "section": "5.2.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂外侧",
+    "landmarks": "肘横纹上3寸,曲池(LI11)与肩髃(LI15)连线上",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "臂臑",
+    "codes": [
+      "LI14"
+    ],
+    "pinyin": "Bìnào",
+    "section": "5.2.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂外侧",
+    "landmarks": "在曲池(LI11)与肩髃(LI15)连线上,三角肌前缘处",
+    "channel": "手阳明大肠经",
+    "location_summary": "上臂外侧，曲池至肩髃连线与三角肌前缘相接的位置。"
+  },
+  {
+    "name": "肩髃",
+    "codes": [
+      "LI15"
+    ],
+    "pinyin": "Jiānyú",
+    "section": "5.2.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩峰外侧缘前端与肱骨大结节两骨间凹陷中",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "巨骨",
+    "codes": [
+      "LI16"
+    ],
+    "pinyin": "Jùgǔ",
+    "section": "5.2.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "锁骨肩峰端与肩胛冈之间凹陷中",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "天鼎",
+    "codes": [
+      "LI17"
+    ],
+    "pinyin": "Tiāndǐng",
+    "section": "5.2.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "横平环状软骨,胸锁乳突肌后缘",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "扶突",
+    "codes": [
+      "LI18"
+    ],
+    "pinyin": "Fútū",
+    "section": "5.2.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "横平甲状软骨上缘(约相当于喉结处),胸锁乳突肌前、后缘中间",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "口禾髎",
+    "codes": [
+      "LI19"
+    ],
+    "pinyin": "Kǒuhéliáo",
+    "section": "5.2.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "横平人中沟上1/3与下2/3交点,鼻孔外缘直下",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "迎香",
+    "codes": [
+      "LI20"
+    ],
+    "pinyin": "Yíngxiāng",
+    "section": "5.2.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "鼻翼外缘中点旁,鼻唇沟中",
+    "channel": "手阳明大肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "承泣",
+    "codes": [
+      "ST1"
+    ],
+    "pinyin": "Chéngqì",
+    "section": "5.3.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "眼球与眶下缘之间,瞳孔直下",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "四白",
+    "codes": [
+      "ST2"
+    ],
+    "pinyin": "Sìbái",
+    "section": "5.3.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "眶下孔处",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "巨髎",
+    "codes": [
+      "ST3"
+    ],
+    "pinyin": "Jùliáo",
+    "section": "5.3.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "横平鼻翼下缘,瞳孔直下",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "地仓",
+    "codes": [
+      "ST4"
+    ],
+    "pinyin": "Dìcāng",
+    "section": "5.3.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "口角旁开0.4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "大迎",
+    "codes": [
+      "ST5"
+    ],
+    "pinyin": "Dàyíng",
+    "section": "5.3.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "下颌角前方,咬肌附着部的前缘凹陷中,面动脉搏动处",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "颊车",
+    "codes": [
+      "ST6"
+    ],
+    "pinyin": "Jiáchē",
+    "section": "5.3.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "下颌角前上方一横指",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "下关",
+    "codes": [
+      "ST7"
+    ],
+    "pinyin": "Xiàguān",
+    "section": "5.3.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "颧弓下缘中央与下颌切迹之间凹陷中",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "头维",
+    "codes": [
+      "ST8"
+    ],
+    "pinyin": "Tóuwéi",
+    "section": "5.3.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "额角发际直上0.5寸,头正中线旁开4.5寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "人迎",
+    "codes": [
+      "ST9"
+    ],
+    "pinyin": "Rényíng",
+    "section": "5.3.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "横平甲状软骨上缘(约相当于喉结处),胸锁乳突肌前缘,颈总动脉搏动处",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "水突",
+    "codes": [
+      "ST10"
+    ],
+    "pinyin": "Shuǐtū",
+    "section": "5.3.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "横平环状软骨,胸锁乳突肌前缘",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "气舍",
+    "codes": [
+      "ST11"
+    ],
+    "pinyin": "Qìshè",
+    "section": "5.3.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "锁骨上小窝,锁骨胸骨端上缘,胸锁乳突肌胸骨头与锁骨头中间的凹陷中",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "缺盆",
+    "codes": [
+      "ST12"
+    ],
+    "pinyin": "Quēpén",
+    "section": "5.3.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "锁骨上大窝,锁骨上缘凹陷中,前正中线旁开4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "气户",
+    "codes": [
+      "ST13"
+    ],
+    "pinyin": "Qìhù",
+    "section": "5.3.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "锁骨下缘,前正中线旁开4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "库房",
+    "codes": [
+      "ST14"
+    ],
+    "pinyin": "Kùfáng",
+    "section": "5.3.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第1肋间隙,前正中线旁开4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "屋翳",
+    "codes": [
+      "ST15"
+    ],
+    "pinyin": "Wūyì",
+    "section": "5.3.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第2肋间隙,前正中线旁开4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "膺窗",
+    "codes": [
+      "ST16"
+    ],
+    "pinyin": "Yīngchuāng",
+    "section": "5.3.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第3肋间隙,前正中线旁开4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "乳中",
+    "codes": [
+      "ST17"
+    ],
+    "pinyin": "Rǔzhōng",
+    "section": "5.3.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "乳头中央",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "乳根",
+    "codes": [
+      "ST18"
+    ],
+    "pinyin": "Rǔgēn",
+    "section": "5.3.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第5肋间隙,前正中线旁开4寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "不容",
+    "codes": [
+      "ST19"
+    ],
+    "pinyin": "Bùróng",
+    "section": "5.3.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上6寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "承满",
+    "codes": [
+      "ST20"
+    ],
+    "pinyin": "Chéngmǎn",
+    "section": "5.3.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上5寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "梁门",
+    "codes": [
+      "ST21"
+    ],
+    "pinyin": "Liángmén",
+    "section": "5.3.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上4寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "关门",
+    "codes": [
+      "ST22"
+    ],
+    "pinyin": "Guānmén",
+    "section": "5.3.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上3寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "太乙",
+    "codes": [
+      "ST23"
+    ],
+    "pinyin": "Tàiyǐ",
+    "section": "5.3.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上2寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "滑肉门",
+    "codes": [
+      "ST24"
+    ],
+    "pinyin": "Huáròumén",
+    "section": "5.3.24",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上1寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "天枢",
+    "codes": [
+      "ST25"
+    ],
+    "pinyin": "Tiānshū",
+    "section": "5.3.25",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "横平脐中,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "外陵",
+    "codes": [
+      "ST26"
+    ],
+    "pinyin": "Wàilíng",
+    "section": "5.3.26",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下l寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "大巨",
+    "codes": [
+      "ST27"
+    ],
+    "pinyin": "Dàjù",
+    "section": "5.3.27",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下2寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "水道",
+    "codes": [
+      "ST28"
+    ],
+    "pinyin": "Shuǐdào",
+    "section": "5.3.28",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下3寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "归来",
+    "codes": [
+      "ST29"
+    ],
+    "pinyin": "Guīlái",
+    "section": "5.3.29",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下4寸,前正中线旁开2寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "气冲",
+    "codes": [
+      "ST30"
+    ],
+    "pinyin": "Qìchōng",
+    "section": "5.3.30",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腹股沟",
+    "landmarks": "耻骨联合上缘,前正中线旁开2寸,动脉搏动处",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "髀关",
+    "codes": [
+      "ST31"
+    ],
+    "pinyin": "Bìguān",
+    "section": "5.3.31",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股前侧",
+    "landmarks": "股直肌近端、缝匠肌与阔筋膜张肌3条肌肉之间凹陷中",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "伏兔",
+    "codes": [
+      "ST32"
+    ],
+    "pinyin": "Fútù",
+    "section": "5.3.32",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股前外侧",
+    "landmarks": "髌底上6寸,髂前上棘与髌底外侧端的连线上",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴市",
+    "codes": [
+      "ST33"
+    ],
+    "pinyin": "Yīnshì",
+    "section": "5.3.33",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股前外侧",
+    "landmarks": "髌底上3寸,股直肌肌腱外侧缘",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "梁丘",
+    "codes": [
+      "ST34"
+    ],
+    "pinyin": "Liángqiū",
+    "section": "5.3.34",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股前外侧",
+    "landmarks": "髌底上2寸,股外侧肌与股直肌肌腱之间",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "犊鼻",
+    "codes": [
+      "ST35"
+    ],
+    "pinyin": "Dúbí",
+    "section": "5.3.35",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝前侧",
+    "landmarks": "髌韧带外侧凹陷中",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "足三里",
+    "codes": [
+      "ST36"
+    ],
+    "pinyin": "Zúsānlǐ",
+    "section": "5.3.36",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "犊鼻(ST35)下3寸,犊鼻(ST35)与解溪(ST41)连线上",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "上巨虚",
+    "codes": [
+      "ST37"
+    ],
+    "pinyin": "Shàngjùxū",
+    "section": "5.3.37",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "犊鼻(ST35)下6寸,犊鼻(ST35)与解溪(ST41)连线上",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "条口",
+    "codes": [
+      "ST38"
+    ],
+    "pinyin": "Tiáokǒu",
+    "section": "5.3.38",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "犊鼻(ST35)下8寸,犊鼻(ST35)与解溪(ST41)连线上",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "下巨虚",
+    "codes": [
+      "ST39"
+    ],
+    "pinyin": "Xiàjùxū",
+    "section": "5.3.39",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "犊鼻(ST35)下9寸,犊鼻(ST35)与解溪(ST41)连线上",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "丰隆",
+    "codes": [
+      "ST40"
+    ],
+    "pinyin": "Fēnglóng",
+    "section": "5.3.40",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "外踝尖上8寸,胫骨前肌的外缘",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "解溪",
+    "codes": [
+      "ST41"
+    ],
+    "pinyin": "Jiěxī",
+    "section": "5.3.41",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "踝前侧",
+    "landmarks": "踝关节前面中央凹陷中,长伸肌腱与趾长伸肌腱之间",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "冲阳",
+    "codes": [
+      "ST42"
+    ],
+    "pinyin": "Chōngyáng",
+    "section": "5.3.42",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第2跖骨基底部与中间楔状骨关节处,可触及足背动脉",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "陷谷",
+    "codes": [
+      "ST43"
+    ],
+    "pinyin": "Xiàngǔ",
+    "section": "5.3.43",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第2、3跖骨间,第2跖趾关节近端凹陷中",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "内庭",
+    "codes": [
+      "ST44"
+    ],
+    "pinyin": "Nèitíng",
+    "section": "5.3.44",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第2、3趾间,趾蹼缘后方赤白肉际处",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "厉兑",
+    "codes": [
+      "ST45"
+    ],
+    "pinyin": "Lìduì",
+    "section": "5.3.45",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "第2趾末节外侧,趾甲根角侧后方0.1寸",
+    "channel": "足阳明胃经",
+    "location_summary": ""
+  },
+  {
+    "name": "隐白",
+    "codes": [
+      "SP1"
+    ],
+    "pinyin": "Yǐnbái",
+    "section": "5.4.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "大趾末节内侧,趾甲根角侧后方0.1寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "大都",
+    "codes": [
+      "SP2"
+    ],
+    "pinyin": "Dàdū",
+    "section": "5.4.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "第1跖趾关节远端赤白肉际凹陷中",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "太白",
+    "codes": [
+      "SP3"
+    ],
+    "pinyin": "Tàibái",
+    "section": "5.4.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "第1跖趾关节近端赤白肉际凹陷中",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "公孙",
+    "codes": [
+      "SP4"
+    ],
+    "pinyin": "Gōngsūn",
+    "section": "5.4.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "第1跖骨底的前下缘赤白肉际处",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "商丘",
+    "codes": [
+      "SP5"
+    ],
+    "pinyin": "Shāngqiū",
+    "section": "5.4.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "内踝前下方,舟骨粗隆与内踝尖连线中点凹陷中",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "三阴交",
+    "codes": [
+      "SP6"
+    ],
+    "pinyin": "Sānyīnjiāo",
+    "section": "5.4.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿内侧",
+    "landmarks": "内踝尖上3寸,胫骨内侧缘后际",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "漏谷",
+    "codes": [
+      "SP7"
+    ],
+    "pinyin": "Lòugǔ",
+    "section": "5.4.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿内侧",
+    "landmarks": "内踝尖上6寸,胫骨内侧缘后际",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "地机",
+    "codes": [
+      "SP8"
+    ],
+    "pinyin": "Dìjī",
+    "section": "5.4.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿内侧",
+    "landmarks": "阴陵泉(SP9)下3寸,胫骨内侧缘后际",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴陵泉",
+    "codes": [
+      "SP9"
+    ],
+    "pinyin": "Yīnlíngquán",
+    "section": "5.4.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿内侧",
+    "landmarks": "由胫骨内侧髁下缘与胫骨内侧缘形成的凹陷中",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "血海",
+    "codes": [
+      "SP10"
+    ],
+    "pinyin": "Xuèhǎi",
+    "section": "5.4.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股前内侧",
+    "landmarks": "髌底内侧端上2寸,股内侧肌隆起处",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "箕门",
+    "codes": [
+      "SP11"
+    ],
+    "pinyin": "Jīmén",
+    "section": "5.4.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股内侧",
+    "landmarks": "髌底内侧端与冲门(SP12)的连线上1/3与下2/3交点,长收肌和缝匠肌交角的动脉搏动处",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "冲门",
+    "codes": [
+      "SP12"
+    ],
+    "pinyin": "Chōngmén",
+    "section": "5.4.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腹股沟",
+    "landmarks": "腹股沟斜纹中,髂外动脉搏动处的外侧",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "府舍",
+    "codes": [
+      "SP13"
+    ],
+    "pinyin": "Fǔshè",
+    "section": "5.4.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下4.3寸,前正中线旁开4寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "腹结",
+    "codes": [
+      "SP14"
+    ],
+    "pinyin": "Fùjié",
+    "section": "5.4.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下1.3寸,前正中线旁开4寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "大横",
+    "codes": [
+      "SP15"
+    ],
+    "pinyin": "Dàhéng",
+    "section": "5.4.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中旁开4寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "腹哀",
+    "codes": [
+      "SP16"
+    ],
+    "pinyin": "Fù’āi",
+    "section": "5.4.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上3寸,前正中线旁开4寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "食窦",
+    "codes": [
+      "SP17"
+    ],
+    "pinyin": "Shídòu",
+    "section": "5.4.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第5肋间隙,前正中线旁开6寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "天溪",
+    "codes": [
+      "SP18"
+    ],
+    "pinyin": "Tiānxī",
+    "section": "5.4.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第4肋间隙,前正中线旁开6寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "胸乡",
+    "codes": [
+      "SP19"
+    ],
+    "pinyin": "Xiōngxiāng",
+    "section": "5.4.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第3肋间隙,前正中线旁开6寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "周荣",
+    "codes": [
+      "SP20"
+    ],
+    "pinyin": "Zhōuróng",
+    "section": "5.4.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第2肋间隙,前正中线旁开6寸",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "大包",
+    "codes": [
+      "SP21"
+    ],
+    "pinyin": "Dàbāo",
+    "section": "5.4.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "侧胸部",
+    "landmarks": "第6肋间隙,腋中线上",
+    "channel": "足太阴脾经",
+    "location_summary": ""
+  },
+  {
+    "name": "极泉",
+    "codes": [
+      "HT1"
+    ],
+    "pinyin": "Jíquán",
+    "section": "5.5.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腋窝中央",
+    "landmarks": "腋动脉搏动处",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "青灵",
+    "codes": [
+      "HT2"
+    ],
+    "pinyin": "Qīnglíng",
+    "section": "5.5.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂内侧",
+    "landmarks": "肘横纹上3寸,肱二头肌的内侧沟中",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "少海",
+    "codes": [
+      "HT3"
+    ],
+    "pinyin": "Shàohǎi",
+    "section": "5.5.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘前内侧",
+    "landmarks": "横平肘横纹,肱骨内上髁前缘",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "灵道",
+    "codes": [
+      "HT4"
+    ],
+    "pinyin": "Língdào",
+    "section": "5.5.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前内侧",
+    "landmarks": "腕掌侧远端横纹上1.5寸,尺侧腕屈肌腱的桡侧缘",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "通里",
+    "codes": [
+      "HT5"
+    ],
+    "pinyin": "Tōnglǐ",
+    "section": "5.5.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前内侧",
+    "landmarks": "腕掌侧远端横纹上1寸,尺侧腕屈肌腱的桡侧缘",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴郄",
+    "codes": [
+      "HT6"
+    ],
+    "pinyin": "Yīnxì",
+    "section": "5.5.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前内侧",
+    "landmarks": "腕掌侧远端横纹上0.5寸,尺侧腕屈肌腱的桡侧缘",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "神门",
+    "codes": [
+      "HT7"
+    ],
+    "pinyin": "Shénmén",
+    "section": "5.5.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕前内侧",
+    "landmarks": "腕掌侧远端横纹尺侧端,尺侧腕屈肌腱的桡侧缘",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "少府",
+    "codes": [
+      "HT8"
+    ],
+    "pinyin": "Shàofǔ",
+    "section": "5.5.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手掌",
+    "landmarks": "横平第5掌指关节近端,第4、5掌骨之间",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "少冲",
+    "codes": [
+      "HT9"
+    ],
+    "pinyin": "Shàochōng",
+    "section": "5.5.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "小指末节桡侧,指甲根角侧上方0.1寸",
+    "channel": "手少阴心经",
+    "location_summary": ""
+  },
+  {
+    "name": "少泽",
+    "codes": [
+      "SI1"
+    ],
+    "pinyin": "Shàozé",
+    "section": "5.6.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "小指末节尺侧,指甲根角侧上方0.1寸",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "前谷",
+    "codes": [
+      "SI2"
+    ],
+    "pinyin": "Qiángǔ",
+    "section": "5.6.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "第5掌指关节尺侧远端赤白肉际凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "后溪",
+    "codes": [
+      "SI3"
+    ],
+    "pinyin": "Hòuxī",
+    "section": "5.6.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手背",
+    "landmarks": "第5掌指关节尺侧近端赤白肉际凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "腕骨",
+    "codes": [
+      "SI4"
+    ],
+    "pinyin": "Wàngǔ",
+    "section": "5.6.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕后内侧",
+    "landmarks": "第5掌骨底与三角骨之间的赤白肉际凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳谷",
+    "codes": [
+      "SI5"
+    ],
+    "pinyin": "Yánggǔ",
+    "section": "5.6.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕后内侧",
+    "landmarks": "尺骨茎突与三角骨之间的凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "养老",
+    "codes": [
+      "SI6"
+    ],
+    "pinyin": "Yǎnglǎo",
+    "section": "5.6.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后侧",
+    "landmarks": "腕背横纹上1寸,尺骨头桡侧凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "支正",
+    "codes": [
+      "SI7"
+    ],
+    "pinyin": "Zhīzhèng",
+    "section": "5.6.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂外侧",
+    "landmarks": "腕背侧远端横纹上5寸,尺骨尺侧与尺侧腕屈肌之间",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "小海",
+    "codes": [
+      "SI8"
+    ],
+    "pinyin": "Xiǎohǎi",
+    "section": "5.6.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘后内侧",
+    "landmarks": "尺骨鹰嘴(即肘尖)与肱骨内上髁之间凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "肩贞",
+    "codes": [
+      "SI9"
+    ],
+    "pinyin": "Jiānzhēn",
+    "section": "5.6.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩关节后下方,腋后纹头直上1寸",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "臑俞",
+    "codes": [
+      "SI10"
+    ],
+    "pinyin": "Nàoshū",
+    "section": "5.6.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "腋后纹头直上,肩胛冈下缘凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "天宗",
+    "codes": [
+      "SI11"
+    ],
+    "pinyin": "Tiānzōng",
+    "section": "5.6.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩胛冈中点与肩胛骨下角连线上1/3与下2/3交点凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "秉风",
+    "codes": [
+      "SI12"
+    ],
+    "pinyin": "Bǐngfēng",
+    "section": "5.6.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩胛冈中点上方冈上窝中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "曲垣",
+    "codes": [
+      "SI13"
+    ],
+    "pinyin": "Qūyuán",
+    "section": "5.6.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩胛冈内侧端上缘凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "肩外俞",
+    "codes": [
+      "SI14"
+    ],
+    "pinyin": "Jiānwàishū",
+    "section": "5.6.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第1胸椎棘突下,后正中线旁开3寸",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "肩中俞",
+    "codes": [
+      "SI15"
+    ],
+    "pinyin": "Jiānzhōngshū",
+    "section": "5.6.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第7颈椎棘突下,后正中线旁开2寸",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "天窗",
+    "codes": [
+      "SI16"
+    ],
+    "pinyin": "Tiānchuāng",
+    "section": "5.6.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "横平甲状软骨上缘(约相当于喉结处),胸锁乳突肌的后缘",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "天容",
+    "codes": [
+      "SI17"
+    ],
+    "pinyin": "Tiānróng",
+    "section": "5.6.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "下颌角后方,胸锁乳突肌的前缘凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "颧髎",
+    "codes": [
+      "SI18"
+    ],
+    "pinyin": "Quánliáo",
+    "section": "5.6.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "颧骨下缘,目外眦直下凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "听宫",
+    "codes": [
+      "SI19"
+    ],
+    "pinyin": "Tīnggōng",
+    "section": "5.6.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "耳屏正中与下颌骨髁突之间的凹陷中",
+    "channel": "手太阳小肠经",
+    "location_summary": ""
+  },
+  {
+    "name": "睛明",
+    "codes": [
+      "BL1"
+    ],
+    "pinyin": "Jīngmíng",
+    "section": "5.7.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "目内眦内上方眶内侧壁凹陷中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "攒竹",
+    "codes": [
+      "BL2"
+    ],
+    "pinyin": "Cuánzhú",
+    "section": "5.7.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "眉头凹陷中,额切迹处",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "眉冲",
+    "codes": [
+      "BL3"
+    ],
+    "pinyin": "Méichōng",
+    "section": "5.7.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "额切迹直上入发际0.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "曲差",
+    "codes": [
+      "BL4"
+    ],
+    "pinyin": "Qūchā",
+    "section": "5.7.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上0.5寸,旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "五处",
+    "codes": [
+      "BL5"
+    ],
+    "pinyin": "Wǔchù",
+    "section": "5.7.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上1寸,旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "承光",
+    "codes": [
+      "BL6"
+    ],
+    "pinyin": "Chéngguāng",
+    "section": "5.7.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上2.5寸,旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "通天",
+    "codes": [
+      "BL7"
+    ],
+    "pinyin": "Tōngtiān",
+    "section": "5.7.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上4寸,旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "络却",
+    "codes": [
+      "BL8"
+    ],
+    "pinyin": "Luòquè",
+    "section": "5.7.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上5.5寸,旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "玉枕",
+    "codes": [
+      "BL9"
+    ],
+    "pinyin": "Yùzhěn",
+    "section": "5.7.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "横平枕外隆凸上缘,后发际正中旁开1.3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "天柱",
+    "codes": [
+      "BL10"
+    ],
+    "pinyin": "Tiānzhù",
+    "section": "5.7.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈后部",
+    "landmarks": "横平第2颈椎棘突上际,斜方肌外缘凹陷中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "大杼",
+    "codes": [
+      "BL11"
+    ],
+    "pinyin": "Dàzhù",
+    "section": "5.7.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第1胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "风门",
+    "codes": [
+      "BL12"
+    ],
+    "pinyin": "Fēngmén",
+    "section": "5.7.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第2胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "肺俞",
+    "codes": [
+      "BL13"
+    ],
+    "pinyin": "Fèishū",
+    "section": "5.7.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第3胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "厥阴俞",
+    "codes": [
+      "BL14"
+    ],
+    "pinyin": "Juéyīnshū",
+    "section": "5.7.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第4胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "心俞",
+    "codes": [
+      "BL15"
+    ],
+    "pinyin": "Xīnshū",
+    "section": "5.7.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第5胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "督俞",
+    "codes": [
+      "BL16"
+    ],
+    "pinyin": "Dūshū",
+    "section": "5.7.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第6胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "膈俞",
+    "codes": [
+      "BL17"
+    ],
+    "pinyin": "Géshū",
+    "section": "5.7.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第7胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "肝俞",
+    "codes": [
+      "BL18"
+    ],
+    "pinyin": "Gānshū",
+    "section": "5.7.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第9胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "胆俞",
+    "codes": [
+      "BL19"
+    ],
+    "pinyin": "Dǎnshū",
+    "section": "5.7.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第10胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "脾俞",
+    "codes": [
+      "BL20"
+    ],
+    "pinyin": "Píshū",
+    "section": "5.7.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第11胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "胃俞",
+    "codes": [
+      "BL21"
+    ],
+    "pinyin": "Wèishū",
+    "section": "5.7.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第12胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "三焦俞",
+    "codes": [
+      "BL22"
+    ],
+    "pinyin": "Sānjiāoshū",
+    "section": "5.7.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第1腰椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "肾俞",
+    "codes": [
+      "BL23"
+    ],
+    "pinyin": "Shènshū",
+    "section": "5.7.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第2腰椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "气海俞",
+    "codes": [
+      "BL24"
+    ],
+    "pinyin": "Qìhǎishū",
+    "section": "5.7.24",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第3腰椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "大肠俞",
+    "codes": [
+      "BL25"
+    ],
+    "pinyin": "Dàchángshū",
+    "section": "5.7.25",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第4腰椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "关元俞",
+    "codes": [
+      "BL26"
+    ],
+    "pinyin": "Guānyuánshū",
+    "section": "5.7.26",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第5腰椎棘突下,后正中线旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "小肠俞",
+    "codes": [
+      "BL27"
+    ],
+    "pinyin": "Xiǎochángshū",
+    "section": "5.7.27",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "横平第1骶后孔,骶正中嵴旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "膀胱俞",
+    "codes": [
+      "BL28"
+    ],
+    "pinyin": "Pángguāngshū",
+    "section": "5.7.28",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "横平第2骶后孔,骶正中嵴旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "中膂俞",
+    "codes": [
+      "BL29"
+    ],
+    "pinyin": "Zhōnglǚshū",
+    "section": "5.7.29",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "横平第3骶后孔,骶正中嵴旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "白环俞",
+    "codes": [
+      "BL30"
+    ],
+    "pinyin": "Báihuánshū",
+    "section": "5.7.30",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "横平第4骶后孔,骶正中嵴旁开1.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "上髎",
+    "codes": [
+      "BL31"
+    ],
+    "pinyin": "Shàngliáo",
+    "section": "5.7.31",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "正对第1骶后孔中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "次髎",
+    "codes": [
+      "BL32"
+    ],
+    "pinyin": "Cìliáo",
+    "section": "5.7.32",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "第2骶后孔中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "中髎",
+    "codes": [
+      "BL33"
+    ],
+    "pinyin": "Zhōngliáo",
+    "section": "5.7.33",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "正对第3骶后孔中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "下髎",
+    "codes": [
+      "BL34"
+    ],
+    "pinyin": "Xiàliáo",
+    "section": "5.7.34",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "正对第4骶后孔中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "会阳",
+    "codes": [
+      "BL35"
+    ],
+    "pinyin": "Huìyáng",
+    "section": "5.7.35",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臀部",
+    "landmarks": "尾骨端旁开0.5寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "承扶",
+    "codes": [
+      "BL36"
+    ],
+    "pinyin": "Chéngfú",
+    "section": "5.7.36",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臀部",
+    "landmarks": "臀沟的中点",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "殷门",
+    "codes": [
+      "BL37"
+    ],
+    "pinyin": "Yīnmén",
+    "section": "5.7.37",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股后侧",
+    "landmarks": "臀沟下6寸,股二头肌与半腱肌之间",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "浮郄",
+    "codes": [
+      "BL38"
+    ],
+    "pinyin": "Fúxì",
+    "section": "5.7.38",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝后侧",
+    "landmarks": "腘横纹上1寸,股二头肌腱的内侧缘",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "委阳",
+    "codes": [
+      "BL39"
+    ],
+    "pinyin": "Wěiyáng",
+    "section": "5.7.39",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝后外侧",
+    "landmarks": "腘横纹上,股二头肌腱的内侧缘",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "委中",
+    "codes": [
+      "BL40"
+    ],
+    "pinyin": "Wěizhōng",
+    "section": "5.7.40",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝后侧",
+    "landmarks": "腘横纹中点",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "附分",
+    "codes": [
+      "BL41"
+    ],
+    "pinyin": "Fùfēn",
+    "section": "5.7.41",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第2胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "魄户",
+    "codes": [
+      "BL42"
+    ],
+    "pinyin": "Pòhù",
+    "section": "5.7.42",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第3胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "膏肓",
+    "codes": [
+      "BL43"
+    ],
+    "pinyin": "Gāohuāng",
+    "section": "5.7.43",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第4胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "神堂",
+    "codes": [
+      "BL44"
+    ],
+    "pinyin": "Shéntáng",
+    "section": "5.7.44",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第5胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "譩譆",
+    "codes": [
+      "BL45"
+    ],
+    "pinyin": "Yìxǐ",
+    "section": "5.7.45",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第6胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "膈关",
+    "codes": [
+      "BL46"
+    ],
+    "pinyin": "Géguān",
+    "section": "5.7.46",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第7胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "魂门",
+    "codes": [
+      "BL47"
+    ],
+    "pinyin": "Húnmén",
+    "section": "5.7.47",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第9胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳纲",
+    "codes": [
+      "BL48"
+    ],
+    "pinyin": "Yánggāng",
+    "section": "5.7.48",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第10胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "意舍",
+    "codes": [
+      "BL49"
+    ],
+    "pinyin": "Yìshè",
+    "section": "5.7.49",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第11胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "胃仓",
+    "codes": [
+      "BL50"
+    ],
+    "pinyin": "Wèicāng",
+    "section": "5.7.50",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第12胸椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "肓门",
+    "codes": [
+      "BL51"
+    ],
+    "pinyin": "Huāngmén",
+    "section": "5.7.51",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第1腰椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "志室",
+    "codes": [
+      "BL52"
+    ],
+    "pinyin": "Zhìshì",
+    "section": "5.7.52",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第2腰椎棘突下,后正中线旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "胞肓",
+    "codes": [
+      "BL53"
+    ],
+    "pinyin": "Bāohuāng",
+    "section": "5.7.53",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臀部",
+    "landmarks": "横平第2骶后孔,骶正中嵴旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "秩边",
+    "codes": [
+      "BL54"
+    ],
+    "pinyin": "Zhìbiān",
+    "section": "5.7.54",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臀部",
+    "landmarks": "横平第4骶后孔,骶正中嵴旁开3寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "合阳",
+    "codes": [
+      "BL55"
+    ],
+    "pinyin": "Héyáng",
+    "section": "5.7.55",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后侧",
+    "landmarks": "腘横纹下2寸,腓肠肌内、外侧头之间",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "承筋",
+    "codes": [
+      "BL56"
+    ],
+    "pinyin": "Chéngjīn",
+    "section": "5.7.56",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后侧",
+    "landmarks": "腘横纹下5寸,腓肠肌两肌腹之间",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "承山",
+    "codes": [
+      "BL57"
+    ],
+    "pinyin": "Chéngshān",
+    "section": "5.7.57",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后侧",
+    "landmarks": "腓肠肌两肌腹与跟腱交角处",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "飞扬",
+    "codes": [
+      "BL58"
+    ],
+    "pinyin": "Fēiyáng",
+    "section": "5.7.58",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后外侧",
+    "landmarks": "腓肠肌外下缘与跟腱移行处,约当昆仑(BL60)直上7寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "跗阳",
+    "codes": [
+      "BL59"
+    ],
+    "pinyin": "Fūyáng",
+    "section": "5.7.59",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后外侧",
+    "landmarks": "昆仑(BL60)直上3寸,腓骨与跟腱之间",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "昆仑",
+    "codes": [
+      "BL60"
+    ],
+    "pinyin": "Kūnlún",
+    "section": "5.7.60",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "踝后外侧",
+    "landmarks": "外踝尖与跟腱之间的凹陷中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "仆参",
+    "codes": [
+      "BL61"
+    ],
+    "pinyin": "Púcān",
+    "section": "5.7.61",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足外侧",
+    "landmarks": "昆仑(BL60)直下,跟骨外侧,赤白肉际处",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "申脉",
+    "codes": [
+      "BL62"
+    ],
+    "pinyin": "Shēnmài",
+    "section": "5.7.62",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足外侧",
+    "landmarks": "外踝尖直下,外踝下缘与跟骨之间凹陷中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "金门",
+    "codes": [
+      "BL63"
+    ],
+    "pinyin": "Jīnmén",
+    "section": "5.7.63",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "外踝前缘直下,第5跖骨粗隆后方,骰骨下缘凹陷中",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "京骨",
+    "codes": [
+      "BL64"
+    ],
+    "pinyin": "Jīnggǔ",
+    "section": "5.7.64",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足外侧",
+    "landmarks": "第5跖骨粗隆前下方,赤白肉际处",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "束骨",
+    "codes": [
+      "BL65"
+    ],
+    "pinyin": "Shùgǔ",
+    "section": "5.7.65",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足外侧",
+    "landmarks": "第5跖趾关节的近端,赤白肉际处",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "足通谷",
+    "codes": [
+      "BL66"
+    ],
+    "pinyin": "Zútōnggǔ",
+    "section": "5.7.66",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "第5跖趾关节的远端,赤白肉际处",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "至阴",
+    "codes": [
+      "BL67"
+    ],
+    "pinyin": "Zhìyīn",
+    "section": "5.7.67",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "小趾末节外侧,趾甲根角侧后方0.1寸",
+    "channel": "足太阳膀胱经",
+    "location_summary": ""
+  },
+  {
+    "name": "涌泉",
+    "codes": [
+      "KI1"
+    ],
+    "pinyin": "Yǒngquán",
+    "section": "5.8.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足底",
+    "landmarks": "屈足卷趾时足心最凹陷中",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "然谷",
+    "codes": [
+      "KI2"
+    ],
+    "pinyin": "Rángǔ",
+    "section": "5.8.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "足舟骨粗隆下方,赤白肉际处",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "太溪",
+    "codes": [
+      "KI3"
+    ],
+    "pinyin": "Tàixī",
+    "section": "5.8.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "踝后内侧",
+    "landmarks": "内踝尖与跟腱之间的凹陷中",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "大钟",
+    "codes": [
+      "KI4"
+    ],
+    "pinyin": "Dàzhōng",
+    "section": "5.8.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "内踝后下方,跟骨上缘,跟腱附着部内侧前缘凹陷中",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "水泉",
+    "codes": [
+      "KI5"
+    ],
+    "pinyin": "Shuǐquán",
+    "section": "5.8.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "太溪(KI3)直下1寸,跟骨结节内侧凹陷中",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "照海",
+    "codes": [
+      "KI6"
+    ],
+    "pinyin": "Zhàohǎi",
+    "section": "5.8.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足内侧",
+    "landmarks": "内踝尖下1寸,内踝下缘边际凹陷中",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "复溜",
+    "codes": [
+      "KI7"
+    ],
+    "pinyin": "Fùliū",
+    "section": "5.8.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后内侧",
+    "landmarks": "内踝尖上2寸,跟腱的前缘",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "交信",
+    "codes": [
+      "KI8"
+    ],
+    "pinyin": "Jiāoxìn",
+    "section": "5.8.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿内侧",
+    "landmarks": "内踝尖上2寸,胫骨内侧缘后际凹陷中",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "筑宾",
+    "codes": [
+      "KI9"
+    ],
+    "pinyin": "Zhùbīn",
+    "section": "5.8.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿后内侧",
+    "landmarks": "太溪(KI3)直上5寸,比目鱼肌与跟腱之间",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴谷",
+    "codes": [
+      "KI10"
+    ],
+    "pinyin": "Yīngǔ",
+    "section": "5.8.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝后内侧",
+    "landmarks": "腘横纹上,半腱肌肌腱外侧缘",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "横骨",
+    "codes": [
+      "KI11"
+    ],
+    "pinyin": "Hénggǔ",
+    "section": "5.8.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下5寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "大赫",
+    "codes": [
+      "KI12"
+    ],
+    "pinyin": "Dàhè",
+    "section": "5.8.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下4寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "气穴",
+    "codes": [
+      "KI13"
+    ],
+    "pinyin": "Qìxué",
+    "section": "5.8.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下3寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "四满",
+    "codes": [
+      "KI14"
+    ],
+    "pinyin": "Sìmǎn",
+    "section": "5.8.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下2寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "中注",
+    "codes": [
+      "KI15"
+    ],
+    "pinyin": "Zhōngzhù",
+    "section": "5.8.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下1寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "肓俞",
+    "codes": [
+      "KI16"
+    ],
+    "pinyin": "Huāngshū",
+    "section": "5.8.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "商曲",
+    "codes": [
+      "KI17"
+    ],
+    "pinyin": "Shāngqū",
+    "section": "5.8.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上2寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "石关",
+    "codes": [
+      "KI18"
+    ],
+    "pinyin": "Shíguān",
+    "section": "5.8.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上3寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴都",
+    "codes": [
+      "KI19"
+    ],
+    "pinyin": "Yīndū",
+    "section": "5.8.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上4寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "腹通谷",
+    "codes": [
+      "KI20"
+    ],
+    "pinyin": "Fùtōnggǔ",
+    "section": "5.8.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上5寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "幽门",
+    "codes": [
+      "KI21"
+    ],
+    "pinyin": "Yōumén",
+    "section": "5.8.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上6寸,前正中线旁开0.5寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "步廊",
+    "codes": [
+      "KI22"
+    ],
+    "pinyin": "Bùláng",
+    "section": "5.8.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第5肋间隙,前正中线旁开2寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "神封",
+    "codes": [
+      "KI23"
+    ],
+    "pinyin": "Shénfēng",
+    "section": "5.8.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第4肋间隙,前正中线旁开2寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "灵墟",
+    "codes": [
+      "KI24"
+    ],
+    "pinyin": "Língxū",
+    "section": "5.8.24",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第3肋间隙,前正中线旁开2寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "神藏",
+    "codes": [
+      "KI25"
+    ],
+    "pinyin": "Shéncáng",
+    "section": "5.8.25",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第2肋间隙,前正中线旁开2寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "彧中",
+    "codes": [
+      "KI26"
+    ],
+    "pinyin": "Yùzhōng",
+    "section": "5.8.26",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第1肋间隙,前正中线旁开2寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "俞府",
+    "codes": [
+      "KI27"
+    ],
+    "pinyin": "Shūfǔ",
+    "section": "5.8.27",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "锁骨下缘,前正中线旁开2寸",
+    "channel": "足少阴肾经",
+    "location_summary": ""
+  },
+  {
+    "name": "天池",
+    "codes": [
+      "PC1"
+    ],
+    "pinyin": "Tiānchí",
+    "section": "5.9.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第4肋间隙,前正中线旁开5寸",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "天泉",
+    "codes": [
+      "PC2"
+    ],
+    "pinyin": "Tiānquán",
+    "section": "5.9.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂前侧",
+    "landmarks": "腋前纹头下2寸,肱二头肌的长、短头之间",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "曲泽",
+    "codes": [
+      "PC3"
+    ],
+    "pinyin": "Qūzé",
+    "section": "5.9.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘前侧",
+    "landmarks": "肘横纹上,肱二头肌腱的尺侧缘凹陷中",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "郄门",
+    "codes": [
+      "PC4"
+    ],
+    "pinyin": "Xìmén",
+    "section": "5.9.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前侧",
+    "landmarks": "腕掌侧远端横纹上5寸,掌长肌腱与桡侧腕屈肌腱之间",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "间使",
+    "codes": [
+      "PC5"
+    ],
+    "pinyin": "Jiānshǐ",
+    "section": "5.9.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前侧",
+    "landmarks": "腕掌侧远端横纹上3寸,掌长肌腱与桡侧腕屈肌腱之间",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "内关",
+    "codes": [
+      "PC6"
+    ],
+    "pinyin": "Nèiguān",
+    "section": "5.9.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂前侧",
+    "landmarks": "腕掌侧远端横纹上2寸,掌长肌腱与桡侧腕屈肌腱之间",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "大陵",
+    "codes": [
+      "PC7"
+    ],
+    "pinyin": "Dàlíng",
+    "section": "5.9.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕前侧",
+    "landmarks": "腕掌侧远端横纹中,掌长肌腱与桡侧腕屈肌腱之间",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "劳宫",
+    "codes": [
+      "PC8"
+    ],
+    "pinyin": "Láogōng",
+    "section": "5.9.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手掌",
+    "landmarks": "横平第3掌指关节近端,第2、3掌骨之间偏于第3掌骨",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "中冲",
+    "codes": [
+      "PC9"
+    ],
+    "pinyin": "Zhōngchōng",
+    "section": "5.9.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "中指末端最高点",
+    "channel": "手厥阴心包经",
+    "location_summary": ""
+  },
+  {
+    "name": "关冲",
+    "codes": [
+      "TE1"
+    ],
+    "pinyin": "Guānchōng",
+    "section": "5.10.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手指",
+    "landmarks": "第4指末节尺侧,指甲根角侧上方0.1寸",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "液门",
+    "codes": [
+      "TE2"
+    ],
+    "pinyin": "Yèmén",
+    "section": "5.10.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手背",
+    "landmarks": "第4、5指间,指蹼缘上方赤白肉际凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "中渚",
+    "codes": [
+      "TE3"
+    ],
+    "pinyin": "Zhōngzhǔ",
+    "section": "5.10.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "手背",
+    "landmarks": "第4、5掌骨间,第4掌指关节近端凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳池",
+    "codes": [
+      "TE4"
+    ],
+    "pinyin": "Yángchí",
+    "section": "5.10.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腕后侧",
+    "landmarks": "腕背侧远端横纹上,指伸肌腱的尺侧缘凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "外关",
+    "codes": [
+      "TE5"
+    ],
+    "pinyin": "Wàiguān",
+    "section": "5.10.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后侧",
+    "landmarks": "腕背侧远端横纹上2寸,尺骨与桡骨间隙中点",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "支沟",
+    "codes": [
+      "TE6"
+    ],
+    "pinyin": "Zhīgōu",
+    "section": "5.10.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后侧",
+    "landmarks": "腕背侧远端横纹上3寸,尺骨与桡骨间隙中点",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "会宗",
+    "codes": [
+      "TE7"
+    ],
+    "pinyin": "Huìzōng",
+    "section": "5.10.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后侧",
+    "landmarks": "腕背侧远端横纹上3寸,尺骨的桡侧缘",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "三阳络",
+    "codes": [
+      "TE8"
+    ],
+    "pinyin": "Sānyángluò",
+    "section": "5.10.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后侧",
+    "landmarks": "腕背侧远端横纹上4寸,尺骨与桡骨间隙中点",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "四渎",
+    "codes": [
+      "TE9"
+    ],
+    "pinyin": "Sìdú",
+    "section": "5.10.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前臂后侧",
+    "landmarks": "尺骨鹰嘴尖下5寸,尺骨与桡骨间隙中点",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "天井",
+    "codes": [
+      "TE10"
+    ],
+    "pinyin": "Tiānjǐng",
+    "section": "5.10.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肘后侧",
+    "landmarks": "尺骨鹰嘴尖上1寸凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "清泠渊",
+    "codes": [
+      "TE11"
+    ],
+    "pinyin": "Qīnglíngyuān",
+    "section": "5.10.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂后侧",
+    "landmarks": "尺骨鹰嘴尖与肩峰角连线上,尺骨鹰嘴尖上2寸",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "消泺",
+    "codes": [
+      "TE12"
+    ],
+    "pinyin": "Xiāoluò",
+    "section": "5.10.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂后侧",
+    "landmarks": "尺骨鹰嘴尖与肩峰角连线上,鹰嘴尖上5寸",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "臑会",
+    "codes": [
+      "TE13"
+    ],
+    "pinyin": "Nàohuì",
+    "section": "5.10.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臂后侧",
+    "landmarks": "在尺骨鹰嘴尖与肩峰角连线上,与三角肌后缘相交处",
+    "channel": "手少阳三焦经",
+    "location_summary": "上臂后面，尺骨鹰嘴尖至肩峰角连线与三角肌后缘的交点。"
+  },
+  {
+    "name": "肩髎",
+    "codes": [
+      "TE14"
+    ],
+    "pinyin": "Jiānliáo",
+    "section": "5.10.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩峰角与肱骨大结节两骨间凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "天髎",
+    "codes": [
+      "TE15"
+    ],
+    "pinyin": "Tiānliáo",
+    "section": "5.10.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "肩带部",
+    "landmarks": "肩胛骨上角骨际凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "天牖",
+    "codes": [
+      "TE16"
+    ],
+    "pinyin": "Tiānyǒu",
+    "section": "5.10.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "横平下颌角,胸锁乳突肌的后缘凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "翳风",
+    "codes": [
+      "TE17"
+    ],
+    "pinyin": "Yìfēng",
+    "section": "5.10.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈部",
+    "landmarks": "耳垂后方,乳突下端前方凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "瘈脉",
+    "codes": [
+      "TE18"
+    ],
+    "pinyin": "Chìmài",
+    "section": "5.10.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "乳突中央,角孙(TE20)与翳风(TE17)沿耳轮弧形连线的上2/3与下1/3的交点处",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "颅息",
+    "codes": [
+      "TE19"
+    ],
+    "pinyin": "Lúxī",
+    "section": "5.10.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "角孙(TE20)与翳风(TE17)沿耳轮弧形连线的上1/3与下2/3的交点处",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "角孙",
+    "codes": [
+      "TE20"
+    ],
+    "pinyin": "Jiǎosūn",
+    "section": "5.10.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "耳尖正对发际处",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "耳门",
+    "codes": [
+      "TE21"
+    ],
+    "pinyin": "Ěrmén",
+    "section": "5.10.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "耳屏上切迹与下颌骨髁突之间的凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "耳和髎",
+    "codes": [
+      "TE22"
+    ],
+    "pinyin": "Ěrhéliáo",
+    "section": "5.10.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "鬓发后缘,耳郭根的前方,颞浅动脉的后缘",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "丝竹空",
+    "codes": [
+      "TE23"
+    ],
+    "pinyin": "Sīzhúkōng",
+    "section": "5.10.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "眉梢凹陷中",
+    "channel": "手少阳三焦经",
+    "location_summary": ""
+  },
+  {
+    "name": "瞳子髎",
+    "codes": [
+      "GB1"
+    ],
+    "pinyin": "Tóngzǐliáo",
+    "section": "5.11.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "目外眦外侧0.5寸凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "听会",
+    "codes": [
+      "GB2"
+    ],
+    "pinyin": "Tīnghuì",
+    "section": "5.11.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "耳屏间切迹与下颌骨髁突之间的凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "上关",
+    "codes": [
+      "GB3"
+    ],
+    "pinyin": "Shàngguān",
+    "section": "5.11.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "颧弓上缘中央凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "颔厌",
+    "codes": [
+      "GB4"
+    ],
+    "pinyin": "Hànyàn",
+    "section": "5.11.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "从头维(ST8)至曲鬓(GB7)的弧形连线(其弧度与鬓发弧度相应)的上1/4与下3/4的交点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "悬颅",
+    "codes": [
+      "GB5"
+    ],
+    "pinyin": "Xuánlú",
+    "section": "5.11.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "从头维(ST8)至曲鬓(GB7)的弧形连线(其弧度与鬓发弧度相应)的中点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "悬厘",
+    "codes": [
+      "GB6"
+    ],
+    "pinyin": "Xuánlí",
+    "section": "5.11.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "从头维(ST8)至曲鬓(GB7)的弧形连线(其弧度与鬓发弧度相应)的上3/4与下1/4的交点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "曲鬓",
+    "codes": [
+      "GB7"
+    ],
+    "pinyin": "Qūbìn",
+    "section": "5.11.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "鬓角发际后缘与耳尖水平线的交点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "率谷",
+    "codes": [
+      "GB8"
+    ],
+    "pinyin": "Shuàigǔ",
+    "section": "5.11.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "耳尖直上入发际1.5寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "天冲",
+    "codes": [
+      "GB9"
+    ],
+    "pinyin": "Tiānchōng",
+    "section": "5.11.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "耳根后缘直上,入发际2寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "浮白",
+    "codes": [
+      "GB10"
+    ],
+    "pinyin": "Fúbái",
+    "section": "5.11.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "耳后乳突的后上方,从天冲(GB9)至完骨(GB12)的弧形连线(其弧度与耳郭弧度相应)的上1/3与下2/3交点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "头窍阴",
+    "codes": [
+      "GB11"
+    ],
+    "pinyin": "Tóuqiàoyīn",
+    "section": "5.11.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "耳后乳突的后上方,从天冲(GB9)到完骨(GB12)的弧形连线(其弧度与耳郭弧度相应)的上2/3与下1/3交点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "完骨",
+    "codes": [
+      "GB12"
+    ],
+    "pinyin": "Wángǔ",
+    "section": "5.11.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈部",
+    "landmarks": "耳后乳突的后下方凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "本神",
+    "codes": [
+      "GB13"
+    ],
+    "pinyin": "Běnshén",
+    "section": "5.11.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际上0.5寸,头正中线旁开3寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳白",
+    "codes": [
+      "GB14"
+    ],
+    "pinyin": "Yángbái",
+    "section": "5.11.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "眉上1寸,瞳孔直上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "头临泣",
+    "codes": [
+      "GB15"
+    ],
+    "pinyin": "Tóulínqì",
+    "section": "5.11.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际上0.5寸,瞳孔直上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "目窗",
+    "codes": [
+      "GB16"
+    ],
+    "pinyin": "Mùchuāng",
+    "section": "5.11.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际上1.5寸,瞳孔直上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "正营",
+    "codes": [
+      "GB17"
+    ],
+    "pinyin": "Zhèngyíng",
+    "section": "5.11.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际上2.5寸,瞳孔直上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "承灵",
+    "codes": [
+      "GB18"
+    ],
+    "pinyin": "Chénglíng",
+    "section": "5.11.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际上4寸,瞳孔直上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "脑空",
+    "codes": [
+      "GB19"
+    ],
+    "pinyin": "Nǎokōng",
+    "section": "5.11.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "横平枕外隆凸的上缘,风池(GB20)直上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "风池",
+    "codes": [
+      "GB20"
+    ],
+    "pinyin": "Fēngchí",
+    "section": "5.11.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "项部",
+    "landmarks": "枕骨之下,胸锁乳突肌上端与斜方肌上端之间的凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "肩井",
+    "codes": [
+      "GB21"
+    ],
+    "pinyin": "Jiānjǐng",
+    "section": "5.11.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈后部",
+    "landmarks": "第7颈椎棘突与肩峰最外侧点连线的中点",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "渊腋",
+    "codes": [
+      "GB22"
+    ],
+    "pinyin": "Yuānyè",
+    "section": "5.11.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "侧胸部",
+    "landmarks": "第4肋间隙中,在腋中线上",
+    "channel": "足少阳胆经",
+    "location_summary": "胸廓侧面，沿腋中线到第四肋间隙的位置。"
+  },
+  {
+    "name": "辄筋",
+    "codes": [
+      "GB23"
+    ],
+    "pinyin": "Zhéjīn",
+    "section": "5.11.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "侧胸部",
+    "landmarks": "第4肋间隙中,腋中线前1寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "日月",
+    "codes": [
+      "GB24"
+    ],
+    "pinyin": "Rìyuè",
+    "section": "5.11.24",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第7肋间隙中,前正中线旁开4寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "京门",
+    "codes": [
+      "GB25"
+    ],
+    "pinyin": "Jīngmén",
+    "section": "5.11.25",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "侧腹部",
+    "landmarks": "第12肋骨游离端的下际",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "带脉",
+    "codes": [
+      "GB26"
+    ],
+    "pinyin": "Dàimài",
+    "section": "5.11.26",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "侧腹部",
+    "landmarks": "第11肋骨游离端垂线与脐水平线的交点上",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "五枢",
+    "codes": [
+      "GB27"
+    ],
+    "pinyin": "Wǔshū",
+    "section": "5.11.27",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "横平脐下3寸,髂前上棘内侧",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "维道",
+    "codes": [
+      "GB28"
+    ],
+    "pinyin": "Wéidào",
+    "section": "5.11.28",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "髂前上棘内下0.5寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "居髎",
+    "codes": [
+      "GB29"
+    ],
+    "pinyin": "Jūliáo",
+    "section": "5.11.29",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臀部",
+    "landmarks": "髂前上棘与股骨大转子最凸点连线的中点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "环跳",
+    "codes": [
+      "GB30"
+    ],
+    "pinyin": "Huántiào",
+    "section": "5.11.30",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "臀部",
+    "landmarks": "股骨大转子最凸点与骶管裂孔连线的外1/3与内2/3交点处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "风市",
+    "codes": [
+      "GB31"
+    ],
+    "pinyin": "Fēngshì",
+    "section": "5.11.31",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股外侧",
+    "landmarks": "腘横纹上9寸,髂胫束后缘",
+    "channel": "足少阳胆经",
+    "location_summary": "大腿外侧，腘横纹往上 9 寸，在髂胫束的后缘。"
+  },
+  {
+    "name": "中渎",
+    "codes": [
+      "GB32"
+    ],
+    "pinyin": "Zhōngdú",
+    "section": "5.11.32",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股外侧",
+    "landmarks": "腘横纹上7寸,髂胫束后缘",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "膝阳关",
+    "codes": [
+      "GB33"
+    ],
+    "pinyin": "Xīyángguān",
+    "section": "5.11.33",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝外侧",
+    "landmarks": "股骨外上髁后上缘,股二头肌腱与髂胫束之间的凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳陵泉",
+    "codes": [
+      "GB34"
+    ],
+    "pinyin": "Yánglíngquán",
+    "section": "5.11.34",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "腓骨头前下方凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳交",
+    "codes": [
+      "GB35"
+    ],
+    "pinyin": "Yángjiāo",
+    "section": "5.11.35",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "外踝尖上7寸,腓骨后缘",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "外丘",
+    "codes": [
+      "GB36"
+    ],
+    "pinyin": "Wàiqiū",
+    "section": "5.11.36",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "外踝尖上7寸,腓骨前缘",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "光明",
+    "codes": [
+      "GB37"
+    ],
+    "pinyin": "Guāngmíng",
+    "section": "5.11.37",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "外踝尖上5寸,腓骨前缘",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "阳辅",
+    "codes": [
+      "GB38"
+    ],
+    "pinyin": "Yángfǔ",
+    "section": "5.11.38",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "外踝尖上4寸,腓骨前缘",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "悬钟",
+    "codes": [
+      "GB39"
+    ],
+    "pinyin": "Xuánzhōng",
+    "section": "5.11.39",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿外侧",
+    "landmarks": "外踝尖上3寸,腓骨前缘",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "丘墟",
+    "codes": [
+      "GB40"
+    ],
+    "pinyin": "Qiūxū",
+    "section": "5.11.40",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "踝前外侧",
+    "landmarks": "外踝的前下方,趾长伸肌腱的外侧凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "足临泣",
+    "codes": [
+      "GB41"
+    ],
+    "pinyin": "Zúlínqì",
+    "section": "5.11.41",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第4、5跖骨底结合部的前方,第5趾长伸肌腱外侧凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "地五会",
+    "codes": [
+      "GB42"
+    ],
+    "pinyin": "Dìwǔhuì",
+    "section": "5.11.42",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第4、5跖骨间,第4跖趾关节近端凹陷中",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "侠溪",
+    "codes": [
+      "GB43"
+    ],
+    "pinyin": "Xiáxī",
+    "section": "5.11.43",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第4、5趾间,趾蹼缘后方赤白肉际处",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "足窍阴",
+    "codes": [
+      "GB44"
+    ],
+    "pinyin": "Zúqiàoyīn",
+    "section": "5.11.44",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "第4趾末节外侧,趾甲根角侧后方0.1寸",
+    "channel": "足少阳胆经",
+    "location_summary": ""
+  },
+  {
+    "name": "大敦",
+    "codes": [
+      "LR1"
+    ],
+    "pinyin": "Dàdūn",
+    "section": "5.12.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足趾",
+    "landmarks": "大趾末节外侧,趾甲根角侧后方0.1寸",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "行间",
+    "codes": [
+      "LR2"
+    ],
+    "pinyin": "Xíngjiān",
+    "section": "5.12.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第1、2趾间,趾蹼缘后方赤白肉际处",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "太冲",
+    "codes": [
+      "LR3"
+    ],
+    "pinyin": "Tàichōng",
+    "section": "5.12.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "足背",
+    "landmarks": "第1、2跖骨间,跖骨底结合部前方凹陷中,或触及动脉搏动",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "中封",
+    "codes": [
+      "LR4"
+    ],
+    "pinyin": "Zhōngfēng",
+    "section": "5.12.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "踝前内侧",
+    "landmarks": "足内踝前,胫骨前肌肌腱的内侧缘凹陷中",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "蠡沟",
+    "codes": [
+      "LR5"
+    ],
+    "pinyin": "Lígōu",
+    "section": "5.12.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿前内侧",
+    "landmarks": "内踝尖上5寸,胫骨内侧面的中央",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "中都",
+    "codes": [
+      "LR6"
+    ],
+    "pinyin": "Zhōngdū",
+    "section": "5.12.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿前内侧",
+    "landmarks": "内踝尖上7寸,胫骨内侧面的中央",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "膝关",
+    "codes": [
+      "LR7"
+    ],
+    "pinyin": "Xīguān",
+    "section": "5.12.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "小腿内侧",
+    "landmarks": "胫骨内侧髁的下方,阴陵泉(SP9)后1寸",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "曲泉",
+    "codes": [
+      "LR8"
+    ],
+    "pinyin": "Qūquán",
+    "section": "5.12.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "膝内侧",
+    "landmarks": "腘横纹内侧端,半腱肌肌腱内缘凹陷中",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴包",
+    "codes": [
+      "LR9"
+    ],
+    "pinyin": "Yīnbāo",
+    "section": "5.12.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股内侧",
+    "landmarks": "髌底上4寸,股薄肌与缝匠肌之间",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "足五里",
+    "codes": [
+      "LR10"
+    ],
+    "pinyin": "Zúwǔlǐ",
+    "section": "5.12.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股内侧",
+    "landmarks": "气冲(ST30)直下3寸,动脉搏动处",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "阴廉",
+    "codes": [
+      "LR11"
+    ],
+    "pinyin": "Yīnlián",
+    "section": "5.12.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "股内侧",
+    "landmarks": "气冲(ST30)直下2寸",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "急脉",
+    "codes": [
+      "LR12"
+    ],
+    "pinyin": "Jímài",
+    "section": "5.12.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腹股沟",
+    "landmarks": "横平耻骨联合上缘,前正中线旁开2.5寸",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "章门",
+    "codes": [
+      "LR13"
+    ],
+    "pinyin": "Zhāngmén",
+    "section": "5.12.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "侧腹部",
+    "landmarks": "在第11肋游离端的下际",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "期门",
+    "codes": [
+      "LR14"
+    ],
+    "pinyin": "Qīmén",
+    "section": "5.12.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "第6肋间隙,前正中线旁开4寸",
+    "channel": "足厥阴肝经",
+    "location_summary": ""
+  },
+  {
+    "name": "长强",
+    "codes": [
+      "GV1"
+    ],
+    "pinyin": "Chángqiáng",
+    "section": "5.13.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "会阴部",
+    "landmarks": "尾骨下方,尾骨端与肛门连线的中点处",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "腰俞",
+    "codes": [
+      "GV2"
+    ],
+    "pinyin": "Yāoshū",
+    "section": "5.13.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "骶部",
+    "landmarks": "正对骶管裂孔,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "腰阳关",
+    "codes": [
+      "GV3"
+    ],
+    "pinyin": "Yāoyángguān",
+    "section": "5.13.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第4腰椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "命门",
+    "codes": [
+      "GV4"
+    ],
+    "pinyin": "Mìngmén",
+    "section": "5.13.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第2腰椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "悬枢",
+    "codes": [
+      "GV5"
+    ],
+    "pinyin": "Xuánshū",
+    "section": "5.13.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "腰部",
+    "landmarks": "第1腰椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "脊中",
+    "codes": [
+      "GV6"
+    ],
+    "pinyin": "Jǐzhōng",
+    "section": "5.13.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第11胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "中枢",
+    "codes": [
+      "GV7"
+    ],
+    "pinyin": "Zhōngshū",
+    "section": "5.13.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第10胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "筋缩",
+    "codes": [
+      "GV8"
+    ],
+    "pinyin": "Jīnsuō",
+    "section": "5.13.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第9胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "至阳",
+    "codes": [
+      "GV9"
+    ],
+    "pinyin": "Zhìyáng",
+    "section": "5.13.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第7胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "灵台",
+    "codes": [
+      "GV10"
+    ],
+    "pinyin": "Língtái",
+    "section": "5.13.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第6胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "神道",
+    "codes": [
+      "GV11"
+    ],
+    "pinyin": "Shéndào",
+    "section": "5.13.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第5胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "身柱",
+    "codes": [
+      "GV12"
+    ],
+    "pinyin": "Shēnzhù",
+    "section": "5.13.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第3胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "陶道",
+    "codes": [
+      "GV13"
+    ],
+    "pinyin": "Táodào",
+    "section": "5.13.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "背部",
+    "landmarks": "第1胸椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "大椎",
+    "codes": [
+      "GV14"
+    ],
+    "pinyin": "Dàzhuī",
+    "section": "5.13.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈后部",
+    "landmarks": "第7颈椎棘突下凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "哑门",
+    "codes": [
+      "GV15"
+    ],
+    "pinyin": "Yǎmén",
+    "section": "5.13.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈后部",
+    "landmarks": "第2颈椎棘突上际凹陷中,后正中线上",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "风府",
+    "codes": [
+      "GV16"
+    ],
+    "pinyin": "Fēngfǔ",
+    "section": "5.13.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈后部",
+    "landmarks": "枕外隆凸直下,两侧斜方肌之间凹陷中",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "脑户",
+    "codes": [
+      "GV17"
+    ],
+    "pinyin": "Nǎohù",
+    "section": "5.13.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "枕外隆凸的上缘凹陷中",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "强间",
+    "codes": [
+      "GV18"
+    ],
+    "pinyin": "Qiángjiān",
+    "section": "5.13.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "后发际正中直上4寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "后顶",
+    "codes": [
+      "GV19"
+    ],
+    "pinyin": "Hòudǐng",
+    "section": "5.13.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "后发际正中直上5.5寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "百会",
+    "codes": [
+      "GV20"
+    ],
+    "pinyin": "Bǎihuì",
+    "section": "5.13.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上5寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "前顶",
+    "codes": [
+      "GV21"
+    ],
+    "pinyin": "Qiándǐng",
+    "section": "5.13.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上3.5寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "囟会",
+    "codes": [
+      "GV22"
+    ],
+    "pinyin": "Xìnhuì",
+    "section": "5.13.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上2寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "上星",
+    "codes": [
+      "GV23"
+    ],
+    "pinyin": "Shàngxīng",
+    "section": "5.13.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上1寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "神庭",
+    "codes": [
+      "GV24"
+    ],
+    "pinyin": "Shéntíng",
+    "section": "5.13.24",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "前发际正中直上0.5寸",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "印堂",
+    "codes": [
+      "GV24+"
+    ],
+    "pinyin": "Yìntáng",
+    "section": "5.13.25",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "头部",
+    "landmarks": "两眉毛内侧端中间的凹陷中",
+    "channel": "督脉",
+    "location_summary": "两眉内侧端之间的凹处，对应左右攒竹连线的中点。"
+  },
+  {
+    "name": "素髎",
+    "codes": [
+      "GV25"
+    ],
+    "pinyin": "Sùliáo",
+    "section": "5.13.26",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "鼻尖的正中央",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "水沟",
+    "codes": [
+      "GV26"
+    ],
+    "pinyin": "Shuǐgōu",
+    "section": "5.13.27",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "人中沟的上1/3与中1/3交点处",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "兑端",
+    "codes": [
+      "GV27"
+    ],
+    "pinyin": "Duìduān",
+    "section": "5.13.28",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "上唇结节的中点",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "龈交",
+    "codes": [
+      "GV28"
+    ],
+    "pinyin": "Yínjiāo",
+    "section": "5.13.29",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上唇内",
+    "landmarks": "上唇系带与上牙龈的交点",
+    "channel": "督脉",
+    "location_summary": ""
+  },
+  {
+    "name": "会阴",
+    "codes": [
+      "CV1"
+    ],
+    "pinyin": "Huìyīn",
+    "section": "5.14.1",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "会阴部",
+    "landmarks": "男性在阴囊根部与肛门连线的中点,女性在大阴唇后联合与肛门连线的中点",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "曲骨",
+    "codes": [
+      "CV2"
+    ],
+    "pinyin": "Qūgǔ",
+    "section": "5.14.2",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "耻骨联合上缘,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "中极",
+    "codes": [
+      "CV3"
+    ],
+    "pinyin": "Zhōngjí",
+    "section": "5.14.3",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下4寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "关元",
+    "codes": [
+      "CV4"
+    ],
+    "pinyin": "Guānyuán",
+    "section": "5.14.4",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下3寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "石门",
+    "codes": [
+      "CV5"
+    ],
+    "pinyin": "Shímén",
+    "section": "5.14.5",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下2寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "气海",
+    "codes": [
+      "CV6"
+    ],
+    "pinyin": "Qìhǎi",
+    "section": "5.14.6",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下1.5寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "阴交",
+    "codes": [
+      "CV7"
+    ],
+    "pinyin": "Yīnjiāo",
+    "section": "5.14.7",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下1寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "神阙",
+    "codes": [
+      "CV8"
+    ],
+    "pinyin": "Shénquè",
+    "section": "5.14.8",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中央",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "水分",
+    "codes": [
+      "CV9"
+    ],
+    "pinyin": "Shuǐfēn",
+    "section": "5.14.9",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上1寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "下脘",
+    "codes": [
+      "CV10"
+    ],
+    "pinyin": "Xiàwǎn",
+    "section": "5.14.10",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上2寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "建里",
+    "codes": [
+      "CV11"
+    ],
+    "pinyin": "Jiànlǐ",
+    "section": "5.14.11",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上3寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "中脘",
+    "codes": [
+      "CV12"
+    ],
+    "pinyin": "Zhōngwǎn",
+    "section": "5.14.12",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上4寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "上脘",
+    "codes": [
+      "CV13"
+    ],
+    "pinyin": "Shàngwǎn",
+    "section": "5.14.13",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上5寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "巨阙",
+    "codes": [
+      "CV14"
+    ],
+    "pinyin": "Jùquè",
+    "section": "5.14.14",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "脐中上6寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "鸠尾",
+    "codes": [
+      "CV15"
+    ],
+    "pinyin": "Jiūwěi",
+    "section": "5.14.15",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "上腹部",
+    "landmarks": "剑突尖下1寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "中庭",
+    "codes": [
+      "CV16"
+    ],
+    "pinyin": "Zhōngtíng",
+    "section": "5.14.16",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "剑突尖所在处,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "膻中",
+    "codes": [
+      "CV17"
+    ],
+    "pinyin": "Dànzhōng",
+    "section": "5.14.17",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "横平第4肋间隙,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "玉堂",
+    "codes": [
+      "CV18"
+    ],
+    "pinyin": "Yùtáng",
+    "section": "5.14.18",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "横平第3肋间隙,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "紫宫",
+    "codes": [
+      "CV19"
+    ],
+    "pinyin": "Zǐgōng",
+    "section": "5.14.19",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "横平第2肋间隙,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "华盖",
+    "codes": [
+      "CV20"
+    ],
+    "pinyin": "Huágài",
+    "section": "5.14.20",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "横平第1肋间隙,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "璇玑",
+    "codes": [
+      "CV21"
+    ],
+    "pinyin": "Xuánjī",
+    "section": "5.14.21",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "前胸部",
+    "landmarks": "胸骨上窝下1寸,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "天突",
+    "codes": [
+      "CV22"
+    ],
+    "pinyin": "Tiāntū",
+    "section": "5.14.22",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "胸骨上窝中央,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "廉泉",
+    "codes": [
+      "CV23"
+    ],
+    "pinyin": "Liánquán",
+    "section": "5.14.23",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "颈前部",
+    "landmarks": "甲状软骨上缘(约相当于喉结处)上方,舌骨上缘凹陷中,前正中线上",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "承浆",
+    "codes": [
+      "CV24"
+    ],
+    "pinyin": "Chéngjiāng",
+    "section": "5.14.24",
+    "reference": "GB/T 12346—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192125376309.pdf",
+    "area": "面部",
+    "landmarks": "颏唇沟的正中凹陷处",
+    "channel": "任脉",
+    "location_summary": ""
+  },
+  {
+    "name": "四神聪",
+    "codes": [
+      "EX-HN1"
+    ],
+    "pinyin": "Sìshéncōng",
+    "section": "7.1.1",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "头部",
+    "landmarks": "百会(GV20)前后左右各旁开1寸,共4穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "当阳",
+    "codes": [
+      "EX-HN2"
+    ],
+    "pinyin": "Dāngyáng",
+    "section": "7.1.2",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "头部",
+    "landmarks": "瞳孔直上,前发际上1寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "鱼腰",
+    "codes": [
+      "EX-HN4"
+    ],
+    "pinyin": "Yúyāo",
+    "section": "7.1.3",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "头部",
+    "landmarks": "瞳孔直上,眉毛中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "太阳",
+    "codes": [
+      "EX-HN5"
+    ],
+    "pinyin": "Tàiyáng",
+    "section": "7.1.4",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "头部",
+    "landmarks": "眉梢与目外眦之间,向后约一横指(中指)的凹陷中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "耳尖",
+    "codes": [
+      "EX-HN6"
+    ],
+    "pinyin": "Ěrjiān",
+    "section": "7.1.5",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "耳区",
+    "landmarks": "在外耳轮的最高点",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "球后",
+    "codes": [
+      "EX-HN7"
+    ],
+    "pinyin": "Qiúhòu",
+    "section": "7.1.6",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "面部",
+    "landmarks": "眼球与眶下缘之间,眶下缘外1/4与内3/4交界处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "上迎香",
+    "codes": [
+      "EX-HN8"
+    ],
+    "pinyin": "Shàngyíngxiāng",
+    "section": "7.1.7",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "面部",
+    "landmarks": "鼻翼软骨与鼻甲的交界处,近鼻翼沟上端处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "内迎香",
+    "codes": [
+      "EX-HN9"
+    ],
+    "pinyin": "Nèiyíngxiāng",
+    "section": "7.1.8",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "鼻孔内",
+    "landmarks": "鼻翼软骨与鼻甲交界的黏膜处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "聚泉",
+    "codes": [
+      "EX-HN10"
+    ],
+    "pinyin": "Jùquán",
+    "section": "7.1.9",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "口腔内",
+    "landmarks": "舌背正中缝的中点处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "海泉",
+    "codes": [
+      "EX-HN11"
+    ],
+    "pinyin": "Hǎiquán",
+    "section": "7.1.10",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "口腔内",
+    "landmarks": "舌下系带中点处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "金津玉液",
+    "codes": [
+      "EX-HN12",
+      "EX-HN13"
+    ],
+    "pinyin": "JīnjīnYùyè",
+    "section": "7.1.11",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "口腔内",
+    "landmarks": "舌下系带两侧的静脉上,左曰金津,右曰玉液",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "翳明",
+    "codes": [
+      "EX-HN14"
+    ],
+    "pinyin": "Yìmíng",
+    "section": "7.1.12",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "项部",
+    "landmarks": "翳风(TE17)后1寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "安眠",
+    "codes": [],
+    "pinyin": "Ānmián",
+    "section": "7.1.13",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "项部",
+    "landmarks": "当翳风(TE17)和风池(GB20)连线的中点",
+    "channel": "",
+    "location_summary": "后颈的翳风（TE17）与风池（GB20）之间，取两穴连线的中点。"
+  },
+  {
+    "name": "牵正",
+    "codes": [],
+    "pinyin": "Qiānzhèng",
+    "section": "7.1.14",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "面颊部",
+    "landmarks": "耳垂前方0.5~1寸,与耳垂中点相平处",
+    "channel": "",
+    "location_summary": "在面颊上与耳垂中点同一水平，距耳垂前方约 0.5～1 寸。"
+  },
+  {
+    "name": "新设",
+    "codes": [],
+    "pinyin": "Xīnshè",
+    "section": "7.1.15",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "项部",
+    "landmarks": "当第4颈椎横突端,斜方肌外缘",
+    "channel": "",
+    "location_summary": "后颈斜方肌外缘，对应第四颈椎横突的外端。"
+  },
+  {
+    "name": "颈百劳",
+    "codes": [
+      "EX-HN15"
+    ],
+    "pinyin": "Jìngbǎiláo",
+    "section": "7.1.16",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "项部",
+    "landmarks": "第7颈椎棘突直上2寸,后正中线旁开1寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "血压点",
+    "codes": [],
+    "pinyin": "Xuèyādiǎn",
+    "section": "7.1.17",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "项部",
+    "landmarks": "第6、7颈椎棘突间旁开2寸",
+    "channel": "",
+    "location_summary": "在后颈部，从第六与第七颈椎棘突之间向侧方量 2 寸。"
+  },
+  {
+    "name": "提托",
+    "codes": [],
+    "pinyin": "Títuō",
+    "section": "7.2.1",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下3寸,前正中线旁开4寸",
+    "channel": "",
+    "location_summary": "位于脐中下方 3 寸的水平线上，距下腹前正中线 4 寸。"
+  },
+  {
+    "name": "子宫",
+    "codes": [
+      "EX-CA1"
+    ],
+    "pinyin": "Zǐgōng",
+    "section": "7.2.2",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "下腹部",
+    "landmarks": "脐中下4寸,前正中线旁开3寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "定喘",
+    "codes": [
+      "EX-B1"
+    ],
+    "pinyin": "Dìngchuǎn",
+    "section": "7.3.1",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "脊柱区",
+    "landmarks": "横平第7颈椎棘突下,后正中线旁开0.5寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "夹脊",
+    "codes": [
+      "EX-B2"
+    ],
+    "pinyin": "Jiájǐ",
+    "section": "7.3.2",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "脊柱区",
+    "landmarks": "第1胸椎至第5腰椎棘突下两侧,后正中线旁开0.5寸,一侧17穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "胃脘下俞",
+    "codes": [
+      "EX-B3"
+    ],
+    "pinyin": "Wèiwǎnxiàshū",
+    "section": "7.3.3",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "脊柱区",
+    "landmarks": "横平第8胸椎棘突下,后正中线旁开1.5寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "接脊",
+    "codes": [],
+    "pinyin": "Jiējǐ",
+    "section": "7.3.4",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "背部",
+    "landmarks": "第12胸椎棘突下凹陷中",
+    "channel": "",
+    "location_summary": "背部正中，第十二胸椎棘突下方的凹处。"
+  },
+  {
+    "name": "痞根",
+    "codes": [
+      "EX-B4"
+    ],
+    "pinyin": "Pǐgēn",
+    "section": "7.3.5",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "腰区",
+    "landmarks": "横平第1腰椎棘突下,后正中线旁开3.5寸",
+    "channel": "",
+    "location_summary": "后腰部，与第一腰椎棘突下方同高，从后正中线向旁侧量 3.5 寸。"
+  },
+  {
+    "name": "腰宜",
+    "codes": [
+      "EX-B6"
+    ],
+    "pinyin": "Yāoyí",
+    "section": "7.3.6",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "腰区",
+    "landmarks": "横平第4腰椎棘突下,后正中线旁开3寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "腰眼",
+    "codes": [
+      "EX-B7"
+    ],
+    "pinyin": "Yāoyǎn",
+    "section": "7.3.7",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "腰区",
+    "landmarks": "横平第4腰椎棘突下,后正中线旁开约3.5寸凹陷中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "十七椎",
+    "codes": [
+      "EX-B8"
+    ],
+    "pinyin": "Shíqīzhuī",
+    "section": "7.3.8",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "腰区",
+    "landmarks": "第5腰椎棘突下凹陷中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "肩前",
+    "codes": [],
+    "pinyin": "Jiānqián",
+    "section": "7.4.1",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "肩部",
+    "landmarks": "当腋前皱襞尽端直上1.5寸处",
+    "channel": "",
+    "location_summary": "肩的前侧，在腋前皱襞末端正上方 1.5 寸。"
+  },
+  {
+    "name": "肘尖",
+    "codes": [
+      "EX-UE1"
+    ],
+    "pinyin": "Zhǒujiān",
+    "section": "7.5.1",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "肘后区",
+    "landmarks": "尺骨鹰嘴的尖端",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "二白",
+    "codes": [
+      "EX-UE2"
+    ],
+    "pinyin": "Èrbái",
+    "section": "7.5.2",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "前臂前区",
+    "landmarks": "腕掌侧远端横纹上4寸,桡侧腕屈肌腱的两侧,一肢2穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "中泉",
+    "codes": [
+      "EX-UE3"
+    ],
+    "pinyin": "Zhōngquán",
+    "section": "7.5.3",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "前臂后区",
+    "landmarks": "腕背侧远端横纹上,指总伸肌腱桡侧的凹陷中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "中魁",
+    "codes": [
+      "EX-UE4"
+    ],
+    "pinyin": "Zhōngkuí",
+    "section": "7.5.4",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手指",
+    "landmarks": "中指背面,近侧指间关节的中点处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "大骨空",
+    "codes": [
+      "EX-UE5"
+    ],
+    "pinyin": "Dàgǔkōng",
+    "section": "7.5.5",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手指",
+    "landmarks": "拇指背面,掌指关节的中点处",
+    "channel": "",
+    "location_summary": "拇指背面，掌骨和近节指骨相接的关节中央。"
+  },
+  {
+    "name": "小骨空",
+    "codes": [
+      "EX-UE6"
+    ],
+    "pinyin": "Xiǎogǔkōng",
+    "section": "7.5.6",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手指",
+    "landmarks": "小指背面,近侧指间关节的中点处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "腰痛点",
+    "codes": [
+      "EX-UE7"
+    ],
+    "pinyin": "Yāotòngdiǎn",
+    "section": "7.5.7",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手背",
+    "landmarks": "第2、3掌骨间及第4、5掌骨间,腕背侧远端横纹与掌指关节的中点处,一手2穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "外劳宫",
+    "codes": [
+      "EX-UE8"
+    ],
+    "pinyin": "Wàiláogōng",
+    "section": "7.5.8",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手背",
+    "landmarks": "第2、3掌骨间,掌指关节后0.5寸(指寸)凹陷中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "八邪",
+    "codes": [
+      "EX-UE9"
+    ],
+    "pinyin": "Bāxié",
+    "section": "7.5.9",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手背",
+    "landmarks": "第1~5指间,指蹼缘后方赤白肉际处,左右共8穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "四缝",
+    "codes": [
+      "EX-UE10"
+    ],
+    "pinyin": "Sìfèng",
+    "section": "7.5.10",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手指",
+    "landmarks": "第2~5指掌面的近侧指间关节横纹的中央,一手4穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "十宣",
+    "codes": [
+      "EX-UE11"
+    ],
+    "pinyin": "Shíxuān",
+    "section": "7.5.11",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "手指",
+    "landmarks": "十指尖端,距指甲游离缘0.1寸(指寸),左右共10穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "髋骨",
+    "codes": [
+      "EX-LE1"
+    ],
+    "pinyin": "Kuāngǔ",
+    "section": "7.6.1",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "股前区",
+    "landmarks": "梁丘(ST34)两旁各1.5寸,一肢2穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "鹤顶",
+    "codes": [
+      "EX-LE2"
+    ],
+    "pinyin": "Hèdǐng",
+    "section": "7.6.2",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "膝前区",
+    "landmarks": "髌底中点的上方凹陷中",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "百虫窝",
+    "codes": [
+      "EX-LE3"
+    ],
+    "pinyin": "Bǎichóngwō",
+    "section": "7.6.3",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "股前区",
+    "landmarks": "髌底内侧端上3寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "内膝眼",
+    "codes": [
+      "EX-LE4"
+    ],
+    "pinyin": "Nèixīyǎn",
+    "section": "7.6.4",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "膝部",
+    "landmarks": "髌韧带内侧凹陷处的中央",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "胆囊",
+    "codes": [
+      "EX-LE6"
+    ],
+    "pinyin": "Dǎnnáng",
+    "section": "7.6.5",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "小腿外侧",
+    "landmarks": "腓骨小头直下2寸",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "阑尾",
+    "codes": [
+      "EX-LE7"
+    ],
+    "pinyin": "Lánwěi",
+    "section": "7.6.6",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "小腿外侧",
+    "landmarks": "髌韧带外侧凹陷下5寸,胫骨前嵴外一横指(中指)",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "内踝尖",
+    "codes": [
+      "EX-LE8"
+    ],
+    "pinyin": "Nèihuáijiān",
+    "section": "7.6.7",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "踝区",
+    "landmarks": "内踝的最凸起处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "外踝尖",
+    "codes": [
+      "EX-LE9"
+    ],
+    "pinyin": "Wàihuáijiān",
+    "section": "7.6.8",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "踝区",
+    "landmarks": "外踝的最凸起处",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "八风",
+    "codes": [
+      "EX-LE10"
+    ],
+    "pinyin": "Bāfēng",
+    "section": "7.6.9",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "足背",
+    "landmarks": "第1~5趾间,趾蹼缘后方赤白肉际处,左右共8穴",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "里内庭",
+    "codes": [],
+    "pinyin": "Lǐnèitíng",
+    "section": "7.6.10",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "足底",
+    "landmarks": "第2、3跖趾关节前方凹陷中",
+    "channel": "",
+    "location_summary": "足底第二、第三跖趾关节前的凹处，与足背的内庭（ST44）相对。"
+  },
+  {
+    "name": "独阴",
+    "codes": [
+      "EX-LE11"
+    ],
+    "pinyin": "Dúyīn",
+    "section": "7.6.11",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "足底",
+    "landmarks": "第2趾的跖侧远端趾间关节的横纹中点",
+    "channel": "",
+    "location_summary": ""
+  },
+  {
+    "name": "气端",
+    "codes": [
+      "EX-LE12"
+    ],
+    "pinyin": "Qìduān",
+    "section": "7.6.12",
+    "reference": "GB/T 40997—2021",
+    "url": "https://www.ntcamsac.ac.cn/upload/std_info/202306192147233032.pdf",
+    "area": "足趾",
+    "landmarks": "十趾端的中央,距趾甲游离缘0.1寸(指寸),左右共10穴",
+    "channel": "",
+    "location_summary": ""
+  }
+]

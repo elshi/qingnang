@@ -22,4 +22,16 @@ function getMeridianDetail(id) {
   return catalogRequest(`/api/meridians/${encodeURIComponent(id)}`);
 }
 
-module.exports = { getMeridians, getMeridianDetail };
+function getMeridianAtlas() { return catalogRequest('/api/meridian-atlas'); }
+
+function resolveAtlasItem(groups, value) {
+  const raw = String(value == null ? '' : value);
+  const key = ({ 'meridian-001': 'du', 'meridian-002': 'ren' })[raw] || raw.replace(/^meridian-/, '');
+  for (const group of groups) {
+    const item = group.items.find((entry) => entry.key === key || String(entry.id) === key);
+    if (item) return { group, item };
+  }
+  return null;
+}
+
+module.exports = { getMeridians, getMeridianDetail, getMeridianAtlas, resolveAtlasItem };

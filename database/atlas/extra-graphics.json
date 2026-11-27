@@ -1,0 +1,488 @@
+{
+  "四神聪": {
+    "title": "四神聪定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN1",
+    "source": "GB/T 40997—2021 7.1.1",
+    "preview": "extra-preview-e6c61424cc81.jpg",
+    "full": "extra-full-885befdd7a45.jpg"
+  },
+  "当阳": {
+    "title": "当阳定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN2",
+    "source": "GB/T 40997—2021 7.1.2",
+    "preview": "extra-preview-09be4f936c53.jpg",
+    "full": "extra-full-f25316b8d869.jpg"
+  },
+  "鱼腰": {
+    "title": "鱼腰定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN4",
+    "source": "GB/T 40997—2021 7.1.3",
+    "preview": "extra-preview-f0f8fafbc709.jpg",
+    "full": "extra-full-563d1f1739db.jpg"
+  },
+  "太阳": {
+    "title": "太阳定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN5",
+    "source": "GB/T 40997—2021 7.1.4",
+    "preview": "extra-preview-5b1fb6a863c2.jpg",
+    "full": "extra-full-e9d4a7a12395.jpg"
+  },
+  "耳尖": {
+    "title": "耳尖定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN6",
+    "source": "GB/T 40997—2021 7.1.5",
+    "preview": "extra-preview-7dc99433cc8d.jpg",
+    "full": "extra-full-c455cdcdb0cb.jpg"
+  },
+  "球后": {
+    "title": "球后定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN7",
+    "source": "GB/T 40997—2021 7.1.6",
+    "preview": "extra-preview-326a109e6680.jpg",
+    "full": "extra-full-cbf86145e1a8.jpg"
+  },
+  "上迎香": {
+    "title": "上迎香定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN8",
+    "source": "GB/T 40997—2021 7.1.7",
+    "preview": "extra-preview-9e294f770628.jpg",
+    "full": "extra-full-a5b5cc339b90.jpg"
+  },
+  "内迎香": {
+    "title": "内迎香定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN9",
+    "source": "GB/T 40997—2021 7.1.8",
+    "preview": "extra-preview-dfbed1423e7b.jpg",
+    "full": "extra-full-a8a2ba4dcb28.jpg"
+  },
+  "聚泉": {
+    "title": "聚泉定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN10",
+    "source": "GB/T 40997—2021 7.1.9",
+    "preview": "extra-preview-920a058d9d39.jpg",
+    "full": "extra-full-3af6b91ec15e.jpg"
+  },
+  "海泉": {
+    "title": "海泉定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN11",
+    "source": "GB/T 40997—2021 7.1.10",
+    "preview": "extra-preview-a5da9c57f59e.jpg",
+    "full": "extra-full-51e28d24abb0.jpg"
+  },
+  "金津": {
+    "title": "金津定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN12",
+    "source": "GB/T 40997—2021 7.1.11",
+    "preview": "extra-preview-03bb5d36aea8.jpg",
+    "full": "extra-full-b37859ee5970.jpg"
+  },
+  "玉液": {
+    "title": "玉液定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN13",
+    "source": "GB/T 40997—2021 7.1.11",
+    "preview": "extra-preview-584c7055a598.jpg",
+    "full": "extra-full-51b5ca065f54.jpg"
+  },
+  "翳明": {
+    "title": "翳明定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN14",
+    "source": "GB/T 40997—2021 7.1.12",
+    "preview": "extra-preview-772a1b115710.jpg",
+    "full": "extra-full-40c78244fb97.jpg"
+  },
+  "安眠": {
+    "title": "安眠定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.1.13",
+    "preview": "extra-preview-1b5b5f79d8b8.jpg",
+    "full": "extra-full-e0ed0b2246fb.jpg"
+  },
+  "牵正": {
+    "title": "牵正定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.1.14",
+    "preview": "extra-preview-42a56e9e7fd6.jpg",
+    "full": "extra-full-1d0325f81ed9.jpg"
+  },
+  "新设": {
+    "title": "新设定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.1.15",
+    "preview": "extra-preview-8aeebd6b927d.jpg",
+    "full": "extra-full-d090a2cd9bc4.jpg"
+  },
+  "颈百劳": {
+    "title": "颈百劳定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-HN15",
+    "source": "GB/T 40997—2021 7.1.16",
+    "preview": "extra-preview-e1374c0d24ac.jpg",
+    "full": "extra-full-31209361a250.jpg"
+  },
+  "血压点": {
+    "title": "血压点定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.1.17",
+    "preview": "extra-preview-fedfc8236a74.jpg",
+    "full": "extra-full-551f0762bc24.jpg"
+  },
+  "提托": {
+    "title": "提托定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.2.1",
+    "preview": "extra-preview-41ab5664d278.jpg",
+    "full": "extra-full-2cba9a789de8.jpg"
+  },
+  "子宫": {
+    "title": "子宫定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-CA1",
+    "source": "GB/T 40997—2021 7.2.2",
+    "preview": "extra-preview-f4681bad87fb.jpg",
+    "full": "extra-full-2967377a5c1a.jpg"
+  },
+  "定喘": {
+    "title": "定喘定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B1",
+    "source": "GB/T 40997—2021 7.3.1",
+    "preview": "extra-preview-de2c01493eb6.jpg",
+    "full": "extra-full-4e2f1350e106.jpg"
+  },
+  "夹脊": {
+    "title": "夹脊定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B2",
+    "source": "GB/T 40997—2021 7.3.2",
+    "preview": "extra-preview-72c8e103ad03.jpg",
+    "full": "extra-full-b8483b04aa02.jpg"
+  },
+  "胃脘下俞": {
+    "title": "胃脘下俞定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B3",
+    "source": "GB/T 40997—2021 7.3.3",
+    "preview": "extra-preview-85a542544f68.jpg",
+    "full": "extra-full-8776aa7166c2.jpg"
+  },
+  "接脊": {
+    "title": "接脊定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.3.4",
+    "preview": "extra-preview-fad0114d8aa4.jpg",
+    "full": "extra-full-b7d16c89350e.jpg"
+  },
+  "痞根": {
+    "title": "痞根定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B4",
+    "source": "GB/T 40997—2021 7.3.5",
+    "preview": "extra-preview-e5dd7cd496d7.jpg",
+    "full": "extra-full-182a585c6281.jpg"
+  },
+  "腰宜": {
+    "title": "腰宜定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B6",
+    "source": "GB/T 40997—2021 7.3.6",
+    "preview": "extra-preview-0144559f5c85.jpg",
+    "full": "extra-full-44f944c30326.jpg"
+  },
+  "腰眼": {
+    "title": "腰眼定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B7",
+    "source": "GB/T 40997—2021 7.3.7",
+    "preview": "extra-preview-cd7d277d629b.jpg",
+    "full": "extra-full-63a4f687cb19.jpg"
+  },
+  "十七椎": {
+    "title": "十七椎定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B8",
+    "source": "GB/T 40997—2021 7.3.8",
+    "preview": "extra-preview-bf6a46dc0c85.jpg",
+    "full": "extra-full-1bc0c69a5438.jpg"
+  },
+  "肩前": {
+    "title": "肩前定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.4.1",
+    "preview": "extra-preview-5fb347e84e6d.jpg",
+    "full": "extra-full-8d7033ce2cfc.jpg"
+  },
+  "肘尖": {
+    "title": "肘尖定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE1",
+    "source": "GB/T 40997—2021 7.5.1",
+    "preview": "extra-preview-7c01064bb4c1.jpg",
+    "full": "extra-full-03828bdf3f8d.jpg"
+  },
+  "二白": {
+    "title": "二白定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE2",
+    "source": "GB/T 40997—2021 7.5.2",
+    "preview": "extra-preview-de3032492654.jpg",
+    "full": "extra-full-849295d82994.jpg"
+  },
+  "中泉": {
+    "title": "中泉定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE3",
+    "source": "GB/T 40997—2021 7.5.3",
+    "preview": "extra-preview-b07c498670a8.jpg",
+    "full": "extra-full-190cbe160c61.jpg"
+  },
+  "中魁": {
+    "title": "中魁定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE4",
+    "source": "GB/T 40997—2021 7.5.4",
+    "preview": "extra-preview-d6cff4f68a08.jpg",
+    "full": "extra-full-013739bb07f7.jpg"
+  },
+  "大骨空": {
+    "title": "大骨空定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE5",
+    "source": "GB/T 40997—2021 7.5.5",
+    "preview": "extra-preview-ec6abc7d1140.jpg",
+    "full": "extra-full-f89543179776.jpg"
+  },
+  "小骨空": {
+    "title": "小骨空定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE6",
+    "source": "GB/T 40997—2021 7.5.6",
+    "preview": "extra-preview-e2111f2630c1.jpg",
+    "full": "extra-full-672aa93a9864.jpg"
+  },
+  "腰痛点": {
+    "title": "腰痛点定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE7",
+    "source": "GB/T 40997—2021 7.5.7",
+    "preview": "extra-preview-b63d6830df29.jpg",
+    "full": "extra-full-0a70d233f8ca.jpg"
+  },
+  "外劳宫": {
+    "title": "外劳宫定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE8",
+    "source": "GB/T 40997—2021 7.5.8",
+    "preview": "extra-preview-4d8e94c51ccd.jpg",
+    "full": "extra-full-f6f48ba7638e.jpg"
+  },
+  "八邪": {
+    "title": "八邪定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE9",
+    "source": "GB/T 40997—2021 7.5.9",
+    "preview": "extra-preview-0b818ab55551.jpg",
+    "full": "extra-full-454d5de27184.jpg"
+  },
+  "四缝": {
+    "title": "四缝定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE10",
+    "source": "GB/T 40997—2021 7.5.10",
+    "preview": "extra-preview-d645fac8f8a4.jpg",
+    "full": "extra-full-d32f513e0323.jpg"
+  },
+  "十宣": {
+    "title": "十宣定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-UE11",
+    "source": "GB/T 40997—2021 7.5.11",
+    "preview": "extra-preview-b70ddc64e6b9.jpg",
+    "full": "extra-full-9493836326d2.jpg"
+  },
+  "髋骨": {
+    "title": "髋骨定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE1",
+    "source": "GB/T 40997—2021 7.6.1",
+    "preview": "extra-preview-e261a35ed7e9.jpg",
+    "full": "extra-full-3db5404dbadd.jpg"
+  },
+  "鹤顶": {
+    "title": "鹤顶定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE2",
+    "source": "GB/T 40997—2021 7.6.2",
+    "preview": "extra-preview-540d72d3dfd1.jpg",
+    "full": "extra-full-c6c71fb650ba.jpg"
+  },
+  "百虫窝": {
+    "title": "百虫窝定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE3",
+    "source": "GB/T 40997—2021 7.6.3",
+    "preview": "extra-preview-604dea222d74.jpg",
+    "full": "extra-full-4b3fb8b17cf9.jpg"
+  },
+  "内膝眼": {
+    "title": "内膝眼定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE4",
+    "source": "GB/T 40997—2021 7.6.4",
+    "preview": "extra-preview-7b7941cab23e.jpg",
+    "full": "extra-full-ef2c6a08d0fc.jpg"
+  },
+  "胆囊": {
+    "title": "胆囊定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE6",
+    "source": "GB/T 40997—2021 7.6.5",
+    "preview": "extra-preview-d148257a48c1.jpg",
+    "full": "extra-full-15fb9d7c2339.jpg"
+  },
+  "阑尾": {
+    "title": "阑尾定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE7",
+    "source": "GB/T 40997—2021 7.6.6",
+    "preview": "extra-preview-b04671781a3f.jpg",
+    "full": "extra-full-be3842d3bd3f.jpg"
+  },
+  "内踝尖": {
+    "title": "内踝尖定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE8",
+    "source": "GB/T 40997—2021 7.6.7",
+    "preview": "extra-preview-8a2fd1e25afb.jpg",
+    "full": "extra-full-90499c4d37e6.jpg"
+  },
+  "外踝尖": {
+    "title": "外踝尖定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE9",
+    "source": "GB/T 40997—2021 7.6.8",
+    "preview": "extra-preview-3b1a951ceef0.jpg",
+    "full": "extra-full-347456c2e42f.jpg"
+  },
+  "八风": {
+    "title": "八风定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE10",
+    "source": "GB/T 40997—2021 7.6.9",
+    "preview": "extra-preview-c8aeaebf5534.jpg",
+    "full": "extra-full-0d63c9d3ffb3.jpg"
+  },
+  "里内庭": {
+    "title": "里内庭定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "",
+    "source": "GB/T 40997—2021 7.6.10",
+    "preview": "extra-preview-c2ca33a9900e.jpg",
+    "full": "extra-full-e2a8b78364cc.jpg"
+  },
+  "独阴": {
+    "title": "独阴定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE11",
+    "source": "GB/T 40997—2021 7.6.11",
+    "preview": "extra-preview-597d1152a2ef.jpg",
+    "full": "extra-full-cd913c30eab1.jpg"
+  },
+  "气端": {
+    "title": "气端定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-LE12",
+    "source": "GB/T 40997—2021 7.6.12",
+    "preview": "extra-preview-1227fbbcffde.jpg",
+    "full": "extra-full-5ab4a4d28779.jpg"
+  },
+  "腰奇": {
+    "title": "腰奇定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B9",
+    "source": "原库《中国针灸学》",
+    "preview": "extra-preview-11e5a2623c02.jpg",
+    "full": "extra-full-39ea1b1667c4.jpg"
+  },
+  "下极俞": {
+    "title": "下极俞定位参照图",
+    "width": 1400,
+    "height": 760,
+    "code": "EX-B5",
+    "source": "原库定位条目，出处待核",
+    "preview": "extra-preview-c94dadb5b281.jpg",
+    "full": "extra-full-0245e72e8fb2.jpg"
+  }
+}

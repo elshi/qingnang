@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Acupoint;
+use App\Support\MeridianAtlas;
 use App\Support\PlainText;
 use Illuminate\Database\QueryException;
 use Illuminate\Http\Request;
@@ -75,7 +76,8 @@ class AcupointController extends Controller
             $fields = $imageBase ? array_merge(self::FIELDS, ['pictures']) : self::FIELDS;
             $record = Acupoint::query()->select($fields)->find((int) $id);
             if (!$record) return $this->error('未找到该穴位', 404);
-            return $this->success(array_merge($this->listItem($record), [
+            $item = $this->listItem($record);
+            return $this->success(array_merge($item, MeridianAtlas::pointDetail((int) $record->acupoint_id, $item['name']), [
                 'alias' => PlainText::clean($record->alias),
                 'adscription' => PlainText::clean($record->adscription),
                 'indications' => PlainText::clean($record->indications),

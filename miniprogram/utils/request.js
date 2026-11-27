@@ -10,11 +10,6 @@ function isDevelopmentSimulator() {
 
 function request(options) {
   return new Promise((resolve, reject) => {
-    if (!wx.cloud || !wx.cloud.callContainer) {
-      reject(new Error('当前微信版本不支持云托管请求'));
-      return;
-    }
-
     const requestOptions = {
       method: options.method || 'GET',
       data: options.data || {},
@@ -40,6 +35,17 @@ function request(options) {
       }
     };
 
+    const atlasRead = requestOptions.method === 'GET'
+      && /^\/api\/(meridian-atlas|meridians|acupoints)(\/|\?|$)/.test(options.path);
+    if (atlasRead && isDevelopmentSimulator() && typeof wx.getStorageSync === 'function'
+      && wx.getStorageSync('qingnang.atlas.local') === true) {
+      wx.request({ ...requestOptions, url: 'https://localhost:8843' + options.path });
+      return;
+    }
+    if (!wx.cloud || !wx.cloud.callContainer) {
+      reject(new Error('当前微信版本不支持云托管请求'));
+      return;
+    }
     wx.cloud.callContainer({
       ...requestOptions,
       config: { env: cloudConfig.env },

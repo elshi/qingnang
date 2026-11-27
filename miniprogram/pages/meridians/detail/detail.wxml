@@ -1,35 +1,48 @@
 <view class="detail-page meridian-detail page-fade">
   <custom-nav title="经脉详情" showBack="{{true}}"></custom-nav>
-  <learning-actions wx:if="{{item && !loading && !error}}" type="meridian" item="{{item}}" />
   <scroll-view class="detail-scroll" scroll-y="{{true}}" enhanced="{{true}}" show-scrollbar="{{false}}">
     <view wx:if="{{loading}}" class="detail-state">正在加载经络…</view>
-    <view wx:elif="{{error}}" class="detail-state"><view>{{error}}</view><button class="detail-retry" bindtap="retry">重新加载</button></view>
+    <view wx:elif="{{error}}" class="detail-state">{{error}}<button class="detail-retry" bindtap="loadDetail">重新加载</button></view>
     <block wx:elif="{{item}}">
-      <view class="detail-hero">
-        <view class="detail-title">{{item.title}}</view>
-        <view wx:if="{{item.english_name}}" class="detail-meta">{{item.english_name}}</view>
-        <view wx:if="{{meta.length}}" class="tag-row"><text wx:for="{{meta}}" wx:key="key" class="case-tag">{{item.value}}</text></view>
+      <view class="atlas-hero">
+        <text class="hero-meta">{{item.classification}} {{item.code}}</text>
+        <view class="hero-name">{{item.title}}</view>
+        <text wx:if="{{item.route || item.english_name}}" class="hero-route">{{item.route || item.english_name}}</text>
       </view>
-      <view wx:for="{{sections}}" wx:key="key" wx:for-item="section" class="detail-card">
-        <view class="detail-card__title">{{section.title}}</view>
-        <text class="detail-content meridian-content" user-select="{{true}}">{{section.content}}</text>
+      <view wx:if="{{plates.length}}" class="folio">
+        <view class="section-heading"><text>高清图谱</text><button class="zoom" bindtap="previewPlate">放大查看 ↗</button></view>
+        <view wx:if="{{plates[activePlate].failed}}" class="plate-error"><button bindtap="retryImage">重新加载图谱</button></view>
+        <image wx:elif="{{plates[activePlate].src}}" class="plate" src="{{plates[activePlate].src}}" data-url="{{plates[activePlate].preview_url}}" binderror="imageError" bindtap="previewPlate" mode="widthFix" aria-label="{{plates[activePlate].title}}，点击放大" />
+        <image wx:if="{{item.atlas_key === 'lung' && activePlate === 1 && plates[2].src && !plates[2].failed}}" class="plate" src="{{plates[2].src}}" data-index="{{2}}" data-url="{{plates[2].preview_url}}" bindtap="previewPlate" binderror="imageError" mode="widthFix" aria-label="前臂与手，点击放大" />
+        <button wx:if="{{item.atlas_key === 'lung' && activePlate === 1 && plates[2].failed}}" class="detail-retry" bindtap="retryImage">重新加载前臂与手图谱</button>
+        <scroll-view wx:if="{{plates.length > 1}}" scroll-x="{{true}}" class="plate-nav" show-scrollbar="{{false}}">
+          <button wx:for="{{plates}}" wx:key="full_url" data-index="{{index}}" bindtap="choosePlate" class="plate-tab {{activePlate === index ? 'is-active' : ''}}">{{item.title}}</button>
+        </scroll-view>
       </view>
-      <view class="detail-card point-card">
-        <view class="detail-card__title">相关穴位<text wx:if="{{!pointsLoading}}" class="point-count">{{pointTotal}} 穴</text></view>
+      <view class="folio">
+        <view class="section-heading"><text>{{item.point_label || '相关穴位'}}</text><text class="count">{{pointTotal}} 穴</text></view>
         <view wx:if="{{pointsLoading}}" class="inline-state">正在加载穴位…</view>
-        <view wx:elif="{{pointsError}}" class="inline-state"><text>{{pointsError}}</text><button bindtap="retryPoints">重新加载</button></view>
+        <view wx:elif="{{pointsError}}" class="inline-state">{{pointsError}}<button bindtap="loadPoints">重新加载</button></view>
         <view wx:elif="{{!rows.length}}" class="inline-state">暂无穴位数据</view>
         <view wx:else class="point-table">
           <view wx:for="{{rows}}" wx:key="key" class="point-row">
             <block wx:for="{{item.cells}}" wx:for-item="point" wx:key="key">
-              <button wx:if="{{point.clickable}}" class="point-cell point-cell--button" data-id="{{point.id}}" bindtap="openAcupoint"><text class="point-name">{{point.name}}</text><text wx:if="{{point.code}}" class="point-code">{{point.code}}</text></button>
-              <view wx:else class="point-cell is-empty"></view>
+              <button wx:if="{{point.clickable}}" class="point-cell" data-id="{{point.id}}" bindtap="openAcupoint"><text>{{point.name}}</text><text class="point-code">{{point.code}}</text></button>
+              <view wx:else class="point-cell"></view>
             </block>
           </view>
         </view>
+        <text class="point-source" wx:if="{{item.point_source}}">{{item.point_source}}</text>
       </view>
-      <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
+      <view wx:for="{{sections}}" wx:key="title" wx:for-item="section" class="folio">
+        <view class="section-heading"><text>{{section.title}}</text></view>
+        <text class="source" wx:if="{{section.source}}">{{section.source}}</text>
+        <text class="passage" user-select="{{true}}">{{section.content}}</text>
+      </view>
+      <learning-actions type="meridian" item="{{item}}" />
+      <view wx:if="{{item.atlas_credit}}" class="credit">{{item.atlas_credit}}</view>
       <view class="disclaimer">{{disclaimer}}</view>
     </block>
   </scroll-view>
 </view>
+

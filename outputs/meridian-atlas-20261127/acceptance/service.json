@@ -1,0 +1,137 @@
+{
+  "origin": "https://127.0.0.1:8843",
+  "groups": [
+    12,
+    8
+  ],
+  "channels": [
+    {
+      "id": 1,
+      "name": "手太阴肺经",
+      "points": 11,
+      "plates": 3
+    },
+    {
+      "id": 2,
+      "name": "手阳明大肠经",
+      "points": 20,
+      "plates": 5
+    },
+    {
+      "id": 3,
+      "name": "足阳明胃经",
+      "points": 45,
+      "plates": 7
+    },
+    {
+      "id": 4,
+      "name": "足太阴脾经",
+      "points": 21,
+      "plates": 5
+    },
+    {
+      "id": 5,
+      "name": "手少阴心经",
+      "points": 9,
+      "plates": 4
+    },
+    {
+      "id": 6,
+      "name": "手太阳小肠经",
+      "points": 19,
+      "plates": 5
+    },
+    {
+      "id": 7,
+      "name": "足太阳膀胱经",
+      "points": 67,
+      "plates": 12
+    },
+    {
+      "id": 8,
+      "name": "足少阴肾经",
+      "points": 27,
+      "plates": 7
+    },
+    {
+      "id": 11,
+      "name": "足少阳胆经",
+      "points": 44,
+      "plates": 9
+    },
+    {
+      "id": 12,
+      "name": "足厥阴肝经",
+      "points": 14,
+      "plates": 5
+    },
+    {
+      "id": 13,
+      "name": "手少阳三焦经",
+      "points": 23,
+      "plates": 6
+    },
+    {
+      "id": 14,
+      "name": "手厥阴心包经",
+      "points": 9,
+      "plates": 3
+    },
+    {
+      "id": 9,
+      "name": "任脉",
+      "points": 24,
+      "plates": 6
+    },
+    {
+      "id": 10,
+      "name": "督脉",
+      "points": 29,
+      "plates": 7
+    },
+    {
+      "id": 15,
+      "name": "阴维脉",
+      "points": 7,
+      "plates": 4
+    },
+    {
+      "id": 16,
+      "name": "冲脉",
+      "points": 14,
+      "plates": 4
+    },
+    {
+      "id": 17,
+      "name": "阳维脉",
+      "points": 16,
+      "plates": 5
+    },
+    {
+      "id": 18,
+      "name": "阴跷脉",
+      "points": 3,
+      "plates": 3
+    },
+    {
+      "id": 19,
+      "name": "阳跷脉",
+      "points": 13,
+      "plates": 5
+    },
+    {
+      "id": 20,
+      "name": "带脉",
+      "points": 3,
+      "plates": 2
+    }
+  ],
+  "points": 416,
+  "channelPoints": 362,
+  "historic": [
+    "下极俞",
+    "腰奇"
+  ],
+  "verifiedHttpsJpegs": 326,
+  "bytes": 24430135
+}

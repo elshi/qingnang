@@ -1,31 +1,11 @@
-<view class="meridian-page">
-  <view class="meridian-navigation"><custom-nav title="经络" showBack="{{true}}"></custom-nav></view>
-  <view class="meridian-tabs">
-    <button wx:for="{{tabs}}" wx:key="key" class="meridian-tab {{activeTab === item.key ? 'is-active' : ''}}" data-key="{{item.key}}" bindtap="selectTab" aria-role="tab" aria-selected="{{activeTab === item.key}}">{{item.label}}</button>
-  </view>
-  <scroll-view class="meridian-scroll" scroll-y enhanced show-scrollbar="{{false}}">
-    <meridian-viewer id="meridian-viewer" group="{{activeTab}}" selected="{{selected.key}}" bindselect="selectMeridian"></meridian-viewer>
-    <view class="meridian-selection">
-      <view class="selected-info">
-        <view class="info-heading"><view class="selected-title"><view class="color-dot" style="background:{{selected.color}}"></view><text>{{selected.title}}</text></view><button class="detail-link" disabled="{{!detailReady}}" bindtap="openDetail">查看详情<image src="/assets/home/catalog-icons/chevron.png" /></button></view>
-        <view wx:if="{{meridianError}}" class="inline-state"><text>{{meridianError}}</text><button bindtap="retryMeridians">重试</button></view>
-        <view class="point-heading"><text>{{selected.pointLabel}}</text><text wx:if="{{!pointsLoading}}">{{pointTotal}} 穴</text></view>
-        <view wx:if="{{pointsLoading}}" class="inline-state">正在加载穴位…</view>
-        <view wx:elif="{{pointsError}}" class="inline-state"><text>{{pointsError}}</text><button bindtap="retryPoints">重新加载</button></view>
-        <view wx:elif="{{!rows.length}}" class="inline-state">暂无穴位数据</view>
-        <view wx:else class="point-table" aria-label="{{selected.title}}{{selected.pointLabel}}，每行五列">
-          <view wx:for="{{rows}}" wx:key="key" class="point-row">
-            <block wx:for="{{item.cells}}" wx:for-item="point" wx:key="key">
-              <button wx:if="{{point.clickable}}" class="point-cell point-cell--button" data-id="{{point.id}}" bindtap="openAcupoint"><text class="point-name">{{point.name}}</text><text wx:if="{{point.code}}" class="point-code">{{point.code}}</text></button>
-              <view wx:else class="point-cell is-empty"></view>
-            </block>
-          </view>
-        </view>
-        <view class="point-note">{{selected.pointNote}}</view>
-      </view>
-      <view class="learning-note">人像展示体表循行示意，穴位名称供经典学习参考。</view>
+<view class="atlas-home">
+  <custom-nav title="经络" showBack="{{true}}"></custom-nav>
+  <view wx:if="{{loading || error}}" class="atlas-state">{{error || '正在打开经络图谱…'}}<button wx:if="{{error}}" bindtap="loadAtlas">重新加载</button></view>
+  <block wx:elif="{{group}}">
+    <view class="atlas-switch">
+      <button wx:for="{{groups}}" wx:key="key" class="{{group.key === item.key ? 'active' : ''}}" data-key="{{item.key}}" bindtap="selectTab" aria-role="tab" aria-selected="{{group.key === item.key}}">{{item.label}}</button>
     </view>
-    <view class="bottom-spacer"></view>
-  </scroll-view>
+    <meridian-viewer class="atlas-view" group="{{group}}" bindselect="selectMeridian"></meridian-viewer>
+  </block>
   <app-tab-bar></app-tab-bar>
 </view>

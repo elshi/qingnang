@@ -1,0 +1,9 @@
+{
+  "retry": "404 后点击重试，重新取得总图",
+  "sharePath": "/pages/meridians/detail/detail?id=1",
+  "highResolution": [
+    "https://localhost:8843/images/meridians/lung-overview-full-55bbd0572aaf.jpg",
+    "https://localhost:8843/images/meridians/lung-1-full-9d4f14adc32b.jpg",
+    "https://localhost:8843/images/meridians/lung-2-full-b11a7f7aba46.jpg"
+  ]
+}

@@ -1,6 +1,7 @@
 const { contentShare } = require('../../../utils/content-share');
 const { getAcupointDetail } = require('../../../utils/acupoints-api');
 const { createLocationDiagram } = require('../../../utils/acupoint-location');
+const { imagePath, previewAtlas } = require('../../../utils/atlas-images');
 
 const sectionDefinitions = [
   { key: 'alias', title: '别名' },
@@ -38,7 +39,13 @@ Page({
       const item = await getAcupointDetail(this.acupointId);
       if (requestId !== this.requestId || this.unloaded) return;
       const locationDiagram = createLocationDiagram(item);
-      const locationImage = typeof item.location_image === 'string' ? item.location_image : '';
+      let locationImage = item.location_image || '';
+      this.atlasImagePath = '';
+      if (item.atlas_plate) {
+        try { this.atlasImagePath = await imagePath(item.atlas_plate.preview_url); } catch (_) { /* Use the existing location illustration. */ }
+        if (requestId !== this.requestId || this.unloaded) return;
+        locationImage = this.atlasImagePath || locationImage;
+      }
       const sections = sectionDefinitions
         .filter((section) => String(item[section.key] || '').trim() || (section.key === 'locate' && (locationDiagram || locationImage)))
         .map((section) => ({ ...section, content: item[section.key] }));
@@ -57,11 +64,16 @@ Page({
     }
   },
   previewLocationImage() {
+    const plate = this.data.item && this.data.item.atlas_plate;
+    if (plate && this.data.locationImage === this.atlasImagePath) return previewAtlas([plate], 0);
     const url = this.data.locationImage;
     if (url) wx.previewImage({ current: url, urls: [url] });
   },
   onLocationImageError(event) {
-    if (event.currentTarget.dataset.url === this.data.locationImage) this.setData({ locationImage: '' });
+    if (event.currentTarget.dataset.url === this.data.locationImage) {
+      const legacy = this.data.item.location_image;
+      this.setData({ locationImage: legacy && legacy !== this.data.locationImage ? legacy : '' });
+    }
   },
   retry() { this.loadDetail(); }
 });

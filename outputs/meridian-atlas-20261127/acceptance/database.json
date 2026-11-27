@@ -1,0 +1,51 @@
+{
+  "changesByTable": {
+    "t_meridians": 20,
+    "t_acupoints": 414,
+    "t_meridian_atlas": 20,
+    "t_meridian_atlas_points": 418,
+    "t_acupoint_review": 416
+  },
+  "changesByPointField": {
+    "pinyin": 385,
+    "locate": 414
+  },
+  "operations": [
+    {
+      "mode": "--check",
+      "beforeHash": "92cb55600d1cf69a2584f1dc549166b62693e76a75a70c26fcf5ce92fa4b6057",
+      "afterHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "changedRows": 1288
+    },
+    {
+      "mode": "--apply",
+      "beforeHash": "92cb55600d1cf69a2584f1dc549166b62693e76a75a70c26fcf5ce92fa4b6057",
+      "afterHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "changedRows": 1288
+    },
+    {
+      "mode": "--apply",
+      "beforeHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "afterHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "changedRows": 0
+    },
+    {
+      "mode": "--restore",
+      "beforeHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "afterHash": "92cb55600d1cf69a2584f1dc549166b62693e76a75a70c26fcf5ce92fa4b6057",
+      "changedRows": 1288
+    },
+    {
+      "mode": "--apply",
+      "beforeHash": "92cb55600d1cf69a2584f1dc549166b62693e76a75a70c26fcf5ce92fa4b6057",
+      "afterHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "changedRows": 1288
+    },
+    {
+      "mode": "--verify",
+      "beforeHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "afterHash": "096659d28dcbf95ad547632f519c5cadc40a8e9edf9e1d8d0baa5abd3d1e484b",
+      "changedRows": 0
+    }
+  ]
+}

@@ -6,15 +6,25 @@ const vm = require('node:vm');
 const root = path.resolve(__dirname, '../..');
 const meridianUtils = require('../../miniprogram/utils/meridians');
 const locationUtils = require('../../miniprogram/utils/acupoint-location');
-const { meridians, getGroup, findMeridian, pointRows, pointRowsFromPoints } = meridianUtils;
+const channels = require('../../database/atlas/channels.json');
+const graphics = require('../../database/atlas/graphics.json');
+const groups = ['regular', 'extraordinary'].map(key => ({
+  key, image: {preview_url:'https://cdn.example/'+key}, items: channels.map((c,id)=>({...c,id})).filter(c=>c.group===key)
+}));
 
 function pageContext(file, modules = {}) {
   modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, 'acupoint-location': locationUtils, ...modules };
   let definition; const navigation = []; const toasts = []; const previews = [];
+  const assetModule = { exports: {} };
+  vm.runInNewContext(fs.readFileSync(path.join(root,'miniprogram/utils/atlas-images.js'),'utf8'),{
+    module:assetModule,wx:{ previewImage(value){previews.push(value.current);} }
+  });
+  modules['atlas-images'] = assetModule.exports;
   vm.runInNewContext(fs.readFileSync(path.join(root, file), 'utf8'), {
     Page(value) { definition = value; },
     require(name) {
       const key = Object.keys(modules).find((candidate) => name.endsWith(candidate));
+      if (key === 'meridians-api') return { ...require('../../miniprogram/utils/meridians-api'), ...modules[key] };
       if (key) return modules[key];
       if (name.endsWith('utils/meridians') || name.endsWith('utils\\meridians')) return meridianUtils;
       throw Error(name);
@@ -46,107 +56,61 @@ const deferred = () => {
   const promise = new Promise((accept, decline) => { resolve = accept; reject = decline; });
   return { promise, resolve, reject };
 };
-const catalog = meridians.map((item, index) => ({ id: index, title: item.title, summary: item.route }));
-const apiPoints = (channel) => {
-  const item = meridians.find((candidate) => candidate.title === channel);
-  const points = item ? item.points.map((point, index) => ({ id: index, name: point.name, code: point.code, title: point.name })) : [];
-  return { items: points, total: points.length, has_more: false };
-};
-
-test('catalog contains twelve ordinary and eight extraordinary meridians, with all 361 standard points', () => {
-  assert.equal(getGroup('regular').length, 12); assert.equal(getGroup('extraordinary').length, 8);
-  const counts = [11,20,45,21,9,19,67,27,44,14,23,9,24,28];
-  assert.deepEqual(meridians.slice(0,14).map((item) => item.acupoints.length), counts);
-  assert.equal(counts.reduce((a,b)=>a+b),361);
-  assert.equal(new Set(meridians.map((item)=>item.id)).size,20);
-  for (const item of meridians) assert.equal(new Set(item.acupoints).size,item.acupoints.length);
-});
-
-test('point rows preserve order and use exactly five columns', () => {
-  for (const item of meridians) {
-    const rows=pointRows(item);
-    assert.ok(rows.every((row)=>row.cells.length===5));
-    assert.deepEqual(rows.flatMap((row)=>row.cells).filter((point)=>point.name).map((point)=>point.name),item.acupoints);
+test('two directories open every real ID directly and retain the selected category on return', async () => {
+  let loads=0;
+  const {page,navigation}=pageContext('miniprogram/pages/meridians/index/index.js',{
+    'meridians-api':{getMeridianAtlas:async()=>{loads++;return {groups};}}
+  });
+  page.onLoad({});await flush();
+  for(const group of groups) {
+    page.selectTab({currentTarget:{dataset:{key:group.key}}});
+    for(const item of group.items) {
+      page.selectMeridian({detail:{id:item.id}});
+      assert.equal(navigation.at(-1), '/pages/meridians/detail/detail?id='+item.id);
+      page.onShow(); assert.equal(page.data.group.key,group.key);
+    }
   }
-  const rows=pointRowsFromPoints([{id:0,name:'中府',code:'LU1'},{id:1,name:'云门',code:'LU2'}]);
-  assert.equal(rows[0].cells.length,5);assert.equal(rows[0].cells[0].clickable,true);assert.equal(rows[0].cells[2].clickable,false);
+  assert.equal(navigation.length,20);assert.equal(loads,1);
 });
 
-test('extraordinary meeting points are distinguished from independently assigned points', () => {
-  for (const item of meridians.slice(14)) { assert.equal(item.pointLabel,'交会穴'); assert.ok(item.points.every((point)=>!point.code)); }
-  assert.equal(findMeridian('ren').points[23].code,'CV24');
-  assert.equal(findMeridian('du').points[27].code,'GV28');
-  assert.equal(findMeridian('meridian-001').key,'du');
-  assert.equal(findMeridian('meridian-002').key,'ren');
-  assert.equal(findMeridian('invalid'),undefined);
+test('retry ignores an older directory response and historic links use the server ID',async()=>{
+  const slow=deferred();let calls=0;
+  const {page,navigation}=pageContext('miniprogram/pages/meridians/index/index.js',{
+    'meridians-api':{getMeridianAtlas:async()=>++calls===1?slow.promise:{groups}}
+  });
+  page.onLoad({id:'meridian-001'});await page.loadAtlas();slow.resolve({groups:[]});await flush();
+  assert.equal(page.data.error,'');assert.equal(page.data.group.key,'extraordinary');
+  assert.equal(navigation[0],'/pages/meridians/detail/detail?id='+channels.findIndex(c=>c.key==='du'));
 });
 
-test('index maps database IDs, keeps tab selections, loads real points and opens both details', async () => {
-  const modules = {
-    'meridians-api': { getMeridians: async () => ({ items: catalog }) },
-    'acupoints-api': { getAcupoints: async ({channel}) => apiPoints(channel) }
-  };
-  const {page,navigation}=pageContext('miniprogram/pages/meridians/index/index.js',modules);
-  page.onLoad({}); await flush();
-  assert.equal(page.data.selected.key,'lung');assert.equal(page.data.detailReady,true);assert.equal(page.data.selectedDbId,0);
-  assert.equal(page.data.pointTotal,11);assert.equal(page.data.rows.length,3);
-
-  const event=(key)=>({currentTarget:{dataset:{key}}});
-  page.selectMeridian(event('bladder'));await flush();
-  assert.equal(page.data.pointTotal,67);assert.equal(page.data.rows.length,14);
-  page.selectTab(event('extraordinary'));await flush();assert.equal(page.data.selected.key,'ren');
-  page.selectMeridian(event('dai'));await flush();assert.equal(page.data.pointTotal,3);
-  page.selectTab(event('regular'));await flush();assert.equal(page.data.selected.key,'bladder');
-  page.selectTab(event('extraordinary'));await flush();assert.equal(page.data.selected.key,'dai');
-
-  page.openDetail();
-  page.openAcupoint({currentTarget:{dataset:{id:0}}});
-  assert.match(navigation[0],/^\/pages\/meridians\/detail\/detail\?id=\d+$/);
-  assert.equal(navigation[1],'/pages/acupoints/detail/detail?id=0');
-});
-
-test('rapid meridian switching drops stale acupoint responses', async () => {
-  const lung=deferred();const stomach=deferred();
-  const modules={
-    'meridians-api':{getMeridians:async()=>({items:catalog})},
-    'acupoints-api':{getAcupoints:({channel})=>channel==='手太阴肺经'?lung.promise:stomach.promise}
-  };
-  const {page}=pageContext('miniprogram/pages/meridians/index/index.js',modules);
-  page.onLoad({});
-  page.selectMeridian({currentTarget:{dataset:{key:'stomach'}}});
-  lung.resolve({items:[{id:1,name:'旧穴',code:''}],total:1});await flush();
-  assert.equal(page.data.rows.length,0);
-  stomach.resolve({items:[{id:2,name:'足三里',code:'ST36'}],total:1});await flush();
-  assert.equal(page.data.rows[0].cells[0].name,'足三里');
-});
-
-test('all on-figure labels are tappable and select only meridians from the current tab', () => {
-  let definition;
-  vm.runInNewContext(fs.readFileSync(path.join(root,'miniprogram/components/meridian-viewer/index.js'),'utf8'), {
-    Component(value) { definition=value; },
-    require() { return { getGroup, findMeridian }; }
+test('two banks of image labels cover the complete active catalog, retry retains the image',async()=>{
+  let def;
+  vm.runInNewContext(fs.readFileSync(path.join(root,'miniprogram/components/meridian-viewer/index.js'),'utf8'),{
+    Component(value){def=value;}, require(){return {imagePath: async url=>url};}
   });
   const events=[];
-  const viewer={data:{},properties:{group:'regular',selected:'lung'},setData(value){Object.assign(this.data,value);},triggerEvent(name,detail){events.push({name,detail});}};
-  definition.observers['group, selected'].call(viewer,'regular','lung');
-  assert.equal(viewer.data.labels.length,12);assert.ok(viewer.data.labels.every((item)=>item.side&&Number.isFinite(item.top)));
-  definition.methods.selectLabel.call(viewer,{currentTarget:{dataset:{key:'stomach'}}});
-  assert.deepEqual(events.map((event)=>event.detail.key),['stomach']);
-  viewer.properties.group='extraordinary';
-  definition.observers['group, selected'].call(viewer,'extraordinary','ren');
-  assert.equal(viewer.data.labels.length,8);
-  definition.methods.selectLabel.call(viewer,{currentTarget:{dataset:{key:'lung'}}});assert.equal(events.length,1);
+  const viewer={...def.methods,data:{},properties:{},setData(v){Object.assign(this.data,v);},triggerEvent(_,e){events.push(e.id);}};
+  for(const group of groups) {
+    viewer.properties.group=group;
+    def.observers.group.call(viewer,group);await flush();
+    assert.deepEqual(Array.from(viewer.data.labels,x=>x.key).sort(),group.items.map(x=>x.key).sort());
+    for(const label of viewer.data.labels) def.methods.selectLabel.call(viewer,{currentTarget:{dataset:{id:label.id}}});
+    def.methods.imageError.call(viewer,{currentTarget:{dataset:{url:viewer.data.src}}});
+    assert.equal(viewer.data.failed,true);def.methods.retry.call(viewer);assert.equal(viewer.data.failed,false);
+  }
+  assert.equal(new Set(events).size,20);
 });
 
-test('figure labels have no background and the selected icon uses the selected text color', () => {
-  const markup=fs.readFileSync(path.join(root,'miniprogram/components/meridian-viewer/index.wxml'),'utf8');
-  const styles=fs.readFileSync(path.join(root,'miniprogram/components/meridian-viewer/index.wxss'),'utf8');
-  assert.match(markup,/wx:if="\{\{selected === item\.key\}\}" class="selection-icon"/);
-  assert.match(styles,/\.chart-callout\s*\{[^}]*background:transparent;/);
-  assert.match(styles,/\.chart-callout\.is-current\s*\{[^}]*color:#9b631f;[^}]*background:transparent;/);
-  const selectedRule=styles.match(/\.chart-callout\.is-current\s*\{([^}]*)\}/)[1];
-  assert.doesNotMatch(selectedRule,/border-bottom|box-shadow|text-decoration/);
-  assert.match(styles,/\.selection-icon\s*\{[^}]*border:2rpx solid currentColor;[^}]*color:currentColor;/);
+test('gallery uses original URLs and a five-column meeting index opens the original point ID',async()=>{
+  const points=[{id:0,name:'带脉',code:'GB26'},{id:52,name:'五枢',code:'GB27'},{id:84,name:'维道',code:'GB28'}];
+  const plates=['全图','腰腹'].map((title,id)=>({title,full_url:'https://example/'+id,preview_url:'https://example/p'+id}));
+  const {page,navigation,previews}=pageContext('miniprogram/pages/meridians/detail/detail.js',{
+    'meridians-api':{getMeridianDetail:async()=>({id:20,title:'带脉',related_points:points,point_label:'交会穴',sections:[],plates})},
+    'acupoints-api':{}
+  });
+  page.onLoad({id:20});await flush();assert.equal(page.data.rows[0].cells.length,5);
+  page.choosePlate({currentTarget:{dataset:{index:1}}});await page.previewPlate();assert.deepEqual(previews,['https://example/1']);
+  page.openAcupoint({currentTarget:{dataset:{id:0}}});assert.equal(navigation[0],'/pages/acupoints/detail/detail?id=0');
 });
 
 test('meridian detail validates IDs, loads clean sections and opens database acupoints', async () => {
@@ -155,7 +119,7 @@ test('meridian detail validates IDs, loads clean sections and opens database acu
     'acupoints-api':{getAcupoints:async()=>({items:[{id:1,name:'中府',code:'LU1'}],total:1})}
   };
   const invalid=pageContext('miniprogram/pages/meridians/detail/detail.js',modules).page;
-  invalid.onLoad({id:'meridian-lung'});assert.equal(invalid.data.error,'经络 ID 无效');
+  invalid.onLoad({id:'invalid!'});assert.equal(invalid.data.error,'经络 ID 无效');
   const {page,navigation}=pageContext('miniprogram/pages/meridians/detail/detail.js',modules);
   page.onLoad({id:'1'});await flush();
   assert.equal(page.data.item.title,'手太阴肺经');assert.equal(page.data.sections.length,2);assert.equal(page.data.pointTotal,1);
@@ -244,14 +208,22 @@ test('catalog API helpers encode queries and IDs and translate transport failure
   await assert.rejects(acupointApi.api.getAcupoints(),/网络连接失败/);
 });
 
-test('both static atlas images are bundled and search routes include acupoints', () => {
-  for(const name of ['regular-chart.jpg','extraordinary-chart.jpg']) {
-    const bytes=fs.readFileSync(path.join(root,'miniprogram/assets/meridians',name));
-    assert.ok(bytes.length>30000&&bytes.length<200000);assert.equal(bytes[0],0xff);assert.equal(bytes[1],0xd8);
+test('all gallery images live on the server and all point codes match chart membership', () => {
+  const extra = require('../../database/atlas/extra-graphics.json');
+  assert.equal(Object.keys(extra).length,54);
+  assert.deepEqual(groups.map(g=>g.items.length),[12,8]);
+  const records=[...Object.values(graphics.groups),...Object.values(extra)];
+  for(const ch of channels){
+    const plates=graphics.channels[ch.key];
+    assert.deepEqual(plates.flatMap(p=>p.codes).sort(),[...ch.points].sort());records.push(...plates);
   }
-  const {searchLocal,routeMap,typeTextMap}=require('../../miniprogram/utils/search');
-  assert.equal(routeMap.acupoint,'/pages/acupoints/detail/detail');assert.equal(typeTextMap.acupoint,'穴位');
-  assert.equal(searchLocal('少商').some((item)=>item.type==='meridian'),false);
+  for(const pl of records) for(const key of ['full','preview']) {
+    const file=fs.readFileSync(path.join(root,'public/images/meridians',pl[key]));
+    assert.ok(pl[key].includes(require('node:crypto').createHash('sha256').update(file).digest('hex').slice(0,12)));
+  }
+  assert.equal(channels.find(c=>c.key==='du').points.includes('GV24+'),true);
+  assert.deepEqual(channels.find(c=>c.key==='dai').points,['GB26','GB27','GB28']);
+  assert.equal(require('../../miniprogram/utils/search').routeMap.acupoint,'/pages/acupoints/detail/detail');
 });
 
 test('bundled image and audio assets total at most 200KB', () => {

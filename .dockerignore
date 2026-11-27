@@ -19,3 +19,9 @@ miniprogram
 tests
 *.png
 *.jpg
+!public/images/meridians/**/*.jpg
+!public/images/meridians/*.jpg
+!public/images/meridians/**/*.png
+!public/images/meridians/*.png
+outputs
+acceptance

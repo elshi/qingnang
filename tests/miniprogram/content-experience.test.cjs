@@ -12,7 +12,7 @@ function harness(file, modules = {}, wxExtra = {}, stack = [{}]) {
   const navigation = [], timers = new Map(), storage = new Map();
   let timerId = 0;
   const defaults = {
-    'content-share': share,
+    'content-share': share, 'atlas-images': require('../../miniprogram/utils/atlas-images'),
     'chapter-reading': { readingGroups },
     'search': require('../../miniprogram/utils/search'),
     'books-api': {}, 'cases-api': {}, 'prescriptions-api': {}, 'meridians-api': {}, 'acupoints-api': {},

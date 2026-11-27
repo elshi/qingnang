@@ -1,0 +1,11 @@
+{
+  "dockerImage": "sha256:013ac61b2edc41afb2981bc58c2f00315959295b717f87822275f432b8ad67da",
+  "origin": "https://localhost:8844",
+  "catalogAndChannelEndpoints": 21,
+  "yintangId": 161,
+  "lastAcupointId": 416,
+  "finalImages": 326,
+  "bytes": 24424698,
+  "cacheControl": "public, max-age=31536000, immutable",
+  "allFileHashesMatch": true
+}

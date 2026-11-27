@@ -1,45 +1,37 @@
-const { getGroup, findMeridian } = require('../../utils/meridians');
-// Overlay slots sit in the clear margins of the static chart, like callouts in
-// the selected design. They identify the image's routes, not exact point sites.
-const labelPositions = {
-  regular: {
-    lung: { side: 'left', top: 14 }, 'large-intestine': { side: 'right', top: 14 },
-    heart: { side: 'left', top: 27 }, 'small-intestine': { side: 'right', top: 27 },
-    'triple-energizer': { side: 'left', top: 40 }, pericardium: { side: 'right', top: 40 },
-    spleen: { side: 'left', top: 53 }, stomach: { side: 'right', top: 53 },
-    liver: { side: 'left', top: 66 }, gallbladder: { side: 'right', top: 66 },
-    bladder: { side: 'left', top: 79 }, kidney: { side: 'right', top: 79 }
-  },
-  extraordinary: {
-    ren: { side: 'left', top: 19 }, du: { side: 'right', top: 19 },
-    'yin-wei': { side: 'left', top: 37 }, chong: { side: 'right', top: 37 },
-    'yin-qiao': { side: 'left', top: 55 }, 'yang-wei': { side: 'right', top: 55 },
-    'yang-qiao': { side: 'left', top: 73 }, dai: { side: 'right', top: 73 }
-  }
+const { imagePath } = require('../../utils/atlas-images');
+const columns = {
+  regular: [['lung','heart','triple-energizer','spleen','liver','bladder'], ['large-intestine','small-intestine','pericardium','stomach','gallbladder','kidney']],
+  extraordinary: [['ren','yin-wei','yang-wei','yang-qiao'], ['du','chong','yin-qiao','dai']]
 };
+const heights = { regular: [11,22,33,59,72,85], extraordinary: [17,35,61,82] };
 Component({
-  properties: {
-    group: { type: String, value: 'regular' },
-    selected: { type: String, value: 'lung' }
-  },
-  data: { labels: [], chart: '/assets/meridians/regular-chart.jpg' },
+  properties: { group: Object },
+  data: { labels: [], src: '', failed: false },
   observers: {
-    'group, selected'(group, selected) {
-      this.setData({
-        labels: getGroup(group).map((item) => ({
-          ...item,
-          side: labelPositions[group][item.key].side,
-          top: labelPositions[group][item.key].top
-        })),
-        chart: group === 'extraordinary' ? '/assets/meridians/extraordinary-chart.jpg' : '/assets/meridians/regular-chart.jpg'
-      });
+    group(group) {
+      if (!group || !columns[group.key]) return;
+      const labels = [];
+      columns[group.key].forEach((keys, side) => keys.forEach((key, index) => {
+        const item = group.items.find((row) => row.key === key);
+        if (item) labels.push({ ...item, side: side ? 'right' : 'left', top: heights[group.key][index] });
+      }));
+      this.setData({ labels });
+      this.loadImage(group.image.preview_url);
     }
   },
   methods: {
-    selectLabel(event) {
-      const key = event.currentTarget.dataset.key;
-      const item = findMeridian(key);
-      if (item && item.group === this.properties.group) this.triggerEvent('select', { key });
-    }
+    loadImage(url) {
+      const token = {};
+      this.imageRequest = token;
+      this.setData({ src: '', failed: false });
+      imagePath(url).then(src => {
+        if (this.imageRequest === token) this.setData({ src });
+      }, () => {
+        if (this.imageRequest === token) this.setData({ failed: true });
+      });
+    },
+    selectLabel(event) { this.triggerEvent('select', { id: event.currentTarget.dataset.id }); },
+    imageError(event) { if (event.currentTarget.dataset.url === this.data.src) this.setData({ failed: true }); },
+    retry() { this.loadImage(this.properties.group.image.preview_url); }
   }
 });
