@@ -10,8 +10,10 @@ qingnang.t_book_chapters
 Required `t_books` fields:
 
 ```text
-id, name, summary, dynasty, author, jp
+id, name, summary, dynasty, author, jp, weight
 ```
+
+The book list sorts by numeric `weight` descending, then by `id` ascending.
 
 The default `t_book_chapters` fields are:
 

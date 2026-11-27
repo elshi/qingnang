@@ -77,6 +77,24 @@ test('detail preserves original dose and newlines; hides only empty sections', a
   assert.equal(page.data.sections[0].content,dose);assert.equal(page.data.sections[1].content,'第一行\r\n第二行');
 });
 
+test('detail moves the catalogue citation out of the explanation and uses the book for older entries', async () => {
+  const item = {
+    source: '伤寒论',
+    explanation: '原方组成\r\n方解正文\r\n\r\n文献位置\r\n《伤寒论》 · 官方目录第1批第1首',
+    decoction: '煎服法正文'
+  };
+  const {page} = harness(detailFile, {'prescriptions-api': {getPrescriptionDetail: async () => item}});
+  page.prescriptionId = '1';
+  await page.loadDetail();
+  assert.equal(page.data.sourceLocation, '《伤寒论》官方目录第1批第1首');
+  assert.deepEqual(Array.from(page.data.sections, section => section.content), ['原方组成\r\n方解正文', '煎服法正文']);
+
+  item.explanation = '仅有方解正文';
+  await page.loadDetail();
+  assert.equal(page.data.sourceLocation, '《伤寒论》');
+  assert.equal(page.data.sections[0].content, item.explanation);
+});
+
 test('invalid and missing IDs never display a fallback prescription; zero is a valid ID', async () => {
   let count=0;
   const {page}=harness(detailFile, {'prescriptions-api':{getPrescriptionDetail:async()=>{count++;throw Error('未找到该处方');}}});

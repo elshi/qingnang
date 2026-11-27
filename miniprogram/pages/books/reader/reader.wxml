@@ -15,9 +15,24 @@
       <button class="reader-retry pressable" catchtap="retry">重新加载</button>
     </view>
     <block wx:elif="{{book}}">
-      <view wx:if="{{chapter}}" class="chapter-content" style="font-size: {{fontSize}}rpx; line-height: {{lineHeight}};">
+      <view wx:if="{{chapter}}" class="chapter-content {{hasCommentary ? 'chapter-content--annotated' : ''}}" style="font-size: {{fontSize}}rpx; line-height: {{lineHeight}}; {{hasCommentary ? 'padding-top:' + statusBarHeight + 'rpx;' : ''}}">
+        <view wx:if="{{hasCommentary}}" class="chapter-book" style="height: {{navHeight}}rpx;">
+          <image class="reader-book-icon" src="/assets/personal/tab-book-normal.png" mode="aspectFit" aria-hidden="true" />
+          <text class="chapter-book__name">{{book.name}}</text>
+        </view>
         <view class="chapter-title">{{chapter.title}}</view>
-        <view wx:for="{{contentParagraphs}}" wx:key="key" class="chapter-paragraph">{{item.text}}</view>
+        <view wx:for="{{contentParagraphs}}" wx:key="key" class="chapter-section">
+          <view wx:if="{{item.text}}" class="chapter-paragraph">{{item.text}}</view>
+          <view wx:if="{{item.commentary}}" class="chapter-commentary">
+            <button class="chapter-commentary__toggle" hover-class="chapter-commentary__toggle--pressed" data-index="{{index}}" data-key="{{item.key}}" catchtap="toggleCommentary" aria-label="{{(item.expanded ? '收起' : '展开') + (item.topic || '本段') + '解说'}}">
+              <text class="chapter-commentary__label">解说</text>
+              <text wx:if="{{item.topic}}" class="chapter-commentary__topic">{{item.topic}}</text>
+              <text class="chapter-commentary__action">{{item.expanded ? '收起' : '展开'}}</text>
+              <view class="chapter-commentary__arrow {{item.expanded ? 'chapter-commentary__arrow--up' : ''}}"></view>
+            </button>
+            <view wx:if="{{item.expanded}}" class="chapter-commentary__body">{{item.commentary}}</view>
+          </view>
+        </view>
         <view class="chapter-end">本章完</view>
       </view>
       <view wx:elif="{{!chapters.length}}" class="reader-state">暂无章节内容</view>
@@ -41,7 +56,10 @@
     <view class="reader-topbar__bar" style="height: {{navHeight}}rpx;">
       <view class="reader-back pressable" catchtap="goBack" aria-label="返回" aria-role="button"><view class="reader-back__arrow"></view></view>
       <view class="reader-heading">
-        <view class="reader-heading__book">{{book.name || '医书阅读'}}</view>
+        <view class="reader-heading__book">
+          <image wx:if="{{book}}" class="reader-book-icon" src="/assets/personal/tab-book-normal.png" mode="aspectFit" aria-hidden="true" />
+          <text class="chapter-book__name">{{book.name || '医书阅读'}}</text>
+        </view>
         <view wx:if="{{chapter}}" class="reader-heading__chapter">{{chapter.title}}</view>
       </view>
     </view>

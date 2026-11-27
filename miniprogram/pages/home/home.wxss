@@ -54,7 +54,8 @@ page { background: #f8f3ea; }
 .home-book__subject { color: #857664; font-size: 25rpx; line-height: 1.45; white-space: nowrap; }
 .home-cases { margin-top: 24rpx; }
 .home-page .home-case { display: flex; align-items: center; width: 100%; margin: 0; padding: 17rpx 0; border-bottom: 1rpx solid #ded0bd; border-radius: 0; color: #31291f; text-align: left; }
-.home-case__thumbnail { flex: 0 0 112rpx; width: 112rpx; height: 112rpx; margin-right: 18rpx; border-radius: 8rpx; }
+.home-case__thumbnail { position: relative; overflow: hidden; flex: 0 0 112rpx; width: 112rpx; height: 112rpx; margin-right: 18rpx; border-radius: 8rpx; }
+.home-case__thumbnail-sheet { position: absolute; width: 400%; height: 300%; max-width: none; }
 .home-case__copy { flex: 1; min-width: 0; padding: 0 24rpx 0 0; }
 .home-case__title, .home-case__source, .home-case__excerpt { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .home-case__title { font-size: 30rpx; line-height: 1.5; }

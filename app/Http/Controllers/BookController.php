@@ -52,7 +52,7 @@ class BookController extends Controller
                 });
             }
 
-            $books = $query->orderBy('id')->get();
+            $books = $query->orderByDesc('weight')->orderBy('id')->get();
             $chapterCounts = $this->chapterCounts($books);
             $items = $books->map(function (Book $book) use ($chapterCounts) {
                 return $this->transformBook($book, $chapterCounts[$book->id] ?? 0);

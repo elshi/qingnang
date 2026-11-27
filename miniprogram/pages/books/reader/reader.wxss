@@ -5,6 +5,10 @@
   --reader-panel: rgba(250, 246, 238, 0.98);
   --reader-border: rgba(134, 105, 70, 0.22);
   --reader-accent: #a66d25;
+  --commentary-bg: #efe3d2;
+  --commentary-rule: #c88b72;
+  --commentary-accent: #934832;
+  --commentary-text: #4f4237;
   position: relative;
   width: 100%;
   height: 100vh;
@@ -20,6 +24,10 @@
   --reader-panel: rgba(234, 240, 225, 0.98);
   --reader-border: rgba(74, 96, 66, 0.2);
   --reader-accent: #617c52;
+  --commentary-bg: #d1dec5;
+  --commentary-rule: #869a72;
+  --commentary-accent: #425f39;
+  --commentary-text: #33432e;
 }
 
 .reader-page--night {
@@ -29,6 +37,10 @@
   --reader-panel: rgba(38, 42, 39, 0.99);
   --reader-border: rgba(210, 214, 205, 0.14);
   --reader-accent: #b99a6a;
+  --commentary-bg: #302e28;
+  --commentary-rule: #a47760;
+  --commentary-accent: #e4ad91;
+  --commentary-text: #ddd2c4;
 }
 
 .reader-scroll {
@@ -64,6 +76,118 @@
   margin-bottom: 0.65em;
   text-indent: 0;
   white-space: pre-wrap;
+}
+
+.chapter-book {
+  display: flex;
+  align-items: center;
+  padding-right: 185rpx;
+  overflow: hidden;
+  border-bottom: 1rpx solid var(--reader-border);
+  color: var(--reader-text);
+  font-size: 25rpx;
+  letter-spacing: 3rpx;
+}
+
+.chapter-content--annotated .chapter-title {
+  margin: 36rpx 0 26rpx;
+  font-size: 1.65em;
+  line-height: 1.35;
+}
+
+.chapter-book__name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.reader-book-icon {
+  flex: none;
+  width: 36rpx;
+  height: 36rpx;
+  margin-right: 12rpx;
+}
+
+.reader-page--eye .reader-book-icon { filter: sepia(.35) hue-rotate(45deg) brightness(.85); }
+.reader-page--night .reader-book-icon { filter: brightness(1.7); }
+
+.chapter-content--annotated .chapter-title,
+.chapter-content--annotated .chapter-paragraph {
+  font-family: "Songti SC", "Noto Serif CJK SC", "STSong", "SimSun", serif;
+}
+
+.chapter-content--annotated .chapter-paragraph {
+  margin-bottom: 0;
+  font-size: 1.08em;
+}
+
+.chapter-content--annotated .chapter-section + .chapter-section { margin-top: 40rpx; }
+
+.chapter-commentary {
+  margin-top: 16rpx;
+  padding: 0 26rpx;
+  border-left: 4rpx solid var(--commentary-rule);
+  color: var(--commentary-text);
+  background: var(--commentary-bg);
+  letter-spacing: 0;
+}
+
+.chapter-commentary .chapter-commentary__toggle {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  min-height: 82rpx;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+  color: var(--commentary-accent);
+  background: transparent;
+  font-size: 24rpx;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.chapter-commentary__toggle--pressed { opacity: .72; }
+.chapter-commentary__label { flex: none; font-weight: 600; letter-spacing: 2rpx; }
+.chapter-commentary__topic {
+  margin-left: 14rpx;
+  padding-left: 16rpx;
+  border-left: 1rpx solid var(--commentary-rule);
+  color: var(--commentary-text);
+  line-height: 1.2;
+}
+.chapter-commentary__action { flex: none; margin-left: 14rpx; }
+.chapter-commentary__arrow {
+  flex: none;
+  width: 12rpx;
+  height: 12rpx;
+  margin: -5rpx 2rpx 0 10rpx;
+  border-right: 2rpx solid currentColor;
+  border-bottom: 2rpx solid currentColor;
+  transform: rotate(45deg);
+}
+.chapter-commentary__arrow--up { margin-top: 5rpx; transform: rotate(225deg); }
+.chapter-commentary__body {
+  padding-bottom: 23rpx;
+  font-size: .9em;
+  white-space: pre-wrap;
+  overflow-wrap: break-word;
+}
+.chapter-content--annotated .chapter-end {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50rpx;
+}
+.chapter-content--annotated .chapter-end::before,
+.chapter-content--annotated .chapter-end::after {
+  content: "";
+  width: 50rpx;
+  height: 1rpx;
+  margin: 0 20rpx;
+  background: var(--reader-border);
 }
 
 .chapter-end {
@@ -203,6 +327,9 @@
 }
 
 .reader-heading__book {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   color: var(--reader-text);
   font-size: 25rpx;
   font-weight: 600;

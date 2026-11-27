@@ -1,5 +1,6 @@
 const { contentShare } = require('../../../utils/content-share');
 const { getBookDetail, getBookChapter } = require('../../../utils/books-api');
+const { readingGroups } = require('../../../utils/chapter-reading');
 const learningStore = require('../../../utils/learning-store');
 
 const PREFERENCE_KEY = 'bookReaderPreferences';
@@ -32,18 +33,6 @@ const lineHeights = [
   { value: 2.3, label: '宽松' }
 ];
 
-function formatContent(value) {
-  return String(value || '')
-    .trim()
-    .split(/\r\n|\r|\n/)
-    .map((line) => line.trim())
-    .filter(Boolean)
-    .map((text, index) => ({
-      key: `chapter-paragraph-${index}`,
-      text
-    }));
-}
-
 function formatDirectoryTitle(chapter) {
   return [chapter.volume, chapter.title]
     .map((value) => String(value || '').trim())
@@ -71,6 +60,7 @@ Page({
     chapters: [],
     chapter: null,
     contentParagraphs: [],
+    hasCommentary: false,
     contentMode: 'original',
     notesScrollTop: 0,
     selectedChapterId: '',
@@ -202,6 +192,9 @@ Page({
       this.currentNotesScrollTop = 0;
       this.restoreScrollTop = 0;
       this.pendingChapterId = '';
+      const contentParagraphs = readingGroups(chapter, this.bookId).map((group, index) => ({
+        ...group, key: `${chapter.id}-${index}`
+      }));
       this.setData({
         chapter,
         selectedChapterId: chapter.id,
@@ -209,7 +202,8 @@ Page({
         canGoPrevious: currentChapterIndex > 0,
         canGoNext: currentChapterIndex >= 0 && currentChapterIndex < this.data.chapters.length - 1,
         notesScrollTop: 1,
-        contentParagraphs: formatContent(chapter.content),
+        contentParagraphs,
+        hasCommentary: contentParagraphs.some(group => group.commentary),
         chapterLoading: false,
         scrollTop: targetScrollTop + 1
       }, () => {
@@ -278,6 +272,13 @@ Page({
   toggleToolbars() {
     if (this.data.directoryVisible || this.data.settingsVisible) return;
     this.setData({ toolbarVisible: !this.data.toolbarVisible });
+  },
+
+  toggleCommentary(event) {
+    const { index, key } = event.currentTarget.dataset;
+    const group = this.data.contentParagraphs[index];
+    if (!group || group.key !== key || !group.commentary) return;
+    this.setData({ [`contentParagraphs[${index}].expanded`]: !group.expanded });
   },
 
   goBack() {

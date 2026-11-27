@@ -5,6 +5,7 @@ const path = require('node:path');
 const vm = require('node:vm');
 const root = path.resolve(__dirname, '../..');
 const share = require('../../miniprogram/utils/content-share');
+const { readingGroups } = require('../../miniprogram/utils/chapter-reading');
 
 function harness(file, modules = {}, wxExtra = {}, stack = [{}]) {
   let definition;
@@ -12,6 +13,7 @@ function harness(file, modules = {}, wxExtra = {}, stack = [{}]) {
   let timerId = 0;
   const defaults = {
     'content-share': share,
+    'chapter-reading': { readingGroups },
     'search': require('../../miniprogram/utils/search'),
     'books-api': {}, 'cases-api': {}, 'prescriptions-api': {}, 'meridians-api': {}, 'acupoints-api': {},
     'learning-store': {}, 'speech-input': {}, 'meridians': require('../../miniprogram/utils/meridians'),
@@ -147,6 +149,36 @@ test('chapter changes refresh original paragraphs and reset note scrolling', asy
   await page.loadChapter(2); flush();
   assert.equal(page.data.chapter.id,2); assert.equal(page.data.contentParagraphs[0].text,'正文');
   assert.equal(page.data.notesScrollTop,0); assert.equal(page.currentScrollTop,0); assert.equal(page.data.contentMode,'notes');
+});
+
+test('chapter explanations follow their passages and edited or unaligned text stays complete', () => {
+  const content = '太阳病，发热而渴，不恶寒者，为温病。\n若发汗已，身灼热者，名曰风温。若被下者，小便不利，直视失溲。';
+  const shiyi = '同样以发热起病，如果口渴而不怕冷，本条称为“温病”。\n如果发汗后身体反而灼热，原文称为“风温”。接着分述误治后的不同变化。';
+  const result = readingGroups({id:545, content, shiyi}, 3);
+  assert.deepEqual(result.map(group => group.topic), ['温病的辨别', '风温的表现', '误治后的变化']);
+  assert.equal(result.map(group => group.text).join(''), content.replace('\n', ''));
+  assert.equal(result.map(group => group.commentary).join(''), shiyi.replace('\n', ''));
+  assert.ok(result.every(group => group.expanded));
+  const edited = readingGroups({id:545, content, shiyi:'新版全章解说'}, 3);
+  assert.deepEqual(edited.map(group => [group.text, group.commentary]), [[content, '新版全章解说']]);
+  const formula = readingGroups({content:'条文\n桂枝汤方\n药味\n方后文字', shiyi:'条意\n方意'}, 3);
+  assert.deepEqual(formula.map(group => [group.text, group.commentary]), [['条文', '条意'], ['桂枝汤方\n药味\n方后文字', '方意']]);
+});
+
+test('changing from an annotated chapter to an empty shiyi clears all commentary', async () => {
+  for (const shiyi of [null, '', ' \r\n　', '<p><br/>&nbsp;</p>']) {
+    const { page } = harness(reader, { 'books-api': { getBookChapter: async (_, id) => ({
+      id, content:'原文甲\n原文乙', shiyi:id === 1 ? '甲解说\n乙解说' : shiyi
+    }) } });
+    page.bookId = 7;
+    page.persistProgress = () => {};
+    await page.loadChapter(1);
+    assert.equal(page.data.hasCommentary, true);
+    await page.loadChapter(2);
+    assert.equal(page.data.hasCommentary, false);
+    assert.deepEqual(Array.from(page.data.contentParagraphs, p => p.text), ['原文甲', '原文乙']);
+    assert.ok(page.data.contentParagraphs.every(p => !p.commentary));
+  }
 });
 
 test('related notes refresh on return, switch chapters, and never retain another account notes', async () => {

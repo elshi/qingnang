@@ -14,7 +14,6 @@
       <block wx:else>
       <view class="detail-hero">
         <view class="detail-title">{{item.title}}</view>
-        <view class="detail-meta">{{item.source || '出处未注明'}}</view>
         <view wx:if="{{item.tags.length}}" class="tag-row"><text wx:for="{{item.tags}}" wx:for-item="tag" wx:key="*this" class="case-tag">{{tag}}</text></view>
       </view>
       <view wx:for="{{sections}}" wx:key="key" class="detail-card">
@@ -22,6 +21,7 @@
         <text class="detail-content prescription-content" user-select="{{true}}">{{item.content}}</text>
       </view>
       <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
+      <view class="prescription-source">文献位置：{{sourceLocation}}</view>
       <view class="disclaimer">{{disclaimer}}</view>
       </block>
     </block>

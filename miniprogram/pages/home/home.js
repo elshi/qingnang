@@ -9,24 +9,26 @@ const store = require('../../utils/learning-store');
 const bookListUrl = '/pages/books/index/index';
 const caseListUrl = '/pages/cases/index/index';
 const featuredCaseQueries = [
-  { doctor: '张仲景', keyword: '霍乱', portrait: 'zhang-zhongjing' },
-  { doctor: '吴鞠通', keyword: '暑温', portrait: 'wu-jutong' },
-  { doctor: '叶天士', keyword: '咳嗽', bookname: '临证指南医案', portrait: 'ye-tianshi' }
+  { doctor: '张仲景', keyword: '霍乱', portrait: 0 },
+  { doctor: '吴鞠通', keyword: '暑温', portrait: 1 },
+  { doctor: '叶天士', keyword: '咳嗽', bookname: '临证指南医案', portrait: 2 }
 ];
+const mortarTile = 6;
 const prescriptionThumbnails = new Map([
-  ['桂枝汤', 'gui-zhi-tang'],
-  ['四君子汤', 'si-jun-zi-tang'],
-  ['逍遥散', 'xiao-yao-san'],
-  ['度瘴散', 'du-zhang-san'],
-  ['发汗神丹丸', 'fa-han-shen-dan-wan'],
-  ['葛根汤', 'ge-gen-tang'],
-  ['桃核承气汤', 'tao-he-cheng-qi-tang'],
-  ['旋覆代赭汤', 'xuan-fu-dai-zhe-tang'],
-  ['竹叶石膏汤', 'zhu-ye-shi-gao-tang']
+  ['桂枝汤', 3],
+  ['四君子汤', 4],
+  ['逍遥散', 5],
+  ['度瘴散', mortarTile],
+  ['发汗神丹丸', 7],
+  ['葛根汤', 8],
+  ['桃核承气汤', 9],
+  ['旋覆代赭汤', 10],
+  ['竹叶石膏汤', 11]
 ]);
 
-function featuredThumbnail(name) {
-  return `/assets/home/featured/${name}.webp`;
+// Tiles in featured-thumbnails.jpg are numbered left to right, four per row.
+function thumbnailPosition(index = mortarTile) {
+  return `left: ${-(index % 4) * 100}%; top: ${-Math.floor(index / 4) * 100}%`;
 }
 
 function searchResult(item, type, title) {
@@ -117,7 +119,7 @@ Page({
       return true;
     }).map(({ item, portrait }) => ({
       id: item.id,
-      thumbnail: featuredThumbnail(portrait),
+      thumbnailPosition: thumbnailPosition(portrait),
       title: item.title,
       source: item.source || item.bookname || '',
       excerpt: item.content_preview || item.summary || ''
@@ -131,10 +133,9 @@ Page({
     try {
       const data = await getPrescriptions({ page_size: 3 });
       if (request !== this.prescriptionRequest) return;
-      const featuredPrescriptions = data.items.slice(0, 3).map(item => {
-        const image = prescriptionThumbnails.get(item.title);
-        return { ...item, thumbnail: image ? featuredThumbnail(image) : '/assets/home/mortar.jpg' };
-      });
+      const featuredPrescriptions = data.items.slice(0, 3).map(item => ({
+        ...item, thumbnailPosition: thumbnailPosition(prescriptionThumbnails.get(item.title))
+      }));
       this.setData({ featuredPrescriptions, prescriptionsLoading: false });
     } catch (error) {
       if (request === this.prescriptionRequest) this.setData({ prescriptionsLoading: false, prescriptionsFailed: true });

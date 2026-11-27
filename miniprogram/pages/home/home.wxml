@@ -1,3 +1,9 @@
+<template name="homeThumbnail">
+  <view class="home-case__thumbnail" aria-hidden="true">
+    <image class="home-case__thumbnail-sheet" src="/assets/home/featured-thumbnails.jpg" style="{{position}}" mode="scaleToFill"></image>
+  </view>
+</template>
+
 <view class="home-page" style="padding-top: {{statusBarHeight}}px;">
   <view class="home-brand" style="min-height: {{navHeight}}px;">
     <image class="home-brand__mark" src="/assets/home/catalog-icons/brand.png" mode="aspectFit" aria-hidden="true"></image>
@@ -107,7 +113,7 @@
       </view>
       <view class="home-cases__list">
         <button wx:for="{{featuredCases}}" wx:key="id" class="home-case" data-id="{{item.id}}" bindtap="openCase" hover-class="home-row--pressed" aria-label="阅读{{item.title}}">
-          <image class="home-case__thumbnail" src="{{item.thumbnail}}" mode="aspectFill" webp aria-hidden="true"></image>
+          <template is="homeThumbnail" data="{{position: item.thumbnailPosition}}"></template>
           <view class="home-case__copy">
             <text class="home-case__title home-serif">{{item.title}}</text>
             <text wx:if="{{item.source}}" class="home-case__source">{{item.source}}</text>
@@ -130,7 +136,7 @@
       </view>
       <view class="home-cases__list">
         <button wx:for="{{featuredPrescriptions}}" wx:key="id" class="home-case" data-id="{{item.id}}" bindtap="openPrescription" hover-class="home-row--pressed">
-          <image class="home-case__thumbnail" src="{{item.thumbnail}}" mode="aspectFill" webp aria-hidden="true"></image>
+          <template is="homeThumbnail" data="{{position: item.thumbnailPosition}}"></template>
           <view class="home-case__copy"><text class="home-case__title home-serif">{{item.title}}</text><text wx:if="{{item.source}}" class="home-case__source">{{item.source}}</text><text wx:if="{{item.summary}}" class="home-case__excerpt">{{item.summary}}</text></view>
           <image class="home-chevron" src="/assets/home/catalog-icons/chevron.png" mode="aspectFit" aria-hidden="true" />
         </button>

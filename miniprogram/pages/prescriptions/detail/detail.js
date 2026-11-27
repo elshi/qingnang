@@ -2,10 +2,28 @@ const { contentShare } = require('../../../utils/content-share');
 const { getPrescriptionDetail } = require('../../../utils/prescriptions-api');
 const sections = [
   { key: 'modern_dose', title: '现代剂量' },
-  { key: 'decoction', title: '煎服法' },
   { key: 'indications', title: '主治' },
-  { key: 'explanation', title: '方义方解' }
+  { key: 'explanation', title: '方义方解' },
+  { key: 'decoction', title: '煎服法' }
 ];
+
+function formatDetail(item) {
+  let explanation = item.explanation || '';
+  const book = (item.source || '').trim();
+  let sourceLocation = book && !book.startsWith('《') ? '《' + book + '》' : book;
+  const citation = /(?:^|\r?\n)文献位置\r?\n(《[^\r\n]+)\s*$/.exec(explanation);
+  if (citation) {
+    explanation = explanation.slice(0, citation.index).trimEnd();
+    sourceLocation = citation[1].trim().replace(/》\s*·\s*/, '》');
+  }
+  return {
+    sourceLocation: sourceLocation || '出处未注明',
+    sections: sections.map(section => ({
+      ...section,
+      content: section.key === 'explanation' ? explanation : item[section.key]
+    })).filter(section => String(section.content || '').trim())
+  };
+}
 
 Page({
   onShareAppMessage() { return contentShare('prescription', this.data.item); },
@@ -27,7 +45,7 @@ Page({
     try {
       const item = await getPrescriptionDetail(this.prescriptionId);
       if (requestId !== this.requestId || this.unloaded) return;
-      this.setData({ item, sections: sections.filter((section) => String(item[section.key] || '').trim()).map((section) => ({ ...section, content: item[section.key] })), loading: false });
+      this.setData({ item, ...formatDetail(item), loading: false });
     } catch (error) {
       if (requestId !== this.requestId || this.unloaded) return;
       this.setData({ loading: false, error: error.message || '经方详情加载失败，请稍后重试' });
