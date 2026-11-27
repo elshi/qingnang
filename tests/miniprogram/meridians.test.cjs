@@ -8,6 +8,50 @@ const meridianUtils = require('../../miniprogram/utils/meridians');
 const locationUtils = require('../../miniprogram/utils/acupoint-location');
 const channels = require('../../database/atlas/channels.json');
 const graphics = require('../../database/atlas/graphics.json');
+function atlasTransport({ platform = 'devtools', version = 'develop', preference = '', local, cloud }) {
+  const mod = { exports: {} };
+  const wx = {
+    getDeviceInfo: () => ({ platform }),
+    getAccountInfoSync: () => ({ miniProgram: { envVersion: version } }),
+    getStorageSync: () => preference,
+    request: local || (() => assert.fail('Unexpected localhost request')),
+    cloud: { callContainer: cloud || (() => assert.fail('Unexpected cloud request')) }
+  };
+  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/request.js'), 'utf8'),
+    { module: mod, wx, require: () => ({ env: 'test', service: 'test' }) });
+  return mod.exports.request;
+}
+
+test('a fresh development simulator loads the atlas and its linked records from the HTTPS atlas service', async () => {
+  const paths = ['/api/meridian-atlas', '/api/meridians/1', '/api/acupoints/161', '/api/meridians?keyword=LU'];
+  const urls = [];
+  const request = atlasTransport({ local(options) {
+    urls.push(options.url);
+    options.success({ statusCode: 200, data: { code: 0, data: 'atlas' } });
+  } });
+  for (const path of paths) assert.equal(await request({ path }), 'atlas');
+  assert.deepEqual(urls, paths.map(path => 'https://localhost:8843' + path));
+});
+
+test('an unavailable local connection tries cloud once and preserves a missing cloud directory error', async () => {
+  const calls = [];
+  const request = atlasTransport({
+    local(options) { calls.push(options.url); options.fail({ errMsg: 'request:fail' }); },
+    cloud(options) { calls.push(options.path); options.success({ statusCode: 404, data: {} }); }
+  });
+  await assert.rejects(request({ path: '/api/meridian-atlas' }), error => error.status === 404 && /云端/.test(error.message));
+  assert.deepEqual(calls, ['https://localhost:8843/api/meridian-atlas', '/api/meridian-atlas']);
+});
+
+test('mobile, release and explicitly cloud-only atlas reads use cloud even with local development data', async () => {
+  for (const env of [{ platform: 'ios', preference: true }, { version: 'release', preference: true }, { preference: false }]) {
+    const request = atlasTransport({ ...env, cloud(options) {
+      options.success({ statusCode: 200, data: { code: 0, data: 'cloud' } });
+    } });
+    assert.equal(await request({ path: '/api/meridian-atlas' }), 'cloud');
+  }
+});
+
 const groups = ['regular', 'extraordinary'].map(key => ({
   key, image: {preview_url:'https://cdn.example/'+key}, items: channels.map((c,id)=>({...c,id})).filter(c=>c.group===key)
 }));

@@ -1,5 +1,6 @@
 const cloudConfig = require('./cloud-config');
 const LOCAL_API = 'http://127.0.0.1:8765';
+const LOCAL_ATLAS_API = 'https://localhost:8843';
 
 function isDevelopmentSimulator() {
   return typeof wx.getDeviceInfo === 'function'
@@ -37,39 +38,52 @@ function request(options) {
 
     const atlasRead = requestOptions.method === 'GET'
       && /^\/api\/(meridian-atlas|meridians|acupoints)(\/|\?|$)/.test(options.path);
-    if (atlasRead && isDevelopmentSimulator() && typeof wx.getStorageSync === 'function'
-      && wx.getStorageSync('qingnang.atlas.local') === true) {
-      wx.request({ ...requestOptions, url: 'https://localhost:8843' + options.path });
-      return;
-    }
-    if (!wx.cloud || !wx.cloud.callContainer) {
-      reject(new Error('当前微信版本不支持云托管请求'));
-      return;
-    }
-    wx.cloud.callContainer({
-      ...requestOptions,
-      config: { env: cloudConfig.env },
-      path: options.path,
-      header: {
-        'X-WX-SERVICE': cloudConfig.service,
-        'Content-Type': 'application/json',
-        Accept: 'application/json',
-        ...(options.header || {})
-      },
-      success(response) {
-        if (response.statusCode === 404 && !response.data?.errorMsg
-          && requestOptions.method === 'GET' && options.path.startsWith('/api/') && !options.path.startsWith('/api/personal/')
-          && isDevelopmentSimulator()) {
-          wx.request({
-            ...requestOptions,
-            url: LOCAL_API + options.path,
-            header: options.header
-          });
-          return;
-        }
-        requestOptions.success(response);
+    function requestCloud() {
+      if (!wx.cloud || !wx.cloud.callContainer) {
+        reject(new Error('当前微信版本不支持云托管请求'));
+        return;
       }
-    });
+      wx.cloud.callContainer({
+        ...requestOptions,
+        config: { env: cloudConfig.env },
+        path: options.path,
+        header: {
+          'X-WX-SERVICE': cloudConfig.service,
+          'Content-Type': 'application/json',
+          Accept: 'application/json',
+          ...(options.header || {})
+        },
+        success(response) {
+          if (response.statusCode === 404 && options.path === '/api/meridian-atlas' && !response.data?.errorMsg) {
+            const error = new Error('云端尚未提供经络图谱，请联系管理员更新服务');
+            error.status = 404;
+            reject(error);
+            return;
+          }
+          if (response.statusCode === 404 && !response.data?.errorMsg && !atlasRead
+            && requestOptions.method === 'GET' && options.path.startsWith('/api/') && !options.path.startsWith('/api/personal/')
+            && isDevelopmentSimulator()) {
+            wx.request({ ...requestOptions, url: LOCAL_API + options.path, header: options.header });
+            return;
+          }
+          requestOptions.success(response);
+        }
+      });
+    }
+
+    if (atlasRead && isDevelopmentSimulator()) {
+      const localPreference = typeof wx.getStorageSync === 'function' ? wx.getStorageSync('qingnang.atlas.local') : undefined;
+      if (localPreference !== false) {
+        wx.request({
+          ...requestOptions,
+          url: LOCAL_ATLAS_API + options.path,
+          timeout: 4000,
+          fail: localPreference === true ? requestOptions.fail : requestCloud
+        });
+        return;
+      }
+    }
+    requestCloud();
   });
 }
 
