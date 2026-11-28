@@ -1,4 +1,5 @@
 const { request } = require('./request');
+const { withPointPlate } = require('./legacy-atlas');
 
 function queryString(params = {}) {
   const query = Object.keys(params)
@@ -18,8 +19,8 @@ function getAcupoints(params = {}) {
   return catalogRequest(`/api/acupoints${queryString(params)}`);
 }
 
-function getAcupointDetail(id) {
-  return catalogRequest(`/api/acupoints/${encodeURIComponent(id)}`);
+async function getAcupointDetail(id) {
+  return withPointPlate(await catalogRequest(`/api/acupoints/${encodeURIComponent(id)}`));
 }
 
 module.exports = { getAcupoints, getAcupointDetail };

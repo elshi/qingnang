@@ -1,6 +1,7 @@
 const { contentShare } = require('../../../utils/content-share');
 const { getMeridianDetail, getMeridianAtlas, resolveAtlasItem } = require('../../../utils/meridians-api');
 const { getAcupoints } = require('../../../utils/acupoints-api');
+const { loadChannelPoints } = require('../../../utils/legacy-atlas');
 const { pointRowsFromPoints } = require('../../../utils/meridians');
 const { imagePath, previewAtlas } = require('../../../utils/atlas-images');
 
@@ -57,7 +58,9 @@ Page({
     this.pointsRequest = token;
     this.setData({ pointsLoading: true, pointsError: '' });
     try {
-      const data = await getAcupoints({ channel: this.data.item.title, page_size: 100 });
+      const item = this.data.item;
+      const data = item.atlas_key ? await loadChannelPoints(item.atlas_key, getAcupoints)
+        : await getAcupoints({ channel: item.title, page_size: 100 });
       if (this.pointsRequest !== token) return;
       this.setData({ rows: pointRowsFromPoints(data.items || []), pointTotal: data.total || 0, pointsLoading: false });
     } catch (error) {

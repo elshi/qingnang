@@ -57,6 +57,7 @@ function request(options) {
           if (response.statusCode === 404 && options.path === '/api/meridian-atlas' && !response.data?.errorMsg) {
             const error = new Error('云端尚未提供经络图谱，请联系管理员更新服务');
             error.status = 404;
+            error.missingAtlasRoute = true;
             reject(error);
             return;
           }

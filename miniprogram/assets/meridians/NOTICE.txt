@@ -1,0 +1,7 @@
+regular-transparent.png / extraordinary-transparent.png
+Rendered from Acu361 v1.0.1 by Yuyue Zhang, Timothy G. Reese, Yang He and Michael Zhu.
+Human mesh: Z-Anatomy / BodyParts3D. Qingnang adaptations: meridian routes, palette and transparent rendering.
+CC BY-SA 4.0. Source and complete attribution:
+https://github.com/Elwyn921/Acu361/tree/v1.0.1
+https://creativecommons.org/licenses/by-sa/4.0/
+See public/images/meridians/NOTICE.txt and Acu361-ATTRIBUTIONS.md.txt in this repository.

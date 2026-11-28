@@ -1,10 +1,15 @@
 <view class="map">
-  <image wx:if="{{src && !failed}}" class="body" src="{{src}}" data-url="{{src}}" mode="aspectFit" binderror="imageError" aria-label="{{group.label}}体表循行示意"></image>
-  <view wx:elif="{{failed}}" class="retry"><button bindtap="retry">重新加载总图</button></view>
-  <text class="caption">体表循行示意</text>
-  <button wx:for="{{labels}}" wx:key="key" class="label {{item.side}}" style="top:{{item.top}}%" data-id="{{item.id}}" bindtap="selectLabel" aria-label="查看{{item.title}}详情">
-    <view class="code"><view style="background:{{item.color}}"></view>{{item.code}}</view>
-    <view class="label-row"><text>{{item.title}}</text><text class="arrow">›</text></view>
-  </button>
-  <text class="hint">轻点经脉名称，查看详情</text>
+  <view class="map-caption"><view class="caption-line"></view><text>正面 · 体表循行</text><view class="caption-line"></view></view>
+  <view class="map-stage">
+    <view class="body-axis"></view>
+    <image wx:if="{{src && !failed}}" class="body" src="{{src}}" data-url="{{src}}" mode="aspectFit" binderror="imageError" aria-label="{{group.label}}体表循行示意"></image>
+    <view wx:elif="{{failed}}" class="image-state"><text>总图暂未载入</text><button class="image-reload" bindtap="retry">重新加载</button></view>
+    <view wx:else class="image-state"><text>正在载入总图…</text></view>
+    <button wx:for="{{labels}}" wx:key="key" class="label {{item.side}}" style="top:{{item.top}}%;" data-id="{{item.id}}" bindtap="selectLabel" hover-class="label--pressed" aria-label="查看{{item.title}}详情">
+      <view class="label-meta"><text>{{item.prefix}}</text><text wx:if="{{item.code}}" class="code">{{item.code}}</text></view>
+      <text class="label-name">{{item.name}}</text>
+      <view class="label-rule"><view class="label-color" style="background:{{item.color}};"></view></view>
+    </button>
+  </view>
+  <view class="map-footer"><view class="hint-mark"></view><text>轻点经脉名称，查看循行与穴位</text></view>
 </view>

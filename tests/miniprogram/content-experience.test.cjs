@@ -13,6 +13,7 @@ function harness(file, modules = {}, wxExtra = {}, stack = [{}]) {
   let timerId = 0;
   const defaults = {
     'content-share': share, 'atlas-images': require('../../miniprogram/utils/atlas-images'),
+    'legacy-atlas': require('../../miniprogram/utils/legacy-atlas'),
     'chapter-reading': { readingGroups },
     'search': require('../../miniprogram/utils/search'),
     'books-api': {}, 'cases-api': {}, 'prescriptions-api': {}, 'meridians-api': {}, 'acupoints-api': {},

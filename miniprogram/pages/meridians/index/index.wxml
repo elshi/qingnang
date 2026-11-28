@@ -1,9 +1,15 @@
 <view class="atlas-home">
-  <custom-nav title="经络" showBack="{{true}}"></custom-nav>
-  <view wx:if="{{loading || error}}" class="atlas-state">{{error || '正在打开经络图谱…'}}<button wx:if="{{error}}" bindtap="loadAtlas">重新加载</button></view>
+  <custom-nav title="经络" showBack="{{true}}" transparent="{{true}}"></custom-nav>
+  <view wx:if="{{loading || error}}" class="atlas-state">{{error || '正在打开经络图谱…'}}<button wx:if="{{error}}" class="atlas-reload" bindtap="loadAtlas">重新加载</button></view>
   <block wx:elif="{{group}}">
-    <view class="atlas-switch">
-      <button wx:for="{{groups}}" wx:key="key" class="{{group.key === item.key ? 'active' : ''}}" data-key="{{item.key}}" bindtap="selectTab" aria-role="tab" aria-selected="{{group.key === item.key}}">{{item.label}}</button>
+    <view class="atlas-switch" aria-role="tablist" aria-label="经络分类">
+      <button wx:for="{{groups}}" wx:key="key" class="atlas-tab {{group.key === item.key ? 'active' : ''}}" data-key="{{item.key}}" bindtap="selectTab" aria-role="tab" aria-selected="{{group.key === item.key}}" hover-class="atlas-tab--pressed">
+        <text>{{item.label}}</text><text class="atlas-tab-count">{{item.items.length}}</text>
+      </button>
+    </view>
+    <view class="atlas-heading">
+      <view class="atlas-heading-title">循经识络</view>
+      <text class="atlas-heading-caption">{{group.key === 'regular' ? '十二经脉 · 周流不息' : '奇经八脉 · 交贯联络'}}</text>
     </view>
     <meridian-viewer class="atlas-view" group="{{group}}" bindselect="selectMeridian"></meridian-viewer>
   </block>

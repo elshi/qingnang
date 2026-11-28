@@ -1,1 +1,99 @@
-.atlas-home{display:flex;flex-direction:column;height:100vh;box-sizing:border-box;padding-bottom:calc(112rpx + env(safe-area-inset-bottom));background:#f8f3ea;color:#31291f}.atlas-switch{flex:none;display:flex;gap:4rpx;margin:8rpx 28rpx;padding:5rpx;border:1rpx solid #d9c9af;border-radius:10rpx;background:#eee6d8}.atlas-switch button{flex:1;margin:0;width:auto;line-height:66rpx;font-size:28rpx;color:#6e614e;border-radius:6rpx}.atlas-switch .active{color:#fff7e5;background:#203242}.atlas-view{flex:1;min-height:0;margin:5rpx 14rpx}.atlas-state{margin:auto;text-align:center;color:#796b57;font-size:26rpx}.atlas-state button{margin-top:20rpx;color:#976b35}
+.atlas-home {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  height: 100vh;
+  box-sizing: border-box;
+  padding-bottom: calc(112rpx + env(safe-area-inset-bottom));
+  background: #f7f4ed;
+  color: #293c36;
+}
+
+.atlas-switch {
+  flex: none;
+  display: flex;
+  margin: 12rpx 32rpx 0;
+  padding: 6rpx;
+  border: 1rpx solid #e6e2d8;
+  border-radius: 18rpx;
+  background: #eceae2;
+}
+
+.atlas-switch .atlas-tab {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  gap: 14rpx;
+  height: 76rpx;
+  margin: 0;
+  border-radius: 12rpx;
+  color: #737970;
+  font-size: 28rpx;
+  font-weight: 500;
+}
+
+.atlas-switch .active {
+  background: #2d4840;
+  color: #fffdf7;
+  box-shadow: 0 4rpx 10rpx rgba(34, 59, 50, .1);
+}
+
+.atlas-tab-count {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 22rpx;
+  font-weight: 400;
+  opacity: .65;
+}
+
+.atlas-tab--pressed { opacity: .75; }
+
+.atlas-heading {
+  display: flex;
+  flex: none;
+  align-items: baseline;
+  justify-content: space-between;
+  margin: 30rpx 36rpx 0;
+  padding-bottom: 20rpx;
+  border-bottom: 1rpx solid #dedfd4;
+}
+
+.atlas-heading-title {
+  font-family: "KaiTi", "STKaiti", serif;
+  font-size: 34rpx;
+  font-weight: 600;
+  letter-spacing: 4rpx;
+}
+
+.atlas-heading-caption { color: #7d8277; font-size: 22rpx; }
+
+.atlas-view {
+  display: block;
+  flex: 1;
+  min-height: 880rpx;
+  margin: 0 28rpx;
+}
+
+.atlas-state {
+  margin: auto;
+  padding: 40rpx;
+  text-align: center;
+  color: #72796e;
+  font-size: 28rpx;
+  line-height: 1.8;
+}
+
+.atlas-reload {
+  margin-top: 24rpx;
+  padding: 18rpx 32rpx;
+  border-radius: 12rpx;
+  background: #2d4840;
+  color: #fffdf7;
+  font-size: 28rpx;
+}
+
+@media (max-height: 700px) {
+  .atlas-home { height: auto; }
+  .atlas-view { flex: none; height: 880rpx; }
+  .atlas-heading { margin-top: 22rpx; padding-bottom: 16rpx; }
+}

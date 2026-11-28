@@ -53,7 +53,7 @@ class Renderer:
     def text(self,d,xy,t,size,ink=INK,anchor='la'):
         d.text(xy,t,font=ImageFont.truetype(self.font,size),fill=ink,anchor=anchor)
 
-    def frame(self,view,focus,W,H,overview=False,isolate=False):
+    def frame(self,view,focus,W,H,overview=False,isolate=False,transparent=False):
         mat=axes(*view[:2])
         pos=self.s.xyz@mat
         f=np.array(focus)
@@ -95,7 +95,10 @@ class Renderer:
         rgb=np.empty((H,W,3),dtype='uint8')
         for k,(dark,bright) in enumerate([(97,250),(111,243),(112,223)]):
             rgb[:,:,k]=np.where(z<-99999,PAPER[k],dark+(bright-dark)*l)
-        return Image.fromarray(rgb),z,project
+        image=Image.fromarray(rgb)
+        if transparent:
+            image.putalpha(Image.fromarray(np.where(z>-99999,255,0).astype('uint8')))
+        return image,z,project
 
     @staticmethod
     def visible(z,p,tol=8):
@@ -127,11 +130,11 @@ class Renderer:
         record.update(width=image.width,height=image.height)
         return record
 
-    def fullbody(self,tracks,views,home=False):
+    def fullbody(self,tracks,views,home=False,transparent=False):
         W,H=(1024,1740) if home else (640,1410)
-        allim=Image.new('RGB',(W*len(views),H+(0 if home else 62)),PAPER)
+        allim=Image.new('RGBA' if transparent else 'RGB',(W*len(views),H+(0 if home else 62)),(0,0,0,0) if transparent else PAPER)
         for n,view in enumerate(views):
-            img,z,project=self.frame(view,[],W,H,True)
+            img,z,project=self.frame(view,[],W,H,True,transparent=transparent)
             if home:
                 # The overview follows the clothed figure in the design. Plot routes last.
                 def xy(x,y): return tuple(project([float(x),float(y),0.])[:2])

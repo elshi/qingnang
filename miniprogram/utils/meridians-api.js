@@ -1,4 +1,5 @@
 const { request } = require('./request');
+const { loadOverview, withMeridianPlates } = require('./legacy-atlas');
 
 function queryString(params = {}) {
   const query = Object.keys(params)
@@ -18,11 +19,18 @@ function getMeridians(params = {}) {
   return catalogRequest(`/api/meridians${queryString(params)}`);
 }
 
-function getMeridianDetail(id) {
-  return catalogRequest(`/api/meridians/${encodeURIComponent(id)}`);
+async function getMeridianDetail(id) {
+  return withMeridianPlates(await catalogRequest(`/api/meridians/${encodeURIComponent(id)}`));
 }
 
-function getMeridianAtlas() { return catalogRequest('/api/meridian-atlas'); }
+async function getMeridianAtlas() {
+  try {
+    return await catalogRequest('/api/meridian-atlas');
+  } catch (error) {
+    if (!error.missingAtlasRoute) throw error;
+    return loadOverview(getMeridians);
+  }
+}
 
 function resolveAtlasItem(groups, value) {
   const raw = String(value == null ? '' : value);

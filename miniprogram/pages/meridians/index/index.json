@@ -1,4 +1,4 @@
 {
- "navigationBarTitleText": "经络", "disableScroll": true,
+ "navigationBarTitleText": "经络", "disableScroll": false,
  "usingComponents": { "custom-nav": "/components/custom-nav/custom-nav", "meridian-viewer": "/components/meridian-viewer/index", "app-tab-bar": "/custom-tab-bar/index" }
 }

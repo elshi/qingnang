@@ -8,6 +8,8 @@ const meridianUtils = require('../../miniprogram/utils/meridians');
 const locationUtils = require('../../miniprogram/utils/acupoint-location');
 const channels = require('../../database/atlas/channels.json');
 const graphics = require('../../database/atlas/graphics.json');
+const legacyAtlas = require('../../miniprogram/utils/legacy-atlas');
+const { atlasImageBase } = require('../../miniprogram/utils/cloud-config');
 function atlasTransport({ platform = 'devtools', version = 'develop', preference = '', local, cloud }) {
   const mod = { exports: {} };
   const wx = {
@@ -52,12 +54,63 @@ test('mobile, release and explicitly cloud-only atlas reads use cloud even with 
   }
 });
 
+test('a phone with the old backend opens both charts using live database IDs', async () => {
+  const rows = channels.map((channel, index) => ({ id: 800 - index, title: channel.title })).reverse();
+  const paths = [];
+  let response = { statusCode: 404, data: {} };
+  const request = atlasTransport({ platform: 'ios', cloud(options) {
+    paths.push(options.path);
+    options.success(options.path === '/api/meridian-atlas' ? response : {
+      statusCode: 200, data: { code: 0, data: { items: rows, has_more: false } }
+    });
+  } });
+  const mod = { exports: {} };
+  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/meridians-api.js'), 'utf8'), {
+    module: mod, require: name => name === './request' ? { request } : legacyAtlas
+  });
+  const { groups } = await mod.exports.getMeridianAtlas();
+  assert.deepEqual(paths, ['/api/meridian-atlas', '/api/meridians?page_size=50&page=1']);
+  assert.deepEqual(groups.map(group => group.items.length), [12, 8]);
+  for (const group of groups) {
+    assert.equal(group.image.preview_url, atlasImageBase + graphics.groups[group.key].preview);
+    for (const item of group.items) assert.equal(item.id, rows.find(row => row.title === item.title).id);
+  }
+  const current = { groups: [{ key: 'from-server' }] };
+  response = { statusCode: 200, data: { code: 0, data: current } };
+  assert.equal(await mod.exports.getMeridianAtlas(), current);
+  response = { statusCode: 503, data: { errorMsg: 'service unavailable' } };
+  await assert.rejects(mod.exports.getMeridianAtlas(), /service unavailable/);
+  assert.deepEqual(paths.slice(2), ['/api/meridian-atlas', '/api/meridian-atlas']);
+});
+
+test('the bundled index matches the published catalog and cross-meridian links use paged live IDs', async () => {
+  const bundled = require('../../miniprogram/utils/atlas-catalog');
+  assert.deepEqual(bundled.groups, graphics.groups);
+  assert.deepEqual(bundled.extras, require('../../database/atlas/extra-graphics.json'));
+  assert.deepEqual(bundled.channels, channels.map(channel => ({ ...channel, plates: graphics.channels[channel.key] })));
+  const detail = legacyAtlas.withMeridianPlates({ id: 88, title: '带脉' });
+  assert.equal(detail.plates[1].full_url, atlasImageBase + graphics.channels.dai[1].full);
+  assert.equal(legacyAtlas.withMeridianPlates(detail), detail);
+  const pages = [
+    [{ id: 901, code: 'GB28', name: '维道' }],
+    [{ id: 208, code: 'GB26', name: '带脉' }, { id: 155, code: 'GB27', name: '五枢' }]
+  ];
+  const result = await legacyAtlas.loadChannelPoints('dai', async ({ channel, page }) => {
+    assert.equal(channel, undefined);
+    return { items: pages[page - 1], has_more: page === 1 };
+  });
+  assert.deepEqual(result.items.map(point => point.id), [208, 155, 901]);
+  assert.equal(legacyAtlas.withPointPlate(result.items[0]).atlas_plate.full_url,
+    atlasImageBase + graphics.channels.gallbladder.find(plate => plate.codes.includes('GB26')).full);
+});
+
 const groups = ['regular', 'extraordinary'].map(key => ({
   key, image: {preview_url:'https://cdn.example/'+key}, items: channels.map((c,id)=>({...c,id})).filter(c=>c.group===key)
 }));
 
 function pageContext(file, modules = {}) {
-  modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, 'acupoint-location': locationUtils, ...modules };
+  modules = { 'content-share': require('../../miniprogram/utils/content-share'), 'learning-store': {}, 'acupoint-location': locationUtils,
+    'legacy-atlas': legacyAtlas, ...modules };
   let definition; const navigation = []; const toasts = []; const previews = [];
   const assetModule = { exports: {} };
   vm.runInNewContext(fs.readFileSync(path.join(root,'miniprogram/utils/atlas-images.js'),'utf8'),{
@@ -235,7 +288,7 @@ test('catalog API helpers encode queries and IDs and translate transport failure
   async function loadApi(file) {
     const calls=[];let failure='';const module={exports:{}};
     vm.runInNewContext(fs.readFileSync(path.join(root,file),'utf8'), {
-      module,require:()=>({request:async({path:requestPath})=>{calls.push(requestPath);if(failure)throw Error(failure);return {items:[]};}})
+      module,require:name=>name==='./legacy-atlas' ? legacyAtlas : {request:async({path:requestPath})=>{calls.push(requestPath);if(failure)throw Error(failure);return {items:[]};}}
     });
     return {api:module.exports,calls,setFailure:(value)=>{failure=value;}};
   }

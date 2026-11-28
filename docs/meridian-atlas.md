@@ -12,6 +12,8 @@
 
 ## 发布顺序
 
+手机请求图谱目录时，如果云托管返回缺少路由的 404，小程序会从原有经脉接口取得真实 ID，用随包图版索引加载对象存储中的图片。详情中的穴位 ID 也由现网接口取得。图片根路径配置在 `miniprogram/utils/cloud-config.js` 的 `atlasImageBase`，图片域名需加入 downloadFile 合法域名。新版图谱接口可用时优先使用服务返回的数据和图片地址。更新 `database/atlas/` 中的图谱后，运行 `node scripts/meridians/build-client-atlas.cjs` 重新生成小程序索引。
+
 微信开发者工具的 develop 模拟器默认从本机 `https://localhost:8843` 读取经络目录、经脉及穴位详情。本机连接失败时自动尝试云托管。在控制台执行 `wx.setStorageSync('qingnang.atlas.local', false)` 可单独测试云端，设为 `true` 可单独测试本机。`wx.removeStorageSync('qingnang.atlas.local')` 恢复自动选择。手机预览、体验版与正式版均使用云托管。
 
 1. 解压到新的发布目录，配置 Laravel 的 `APP_KEY`、`APP_URL` 与 `ASSET_URL`。地址示例为 `https://api.example.cn`。图片域名须支持公网 HTTPS、有效证书和匿名读取，并加入微信公众平台的小程序 downloadFile 合法域名；使用 wx.request 时也要配置 request 域名。开发库与正式库分别配置。后端容器使用现有 Dockerfile，构建上下文为发布目录根。
