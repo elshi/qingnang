@@ -27,7 +27,9 @@ async function getMeridianAtlas() {
   try {
     return await catalogRequest('/api/meridian-atlas');
   } catch (error) {
-    if (!error.missingAtlasRoute) throw error;
+    // A partially deployed atlas must not hide the still-available base catalog.
+    const unavailable = error.status >= 500 && error.status < 600;
+    if (!error.missingAtlasRoute && !unavailable) throw error;
     return loadOverview(getMeridians);
   }
 }

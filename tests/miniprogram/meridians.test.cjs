@@ -78,9 +78,40 @@ test('a phone with the old backend opens both charts using live database IDs', a
   const current = { groups: [{ key: 'from-server' }] };
   response = { statusCode: 200, data: { code: 0, data: current } };
   assert.equal(await mod.exports.getMeridianAtlas(), current);
-  response = { statusCode: 503, data: { errorMsg: 'service unavailable' } };
-  await assert.rejects(mod.exports.getMeridianAtlas(), /service unavailable/);
-  assert.deepEqual(paths.slice(2), ['/api/meridian-atlas', '/api/meridian-atlas']);
+  assert.deepEqual(paths.slice(2), ['/api/meridian-atlas']);
+  for (const statusCode of [500, 502, 503, 504]) {
+    paths.length = 0;
+    response = { statusCode, data: { errorMsg: 'service unavailable' } };
+    const fallback = await mod.exports.getMeridianAtlas();
+    assert.deepEqual(fallback.groups, groups);
+    assert.deepEqual(paths, ['/api/meridian-atlas', '/api/meridians?page_size=50&page=1']);
+  }
+  for (const statusCode of [401, 403, 404, 422]) {
+    paths.length = 0;
+    response = { statusCode, data: { errorMsg: 'request rejected' } };
+    await assert.rejects(mod.exports.getMeridianAtlas(), /request rejected/);
+    assert.deepEqual(paths, ['/api/meridian-atlas']);
+  }
+});
+
+test('an unavailable atlas does not invent IDs or loop when the base catalog also fails', async () => {
+  for (const catalog of [
+    { statusCode: 503, data: { errorMsg: 'catalog unavailable' } },
+    { statusCode: 200, data: { code: 0, data: { items: [], has_more: false } } }
+  ]) {
+    const paths = [];
+    const request = atlasTransport({ platform: 'ios', cloud(options) {
+      paths.push(options.path);
+      options.success(options.path === '/api/meridian-atlas'
+        ? { statusCode: 503, data: { errorMsg: 'atlas unavailable' } } : catalog);
+    } });
+    const mod = { exports: {} };
+    vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/meridians-api.js'), 'utf8'), {
+      module: mod, require: name => name === './request' ? { request } : legacyAtlas
+    });
+    await assert.rejects(mod.exports.getMeridianAtlas(), /catalog unavailable|云端经络目录缺少/);
+    assert.deepEqual(paths, ['/api/meridian-atlas', '/api/meridians?page_size=50&page=1']);
+  }
 });
 
 test('the bundled index matches the published catalog and cross-meridian links use paged live IDs', async () => {
