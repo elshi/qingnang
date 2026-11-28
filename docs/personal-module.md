@@ -27,8 +27,22 @@
 | POST /api/personal/import | 幂等导入最多20条旧本机记录，不覆盖远程版本和删除标记 |
 | POST /api/personal/uploads | 签发单张私有反馈截图上传凭证，5分钟有效、最大5MB |
 | POST /api/personal/feedback | 提交文字、可选联系方式及最多3张已上传截图引用 |
+| GET /api/comments?type=…&id=…&chapterId=… | 游客分页查看公开点评；chapterId 仅用于医书章节 |
+| GET /api/personal/comments?type=…&id=…&chapterId=… | 登录后查看点评，并标记自己的点评 |
+| POST /api/personal/comments | 发表点评：type、id、章节的chapterId、content（1–1000字）、submissionId；相同提交编号幂等 |
+| DELETE /api/personal/comments/{id} | 删除自己的点评；重复删除幂等 |
 
-除创建会话外，所有接口须携带 Authorization: Bearer <token>。客户端不提交openid；AppSecret、微信session_key和腾讯云ASR密钥不会返回客户端。录音只用于本次识别，不写入记录或对象存储。
+除创建会话和游客查看点评外，所有接口须携带 Authorization: Bearer <token>。客户端不提交openid；AppSecret、微信session_key和腾讯云ASR密钥不会返回客户端。录音只用于本次识别，不写入记录或对象存储。
+
+2026-11-28 新增公开点评：覆盖医书章节、医案、经方、经络和穴位详情；所有人可查看，登录后可发表及删除自己的点评。列表按时间倒序，每页20条，以 cursor 读取更早记录。公开响应仅包含书友代号，不返回账号ID。点评独立存入 `t_content_comments`，不改变私有笔记。发表失败保留当前输入，重试复用 submissionId；删除后清空正文并保留幂等标记。
+
+上线此功能前，先部署后端并执行新增迁移，再发布小程序：
+
+```powershell
+php artisan migrate --force --path=database/migrations/2026_11_28_000000_create_content_comments.php
+```
+
+运行服务账号需要新表的 SELECT、INSERT、UPDATE 权限。此次代码修改和本地测试不表示云端已部署。
 
 ## 部署到当前云托管环境
 

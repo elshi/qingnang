@@ -16,6 +16,7 @@
 .voice-button--active { color:#a44735; }
 .speech-preview { margin-top:16rpx; padding:14rpx; border-radius:7rpx; background:#f3ecdf; white-space:pre-wrap; }
 .draft-status { margin-top:18rpx; }
+.save-note { margin-top:24rpx; padding:22rpx; font-size:30rpx; }
 .delete-note { margin-top:48rpx; color:#a06652; font-size:23rpx; padding:16rpx; }
 .picker-mask { position:fixed; inset:0; z-index:200; display:flex; align-items:flex-end; background:rgba(47,36,25,.32); }
 .source-picker { width:100%; background:#f8f3ea; border-radius:18rpx 18rpx 0 0; padding:26rpx 30rpx calc(30rpx + env(safe-area-inset-bottom)); }

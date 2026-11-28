@@ -3,6 +3,7 @@
   "disableScroll": true,
   "usingComponents": {
     "custom-nav": "/components/custom-nav/custom-nav",
-    "learning-actions": "/components/learning-actions/index"
+    "learning-actions": "/components/learning-actions/index",
+    "content-comments": "/components/content-comments/index"
   }
 }

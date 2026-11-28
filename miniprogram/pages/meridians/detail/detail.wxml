@@ -42,6 +42,7 @@
       <learning-actions type="meridian" item="{{item}}" />
       <view wx:if="{{item.atlas_credit}}" class="credit">{{item.atlas_credit}}</view>
       <view class="disclaimer">{{disclaimer}}</view>
+      <content-comments type="meridian" item="{{item}}" />
     </block>
   </scroll-view>
 </view>

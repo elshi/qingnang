@@ -34,6 +34,7 @@
           </view>
         </view>
         <view class="chapter-end">本章完</view>
+        <content-comments type="chapter" item="{{book}}" chapter="{{chapter}}" />
       </view>
       <view wx:elif="{{!chapters.length}}" class="reader-state">暂无章节内容</view>
     </block>

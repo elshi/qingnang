@@ -2,6 +2,7 @@
   "navigationBarTitleText": "医书阅读",
   "disableScroll": true,
   "usingComponents": {
-    "learning-actions": "/components/learning-actions/index"
+    "learning-actions": "/components/learning-actions/index",
+    "content-comments": "/components/content-comments/index"
   }
 }

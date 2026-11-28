@@ -38,6 +38,7 @@
       <view wx:if="{{!sections.length}}" class="detail-card detail-content">暂无详细内容</view>
       <view wx:if="{{item.review}}" class="detail-card"><view class="detail-card__title">校订出处</view><text class="detail-content" user-select="{{true}}">{{item.review.reference}} {{item.review.section}}</text></view>
       <view class="disclaimer">{{disclaimer}}</view>
+      <content-comments type="acupoint" item="{{item}}" />
     </block>
   </scroll-view>
 </view>

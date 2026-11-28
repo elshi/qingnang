@@ -1,0 +1,18 @@
+<view wx:if="{{ref}}" class="comments" catchtap="noop">
+  <view class="comments-heading"><text>点评</text><text class="comments-count">{{total}} 条</text></view>
+  <view class="comments-hint">分享你的阅读心得，点评公开展示</view>
+  <block wx:if="{{loggedIn}}">
+    <textarea class="comment-input" value="{{content}}" bindinput="input" placeholder="写下你对这篇内容的理解与思考…" placeholder-class="comment-placeholder" maxlength="1000" auto-height="{{true}}" cursor-spacing="120" show-confirm-bar="{{false}}" disabled="{{submitting}}" />
+    <view class="comment-compose-footer"><text class="comments-hint">{{content.length}} / 1000</text><button class="comment-submit" bindtap="submit" loading="{{submitting}}" disabled="{{submitting || deleting}}">{{submitting ? '正在发表…' : '发表点评'}}</button></view>
+  </block>
+  <button wx:else class="comment-login" bindtap="login" loading="{{submitting}}" disabled="{{submitting}}">微信登录后点评</button>
+  <view wx:if="{{submitError}}" class="comments-error">{{submitError}}</view>
+  <view wx:for="{{items}}" wx:key="id" class="comment">
+    <view class="comment-meta"><text class="comment-author">{{item.mine ? '我' : item.author}}</text><text class="comment-date">{{item.dateLabel}}</text><button wx:if="{{item.mine}}" class="comment-delete" data-id="{{item.id}}" bindtap="remove" disabled="{{submitting || deleting}}">{{deleting === item.id ? '请稍候…' : '删除'}}</button></view>
+    <text class="comment-content" user-select="{{true}}">{{item.content}}</text>
+  </view>
+  <view wx:if="{{error}}" class="comments-status comments-error"><text>{{error}}</text><button class="comments-more" bindtap="retry" disabled="{{loading}}">重试</button></view>
+  <view wx:elif="{{loading}}" class="comments-status">正在加载点评…</view>
+  <view wx:elif="{{!items.length}}" class="comments-status">暂无点评，来分享第一条心得吧</view>
+  <button wx:elif="{{cursor}}" class="comments-more" bindtap="more" disabled="{{submitting || deleting}}">查看更多点评</button>
+</view>

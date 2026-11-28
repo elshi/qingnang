@@ -328,9 +328,30 @@ async function uploadImage(path) {
   return ticket.fileID;
 }
 async function submitFeedback(feedback) { await requireLogin(); return api('feedback', 'POST', feedback); }
+function commentTarget(ref) {
+  if (!ref || !TYPES[ref.type]) throw new Error('内容尚未加载');
+  return { type: ref.type, id: ref.id, ...(ref.type === 'chapter' ? { chapterId: ref.chapterId } : {}) };
+}
+function listComments(ref, cursor = '') {
+  const target = commentTarget(ref);
+  const query = Object.entries({ ...target, ...(cursor ? { cursor } : {}) })
+    .map(([key, value]) => key + '=' + encodeURIComponent(value)).join('&');
+  return account() ? api('comments?' + query) : request({ path: '/api/comments?' + query });
+}
+async function saveComment(ref, content, submissionId) {
+  const user = account();
+  if (!user) throw new Error('请先微信登录后再点评');
+  return api('comments', 'POST', { ...commentTarget(ref), content, submissionId }, user);
+}
+async function deleteComment(id) {
+  const user = account();
+  if (!user) throw new Error('请先微信登录后再操作');
+  return api('comments/' + encodeURIComponent(id), 'DELETE', {}, user);
+}
 module.exports = { TYPES, FILTERS, account, scope, id, reference, refKey, category, sourceLabel, matches, records, relatedNotes,
   isFavorite, toggleFavorite, visit, clearHistory, saveNote, remove, getDraft, setDraft, saveDraft, clearDraft,
-  route, open, editNote, dateLabel, historyGroups, login, requireLogin, logout, synchronize, syncQuietly, uploadImage, submitFeedback, transcribe, dismissConflict };
+  route, open, editNote, dateLabel, historyGroups, login, requireLogin, logout, synchronize, syncQuietly, uploadImage, submitFeedback, transcribe, dismissConflict,
+  listComments, saveComment, deleteComment };
 function route(ref, progress = {}) {
   if (!ref || !TYPES[ref.type]) throw new Error('关联内容不可用');
   const paths = {
