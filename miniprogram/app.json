@@ -51,10 +51,5 @@
   },
   "style": "v2",
   "lazyCodeLoading": "requiredComponents",
-  "sitemapLocation": "sitemap.json",
-  "permission": {
-    "scope.record": {
-      "desc": "将你主动输入的语音识别为笔记文字，不保存录音附件"
-    }
-  }
+  "sitemapLocation": "sitemap.json"
 }

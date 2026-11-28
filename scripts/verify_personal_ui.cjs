@@ -1,5 +1,5 @@
 // Offline UI acceptance only. This creates an isolated temporary project with a fake API.
-// No production data, login service, speech service, or feedback endpoint is used.
+// No production data, login service, or feedback endpoint is used.
 const automator = require('miniprogram-automator');
 const fs = require('node:fs');
 const path = require('node:path');
@@ -23,7 +23,6 @@ const appConfig = JSON.parse(fs.readFileSync(path.join(project, 'app.json'), 'ut
 delete appConfig.plugins; // Visual tests must run independently of provider authorization.
 fs.writeFileSync(path.join(project, 'app.json'), JSON.stringify(appConfig));
 fs.writeFileSync(path.join(project, 'app.js'), 'App({ onLaunch(){}, getDisclaimer(){ return "仅供学习参考"; } });');
-fs.writeFileSync(path.join(project, 'utils/speech-input.js'), 'module.exports.start = function(){ throw new Error("离线界面验收不调用真实语音服务"); };');
 fs.writeFileSync(path.join(project, 'utils/request.js'), 'const records = ' + JSON.stringify(fixtures) + ';\n' +
   'const user = ' + JSON.stringify(user) + ';\n' +
   'module.exports.request = ' + (async function(options) {
@@ -93,7 +92,6 @@ const watchdog = setTimeout(() => { console.error('UI acceptance timed out'); pr
   page = await mini.navigateTo('/pages/notes/index/index'); await page.waitFor('.note-row'); await shot('notes');
   page = await mini.navigateTo('/pages/notes/editor/editor?key=note%3Aqa');
   await page.waitFor(async () => !(await page.data()).busy);
-  assert.equal(await (await page.$('.voice-button')).text(), '语音转文字');
   await (await page.$('.editor-content')).input('今天读到食饮有节、起居有常，结合前后文再理解一遍。');
   await page.waitFor(async () => (await page.data()).draftStatus === '草稿已保存到云端');
   await shot('editor');
@@ -104,7 +102,7 @@ const watchdog = setTimeout(() => { console.error('UI acceptance timed out'); pr
   page = await mini.navigateTo('/pages/history/index/index'); await page.waitFor('.personal-row'); await shot('history');
   page = await mini.navigateTo('/pages/feedback/index/index'); await shot('feedback');
   await page.callMethod('submit'); assert.match(await page.data('error'), /至少5个字/);
-  const report = { mockedCloud: true, actualLoginVerified: false, actualSpeechVerified: false,
+  const report = { mockedCloud: true, actualLoginVerified: false,
     checks: ['个人中心标题与登录布局', '医案Tab等宽居中且位于收藏行上方', '原文/解析切换', '收藏与笔记列表', '草稿状态、保存与返回', '历史记录与反馈校验'], exceptions: errors };
   fs.writeFileSync(path.join(folder, 'verification.json'), JSON.stringify(report, null, 2));
   assert.equal(errors.length, 0, JSON.stringify(errors));

@@ -41,7 +41,6 @@ Route::prefix('personal')->middleware(\App\Http\Middleware\PersonalSession::clas
     Route::delete('/session', 'PersonalController@logout');
     Route::get('/records', 'PersonalController@index');
     Route::post('/records', 'PersonalController@save');
-    Route::post('/speech/recognize', 'PersonalSpeechController@recognize')->middleware('throttle:10,1,speech:');
     Route::delete('/history', 'PersonalController@clearHistory');
     Route::post('/import', 'PersonalController@import');
     Route::post('/uploads', 'PersonalController@upload');

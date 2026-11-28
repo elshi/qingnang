@@ -21,8 +21,7 @@ class CheckPersonal extends Command
         }
         $this->line('Database connection: ' . config('database.default'));
         try {
-            foreach (['users', 'sessions', 'records', 'feedback'] as $name) {
-                $table = 't_personal_' . $name;
+            foreach (['t_personal_users', 't_personal_sessions', 't_personal_records', 't_personal_feedback', 't_content_comments'] as $table) {
                 $exists = Schema::hasTable($table);
                 $this->line($table . ': ' . ($exists ? 'ready' : 'MISSING'));
                 $ready = $ready && $exists;
@@ -34,9 +33,7 @@ class CheckPersonal extends Command
         $images = true;
         foreach (['cos_bucket', 'cos_region', 'cos_secret_id', 'cos_secret_key'] as $setting) $images = $images && (bool) config('personal.' . $setting);
         $this->line('Private screenshot storage: ' . ($images ? 'configured' : 'MISSING (text feedback remains available)'));
-        $speech = (bool) config('services.tencent_asr.secret_id') && (bool) config('services.tencent_asr.secret_key');
-        $this->line('Tencent Cloud speech recognition: ' . ($speech ? 'configured' : 'MISSING'));
-        $this->line('Also verify runtime INSERT/UPDATE/DELETE privileges and activate Tencent Cloud ASR.');
-        return $ready && $images && $speech ? 0 : 1;
+        $this->line('Also verify runtime INSERT/UPDATE/DELETE privileges.');
+        return $ready && $images ? 0 : 1;
     }
 }

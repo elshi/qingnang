@@ -17,7 +17,7 @@ function harness(file, modules = {}, wxExtra = {}, stack = [{}]) {
     'chapter-reading': { readingGroups },
     'search': require('../../miniprogram/utils/search'),
     'books-api': {}, 'cases-api': {}, 'prescriptions-api': {}, 'meridians-api': {}, 'acupoints-api': {},
-    'learning-store': {}, 'speech-input': {}, 'meridians': require('../../miniprogram/utils/meridians'),
+    'learning-store': {}, 'meridians': require('../../miniprogram/utils/meridians'),
     'acupoint-location': require('../../miniprogram/utils/acupoint-location'), ...modules
   };
   vm.runInNewContext(fs.readFileSync(path.join(root, file), 'utf8'), {

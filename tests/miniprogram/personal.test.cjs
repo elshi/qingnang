@@ -76,10 +76,10 @@ function harness(backend = server()) {
   return { store: module.exports, wx, storage, routes, toasts, backend,
     intercept(fn) { interceptor = fn; }, confirm(value) { confirm = value; } };
 }
-function editor(h, speech) {
+function editor(h) {
   let definition;
   vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/pages/notes/editor/editor.js'), 'utf8'), {
-    Page: value => definition = value, require: name => name.includes('speech-input') ? speech : h.store,
+    Page: value => definition = value, require: () => h.store,
     wx: h.wx, getCurrentPages: () => [{}, {}], Date, Set, console, setTimeout, clearTimeout
   });
   return { ...definition, data: clone(definition.data), setData(value) { Object.assign(this.data, value); } };
@@ -241,47 +241,9 @@ test('legacy import repairs negative reading positions', async () => {
   assert.equal(imported.data.records[0].scrollTop, 0);
 });
 
-test('speech sends temporary audio for recognition, returns only text, and removes the temporary file', async () => {
-  const callbacks = {}, removed = [], calls = [], module = { exports: {} };
-  const engine = {
-    start(options) { calls.push(options); }, stop() {},
-    onStart(fn) { callbacks.start = fn; }, onStop(fn) { callbacks.stop = fn; }, onError(fn) { callbacks.error = fn; }
-  };
-  const wx = { getRecorderManager: () => engine, getFileSystemManager: () => ({
-    readFile(options) { options.success({ data: 'YXVkaW8=' }); },
-    unlink(options) { removed.push(options.filePath); }
-  }) };
-  const transcribed = [];
-  vm.runInNewContext(fs.readFileSync(path.join(root, 'miniprogram/utils/speech-input.js'), 'utf8'), {
-    module, wx, Date, Promise,
-    require: () => ({ async transcribe(audio, duration) { transcribed.push({ audio, duration }); return { text: '饮食有节。' }; } })
-  });
-  const complete = [];
-  const session = module.exports.start({ onComplete: value => complete.push(value) });
-  assert.equal(calls[0].format, 'mp3'); assert.equal(calls[0].duration, 60000);
-  session.stop(); callbacks.stop({ tempFilePath: 'wxfile://tmp/voice.mp3' });
-  await new Promise(resolve => setImmediate(resolve));
-  assert.equal(transcribed[0].audio, 'YXVkaW8=');
-  assert.deepEqual(complete, ['饮食有节。']);
-  assert.deepEqual(removed, ['wxfile://tmp/voice.mp3']);
-  const cancelled = module.exports.start({ onComplete: value => complete.push(value) });
-  cancelled.cancel(); callbacks.stop({ tempFilePath: 'wxfile://tmp/cancel.mp3' });
-  await new Promise(resolve => setImmediate(resolve));
-  assert.equal(transcribed.length, 1);
-  assert.deepEqual(removed, ['wxfile://tmp/voice.mp3', 'wxfile://tmp/cancel.mp3']);
-});
-test('editor inserts recognized text at cursor without saving an audio attachment', async () => {
-  const h = harness(); await h.store.login(); let callbacks;
-  const page = editor(h, { start(value) { callbacks = value; return { cancel() {}, stop() {} }; } });
-  await page.onLoad(); page.setData({ content: '今天阅读。' }); page.cursor = 2;
-  page.record(); callbacks.onPartial('经典'); assert.equal(page.data.content, '今天阅读。');
-  callbacks.onComplete('经典'); assert.equal(page.data.content, '今天经典阅读。');
-  assert.equal(page.note().audio, undefined);
-  page.onUnload();
-});
 test('editor save failures retain text and never announce success', async () => {
   const h = harness(); await h.store.login();
-  const page = editor(h, {}); await page.onLoad(); page.setData({ title: '札记', content: '需要保留的正文' });
+  const page = editor(h); await page.onLoad(); page.setData({ title: '札记', content: '需要保留的正文' });
   h.intercept((options, request) => { if (options.path.endsWith('/records') && options.method === 'POST') throw Error('服务器不可用'); return request(options); });
   await page.save();
   assert.equal(page.data.busy, false); assert.equal(page.data.content, '需要保留的正文');
@@ -303,7 +265,7 @@ test('personal requests cannot fall back to a local database on server 404', asy
 });
 test('editor preserves input when both server and local recovery storage fail', async () => {
   const h = harness(); await h.store.login();
-  const page = editor(h, {}); await page.onLoad(); page.setData({ title: '札记', content: '不要丢失的正文' });
+  const page = editor(h); await page.onLoad(); page.setData({ title: '札记', content: '不要丢失的正文' });
   const write = h.wx.setStorageSync;
   h.wx.setStorageSync = (key, value) => { if (key.includes(':draft:')) throw Error('disk full'); write(key, value); };
   h.intercept((options, request) => { if (options.method === 'POST') throw Error('网络中断'); return request(options); });

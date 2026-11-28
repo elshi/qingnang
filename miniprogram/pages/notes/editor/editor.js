@@ -1,7 +1,6 @@
 const store = require('../../../utils/learning-store');
-const speech = require('../../../utils/speech-input');
 Page({
-  data: { key: '', title: '', content: '', ref: null, refLabel: '', recognizing: false, speechProcessing: false, speechText: '',
+  data: { key: '', title: '', content: '', ref: null, refLabel: '',
     busy: true, draftStatus: '', error: '', conflict: false, pickerOpen: false, choices: [], choiceKeyword: '' },
   async onLoad(options = {}) {
     try { await store.requireLogin(); } catch (error) { this.setData({ error: error.message }); return; }
@@ -23,7 +22,6 @@ Page({
     this.setData({ key, title: value.title || '', content: value.content || '', ref: value.ref || null,
       refLabel: this.label(value.ref), busy: false, draftStatus: draft ? '已恢复草稿' : '',
       conflict: Boolean(saved && this.version !== saved.version) });
-    this.cursor = this.data.content.length;
     this.initial = JSON.stringify(this.note());
   },
   label(ref) { return ref ? [ref.source, ref.title].filter(Boolean).join(' · ') : '选择要关联的经典原文'; },
@@ -31,10 +29,8 @@ Page({
     ref: this.data.ref, createdAt: this.createdAt }; },
   input(event) {
     this.setData({ [event.currentTarget.dataset.field]: event.detail.value, error: '' });
-    if (event.currentTarget.dataset.field === 'content') this.cursor = event.detail.cursor ?? event.detail.value.length;
     this.persist();
   },
-  rememberCursor(event) { this.cursor = event.detail.cursor ?? this.data.content.length; },
   persist() {
     if (this.missing || this.saved || !this.initial || this.owner !== store.scope()) return;
     if (JSON.stringify(this.note()) === this.initial) return;
@@ -59,7 +55,6 @@ Page({
   },
   async save() {
     if (this.data.busy || this.missing) return;
-    if (this.data.recognizing) { this.setData({ error: '请先结束语音识别' }); return; }
     if (this.owner !== store.scope()) { this.setData({ error: '登录状态已变更，请重新打开笔记' }); return; }
     this.setData({ busy: true, error: '' });
     clearTimeout(this.draftTimer);
@@ -124,30 +119,6 @@ Page({
   closePicker() {
     this.setData({ pickerOpen: false });
   },
-  record() {
-    if (this.data.busy) return;
-    if (this.data.recognizing) { if (!this.data.speechProcessing) this.speechSession?.stop(); return; }
-    const original = this.data.content;
-    const cursor = Math.max(0, Math.min(this.cursor ?? original.length, original.length));
-    this.setData({ recognizing: true, speechProcessing: false, speechText: '', error: '' });
-    try {
-      this.speechSession = speech.start({
-        onPartial: text => this.update({ speechText: text }),
-        onProcessing: () => this.update({ speechProcessing: true, speechText: '正在转换文字…' }),
-        onComplete: text => {
-          if (this.disposed) return;
-          if (!text) { this.update({ recognizing: false, speechProcessing: false, speechText: '', error: '没有识别到文字，请再试一次' }); return; }
-          const available = Math.max(0, 20000 - original.length);
-          const inserted = text.slice(0, available);
-          this.update({ content: original.slice(0, cursor) + inserted + original.slice(cursor), recognizing: false, speechProcessing: false, speechText: '',
-            error: text.length > available ? '正文已达长度上限，请整理后继续输入' : '' });
-          this.cursor = cursor + inserted.length;
-          this.persist();
-        },
-        onError: error => this.update({ recognizing: false, speechProcessing: false, speechText: '', error: error.message })
-      });
-    } catch (error) { this.setData({ recognizing: false, speechProcessing: false, error: error.message }); }
-  },
   deleteNote() {
     if (!this.data.key || this.data.busy) return;
     wx.showModal({ title: '删除笔记', content: '删除后无法恢复，确定删除这篇笔记吗？', confirmColor: '#a77936',
@@ -166,8 +137,6 @@ Page({
     });
   },
   onHide() {
-    this.speechSession?.cancel();
-    this.update({ recognizing: false, speechProcessing: false, speechText: '' });
     this.flushDraft();
   },
   onShow() {

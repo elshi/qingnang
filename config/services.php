@@ -30,9 +30,4 @@ return [
         'region' => env('AWS_DEFAULT_REGION', 'us-east-1'),
     ],
 
-    'tencent_asr' => [
-        'secret_id' => env('TENCENT_ASR_SECRET_ID'),
-        'secret_key' => env('TENCENT_ASR_SECRET_KEY'),
-    ],
-
 ];
